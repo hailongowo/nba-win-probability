@@ -2,7 +2,7 @@ import re
 import pandas as pd
 import numpy as np
 
-from config import RAW_PBP_DIR, TRAINING_FILE
+from config import RAW_PBP_DIR, RAW_PBP_TESTING_DIR, TRAINING_FILE, TESTING_FILE
 
 
 def parse_pctimestring(pctimestring: str) -> int:
@@ -202,6 +202,48 @@ def build_training_dataset() -> pd.DataFrame:
 
     return training_df
 
+def build_testing_dataset() -> pd.DataFrame:
+    """
+    Build testing dataset from 2025-26 season downloaded play-by-play files.
+    """
+
+    all_rows = []
+
+    pbp_files = sorted(RAW_PBP_TESTING_DIR.glob("*.csv"))
+
+    print(f"Found {len(pbp_files)} play-by-play files")
+
+    for file_path in pbp_files:
+        game_id = file_path.stem
+
+        try:
+            pbp = pd.read_csv(file_path)
+            rows = build_rows_for_game(pbp, game_id)
+
+            if not rows.empty:
+                all_rows.append(rows)
+
+        except Exception as e:
+            print(f"Failed to process {game_id}: {e}")
+            continue
+
+    if not all_rows:
+        raise ValueError("No training rows were created. Check your play-by-play files.")
+
+    testing_df = pd.concat(all_rows, ignore_index=True)
+
+    # Remove missing and infinite values.
+    testing_df = testing_df.replace([np.inf, -np.inf], np.nan)
+    testing_df = testing_df.dropna()
+
+    testing_df.to_csv(TESTING_FILE, index=False)
+
+    print(f"Saved {len(testing_df)} testing rows to {TESTING_FILE}")
+    print(testing_df.head())
+
+    return testing_df
+
 
 if __name__ == "__main__":
-    build_training_dataset()
+    # build_training_dataset()
+    build_testing_dataset()
