@@ -1,0 +1,485 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22200321,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:11 PM EST),period,start,0,0,1
+22200321,4,PT12M00.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,0,0,0,h,Jump Ball Ayton vs. Vucevic: Tip to Payne,Jump Ball,,1,0,2
+22200321,7,PT11M47.00S,1,1610612756,PHX,1626166,Payne,C. Payne,-59,19,6,Missed,1,0,0,0,h,MISS Payne 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,3
+22200321,8,PT11M44.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22200321,9,PT11M28.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,0,0,0,v,DeRozan Traveling Turnover (P1.T1),Turnover,Traveling,1,0,5
+22200321,10,PT11M12.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,23,27,4,Made,1,2,0,2,h,Ayton 4' Turnaround Hook Shot (2 PTS) (Payne 1 AST),Made Shot,Turnaround Hook Shot,1,2,6
+22200321,12,PT10M59.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,2,0,2,v,Dosunmu Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,7
+22200321,12,PT10M59.00S,1,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,2,0,2,h,Payne STEAL (1 STL),,,1,0,8
+22200321,14,PT10M53.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,-6,11,1,Missed,1,2,0,2,h,MISS Bridges 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,9
+22200321,15,PT10M51.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,2,0,2,h,Ayton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,10
+22200321,16,PT10M51.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,-5,9,1,Made,1,4,0,4,h,Ayton 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,11
+22200321,17,PT10M38.00S,1,1610612741,CHI,1630172,Williams,P. Williams,158,202,26,Missed,1,4,0,4,v,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,12
+22200321,18,PT10M36.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,4,0,4,h,Ayton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,13
+22200321,19,PT10M24.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,-28,93,10,Made,1,6,0,6,h,Bridges 10' Pullup Jump Shot (2 PTS) (Payne 2 AST),Made Shot,Pullup Jump shot,1,2,14
+22200321,21,PT10M10.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,-7,130,13,Made,1,6,2,8,v,DeRozan 13' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,15
+22200321,22,PT09M57.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,7,5,1,Made,1,8,2,10,h,Ayton 1' Cutting Layup Shot (6 PTS) (Payne 3 AST),Made Shot,Cutting Layup Shot,1,2,16
+22200321,24,PT09M47.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,8,2,10,h,Ayton P.FOUL (P1.T1) (E.Malloy),Foul,Personal,1,0,17
+22200321,26,PT09M34.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,-45,201,21,Made,1,8,4,12,v,DeRozan 21' Pullup Jump Shot (4 PTS) (LaVine 1 AST),Made Shot,Pullup Jump shot,1,2,18
+22200321,28,PT09M20.00S,1,1610612756,PHX,1626164,Booker,D. Booker,40,171,18,Missed,1,8,4,12,h,MISS Booker 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,19
+22200321,29,PT09M18.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,8,4,12,v,Vucevic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+22200321,30,PT09M13.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,125,222,25,Missed,1,8,4,12,v,MISS LaVine 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,21
+22200321,31,PT09M13.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,8,4,12,h,Ayton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,22
+22200321,32,PT09M00.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,2,5,1,Missed,1,8,4,12,h,MISS Ayton 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,23
+22200321,33,PT08M58.00S,1,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,8,4,12,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,24
+22200321,34,PT08M51.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,4,18,2,Made,1,8,6,14,v,LaVine 2' Driving Layup (2 PTS) (Dosunmu 1 AST),Made Shot,Driving Layup Shot,1,2,25
+22200321,36,PT08M46.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,-16,-2,2,Missed,1,8,6,14,h,MISS Bridges 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,26
+22200321,36,PT08M46.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,8,6,14,v,DeRozan BLOCK (1 BLK),,,1,2,27
+22200321,38,PT08M46.00S,1,0,,1610612756,,,0,0,0,,0,8,6,14,h,SUNS Rebound,Rebound,Unknown,0,0,28
+22200321,40,PT08M40.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,8,6,14,h,Booker Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,29
+22200321,40,PT08M40.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,8,6,14,v,Vucevic STEAL (1 STL),,,1,0,30
+22200321,42,PT08M35.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,13,1,Missed,1,8,6,14,v,MISS Dosunmu 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,31
+22200321,43,PT08M35.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,8,6,14,v,Vucevic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,32
+22200321,44,PT08M35.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,8,6,14,h,Bridges S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,1,0,33
+22200321,46,PT08M35.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,8,6,14,v,MISS Vucevic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,34
+22200321,47,PT08M35.00S,1,0,,1610612741,,,0,0,0,,0,8,6,14,v,Bulls Rebound,Rebound,Normal Rebound,1,0,35
+22200321,48,PT08M35.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,8,7,15,v,Vucevic Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,36
+22200321,49,PT08M12.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,-112,38,12,Made,1,10,7,17,h,Ayton 12' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,1,2,37
+22200321,50,PT07M55.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,27,53,6,Made,1,10,9,19,v,Vucevic 6' Turnaround Hook Shot (3 PTS) (LaVine 2 AST),Made Shot,Turnaround Hook Shot,1,2,38
+22200321,52,PT07M38.00S,1,1610612756,PHX,1626166,Payne,C. Payne,229,16,0,Made,1,13,9,22,h,Payne 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,39
+22200321,54,PT07M24.00S,1,1610612741,CHI,1630172,Williams,P. Williams,-2,167,17,Missed,1,13,9,22,v,MISS Williams 17' Jump Shot,Missed Shot,Jump Shot,1,2,40
+22200321,55,PT07M21.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,13,9,22,h,Booker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+22200321,56,PT07M15.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,-7,-4,1,Made,1,15,9,24,h,Ayton 1' Cutting Layup Shot (10 PTS) (Booker 1 AST),Made Shot,Cutting Layup Shot,1,2,42
+22200321,58,PT07M15.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,15,9,24,v,Vucevic S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,1,0,43
+22200321,60,PT07M15.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,16,9,25,h,Ayton Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,44
+22200321,61,PT06M58.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-17,78,8,Made,1,16,11,27,v,Vucevic 8' Turnaround Hook Shot (5 PTS),Made Shot,Turnaround Hook Shot,1,2,45
+22200321,62,PT06M44.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,-11,6,1,Missed,1,16,11,27,h,MISS Ayton 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,46
+22200321,62,PT06M44.00S,1,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,16,11,27,v,Williams BLOCK (1 BLK),,,1,2,47
+22200321,64,PT06M42.00S,1,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,16,11,27,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,48
+22200321,65,PT06M36.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,7,10,1,Made,1,16,13,29,v,DeRozan 1' Cutting Dunk Shot (6 PTS) (LaVine 3 AST),Made Shot,Cutting Dunk Shot,1,2,49
+22200321,67,PT06M25.00S,1,1610612756,PHX,1626166,Payne,C. Payne,135,59,15,Made,1,18,13,31,h,Payne 15' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,50
+22200321,68,PT06M02.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,1,15,2,Made,1,18,15,33,v,Dosunmu 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,51
+22200321,69,PT05M46.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-7,-5,1,Made,1,20,15,35,h,Booker 1' Driving Layup (2 PTS) (Payne 4 AST),Made Shot,Driving Layup Shot,1,2,52
+22200321,71,PT05M46.00S,1,0,,1610612741,,,0,0,0,,0,20,15,35,v,Bulls Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,53
+22200321,72,PT05M46.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,20,15,35,v,SUB: White FOR Dosunmu,Substitution,,0,0,54
+22200321,73,PT05M46.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,20,15,35,v,SUB: Caruso FOR LaVine,Substitution,,0,0,55
+22200321,76,PT05M29.00S,1,1610612741,CHI,1630172,Williams,P. Williams,121,232,26,Missed,1,20,15,35,v,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+22200321,77,PT05M25.00S,1,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,20,15,35,h,Payne REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+22200321,78,PT05M17.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,20,15,35,h,Ayton OFF.Foul (P2) (M.Ervin),Foul,Offensive,1,0,58
+22200321,80,PT05M17.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,20,15,35,h,Ayton Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,59
+22200321,81,PT05M02.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,20,15,35,v,Vucevic Traveling Turnover (P1.T3),Turnover,Traveling,1,0,60
+22200321,82,PT04M39.00S,1,1610612756,PHX,1626166,Payne,C. Payne,-183,189,26,Missed,1,20,15,35,h,MISS Payne 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+22200321,83,PT04M34.00S,1,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,20,15,35,h,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,62
+22200321,84,PT04M29.00S,1,1610612756,PHX,1628470,Craig,T. Craig,-9,-1,1,Made,1,22,15,37,h,Craig 1' Cutting Layup Shot (2 PTS) (Booker 2 AST),Made Shot,Cutting Layup Shot,1,2,63
+22200321,86,PT04M15.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-7,263,26,Missed,1,22,15,37,v,MISS Vucevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,64
+22200321,87,PT04M13.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,22,15,37,h,Booker REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,65
+22200321,88,PT03M58.00S,1,1610612756,PHX,1628470,Craig,T. Craig,205,137,25,Missed,1,22,15,37,h,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,66
+22200321,89,PT03M55.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,22,15,37,v,Vucevic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,67
+22200321,90,PT03M43.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,-70,64,9,Made,1,22,17,39,v,DeRozan 9' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,68
+22200321,91,PT03M31.00S,1,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,22,17,39,h,Payne Palming Turnover (P1.T3),Turnover,Palming Turnover,1,0,69
+22200321,92,PT03M31.00S,1,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,22,17,39,h,SUB: Biyombo FOR Payne,Substitution,,0,0,70
+22200321,93,PT03M31.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,22,17,39,h,SUB: Shamet FOR Ayton,Substitution,,0,0,71
+22200321,94,PT03M31.00S,1,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,22,17,39,v,SUB: Green FOR Williams,Substitution,,0,0,72
+22200321,98,PT03M19.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,-162,204,26,Made,1,22,20,42,v,Caruso 26' 3PT Jump Shot (3 PTS) (DeRozan 1 AST),Made Shot,Jump Shot,1,3,73
+22200321,100,PT03M08.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-103,103,15,Made,1,24,20,44,h,Booker 15' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,74
+22200321,101,PT03M08.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,24,20,44,v,Caruso S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,1,0,75
+22200321,103,PT03M08.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,24,20,44,h,SUB: Lee FOR Bridges,Substitution,,0,0,76
+22200321,104,PT03M08.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,24,20,44,v,SUB: Dragic FOR White,Substitution,,0,0,77
+22200321,105,PT03M08.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,24,20,44,v,SUB: Drummond FOR Vucevic,Substitution,,0,0,78
+22200321,106,PT03M08.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,24,20,44,v,SUB: LaVine FOR DeRozan,Substitution,,0,0,79
+22200321,111,PT03M08.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,25,20,45,h,Booker Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,80
+22200321,112,PT02M50.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,-65,63,9,Made,1,25,22,47,v,Drummond 9' Hook Shot (2 PTS) (Dragic 1 AST),Made Shot,Hook Shot,1,2,81
+22200321,114,PT02M22.00S,1,1610612756,PHX,202687,Biyombo,B. Biyombo,-5,101,10,Missed,1,25,22,47,h,MISS Biyombo 10' Hook Shot,Missed Shot,Hook Shot,1,2,82
+22200321,115,PT02M19.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,25,22,47,v,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,83
+22200321,116,PT02M10.00S,1,1610612741,CHI,201609,Dragic,G. Dragic,-87,249,26,Missed,1,25,22,47,v,MISS Dragic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,84
+22200321,117,PT02M08.00S,1,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,25,22,47,h,Lee REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,85
+22200321,118,PT01M57.00S,1,1610612756,PHX,1627814,Lee,D. Lee,51,245,25,Made,1,28,22,50,h,Lee 25' 3PT Jump Shot (3 PTS) (Booker 3 AST),Made Shot,Jump Shot,1,3,86
+22200321,120,PT01M32.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,-184,170,25,Missed,1,28,22,50,v,MISS LaVine 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,87
+22200321,121,PT01M29.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,28,22,50,v,Drummond REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,88
+22200321,122,PT01M27.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,28,22,50,h,Booker S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,1,0,89
+22200321,124,PT01M27.00S,1,0,,1610612756,,,0,0,0,,0,28,22,50,h,SUNS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,90
+22200321,125,PT01M27.00S,1,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,28,22,50,h,SUB: Wainright FOR Craig,Substitution,,0,0,91
+22200321,127,PT01M27.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,28,23,51,v,LaVine Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,92
+22200321,128,PT01M27.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,28,23,51,v,MISS LaVine Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,93
+22200321,129,PT01M25.00S,1,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,28,23,51,h,Lee REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,94
+22200321,130,PT01M10.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,71,7,Made,1,30,23,53,h,Booker 7' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,1,2,95
+22200321,131,PT00M53.90S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,30,23,53,v,Drummond Double Dribble Turnover (P1.T4),Turnover,Double Dribble,1,0,96
+22200321,132,PT00M28.90S,1,1610612756,PHX,1626164,Booker,D. Booker,22,68,7,Missed,1,30,23,53,h,MISS Booker 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,97
+22200321,132,PT00M28.90S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,30,23,53,v,Drummond BLOCK (1 BLK),,,1,2,98
+22200321,134,PT00M28.90S,1,0,,1610612756,,,0,0,0,,0,30,23,53,h,SUNS Rebound,Rebound,Unknown,0,0,99
+22200321,135,PT00M28.40S,1,0,,1610612756,,,0,0,0,,0,30,23,53,h,SUNS Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,1,0,100
+22200321,136,PT00M13.00S,1,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,30,23,53,h,Wainright S.FOUL (P1.PN) (B.Nansel),Foul,Shooting,1,0,101
+22200321,138,PT00M13.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,30,24,54,v,LaVine Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,102
+22200321,139,PT00M13.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,30,25,55,v,LaVine Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,103
+22200321,140,PT00M00.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-107,-6,11,Made,1,32,25,57,h,Booker 11' Fadeaway Jumper (9 PTS),Made Shot,Fadeaway Jump Shot,1,2,104
+22200321,141,PT00M00.00S,1,0,,0,,,0,0,0,,0,32,25,57,,End of 1st Period (9:34 PM EST),period,end,1,0,105
+22200321,144,PT12M00.00S,2,0,,0,,,0,0,0,,0,32,25,57,,Start of 2nd Period (9:37 PM EST),period,start,0,0,106
+22200321,145,PT11M49.00S,2,1610612741,CHI,201609,Dragic,G. Dragic,142,221,26,Missed,1,32,25,57,v,MISS Dragic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+22200321,146,PT11M47.00S,2,0,,1610612756,,,0,0,0,,0,32,25,57,h,SUNS Rebound,Rebound,Unknown,0,0,108
+22200321,148,PT11M35.00S,2,1610612756,PHX,1627814,Lee,D. Lee,91,230,25,Made,1,35,25,60,h,Lee 25' 3PT Jump Shot (6 PTS) (Shamet 1 AST),Made Shot,Jump Shot,1,3,109
+22200321,150,PT11M16.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,-105,60,12,Missed,1,35,25,60,v,MISS LaVine 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,110
+22200321,151,PT11M13.00S,2,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,35,25,60,h,Biyombo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,111
+22200321,152,PT11M00.00S,2,1610612756,PHX,1630688,Wainright,I. Wainright,235,4,24,Missed,1,35,25,60,h,MISS Wainright 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+22200321,153,PT10M58.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,35,25,60,v,Drummond REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,113
+22200321,154,PT10M58.00S,2,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,35,25,60,h,Lee P.FOUL (P1.T1) (M.Ervin),Foul,Personal,1,0,114
+22200321,156,PT10M41.00S,2,1610612741,CHI,1629750,Green,J. Green,4,17,2,Made,1,35,27,62,v,Green 2' Cutting Layup Shot (2 PTS) (LaVine 4 AST),Made Shot,Cutting Layup Shot,1,2,115
+22200321,158,PT10M27.00S,2,1610612756,PHX,202687,Biyombo,B. Biyombo,94,46,10,Missed,1,35,27,62,h,MISS Biyombo 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,116
+22200321,159,PT10M25.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,35,27,62,v,Drummond REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,117
+22200321,160,PT10M13.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,-2,22,2,Missed,1,35,27,62,v,MISS LaVine 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,118
+22200321,161,PT10M10.00S,2,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,35,27,62,h,Lee REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,119
+22200321,162,PT09M53.00S,2,1610612756,PHX,1629013,Shamet,L. Shamet,-227,1,0,Missed,1,35,27,62,h,MISS Shamet 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+22200321,163,PT09M51.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,35,27,62,v,Drummond REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,121
+22200321,164,PT09M41.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,-2,13,1,Made,1,35,29,64,v,Drummond 1' Cutting Dunk Shot (4 PTS) (Caruso 1 AST),Made Shot,Cutting Dunk Shot,1,2,122
+22200321,166,PT09M20.00S,2,1610612756,PHX,1629013,Shamet,L. Shamet,50,240,25,Made,1,38,29,67,h,Shamet 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,123
+22200321,167,PT08M59.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,120,228,26,Missed,1,38,29,67,v,MISS LaVine 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,124
+22200321,168,PT08M56.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,38,29,67,h,Bridges REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,125
+22200321,169,PT08M49.00S,2,1610612756,PHX,1629013,Shamet,L. Shamet,202,151,25,Made,1,41,29,70,h,Shamet 25' 3PT Jump Shot (6 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,126
+22200321,171,PT08M47.00S,2,0,,1610612741,,,0,0,0,,0,41,29,70,v,Bulls Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,127
+22200321,172,PT08M47.00S,2,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,41,29,70,h,SUB: Washington Jr. FOR Wainright,Substitution,,0,0,128
+22200321,173,PT08M47.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,41,29,70,v,SUB: White FOR Caruso,Substitution,,0,0,129
+22200321,174,PT08M47.00S,2,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,41,29,70,v,SUB: DeRozan FOR Dragic,Substitution,,0,0,130
+22200321,175,PT08M47.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,41,29,70,v,SUB: Dosunmu FOR LaVine,Substitution,,0,0,131
+22200321,176,PT08M47.00S,2,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,41,29,70,v,SUB: Williams FOR Green,Substitution,,0,0,132
+22200321,182,PT08M33.00S,2,1610612741,CHI,1629632,White,C. White,146,221,26,Missed,1,41,29,70,v,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,133
+22200321,183,PT08M30.00S,2,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,41,29,70,h,Biyombo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,134
+22200321,184,PT08M20.00S,2,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,41,29,70,h,Biyombo OFF.Foul (P1) (B.Nansel),Foul,Offensive,1,0,135
+22200321,186,PT08M20.00S,2,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,41,29,70,h,Biyombo Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,136
+22200321,187,PT08M11.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,-27,194,20,Missed,1,41,29,70,v,MISS DeRozan 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,137
+22200321,188,PT08M07.00S,2,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,41,29,70,v,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,138
+22200321,189,PT08M05.00S,2,1610612741,CHI,1630172,Williams,P. Williams,2,11,1,Missed,1,41,29,70,v,MISS Williams 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,139
+22200321,190,PT08M04.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,41,29,70,v,Dosunmu REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,140
+22200321,191,PT07M55.00S,2,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,0,0,0,,0,41,29,70,h,Washington Jr. P.FOUL (P1.T2) (E.Malloy),Foul,Personal,1,0,141
+22200321,193,PT07M55.00S,2,1610612756,PHX,202687,Biyombo,B. Biyombo,0,0,0,,0,41,29,70,h,SUB: Ayton FOR Biyombo,Substitution,,0,0,142
+22200321,194,PT07M55.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,41,29,70,v,SUB: Vucevic FOR Drummond,Substitution,,0,0,143
+22200321,197,PT07M48.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,211,142,25,Missed,1,41,29,70,v,MISS Dosunmu 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+22200321,198,PT07M46.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,41,29,70,h,Ayton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,145
+22200321,199,PT07M37.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,41,29,70,v,DeRozan S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,1,0,146
+22200321,201,PT07M37.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,42,29,71,h,Ayton Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,147
+22200321,202,PT07M37.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,42,29,71,h,MISS Ayton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,148
+22200321,203,PT07M35.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,42,29,71,v,DeRozan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,149
+22200321,204,PT07M18.00S,2,1610612741,CHI,1630172,Williams,P. Williams,2,105,11,Missed,1,42,29,71,v,MISS Williams 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,150
+22200321,204,PT07M18.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,42,29,71,h,Bridges BLOCK (1 BLK),,,1,2,151
+22200321,206,PT07M16.00S,2,1610612756,PHX,1629013,Shamet,L. Shamet,0,0,0,,0,42,29,71,h,Shamet REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,152
+22200321,207,PT07M09.00S,2,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,234,6,0,Missed,1,42,29,71,h,MISS Washington Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+22200321,208,PT07M04.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,42,29,71,v,DeRozan REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,154
+22200321,209,PT06M59.00S,2,1610612741,CHI,1629632,White,C. White,0,21,2,Made,1,42,31,73,v,White 2' Running Layup (2 PTS) (DeRozan 2 AST),Made Shot,Running Layup Shot,1,2,155
+22200321,210,PT06M45.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,25,50,6,Missed,1,42,31,73,h,MISS Bridges 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,156
+22200321,210,PT06M45.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,42,31,73,v,Vucevic BLOCK (1 BLK),,,1,2,157
+22200321,212,PT06M42.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,42,31,73,v,Vucevic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,158
+22200321,213,PT06M40.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,1,10,1,Made,1,42,33,75,v,Dosunmu 1' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,159
+22200321,214,PT06M40.00S,2,0,,1610612756,,,0,0,0,,0,42,33,75,h,SUNS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,160
+22200321,216,PT06M40.00S,2,1610612756,PHX,1629013,Shamet,L. Shamet,0,0,0,,0,42,33,75,h,SUB: Booker FOR Shamet,Substitution,,0,0,161
+22200321,218,PT06M18.00S,2,1610612756,PHX,1626164,Booker,D. Booker,-34,166,17,Made,1,44,33,77,h,Booker 17' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,2,162
+22200321,219,PT06M07.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,-6,152,15,Missed,1,44,33,77,v,MISS Vucevic 15' Jump Shot,Missed Shot,Jump Shot,1,2,163
+22200321,220,PT06M03.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,44,33,77,h,Booker REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,164
+22200321,221,PT05M54.00S,2,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,-195,159,25,Missed,1,44,33,77,h,MISS Washington Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+22200321,222,PT05M50.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,44,33,77,v,DeRozan REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,166
+22200321,224,PT05M43.00S,2,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,0,0,0,,0,44,33,77,h,SUB: Craig FOR Washington Jr.,Substitution,,0,0,167
+22200321,225,PT05M43.00S,2,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,44,33,77,h,SUB: Payne FOR Lee,Substitution,,0,0,168
+22200321,229,PT05M43.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,44,33,77,v,White OFF.Foul (P1) (M.Ervin),Foul,Offensive,1,0,169
+22200321,231,PT05M43.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,44,33,77,v,White Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,170
+22200321,232,PT05M29.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,-11,-1,1,Made,1,46,33,79,h,Ayton 1' Alley Oop Dunk (14 PTS) (Booker 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,171
+22200321,234,PT05M19.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,120,21,12,Missed,1,46,33,79,v,MISS DeRozan 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,172
+22200321,235,PT05M16.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,46,33,79,h,Booker REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,173
+22200321,236,PT05M11.00S,2,1610612756,PHX,1626164,Booker,D. Booker,92,77,12,Made,1,48,33,81,h,Booker 12' Running Pull-Up Jump Shot (13 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,174
+22200321,237,PT04M56.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,2,8,1,Made,1,48,35,83,v,Dosunmu 1' Driving Finger Roll Layup (6 PTS) (Vucevic 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,175
+22200321,239,PT04M46.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,-2,-1,0,Made,1,50,35,85,h,Ayton Cutting Dunk Shot (16 PTS) (Booker 5 AST),Made Shot,Cutting Dunk Shot,1,2,176
+22200321,241,PT04M27.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,127,54,14,Made,1,50,37,87,v,DeRozan 14' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,2,177
+22200321,242,PT04M16.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,50,37,87,v,DeRozan S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,1,0,178
+22200321,244,PT04M16.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,50,37,87,h,MISS Booker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,179
+22200321,245,PT04M16.00S,2,0,,1610612756,,,0,0,0,,0,50,37,87,h,SUNS Rebound,Rebound,Normal Rebound,0,0,180
+22200321,246,PT04M16.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,50,37,87,v,SUB: LaVine FOR Dosunmu,Substitution,,0,0,181
+22200321,247,PT04M16.00S,2,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,50,37,87,v,SUB: Caruso FOR Williams,Substitution,,0,0,182
+22200321,250,PT04M16.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,51,37,88,h,Booker Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,183
+22200321,251,PT04M04.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,51,37,88,v,Vucevic Traveling Turnover (P2.T6),Turnover,Traveling,1,0,184
+22200321,252,PT03M50.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,102,106,15,Made,1,53,37,90,h,Bridges 15' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,185
+22200321,253,PT03M35.00S,2,1610612741,CHI,1629632,White,C. White,-228,8,0,Missed,1,53,37,90,v,MISS White 3PT Jump Shot,Missed Shot,Jump Shot,1,3,186
+22200321,254,PT03M33.00S,2,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,53,37,90,h,Payne REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,187
+22200321,255,PT03M27.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,190,162,25,Missed,1,53,37,90,h,MISS Bridges 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,188
+22200321,256,PT03M26.00S,2,0,,1610612741,,,0,0,0,,0,53,37,90,v,Bulls Rebound,Rebound,Unknown,1,0,189
+22200321,257,PT03M26.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,53,37,90,h,Booker L.B.FOUL (P2.T3) (E.Malloy),Foul,Loose Ball,1,0,190
+22200321,259,PT03M11.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,91,238,25,Missed,1,53,37,90,v,MISS DeRozan 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,191
+22200321,260,PT03M08.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,53,37,90,h,Ayton REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,192
+22200321,261,PT03M00.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,53,37,90,v,Caruso S.FOUL (P2.T3) (E.Malloy),Foul,Shooting,1,0,193
+22200321,263,PT03M00.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,54,37,91,h,Booker Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,194
+22200321,264,PT03M00.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,55,37,92,h,Booker Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,195
+22200321,265,PT02M52.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,55,37,92,h,Bridges S.FOUL (P2.T4) (B.Nansel),Foul,Shooting,1,0,196
+22200321,267,PT02M52.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,55,38,93,v,LaVine Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,197
+22200321,268,PT02M52.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,55,39,94,v,LaVine Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,198
+22200321,269,PT02M36.00S,2,1610612756,PHX,1626164,Booker,D. Booker,82,84,12,Made,1,57,39,96,h,Booker 12' Fadeaway Jumper (18 PTS),Made Shot,Fadeaway Jump Shot,1,2,199
+22200321,270,PT02M18.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,9,259,26,Missed,1,57,39,96,v,MISS Vucevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+22200321,271,PT02M16.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,57,39,96,h,Ayton REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,201
+22200321,272,PT02M10.00S,2,1610612756,PHX,1626164,Booker,D. Booker,-9,-1,1,Missed,1,57,39,96,h,MISS Booker 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,202
+22200321,273,PT02M07.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,57,39,96,v,Vucevic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,203
+22200321,274,PT02M03.00S,2,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,57,39,96,h,Craig S.FOUL (P1.PN) (M.Ervin),Foul,Shooting,1,0,204
+22200321,276,PT02M03.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,57,40,97,v,Caruso Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,205
+22200321,277,PT02M03.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,57,40,97,v,SUB: Williams FOR White,Substitution,,0,0,206
+22200321,279,PT02M03.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,57,40,97,v,MISS Caruso Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,207
+22200321,280,PT02M01.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,57,40,97,h,Ayton REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,208
+22200321,281,PT01M49.00S,2,1610612756,PHX,1626164,Booker,D. Booker,1,1,0,Made,1,59,40,99,h,Booker Cutting Finger Roll Layup Shot (20 PTS) (Ayton 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,209
+22200321,283,PT01M40.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,59,40,99,v,DeRozan Traveling Turnover (P2.T7),Turnover,Traveling,1,0,210
+22200321,285,PT01M20.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,59,40,99,h,Booker Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,211
+22200321,285,PT01M20.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,59,40,99,v,Vucevic STEAL (2 STL),,,1,0,212
+22200321,287,PT01M13.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,59,40,99,h,Bridges S.FOUL (P3.PN) (B.Nansel),Foul,Shooting,1,0,213
+22200321,289,PT01M13.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,59,41,100,v,DeRozan Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,214
+22200321,290,PT01M13.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,59,41,100,v,MISS DeRozan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,215
+22200321,291,PT01M11.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,59,41,100,h,Ayton REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,216
+22200321,292,PT00M59.30S,2,1610612756,PHX,1626164,Booker,D. Booker,6,150,15,Made,1,61,41,102,h,Booker 15' Pullup Jump Shot (22 PTS) (Ayton 2 AST),Made Shot,Pullup Jump shot,1,2,217
+22200321,294,PT00M49.60S,2,1610612741,CHI,202696,Vučević,N. Vučević,-16,75,8,Made,1,61,43,104,v,Vucevic 8' Turnaround Hook Shot (7 PTS) (LaVine 5 AST),Made Shot,Turnaround Hook Shot,1,2,218
+22200321,296,PT00M31.70S,2,1610612756,PHX,1626164,Booker,D. Booker,-145,210,26,Made,1,64,43,107,h,Booker 26' 3PT Step Back Jump Shot (25 PTS),Made Shot,Step Back Jump shot,1,3,219
+22200321,298,PT00M11.90S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,-16,7,2,Missed,1,64,43,107,v,MISS DeRozan 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,220
+22200321,299,PT00M10.10S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,64,43,107,h,Ayton REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,221
+22200321,300,PT00M00.70S,2,1610612756,PHX,1626164,Booker,D. Booker,227,-8,0,Missed,1,64,43,107,h,MISS Booker 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,222
+22200321,301,PT00M00.70S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,64,43,107,v,DeRozan REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,223
+22200321,302,PT00M00.00S,2,0,,0,,,0,0,0,,0,64,43,107,,End of 2nd Period (10:02 PM EST),period,end,1,0,224
+22200321,305,PT12M00.00S,3,0,,0,,,0,0,0,,0,64,43,107,,Start of 3rd Period (10:17 PM EST),period,start,0,0,225
+22200321,306,PT11M48.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-76,237,25,Made,1,64,46,110,v,Vucevic 25' 3PT Jump Shot (10 PTS) (DeRozan 3 AST),Made Shot,Jump Shot,1,3,226
+22200321,308,PT11M33.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,64,46,110,v,DeRozan S.FOUL (P3.T1) (M.Ervin),Foul,Shooting,1,0,227
+22200321,310,PT11M33.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,65,46,111,h,Bridges Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,228
+22200321,311,PT11M33.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,66,46,112,h,Bridges Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,229
+22200321,312,PT11M20.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,-116,126,17,Made,1,66,48,114,v,DeRozan 17' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,230
+22200321,313,PT11M02.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,82,247,26,Missed,1,66,48,114,h,MISS Bridges 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+22200321,314,PT10M59.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,66,48,114,v,DeRozan REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,232
+22200321,315,PT10M56.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,66,48,114,h,Booker S.FOUL (P3.T1) (M.Ervin),Foul,Shooting,1,0,233
+22200321,317,PT10M56.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,66,49,115,v,DeRozan Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,234
+22200321,318,PT10M56.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,66,50,116,v,DeRozan Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,235
+22200321,319,PT10M44.00S,3,1610612756,PHX,1626164,Booker,D. Booker,175,204,27,Made,1,69,50,119,h,Booker 27' 3PT Jump Shot (28 PTS) (Bridges 3 AST),Made Shot,Jump Shot,1,3,236
+22200321,321,PT10M27.00S,3,1610612741,CHI,1630172,Williams,P. Williams,-78,58,10,Missed,1,69,50,119,v,MISS Williams 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,237
+22200321,322,PT10M24.00S,3,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,69,50,119,h,Payne REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,238
+22200321,323,PT10M20.00S,3,1610612756,PHX,1626164,Booker,D. Booker,120,239,27,Made,1,72,50,122,h,Booker 27' 3PT Running Pull-Up Jump Shot (31 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,239
+22200321,324,PT10M12.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,36,19,4,Missed,1,72,50,122,v,MISS Dosunmu 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,240
+22200321,324,PT10M12.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,72,50,122,h,Ayton BLOCK (1 BLK),,,1,2,241
+22200321,326,PT10M12.00S,3,0,,1610612741,,,0,0,0,,0,72,50,122,v,Bulls Rebound,Rebound,Unknown,0,0,242
+22200321,328,PT10M09.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,200,138,24,Made,1,72,53,125,v,LaVine 24' 3PT Jump Shot (10 PTS) (DeRozan 4 AST),Made Shot,Jump Shot,0,3,243
+22200321,330,PT09M56.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-20,32,4,Made,1,74,53,127,h,Booker 4' Driving Bank Hook Shot (33 PTS),Made Shot,Driving Bank Hook Shot,1,2,244
+22200321,331,PT09M43.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,38,17,4,Missed,1,74,53,127,v,MISS DeRozan 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,245
+22200321,332,PT09M43.00S,3,0,,1610612756,,,0,0,0,,0,74,53,127,h,SUNS Rebound,Rebound,Unknown,1,0,246
+22200321,334,PT09M43.00S,3,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,74,53,127,v,SUB: Jones Jr. FOR Williams,Substitution,,0,0,247
+22200321,336,PT09M28.00S,3,1610612756,PHX,1628470,Craig,T. Craig,214,137,25,Missed,1,74,53,127,h,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,248
+22200321,337,PT09M24.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,74,53,127,h,Ayton REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,249
+22200321,338,PT09M16.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-4,10,1,Made,1,76,53,129,h,Booker 1' Driving Finger Roll Layup (35 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,250
+22200321,339,PT09M16.00S,3,0,,1610612741,,,0,0,0,,0,76,53,129,v,Bulls Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,251
+22200321,340,PT09M00.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,21,63,7,Missed,1,76,53,129,v,MISS Vucevic 7' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,252
+22200321,341,PT08M58.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,76,53,129,h,Ayton REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,253
+22200321,343,PT08M43.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,76,53,129,v,Vucevic P.FOUL (P2.T2) (M.Ervin),Foul,Personal,1,0,254
+22200321,345,PT08M36.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-132,31,14,Made,1,78,53,131,h,Booker 14' Turnaround Fadeaway (37 PTS),Made Shot,Turnaround Fadeaway shot,1,2,255
+22200321,346,PT08M20.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,21,2,Made,1,78,55,133,v,DeRozan 2' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,256
+22200321,347,PT08M05.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,-118,31,12,Missed,1,78,55,133,h,MISS Ayton 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,257
+22200321,348,PT08M03.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,78,55,133,v,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,258
+22200321,349,PT07M54.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,7,31,3,Made,1,78,57,135,v,LaVine 3' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,259
+22200321,350,PT07M54.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,78,57,135,h,Craig S.FOUL (P2.T2) (E.Malloy),Foul,Shooting,1,0,260
+22200321,352,PT07M54.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,78,58,136,v,LaVine Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,261
+22200321,353,PT07M40.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,169,186,25,Missed,1,78,58,136,h,MISS Bridges 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+22200321,354,PT07M37.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,78,58,136,v,Vucevic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,263
+22200321,355,PT07M29.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,78,58,136,h,Craig S.FOUL (P3.T3) (B.Nansel),Foul,Shooting,1,0,264
+22200321,357,PT07M29.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,78,59,137,v,Vucevic Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,265
+22200321,358,PT07M29.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,78,60,138,v,Vucevic Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,266
+22200321,359,PT07M20.00S,3,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,78,60,138,h,Payne Traveling Turnover (P2.T7),Turnover,Traveling,1,0,267
+22200321,360,PT07M20.00S,3,0,,1610612741,,,0,0,0,,0,78,60,138,v,Bulls Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,268
+22200321,361,PT07M10.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,-99,106,15,Made,1,78,62,140,v,DeRozan 15' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,1,2,269
+22200321,362,PT06M53.00S,3,1610612756,PHX,1626166,Payne,C. Payne,-62,65,9,Missed,1,78,62,140,h,MISS Payne 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,270
+22200321,363,PT06M51.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,78,62,140,v,Vucevic REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,271
+22200321,364,PT06M45.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,-1,6,1,Missed,1,78,62,140,v,MISS LaVine 1' Running Layup,Missed Shot,Running Layup Shot,1,2,272
+22200321,365,PT06M40.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,78,62,140,v,LaVine REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,273
+22200321,366,PT06M40.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,Made,1,78,64,142,v,LaVine Putback Layup (15 PTS),Made Shot,Putback Layup Shot,1,2,274
+22200321,367,PT06M26.00S,3,1610612756,PHX,1626166,Payne,C. Payne,227,1,0,Made,1,81,64,145,h,Payne 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,3,275
+22200321,368,PT06M14.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,4,5,1,Made,1,81,66,147,v,DeRozan 1' Driving Reverse Layup (21 PTS),Made Shot,Driving Reverse Layup Shot,1,2,276
+22200321,369,PT05M57.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-2,258,26,Made,1,84,66,150,h,Booker 26' 3PT Pullup Jump Shot (40 PTS),Made Shot,Pullup Jump shot,1,3,277
+22200321,370,PT05M39.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,-97,242,26,Missed,1,84,66,150,v,MISS LaVine 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,278
+22200321,371,PT05M35.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,84,66,150,h,Ayton REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,279
+22200321,372,PT05M25.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,6,20,2,Made,1,86,66,152,h,Ayton 2' Cutting Finger Roll Layup Shot (18 PTS) (Booker 6 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,280
+22200321,374,PT05M09.00S,3,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,235,-1,24,Missed,1,86,66,152,v,MISS Jones Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,281
+22200321,375,PT05M04.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,86,66,152,h,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,282
+22200321,376,PT04M55.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,-6,128,13,Missed,1,86,66,152,h,MISS Ayton 13' Jump Shot,Missed Shot,Jump Shot,1,2,283
+22200321,377,PT04M53.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,86,66,152,h,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,284
+22200321,378,PT04M51.00S,3,1610612756,PHX,1628470,Craig,T. Craig,-1,16,2,Made,1,88,66,154,h,Craig 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,285
+22200321,379,PT04M39.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,-5,0,1,Made,1,88,68,156,v,DeRozan 1' Finger Roll Layup (23 PTS),Made Shot,Finger Roll Layup Shot,1,2,286
+22200321,380,PT04M28.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-7,8,1,Made,1,90,68,158,h,Booker 1' Driving Finger Roll Layup (42 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,287
+22200321,381,PT04M24.00S,3,0,,1610612741,,,0,0,0,,0,90,68,158,v,Bulls Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,288
+22200321,383,PT04M24.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,90,68,158,v,SUB: White FOR LaVine,Substitution,,0,0,289
+22200321,384,PT04M24.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,90,68,158,v,SUB: Caruso FOR Dosunmu,Substitution,,0,0,290
+22200321,388,PT04M24.00S,3,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,90,68,158,h,SUB: Shamet FOR Payne,Substitution,,0,0,291
+22200321,389,PT04M17.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,90,68,158,h,Ayton S.FOUL (P3.T4) (M.Ervin),Foul,Shooting,1,0,292
+22200321,391,PT04M17.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,90,69,159,v,DeRozan Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,293
+22200321,392,PT04M17.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,90,70,160,v,DeRozan Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,294
+22200321,393,PT04M05.00S,3,1610612756,PHX,1626164,Booker,D. Booker,102,141,17,Missed,1,90,70,160,h,MISS Booker 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,295
+22200321,394,PT04M02.00S,3,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,90,70,160,v,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,296
+22200321,395,PT03M57.00S,3,1610612741,CHI,1629632,White,C. White,6,10,1,Missed,1,90,70,160,v,MISS White 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,297
+22200321,395,PT03M57.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,90,70,160,h,Bridges BLOCK (2 BLK),,,1,2,298
+22200321,397,PT03M53.00S,3,1610612756,PHX,1629013,Shamet,L. Shamet,0,0,0,,0,90,70,160,h,Shamet REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,299
+22200321,398,PT03M50.00S,3,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,90,70,160,v,Jones Jr. P.FOUL (P1.T3) (M.Ervin),Foul,Personal,1,0,300
+22200321,400,PT03M50.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,90,70,160,h,SUB: Lee FOR Craig,Substitution,,0,0,301
+22200321,402,PT03M44.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,-20,123,12,Missed,1,90,70,160,h,MISS Bridges 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,302
+22200321,402,PT03M44.00S,3,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,90,70,160,v,Jones Jr. BLOCK (1 BLK),,,1,2,303
+22200321,404,PT03M41.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,90,70,160,v,DeRozan REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,304
+22200321,405,PT03M38.00S,3,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,-5,4,1,Made,1,90,72,162,v,Jones Jr. 1' Running Alley Oop Dunk Shot (2 PTS) (Caruso 2 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,305
+22200321,407,PT03M24.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,38,253,26,Missed,1,90,72,162,h,MISS Ayton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+22200321,408,PT03M22.00S,3,1610612756,PHX,1629013,Shamet,L. Shamet,0,0,0,,0,90,72,162,h,Shamet REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,307
+22200321,409,PT03M22.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,90,72,162,v,Vucevic P.FOUL (P3.T4) (E.Malloy),Foul,Personal,1,0,308
+22200321,411,PT03M17.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,90,72,162,v,Vucevic S.FOUL (P4.PN) (B.Nansel),Foul,Shooting,1,0,309
+22200321,413,PT03M17.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,91,72,163,h,Ayton Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,310
+22200321,414,PT03M17.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,92,72,164,h,Ayton Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,311
+22200321,416,PT03M09.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,92,72,164,v,SUB: Drummond FOR Vucevic,Substitution,,0,0,312
+22200321,418,PT03M09.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,92,72,164,h,SUB: Landale FOR Ayton,Substitution,,0,0,313
+22200321,420,PT03M09.00S,3,0,,1610612741,,,0,0,0,,0,92,72,164,v,Bulls Turnover: 5 Second Violation (T#8),Turnover,5 Second Violation,1,0,314
+22200321,421,PT02M48.00S,3,1610612756,PHX,1629013,Shamet,L. Shamet,0,0,0,,0,92,72,164,h,Shamet Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,315
+22200321,421,PT02M48.00S,3,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,92,72,164,v,Jones Jr. STEAL (1 STL),,,1,0,316
+22200321,423,PT02M39.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,-179,171,25,Made,1,92,75,167,v,Caruso 25' 3PT Jump Shot (7 PTS) (White 1 AST),Made Shot,Jump Shot,1,3,317
+22200321,425,PT02M30.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,227,116,25,Missed,1,92,75,167,h,MISS Bridges 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,318
+22200321,426,PT02M26.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,92,75,167,v,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,319
+22200321,427,PT02M22.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,225,16,0,Missed,1,92,75,167,v,MISS Caruso 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,320
+22200321,428,PT02M19.00S,3,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,92,75,167,h,Lee REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,321
+22200321,429,PT02M13.00S,3,1610612756,PHX,1626164,Booker,D. Booker,82,242,26,Made,1,95,75,170,h,Booker 26' 3PT Pullup Jump Shot (45 PTS),Made Shot,Pullup Jump shot,1,3,322
+22200321,430,PT02M13.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,95,75,170,v,Caruso S.FOUL (P3.PN) (B.Nansel),Foul,Shooting,1,0,323
+22200321,432,PT02M13.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,95,75,170,h,SUB: Wainright FOR Bridges,Substitution,,0,0,324
+22200321,435,PT02M13.00S,3,0,,1610612741,,,0,0,0,,0,95,75,170,v,Bulls Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,325
+22200321,434,PT02M13.00S,3,0,,430,,,0,0,0,,0,95,75,170,,Instant Replay3rd Period (10:42 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,326
+22200321,436,PT02M13.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,96,75,171,h,Booker Free Throw 1 of 1 (46 PTS),Free Throw,Free Throw 1 of 1,1,0,327
+22200321,437,PT02M13.00S,3,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,96,75,171,v,SUB: Williams FOR Jones Jr.,Substitution,,0,0,328
+22200321,439,PT02M05.00S,3,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,96,75,171,h,Wainright S.FOUL (P2.PN) (B.Nansel),Foul,Shooting,1,0,329
+22200321,441,PT02M05.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,96,76,172,v,DeRozan Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,330
+22200321,442,PT02M05.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,96,77,173,v,DeRozan Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,331
+22200321,443,PT01M43.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-157,247,29,Made,1,99,77,176,h,Booker 29' 3PT Pullup Jump Shot (49 PTS),Made Shot,Pullup Jump shot,1,3,332
+22200321,444,PT01M31.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,-71,43,8,Made,1,99,79,178,v,DeRozan 8' Fadeaway Jumper (29 PTS),Made Shot,Fadeaway Jump Shot,1,2,333
+22200321,445,PT01M20.00S,3,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,99,79,178,h,Landale OFF.Foul (P1) (E.Malloy),Foul,Offensive,1,0,334
+22200321,447,PT01M20.00S,3,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,99,79,178,h,Landale Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,335
+22200321,452,PT01M20.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,99,79,178,v,SUB: LaVine FOR DeRozan,Substitution,,0,0,336
+22200321,448,PT01M04.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,99,79,178,v,LaVine Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,337
+22200321,448,PT01M04.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,99,79,178,h,Booker STEAL (1 STL),,,1,0,338
+22200321,450,PT01M00.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-1,2,0,Made,1,101,79,180,h,Booker Running Dunk (51 PTS),Made Shot,Running Dunk Shot,1,2,339
+22200321,451,PT00M54.10S,3,1610612741,CHI,1627936,Caruso,A. Caruso,0,10,1,Made,1,101,81,182,v,Caruso 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,340
+22200321,454,PT00M30.50S,3,1610612756,PHX,1629013,Shamet,L. Shamet,-228,116,26,Made,1,104,81,185,h,Shamet 26' 3PT Jump Shot (9 PTS) (Wainright 1 AST),Made Shot,Jump Shot,1,3,341
+22200321,456,PT00M19.50S,3,1610612741,CHI,1627936,Caruso,A. Caruso,-168,177,24,Missed,1,104,81,185,v,MISS Caruso 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,342
+22200321,457,PT00M17.20S,3,0,,1610612756,,,0,0,0,,0,104,81,185,h,SUNS Rebound,Rebound,Unknown,0,0,343
+22200321,459,PT00M02.50S,3,1610612756,PHX,1629013,Shamet,L. Shamet,-233,22,0,Missed,1,104,81,185,h,MISS Shamet 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+22200321,460,PT00M02.50S,3,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,104,81,185,h,Landale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,345
+22200321,461,PT00M00.00S,3,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,Made,1,106,81,187,h,Landale Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,346
+22200321,462,PT00M00.00S,3,0,,0,,,0,0,0,,0,106,81,187,,End of 3rd Period (10:48 PM EST),period,end,1,0,347
+22200321,467,PT12M00.00S,4,0,,0,,,0,0,0,,0,106,81,187,,Start of 4th Period (10:50 PM EST),period,start,0,0,348
+22200321,468,PT11M45.00S,4,1610612756,PHX,1629111,Landale,J. Landale,2,86,9,Missed,1,106,81,187,h,MISS Landale 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,349
+22200321,469,PT11M41.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,106,81,187,v,LaVine REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,350
+22200321,470,PT11M32.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,106,81,187,h,Lee P.FOUL (P2.T1) (M.Ervin),Foul,Personal,1,0,351
+22200321,472,PT11M26.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,26,53,6,Made,1,106,83,189,v,LaVine 6' Fadeaway Jumper (17 PTS),Made Shot,Fadeaway Jump Shot,1,2,352
+22200321,473,PT11M09.00S,4,1610612756,PHX,1627814,Lee,D. Lee,-33,31,5,Made,1,108,83,191,h,Lee 5' Driving Floating Bank Jump Shot (8 PTS) (Landale 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,353
+22200321,475,PT11M02.00S,4,1610612756,PHX,1629013,Shamet,L. Shamet,0,0,0,,0,108,83,191,h,Shamet P.FOUL (P1.T2) (M.Ervin),Foul,Personal,1,0,354
+22200321,477,PT11M02.00S,4,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,108,83,191,h,SUB: Bridges FOR Wainright,Substitution,,0,0,355
+22200321,479,PT10M55.00S,4,1610612741,CHI,1630172,Williams,P. Williams,227,19,0,Missed,1,108,83,191,v,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3,356
+22200321,480,PT10M51.00S,4,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,108,83,191,h,Payne REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,357
+22200321,481,PT10M38.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,108,83,191,v,Caruso S.FOUL (P4.T1) (M.Ervin),Foul,Shooting,1,0,358
+22200321,483,PT10M38.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,109,83,192,h,Landale Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,359
+22200321,484,PT10M38.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,110,83,193,h,Landale Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,360
+22200321,485,PT10M24.00S,4,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,110,83,193,h,Payne S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,1,0,361
+22200321,487,PT10M24.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,110,84,194,v,Caruso Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,362
+22200321,488,PT10M24.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,110,85,195,v,Caruso Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,363
+22200321,489,PT10M13.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,110,85,195,h,Landale OFF.Foul (P2) (B.Nansel),Foul,Offensive,1,0,364
+22200321,491,PT10M13.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,110,85,195,h,Landale Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,365
+22200321,492,PT10M00.00S,4,1610612741,CHI,201609,Dragic,G. Dragic,-62,30,7,Made,1,110,87,197,v,Dragic 7' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,366
+22200321,493,PT10M00.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,110,87,197,h,Lee S.FOUL (P3.T4) (E.Malloy),Foul,Shooting,1,0,367
+22200321,495,PT10M00.00S,4,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,110,87,197,v,MISS Dragic Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,368
+22200321,496,PT09M57.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,110,87,197,h,Bridges REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,369
+22200321,497,PT09M45.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,110,87,197,v,Drummond P.FOUL (P1.T2) (E.Malloy),Foul,Personal,1,0,370
+22200321,499,PT09M39.00S,4,1610612756,PHX,1629013,Shamet,L. Shamet,-196,175,26,Missed,1,110,87,197,h,MISS Shamet 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,371
+22200321,500,PT09M35.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,110,87,197,v,Caruso REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,372
+22200321,501,PT09M28.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,-9,61,6,Missed,1,110,87,197,v,MISS Caruso 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,373
+22200321,501,PT09M28.00S,4,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,110,87,197,h,Payne BLOCK (1 BLK),,,1,2,374
+22200321,503,PT09M25.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,110,87,197,h,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,375
+22200321,504,PT09M11.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,110,87,197,h,Lee Traveling Turnover (P1.T11),Turnover,Traveling,1,0,376
+22200321,507,PT09M06.00S,4,0,,1610612756,,,0,0,0,,0,110,87,197,h,SUNS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,377
+22200321,508,PT09M06.00S,4,0,,505,,,0,0,0,,0,110,87,197,,Instant Replay4th Period (10:57 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,378
+22200321,567,PT09M06.00S,4,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,110,87,197,v,Dragic Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,379
+22200321,509,PT08M43.00S,4,1610612756,PHX,1626166,Payne,C. Payne,-205,92,22,Missed,1,110,87,197,h,MISS Payne 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,380
+22200321,510,PT08M41.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,110,87,197,v,Drummond REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,381
+22200321,511,PT08M40.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,-5,3,1,Made,1,110,89,199,v,Caruso 1' Running Finger Roll Layup (13 PTS) (Drummond 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,382
+22200321,513,PT08M40.00S,4,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,110,89,199,h,Payne S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,1,0,383
+22200321,515,PT08M40.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,110,90,200,v,Caruso Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,384
+22200321,516,PT08M26.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,110,90,200,v,Caruso P.FOUL (P5.T3) (M.Ervin),Foul,Personal,1,0,385
+22200321,518,PT08M26.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,110,90,200,v,SUB: Dosunmu FOR Caruso,Substitution,,0,0,386
+22200321,520,PT08M19.00S,4,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,110,90,200,h,Payne Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,387
+22200321,520,PT08M19.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,110,90,200,v,Drummond STEAL (1 STL),,,1,0,388
+22200321,522,PT08M14.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,1,4,0,Made,1,110,92,202,v,LaVine Running Finger Roll Layup (19 PTS) (Drummond 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,389
+22200321,524,PT07M57.00S,4,1610612756,PHX,1626166,Payne,C. Payne,-88,122,15,Missed,1,110,92,202,h,MISS Payne 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,390
+22200321,525,PT07M54.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,110,92,202,h,Bridges REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,391
+22200321,526,PT07M53.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,-56,100,11,Missed,1,110,92,202,h,MISS Bridges 11' Jump Shot,Missed Shot,Jump Shot,1,2,392
+22200321,526,PT07M53.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,110,92,202,v,Drummond BLOCK (2 BLK),,,1,2,393
+22200321,528,PT07M53.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,110,92,202,h,Bridges REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,394
+22200321,529,PT07M51.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,110,92,202,v,Drummond P.FOUL (P2.T4) (E.Malloy),Foul,Personal,1,0,395
+22200321,531,PT07M51.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,110,92,202,h,SUB: Ayton FOR Landale,Substitution,,0,0,396
+22200321,533,PT07M47.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,110,92,202,v,Drummond P.FOUL (P3.PN) (M.Ervin),Foul,Personal,1,0,397
+22200321,535,PT07M47.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,111,92,203,h,Lee Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,398
+22200321,536,PT07M47.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,112,92,204,h,Lee Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,399
+22200321,537,PT07M37.00S,4,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,112,92,204,v,Dragic Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,400
+22200321,537,PT07M37.00S,4,1610612756,PHX,1629013,Shamet,L. Shamet,0,0,0,,0,112,92,204,h,Shamet STEAL (1 STL),,,1,0,401
+22200321,539,PT07M30.00S,4,1610612756,PHX,1629013,Shamet,L. Shamet,-61,269,28,Made,1,115,92,207,h,Shamet 28' 3PT Jump Shot (12 PTS) (Lee 1 AST),Made Shot,Jump Shot,1,3,402
+22200321,541,PT07M16.00S,4,1610612741,CHI,201609,Dragic,G. Dragic,-103,220,24,Missed,1,115,92,207,v,MISS Dragic 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,403
+22200321,542,PT07M14.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,115,92,207,h,Ayton REBOUND (Off:2 Def:11),Rebound,Unknown,1,0,404
+22200321,543,PT07M05.00S,4,1610612756,PHX,1626166,Payne,C. Payne,-31,70,8,Missed,1,115,92,207,h,MISS Payne 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,405
+22200321,544,PT07M04.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,115,92,207,v,Drummond REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,406
+22200321,545,PT07M00.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,115,92,207,h,Lee S.FOUL (P4.PN) (M.Ervin),Foul,Shooting,1,0,407
+22200321,547,PT07M00.00S,4,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,115,92,207,v,MISS Dragic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,408
+22200321,548,PT07M00.00S,4,0,,1610612741,,,0,0,0,,0,115,92,207,v,Bulls Rebound,Rebound,Normal Rebound,0,0,409
+22200321,549,PT07M00.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,115,92,207,v,SUB: Vucevic FOR Drummond,Substitution,,0,0,410
+22200321,550,PT07M00.00S,4,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,115,92,207,v,SUB: DeRozan FOR Williams,Substitution,,0,0,411
+22200321,553,PT07M00.00S,4,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,115,93,208,v,Dragic Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,412
+22200321,554,PT06M42.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,115,93,208,v,Vucevic P.FOUL (P5.PN) (M.Ervin),Foul,Personal,1,0,413
+22200321,556,PT06M42.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,116,93,209,h,Ayton Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,414
+22200321,557,PT06M42.00S,4,1610612756,PHX,1629013,Shamet,L. Shamet,0,0,0,,0,116,93,209,h,SUB: Craig FOR Shamet,Substitution,,0,0,415
+22200321,559,PT06M42.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,117,93,210,h,Ayton Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,416
+22200321,560,PT06M29.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,-22,115,12,Made,1,117,95,212,v,Vucevic 12' Floating Jump Shot (14 PTS) (LaVine 6 AST),Made Shot,Floating Jump shot,1,2,417
+22200321,562,PT06M09.00S,4,1610612756,PHX,1628470,Craig,T. Craig,-228,70,24,Missed,1,117,95,212,h,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,418
+22200321,563,PT06M07.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,117,95,212,v,LaVine REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,419
+22200321,564,PT06M02.00S,4,1610612741,CHI,201609,Dragic,G. Dragic,-7,-2,1,Made,1,117,97,214,v,Dragic 1' Running Layup (5 PTS) (LaVine 7 AST),Made Shot,Running Layup Shot,1,2,420
+22200321,566,PT06M02.00S,4,0,,1610612756,,,0,0,0,,0,117,97,214,h,SUNS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,421
+22200321,569,PT05M48.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,138,64,15,Missed,1,117,97,214,h,MISS Bridges 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,422
+22200321,570,PT05M45.00S,4,0,,1610612741,,,0,0,0,,0,117,97,214,v,Bulls Rebound,Rebound,Unknown,1,0,423
+22200321,572,PT05M36.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,-4,3,1,Made,1,117,99,216,v,LaVine 1' Driving Dunk (21 PTS),Made Shot,Driving Dunk Shot,1,2,424
+22200321,573,PT05M22.00S,4,1610612756,PHX,1626166,Payne,C. Payne,-54,88,10,Missed,1,117,99,216,h,MISS Payne 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,425
+22200321,574,PT05M19.00S,4,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,117,99,216,h,Payne REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,426
+22200321,575,PT05M16.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,-27,43,5,Made,1,119,99,218,h,Ayton 5' Finger Roll Layup (24 PTS),Made Shot,Finger Roll Layup Shot,1,2,427
+22200321,576,PT05M00.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,-22,50,5,Missed,1,119,99,218,v,MISS DeRozan 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,428
+22200321,576,PT05M00.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,119,99,218,h,Ayton BLOCK (2 BLK),,,1,2,429
+22200321,578,PT04M52.00S,4,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,119,99,218,h,Craig REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,430
+22200321,579,PT04M50.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,4,118,12,Made,1,121,99,220,h,Bridges 12' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,431
+22200321,580,PT04M44.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,121,99,220,v,Dosunmu Double Dribble Turnover (P2.T12),Turnover,Double Dribble,1,0,432
+22200321,581,PT04M44.00S,4,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,121,99,220,v,SUB: White FOR Dragic,Substitution,,0,0,433
+22200321,583,PT04M32.00S,4,1610612756,PHX,1627814,Lee,D. Lee,56,102,12,Missed,1,121,99,220,h,MISS Lee 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,434
+22200321,584,PT04M28.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,121,99,220,v,Vucevic REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,435
+22200321,585,PT04M16.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,-199,155,25,Missed,1,121,99,220,v,MISS LaVine 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,436
+22200321,586,PT04M13.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,121,99,220,h,Lee REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,437
+22200321,587,PT03M56.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,-20,126,13,Missed,1,121,99,220,h,MISS Ayton 13' Jump Shot,Missed Shot,Jump Shot,1,2,438
+22200321,588,PT03M53.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,121,99,220,v,Dosunmu REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,439
+22200321,589,PT03M49.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-1,8,1,Made,1,121,101,222,v,Dosunmu 1' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,440
+22200321,590,PT03M33.00S,4,1610612756,PHX,1628470,Craig,T. Craig,-83,20,9,Missed,1,121,101,222,h,MISS Craig 9' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,441
+22200321,591,PT03M32.00S,4,0,,1610612741,,,0,0,0,,0,121,101,222,v,Bulls Rebound,Rebound,Unknown,1,0,442
+22200321,592,PT03M32.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,121,101,222,h,Ayton L.B.FOUL (P4.PN) (M.Ervin),Foul,Loose Ball,1,0,443
+22200321,595,PT03M32.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,121,101,222,h,Ayton T.FOUL (P4.PN) (M.Ervin),Foul,Technical,1,0,444
+22200321,596,PT03M32.00S,4,0,,1610612741,,,0,0,0,,0,121,101,222,v,Bulls Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,445
+22200321,597,PT03M32.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,121,101,222,v,SUB: Terry FOR LaVine,Substitution,,0,0,446
+22200321,598,PT03M32.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,121,101,222,v,SUB: Williams FOR DeRozan,Substitution,,0,0,447
+22200321,601,PT03M32.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,121,102,223,v,Vucevic Free Throw Technical (15 PTS),Free Throw,Free Throw Technical,1,0,448
+22200321,602,PT03M32.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,121,103,224,v,Vucevic Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,449
+22200321,603,PT03M32.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,121,104,225,v,Vucevic Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,450
+22200321,604,PT03M16.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,121,104,225,v,White S.FOUL (P2.PN) (B.Nansel),Foul,Shooting,1,0,451
+22200321,606,PT03M16.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,122,104,226,h,Ayton Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,452
+22200321,607,PT03M16.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,122,104,226,h,SUB: Okogie FOR Bridges,Substitution,,0,0,453
+22200321,608,PT03M16.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,122,104,226,v,SUB: Bradley FOR Vucevic,Substitution,,0,0,454
+22200321,611,PT03M16.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,123,104,227,h,Ayton Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,455
+22200321,612,PT03M04.00S,4,1610612741,CHI,1631207,Terry,D. Terry,217,145,26,Missed,1,123,104,227,v,MISS Terry 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,456
+22200321,613,PT03M01.00S,4,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,123,104,227,h,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,457
+22200321,614,PT02M45.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,-9,48,5,Made,1,125,104,229,h,Ayton 5' Turnaround Hook Shot (28 PTS) (Payne 5 AST),Made Shot,Turnaround Hook Shot,1,2,458
+22200321,616,PT02M34.00S,4,1610612741,CHI,1629632,White,C. White,-1,6,1,Made,1,125,106,231,v,White 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,459
+22200321,620,PT02M12.00S,4,1610612756,PHX,1628470,Craig,T. Craig,219,138,26,Made,1,128,106,234,h,Craig 26' 3PT Jump Shot (7 PTS) (Ayton 3 AST),Made Shot,Jump Shot,1,3,460
+22200321,622,PT01M55.00S,4,1610612741,CHI,1628396,Bradley,T. Bradley,-7,6,1,Missed,1,128,106,234,v,MISS Bradley 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,461
+22200321,623,PT01M53.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,128,106,234,h,Ayton REBOUND (Off:2 Def:12),Rebound,Unknown,1,0,462
+22200321,624,PT01M42.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,82,133,16,Made,1,130,106,236,h,Ayton 16' Jump Shot (30 PTS) (Payne 6 AST),Made Shot,Jump Shot,1,2,463
+22200321,626,PT01M37.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,130,106,236,h,Lee P.FOUL (P5.PN) (B.Nansel),Foul,Personal,1,0,464
+22200321,628,PT01M37.00S,4,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,130,107,237,v,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,465
+22200321,629,PT01M37.00S,4,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,130,107,237,h,SUB: Landale FOR Craig,Substitution,,0,0,466
+22200321,630,PT01M37.00S,4,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,130,107,237,h,SUB: Wainright FOR Payne,Substitution,,0,0,467
+22200321,631,PT01M37.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,130,107,237,h,SUB: Washington Jr. FOR Ayton,Substitution,,0,0,468
+22200321,635,PT01M37.00S,4,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,130,108,238,v,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,469
+22200321,636,PT01M25.00S,4,1610612756,PHX,1627814,Lee,D. Lee,233,12,0,Missed,1,130,108,238,h,MISS Lee 3PT Jump Shot,Missed Shot,Jump Shot,1,3,470
+22200321,637,PT01M22.00S,4,1610612741,CHI,1628396,Bradley,T. Bradley,0,0,0,,0,130,108,238,v,Bradley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,471
+22200321,638,PT01M17.00S,4,1610612741,CHI,1630172,Williams,P. Williams,130,135,19,Missed,1,130,108,238,v,MISS Williams 19' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,472
+22200321,639,PT01M14.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,130,108,238,h,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,473
+22200321,640,PT00M58.80S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,130,108,238,h,Landale 3 Second Violation Turnover (P3.T13),Turnover,3 Second Violation,1,0,474
+22200321,641,PT00M52.30S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,2,10,1,Made,1,130,110,240,v,Dosunmu 1' Driving Layup (10 PTS) (Williams 1 AST),Made Shot,Driving Layup Shot,1,2,475
+22200321,642,PT00M52.30S,4,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,0,0,0,,0,130,110,240,h,Washington Jr. S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,1,0,476
+22200321,644,PT00M52.30S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,130,111,241,v,Dosunmu Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,477
+22200321,645,PT00M42.40S,4,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,0,0,0,,0,130,111,241,h,Washington Jr. Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,478
+22200321,645,PT00M42.40S,4,1610612741,CHI,1628396,Bradley,T. Bradley,0,0,0,,0,130,111,241,v,Bradley STEAL (1 STL),,,1,0,479
+22200321,647,PT00M39.10S,4,1610612741,CHI,1628396,Bradley,T. Bradley,1,-4,0,Made,1,130,113,243,v,Bradley Running Dunk (2 PTS) (White 2 AST),Made Shot,Running Dunk Shot,1,2,480
+22200321,649,PT00M29.80S,4,1610612756,PHX,1629111,Landale,J. Landale,-176,188,26,Missed,1,130,113,243,h,MISS Landale 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,481
+22200321,650,PT00M26.30S,4,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,130,113,243,h,Wainright REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,482
+22200321,651,PT00M16.70S,4,1610612756,PHX,1627814,Lee,D. Lee,-4,111,11,Made,1,132,113,245,h,Lee 11' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,483
+22200321,652,PT00M00.00S,4,0,,0,,,0,0,0,,0,132,113,245,,End of 4th Period (11:22 PM EST),period,end,1,0,484

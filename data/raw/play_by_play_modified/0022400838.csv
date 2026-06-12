@@ -1,0 +1,473 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22400838,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:14 PM EST),period,start,0,0,1
+22400838,4,PT12M00.00S,1,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,0,0,0,h,Jump Ball Hukporti vs. Drummond: Tip to Maxey,Jump Ball,,1,0,2
+22400838,7,PT11M38.00S,1,1610612755,PHI,202331,George,P. George,10,4,1,Made,1,0,2,2,v,George 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,3
+22400838,8,PT11M20.00S,1,1610612752,NYK,1630574,Hukporti,A. Hukporti,-9,-5,1,Made,1,2,2,4,h,Hukporti 1' Alley Oop Dunk (2 PTS) (Brunson 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,4
+22400838,10,PT11M02.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,64,200,21,Made,1,2,4,6,v,Maxey 21' Pullup Jump Shot (2 PTS) (Drummond 1 AST),Made Shot,Pullup Jump shot,1,2,5
+22400838,11,PT10M43.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,180,175,25,Made,1,5,4,9,h,Brunson 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,6
+22400838,12,PT10M31.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,58,61,8,Missed,1,5,4,9,v,MISS Maxey 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,7
+22400838,13,PT10M28.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,5,4,9,h,Hart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+22400838,14,PT10M24.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-12,22,3,Missed,1,5,4,9,h,MISS Brunson 3' Running Layup,Missed Shot,Running Layup Shot,1,2,9
+22400838,15,PT10M23.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,5,4,9,h,Hart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,10
+22400838,16,PT10M22.00S,1,1610612752,NYK,1628404,Hart,J. Hart,-15,10,2,Made,1,7,4,11,h,Hart 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,11
+22400838,17,PT10M13.00S,1,1610612755,PHI,202331,George,P. George,9,262,26,Missed,1,7,4,11,v,MISS George 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,12
+22400838,18,PT10M13.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,7,4,11,h,Anunoby REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+22400838,19,PT10M01.00S,1,1610612752,NYK,1628404,Hart,J. Hart,-15,54,6,Missed,1,7,4,11,h,MISS Hart 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,14
+22400838,19,PT10M01.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,7,4,11,v,Drummond BLOCK (1 BLK),,,1,2,15
+22400838,21,PT09M59.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,7,4,11,v,George REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+22400838,22,PT09M55.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,17,13,2,Missed,1,7,4,11,v,MISS Maxey 2' Running Layup,Missed Shot,Running Layup Shot,1,2,17
+22400838,22,PT09M55.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,7,4,11,h,Hart BLOCK (1 BLK),,,1,2,18
+22400838,24,PT09M55.00S,1,0,,1610612755,,,0,0,0,,0,7,4,11,v,76ers Rebound,Rebound,Unknown,0,0,19
+22400838,26,PT09M42.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,104,240,26,Missed,1,7,4,11,v,MISS Maxey 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,20
+22400838,27,PT09M41.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,7,4,11,h,Anunoby REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,21
+22400838,28,PT09M30.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,7,4,11,v,George P.FOUL (P1.T1) (S.Corbin),Foul,Personal,1,0,22
+22400838,31,PT09M25.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,7,4,11,h,Hart Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,23
+22400838,31,PT09M25.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,7,4,11,v,Drummond STEAL (1 STL),,,1,0,24
+22400838,33,PT09M21.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,118,230,26,Missed,1,7,4,11,v,MISS Maxey 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,25
+22400838,34,PT09M19.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,7,4,11,h,Anunoby REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,26
+22400838,35,PT09M09.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-10,105,11,Made,1,9,4,13,h,Bridges 11' Fadeaway Jumper (2 PTS) (Anunoby 1 AST),Made Shot,Fadeaway Jump Shot,1,2,27
+22400838,37,PT08M44.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,2,34,3,Missed,1,9,4,13,v,MISS Drummond 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,28
+22400838,38,PT08M40.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,9,4,13,h,Hart REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,29
+22400838,41,PT08M37.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,-225,34,0,Missed,1,9,4,13,h,MISS Anunoby 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,30
+22400838,42,PT08M36.00S,1,0,,1610612752,,,0,0,0,,0,9,4,13,h,KNICKS Rebound,Rebound,Unknown,1,0,31
+22400838,44,PT08M34.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-6,11,1,Made,1,11,4,15,h,Bridges 1' Cutting Dunk Shot (4 PTS) (Brunson 2 AST),Made Shot,Cutting Dunk Shot,1,2,32
+22400838,46,PT08M15.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-16,17,2,Made,1,11,6,17,v,Oubre Jr. 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,33
+22400838,48,PT07M52.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,88,38,10,Made,1,13,6,19,h,Bridges 10' Pullup Jump Shot (6 PTS) (Brunson 3 AST),Made Shot,Pullup Jump shot,1,2,34
+22400838,50,PT07M40.00S,1,1610612755,PHI,202331,George,P. George,-49,77,9,Missed,1,13,6,19,v,MISS George 9' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,35
+22400838,51,PT07M39.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,13,6,19,h,Hart REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,36
+22400838,52,PT07M32.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,-33,17,4,Missed,1,13,6,19,h,MISS Anunoby 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,37
+22400838,52,PT07M32.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,13,6,19,v,Grimes BLOCK (1 BLK),,,1,2,38
+22400838,54,PT07M29.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,13,6,19,v,George REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,39
+22400838,55,PT07M19.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,-110,242,27,Missed,1,13,6,19,v,MISS Grimes 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,40
+22400838,56,PT07M18.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,13,6,19,h,Hart REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,41
+22400838,57,PT07M11.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-6,15,2,Made,1,15,6,21,h,Bridges 2' Running Layup (8 PTS) (Brunson 4 AST),Made Shot,Running Layup Shot,1,2,42
+22400838,59,PT07M04.00S,1,0,,1610612755,,,0,0,0,,0,15,6,21,v,76ers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,43
+22400838,60,PT07M04.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,15,6,21,v,SUB: Edwards FOR Drummond,Substitution,,0,0,44
+22400838,61,PT07M04.00S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,15,6,21,v,SUB: Bona FOR Grimes,Substitution,,0,0,45
+22400838,64,PT06M54.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,225,6,0,Made,1,15,9,24,v,Oubre Jr. 3PT Jump Shot (5 PTS) (Maxey 1 AST),Made Shot,Jump Shot,1,3,46
+22400838,66,PT06M39.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,178,176,25,Made,1,18,9,27,h,Bridges 25' 3PT Jump Shot (11 PTS) (Brunson 5 AST),Made Shot,Jump Shot,1,3,47
+22400838,68,PT06M22.00S,1,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,18,9,27,h,Hukporti S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,1,0,48
+22400838,70,PT06M22.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,18,9,27,v,MISS Bona Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,49
+22400838,71,PT06M22.00S,1,0,,1610612755,,,0,0,0,,0,18,9,27,v,76ers Rebound,Rebound,Normal Rebound,0,0,50
+22400838,72,PT06M22.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,18,10,28,v,Bona Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,51
+22400838,73,PT05M59.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,18,10,28,v,Oubre Jr. S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,1,0,52
+22400838,75,PT05M59.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,19,10,29,h,Brunson Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,1,0,53
+22400838,76,PT05M59.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,20,10,30,h,Brunson Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,1,0,54
+22400838,77,PT05M59.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,21,10,31,h,Brunson Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,1,0,55
+22400838,78,PT05M38.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,85,57,10,Made,1,21,12,33,v,Oubre Jr. 10' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,56
+22400838,80,PT05M20.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,6,18,2,Missed,1,21,12,33,h,MISS Brunson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,57
+22400838,80,PT05M20.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,21,12,33,v,Bona BLOCK (1 BLK),,,1,2,58
+22400838,82,PT05M20.00S,1,0,,1610612752,,,0,0,0,,0,21,12,33,h,KNICKS Rebound,Rebound,Unknown,0,0,59
+22400838,84,PT05M13.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-233,42,24,Made,1,24,12,36,h,Bridges 24' 3PT Jump Shot (14 PTS) (Brunson 6 AST),Made Shot,Jump Shot,1,3,60
+22400838,86,PT04M48.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,100,127,16,Missed,1,24,12,36,v,MISS Edwards 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,61
+22400838,87,PT04M44.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,24,12,36,h,Hart REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,62
+22400838,88,PT04M33.00S,1,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,24,12,36,h,Hukporti Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,63
+22400838,88,PT04M33.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,24,12,36,v,George STEAL (1 STL),,,1,0,64
+22400838,91,PT04M24.00S,1,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,24,12,36,h,SUB: McBride FOR Hukporti,Substitution,,0,0,65
+22400838,93,PT04M24.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,24,12,36,h,SUB: Achiuwa FOR Hart,Substitution,,0,0,66
+22400838,95,PT04M20.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-229,15,0,Missed,1,24,12,36,v,MISS Maxey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,67
+22400838,95,PT04M20.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,24,12,36,h,Bridges BLOCK (1 BLK),,,1,3,68
+22400838,97,PT04M16.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,24,12,36,v,George REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,69
+22400838,98,PT04M13.00S,1,1610612755,PHI,202331,George,P. George,0,41,4,Missed,1,24,12,36,v,MISS George 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,70
+22400838,99,PT04M11.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,24,12,36,v,Maxey REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,71
+22400838,100,PT04M11.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-15,3,2,Made,1,24,14,38,v,Maxey 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,72
+22400838,101,PT03M56.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,161,209,26,Missed,1,24,14,38,h,MISS Brunson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,73
+22400838,102,PT03M54.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,24,14,38,v,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+22400838,103,PT03M47.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,32,106,11,Missed,1,24,14,38,v,MISS Maxey 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,75
+22400838,104,PT03M45.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,24,14,38,h,Brunson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,76
+22400838,105,PT03M38.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,12,78,8,Missed,1,24,14,38,h,MISS Bridges 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,77
+22400838,106,PT03M33.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,24,14,38,v,Bona REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+22400838,107,PT03M18.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,229,40,0,Made,1,24,17,41,v,Oubre Jr. 3PT Jump Shot (10 PTS) (George 1 AST),Made Shot,Jump Shot,1,3,79
+22400838,109,PT02M57.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-86,57,10,Made,1,26,17,43,h,Bridges 10' Jump Shot (16 PTS) (Brunson 7 AST),Made Shot,Jump Shot,1,2,80
+22400838,111,PT02M45.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,26,17,43,v,Edwards Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,81
+22400838,112,PT02M45.00S,1,0,,1610612752,,,0,0,0,,0,26,17,43,h,KNICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,82
+22400838,115,PT02M45.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,26,17,43,v,SUB: Walker IV FOR George,Substitution,,0,0,83
+22400838,117,PT02M26.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,26,17,43,v,Bona S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,1,0,84
+22400838,119,PT02M26.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,27,17,44,h,Anunoby Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,85
+22400838,120,PT02M26.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,28,17,45,h,Anunoby Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,86
+22400838,121,PT02M09.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,81,140,16,Missed,1,28,17,45,v,MISS Maxey 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,87
+22400838,122,PT02M05.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,28,17,45,h,Anunoby REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,88
+22400838,123,PT02M00.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,28,17,45,h,Brunson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,89
+22400838,123,PT02M00.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,28,17,45,v,Maxey STEAL (1 STL),,,1,0,90
+22400838,125,PT01M52.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,9,15,2,Missed,1,28,17,45,v,MISS Maxey 2' Running Layup,Missed Shot,Running Layup Shot,1,2,91
+22400838,126,PT01M51.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,28,17,45,h,Brunson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,92
+22400838,127,PT01M44.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-227,36,0,Missed,1,28,17,45,h,MISS Bridges 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+22400838,128,PT01M40.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,28,17,45,v,Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,94
+22400838,129,PT01M30.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,28,17,45,v,Bona OFF.Foul (P2) (B.Nansel),Foul,Offensive,1,0,95
+22400838,131,PT01M30.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,28,17,45,v,Bona Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,96
+22400838,132,PT01M30.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,28,17,45,h,SUB: Shamet FOR Anunoby,Substitution,,0,0,97
+22400838,133,PT01M30.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,28,17,45,v,SUB: Drummond FOR Maxey,Substitution,,0,0,98
+22400838,134,PT01M30.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,28,17,45,v,SUB: Grimes FOR Bona,Substitution,,0,0,99
+22400838,138,PT01M15.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,119,55,13,Made,1,30,17,47,h,Bridges 13' Pullup Jump Shot (18 PTS) (McBride 1 AST),Made Shot,Pullup Jump shot,1,2,100
+22400838,140,PT01M00.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,39,69,8,Missed,1,30,17,47,v,MISS Oubre Jr. 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,101
+22400838,140,PT01M00.00S,1,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,30,17,47,h,McBride BLOCK (1 BLK),,,1,2,102
+22400838,142,PT00M58.90S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,30,17,47,v,Oubre Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,103
+22400838,143,PT00M58.90S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,25,87,9,Made,1,30,19,49,v,Oubre Jr. 9' Fadeaway Jumper (12 PTS),Made Shot,Fadeaway Jump Shot,1,2,104
+22400838,144,PT00M47.50S,1,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,30,19,49,v,Edwards S.FOUL (P1.T4) (M.Ervin),Foul,Shooting,1,0,105
+22400838,146,PT00M47.50S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,31,19,50,h,Brunson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,106
+22400838,147,PT00M47.50S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,32,19,51,h,Brunson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,107
+22400838,148,PT00M26.20S,1,1610612755,PHI,1629022,Walker IV,L. Walker IV,135,129,19,Made,1,32,21,53,v,Walker IV 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,108
+22400838,149,PT00M02.80S,1,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,32,21,53,v,Grimes P.FOUL (P1.PN) (M.Ervin),Foul,Personal,1,0,109
+22400838,153,PT00M02.80S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,32,21,53,h,SUB: Payne FOR Brunson,Substitution,,0,0,110
+22400838,151,PT00M02.80S,1,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,32,21,53,h,MISS Bridges Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,111
+22400838,152,PT00M02.80S,1,0,,1610612752,,,0,0,0,,0,32,21,53,h,KNICKS Rebound,Rebound,Normal Rebound,1,0,112
+22400838,155,PT00M02.80S,1,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,33,21,54,h,Bridges Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,113
+22400838,156,PT00M00.00S,1,1610612755,PHI,1629022,Walker IV,L. Walker IV,124,437,45,Missed,1,33,21,54,v,MISS Walker IV 45' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,1,3,114
+22400838,157,PT00M00.00S,1,0,,1610612755,,,0,0,0,,0,33,21,54,v,76ers Rebound,Rebound,Unknown,1,0,115
+22400838,158,PT00M00.00S,1,0,,0,,,0,0,0,,0,33,21,54,,End of 1st Period (7:41 PM EST),period,end,1,0,116
+22400838,161,PT12M00.00S,2,0,,0,,,0,0,0,,0,33,21,54,,Start of 2nd Period (7:44 PM EST),period,start,0,0,117
+22400838,162,PT11M47.00S,2,1610612752,NYK,1629013,Shamet,L. Shamet,-224,16,0,Missed,1,33,21,54,h,MISS Shamet 3PT Jump Shot,Missed Shot,Jump Shot,0,3,118
+22400838,163,PT11M45.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,33,21,54,v,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,119
+22400838,164,PT11M39.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,33,21,54,h,Achiuwa S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,1,0,120
+22400838,166,PT11M39.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,33,22,55,v,Drummond Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,121
+22400838,167,PT11M39.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,33,22,55,v,MISS Drummond Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,122
+22400838,168,PT11M37.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,33,22,55,h,McBride REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+22400838,169,PT11M22.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,93,123,15,Missed,1,33,22,55,h,MISS Bridges 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,124
+22400838,170,PT11M19.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,33,22,55,v,Drummond REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,125
+22400838,171,PT11M10.00S,2,1610612755,PHI,202331,George,P. George,-114,31,12,Missed,1,33,22,55,v,MISS George 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,126
+22400838,172,PT11M08.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,33,22,55,v,Drummond REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,127
+22400838,173,PT11M06.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,100,237,26,Missed,1,33,22,55,v,MISS Edwards 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+22400838,174,PT11M02.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,33,22,55,h,Achiuwa REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,129
+22400838,175,PT10M52.00S,2,1610612752,NYK,1626166,Payne,C. Payne,17,41,4,Made,1,35,22,57,h,Payne 4' Driving Floating Jump Shot (2 PTS) (Achiuwa 1 AST),Made Shot,Driving Floating Jump Shot,1,2,130
+22400838,177,PT10M36.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,-11,-4,1,Made,1,35,24,59,v,Drummond 1' Cutting Dunk Shot (3 PTS) (George 2 AST),Made Shot,Cutting Dunk Shot,1,2,131
+22400838,179,PT10M21.00S,2,1610612752,NYK,1626166,Payne,C. Payne,42,2,4,Missed,1,35,24,59,h,MISS Payne 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,132
+22400838,179,PT10M21.00S,2,1610612755,PHI,1629022,Walker IV,L. Walker IV,0,0,0,,0,35,24,59,v,Walker IV BLOCK (1 BLK),,,1,2,133
+22400838,181,PT10M18.00S,2,1610612755,PHI,1629022,Walker IV,L. Walker IV,0,0,0,,0,35,24,59,v,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,134
+22400838,182,PT10M13.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,35,24,59,v,Grimes Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,135
+22400838,183,PT10M13.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,35,24,59,h,SUB: Hart FOR Bridges,Substitution,,0,0,136
+22400838,185,PT09M57.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,13,68,7,Missed,1,35,24,59,h,MISS Achiuwa 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,137
+22400838,186,PT09M56.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,35,24,59,v,Drummond REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,138
+22400838,187,PT09M48.00S,2,1610612755,PHI,202331,George,P. George,108,132,17,Missed,1,35,24,59,v,MISS George 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,139
+22400838,188,PT09M45.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,35,24,59,h,Hart REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,140
+22400838,190,PT09M30.00S,2,1610612752,NYK,1630540,McBride,M. McBride,102,67,12,Made,1,37,24,61,h,McBride 12' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,141
+22400838,191,PT09M05.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,7,56,6,Missed,1,37,24,61,v,MISS Drummond 6' Hook Shot,Missed Shot,Hook Shot,1,2,142
+22400838,192,PT09M03.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,37,24,61,h,Achiuwa REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,143
+22400838,194,PT09M00.00S,2,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,37,24,61,v,SUB: Maxey FOR Grimes,Substitution,,0,0,144
+22400838,195,PT09M00.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,37,24,61,v,SUB: Oubre Jr. FOR Edwards,Substitution,,0,0,145
+22400838,198,PT09M00.00S,2,1610612752,NYK,1629013,Shamet,L. Shamet,0,0,0,,0,37,24,61,h,SUB: Anunoby FOR Shamet,Substitution,,0,0,146
+22400838,200,PT08M57.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,239,34,24,Missed,1,37,24,61,h,MISS Anunoby 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+22400838,201,PT08M54.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,37,24,61,v,George REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,148
+22400838,202,PT08M49.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,1,46,5,Made,1,37,26,63,v,Oubre Jr. 5' Driving Floating Jump Shot (14 PTS) (George 3 AST),Made Shot,Driving Floating Jump Shot,1,2,149
+22400838,204,PT08M42.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,37,26,63,v,Oubre Jr. S.FOUL (P2.T1) (B.Nansel),Foul,Shooting,1,0,150
+22400838,208,PT08M42.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,37,26,63,v,SUB: Bona FOR Drummond,Substitution,,0,0,151
+22400838,206,PT08M42.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,37,26,63,h,MISS Hart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,152
+22400838,207,PT08M42.00S,2,0,,1610612752,,,0,0,0,,0,37,26,63,h,KNICKS Rebound,Rebound,Normal Rebound,1,0,153
+22400838,210,PT08M42.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,37,26,63,h,MISS Hart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,154
+22400838,211,PT08M40.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,37,26,63,v,Oubre Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,155
+22400838,212,PT08M26.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-11,16,2,Made,1,37,28,65,v,Maxey 2' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,156
+22400838,213,PT08M03.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-36,137,14,Made,1,39,28,67,h,Achiuwa 14' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,157
+22400838,214,PT07M43.00S,2,1610612755,PHI,1629022,Walker IV,L. Walker IV,81,157,18,Missed,1,39,28,67,v,MISS Walker IV 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,158
+22400838,215,PT07M41.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,39,28,67,h,Hart REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,159
+22400838,216,PT07M33.00S,2,1610612752,NYK,1626166,Payne,C. Payne,13,-5,1,Made,1,41,28,69,h,Payne 1' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,160
+22400838,218,PT07M23.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,41,28,69,v,George Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,161
+22400838,218,PT07M23.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,41,28,69,h,Anunoby STEAL (1 STL),,,1,0,162
+22400838,220,PT07M15.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,109,227,25,Made,1,44,28,72,h,Anunoby 25' 3PT Pullup Jump Shot (5 PTS) (Payne 1 AST),Made Shot,Pullup Jump shot,1,3,163
+22400838,222,PT07M05.00S,2,0,,1610612755,,,0,0,0,,0,44,28,72,v,76ers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,164
+22400838,223,PT07M05.00S,2,1610612755,PHI,1629022,Walker IV,L. Walker IV,0,0,0,,0,44,28,72,v,SUB: Council IV FOR Walker IV,Substitution,,0,0,165
+22400838,225,PT06M47.00S,2,1610612755,PHI,202331,George,P. George,119,64,14,Missed,1,44,28,72,v,MISS George 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,166
+22400838,226,PT06M44.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,44,28,72,h,McBride REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,167
+22400838,227,PT06M40.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,44,28,72,h,Hart Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,168
+22400838,227,PT06M40.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,44,28,72,v,George STEAL (2 STL),,,1,0,169
+22400838,229,PT06M39.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,44,28,72,h,McBride P.FOUL (P1.T2) (M.Ervin),Foul,Personal,1,0,170
+22400838,231,PT06M32.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-94,119,15,Made,1,44,30,74,v,Maxey 15' Pullup Jump Shot (8 PTS) (George 4 AST),Made Shot,Pullup Jump shot,1,2,171
+22400838,233,PT06M06.00S,2,1610612752,NYK,1630540,McBride,M. McBride,-199,155,25,Missed,1,44,30,74,h,MISS McBride 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,172
+22400838,234,PT06M04.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,44,30,74,v,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,173
+22400838,235,PT05M50.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-229,-7,0,Missed,1,44,30,74,v,MISS Maxey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,174
+22400838,236,PT05M47.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,44,30,74,h,Anunoby REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,175
+22400838,237,PT05M31.00S,2,1610612752,NYK,1630540,McBride,M. McBride,-130,29,13,Made,1,46,30,76,h,McBride 13' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,176
+22400838,238,PT05M18.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-11,252,25,Missed,1,46,30,76,v,MISS Oubre Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,177
+22400838,239,PT05M14.00S,2,1610612752,NYK,1626166,Payne,C. Payne,0,0,0,,0,46,30,76,h,Payne REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,178
+22400838,240,PT05M07.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-9,7,1,Made,1,48,30,78,h,Achiuwa 1' Driving Dunk (4 PTS) (Payne 2 AST),Made Shot,Driving Dunk Shot,1,2,179
+22400838,243,PT05M04.00S,2,0,,1610612752,,,0,0,0,,0,48,30,78,h,KNICKS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,180
+22400838,244,PT04M51.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-232,37,0,Missed,1,48,30,78,v,MISS Maxey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,181
+22400838,245,PT04M50.00S,2,0,,1610612755,,,0,0,0,,0,48,30,78,v,76ers Rebound,Rebound,Unknown,1,0,182
+22400838,247,PT04M50.00S,2,1610612752,NYK,1626166,Payne,C. Payne,0,0,0,,0,48,30,78,h,SUB: Bridges FOR Payne,Substitution,,0,0,183
+22400838,248,PT04M50.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,48,30,78,h,SUB: Hukporti FOR McBride,Substitution,,0,0,184
+22400838,249,PT04M50.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,48,30,78,h,SUB: Brunson FOR Achiuwa,Substitution,,0,0,185
+22400838,253,PT04M35.00S,2,1610612755,PHI,1641737,Bona,A. Bona,-15,6,2,Made,1,48,32,80,v,Bona 2' Dunk (3 PTS) (Council IV 1 AST),Made Shot,Dunk Shot,1,2,186
+22400838,255,PT04M34.00S,2,0,,1610612755,,,0,0,0,,0,48,32,80,v,76ers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,187
+22400838,256,PT04M21.00S,2,1610612752,NYK,1630574,Hukporti,A. Hukporti,7,12,1,Made,1,50,32,82,h,Hukporti 1' Dunk (4 PTS) (Hart 1 AST),Made Shot,Dunk Shot,1,2,188
+22400838,258,PT04M11.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,50,32,82,h,Anunoby S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,1,0,189
+22400838,260,PT04M11.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,50,32,82,v,MISS George Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,190
+22400838,261,PT04M11.00S,2,0,,1610612755,,,0,0,0,,0,50,32,82,v,76ers Rebound,Rebound,Normal Rebound,1,0,191
+22400838,262,PT04M11.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,50,33,83,v,George Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,192
+22400838,263,PT03M55.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,36,89,10,Missed,1,50,33,83,h,MISS Brunson 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,193
+22400838,263,PT03M55.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,50,33,83,v,Maxey BLOCK (1 BLK),,,1,2,194
+22400838,265,PT03M53.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,50,33,83,v,Bona REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,195
+22400838,266,PT03M52.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,50,33,83,v,Maxey Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,196
+22400838,267,PT03M27.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,32,39,5,Made,1,52,33,85,h,Brunson 5' Floating Jump Shot (10 PTS),Made Shot,Floating Jump shot,1,2,197
+22400838,268,PT03M17.00S,2,1610612755,PHI,202331,George,P. George,29,250,25,Made,1,52,36,88,v,George 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,198
+22400838,269,PT03M02.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,52,36,88,h,Hart Bad Pass Turnover (P3.T5),Turnover,Bad Pass,1,0,199
+22400838,269,PT03M02.00S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,52,36,88,v,Council IV STEAL (1 STL),,,1,0,200
+22400838,271,PT03M02.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,52,36,88,h,Hart P.FOUL (P1.T4) (S.Corbin),Foul,Personal,1,0,201
+22400838,273,PT03M02.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,52,36,88,v,SUB: Drummond FOR Bona,Substitution,,0,0,202
+22400838,275,PT02M43.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,229,-10,0,Made,1,52,39,91,v,Oubre Jr. 3PT Jump Shot (17 PTS) (Drummond 2 AST),Made Shot,Jump Shot,1,3,203
+22400838,277,PT02M14.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,32,109,11,Missed,1,52,39,91,h,MISS Anunoby 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,204
+22400838,278,PT02M12.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,52,39,91,v,George REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,205
+22400838,279,PT02M08.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,-1,8,1,Made,1,52,41,93,v,Drummond 1' Running Dunk (5 PTS) (George 5 AST),Made Shot,Running Dunk Shot,1,2,206
+22400838,281,PT02M06.00S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,52,41,93,v,Drummond HANGING.TECH.FOUL (P0.T1) (M.Ervin),Foul,Hanging Technical,1,0,207
+22400838,282,PT02M06.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,53,41,94,h,Brunson Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,1,0,208
+22400838,283,PT01M49.00S,2,1610612752,NYK,1630574,Hukporti,A. Hukporti,-10,36,4,Made,1,55,41,96,h,Hukporti 4' Hook Shot (6 PTS) (Bridges 1 AST),Made Shot,Hook Shot,1,2,209
+22400838,285,PT01M35.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,55,41,96,v,George Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,210
+22400838,285,PT01M35.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,55,41,96,h,Bridges STEAL (1 STL),,,1,0,211
+22400838,287,PT01M29.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,-4,12,1,Made,1,57,41,98,h,Anunoby 1' Running Dunk (7 PTS) (Hart 2 AST),Made Shot,Running Dunk Shot,1,2,212
+22400838,289,PT01M05.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,225,-11,0,Missed,1,57,41,98,v,MISS Oubre Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,213
+22400838,290,PT01M01.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,57,41,98,v,George REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,214
+22400838,291,PT00M59.50S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-158,201,26,Missed,1,57,41,98,v,MISS Maxey 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,215
+22400838,292,PT00M57.10S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,57,41,98,h,Anunoby REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,216
+22400838,293,PT00M51.60S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,57,41,98,h,Hart Out of Bounds Lost Ball Turnover (P4.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,217
+22400838,294,PT00M51.60S,2,0,,1610612752,,,0,0,0,,0,57,41,98,h,KNICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,218
+22400838,295,PT00M51.60S,2,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,57,41,98,v,SUB: Grimes FOR Drummond,Substitution,,0,0,219
+22400838,297,PT00M41.80S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,57,41,98,h,Anunoby P.FOUL (P2.PN) (S.Corbin),Foul,Personal,1,0,220
+22400838,300,PT00M41.80S,2,1610612755,PHI,1641741,Council IV,R. Council IV,0,0,0,,0,57,41,98,v,SUB: Edwards FOR Council IV,Substitution,,0,0,221
+22400838,299,PT00M41.80S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,57,42,99,v,George Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,222
+22400838,302,PT00M41.80S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,57,43,100,v,George Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,223
+22400838,303,PT00M33.90S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,57,43,100,v,George S.FOUL (P2.T2) (M.Ervin),Foul,Shooting,1,0,224
+22400838,306,PT00M33.90S,2,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,57,43,100,h,SUB: McBride FOR Hukporti,Substitution,,0,0,225
+22400838,305,PT00M33.90S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,58,43,101,h,Brunson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,226
+22400838,308,PT00M33.90S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,59,43,102,h,Brunson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,227
+22400838,309,PT00M25.70S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,59,43,102,h,McBride S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,1,0,228
+22400838,311,PT00M25.70S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,59,44,103,v,Oubre Jr. Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,229
+22400838,312,PT00M25.70S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,59,45,104,v,Oubre Jr. Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,230
+22400838,313,PT00M01.70S,2,1610612752,NYK,1628973,Brunson,J. Brunson,100,130,16,Made,1,61,45,106,h,Brunson 16' Turnaround Fadeaway (15 PTS),Made Shot,Turnaround Fadeaway shot,1,2,231
+22400838,314,PT00M00.00S,2,1610612755,PHI,202331,George,P. George,169,378,41,Missed,1,61,45,106,v,MISS George 41' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,1,3,232
+22400838,315,PT00M00.00S,2,0,,1610612755,,,0,0,0,,0,61,45,106,v,76ers Rebound,Rebound,Unknown,0,0,233
+22400838,316,PT00M00.00S,2,0,,0,,,0,0,0,,0,61,45,106,,End of 2nd Period (8:14 PM EST),period,end,1,0,234
+22400838,321,PT12M00.00S,3,0,,0,,,0,0,0,,0,61,45,106,,Start of 3rd Period (8:30 PM EST),period,start,0,0,235
+22400838,322,PT11M46.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,105,232,25,Missed,1,61,45,106,h,MISS Brunson 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,236
+22400838,323,PT11M43.00S,3,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,61,45,106,h,Hukporti REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,237
+22400838,324,PT11M43.00S,3,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,Missed,1,61,45,106,h,MISS Hukporti Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,238
+22400838,325,PT11M43.00S,3,0,,1610612755,,,0,0,0,,0,61,45,106,v,76ers Rebound,Rebound,Unknown,0,0,239
+22400838,326,PT11M43.00S,3,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,61,45,106,h,Hukporti L.B.FOUL (P2.T1) (B.Nansel),Foul,Loose Ball,1,0,240
+22400838,328,PT11M21.00S,3,1610612755,PHI,202331,George,P. George,92,169,19,Made,1,61,47,108,v,George 19' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,2,241
+22400838,330,PT11M02.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,232,19,0,Missed,1,61,47,108,h,MISS Anunoby 3PT Jump Shot,Missed Shot,Jump Shot,1,3,242
+22400838,331,PT10M59.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,61,47,108,v,Maxey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,243
+22400838,332,PT10M47.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,61,47,108,h,Brunson S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,1,0,244
+22400838,334,PT10M47.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,61,48,109,v,Oubre Jr. Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,245
+22400838,335,PT10M47.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,61,49,110,v,Oubre Jr. Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,246
+22400838,336,PT10M36.00S,3,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,61,49,110,h,Hukporti Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,247
+22400838,336,PT10M36.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,61,49,110,v,George STEAL (3 STL),,,1,0,248
+22400838,338,PT10M26.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,-12,7,1,Missed,1,61,49,110,v,MISS Grimes 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,249
+22400838,338,PT10M26.00S,3,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,61,49,110,h,Hukporti BLOCK (1 BLK),,,1,2,250
+22400838,340,PT10M24.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,61,49,110,h,Hart REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,251
+22400838,341,PT10M15.00S,3,1610612752,NYK,1628404,Hart,J. Hart,-2,5,1,Made,1,63,49,112,h,Hart 1' Cutting Layup Shot (4 PTS) (Anunoby 2 AST),Made Shot,Cutting Layup Shot,1,2,252
+22400838,344,PT09M57.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,244,22,24,Made,1,63,52,115,v,Grimes 24' 3PT Jump Shot (3 PTS) (Maxey 2 AST),Made Shot,Jump Shot,1,3,253
+22400838,346,PT09M28.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,60,99,12,Missed,1,63,52,115,h,MISS Bridges 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,254
+22400838,347,PT09M23.00S,3,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,63,52,115,h,Hukporti REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,255
+22400838,348,PT09M23.00S,3,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,Made,1,65,52,117,h,Hukporti Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,256
+22400838,349,PT09M12.00S,3,1610612755,PHI,202331,George,P. George,-146,227,27,Made,1,65,55,120,v,George 27' 3PT Jump Shot (13 PTS) (Maxey 3 AST),Made Shot,Jump Shot,1,3,257
+22400838,351,PT09M04.00S,3,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,65,55,120,h,Hukporti OFF.Foul (P3) (M.Ervin),Foul,Offensive,1,0,258
+22400838,353,PT09M04.00S,3,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,65,55,120,h,Hukporti Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,1,0,259
+22400838,354,PT09M04.00S,3,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,65,55,120,h,SUB: Achiuwa FOR Hukporti,Substitution,,0,0,260
+22400838,356,PT08M41.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-105,42,11,Missed,1,65,55,120,v,MISS Oubre Jr. 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,261
+22400838,357,PT08M37.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,65,55,120,h,Bridges REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,262
+22400838,358,PT08M32.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,11,87,9,Made,1,67,55,122,h,Bridges 9' Running Jump Shot (21 PTS) (Hart 3 AST),Made Shot,Running Jump Shot,1,2,263
+22400838,360,PT08M14.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-77,71,10,Missed,1,67,55,122,v,MISS Maxey 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,264
+22400838,361,PT08M11.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,67,55,122,h,Brunson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,265
+22400838,362,PT08M11.00S,3,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,67,55,122,v,Drummond P.FOUL (P1.T1) (S.Corbin),Foul,Personal,1,0,266
+22400838,364,PT07M52.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,67,55,122,h,Achiuwa Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,267
+22400838,364,PT07M52.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,67,55,122,v,Oubre Jr. STEAL (1 STL),,,1,0,268
+22400838,366,PT07M50.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,67,55,122,v,Oubre Jr. Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,269
+22400838,366,PT07M50.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,67,55,122,h,Bridges STEAL (2 STL),,,1,0,270
+22400838,368,PT07M49.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,67,55,122,h,Bridges Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,271
+22400838,368,PT07M49.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,67,55,122,v,Oubre Jr. STEAL (2 STL),,,1,0,272
+22400838,370,PT07M32.00S,3,1610612755,PHI,202331,George,P. George,58,142,15,Made,1,67,57,124,v,George 15' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,2,273
+22400838,371,PT07M30.00S,3,0,,1610612752,,,0,0,0,,0,67,57,124,h,KNICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,274
+22400838,372,PT07M06.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-45,255,26,Made,1,70,57,127,h,Brunson 26' 3PT Pullup Jump Shot (18 PTS) (Achiuwa 2 AST),Made Shot,Pullup Jump shot,1,3,275
+22400838,374,PT06M46.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,43,249,25,Missed,1,70,57,127,v,MISS Grimes 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,276
+22400838,375,PT06M44.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,70,57,127,h,Hart REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,277
+22400838,376,PT06M42.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,70,57,127,h,Hart Bad Pass Turnover (P5.T11),Turnover,Bad Pass,1,0,278
+22400838,376,PT06M42.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,70,57,127,v,Grimes STEAL (1 STL),,,1,0,279
+22400838,378,PT06M35.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,17,5,2,Missed,1,70,57,127,v,MISS Oubre Jr. 2' Running Layup,Missed Shot,Running Layup Shot,1,2,280
+22400838,379,PT06M33.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,70,57,127,h,Hart REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,281
+22400838,380,PT06M27.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-16,13,2,Made,1,72,57,129,h,Achiuwa 2' Floating Jump Shot (6 PTS) (Anunoby 3 AST),Made Shot,Floating Jump shot,1,2,282
+22400838,382,PT06M13.00S,3,1610612755,PHI,202331,George,P. George,18,253,25,Made,1,72,60,132,v,George 25' 3PT Step Back Jump Shot (18 PTS),Made Shot,Step Back Jump shot,1,3,283
+22400838,383,PT05M57.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-40,134,14,Missed,1,72,60,132,h,MISS Brunson 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,284
+22400838,384,PT05M53.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,72,60,132,v,Oubre Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,285
+22400838,385,PT05M44.00S,3,1610612755,PHI,202331,George,P. George,228,29,0,Missed,1,72,60,132,v,MISS George 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,286
+22400838,386,PT05M42.00S,3,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,72,60,132,v,Drummond REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,287
+22400838,387,PT05M39.00S,3,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,72,60,132,v,Drummond Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,288
+22400838,387,PT05M39.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,72,60,132,h,Anunoby STEAL (2 STL),,,1,0,289
+22400838,389,PT05M33.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,-134,208,25,Made,1,75,60,135,h,Bridges 25' 3PT Running Jump Shot (24 PTS) (Hart 4 AST),Made Shot,Running Jump Shot,1,3,290
+22400838,391,PT05M21.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-12,15,2,Made,1,75,62,137,v,Maxey 2' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,291
+22400838,392,PT05M21.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,75,62,137,h,Achiuwa S.FOUL (P2.T3) (B.Nansel),Foul,Shooting,1,0,292
+22400838,394,PT05M21.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,75,62,137,v,SUB: Edwards FOR Grimes,Substitution,,0,0,293
+22400838,395,PT05M21.00S,3,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,75,62,137,v,SUB: Bona FOR Drummond,Substitution,,0,0,294
+22400838,398,PT05M21.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,75,63,138,v,Maxey Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,295
+22400838,399,PT05M04.00S,3,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,75,63,138,v,Bona S.FOUL (P3.T2) (S.Corbin),Foul,Shooting,1,0,296
+22400838,401,PT05M04.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,75,63,138,h,MISS Achiuwa Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,297
+22400838,402,PT05M04.00S,3,0,,1610612752,,,0,0,0,,0,75,63,138,h,KNICKS Rebound,Rebound,Normal Rebound,1,0,298
+22400838,403,PT05M04.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,76,63,139,h,Achiuwa Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,299
+22400838,405,PT04M43.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,76,63,139,v,George Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,300
+22400838,405,PT04M43.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,76,63,139,h,Brunson STEAL (1 STL),,,1,0,301
+22400838,407,PT04M38.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,-6,8,1,Made,1,78,63,141,h,Anunoby 1' Running Layup (9 PTS),Made Shot,Running Layup Shot,1,2,302
+22400838,408,PT04M38.00S,3,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,78,63,141,v,Bona S.FOUL (P4.T3) (B.Nansel),Foul,Shooting,1,0,303
+22400838,410,PT04M38.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,79,63,142,h,Anunoby Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,304
+22400838,411,PT04M25.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,10,-1,1,Missed,1,79,63,142,v,MISS Maxey 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,305
+22400838,411,PT04M25.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,79,63,142,h,Achiuwa BLOCK (1 BLK),,,1,2,306
+22400838,412,PT04M20.00S,3,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,79,63,142,v,Bona REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,307
+22400838,413,PT04M19.00S,3,1610612755,PHI,1641737,Bona,A. Bona,16,12,2,Made,1,79,65,144,v,Bona 2' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,308
+22400838,415,PT04M12.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,79,65,144,v,Maxey P.FOUL (P1.T4) (B.Nansel),Foul,Personal,1,0,309
+22400838,417,PT04M02.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,79,65,144,h,Achiuwa Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,310
+22400838,417,PT04M02.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,79,65,144,v,Edwards STEAL (1 STL),,,1,0,311
+22400838,419,PT03M58.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,4,17,2,Made,1,79,67,146,v,Maxey 2' Running Dunk (13 PTS) (Edwards 1 AST),Made Shot,Running Dunk Shot,1,2,312
+22400838,421,PT03M51.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,79,67,146,h,Hart Bad Pass Turnover (P6.T13),Turnover,Bad Pass,1,0,313
+22400838,421,PT03M51.00S,3,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,79,67,146,v,Bona STEAL (1 STL),,,1,0,314
+22400838,423,PT03M46.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,79,67,146,v,George Step Out of Bounds Turnover (P4.T10),Turnover,Step Out of Bounds Turnover,1,0,315
+22400838,424,PT03M32.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-9,11,1,Made,1,81,67,148,h,Brunson 1' Driving Finger Roll Layup (20 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,316
+22400838,426,PT03M13.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,81,67,148,h,SUB: McBride FOR Hart,Substitution,,0,0,317
+22400838,427,PT03M13.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,81,67,148,v,SUB: Grimes FOR Oubre Jr.,Substitution,,0,0,318
+22400838,430,PT03M10.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-127,90,16,Made,1,81,69,150,v,Maxey 16' Driving Floating Bank Jump Shot (15 PTS) (Edwards 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,319
+22400838,432,PT03M10.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,81,69,150,h,Bridges S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,1,0,320
+22400838,434,PT03M10.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,81,69,150,v,SUB: Walker IV FOR George,Substitution,,0,0,321
+22400838,436,PT03M10.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,81,70,151,v,Maxey Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0,322
+22400838,437,PT02M54.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-1,26,3,Missed,1,81,70,151,h,MISS Achiuwa 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,323
+22400838,438,PT02M51.00S,3,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,81,70,151,v,Bona REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,324
+22400838,439,PT02M41.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-18,4,2,Missed,1,81,70,151,v,MISS Maxey 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,325
+22400838,439,PT02M41.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,81,70,151,h,Achiuwa BLOCK (2 BLK),,,1,2,326
+22400838,441,PT02M41.00S,3,0,,1610612755,,,0,0,0,,0,81,70,151,v,76ers Rebound,Rebound,Unknown,1,0,327
+22400838,443,PT02M41.00S,3,0,,1610612755,,,0,0,0,,0,81,70,151,v,76ers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,328
+22400838,444,PT02M34.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,-12,5,1,Missed,1,81,70,151,v,MISS Edwards 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,329
+22400838,444,PT02M34.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,81,70,151,h,Achiuwa BLOCK (3 BLK),,,1,2,330
+22400838,446,PT02M31.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,81,70,151,h,Anunoby REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,331
+22400838,447,PT02M16.00S,3,1610612752,NYK,1630540,McBride,M. McBride,-86,77,12,Made,1,83,70,153,h,McBride 12' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,332
+22400838,448,PT02M06.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,15,1,2,Made,1,83,72,155,v,Maxey 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,333
+22400838,449,PT01M45.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,80,136,16,Missed,1,83,72,155,h,MISS Brunson 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,334
+22400838,450,PT01M44.00S,3,1610612755,PHI,1629656,Grimes,Q. Grimes,0,0,0,,0,83,72,155,v,Grimes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,335
+22400838,451,PT01M28.00S,3,1610612755,PHI,1629022,Walker IV,L. Walker IV,-234,5,0,Missed,1,83,72,155,v,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,1,3,336
+22400838,452,PT01M25.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,83,72,155,h,Achiuwa REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,337
+22400838,453,PT01M06.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,-11,146,15,Missed,1,83,72,155,h,MISS Anunoby 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,338
+22400838,454,PT01M02.00S,3,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,83,72,155,v,Bona REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,339
+22400838,455,PT00M42.20S,3,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,83,72,155,h,McBride S.FOUL (P3.PN) (S.Corbin),Foul,Shooting,1,0,340
+22400838,458,PT00M42.20S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,83,72,155,h,SUB: Shamet FOR Anunoby,Substitution,,0,0,341
+22400838,457,PT00M42.20S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,83,73,156,v,Maxey Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,342
+22400838,460,PT00M42.20S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,83,74,157,v,Maxey Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,343
+22400838,461,PT00M23.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-10,147,15,Missed,1,83,74,157,h,MISS Brunson 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,344
+22400838,462,PT00M19.60S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,83,74,157,v,Maxey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,345
+22400838,463,PT00M02.60S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-134,222,26,Missed,1,83,74,157,v,MISS Maxey 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,346
+22400838,464,PT00M02.60S,3,1610612752,NYK,1629013,Shamet,L. Shamet,0,0,0,,0,83,74,157,h,Shamet REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,347
+22400838,465,PT00M00.60S,3,1610612752,NYK,1629013,Shamet,L. Shamet,18,552,55,Missed,1,83,74,157,h,MISS Shamet 55' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,348
+22400838,466,PT00M00.10S,3,0,,1610612752,,,0,0,0,,0,83,74,157,h,KNICKS Rebound,Rebound,Unknown,1,0,349
+22400838,467,PT00M00.00S,3,0,,0,,,0,0,0,,0,83,74,157,,End of 3rd Period (8:56 PM EST),period,end,1,0,350
+22400838,478,PT12M00.00S,4,0,,0,,,0,0,0,,0,83,74,157,,Start of 4th Period (9:00 PM EST),period,start,0,0,351
+22400838,479,PT11M47.00S,4,1610612755,PHI,202331,George,P. George,-163,109,20,Missed,1,83,74,157,v,MISS George 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,352
+22400838,480,PT11M45.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,83,74,157,h,Hart REBOUND (Off:1 Def:11),Rebound,Unknown,0,0,353
+22400838,481,PT11M28.00S,4,1610612752,NYK,1626166,Payne,C. Payne,-44,61,8,Missed,1,83,74,157,h,MISS Payne 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,354
+22400838,482,PT11M27.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,83,74,157,h,Hart REBOUND (Off:2 Def:11),Rebound,Unknown,1,0,355
+22400838,483,PT11M27.00S,4,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,83,74,157,v,Bona S.FOUL (P5.T1) (S.Corbin),Foul,Shooting,1,0,356
+22400838,485,PT11M27.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,83,74,157,h,MISS Hart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,357
+22400838,486,PT11M27.00S,4,0,,1610612752,,,0,0,0,,0,83,74,157,h,KNICKS Rebound,Rebound,Normal Rebound,1,0,358
+22400838,487,PT11M27.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,84,74,158,h,Hart Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,359
+22400838,488,PT11M17.00S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,84,74,158,h,McBride S.FOUL (P4.T1) (M.Ervin),Foul,Shooting,1,0,360
+22400838,491,PT11M17.00S,4,1610612752,NYK,1629013,Shamet,L. Shamet,0,0,0,,0,84,74,158,h,SUB: Anunoby FOR Shamet,Substitution,,0,0,361
+22400838,492,PT11M17.00S,4,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,84,74,158,v,SUB: Drummond FOR Bona,Substitution,,0,0,362
+22400838,490,PT11M17.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,84,75,159,v,Maxey Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,363
+22400838,495,PT11M17.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,84,76,160,v,Maxey Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,364
+22400838,496,PT10M58.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,1,143,14,Missed,1,84,76,160,h,MISS Anunoby 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,365
+22400838,497,PT10M56.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,84,76,160,v,Drummond REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,366
+22400838,498,PT10M50.00S,4,1610612755,PHI,202331,George,P. George,5,13,1,Made,1,84,78,162,v,George 1' Running Layup (20 PTS) (Drummond 3 AST),Made Shot,Running Layup Shot,1,2,367
+22400838,500,PT10M45.00S,4,0,,1610612752,,,0,0,0,,0,84,78,162,h,KNICKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,368
+22400838,501,PT10M45.00S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,84,78,162,h,SUB: Achiuwa FOR McBride,Substitution,,0,0,369
+22400838,502,PT10M45.00S,4,1610612752,NYK,1630574,Hukporti,A. Hukporti,0,0,0,,0,84,78,162,h,SUB: Bridges FOR Hukporti,Substitution,,0,0,370
+22400838,505,PT10M26.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,129,46,14,Made,1,86,78,164,h,Bridges 14' Fadeaway Jumper (26 PTS),Made Shot,Fadeaway Jump Shot,1,2,371
+22400838,506,PT10M08.00S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,86,78,164,v,George Out of Bounds - Bad Pass Turnover Turnover (P5.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,372
+22400838,507,PT09M55.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,225,-10,0,Missed,1,86,78,164,h,MISS Anunoby 3PT Jump Shot,Missed Shot,Jump Shot,1,3,373
+22400838,508,PT09M53.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,86,78,164,v,Maxey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,374
+22400838,509,PT09M45.00S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,86,78,164,v,George Bad Pass Turnover (P6.T12),Turnover,Bad Pass,1,0,375
+22400838,509,PT09M45.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,86,78,164,h,Hart STEAL (1 STL),,,1,0,376
+22400838,511,PT09M40.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,-2,8,1,Made,1,88,78,166,h,Anunoby 1' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,2,377
+22400838,513,PT09M19.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,228,17,0,Made,1,88,81,169,v,Edwards 3PT Jump Shot (3 PTS) (Maxey 4 AST),Made Shot,Jump Shot,1,3,378
+22400838,515,PT08M56.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,-12,9,2,Made,1,90,81,171,h,Bridges 2' Driving Finger Roll Layup (28 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,379
+22400838,516,PT08M36.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,-235,34,24,Missed,1,90,81,171,v,MISS Edwards 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,380
+22400838,517,PT08M34.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,90,81,171,h,Hart REBOUND (Off:2 Def:12),Rebound,Unknown,1,0,381
+22400838,518,PT08M32.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,16,-1,2,Missed,1,90,81,171,h,MISS Anunoby 2' Running Layup,Missed Shot,Running Layup Shot,1,2,382
+22400838,518,PT08M32.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,90,81,171,v,Oubre Jr. BLOCK (1 BLK),,,1,2,383
+22400838,520,PT08M31.00S,4,0,,1610612755,,,0,0,0,,0,90,81,171,v,76ers Rebound,Rebound,Unknown,1,0,384
+22400838,522,PT08M31.00S,4,0,,1610612755,,,0,0,0,,0,90,81,171,v,76ers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,385
+22400838,523,PT08M31.00S,4,0,,521,,,0,0,0,,0,90,81,171,,Instant Replay4th Period (9:09 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,386
+22400838,524,PT08M14.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,13,11,2,Made,1,90,83,173,v,Maxey 2' Driving Layup (24 PTS) (George 6 AST),Made Shot,Driving Layup Shot,1,2,387
+22400838,525,PT07M59.00S,4,1610612752,NYK,1626166,Payne,C. Payne,96,125,16,Missed,1,90,83,173,h,MISS Payne 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,388
+22400838,526,PT07M55.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,90,83,173,v,Oubre Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,389
+22400838,528,PT07M45.00S,4,1610612752,NYK,1626166,Payne,C. Payne,0,0,0,,0,90,83,173,h,SUB: Brunson FOR Payne,Substitution,,0,0,390
+22400838,530,PT07M37.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,97,232,25,Missed,1,90,83,173,v,MISS Maxey 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,391
+22400838,531,PT07M34.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,90,83,173,h,Hart REBOUND (Off:2 Def:13),Rebound,Unknown,1,0,392
+22400838,533,PT07M24.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,-72,77,11,Missed,1,90,83,173,h,MISS Bridges 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,393
+22400838,534,PT07M22.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,90,83,173,h,Hart REBOUND (Off:3 Def:13),Rebound,Unknown,1,0,394
+22400838,535,PT07M19.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,90,83,173,v,Oubre Jr. S.FOUL (P3.T2) (S.Corbin),Foul,Shooting,1,0,395
+22400838,537,PT07M19.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,91,83,174,h,Anunoby Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,396
+22400838,538,PT07M19.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,92,83,175,h,Anunoby Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,397
+22400838,539,PT07M01.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,37,21,4,Made,1,92,85,177,v,Oubre Jr. 4' Fadeaway Jumper (23 PTS),Made Shot,Fadeaway Jump Shot,1,2,398
+22400838,540,PT06M44.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,208,146,25,Missed,1,92,85,177,h,MISS Anunoby 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,399
+22400838,541,PT06M39.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,92,85,177,h,Achiuwa REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,400
+22400838,542,PT06M33.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-28,4,3,Made,1,94,85,179,h,Brunson 3' Driving Floating Jump Shot (22 PTS),Made Shot,Driving Floating Jump Shot,1,2,401
+22400838,543,PT06M27.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,-234,94,25,Made,1,94,88,182,v,Edwards 25' 3PT Jump Shot (6 PTS) (Maxey 5 AST),Made Shot,Jump Shot,1,3,402
+22400838,545,PT06M02.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,94,88,182,h,Brunson Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,403
+22400838,545,PT06M02.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,94,88,182,v,Drummond STEAL (2 STL),,,1,0,404
+22400838,547,PT05M57.00S,4,1610612755,PHI,202331,George,P. George,150,204,25,Missed,1,94,88,182,v,MISS George 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,405
+22400838,548,PT05M55.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,94,88,182,h,Anunoby REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,406
+22400838,549,PT05M40.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,94,88,182,h,Anunoby Out of Bounds Lost Ball Turnover (P1.T15),Turnover,Out of Bounds Lost Ball Turnover,1,0,407
+22400838,550,PT05M40.00S,4,0,,1610612755,,,0,0,0,,0,94,88,182,v,76ers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,408
+22400838,551,PT05M31.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,-2,6,1,Made,1,94,90,184,v,Drummond 1' Alley Oop Dunk (7 PTS) (George 7 AST),Made Shot,Alley Oop Dunk Shot,1,2,409
+22400838,553,PT05M15.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,94,90,184,v,Maxey P.FOUL (P2.T3) (S.Corbin),Foul,Personal,1,0,410
+22400838,555,PT05M10.00S,4,1610612752,NYK,1628404,Hart,J. Hart,11,22,2,Made,1,96,90,186,h,Hart 2' Cutting Layup Shot (7 PTS) (Bridges 2 AST),Made Shot,Cutting Layup Shot,1,2,411
+22400838,557,PT04M49.00S,4,1610612755,PHI,202331,George,P. George,18,17,2,Made,1,96,92,188,v,George 2' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,1,2,412
+22400838,559,PT04M43.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,96,92,188,h,Hart Bad Pass Turnover (P7.T16),Turnover,Bad Pass,1,0,413
+22400838,559,PT04M43.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,96,92,188,v,Oubre Jr. STEAL (3 STL),,,1,0,414
+22400838,561,PT04M38.00S,4,1610612755,PHI,202331,George,P. George,233,10,0,Made,1,96,95,191,v,George 3PT Running Jump Shot (25 PTS) (Oubre Jr. 1 AST),Made Shot,Running Jump Shot,1,3,415
+22400838,563,PT04M37.00S,4,0,,1610612752,,,0,0,0,,0,96,95,191,h,KNICKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,416
+22400838,564,PT04M12.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,233,-10,0,Missed,1,96,95,191,h,MISS Bridges 3PT Jump Shot,Missed Shot,Jump Shot,1,3,417
+22400838,565,PT04M10.00S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,96,95,191,v,George REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,418
+22400838,566,PT03M59.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,29,8,3,Made,1,96,97,193,v,Maxey 3' Driving Floating Bank Jump Shot (26 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,419
+22400838,567,PT03M39.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,96,97,193,v,Oubre Jr. S.FOUL (P4.T4) (B.Nansel),Foul,Shooting,1,0,420
+22400838,569,PT03M39.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,97,97,194,h,Brunson Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,421
+22400838,570,PT03M39.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,98,97,195,h,Brunson Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,422
+22400838,571,PT03M27.00S,4,1610612755,PHI,202331,George,P. George,107,231,25,Missed,1,98,97,195,v,MISS George 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,423
+22400838,572,PT03M23.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,98,97,195,v,Drummond REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,424
+22400838,573,PT03M22.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,227,38,0,Made,1,98,100,198,v,Oubre Jr. 3PT Jump Shot (26 PTS) (Drummond 4 AST),Made Shot,Jump Shot,1,3,425
+22400838,575,PT03M00.00S,4,1610612752,NYK,1628404,Hart,J. Hart,21,161,16,Missed,1,98,100,198,h,MISS Hart 16' Jump Shot,Missed Shot,Jump Shot,1,2,426
+22400838,576,PT03M00.00S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,98,100,198,v,Drummond REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,427
+22400838,577,PT02M42.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,18,29,3,Made,1,98,102,200,v,Maxey 3' Driving Floating Jump Shot (28 PTS),Made Shot,Driving Floating Jump Shot,1,2,428
+22400838,578,PT02M31.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,98,102,200,v,Edwards P.FOUL (P2.PN) (S.Corbin),Foul,Personal,1,0,429
+22400838,580,PT02M31.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,99,102,201,h,Brunson Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,430
+22400838,581,PT02M31.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,100,102,202,h,Brunson Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,431
+22400838,582,PT02M14.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,96,246,26,Missed,1,100,102,202,v,MISS Maxey 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,432
+22400838,583,PT02M12.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,100,102,202,h,Anunoby REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,433
+22400838,584,PT01M59.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-25,10,3,Made,1,102,102,204,h,Brunson 3' Layup (28 PTS),Made Shot,Layup Shot,1,2,434
+22400838,585,PT01M45.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,17,15,2,Missed,1,102,102,204,v,MISS Maxey 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,435
+22400838,586,PT01M42.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,102,102,204,h,Achiuwa REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,436
+22400838,587,PT01M28.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,173,194,26,Made,1,105,102,207,h,Brunson 26' 3PT Pullup Jump Shot (31 PTS),Made Shot,Pullup Jump shot,1,3,437
+22400838,590,PT01M15.00S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,105,102,207,v,George Out of Bounds - Bad Pass Turnover Turnover (P7.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,438
+22400838,591,PT01M15.00S,4,0,,1610612755,,,0,0,0,,0,105,102,207,v,76ers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,439
+22400838,592,PT01M15.00S,4,0,,590,,,0,0,0,,0,105,102,207,,Instant Replay4th Period (9:28 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,440
+22400838,594,PT00M57.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,18,11,2,Missed,1,105,102,207,h,MISS Brunson 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,441
+22400838,595,PT00M54.20S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,105,102,207,h,Achiuwa REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,442
+22400838,596,PT00M54.20S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,Missed,1,105,102,207,h,MISS Achiuwa Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,443
+22400838,597,PT00M53.60S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,105,102,207,v,George REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,444
+22400838,598,PT00M35.70S,4,1610612755,PHI,1630178,Maxey,T. Maxey,11,33,3,Missed,1,105,102,207,v,MISS Maxey 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,445
+22400838,599,PT00M34.40S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,105,102,207,v,Drummond REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,446
+22400838,600,PT00M34.30S,4,1610612755,PHI,203083,Drummond,A. Drummond,-16,11,2,Missed,1,105,102,207,v,MISS Drummond 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,447
+22400838,600,PT00M34.30S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,105,102,207,h,Achiuwa BLOCK (4 BLK),,,1,2,448
+22400838,602,PT00M33.10S,4,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,105,102,207,h,Bridges REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,449
+22400838,603,PT00M32.10S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,105,102,207,v,George P.FOUL (P3.PN) (S.Corbin),Foul,Personal,1,0,450
+22400838,605,PT00M32.10S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,106,102,208,h,Brunson Free Throw 1 of 2 (32 PTS),Free Throw,Free Throw 1 of 2,1,0,451
+22400838,606,PT00M32.10S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,107,102,209,h,Brunson Free Throw 2 of 2 (33 PTS),Free Throw,Free Throw 2 of 2,1,0,452
+22400838,607,PT00M32.10S,4,0,,1610612755,,,0,0,0,,0,107,102,209,v,76ers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,453
+22400838,608,PT00M32.10S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,107,102,209,h,SUB: McBride FOR Brunson,Substitution,,0,0,454
+22400838,610,PT00M28.60S,4,1610612755,PHI,1630178,Maxey,T. Maxey,5,-3,1,Made,1,107,104,211,v,Maxey 1' Driving Layup (30 PTS) (Drummond 5 AST),Made Shot,Driving Layup Shot,1,2,455
+22400838,612,PT00M28.60S,4,0,,1610612752,,,0,0,0,,0,107,104,211,h,KNICKS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,456
+22400838,613,PT00M28.60S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,107,104,211,h,SUB: Brunson FOR Achiuwa,Substitution,,0,0,457
+22400838,614,PT00M28.60S,4,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,107,104,211,v,SUB: Grimes FOR Drummond,Substitution,,0,0,458
+22400838,617,PT00M27.80S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,5,4,1,Made,1,109,104,213,h,Anunoby 1' Cutting Dunk Shot (16 PTS) (Bridges 3 AST),Made Shot,Cutting Dunk Shot,1,2,459
+22400838,619,PT00M22.90S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,109,104,213,h,Hart S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,1,0,460
+22400838,623,PT00M22.90S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,109,104,213,h,SUB: Achiuwa FOR McBride,Substitution,,0,0,461
+22400838,621,PT00M22.90S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,109,104,213,v,MISS Oubre Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,462
+22400838,622,PT00M22.90S,4,0,,1610612755,,,0,0,0,,0,109,104,213,v,76ers Rebound,Rebound,Normal Rebound,0,0,463
+22400838,625,PT00M22.90S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,109,105,214,v,Oubre Jr. Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,464
+22400838,626,PT00M21.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,109,105,214,v,Edwards P.FOUL (P3.PN) (M.Ervin),Foul,Personal,1,0,465
+22400838,630,PT00M21.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,109,105,214,h,SUB: McBride FOR Achiuwa,Substitution,,0,0,466
+22400838,628,PT00M21.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,109,105,214,h,MISS Brunson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,467
+22400838,629,PT00M21.00S,4,0,,1610612752,,,0,0,0,,0,109,105,214,h,KNICKS Rebound,Rebound,Normal Rebound,1,0,468
+22400838,632,PT00M21.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,110,105,215,h,Brunson Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,1,0,469
+22400838,633,PT00M13.80S,4,1610612755,PHI,1630178,Maxey,T. Maxey,173,183,25,Missed,1,110,105,215,v,MISS Maxey 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,470
+22400838,634,PT00M10.90S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,110,105,215,h,Hart REBOUND (Off:3 Def:14),Rebound,Unknown,1,0,471
+22400838,635,PT00M00.00S,4,0,,0,,,0,0,0,,0,110,105,215,,End of 4th Period (9:40 PM EST),period,end,1,0,472

@@ -1,0 +1,515 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22301160,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:42 PM EST),period,start,0,0,1
+22301160,4,PT12M00.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,0,0,0,h,Jump Ball Claxton vs. Williams: Tip to Agbaji,Jump Ball,,1,0,2
+22301160,7,PT11M33.00S,1,1610612761,TOR,1642013,Williams,M. Williams,-39,110,12,Missed,1,0,0,0,v,MISS Williams 12' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,3
+22301160,8,PT11M30.00S,1,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,0,0,0,h,Clowney REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22301160,9,PT11M17.00S,1,1610612751,BKN,203471,Schröder,D. Schröder,-22,62,7,Missed,1,0,0,0,h,MISS Schroder 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,5
+22301160,10,PT11M16.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,0,0,0,h,Claxton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,6
+22301160,11,PT11M07.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,-140,13,14,Missed,1,0,0,0,h,MISS Thomas 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,7
+22301160,12,PT11M04.00S,1,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,0,0,0,h,Schroder REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,8
+22301160,13,PT10M56.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,0,0,0,h,Bridges Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,9
+22301160,13,PT10M56.00S,1,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams STEAL (1 STL),,,1,0,10
+22301160,15,PT10M46.00S,1,1610612761,TOR,1641711,Dick,G. Dick,-233,17,0,Missed,1,0,0,0,v,MISS Dick 3PT Jump Shot,Missed Shot,Jump Shot,1,3,11
+22301160,16,PT10M43.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,0,0,0,h,Claxton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,12
+22301160,17,PT10M36.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,-199,141,24,Missed,1,0,0,0,h,MISS Bridges 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,13
+22301160,18,PT10M34.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,0,0,0,v,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+22301160,19,PT10M27.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,-18,16,2,Missed,1,0,0,0,v,MISS Agbaji 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,15
+22301160,20,PT10M25.00S,1,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,16
+22301160,21,PT10M25.00S,1,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,Missed,1,0,0,0,v,MISS Williams Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,17
+22301160,22,PT10M23.00S,1,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,0,0,0,v,Williams REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,18
+22301160,23,PT10M20.00S,1,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,Missed,1,0,0,0,v,MISS Williams Putback Layup,Missed Shot,Putback Layup Shot,1,2,19
+22301160,23,PT10M20.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,0,0,0,h,Claxton BLOCK (1 BLK),,,1,2,20
+22301160,24,PT10M20.00S,1,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,0,0,0,v,Dick REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,21
+22301160,25,PT10M15.00S,1,1610612761,TOR,1641711,Dick,G. Dick,157,204,26,Made,1,0,3,3,v,Dick 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,3,22
+22301160,27,PT10M02.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,32,63,7,Missed,1,0,3,3,h,MISS Thomas 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,23
+22301160,28,PT10M01.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,0,3,3,h,Thomas REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,24
+22301160,29,PT10M01.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,0,3,3,v,Agbaji S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,1,0,25
+22301160,31,PT10M01.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,1,3,4,h,Thomas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,26
+22301160,32,PT10M01.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,2,3,5,h,Thomas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,27
+22301160,33,PT09M51.00S,1,1610612761,TOR,1642013,Williams,M. Williams,143,220,26,Made,1,2,6,8,v,Williams 26' 3PT Jump Shot (3 PTS) (Agbaji 1 AST),Made Shot,Jump Shot,1,3,28
+22301160,36,PT09M31.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,-208,153,26,Made,1,5,6,11,h,Bridges 26' 3PT Jump Shot (3 PTS) (Schroder 1 AST),Made Shot,Jump Shot,1,3,29
+22301160,38,PT09M23.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,-109,300,32,Missed,1,5,6,11,v,MISS Quickley 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,30
+22301160,39,PT09M20.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,5,6,11,h,Claxton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,31
+22301160,40,PT09M17.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,5,6,11,v,Quickley P.FOUL (P1.T2) (K.Lane),Foul,Personal,1,0,32
+22301160,42,PT09M09.00S,1,1610612751,BKN,1641730,Clowney,N. Clowney,42,0,4,Missed,1,5,6,11,h,MISS Clowney 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,33
+22301160,44,PT09M05.00S,1,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,5,6,11,v,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,34
+22301160,45,PT08M58.00S,1,1610612761,TOR,1641711,Dick,G. Dick,173,207,27,Missed,1,5,6,11,v,MISS Dick 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,35
+22301160,46,PT08M54.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,5,6,11,h,Bridges REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+22301160,47,PT08M47.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,5,6,11,h,Thomas Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,37
+22301160,47,PT08M47.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,5,6,11,v,Quickley STEAL (1 STL),,,1,0,38
+22301160,49,PT08M43.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,15,2,Made,1,5,8,13,v,Agbaji 2' Running Dunk (2 PTS) (Quickley 1 AST),Made Shot,Running Dunk Shot,1,2,39
+22301160,51,PT08M25.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,5,8,13,h,Claxton Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,40
+22301160,51,PT08M25.00S,1,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,5,8,13,v,Williams STEAL (2 STL),,,1,0,41
+22301160,53,PT08M07.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,156,20,16,Made,1,5,10,15,v,Quickley 16' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,42
+22301160,54,PT07M49.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,7,-4,1,Made,1,7,10,17,h,Claxton 1' Driving Dunk (2 PTS) (Schroder 2 AST),Made Shot,Driving Dunk Shot,1,2,43
+22301160,56,PT07M33.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,51,27,6,Missed,1,7,10,17,v,MISS Quickley 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,44
+22301160,57,PT07M31.00S,1,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,7,10,17,h,Clowney REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,45
+22301160,58,PT07M15.00S,1,1610612751,BKN,1641730,Clowney,N. Clowney,-4,-5,1,Made,1,9,10,19,h,Clowney 1' Driving Layup (2 PTS) (Bridges 1 AST),Made Shot,Driving Layup Shot,1,2,46
+22301160,60,PT07M14.00S,1,0,,1610612761,,,0,0,0,,0,9,10,19,v,Raptors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,47
+22301160,61,PT07M04.00S,1,1610612761,TOR,202066,Temple,G. Temple,-235,26,24,Made,1,9,13,22,v,Temple 24' 3PT Jump Shot (3 PTS) (Quickley 2 AST),Made Shot,Jump Shot,1,3,48
+22301160,63,PT06M51.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,158,218,27,Missed,1,9,13,22,h,MISS Bridges 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,49
+22301160,64,PT06M48.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,9,13,22,v,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,50
+22301160,65,PT06M29.00S,1,1610612761,TOR,1641711,Dick,G. Dick,25,52,6,Missed,1,9,13,22,v,MISS Dick 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,51
+22301160,65,PT06M29.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,9,13,22,h,Claxton BLOCK (2 BLK),,,1,2,52
+22301160,67,PT06M27.00S,1,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,9,13,22,v,Temple REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,53
+22301160,68,PT06M27.00S,1,1610612761,TOR,202066,Temple,G. Temple,-217,179,28,Missed,1,9,13,22,v,MISS Temple 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,54
+22301160,69,PT06M26.00S,1,0,,1610612761,,,0,0,0,,0,9,13,22,v,Raptors Rebound,Rebound,Unknown,1,0,55
+22301160,70,PT06M26.00S,1,0,,1610612761,,,0,0,0,,0,9,13,22,v,Raptors Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,0,0,56
+22301160,71,PT06M06.00S,1,1610612751,BKN,203471,Schröder,D. Schröder,-161,206,26,Missed,1,9,13,22,h,MISS Schroder 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,57
+22301160,72,PT06M06.00S,1,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,9,13,22,v,Temple REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,58
+22301160,73,PT05M52.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,-32,48,6,Missed,1,9,13,22,v,MISS Quickley 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,59
+22301160,73,PT05M52.00S,1,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,9,13,22,h,Clowney BLOCK (1 BLK),,,1,2,60
+22301160,75,PT05M50.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,9,13,22,h,Bridges REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,61
+22301160,76,PT05M44.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,10,-2,1,Made,1,11,13,24,h,Claxton 1' Driving Dunk (4 PTS) (Schroder 3 AST),Made Shot,Driving Dunk Shot,1,2,62
+22301160,78,PT05M16.00S,1,1610612761,TOR,1641711,Dick,G. Dick,-6,170,17,Made,1,11,15,26,v,Dick 17' Pullup Jump Shot (5 PTS) (Quickley 3 AST),Made Shot,Pullup Jump shot,1,2,63
+22301160,80,PT05M04.00S,1,1610612751,BKN,1641730,Clowney,N. Clowney,25,5,3,Made,1,13,15,28,h,Clowney 3' Reverse Layup (4 PTS) (Claxton 1 AST),Made Shot,Reverse Layup Shot,1,2,64
+22301160,82,PT04M56.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,13,15,28,v,Quickley Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,65
+22301160,83,PT04M56.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,13,15,28,h,SUB: C. Johnson FOR Claxton,Substitution,,0,0,66
+22301160,84,PT04M56.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,13,15,28,h,SUB: Sharpe FOR Thomas,Substitution,,0,0,67
+22301160,85,PT04M56.00S,1,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,13,15,28,v,SUB: Gueye FOR Temple,Substitution,,0,0,68
+22301160,86,PT04M56.00S,1,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,13,15,28,v,SUB: Freeman-Liberty FOR Williams,Substitution,,0,0,69
+22301160,91,PT04M44.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,162,20,16,Made,1,15,15,30,h,C. Johnson 16' Pullup Jump Shot (2 PTS) (Bridges 2 AST),Made Shot,Pullup Jump shot,1,2,70
+22301160,93,PT04M20.00S,1,1610612761,TOR,1631338,Gueye,M. Gueye,-27,67,7,Made,1,15,17,32,v,Gueye 7' Driving Floating Jump Shot (2 PTS) (Quickley 4 AST),Made Shot,Driving Floating Jump Shot,1,2,71
+22301160,94,PT04M20.00S,1,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,15,17,32,h,Schroder S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,1,0,72
+22301160,96,PT04M20.00S,1,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,15,17,32,h,SUB: Wilson FOR Clowney,Substitution,,0,0,73
+22301160,99,PT04M20.00S,1,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,15,18,33,v,Gueye Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,74
+22301160,100,PT04M03.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,150,211,26,Missed,1,15,18,33,h,MISS Bridges 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+22301160,101,PT04M00.00S,1,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,15,18,33,v,Gueye REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,76
+22301160,102,PT03M50.00S,1,1610612761,TOR,1631338,Gueye,M. Gueye,9,65,7,Missed,1,15,18,33,v,MISS Gueye 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,77
+22301160,103,PT03M49.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,15,18,33,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+22301160,104,PT03M42.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,197,192,28,Missed,1,15,18,33,h,MISS C. Johnson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,79
+22301160,105,PT03M37.00S,1,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,0,0,0,,0,15,18,33,v,Freeman-Liberty REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+22301160,106,PT03M33.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,-199,200,28,Missed,1,15,18,33,v,MISS Agbaji 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,81
+22301160,107,PT03M29.00S,1,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,0,0,0,,0,15,18,33,v,Freeman-Liberty REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,82
+22301160,108,PT03M28.00S,1,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,9,21,2,Missed,1,15,18,33,v,MISS Freeman-Liberty 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,83
+22301160,108,PT03M28.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,15,18,33,h,Sharpe BLOCK (1 BLK),,,1,2,84
+22301160,110,PT03M25.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,15,18,33,h,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,85
+22301160,111,PT03M20.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,237,0,24,Missed,1,15,18,33,h,MISS Wilson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,86
+22301160,111,PT03M20.00S,1,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,15,18,33,v,Gueye BLOCK (1 BLK),,,1,3,87
+22301160,112,PT03M17.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,15,18,33,h,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,88
+22301160,113,PT03M16.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,29,-13,3,Made,1,17,18,35,h,Sharpe 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,89
+22301160,114,PT03M01.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,-210,181,28,Made,1,17,21,38,v,Quickley 28' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,90
+22301160,115,PT02M45.00S,1,1610612751,BKN,203471,Schröder,D. Schröder,37,-1,4,Made,1,19,21,40,h,Schroder 4' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,91
+22301160,116,PT02M38.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,-87,277,29,Missed,1,19,21,40,v,MISS Quickley 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,92
+22301160,117,PT02M35.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,19,21,40,h,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,93
+22301160,118,PT02M29.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,221,132,26,Made,1,22,21,43,h,C. Johnson 26' 3PT Running Jump Shot (5 PTS) (Wilson 1 AST),Made Shot,Running Jump Shot,1,3,94
+22301160,120,PT02M28.00S,1,0,,1610612761,,,0,0,0,,0,22,21,43,v,Raptors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,95
+22301160,121,PT02M28.00S,1,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,22,21,43,h,SUB: Watford FOR Bridges,Substitution,,0,0,96
+22301160,122,PT02M28.00S,1,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,22,21,43,h,SUB: Thomas FOR Schroder,Substitution,,0,0,97
+22301160,123,PT02M28.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,22,21,43,h,SUB: Claxton FOR Sharpe,Substitution,,0,0,98
+22301160,124,PT02M28.00S,1,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,22,21,43,v,SUB: McDaniels FOR Dick,Substitution,,0,0,99
+22301160,125,PT02M28.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,22,21,43,v,SUB: Nwora FOR Agbaji,Substitution,,0,0,100
+22301160,131,PT02M08.00S,1,1610612761,TOR,1629667,McDaniels,J. McDaniels,25,73,8,Missed,1,22,21,43,v,MISS McDaniels 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,101
+22301160,132,PT02M05.00S,1,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,22,21,43,v,Gueye REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,102
+22301160,133,PT02M04.00S,1,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,152,232,28,Made,1,22,24,46,v,Freeman-Liberty 28' 3PT Jump Shot (3 PTS) (Gueye 1 AST),Made Shot,Jump Shot,1,3,103
+22301160,135,PT01M43.00S,1,1610612751,BKN,1629661,Johnson,C. Johnson,6,184,18,Missed,1,22,24,46,h,MISS C. Johnson 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,104
+22301160,136,PT01M41.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,22,24,46,v,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,105
+22301160,137,PT01M29.00S,1,1610612761,TOR,1631338,Gueye,M. Gueye,-25,68,7,Missed,1,22,24,46,v,MISS Gueye 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,106
+22301160,138,PT01M28.00S,1,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,22,24,46,h,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,107
+22301160,139,PT01M19.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,120,250,28,Made,1,25,24,49,h,Thomas 28' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,108
+22301160,140,PT01M02.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,29,16,3,Made,1,25,26,51,v,Quickley 3' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,109
+22301160,141,PT00M51.90S,1,1610612751,BKN,1630560,Thomas,C. Thomas,27,0,3,Missed,1,25,26,51,h,MISS Thomas 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,110
+22301160,143,PT00M49.90S,1,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,25,26,51,v,Gueye REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,111
+22301160,144,PT00M46.80S,1,1610612761,TOR,1630193,Quickley,I. Quickley,-184,273,33,Missed,1,25,26,51,v,MISS Quickley 33' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,112
+22301160,145,PT00M43.30S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,25,26,51,h,Claxton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,113
+22301160,146,PT00M34.20S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,25,26,51,h,Thomas Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,114
+22301160,146,PT00M34.20S,1,1610612761,TOR,1629667,McDaniels,J. McDaniels,0,0,0,,0,25,26,51,v,McDaniels STEAL (1 STL),,,1,0,115
+22301160,148,PT00M31.00S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,25,26,51,h,Watford S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,1,0,116
+22301160,150,PT00M31.00S,1,1610612761,TOR,1629667,McDaniels,J. McDaniels,0,0,0,,0,25,27,52,v,McDaniels Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,117
+22301160,151,PT00M31.00S,1,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,25,27,52,v,SUB: Temple FOR Quickley,Substitution,,0,0,118
+22301160,153,PT00M31.00S,1,1610612761,TOR,1629667,McDaniels,J. McDaniels,0,0,0,,0,25,27,52,v,MISS McDaniels Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,119
+22301160,154,PT00M29.10S,1,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,25,27,52,h,Watford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,120
+22301160,155,PT00M14.80S,1,1610612751,BKN,1629651,Claxton,N. Claxton,-43,14,5,Made,1,27,27,54,h,Claxton 5' Driving Hook Shot (6 PTS) (Watford 1 AST),Made Shot,Driving Hook Shot,1,2,121
+22301160,156,PT00M05.80S,1,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,29,309,31,Missed,1,27,27,54,v,MISS Freeman-Liberty 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,122
+22301160,157,PT00M04.10S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,27,27,54,h,Claxton REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,123
+22301160,158,PT00M00.50S,1,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,27,27,54,v,Gueye P.FOUL (P1.T3) (E.Dalen),Foul,Personal,1,0,124
+22301160,161,PT00M00.00S,1,0,,0,,,0,0,0,,0,27,27,54,,End of 1st Period (8:04 PM EST),period,end,1,0,125
+22301160,162,PT12M00.00S,2,0,,0,,,0,0,0,,0,27,27,54,,Start of 2nd Period (8:07 PM EST),period,start,0,0,126
+22301160,163,PT11M36.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,188,209,28,Missed,1,27,27,54,h,MISS Wilson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+22301160,164,PT11M34.00S,2,0,,1610612761,,,0,0,0,,0,27,27,54,v,Raptors Rebound,Rebound,Unknown,1,0,128
+22301160,166,PT11M23.00S,2,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,27,27,54,v,Temple Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,129
+22301160,166,PT11M23.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,27,27,54,h,C. Johnson STEAL (1 STL),,,1,0,130
+22301160,168,PT11M17.00S,2,1610612751,BKN,1630570,Watford,T. Watford,10,10,1,Made,1,29,27,56,h,Watford 1' Running Finger Roll Layup (2 PTS) (C. Johnson 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,131
+22301160,170,PT10M52.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,29,27,56,h,C. Johnson S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,1,0,132
+22301160,172,PT10M52.00S,2,1610612761,TOR,1629667,McDaniels,J. McDaniels,0,0,0,,0,29,28,57,v,McDaniels Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,133
+22301160,173,PT10M52.00S,2,1610612761,TOR,1629667,McDaniels,J. McDaniels,0,0,0,,0,29,29,58,v,McDaniels Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,134
+22301160,174,PT10M37.00S,2,1610612751,BKN,1630570,Watford,T. Watford,205,194,28,Missed,1,29,29,58,h,MISS Watford 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+22301160,175,PT10M33.00S,2,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,29,29,58,v,Gueye REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,136
+22301160,176,PT10M18.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,-146,286,32,Made,1,29,32,61,v,Nwora 32' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,137
+22301160,177,PT10M09.00S,2,1610612761,TOR,1629667,McDaniels,J. McDaniels,0,0,0,,0,29,32,61,v,McDaniels P.FOUL (P1.T1) (K.Lane),Foul,Personal,1,0,138
+22301160,179,PT10M09.00S,2,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,29,32,61,h,SUB: Bridges FOR Wilson,Substitution,,0,0,139
+22301160,180,PT10M09.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,29,32,61,h,SUB: Clowney FOR Thomas,Substitution,,0,0,140
+22301160,183,PT09M53.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,29,32,61,h,Claxton Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,141
+22301160,183,PT09M53.00S,2,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,29,32,61,v,Temple STEAL (1 STL),,,1,0,142
+22301160,185,PT09M50.00S,2,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,0,13,1,Made,1,29,34,63,v,Freeman-Liberty 1' Running Dunk (5 PTS) (Nwora 1 AST),Made Shot,Running Dunk Shot,1,2,143
+22301160,187,PT09M50.00S,2,0,,1610612751,,,0,0,0,,0,29,34,63,h,NETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,144
+22301160,188,PT09M50.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,29,34,63,h,SUB: Sharpe FOR Claxton,Substitution,,0,0,145
+22301160,190,PT09M36.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,11,-6,1,Made,1,31,34,65,h,Sharpe 1' Cutting Dunk Shot (4 PTS) (Watford 2 AST),Made Shot,Cutting Dunk Shot,1,2,146
+22301160,192,PT09M13.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,224,20,0,Missed,1,31,34,65,v,MISS Nwora 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+22301160,193,PT09M10.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,31,34,65,h,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,148
+22301160,194,PT08M56.00S,2,1610612751,BKN,1630570,Watford,T. Watford,-22,1,2,Made,1,33,34,67,h,Watford 2' Driving Layup (4 PTS) (Sharpe 1 AST),Made Shot,Driving Layup Shot,1,2,149
+22301160,196,PT08M56.00S,2,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,33,34,67,v,Gueye S.FOUL (P2.T2) (E.Dalen),Foul,Shooting,1,0,150
+22301160,198,PT08M56.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,34,34,68,h,Watford Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,151
+22301160,199,PT08M36.00S,2,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,-233,25,0,Made,1,34,37,71,v,Freeman-Liberty 3PT Jump Shot (8 PTS) (Nwora 2 AST),Made Shot,Jump Shot,1,3,152
+22301160,201,PT08M23.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,223,115,25,Missed,1,34,37,71,h,MISS C. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+22301160,202,PT08M18.00S,2,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,34,37,71,h,Clowney REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,154
+22301160,203,PT08M11.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,34,37,71,h,C. Johnson Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,155
+22301160,203,PT08M11.00S,2,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,34,37,71,v,Gueye STEAL (1 STL),,,1,0,156
+22301160,205,PT07M55.00S,2,1610612761,TOR,1631338,Gueye,M. Gueye,-37,63,7,Missed,1,34,37,71,v,MISS Gueye 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,157
+22301160,206,PT07M53.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,34,37,71,h,Watford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,158
+22301160,207,PT07M49.00S,2,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,34,37,71,v,Temple S.FOUL (P1.T3) (K.Lane),Foul,Shooting,1,0,159
+22301160,209,PT07M49.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,34,37,71,h,MISS Watford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,160
+22301160,210,PT07M49.00S,2,0,,1610612751,,,0,0,0,,0,34,37,71,h,NETS Rebound,Rebound,Normal Rebound,0,0,161
+22301160,211,PT07M49.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,34,37,71,h,SUB: Schroder FOR C. Johnson,Substitution,,0,0,162
+22301160,212,PT07M49.00S,2,1610612761,TOR,1629667,McDaniels,J. McDaniels,0,0,0,,0,34,37,71,v,SUB: Dick FOR McDaniels,Substitution,,0,0,163
+22301160,213,PT07M49.00S,2,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,34,37,71,v,SUB: Agbaji FOR Temple,Substitution,,0,0,164
+22301160,217,PT07M49.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,34,37,71,h,MISS Watford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,165
+22301160,218,PT07M45.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,34,37,71,v,Nwora REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,166
+22301160,219,PT07M26.00S,2,1610612761,TOR,1631338,Gueye,M. Gueye,39,27,5,Missed,1,34,37,71,v,MISS Gueye 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,167
+22301160,219,PT07M26.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,34,37,71,h,Sharpe BLOCK (2 BLK),,,1,2,168
+22301160,221,PT07M24.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,34,37,71,h,Watford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,169
+22301160,222,PT07M21.00S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,34,37,71,v,Dick P.FOUL (P1.T4) (K.Lane),Foul,Personal,1,0,170
+22301160,224,PT07M21.00S,2,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,34,37,71,h,SUB: Thomas FOR Watford,Substitution,,0,0,171
+22301160,226,PT07M15.00S,2,1610612751,BKN,1641730,Clowney,N. Clowney,232,9,0,Missed,1,34,37,71,h,MISS Clowney 3PT Jump Shot,Missed Shot,Jump Shot,1,3,172
+22301160,227,PT07M11.00S,2,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,34,37,71,h,Bridges REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,173
+22301160,228,PT07M04.00S,2,1610612751,BKN,1628969,Bridges,M. Bridges,-197,162,26,Made,1,37,37,74,h,Bridges 26' 3PT Jump Shot (6 PTS) (Schroder 4 AST),Made Shot,Jump Shot,1,3,174
+22301160,230,PT06M50.00S,2,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,-157,127,20,Made,1,37,39,76,v,Freeman-Liberty 20' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,2,175
+22301160,231,PT06M38.00S,2,1610612751,BKN,203471,Schröder,D. Schröder,29,9,3,Missed,1,37,39,76,h,MISS Schroder 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,176
+22301160,231,PT06M38.00S,2,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,37,39,76,v,Gueye BLOCK (2 BLK),,,1,2,177
+22301160,233,PT06M35.00S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,37,39,76,v,Dick REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,178
+22301160,234,PT06M32.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,11,6,1,Made,1,37,41,78,v,Nwora 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,179
+22301160,235,PT06M22.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,-207,148,25,Made,1,40,41,81,h,Thomas 25' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,180
+22301160,236,PT06M04.00S,2,1610612761,TOR,1641711,Dick,G. Dick,70,149,16,Missed,1,40,41,81,v,MISS Dick 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,181
+22301160,237,PT06M01.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,40,41,81,h,Thomas REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,182
+22301160,238,PT05M53.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,-50,96,11,Missed,1,40,41,81,h,MISS Thomas 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,183
+22301160,239,PT05M51.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,40,41,81,h,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,184
+22301160,240,PT05M49.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,38,8,4,Missed,1,40,41,81,h,MISS Sharpe 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,185
+22301160,241,PT05M46.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,40,41,81,h,Sharpe REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,186
+22301160,242,PT05M46.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,Missed,1,40,41,81,h,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,187
+22301160,243,PT05M44.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,40,41,81,v,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,188
+22301160,244,PT05M33.00S,2,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,-4,76,8,Missed,1,40,41,81,v,MISS Freeman-Liberty 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,189
+22301160,245,PT05M32.00S,2,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,40,41,81,h,Clowney REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,190
+22301160,246,PT05M24.00S,2,1610612751,BKN,203471,Schröder,D. Schröder,-43,131,14,Missed,1,40,41,81,h,MISS Schroder 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,191
+22301160,247,PT05M24.00S,2,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,0,0,0,,0,40,41,81,v,Freeman-Liberty REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,192
+22301160,248,PT05M07.00S,2,1610612761,TOR,1641711,Dick,G. Dick,33,1,3,Missed,1,40,41,81,v,MISS Dick 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,193
+22301160,248,PT05M07.00S,2,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,40,41,81,h,Clowney BLOCK (2 BLK),,,1,2,194
+22301160,250,PT05M07.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,40,41,81,h,Sharpe REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,195
+22301160,251,PT05M03.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,40,41,81,v,Nwora S.FOUL (P1.PN) (B.Schwab),Foul,Shooting,1,0,196
+22301160,253,PT05M03.00S,2,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,41,41,82,h,Bridges Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,197
+22301160,254,PT05M03.00S,2,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,41,41,82,v,SUB: Quickley FOR Nwora,Substitution,,0,0,198
+22301160,255,PT05M03.00S,2,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,41,41,82,v,SUB: Williams FOR Gueye,Substitution,,0,0,199
+22301160,258,PT05M03.00S,2,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,42,41,83,h,Bridges Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,200
+22301160,259,PT04M47.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,47,22,5,Missed,1,42,41,83,v,MISS Quickley 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,201
+22301160,260,PT04M41.00S,2,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,42,41,83,v,Williams REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,202
+22301160,261,PT04M41.00S,2,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,Made,1,42,43,85,v,Williams Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,203
+22301160,262,PT04M26.00S,2,1610612751,BKN,203471,Schröder,D. Schröder,53,72,9,Missed,1,42,43,85,h,MISS Schroder 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,204
+22301160,263,PT04M26.00S,2,0,,1610612761,,,0,0,0,,0,42,43,85,v,Raptors Rebound,Rebound,Unknown,0,0,205
+22301160,265,PT04M26.00S,2,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,42,43,85,h,SUB: C. Johnson FOR Bridges,Substitution,,0,0,206
+22301160,266,PT04M26.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,42,43,85,h,SUB: Claxton FOR Sharpe,Substitution,,0,0,207
+22301160,270,PT04M17.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,44,21,5,Made,1,42,45,87,v,Quickley 5' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,208
+22301160,273,PT04M17.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,42,45,87,h,Claxton Violation:Defensive Goaltending (K.Lane),Violation,Defensive Goaltending,1,0,209
+22301160,271,PT04M17.00S,2,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,42,45,87,h,Schroder S.FOUL (P2.T2) (B.Schwab),Foul,Shooting,1,0,210
+22301160,274,PT04M17.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,42,46,88,v,Quickley Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,211
+22301160,276,PT04M01.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,42,46,88,h,Claxton 3 Second Violation Turnover (P3.T7),Turnover,3 Second Violation,1,0,212
+22301160,277,PT03M51.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,42,46,88,v,Quickley Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,213
+22301160,278,PT03M51.00S,2,0,,1610612751,,,0,0,0,,0,42,46,88,h,NETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,214
+22301160,279,PT03M51.00S,2,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,0,0,0,,0,42,46,88,v,SUB: Temple FOR Freeman-Liberty,Substitution,,0,0,215
+22301160,281,PT03M36.00S,2,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,42,46,88,v,Williams P.FOUL (P1.PN) (K.Lane),Foul,Personal,1,0,216
+22301160,283,PT03M36.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,43,46,89,h,Thomas Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,217
+22301160,284,PT03M36.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,44,46,90,h,Thomas Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,218
+22301160,285,PT03M14.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,-114,277,30,Missed,1,44,46,90,v,MISS Quickley 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,219
+22301160,286,PT03M13.00S,2,0,,1610612751,,,0,0,0,,0,44,46,90,h,NETS Rebound,Rebound,Unknown,1,0,220
+22301160,288,PT03M04.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,-4,0,0,Made,1,46,46,92,h,Claxton Alley Oop Layup (8 PTS) (Schroder 5 AST),Made Shot,Alley Oop Layup shot,1,2,221
+22301160,290,PT02M52.00S,2,1610612761,TOR,1641711,Dick,G. Dick,-163,246,30,Missed,1,46,46,92,v,MISS Dick 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,222
+22301160,291,PT02M49.00S,2,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,46,46,92,v,Williams REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,223
+22301160,292,PT02M49.00S,2,1610612761,TOR,1642013,Williams,M. Williams,-29,27,4,Missed,1,46,46,92,v,MISS Williams 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,224
+22301160,292,PT02M49.00S,2,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,46,46,92,h,Clowney BLOCK (3 BLK),,,1,2,225
+22301160,294,PT02M47.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,46,46,92,h,C. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,226
+22301160,295,PT02M38.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,-210,122,24,Missed,1,46,46,92,h,MISS Thomas 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,227
+22301160,296,PT02M34.00S,2,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,46,46,92,v,Williams REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,228
+22301160,297,PT02M28.00S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,46,46,92,v,Dick Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,229
+22301160,297,PT02M28.00S,2,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,46,46,92,h,Clowney STEAL (1 STL),,,1,0,230
+22301160,299,PT02M24.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,18,-2,2,Made,1,48,46,94,h,C. Johnson 2' Running Layup (7 PTS) (Claxton 2 AST),Made Shot,Running Layup Shot,1,2,231
+22301160,301,PT02M10.00S,2,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,48,46,94,h,C. Johnson S.FOUL (P2.T3) (K.Lane),Foul,Shooting,1,0,232
+22301160,303,PT02M10.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,48,47,95,v,Quickley Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,233
+22301160,304,PT02M10.00S,2,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,48,48,96,v,Quickley Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,234
+22301160,305,PT01M53.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,94,68,12,Made,1,50,48,98,h,Thomas 12' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,1,2,235
+22301160,306,PT01M28.00S,2,1610612761,TOR,1641711,Dick,G. Dick,164,191,25,Made,1,50,51,101,v,Dick 25' 3PT Jump Shot (8 PTS) (Quickley 5 AST),Made Shot,Jump Shot,1,3,236
+22301160,308,PT01M13.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,-13,1,1,Made,1,52,51,103,h,Claxton 1' Hook Shot (10 PTS) (Schroder 6 AST),Made Shot,Hook Shot,1,2,237
+22301160,310,PT01M13.00S,2,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,52,51,103,v,Dick S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,1,0,238
+22301160,312,PT01M13.00S,2,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,52,51,103,v,SUB: Freeman-Liberty FOR Williams,Substitution,,0,0,239
+22301160,313,PT01M13.00S,2,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,52,51,103,v,SUB: Gueye FOR Temple,Substitution,,0,0,240
+22301160,316,PT01M13.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,53,51,104,h,Claxton Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,241
+22301160,317,PT00M56.80S,2,1610612761,TOR,1630193,Quickley,I. Quickley,-130,256,29,Missed,1,53,51,104,v,MISS Quickley 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,242
+22301160,318,PT00M54.30S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,53,51,104,h,Claxton REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,243
+22301160,320,PT00M31.90S,2,0,,1610612751,,,0,0,0,,0,53,51,104,h,NETS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,244
+22301160,321,PT00M17.50S,2,1610612761,TOR,1641711,Dick,G. Dick,163,202,26,Made,1,53,54,107,v,Dick 26' 3PT Jump Shot (11 PTS) (Quickley 6 AST),Made Shot,Jump Shot,1,3,245
+22301160,323,PT00M01.30S,2,1610612751,BKN,1630560,Thomas,C. Thomas,-100,84,13,Missed,1,53,54,107,h,MISS Thomas 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,246
+22301160,324,PT00M01.30S,2,0,,1610612761,,,0,0,0,,0,53,54,107,v,Raptors Rebound,Rebound,Unknown,0,0,247
+22301160,325,PT00M01.30S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,53,54,107,h,Claxton L.B.FOUL (P1.T4) (E.Dalen),Foul,Loose Ball,1,0,248
+22301160,327,PT00M00.00S,2,1610612761,TOR,1641711,Dick,G. Dick,-54,525,53,Missed,1,53,54,107,v,MISS Dick 53' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,249
+22301160,328,PT00M00.00S,2,0,,1610612761,,,0,0,0,,0,53,54,107,v,Raptors Rebound,Rebound,Unknown,1,0,250
+22301160,329,PT00M00.00S,2,0,,0,,,0,0,0,,0,53,54,107,,End of 2nd Period (8:35 PM EST),period,end,1,0,251
+22301160,336,PT12M00.00S,3,0,,0,,,0,0,0,,0,53,54,107,,Start of 3rd Period (8:50 PM EST),period,start,0,0,252
+22301160,337,PT11M42.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,-23,50,6,Missed,1,53,54,107,h,MISS Claxton 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,253
+22301160,338,PT11M40.00S,3,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,53,54,107,v,Williams REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,254
+22301160,339,PT11M23.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,53,54,107,v,Quickley Traveling Turnover (P3.T6),Turnover,Traveling,1,0,255
+22301160,340,PT11M09.00S,3,1610612751,BKN,203471,Schröder,D. Schröder,222,136,26,Missed,1,53,54,107,h,MISS Schroder 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,256
+22301160,341,PT11M05.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,53,54,107,v,Dick REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,257
+22301160,342,PT10M54.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,2,257,26,Made,1,53,57,110,v,Quickley 26' 3PT Pullup Jump Shot (15 PTS) (Temple 1 AST),Made Shot,Pullup Jump shot,1,3,258
+22301160,343,PT10M32.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,-65,262,27,Missed,1,53,57,110,h,MISS Thomas 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,259
+22301160,345,PT10M32.00S,3,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,53,57,110,v,Williams REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,260
+22301160,346,PT10M25.00S,3,1610612761,TOR,1641711,Dick,G. Dick,-197,177,26,Missed,1,53,57,110,v,MISS Dick 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,261
+22301160,347,PT10M22.00S,3,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,53,57,110,v,Temple REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,262
+22301160,348,PT10M20.00S,3,1610612761,TOR,1641711,Dick,G. Dick,37,-6,4,Made,1,53,59,112,v,Dick 4' Cutting Layup Shot (13 PTS) (Temple 2 AST),Made Shot,Cutting Layup Shot,1,2,263
+22301160,349,PT10M20.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,53,59,112,h,Claxton Violation:Defensive Goaltending (E.Dalen),Violation,Defensive Goaltending,1,0,264
+22301160,351,PT10M00.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,191,152,24,Made,1,56,59,115,h,Thomas 24' 3PT Jump Shot (15 PTS) (Clowney 1 AST),Made Shot,Jump Shot,1,3,265
+22301160,353,PT09M43.00S,3,1610612761,TOR,1641711,Dick,G. Dick,-136,215,25,Missed,1,56,59,115,v,MISS Dick 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,266
+22301160,354,PT09M40.00S,3,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,56,59,115,v,Temple REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,267
+22301160,355,PT09M34.00S,3,1610612761,TOR,1641711,Dick,G. Dick,-211,140,25,Made,1,56,62,118,v,Dick 25' 3PT Step Back Jump Shot (16 PTS) (Temple 3 AST),Made Shot,Step Back Jump shot,1,3,268
+22301160,357,PT09M27.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,-223,155,27,Made,1,59,62,121,h,Bridges 27' 3PT Jump Shot (11 PTS) (Schroder 7 AST),Made Shot,Jump Shot,0,3,269
+22301160,359,PT09M15.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,48,9,5,Missed,1,59,62,121,v,MISS Quickley 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,270
+22301160,360,PT09M13.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,59,62,121,h,Claxton REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,271
+22301160,361,PT09M07.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,203,148,25,Made,1,62,62,124,h,Thomas 25' 3PT Jump Shot (18 PTS) (Claxton 3 AST),Made Shot,Jump Shot,1,3,272
+22301160,363,PT08M45.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,29,-1,3,Made,1,62,64,126,v,Agbaji 3' Cutting Layup Shot (4 PTS) (Williams 1 AST),Made Shot,Cutting Layup Shot,1,2,273
+22301160,365,PT08M26.00S,3,1610612751,BKN,1641730,Clowney,N. Clowney,-112,251,27,Missed,1,62,64,126,h,MISS Clowney 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,274
+22301160,366,PT08M23.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,62,64,126,h,Claxton REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,275
+22301160,367,PT08M20.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,47,269,27,Missed,1,62,64,126,h,MISS Thomas 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,276
+22301160,368,PT08M14.00S,3,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,62,64,126,v,Temple REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,277
+22301160,369,PT08M10.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,-27,9,3,Made,1,62,66,128,v,Quickley 3' Running Layup (17 PTS),Made Shot,Running Layup Shot,1,2,278
+22301160,370,PT07M58.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,29,5,3,Missed,1,62,66,128,h,MISS Bridges 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,279
+22301160,370,PT07M58.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,62,66,128,v,Quickley BLOCK (1 BLK),,,1,2,280
+22301160,372,PT07M54.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,62,66,128,v,Quickley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,281
+22301160,373,PT07M53.00S,3,1610612761,TOR,1641711,Dick,G. Dick,39,9,4,Made,1,62,68,130,v,Dick 4' Running Finger Roll Layup (18 PTS) (Quickley 7 AST),Made Shot,Running Finger Roll Layup Shot,1,2,282
+22301160,375,PT07M52.00S,3,0,,1610612751,,,0,0,0,,0,62,68,130,h,NETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,283
+22301160,376,PT07M38.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,229,20,0,Missed,1,62,68,130,h,MISS Bridges 3PT Jump Shot,Missed Shot,Jump Shot,1,3,284
+22301160,377,PT07M35.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,62,68,130,v,Quickley REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,285
+22301160,378,PT07M23.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,29,-8,3,Missed,1,62,68,130,v,MISS Agbaji 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,286
+22301160,379,PT07M20.00S,3,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,62,68,130,v,Williams REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,287
+22301160,380,PT07M20.00S,3,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,Missed,1,62,68,130,v,MISS Williams Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,288
+22301160,380,PT07M20.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,62,68,130,h,Claxton BLOCK (3 BLK),,,1,2,289
+22301160,382,PT07M20.00S,3,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,62,68,130,h,Clowney REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,290
+22301160,383,PT07M10.00S,3,1610612751,BKN,203471,Schröder,D. Schröder,-4,17,2,Made,1,64,68,132,h,Schroder 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,291
+22301160,384,PT06M54.00S,3,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,64,68,132,v,Williams OFF.Foul (P2) (E.Dalen),Foul,Offensive,1,0,292
+22301160,386,PT06M54.00S,3,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,64,68,132,v,Williams Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,293
+22301160,387,PT06M54.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,64,68,132,h,SUB: C. Johnson FOR Thomas,Substitution,,0,0,294
+22301160,389,PT06M41.00S,3,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,64,68,132,v,Williams S.FOUL (P3.T1) (K.Lane),Foul,Shooting,1,0,295
+22301160,391,PT06M41.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,64,68,132,h,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,296
+22301160,392,PT06M41.00S,3,0,,1610612751,,,0,0,0,,0,64,68,132,h,NETS Rebound,Rebound,Normal Rebound,0,0,297
+22301160,393,PT06M41.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,65,68,133,h,Claxton Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,298
+22301160,394,PT06M29.00S,3,1610612761,TOR,1642013,Williams,M. Williams,6,10,1,Made,1,65,70,135,v,Williams 1' Cutting Dunk Shot (7 PTS) (Temple 4 AST),Made Shot,Cutting Dunk Shot,1,2,299
+22301160,396,PT06M12.00S,3,1610612751,BKN,203471,Schröder,D. Schröder,13,11,2,Made,1,67,70,137,h,Schroder 2' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,300
+22301160,397,PT05M50.00S,3,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,67,70,137,v,Temple Traveling Turnover (P2.T8),Turnover,Traveling,1,0,301
+22301160,398,PT05M35.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,143,226,27,Missed,1,67,70,137,h,MISS Bridges 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,302
+22301160,399,PT05M32.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,67,70,137,v,Dick REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,303
+22301160,400,PT05M25.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,-181,176,25,Missed,1,67,70,137,v,MISS Quickley 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,304
+22301160,401,PT05M20.00S,3,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,67,70,137,h,Schroder REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,305
+22301160,402,PT05M14.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,-197,200,28,Missed,1,67,70,137,h,MISS C. Johnson 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+22301160,403,PT05M10.00S,3,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,67,70,137,v,Williams REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,307
+22301160,404,PT04M51.00S,3,1610612761,TOR,1642013,Williams,M. Williams,64,110,13,Missed,1,67,70,137,v,MISS Williams 13' Jump Shot,Missed Shot,Jump Shot,1,2,308
+22301160,405,PT04M49.00S,3,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,67,70,137,h,Clowney REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,309
+22301160,406,PT04M33.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,67,70,137,h,C. Johnson Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,310
+22301160,407,PT04M33.00S,3,0,,1610612761,,,0,0,0,,0,67,70,137,v,Raptors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,311
+22301160,408,PT04M33.00S,3,1610612751,BKN,1628969,Bridges,M. Bridges,0,0,0,,0,67,70,137,h,SUB: Wilson FOR Bridges,Substitution,,0,0,312
+22301160,409,PT04M33.00S,3,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,67,70,137,h,SUB: Sharpe FOR Clowney,Substitution,,0,0,313
+22301160,410,PT04M33.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,67,70,137,h,SUB: Thomas FOR Claxton,Substitution,,0,0,314
+22301160,411,PT04M33.00S,3,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,67,70,137,v,SUB: Freeman-Liberty FOR Williams,Substitution,,0,0,315
+22301160,412,PT04M33.00S,3,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,67,70,137,v,SUB: Gueye FOR Temple,Substitution,,0,0,316
+22301160,418,PT04M25.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,67,70,137,h,Thomas P.FOUL (P1.T1) (K.Lane),Foul,Personal,1,0,317
+22301160,420,PT04M17.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,28,74,8,Missed,1,67,70,137,v,MISS Quickley 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,318
+22301160,421,PT04M14.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,67,70,137,v,Quickley REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,319
+22301160,422,PT04M12.00S,3,1610612761,TOR,1641711,Dick,G. Dick,-43,240,24,Made,1,67,73,140,v,Dick 24' 3PT Jump Shot (21 PTS) (Quickley 8 AST),Made Shot,Jump Shot,1,3,320
+22301160,424,PT04M04.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,67,73,140,h,Sharpe OFF.Foul (P1) (B.Schwab),Foul,Offensive,1,0,321
+22301160,426,PT04M04.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,67,73,140,h,Sharpe Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,322
+22301160,427,PT03M45.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,31,4,3,Made,1,67,75,142,v,Agbaji 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,323
+22301160,428,PT03M45.00S,3,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,67,75,142,h,Schroder S.FOUL (P3.T2) (B.Schwab),Foul,Shooting,1,0,324
+22301160,430,PT03M45.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,67,76,143,v,Agbaji Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,325
+22301160,431,PT03M24.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,230,33,0,Made,1,70,76,146,h,Thomas 3PT Jump Shot (21 PTS) (Schroder 8 AST),Made Shot,Jump Shot,1,3,326
+22301160,433,PT03M11.00S,3,1610612761,TOR,1641711,Dick,G. Dick,191,184,27,Missed,1,70,76,146,v,MISS Dick 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,327
+22301160,434,PT03M07.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,70,76,146,h,Thomas REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,328
+22301160,435,PT03M01.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,47,260,26,Missed,1,70,76,146,h,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,329
+22301160,436,PT02M59.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,70,76,146,v,Quickley REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,330
+22301160,437,PT02M51.00S,3,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,70,76,146,h,Schroder P.FOUL (P4.T3) (K.Lane),Foul,Personal,1,0,331
+22301160,439,PT02M51.00S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,70,76,146,v,SUB: McDaniels FOR Dick,Substitution,,0,0,332
+22301160,440,PT02M51.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,70,76,146,v,SUB: Nwora FOR Agbaji,Substitution,,0,0,333
+22301160,443,PT02M42.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,70,76,146,h,Thomas S.FOUL (P2.T4) (B.Schwab),Foul,Shooting,1,0,334
+22301160,445,PT02M42.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,70,77,147,v,Quickley Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,335
+22301160,446,PT02M42.00S,3,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,70,77,147,h,SUB: Watford FOR Schroder,Substitution,,0,0,336
+22301160,448,PT02M42.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,70,78,148,v,Quickley Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,337
+22301160,449,PT02M23.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,158,21,16,Missed,1,70,78,148,h,MISS Thomas 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,338
+22301160,450,PT02M17.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,70,78,148,h,Sharpe REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,339
+22301160,451,PT02M17.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,Missed,1,70,78,148,h,MISS Sharpe Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,340
+22301160,452,PT02M16.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,70,78,148,h,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,341
+22301160,453,PT02M15.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,6,1,Made,1,72,78,150,h,Sharpe 1' Dunk (6 PTS) (Wilson 2 AST),Made Shot,Dunk Shot,1,2,342
+22301160,455,PT02M01.00S,3,1610612761,TOR,1629667,McDaniels,J. McDaniels,170,188,25,Missed,1,72,78,150,v,MISS McDaniels 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+22301160,456,PT02M01.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,72,78,150,h,Thomas REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,344
+22301160,457,PT01M51.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,33,26,4,Missed,1,72,78,150,h,MISS Thomas 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,345
+22301160,457,PT01M51.00S,3,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,72,78,150,v,Gueye BLOCK (3 BLK),,,1,2,346
+22301160,459,PT01M51.00S,3,0,,1610612751,,,0,0,0,,0,72,78,150,h,NETS Rebound,Rebound,Unknown,0,0,347
+22301160,461,PT01M51.00S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,72,78,150,v,SUB: Temple FOR Quickley,Substitution,,0,0,348
+22301160,464,PT01M38.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,72,78,150,h,Sharpe Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,349
+22301160,465,PT01M23.00S,3,1610612761,TOR,1629670,Nwora,J. Nwora,45,68,8,Missed,1,72,78,150,v,MISS Nwora 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,350
+22301160,466,PT01M19.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,72,78,150,h,C. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,351
+22301160,467,PT01M17.00S,3,1610612761,TOR,1629667,McDaniels,J. McDaniels,0,0,0,,0,72,78,150,v,McDaniels S.FOUL (P2.T2) (B.Schwab),Foul,Shooting,1,0,352
+22301160,469,PT01M17.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,73,78,151,h,C. Johnson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,353
+22301160,470,PT01M17.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,73,78,151,h,SUB: Clowney FOR Sharpe,Substitution,,0,0,354
+22301160,472,PT01M17.00S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,74,78,152,h,C. Johnson Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,355
+22301160,473,PT01M09.00S,3,1610612761,TOR,202066,Temple,G. Temple,-225,57,0,Missed,1,74,78,152,v,MISS Temple 3PT Jump Shot,Missed Shot,Jump Shot,1,3,356
+22301160,474,PT01M06.00S,3,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,74,78,152,h,Wilson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,357
+22301160,475,PT00M46.20S,3,1610612751,BKN,1630570,Watford,T. Watford,-188,183,26,Missed,1,74,78,152,h,MISS Watford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+22301160,476,PT00M42.60S,3,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,74,78,152,v,Nwora REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,359
+22301160,477,PT00M36.80S,3,1610612761,TOR,202066,Temple,G. Temple,-37,8,4,Missed,1,74,78,152,v,MISS Temple 4' Running Layup,Missed Shot,Running Layup Shot,1,2,360
+22301160,477,PT00M36.80S,3,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,74,78,152,h,Clowney BLOCK (4 BLK),,,1,2,361
+22301160,479,PT00M33.30S,3,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,74,78,152,h,Watford REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,362
+22301160,480,PT00M16.50S,3,1610612751,BKN,1629661,Johnson,C. Johnson,12,12,2,Made,1,76,78,154,h,C. Johnson 2' Driving Finger Roll Layup (11 PTS) (Watford 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,363
+22301160,482,PT00M16.50S,3,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,76,78,154,v,Gueye S.FOUL (P3.PN) (E.Dalen),Foul,Shooting,1,0,364
+22301160,484,PT00M16.50S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,76,78,154,h,SUB: Claxton FOR Thomas,Substitution,,0,0,365
+22301160,485,PT00M16.50S,3,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,0,0,0,,0,76,78,154,v,SUB: Dick FOR Freeman-Liberty,Substitution,,0,0,366
+22301160,486,PT00M16.50S,3,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,76,78,154,v,SUB: Quickley FOR Gueye,Substitution,,0,0,367
+22301160,490,PT00M16.50S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,77,78,155,h,C. Johnson Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,368
+22301160,491,PT00M02.30S,3,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,77,78,155,h,C. Johnson S.FOUL (P3.PN) (B.Schwab),Foul,Shooting,1,0,369
+22301160,493,PT00M02.30S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,77,79,156,v,Quickley Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,370
+22301160,495,PT00M02.30S,3,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,77,79,156,v,SUB: Agbaji FOR Dick,Substitution,,0,0,371
+22301160,498,PT00M02.30S,3,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,77,79,156,h,SUB: Thomas FOR Clowney,Substitution,,0,0,372
+22301160,499,PT00M02.30S,3,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,77,80,157,v,Quickley Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,373
+22301160,500,PT00M00.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,77,341,35,Missed,1,77,80,157,h,MISS Thomas 35' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,374
+22301160,501,PT00M00.00S,3,0,,1610612751,,,0,0,0,,0,77,80,157,h,NETS Rebound,Rebound,Unknown,0,0,375
+22301160,502,PT00M00.00S,3,0,,0,,,0,0,0,,0,77,80,157,,End of 3rd Period (9:17 PM EST),period,end,1,0,376
+22301160,509,PT12M00.00S,4,0,,0,,,0,0,0,,0,77,80,157,,Start of 4th Period (9:20 PM EST),period,start,0,0,377
+22301160,511,PT11M40.00S,4,1610612761,TOR,1631338,Gueye,M. Gueye,-31,16,3,Missed,1,77,80,157,v,MISS Gueye 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,378
+22301160,511,PT11M40.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,77,80,157,h,Claxton BLOCK (4 BLK),,,1,2,379
+22301160,513,PT11M37.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,77,80,157,h,Watford REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,380
+22301160,514,PT11M33.00S,4,1610612761,TOR,1629667,McDaniels,J. McDaniels,0,0,0,,0,77,80,157,v,McDaniels P.FOUL (P3.T1) (B.Schwab),Foul,Personal,1,0,381
+22301160,516,PT11M24.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,9,17,2,Made,1,79,80,159,h,Clowney 2' Driving Dunk (6 PTS) (Watford 4 AST),Made Shot,Driving Dunk Shot,1,2,382
+22301160,518,PT11M11.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,200,169,26,Made,1,79,83,162,v,Nwora 26' 3PT Jump Shot (8 PTS) (Freeman-Liberty 1 AST),Made Shot,Jump Shot,1,3,383
+22301160,520,PT10M54.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,5,159,16,Made,1,81,83,164,h,Thomas 16' Pullup Jump Shot (23 PTS) (Watford 5 AST),Made Shot,Pullup Jump shot,1,2,384
+22301160,522,PT10M37.00S,4,1610612761,TOR,1631338,Gueye,M. Gueye,175,151,23,Missed,1,81,83,164,v,MISS Gueye 23' Jump Shot,Missed Shot,Jump Shot,1,2,385
+22301160,523,PT10M37.00S,4,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,81,83,164,v,Temple REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,386
+22301160,575,PT10M36.00S,4,1610612761,TOR,202066,Temple,G. Temple,4,20,2,Missed,1,81,83,164,v,MISS Temple 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,387
+22301160,576,PT10M35.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,81,83,164,h,Claxton REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,388
+22301160,524,PT10M19.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,26,6,3,Missed,1,81,83,164,h,MISS Thomas 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,389
+22301160,524,PT10M19.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,81,83,164,v,Nwora BLOCK (1 BLK),,,1,2,390
+22301160,526,PT10M17.00S,4,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,0,0,0,,0,81,83,164,v,Freeman-Liberty REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,391
+22301160,527,PT10M15.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,81,83,164,h,Wilson S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,1,0,392
+22301160,529,PT10M15.00S,4,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,0,0,0,,0,81,84,165,v,Freeman-Liberty Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,393
+22301160,530,PT10M15.00S,4,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,0,0,0,,0,81,85,166,v,Freeman-Liberty Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,394
+22301160,553,PT09M50.00S,4,0,,1610612751,,,0,0,0,,0,81,85,166,h,NETS Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,395
+22301160,533,PT09M43.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,81,85,166,h,Thomas S.FOUL (P3.T2) (E.Dalen),Foul,Shooting,1,0,396
+22301160,535,PT09M43.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,81,86,167,v,Nwora Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,397
+22301160,536,PT09M43.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,81,86,167,v,MISS Nwora Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,398
+22301160,537,PT09M41.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,81,86,167,h,Watford REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,399
+22301160,538,PT09M31.00S,4,1610612751,BKN,1630570,Watford,T. Watford,29,16,3,Missed,1,81,86,167,h,MISS Watford 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,400
+22301160,539,PT09M31.00S,4,0,,1610612751,,,0,0,0,,0,81,86,167,h,NETS Rebound,Rebound,Unknown,1,0,401
+22301160,541,PT09M31.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,81,86,167,h,SUB: Schroder FOR Thomas,Substitution,,0,0,402
+22301160,564,PT09M31.00S,4,0,,553,,,0,0,0,,0,81,86,167,,Instant Replay4th Period (9:25 PM EST),Instant Replay,Replay Center,0,0,403
+22301160,543,PT09M19.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,23,10,3,Made,1,83,86,169,h,Clowney 3' Driving Reverse Layup (8 PTS) (Claxton 4 AST),Made Shot,Driving Reverse Layup Shot,1,2,404
+22301160,545,PT09M01.00S,4,1610612761,TOR,1629667,McDaniels,J. McDaniels,27,-1,3,Missed,1,83,86,169,v,MISS McDaniels 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,405
+22301160,545,PT09M01.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,83,86,169,h,Clowney BLOCK (5 BLK),,,1,2,406
+22301160,547,PT08M58.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,83,86,169,h,Schroder REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,407
+22301160,548,PT08M54.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,83,86,169,h,Schroder Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,408
+22301160,548,PT08M54.00S,4,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,0,0,0,,0,83,86,169,v,Freeman-Liberty STEAL (1 STL),,,1,0,409
+22301160,550,PT08M50.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,23,22,3,Missed,1,83,86,169,v,MISS Nwora 3' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,410
+22301160,551,PT08M45.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,83,86,169,v,Nwora REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,411
+22301160,552,PT08M45.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,Made,1,83,88,171,v,Nwora Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,412
+22301160,554,PT08M36.00S,4,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,83,88,171,v,Gueye S.FOUL (P4.T2) (E.Dalen),Foul,Shooting,1,0,413
+22301160,556,PT08M36.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,83,88,171,h,MISS Watford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,414
+22301160,557,PT08M36.00S,4,0,,1610612751,,,0,0,0,,0,83,88,171,h,NETS Rebound,Rebound,Normal Rebound,0,0,415
+22301160,558,PT08M36.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,84,88,172,h,Watford Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,416
+22301160,559,PT08M22.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-201,147,25,Missed,1,84,88,172,v,MISS Nwora 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,417
+22301160,560,PT08M19.00S,4,1610612761,TOR,1629667,McDaniels,J. McDaniels,0,0,0,,0,84,88,172,v,McDaniels REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,418
+22301160,561,PT08M14.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,-45,-5,5,Missed,1,84,88,172,v,MISS Nwora 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,419
+22301160,561,PT08M14.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,84,88,172,h,Clowney BLOCK (6 BLK),,,1,2,420
+22301160,563,PT08M12.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,84,88,172,h,Watford REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,421
+22301160,565,PT08M08.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,190,200,28,Missed,1,84,88,172,h,MISS Schroder 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,422
+22301160,566,PT08M01.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,84,88,172,h,Wilson REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,423
+22301160,567,PT08M01.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,Made,1,86,88,174,h,Wilson Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,424
+22301160,568,PT07M56.00S,4,0,,1610612761,,,0,0,0,,0,86,88,174,v,Raptors Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,425
+22301160,569,PT07M56.00S,4,1610612761,TOR,1629667,McDaniels,J. McDaniels,0,0,0,,0,86,88,174,v,SUB: Agbaji FOR McDaniels,Substitution,,0,0,426
+22301160,571,PT07M39.00S,4,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,78,266,28,Missed,1,86,88,174,v,MISS Freeman-Liberty 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,427
+22301160,572,PT07M35.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,86,88,174,h,Claxton REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,428
+22301160,573,PT07M18.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,-137,248,28,Missed,1,86,88,174,h,MISS Schroder 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,429
+22301160,574,PT07M15.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,86,88,174,v,Nwora REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,430
+22301160,577,PT06M56.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,7,258,26,Missed,1,86,88,174,v,MISS Nwora 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,431
+22301160,578,PT06M52.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,86,88,174,h,Wilson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,432
+22301160,579,PT06M47.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,86,88,174,h,Clowney Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,433
+22301160,581,PT06M46.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,86,88,174,h,Wilson L.B.FOUL (P2.T3) (K.Lane),Foul,Loose Ball,1,0,434
+22301160,583,PT06M46.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,86,88,174,h,SUB: C. Johnson FOR Claxton,Substitution,,0,0,435
+22301160,584,PT06M46.00S,4,1610612761,TOR,1631241,Freeman-Liberty,J. Freeman-Liberty,0,0,0,,0,86,88,174,v,SUB: Quickley FOR Freeman-Liberty,Substitution,,0,0,436
+22301160,585,PT06M46.00S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,86,88,174,v,SUB: Dick FOR Nwora,Substitution,,0,0,437
+22301160,589,PT06M26.00S,4,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,86,88,174,v,Quickley Bad Pass Turnover (P4.T9),Turnover,Bad Pass,1,0,438
+22301160,589,PT06M26.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,86,88,174,h,Schroder STEAL (1 STL),,,1,0,439
+22301160,591,PT06M17.00S,4,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,86,88,174,v,Raptors T.Foul (Def. 3 Sec Agbaji ) (B.Schwab),Foul,Defense 3 Second,1,0,440
+22301160,592,PT06M17.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,87,88,175,h,C. Johnson Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,1,0,441
+22301160,593,PT06M17.00S,4,0,,1610612751,,,0,0,0,,0,87,88,175,h,NETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,442
+22301160,594,PT06M17.00S,4,1610612751,BKN,1630570,Watford,T. Watford,0,0,0,,0,87,88,175,h,SUB: Thomas FOR Watford,Substitution,,0,0,443
+22301160,595,PT06M17.00S,4,1610612761,TOR,1631338,Gueye,M. Gueye,0,0,0,,0,87,88,175,v,SUB: Williams FOR Gueye,Substitution,,0,0,444
+22301160,598,PT06M03.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,146,6,15,Missed,1,87,88,175,h,MISS Thomas 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,445
+22301160,599,PT06M00.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,87,88,175,h,Schroder REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,446
+22301160,600,PT05M59.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,-136,262,30,Made,1,90,88,178,h,Schroder 30' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,1,3,447
+22301160,601,PT05M41.00S,4,1610612761,TOR,1630193,Quickley,I. Quickley,134,264,30,Made,1,90,91,181,v,Quickley 30' 3PT Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,1,3,448
+22301160,602,PT05M26.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,-169,222,28,Made,1,93,91,184,h,Schroder 28' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,3,449
+22301160,603,PT05M02.00S,4,1610612761,TOR,1641711,Dick,G. Dick,239,45,24,Made,1,93,94,187,v,Dick 24' 3PT Jump Shot (24 PTS) (Quickley 9 AST),Made Shot,Jump Shot,1,3,450
+22301160,605,PT04M46.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,-12,4,1,Made,1,95,94,189,h,Schroder 1' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,451
+22301160,606,PT04M22.00S,4,1610612761,TOR,1630193,Quickley,I. Quickley,134,252,29,Missed,1,95,94,189,v,MISS Quickley 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,452
+22301160,607,PT04M20.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,95,94,189,h,Schroder REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,453
+22301160,608,PT04M20.00S,4,0,,1610612751,,,0,0,0,,0,95,94,189,h,NETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,454
+22301160,609,PT03M56.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,28,8,3,Missed,1,95,94,189,h,MISS Schroder 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,455
+22301160,610,PT03M53.00S,4,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,95,94,189,v,Williams REBOUND (Off:5 Def:6),Rebound,Unknown,1,0,456
+22301160,611,PT03M49.00S,4,1610612761,TOR,1630193,Quickley,I. Quickley,60,84,10,Made,1,95,96,191,v,Quickley 10' Running Pull-Up Jump Shot (26 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,457
+22301160,612,PT03M49.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,95,96,191,h,C. Johnson S.FOUL (P4.T4) (B.Schwab),Foul,Shooting,1,0,458
+22301160,614,PT03M49.00S,4,1610612751,BKN,1630592,Wilson,J. Wilson,0,0,0,,0,95,96,191,h,SUB: Claxton FOR Wilson,Substitution,,0,0,459
+22301160,616,PT03M49.00S,4,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,95,97,192,v,Quickley Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,1,0,460
+22301160,617,PT03M32.00S,4,1610612761,TOR,1641711,Dick,G. Dick,0,0,0,,0,95,97,192,v,Dick P.FOUL (P3.T3) (B.Schwab),Foul,Personal,1,0,461
+22301160,619,PT03M20.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,-71,279,29,Missed,1,95,97,192,h,MISS Schroder 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,462
+22301160,620,PT03M16.00S,4,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,95,97,192,v,Williams REBOUND (Off:5 Def:7),Rebound,Unknown,1,0,463
+22301160,621,PT02M57.00S,4,1610612761,TOR,1630193,Quickley,I. Quickley,129,89,16,Missed,1,95,97,192,v,MISS Quickley 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,464
+22301160,621,PT02M57.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,95,97,192,h,Thomas BLOCK (1 BLK),,,1,2,465
+22301160,623,PT02M52.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,95,97,192,h,Schroder REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,466
+22301160,625,PT02M35.00S,4,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,95,97,192,v,Quickley P.FOUL (P2.T4) (K.Lane),Foul,Personal,1,0,467
+22301160,627,PT02M27.00S,4,1610612751,BKN,203471,Schröder,D. Schröder,-232,23,0,Missed,1,95,97,192,h,MISS Schroder 3PT Jump Shot,Missed Shot,Jump Shot,1,3,468
+22301160,628,PT02M22.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,95,97,192,h,Clowney REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,469
+22301160,629,PT02M22.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,Made,1,97,97,194,h,Clowney Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,1,2,470
+22301160,630,PT02M03.00S,4,1610612761,TOR,1630193,Quickley,I. Quickley,159,-1,16,Missed,1,97,97,194,v,MISS Quickley 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,471
+22301160,631,PT02M00.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,97,97,194,h,Claxton REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,472
+22301160,632,PT01M49.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,7,16,2,Made,1,99,97,196,h,Claxton 2' Cutting Dunk Shot (14 PTS) (Schroder 9 AST),Made Shot,Cutting Dunk Shot,1,2,473
+22301160,634,PT01M49.00S,4,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,99,97,196,v,Williams S.FOUL (P4.PN) (E.Dalen),Foul,Shooting,1,0,474
+22301160,636,PT01M49.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,99,97,196,h,MISS Claxton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,475
+22301160,637,PT01M46.00S,4,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,99,97,196,v,Williams REBOUND (Off:5 Def:8),Rebound,Unknown,1,0,476
+22301160,638,PT01M25.00S,4,1610612761,TOR,1642013,Williams,M. Williams,-28,4,3,Missed,1,99,97,196,v,MISS Williams 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,477
+22301160,638,PT01M25.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,99,97,196,h,Claxton BLOCK (5 BLK),,,1,2,478
+22301160,640,PT01M21.00S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,99,97,196,h,C. Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,479
+22301160,641,PT01M05.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,69,162,18,Missed,1,99,97,196,h,MISS Thomas 18' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,480
+22301160,642,PT01M03.00S,4,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,99,97,196,v,Williams REBOUND (Off:5 Def:9),Rebound,Unknown,1,0,481
+22301160,643,PT00M49.90S,4,1610612761,TOR,1630193,Quickley,I. Quickley,-180,189,26,Made,1,99,100,199,v,Quickley 26' 3PT Step Back Jump Shot (30 PTS),Made Shot,Step Back Jump shot,1,3,482
+22301160,644,PT00M49.90S,4,0,,1610612751,,,0,0,0,,0,99,100,199,h,NETS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,483
+22301160,645,PT00M35.30S,4,1610612751,BKN,203471,Schröder,D. Schröder,13,17,2,Made,1,101,100,201,h,Schroder 2' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,484
+22301160,646,PT00M35.30S,4,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,101,100,201,v,Quickley S.FOUL (P3.PN) (K.Lane),Foul,Shooting,1,0,485
+22301160,648,PT00M35.30S,4,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,102,100,202,h,Schroder Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,486
+22301160,649,PT00M35.30S,4,0,,1610612761,,,0,0,0,,0,102,100,202,v,Raptors Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,487
+22301160,650,PT00M35.30S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,102,100,202,h,SUB: Wilson FOR C. Johnson,Substitution,,0,0,488
+22301160,651,PT00M35.30S,4,1610612761,TOR,1642013,Williams,M. Williams,0,0,0,,0,102,100,202,v,SUB: Nwora FOR Williams,Substitution,,0,0,489
+22301160,654,PT00M21.70S,4,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,102,100,202,v,Temple Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0,490
+22301160,654,PT00M21.70S,4,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,102,100,202,h,Schroder STEAL (2 STL),,,1,0,491
+22301160,656,PT00M21.60S,4,0,,1610612751,,,0,0,0,,0,102,100,202,h,NETS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,492
+22301160,657,PT00M21.60S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,102,100,202,h,SUB: C. Johnson FOR Claxton,Substitution,,0,0,493
+22301160,659,PT00M17.80S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,102,100,202,h,Clowney Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0,494
+22301160,659,PT00M17.80S,4,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,102,100,202,v,Temple STEAL (2 STL),,,1,0,495
+22301160,661,PT00M15.00S,4,1610612761,TOR,202066,Temple,G. Temple,1,11,1,Missed,1,102,100,202,v,MISS Temple 1' Running Layup,Missed Shot,Running Layup Shot,1,2,496
+22301160,661,PT00M15.00S,4,1610612751,BKN,1641730,Clowney,N. Clowney,0,0,0,,0,102,100,202,h,Clowney BLOCK (7 BLK),,,1,2,497
+22301160,663,PT00M13.10S,4,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,102,100,202,h,Schroder REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,498
+22301160,664,PT00M13.10S,4,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,102,100,202,v,Quickley P.FOUL (P4.PN) (B.Schwab),Foul,Personal,1,0,499
+22301160,667,PT00M13.10S,4,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,103,100,203,h,Schroder Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,500
+22301160,668,PT00M13.10S,4,1610612751,BKN,1629661,Johnson,C. Johnson,0,0,0,,0,103,100,203,h,SUB: Claxton FOR C. Johnson,Substitution,,0,0,501
+22301160,670,PT00M13.10S,4,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,104,100,204,h,Schroder Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,502
+22301160,673,PT00M05.90S,4,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,Made,1,104,102,206,v,Quickley Driving Layup (32 PTS),Made Shot,Driving Layup Shot,1,2,503
+22301160,675,PT00M05.90S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,104,102,206,h,Claxton Violation:Defensive Goaltending (B.Schwab),Violation,Defensive Goaltending,1,0,504
+22301160,676,PT00M05.90S,4,0,,675,Burrough,J. Burrough,0,0,0,,0,104,102,206,,Instant Replay4th Period (9:56 PM EST),Instant Replay,Support Ruling,0,0,505
+22301160,679,PT00M04.30S,4,1610612761,TOR,1630193,Quickley,I. Quickley,0,0,0,,0,104,102,206,v,Quickley Personal Take Foul (P5.PN) (E.Dalen),Foul,Personal Take,1,0,506
+22301160,681,PT00M04.30S,4,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,105,102,207,h,Schroder Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,507
+22301160,682,PT00M04.30S,4,1610612761,TOR,1629670,Nwora,J. Nwora,0,0,0,,0,105,102,207,v,SUB: Williams FOR Nwora,Substitution,,0,0,508
+22301160,684,PT00M04.30S,4,1610612751,BKN,203471,Schröder,D. Schröder,0,0,0,,0,106,102,208,h,Schroder Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,509
+22301160,685,PT00M04.30S,4,0,,1610612761,,,0,0,0,,0,106,102,208,v,Raptors Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,510
+22301160,686,PT00M04.30S,4,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,106,102,208,v,SUB: Nwora FOR Agbaji,Substitution,,0,0,511
+22301160,688,PT00M01.80S,4,1610612761,TOR,1641711,Dick,G. Dick,-67,264,27,Missed,1,106,102,208,v,MISS Dick 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,512
+22301160,689,PT00M01.80S,4,0,,1610612761,,,0,0,0,,0,106,102,208,v,Raptors Rebound,Rebound,Unknown,1,0,513
+22301160,690,PT00M00.00S,4,0,,0,,,0,0,0,,0,106,102,208,,End of 4th Period (10:02 PM EST),period,end,1,0,514

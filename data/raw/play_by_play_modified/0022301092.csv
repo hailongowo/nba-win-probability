@@ -1,0 +1,479 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22301092,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+22301092,4,PT12M00.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Jump Ball Valanciunas vs. Nurkic: Tip to Williamson,Jump Ball,,1,0,2
+22301092,7,PT11M41.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,114,8,11,Made,1,2,0,2,h,Valanciunas 11' Jump Shot (2 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,2,3
+22301092,9,PT11M19.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,2,0,2,h,Williamson S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,1,0,4
+22301092,11,PT11M19.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,2,1,3,v,Nurkic Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,5
+22301092,12,PT11M19.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,2,1,3,v,MISS Nurkic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,6
+22301092,13,PT11M16.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,2,1,3,h,Valanciunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+22301092,14,PT11M02.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-94,7,9,Missed,1,2,1,3,h,MISS Valanciunas 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,8
+22301092,15,PT11M00.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,2,1,3,v,Durant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+22301092,16,PT10M53.00S,1,1610612756,PHX,201142,Durant,K. Durant,163,211,27,Missed,1,2,1,3,v,MISS Durant 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,10
+22301092,17,PT10M48.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,2,1,3,v,Nurkic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,11
+22301092,18,PT10M46.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-29,148,15,Made,1,2,3,5,v,Booker 15' Pullup Jump Shot (2 PTS) (Nurkic 1 AST),Made Shot,Pullup Jump shot,1,2,12
+22301092,20,PT10M32.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,4,68,7,Made,1,4,3,7,h,McCollum 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,13
+22301092,21,PT10M19.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-223,2,0,Made,1,4,6,10,v,Booker 3PT Jump Shot (5 PTS) (Nurkic 2 AST),Made Shot,Jump Shot,1,3,14
+22301092,23,PT10M09.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,-225,15,0,Made,1,7,6,13,h,Murphy III 3PT Jump Shot (3 PTS) (Williamson 1 AST),Made Shot,Jump Shot,1,3,15
+22301092,25,PT09M51.00S,1,1610612756,PHX,201142,Durant,K. Durant,121,226,26,Made,1,7,9,16,v,Durant 26' 3PT Jump Shot (3 PTS) (Booker 1 AST),Made Shot,Jump Shot,1,3,16
+22301092,27,PT09M37.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-234,7,0,Missed,1,7,9,16,h,MISS Valanciunas 3PT Jump Shot,Missed Shot,Jump Shot,1,3,17
+22301092,28,PT09M34.00S,1,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,7,9,16,v,Beal REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,18
+22301092,29,PT09M29.00S,1,1610612756,PHX,201142,Durant,K. Durant,136,220,26,Made,1,7,12,19,v,Durant 26' 3PT Running Pull-Up Jump Shot (6 PTS) (Beal 1 AST),Made Shot,Running Pull-Up Jump Shot,1,3,19
+22301092,31,PT09M16.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-13,259,26,Made,1,10,12,22,h,McCollum 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,20
+22301092,32,PT09M02.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,-7,4,1,Made,1,10,14,24,v,Nurkic 1' Cutting Dunk Shot (3 PTS) (Booker 2 AST),Made Shot,Cutting Dunk Shot,1,2,21
+22301092,34,PT08M51.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-141,223,26,Missed,1,10,14,24,h,MISS McCollum 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,22
+22301092,35,PT08M47.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,10,14,24,v,Nurkic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,23
+22301092,36,PT08M41.00S,1,1610612756,PHX,1626164,Booker,D. Booker,31,251,25,Missed,1,10,14,24,v,MISS Booker 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,24
+22301092,37,PT08M37.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,10,14,24,h,Valanciunas REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,25
+22301092,38,PT08M31.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,-195,199,28,Made,1,13,14,27,h,Murphy III 28' 3PT Jump Shot (6 PTS) (McCollum 1 AST),Made Shot,Jump Shot,1,3,26
+22301092,40,PT08M24.00S,1,1610612756,PHX,1628960,Allen,G. Allen,-221,-7,0,Missed,1,13,14,27,v,MISS Allen 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+22301092,41,PT08M19.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,13,14,27,h,Murphy III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+22301092,44,PT08M00.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-48,48,7,Missed,1,13,14,27,h,MISS McCollum 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,29
+22301092,45,PT07M59.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,13,14,27,h,McCollum REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,30
+22301092,46,PT07M55.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-235,-1,24,Missed,1,13,14,27,h,MISS McCollum 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,31
+22301092,47,PT07M52.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,13,14,27,v,Nurkic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,32
+22301092,48,PT07M35.00S,1,1610612756,PHX,201142,Durant,K. Durant,55,99,11,Missed,1,13,14,27,v,MISS Durant 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,33
+22301092,49,PT07M34.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,13,14,27,v,Nurkic REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,34
+22301092,50,PT07M32.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,-20,11,2,Missed,1,13,14,27,v,MISS Nurkic 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,35
+22301092,51,PT07M30.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,13,14,27,h,Murphy III REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,36
+22301092,52,PT07M26.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,13,14,27,h,Murphy III Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,37
+22301092,53,PT07M11.00S,1,1610612756,PHX,1626164,Booker,D. Booker,178,187,26,Made,1,13,17,30,v,Booker 26' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,3,38
+22301092,54,PT06M57.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,42,65,8,Made,1,15,17,32,h,Valanciunas 8' Floating Jump Shot (4 PTS) (Williamson 2 AST),Made Shot,Floating Jump shot,1,2,39
+22301092,56,PT06M36.00S,1,1610612756,PHX,201142,Durant,K. Durant,15,135,14,Made,1,15,19,34,v,Durant 14' Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,1,2,40
+22301092,57,PT06M36.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,15,19,34,h,Jones S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,1,0,41
+22301092,59,PT06M36.00S,1,0,,1610612740,,,0,0,0,,0,15,19,34,h,PELICANS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,42
+22301092,60,PT06M36.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,15,20,35,v,Durant Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,43
+22301092,61,PT06M23.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,131,6,13,Missed,1,15,20,35,h,MISS Valanciunas 13' Jump Shot,Missed Shot,Jump Shot,1,2,44
+22301092,62,PT06M20.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,15,20,35,v,Nurkic REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,45
+22301092,63,PT06M08.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,15,20,35,h,Valanciunas Violation:Kicked Ball (N.Buchert),Violation,Kicked Ball,0,0,46
+22301092,64,PT05M57.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-87,242,26,Made,1,15,23,38,v,Booker 26' 3PT Pullup Jump Shot (11 PTS) (Beal 2 AST),Made Shot,Pullup Jump shot,1,3,47
+22301092,66,PT05M41.00S,1,1610612740,NOP,1630529,Jones,H. Jones,-195,162,25,Missed,1,15,23,38,h,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,48
+22301092,67,PT05M38.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,15,23,38,v,Nurkic REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,49
+22301092,68,PT05M34.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-212,137,25,Made,1,15,26,41,v,Booker 25' 3PT Running Jump Shot (14 PTS) (Allen 1 AST),Made Shot,Running Jump Shot,1,3,50
+22301092,70,PT05M31.00S,1,0,,1610612740,,,0,0,0,,0,15,26,41,h,PELICANS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,51
+22301092,71,PT05M31.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,15,26,41,h,SUB: Hawkins FOR Valanciunas,Substitution,,0,0,52
+22301092,72,PT05M31.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,15,26,41,h,SUB: Nance Jr. FOR McCollum,Substitution,,0,0,53
+22301092,73,PT05M31.00S,1,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,15,26,41,v,SUB: Gordon FOR Beal,Substitution,,0,0,54
+22301092,77,PT05M22.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,15,26,41,h,Williamson Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,55
+22301092,77,PT05M22.00S,1,1610612756,PHX,201569,Gordon,E. Gordon,0,0,0,,0,15,26,41,v,Gordon STEAL (1 STL),,,1,0,56
+22301092,79,PT05M17.00S,1,1610612756,PHX,201142,Durant,K. Durant,2,11,1,Made,1,15,28,43,v,Durant 1' Running Dunk (11 PTS) (Gordon 1 AST),Made Shot,Running Dunk Shot,1,2,57
+22301092,81,PT05M00.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,-158,256,30,Made,1,18,28,46,h,Murphy III 30' 3PT Jump Shot (9 PTS) (Williamson 3 AST),Made Shot,Jump Shot,1,3,58
+22301092,83,PT04M41.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-22,4,2,Made,1,18,30,48,v,Booker 2' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,59
+22301092,84,PT04M31.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,18,30,48,v,Booker P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,1,0,60
+22301092,86,PT04M23.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,6,60,6,Missed,1,18,30,48,h,MISS Williamson 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,61
+22301092,86,PT04M23.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,18,30,48,v,Nurkic BLOCK (1 BLK),,,1,2,62
+22301092,87,PT04M20.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,18,30,48,v,Nurkic REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,63
+22301092,88,PT04M11.00S,1,1610612756,PHX,201569,Gordon,E. Gordon,224,3,0,Made,1,18,33,51,v,Gordon 3PT Jump Shot (3 PTS) (Allen 2 AST),Made Shot,Jump Shot,1,3,64
+22301092,90,PT03M54.00S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,-6,84,8,Missed,1,18,33,51,h,MISS Hawkins 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,65
+22301092,91,PT03M51.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,18,33,51,v,Durant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,66
+22301092,92,PT03M44.00S,1,1610612756,PHX,1628960,Allen,G. Allen,-235,-10,24,Made,1,18,36,54,v,Allen 24' 3PT Jump Shot (3 PTS) (Booker 3 AST),Made Shot,Jump Shot,1,3,67
+22301092,95,PT03M25.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,162,230,28,Missed,1,18,36,54,h,MISS Murphy III 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,68
+22301092,96,PT03M22.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,18,36,54,v,Nurkic REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,69
+22301092,97,PT03M10.00S,1,1610612756,PHX,1628960,Allen,G. Allen,5,3,1,Made,1,18,38,56,v,Allen 1' Driving Dunk (5 PTS) (Booker 4 AST),Made Shot,Driving Dunk Shot,1,2,70
+22301092,99,PT02M56.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,18,38,56,v,Nurkic Violation:Kicked Ball (J.Schroeder),Violation,Kicked Ball,0,0,71
+22301092,100,PT02M56.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,18,38,56,h,SUB: McCollum FOR Jones,Substitution,,0,0,72
+22301092,101,PT02M56.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,18,38,56,h,SUB: Marshall FOR Murphy III,Substitution,,0,0,73
+22301092,102,PT02M56.00S,1,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,18,38,56,v,SUB: Eubanks FOR Nurkic,Substitution,,0,0,74
+22301092,106,PT02M48.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,-18,-8,2,Made,1,20,38,58,h,Williamson 2' Driving Finger Roll Layup (2 PTS) (McCollum 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,75
+22301092,108,PT02M37.00S,1,1610612756,PHX,1626164,Booker,D. Booker,197,173,26,Made,1,20,41,61,v,Booker 26' 3PT Pullup Jump Shot (19 PTS) (Durant 1 AST),Made Shot,Pullup Jump shot,1,3,76
+22301092,111,PT02M27.00S,1,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,20,41,61,v,SUB: O'Neale FOR Allen,Substitution,,0,0,77
+22301092,112,PT02M27.00S,1,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,20,41,61,v,SUB: Beal FOR Durant,Substitution,,0,0,78
+22301092,115,PT02M13.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,6,16,2,Missed,1,20,41,61,h,MISS Williamson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,79
+22301092,115,PT02M13.00S,1,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,20,41,61,v,Eubanks BLOCK (1 BLK),,,1,2,80
+22301092,117,PT02M10.00S,1,1610612756,PHX,201569,Gordon,E. Gordon,0,0,0,,0,20,41,61,v,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+22301092,118,PT01M59.00S,1,1610612756,PHX,201569,Gordon,E. Gordon,183,209,28,Missed,1,20,41,61,v,MISS Gordon 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,82
+22301092,119,PT01M57.00S,1,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,20,41,61,v,O'Neale REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,83
+22301092,120,PT01M51.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,20,41,61,h,Williamson S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,1,0,84
+22301092,122,PT01M51.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,20,42,62,v,Booker Free Throw 1 of 3 (20 PTS),Free Throw,Free Throw 1 of 3,1,0,85
+22301092,123,PT01M51.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,20,43,63,v,Booker Free Throw 2 of 3 (21 PTS),Free Throw,Free Throw 2 of 3,1,0,86
+22301092,124,PT01M51.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,20,43,63,h,SUB: Daniels FOR Williamson,Substitution,,0,0,87
+22301092,126,PT01M51.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,20,44,64,v,Booker Free Throw 3 of 3 (22 PTS),Free Throw,Free Throw 3 of 3,1,0,88
+22301092,127,PT01M30.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,-42,34,5,Missed,1,20,44,64,h,MISS Marshall 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,89
+22301092,128,PT01M28.00S,1,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,20,44,64,h,Daniels REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,90
+22301092,129,PT01M26.00S,1,1610612740,NOP,1630700,Daniels,D. Daniels,-2,67,7,Made,1,22,44,66,h,Daniels 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,91
+22301092,130,PT01M17.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-137,63,15,Made,1,22,46,68,v,Booker 15' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,2,92
+22301092,131,PT00M58.80S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-235,32,24,Made,1,25,46,71,h,Nance Jr. 24' 3PT Jump Shot (3 PTS) (Daniels 1 AST),Made Shot,Jump Shot,1,3,93
+22301092,133,PT00M36.20S,1,1610612756,PHX,1626164,Booker,D. Booker,-91,256,27,Missed,1,25,46,71,v,MISS Booker 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,94
+22301092,134,PT00M32.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,25,46,71,h,McCollum REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,95
+22301092,135,PT00M24.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,18,12,2,Missed,1,25,46,71,h,MISS Nance Jr. 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,96
+22301092,136,PT00M23.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,25,46,71,h,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,97
+22301092,140,PT00M23.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,5,0,1,Missed,1,25,46,71,h,MISS Nance Jr. 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,98
+22301092,141,PT00M22.70S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,25,46,71,h,Nance Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,99
+22301092,137,PT00M18.10S,1,1610612740,NOP,1630700,Daniels,D. Daniels,230,-11,0,Made,1,28,46,74,h,Daniels 3PT Jump Shot (5 PTS) (Marshall 1 AST),Made Shot,Jump Shot,1,3,100
+22301092,139,PT00M00.90S,1,1610612756,PHX,203078,Beal,B. Beal,-62,163,17,Missed,1,28,46,74,v,MISS Beal 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,101
+22301092,142,PT00M00.20S,1,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,28,46,74,h,Daniels REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,102
+22301092,143,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,46,74,,End of 1st Period (8:33 PM EST),period,end,1,0,103
+22301092,146,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,46,74,,Start of 2nd Period (8:36 PM EST),period,start,0,0,104
+22301092,147,PT11M45.00S,2,1610612756,PHX,203078,Beal,B. Beal,-232,67,24,Missed,1,28,46,74,v,MISS Beal 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,105
+22301092,148,PT11M41.00S,2,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,28,46,74,v,Durant REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,106
+22301092,149,PT11M39.00S,2,1610612756,PHX,201142,Durant,K. Durant,-156,211,26,Missed,1,28,46,74,v,MISS Durant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+22301092,150,PT11M36.00S,2,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,28,46,74,v,O'Neale REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,108
+22301092,151,PT11M30.00S,2,1610612756,PHX,201569,Gordon,E. Gordon,164,226,28,Missed,1,28,46,74,v,MISS Gordon 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+22301092,152,PT11M28.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,28,46,74,h,Marshall REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,110
+22301092,154,PT11M09.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-4,116,12,Missed,1,28,46,74,h,MISS Nance Jr. 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,111
+22301092,155,PT11M05.00S,2,0,,1610612740,,,0,0,0,,0,28,46,74,h,PELICANS Rebound,Rebound,Unknown,1,0,112
+22301092,157,PT10M53.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,59,8,6,Missed,1,28,46,74,h,MISS Daniels 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,113
+22301092,158,PT10M53.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,28,46,74,h,Nance Jr. REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,114
+22301092,159,PT10M53.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Made,1,30,46,76,h,Nance Jr. Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,115
+22301092,160,PT10M53.00S,2,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,30,46,76,v,Eubanks S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,1,0,116
+22301092,162,PT10M53.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,31,46,77,h,Nance Jr. Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,117
+22301092,163,PT10M40.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,31,46,77,h,Marshall P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,1,0,118
+22301092,165,PT10M31.00S,2,1610612756,PHX,203078,Beal,B. Beal,232,21,0,Made,1,31,49,80,v,Beal 3PT Jump Shot (3 PTS) (Eubanks 1 AST),Made Shot,Jump Shot,1,3,119
+22301092,167,PT10M16.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,4,105,11,Missed,1,31,49,80,h,MISS McCollum 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,120
+22301092,168,PT10M13.00S,2,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,31,49,80,v,Eubanks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,121
+22301092,176,PT09M55.00S,2,1610612756,PHX,1629234,Eubanks,D. Eubanks,-6,77,8,Missed,1,31,49,80,v,MISS Eubanks 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,122
+22301092,176,PT09M55.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,31,49,80,h,McCollum BLOCK (1 BLK),,,1,2,123
+22301092,178,PT09M55.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,31,49,80,h,Hawkins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,124
+22301092,171,PT09M38.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,-20,-3,2,Made,1,33,49,82,h,Daniels 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,125
+22301092,173,PT09M21.00S,2,1610612756,PHX,201142,Durant,K. Durant,87,241,26,Made,1,33,52,85,v,Durant 26' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,126
+22301092,174,PT09M05.00S,2,1610612756,PHX,201569,Gordon,E. Gordon,0,0,0,,0,33,52,85,v,Gordon P.FOUL (P1.T2) (Z.Zarba),Foul,Personal,1,0,127
+22301092,179,PT09M05.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,33,52,85,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,128
+22301092,180,PT09M05.00S,2,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,33,52,85,v,SUB: Bol FOR O'Neale,Substitution,,0,0,129
+22301092,183,PT08M58.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,33,52,85,h,McCollum Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,130
+22301092,183,PT08M58.00S,2,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,33,52,85,v,Beal STEAL (1 STL),,,1,0,131
+22301092,185,PT08M43.00S,2,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,33,52,85,v,Beal Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,132
+22301092,186,PT08M23.00S,2,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,33,52,85,v,Eubanks P.FOUL (P2.T3) (Z.Zarba),Foul,Personal,1,0,133
+22301092,188,PT08M23.00S,2,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,33,52,85,v,SUB: Nurkic FOR Eubanks,Substitution,,0,0,134
+22301092,190,PT08M13.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,33,52,85,v,Nurkic P.FOUL (P1.T4) (J.Schroeder),Foul,Personal,1,0,135
+22301092,192,PT07M59.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,17,26,3,Missed,1,33,52,85,h,MISS Valanciunas 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,136
+22301092,193,PT07M56.00S,2,1610612756,PHX,1629626,Bol,B. Bol,0,0,0,,0,33,52,85,v,Bol REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,137
+22301092,194,PT07M44.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,-7,25,3,Missed,1,33,52,85,v,MISS Nurkic 3' Layup,Missed Shot,Layup Shot,1,2,138
+22301092,195,PT07M42.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,33,52,85,v,Nurkic REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,139
+22301092,196,PT07M42.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,Missed,1,33,52,85,v,MISS Nurkic Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,140
+22301092,197,PT07M41.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,33,52,85,h,Valanciunas REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,141
+22301092,198,PT07M29.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-29,127,13,Made,1,35,52,87,h,Valanciunas 13' Jump Shot (6 PTS) (McCollum 3 AST),Made Shot,Jump Shot,1,2,142
+22301092,201,PT07M15.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,35,52,87,h,SUB: Williamson FOR McCollum,Substitution,,0,0,143
+22301092,202,PT07M15.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,35,52,87,h,SUB: Murphy III FOR Hawkins,Substitution,,0,0,144
+22301092,203,PT07M15.00S,2,1610612756,PHX,201569,Gordon,E. Gordon,0,0,0,,0,35,52,87,v,SUB: Allen FOR Gordon,Substitution,,0,0,145
+22301092,207,PT07M09.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,1,63,6,Missed,1,35,52,87,v,MISS Nurkic 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,146
+22301092,208,PT07M09.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,35,52,87,v,Nurkic REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,147
+22301092,209,PT07M09.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,35,52,87,h,Daniels S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,1,0,148
+22301092,211,PT07M09.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,35,53,88,v,Nurkic Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,149
+22301092,212,PT07M09.00S,2,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,35,53,88,v,SUB: Booker FOR Beal,Substitution,,0,0,150
+22301092,214,PT07M09.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,35,54,89,v,Nurkic Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,151
+22301092,215,PT06M52.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,71,7,Missed,1,35,54,89,h,MISS Daniels 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,152
+22301092,216,PT06M51.00S,2,1610612756,PHX,1629626,Bol,B. Bol,0,0,0,,0,35,54,89,v,Bol REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,153
+22301092,217,PT06M40.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,35,54,89,h,Marshall P.FOUL (P2.T3) (N.Buchert),Foul,Personal,1,0,154
+22301092,219,PT06M40.00S,2,0,,1610612740,,,0,0,0,,0,35,54,89,h,PELICANS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,155
+22301092,220,PT06M40.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,35,54,89,h,SUB: Jones FOR Marshall,Substitution,,0,0,156
+22301092,222,PT06M26.00S,2,1610612756,PHX,201142,Durant,K. Durant,-1,25,3,Made,1,35,56,91,v,Durant 3' Driving Layup (16 PTS) (Nurkic 3 AST),Made Shot,Driving Layup Shot,1,2,157
+22301092,224,PT06M14.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,35,56,91,v,Nurkic S.FOUL (P2.PN) (N.Buchert),Foul,Shooting,1,0,158
+22301092,226,PT06M14.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,36,56,92,h,Williamson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,159
+22301092,227,PT06M14.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,36,56,92,v,Lane,Violation,Lane,0,0,160
+22301092,228,PT06M14.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,37,56,93,h,Williamson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,161
+22301092,229,PT06M05.00S,2,1610612756,PHX,1626164,Booker,D. Booker,20,-2,2,Made,1,37,58,95,v,Booker 2' Driving Layup (26 PTS) (Nurkic 4 AST),Made Shot,Driving Layup Shot,1,2,162
+22301092,231,PT05M54.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,37,58,95,h,Williamson Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,163
+22301092,231,PT05M54.00S,2,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,37,58,95,v,Durant STEAL (1 STL),,,1,0,164
+22301092,233,PT05M46.00S,2,1610612756,PHX,1626164,Booker,D. Booker,125,5,13,Made,1,37,60,97,v,Booker 13' Turnaround Fadeaway (28 PTS),Made Shot,Turnaround Fadeaway shot,1,2,165
+22301092,234,PT05M33.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-51,274,28,Made,1,40,60,100,h,Murphy III 28' 3PT Jump Shot (12 PTS) (Williamson 4 AST),Made Shot,Jump Shot,1,3,166
+22301092,317,PT05M08.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,40,60,100,v,Booker Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,167
+22301092,317,PT05M08.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,40,60,100,h,Daniels STEAL (1 STL),,,1,0,168
+22301092,239,PT05M03.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-2,10,1,Missed,1,40,60,100,h,MISS Murphy III 1' Running Alley Oop Dunk Shot,Missed Shot,Running Alley Oop Dunk Shot,1,2,169
+22301092,240,PT05M03.00S,2,0,,1610612756,,,0,0,0,,0,40,60,100,v,Suns Rebound,Rebound,Unknown,0,0,170
+22301092,242,PT05M03.00S,2,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,40,60,100,v,SUB: O'Neale FOR Durant,Substitution,,0,0,171
+22301092,252,PT05M03.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,40,60,100,h,SUB: McCollum FOR Daniels,Substitution,,0,0,172
+22301092,244,PT04M49.00S,2,1610612756,PHX,1626164,Booker,D. Booker,-107,74,13,Made,1,40,62,102,v,Booker 13' Pullup Jump Shot (30 PTS) (Allen 3 AST),Made Shot,Pullup Jump shot,1,2,173
+22301092,246,PT04M35.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,-5,95,10,Missed,1,40,62,102,h,MISS McCollum 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,174
+22301092,247,PT04M30.00S,2,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,40,62,102,v,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,175
+22301092,248,PT04M28.00S,2,1610612756,PHX,1628960,Allen,G. Allen,-16,-2,2,Made,1,40,64,104,v,Allen 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,176
+22301092,251,PT04M28.00S,2,0,,1610612740,,,0,0,0,,0,40,64,104,h,PELICANS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,177
+22301092,254,PT04M28.00S,2,1610612756,PHX,1629626,Bol,B. Bol,0,0,0,,0,40,64,104,v,SUB: Beal FOR Bol,Substitution,,0,0,178
+22301092,256,PT04M05.00S,2,1610612740,NOP,1630529,Jones,H. Jones,70,110,13,Missed,1,40,64,104,h,MISS Jones 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,179
+22301092,257,PT04M03.00S,2,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,40,64,104,v,Beal REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,180
+22301092,258,PT04M03.00S,2,1610612756,PHX,1626164,Booker,D. Booker,179,209,28,Missed,1,40,64,104,v,MISS Booker 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,181
+22301092,259,PT04M03.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,40,64,104,h,Williamson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,182
+22301092,260,PT04M03.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,-40,27,5,Missed,1,40,64,104,h,MISS Williamson 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,183
+22301092,261,PT04M03.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,40,64,104,v,Nurkic REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,184
+22301092,262,PT03M57.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,40,64,104,v,Nurkic Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,185
+22301092,262,PT03M57.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,40,64,104,h,Murphy III STEAL (1 STL),,,1,0,186
+22301092,264,PT03M52.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-188,199,27,Missed,1,40,64,104,h,MISS Murphy III 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,187
+22301092,265,PT03M51.00S,2,0,,1610612740,,,0,0,0,,0,40,64,104,h,PELICANS Rebound,Rebound,Unknown,0,0,188
+22301092,266,PT03M51.00S,2,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,40,64,104,v,O'Neale L.B.FOUL (P1.PN) (J.Schroeder),Foul,Loose Ball,1,0,189
+22301092,268,PT03M51.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,41,64,105,h,Valanciunas Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,190
+22301092,269,PT03M51.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,41,64,105,h,MISS Valanciunas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,191
+22301092,270,PT03M48.00S,2,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,41,64,105,v,O'Neale REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,192
+22301092,271,PT03M29.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,-163,210,27,Made,1,41,67,108,v,Nurkic 27' 3PT Jump Shot (8 PTS) (Booker 5 AST),Made Shot,Jump Shot,1,3,193
+22301092,273,PT03M18.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,41,67,108,v,Suns T.Foul (Def. 3 Sec Nurkic ) (N.Buchert),Foul,Defense 3 Second,1,0,194
+22301092,274,PT03M18.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,42,67,109,h,McCollum Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,1,0,195
+22301092,275,PT03M18.00S,2,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,42,67,109,v,SUB: Durant FOR O'Neale,Substitution,,0,0,196
+22301092,277,PT03M10.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,-12,58,6,Made,1,44,67,111,h,Williamson 6' Driving Floating Jump Shot (6 PTS) (McCollum 4 AST),Made Shot,Driving Floating Jump Shot,1,2,197
+22301092,279,PT02M46.00S,2,1610612756,PHX,1626164,Booker,D. Booker,225,148,27,Made,1,44,70,114,v,Booker 27' 3PT Fadeaway Jumper (33 PTS),Made Shot,Fadeaway Jump Shot,1,3,198
+22301092,280,PT02M36.00S,2,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,44,70,114,v,Beal S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,1,0,199
+22301092,282,PT02M36.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,45,70,115,h,Williamson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,200
+22301092,283,PT02M36.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,46,70,116,h,Williamson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,201
+22301092,284,PT02M19.00S,2,1610612756,PHX,1626164,Booker,D. Booker,-26,6,3,Made,1,46,72,118,v,Booker 3' Driving Layup (35 PTS) (Beal 3 AST),Made Shot,Driving Layup Shot,1,2,202
+22301092,285,PT02M06.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,-22,2,2,Made,1,48,72,120,h,Williamson 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,203
+22301092,286,PT01M56.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,48,72,120,v,Booker Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,204
+22301092,286,PT01M56.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,48,72,120,h,Jones STEAL (1 STL),,,1,0,205
+22301092,288,PT01M51.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,67,136,15,Missed,1,48,72,120,h,MISS McCollum 15' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,206
+22301092,289,PT01M47.00S,2,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,48,72,120,v,Beal REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,207
+22301092,290,PT01M43.00S,2,1610612756,PHX,201142,Durant,K. Durant,114,229,26,Missed,1,48,72,120,v,MISS Durant 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,208
+22301092,291,PT01M40.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,48,72,120,h,Murphy III REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,209
+22301092,292,PT01M35.00S,2,1610612740,NOP,1630529,Jones,H. Jones,-17,6,2,Made,1,50,72,122,h,Jones 2' Running Layup (2 PTS) (Murphy III 1 AST),Made Shot,Running Layup Shot,1,2,210
+22301092,294,PT01M10.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,-116,231,26,Missed,1,50,72,122,v,MISS Nurkic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,211
+22301092,295,PT01M10.00S,2,0,,1610612756,,,0,0,0,,0,50,72,122,v,Suns Rebound,Rebound,Unknown,0,0,212
+22301092,296,PT01M10.00S,2,0,,1610612756,,,0,0,0,,0,50,72,122,v,Suns Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,1,0,213
+22301092,297,PT01M10.00S,2,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,50,72,122,v,SUB: Eubanks FOR Nurkic,Substitution,,0,0,214
+22301092,299,PT01M01.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,50,112,12,Made,1,52,72,124,h,McCollum 12' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,215
+22301092,300,PT00M51.00S,2,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,52,72,124,v,Durant Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,216
+22301092,300,PT00M51.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,52,72,124,h,Jones STEAL (2 STL),,,1,0,217
+22301092,302,PT00M46.30S,2,1610612740,NOP,203468,McCollum,C. McCollum,18,6,2,Missed,1,52,72,124,h,MISS McCollum 2' Running Layup,Missed Shot,Running Layup Shot,1,2,218
+22301092,302,PT00M46.30S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,52,72,124,v,Booker BLOCK (1 BLK),,,1,2,219
+22301092,304,PT00M46.30S,2,0,,1610612740,,,0,0,0,,0,52,72,124,h,PELICANS Rebound,Rebound,Unknown,1,0,220
+22301092,306,PT00M38.70S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,25,-1,3,Missed,1,52,72,124,h,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,221
+22301092,307,PT00M37.60S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,52,72,124,h,Valanciunas REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,222
+22301092,308,PT00M37.60S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,Made,1,54,72,126,h,Valanciunas Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,223
+22301092,309,PT00M37.60S,2,0,,1610612756,,,0,0,0,,0,54,72,126,v,Suns Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,224
+22301092,310,PT00M33.00S,2,1610612756,PHX,1626164,Booker,D. Booker,56,103,12,Made,1,54,74,128,v,Booker 12' Driving Floating Jump Shot (37 PTS) (Allen 4 AST),Made Shot,Driving Floating Jump Shot,1,2,225
+22301092,312,PT00M18.70S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,-21,41,5,Missed,1,54,74,128,h,MISS Williamson 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,226
+22301092,313,PT00M18.70S,2,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,54,74,128,v,Durant REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,227
+22301092,314,PT00M01.20S,2,1610612756,PHX,1626164,Booker,D. Booker,-163,200,26,Missed,1,54,74,128,v,MISS Booker 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,228
+22301092,315,PT00M00.10S,2,0,,1610612756,,,0,0,0,,0,54,74,128,v,Suns Rebound,Rebound,Unknown,1,0,229
+22301092,316,PT00M00.00S,2,0,,0,,,0,0,0,,0,54,74,128,,End of 2nd Period (9:06 PM EST),period,end,1,0,230
+22301092,321,PT12M00.00S,3,0,,0,,,0,0,0,,0,54,74,128,,Start of 3rd Period (9:21 PM EST),period,start,0,0,231
+22301092,322,PT11M44.00S,3,1610612756,PHX,201142,Durant,K. Durant,-237,4,24,Missed,1,54,74,128,v,MISS Durant 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,232
+22301092,323,PT11M41.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,54,74,128,h,Valanciunas REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,233
+22301092,324,PT11M30.00S,3,1610612740,NOP,1630529,Jones,H. Jones,-12,9,2,Made,1,56,74,130,h,Jones 2' Driving Layup (4 PTS) (Valanciunas 1 AST),Made Shot,Driving Layup Shot,1,2,234
+22301092,325,PT11M09.00S,3,1610612756,PHX,203994,Nurkić,J. Nurkić,5,42,4,Made,1,56,76,132,v,Nurkic 4' Driving Layup (10 PTS) (Booker 6 AST),Made Shot,Driving Layup Shot,1,2,235
+22301092,327,PT10M50.00S,3,1610612740,NOP,1630529,Jones,H. Jones,-169,151,23,Missed,1,56,76,132,h,MISS Jones 23' Jump Shot,Missed Shot,Jump Shot,1,2,236
+22301092,328,PT10M48.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,56,76,132,v,Booker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,237
+22301092,330,PT10M33.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-32,252,25,Made,1,56,79,135,v,Booker 25' 3PT Pullup Jump Shot (40 PTS),Made Shot,Pullup Jump shot,1,3,238
+22301092,331,PT10M21.00S,3,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,56,79,135,v,Allen P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,1,0,239
+22301092,333,PT10M07.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,26,108,11,Missed,1,56,79,135,h,MISS Williamson 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,240
+22301092,334,PT10M05.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,56,79,135,h,Williamson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,241
+22301092,335,PT10M04.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-21,3,2,Missed,1,56,79,135,h,MISS Williamson 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,242
+22301092,336,PT10M02.00S,3,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,56,79,135,v,Beal REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,243
+22301092,337,PT09M58.00S,3,1610612756,PHX,1628960,Allen,G. Allen,13,-1,1,Missed,1,56,79,135,v,MISS Allen 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,244
+22301092,338,PT09M58.00S,3,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,56,79,135,v,Beal REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,245
+22301092,339,PT09M56.00S,3,1610612756,PHX,203078,Beal,B. Beal,0,0,0,Made,1,56,81,137,v,Beal Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,246
+22301092,340,PT09M53.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,1,-5,1,Made,1,58,81,139,h,Murphy III 1' Cutting Dunk Shot (14 PTS) (McCollum 5 AST),Made Shot,Cutting Dunk Shot,1,2,247
+22301092,347,PT09M39.00S,3,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,58,81,139,v,Durant Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,248
+22301092,347,PT09M39.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,58,81,139,h,Murphy III STEAL (2 STL),,,1,0,249
+22301092,350,PT09M38.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,58,81,139,h,Murphy III Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,250
+22301092,350,PT09M38.00S,3,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,58,81,139,v,Beal STEAL (2 STL),,,1,0,251
+22301092,342,PT09M32.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-172,186,25,Missed,1,58,81,139,v,MISS Booker 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,252
+22301092,343,PT09M29.00S,3,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,58,81,139,v,Nurkic REBOUND (Off:5 Def:7),Rebound,Unknown,1,0,253
+22301092,344,PT09M18.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,58,81,139,h,Jones S.FOUL (P2.T1) (Z.Zarba),Foul,Shooting,1,0,254
+22301092,346,PT09M18.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,58,82,140,v,Booker Free Throw 1 of 2 (41 PTS),Free Throw,Free Throw 1 of 2,1,0,255
+22301092,349,PT09M18.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,58,83,141,v,Booker Free Throw 2 of 2 (42 PTS),Free Throw,Free Throw 2 of 2,1,0,256
+22301092,352,PT09M08.00S,3,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,58,83,141,v,Durant S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,1,0,257
+22301092,354,PT09M08.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,58,83,141,h,MISS Valanciunas Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,258
+22301092,355,PT09M08.00S,3,0,,1610612740,,,0,0,0,,0,58,83,141,h,PELICANS Rebound,Rebound,Normal Rebound,0,0,259
+22301092,356,PT09M08.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,58,83,141,h,MISS Valanciunas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,260
+22301092,357,PT09M05.00S,3,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,58,83,141,v,Nurkic REBOUND (Off:5 Def:8),Rebound,Unknown,1,0,261
+22301092,358,PT08M52.00S,3,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,58,83,141,v,Beal Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,262
+22301092,358,PT08M52.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,58,83,141,h,Jones STEAL (3 STL),,,1,0,263
+22301092,360,PT08M48.00S,3,1610612740,NOP,1630529,Jones,H. Jones,-2,-2,0,Made,1,60,83,143,h,Jones Running Dunk (6 PTS) (McCollum 6 AST),Made Shot,Running Dunk Shot,1,2,264
+22301092,362,PT08M26.00S,3,1610612756,PHX,1628960,Allen,G. Allen,227,-14,0,Made,1,60,86,146,v,Allen 3PT Jump Shot (10 PTS) (Beal 4 AST),Made Shot,Jump Shot,1,3,265
+22301092,364,PT08M17.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-38,248,25,Missed,1,60,86,146,h,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,266
+22301092,365,PT08M14.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,60,86,146,v,Booker REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,267
+22301092,366,PT08M12.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,60,86,146,h,McCollum S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,1,0,268
+22301092,368,PT08M12.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,60,86,146,v,MISS Booker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,269
+22301092,369,PT08M12.00S,3,0,,1610612756,,,0,0,0,,0,60,86,146,v,Suns Rebound,Rebound,Normal Rebound,0,0,270
+22301092,370,PT08M12.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,60,87,147,v,Booker Free Throw 2 of 2 (43 PTS),Free Throw,Free Throw 2 of 2,1,0,271
+22301092,371,PT07M56.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,26,69,7,Made,1,62,87,149,h,McCollum 7' Driving Floating Jump Shot (10 PTS) (Jones 2 AST),Made Shot,Driving Floating Jump Shot,1,2,272
+22301092,373,PT07M32.00S,3,1610612756,PHX,1626164,Booker,D. Booker,29,252,25,Missed,1,62,87,149,v,MISS Booker 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,273
+22301092,374,PT07M30.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,62,87,149,h,Valanciunas REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,274
+22301092,375,PT07M13.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-17,8,2,Made,1,64,87,151,h,Williamson 2' Driving Layup (12 PTS) (McCollum 7 AST),Made Shot,Driving Layup Shot,1,2,275
+22301092,377,PT06M58.00S,3,1610612756,PHX,1626164,Booker,D. Booker,229,28,0,Made,1,64,90,154,v,Booker 3PT Jump Shot (46 PTS) (Beal 5 AST),Made Shot,Jump Shot,1,3,276
+22301092,379,PT06M51.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,202,184,27,Missed,1,64,90,154,h,MISS Murphy III 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,277
+22301092,380,PT06M47.00S,3,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,64,90,154,v,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,278
+22301092,381,PT06M36.00S,3,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,64,90,154,v,Allen Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,279
+22301092,381,PT06M36.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,64,90,154,h,Jones STEAL (4 STL),,,1,0,280
+22301092,383,PT06M32.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,4,5,1,Made,1,66,90,156,h,Murphy III 1' Running Dunk (16 PTS) (Williamson 5 AST),Made Shot,Running Dunk Shot,1,2,281
+22301092,385,PT06M15.00S,3,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,66,90,156,v,Durant Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,282
+22301092,385,PT06M15.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,66,90,156,h,Williamson STEAL (1 STL),,,1,0,283
+22301092,387,PT06M10.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-16,3,2,Made,1,68,90,158,h,Williamson 2' Running Layup (14 PTS) (Murphy III 2 AST),Made Shot,Running Layup Shot,1,2,284
+22301092,389,PT06M10.00S,3,0,,1610612756,,,0,0,0,,0,68,90,158,v,Suns Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,285
+22301092,392,PT06M10.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,68,90,158,h,SUB: Nance Jr. FOR Valanciunas,Substitution,,0,0,286
+22301092,394,PT05M49.00S,3,1610612756,PHX,203994,Nurkić,J. Nurkić,21,-3,2,Made,1,68,92,160,v,Nurkic 2' Cutting Layup Shot (12 PTS) (Booker 7 AST),Made Shot,Cutting Layup Shot,1,2,287
+22301092,396,PT05M49.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,68,92,160,h,Williamson S.FOUL (P3.T3) (J.Schroeder),Foul,Shooting,1,0,288
+22301092,398,PT05M49.00S,3,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,68,93,161,v,Nurkic Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,289
+22301092,399,PT05M38.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,68,93,161,v,Booker P.FOUL (P2.T3) (N.Buchert),Foul,Personal,1,0,290
+22301092,401,PT05M30.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-16,-2,2,Made,1,70,93,163,h,McCollum 2' Driving Reverse Layup (12 PTS),Made Shot,Driving Reverse Layup Shot,1,2,291
+22301092,402,PT05M06.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-20,4,2,Made,1,70,95,165,v,Booker 2' Driving Finger Roll Layup (48 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,292
+22301092,403,PT04M57.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,-235,17,24,Missed,1,70,95,165,h,MISS Murphy III 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,293
+22301092,404,PT04M54.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,70,95,165,h,Nance Jr. REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,294
+22301092,405,PT04M53.00S,3,1610612740,NOP,1630529,Jones,H. Jones,158,198,25,Made,1,73,95,168,h,Jones 25' 3PT Jump Shot (9 PTS) (Nance Jr. 1 AST),Made Shot,Jump Shot,1,3,295
+22301092,407,PT04M38.00S,3,1610612756,PHX,1628960,Allen,G. Allen,-183,194,27,Missed,1,73,95,168,v,MISS Allen 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,296
+22301092,408,PT04M33.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,73,95,168,h,Nance Jr. REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,297
+22301092,409,PT04M29.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-40,36,5,Made,1,75,95,170,h,Williamson 5' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,1,2,298
+22301092,411,PT04M29.00S,3,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,75,95,170,v,Beal S.FOUL (P2.T4) (Z.Zarba),Foul,Shooting,1,0,299
+22301092,413,PT04M29.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,75,95,170,h,SUB: Daniels FOR McCollum,Substitution,,0,0,300
+22301092,414,PT04M29.00S,3,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,75,95,170,v,SUB: Gordon FOR Beal,Substitution,,0,0,301
+22301092,417,PT04M29.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,76,95,171,h,Williamson Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,1,0,302
+22301092,418,PT04M13.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,76,95,171,h,Jones S.FOUL (P3.T4) (N.Buchert),Foul,Shooting,1,0,303
+22301092,420,PT04M13.00S,3,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,76,95,171,v,MISS Allen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,304
+22301092,421,PT04M13.00S,3,0,,1610612756,,,0,0,0,,0,76,95,171,v,Suns Rebound,Rebound,Normal Rebound,0,0,305
+22301092,422,PT04M13.00S,3,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,76,96,172,v,Allen Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,306
+22301092,423,PT03M53.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,12,8,1,Made,1,78,96,174,h,Williamson 1' Driving Layup (19 PTS) (Jones 3 AST),Made Shot,Driving Layup Shot,1,2,307
+22301092,424,PT03M37.00S,3,1610612756,PHX,201142,Durant,K. Durant,184,184,26,Missed,1,78,96,174,v,MISS Durant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,308
+22301092,425,PT03M34.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,78,96,174,h,Murphy III REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,309
+22301092,426,PT03M19.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,78,96,174,v,Booker P.FOUL (P3.PN) (J.Schroeder),Foul,Personal,1,0,310
+22301092,429,PT03M19.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,79,96,175,h,Murphy III Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,311
+22301092,430,PT03M19.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,79,96,175,h,SUB: Marshall FOR Jones,Substitution,,0,0,312
+22301092,431,PT03M19.00S,3,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,79,96,175,v,SUB: Eubanks FOR Nurkic,Substitution,,0,0,313
+22301092,434,PT03M19.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,80,96,176,h,Murphy III Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,314
+22301092,435,PT03M05.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-230,0,0,Missed,1,80,96,176,v,MISS Booker 3PT Jump Shot,Missed Shot,Jump Shot,1,3,315
+22301092,436,PT03M01.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,80,96,176,h,Daniels REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,316
+22301092,437,PT02M51.00S,3,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,80,96,176,v,Eubanks S.FOUL (P3.PN) (N.Buchert),Foul,Shooting,1,0,317
+22301092,439,PT02M51.00S,3,0,,1610612740,,,0,0,0,,0,80,96,176,h,PELICANS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,318
+22301092,440,PT02M51.00S,3,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,80,96,176,v,SUB: O'Neale FOR Durant,Substitution,,0,0,319
+22301092,442,PT02M51.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,80,96,176,h,MISS Murphy III Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,320
+22301092,443,PT02M51.00S,3,0,,1610612740,,,0,0,0,,0,80,96,176,h,PELICANS Rebound,Rebound,Normal Rebound,0,0,321
+22301092,444,PT02M51.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,81,96,177,h,Murphy III Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,322
+22301092,445,PT02M40.00S,3,1610612756,PHX,201569,Gordon,E. Gordon,173,204,27,Missed,1,81,96,177,v,MISS Gordon 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,323
+22301092,446,PT02M39.00S,3,0,,1610612756,,,0,0,0,,0,81,96,177,v,Suns Rebound,Rebound,Unknown,0,0,324
+22301092,447,PT02M39.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,81,96,177,h,Nance Jr. L.B.FOUL (P1.PN) (N.Buchert),Foul,Loose Ball,1,0,325
+22301092,449,PT02M39.00S,3,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,81,97,178,v,Eubanks Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,326
+22301092,450,PT02M39.00S,3,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,81,97,178,v,SUB: Beal FOR Allen,Substitution,,0,0,327
+22301092,452,PT02M39.00S,3,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,81,98,179,v,Eubanks Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,328
+22301092,453,PT02M26.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,-227,41,0,Missed,1,81,98,179,h,MISS Murphy III 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,329
+22301092,454,PT02M23.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,81,98,179,h,Nance Jr. REBOUND (Off:5 Def:1),Rebound,Unknown,1,0,330
+22301092,455,PT02M22.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-5,29,3,Missed,1,81,98,179,h,MISS Nance Jr. 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,331
+22301092,456,PT02M22.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,81,98,179,h,Murphy III REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,332
+22301092,457,PT02M21.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,Made,1,83,98,181,h,Murphy III Putback Layup (21 PTS),Made Shot,Putback Layup Shot,1,2,333
+22301092,458,PT02M08.00S,3,1610612756,PHX,203078,Beal,B. Beal,-15,253,25,Made,1,83,101,184,v,Beal 25' 3PT Jump Shot (8 PTS) (Booker 8 AST),Made Shot,Jump Shot,1,3,334
+22301092,460,PT01M44.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-185,174,25,Made,1,86,101,187,h,Nance Jr. 25' 3PT Jump Shot (9 PTS) (Murphy III 3 AST),Made Shot,Jump Shot,1,3,335
+22301092,462,PT01M16.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-25,5,3,Missed,1,86,101,187,v,MISS Booker 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,336
+22301092,463,PT01M15.00S,3,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,86,101,187,v,Eubanks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,337
+22301092,466,PT01M14.00S,3,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,Made,1,86,103,189,v,Eubanks Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,338
+22301092,467,PT00M56.30S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,234,41,24,Missed,1,86,103,189,h,MISS Murphy III 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+22301092,468,PT00M56.30S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,86,103,189,h,Daniels REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,340
+22301092,469,PT00M52.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,86,103,189,h,Murphy III Out of Bounds - Bad Pass Turnover Turnover (P3.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,341
+22301092,470,PT00M52.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,86,103,189,h,SUB: McCollum FOR Williamson,Substitution,,0,0,342
+22301092,471,PT00M52.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,86,103,189,h,SUB: Hawkins FOR Murphy III,Substitution,,0,0,343
+22301092,474,PT00M30.80S,3,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,86,103,189,v,O'Neale Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,344
+22301092,474,PT00M30.80S,3,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,86,103,189,h,Marshall STEAL (1 STL),,,1,0,345
+22301092,476,PT00M27.50S,3,1610612740,NOP,1630230,Marshall,N. Marshall,-21,1,2,Made,1,88,103,191,h,Marshall 2' Running Reverse Layup (2 PTS),Made Shot,Running Reverse Layup Shot,1,2,346
+22301092,477,PT00M05.00S,3,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,88,103,191,v,Beal Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,347
+22301092,477,PT00M05.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,88,103,191,h,Daniels STEAL (2 STL),,,1,0,348
+22301092,479,PT00M01.50S,3,1610612740,NOP,1630700,Daniels,D. Daniels,-1,16,2,Made,1,90,103,193,h,Daniels 2' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,349
+22301092,480,PT00M00.00S,3,1610612756,PHX,1626220,O'Neale,R. O'Neale,-138,587,60,Missed,1,90,103,193,v,MISS O'Neale 60' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,1,3,350
+22301092,481,PT00M00.00S,3,0,,1610612756,,,0,0,0,,0,90,103,193,v,Suns Rebound,Rebound,Unknown,0,0,351
+22301092,482,PT00M00.00S,3,0,,0,,,0,0,0,,0,90,103,193,,End of 3rd Period (9:48 PM EST),period,end,1,0,352
+22301092,485,PT12M00.00S,4,0,,0,,,0,0,0,,0,90,103,193,,Start of 4th Period (9:51 PM EST),period,start,0,0,353
+22301092,487,PT11M40.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,-28,5,3,Made,1,92,103,195,h,Marshall 3' Cutting Layup Shot (4 PTS) (Daniels 2 AST),Made Shot,Cutting Layup Shot,1,2,354
+22301092,489,PT11M40.00S,4,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,92,103,195,v,Eubanks S.FOUL (P4.T1) (N.Buchert),Foul,Shooting,1,0,355
+22301092,491,PT11M40.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,92,103,195,h,MISS Marshall Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,356
+22301092,492,PT11M37.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,92,103,195,v,Durant REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,357
+22301092,493,PT11M16.00S,4,1610612756,PHX,201569,Gordon,E. Gordon,-51,278,28,Missed,1,92,103,195,v,MISS Gordon 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+22301092,494,PT11M12.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,92,103,195,h,Daniels REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,359
+22301092,495,PT11M06.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,92,103,195,h,McCollum Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,360
+22301092,495,PT11M06.00S,4,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,92,103,195,v,O'Neale STEAL (1 STL),,,1,0,361
+22301092,497,PT10M52.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,92,103,195,h,Marshall S.FOUL (P3.T1) (J.Schroeder),Foul,Shooting,1,0,362
+22301092,499,PT10M52.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,92,104,196,v,Durant Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,363
+22301092,500,PT10M52.00S,4,1610612756,PHX,1629234,Eubanks,D. Eubanks,0,0,0,,0,92,104,196,v,SUB: Nurkic FOR Eubanks,Substitution,,0,0,364
+22301092,502,PT10M52.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,92,105,197,v,Durant Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,365
+22301092,503,PT10M43.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,146,211,26,Missed,1,92,105,197,h,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+22301092,504,PT10M39.00S,4,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,92,105,197,v,O'Neale REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,367
+22301092,505,PT10M28.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,5,4,1,Made,1,92,107,199,v,Nurkic 1' Cutting Dunk Shot (15 PTS) (O'Neale 1 AST),Made Shot,Cutting Dunk Shot,1,2,368
+22301092,507,PT10M15.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,191,173,26,Missed,1,92,107,199,h,MISS Hawkins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,369
+22301092,508,PT10M14.00S,4,0,,1610612756,,,0,0,0,,0,92,107,199,v,Suns Rebound,Rebound,Unknown,0,0,370
+22301092,509,PT10M14.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,92,107,199,h,Daniels L.B.FOUL (P2.T2) (J.Schroeder),Foul,Loose Ball,1,0,371
+22301092,511,PT09M59.00S,4,1610612756,PHX,201142,Durant,K. Durant,-115,138,18,Missed,1,92,107,199,v,MISS Durant 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,372
+22301092,512,PT09M56.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,92,107,199,v,Nurkic REBOUND (Off:6 Def:8),Rebound,Unknown,1,0,373
+22301092,513,PT09M55.00S,4,1610612756,PHX,201569,Gordon,E. Gordon,83,253,27,Missed,1,92,107,199,v,MISS Gordon 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,374
+22301092,514,PT09M52.00S,4,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,92,107,199,v,Beal REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,375
+22301092,515,PT09M49.00S,4,1610612756,PHX,1626220,O'Neale,R. O'Neale,-4,21,2,Made,1,92,109,201,v,O'Neale 2' Cutting Layup Shot (2 PTS) (Beal 6 AST),Made Shot,Cutting Layup Shot,1,2,376
+22301092,517,PT09M34.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,191,159,25,Made,1,95,109,204,h,Hawkins 25' 3PT Jump Shot (3 PTS) (McCollum 8 AST),Made Shot,Jump Shot,1,3,377
+22301092,519,PT09M06.00S,4,1610612756,PHX,201142,Durant,K. Durant,-2,107,11,Made,1,95,111,206,v,Durant 11' Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,2,378
+22301092,520,PT08M52.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,95,111,206,h,McCollum Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,379
+22301092,520,PT08M52.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,95,111,206,v,Durant STEAL (2 STL),,,1,0,380
+22301092,522,PT08M32.00S,4,1610612756,PHX,1626220,O'Neale,R. O'Neale,125,233,26,Missed,1,95,111,206,v,MISS O'Neale 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,381
+22301092,523,PT08M29.00S,4,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,95,111,206,v,Beal REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,382
+22301092,524,PT08M16.00S,4,1610612756,PHX,201569,Gordon,E. Gordon,18,2,2,Missed,1,95,111,206,v,MISS Gordon 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,383
+22301092,525,PT08M14.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,95,111,206,v,Nurkic REBOUND (Off:7 Def:8),Rebound,Unknown,1,0,384
+22301092,526,PT08M13.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,95,111,206,h,Nance Jr. S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,1,0,385
+22301092,528,PT08M13.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,95,112,207,v,Nurkic Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,386
+22301092,529,PT08M13.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,95,112,207,h,SUB: Williamson FOR Marshall,Substitution,,0,0,387
+22301092,530,PT08M13.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,95,112,207,h,SUB: Jones FOR Hawkins,Substitution,,0,0,388
+22301092,531,PT08M13.00S,4,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,95,112,207,v,SUB: Booker FOR Beal,Substitution,,0,0,389
+22301092,535,PT08M13.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,95,112,207,v,MISS Nurkic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,390
+22301092,536,PT08M11.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,95,112,207,h,Nance Jr. REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,391
+22301092,537,PT07M58.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,-22,14,3,Missed,1,95,112,207,h,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,392
+22301092,537,PT07M58.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,95,112,207,v,Nurkic BLOCK (2 BLK),,,1,2,393
+22301092,539,PT07M55.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,95,112,207,v,Durant REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,394
+22301092,540,PT07M40.00S,4,1610612756,PHX,201142,Durant,K. Durant,-5,28,3,Missed,1,95,112,207,v,MISS Durant 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,395
+22301092,541,PT07M38.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,95,112,207,h,McCollum REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,396
+22301092,542,PT07M34.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,-163,210,27,Missed,1,95,112,207,h,MISS Daniels 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,397
+22301092,543,PT07M30.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,95,112,207,v,Nurkic REBOUND (Off:7 Def:9),Rebound,Unknown,1,0,398
+22301092,544,PT07M16.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,95,112,207,h,Williamson P.FOUL (P4.T4) (N.Buchert),Foul,Personal,1,0,399
+22301092,546,PT07M16.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,95,112,207,h,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,400
+22301092,547,PT07M16.00S,4,1610612756,PHX,201569,Gordon,E. Gordon,0,0,0,,0,95,112,207,v,SUB: Allen FOR Gordon,Substitution,,0,0,401
+22301092,550,PT07M10.00S,4,1610612756,PHX,1626220,O'Neale,R. O'Neale,-188,215,29,Missed,1,95,112,207,v,MISS O'Neale 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+22301092,551,PT07M08.00S,4,0,,1610612740,,,0,0,0,,0,95,112,207,h,PELICANS Rebound,Rebound,Unknown,0,0,403
+22301092,552,PT07M08.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,95,112,207,v,Nurkic L.B.FOUL (P3.T2) (Z.Zarba),Foul,Loose Ball,1,0,404
+22301092,554,PT06M53.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,17,37,4,Made,1,97,112,209,h,Valanciunas 4' Driving Hook Shot (11 PTS) (Daniels 3 AST),Made Shot,Driving Hook Shot,1,2,405
+22301092,556,PT06M53.00S,4,0,,1610612756,,,0,0,0,,0,97,112,209,v,Suns Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,406
+22301092,558,PT06M53.00S,4,1610612756,PHX,1626220,O'Neale,R. O'Neale,0,0,0,,0,97,112,209,v,SUB: Beal FOR O'Neale,Substitution,,0,0,407
+22301092,560,PT06M36.00S,4,1610612756,PHX,201142,Durant,K. Durant,230,28,0,Missed,1,97,112,209,v,MISS Durant 3PT Jump Shot,Missed Shot,Jump Shot,1,3,408
+22301092,561,PT06M33.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,97,112,209,h,McCollum REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,409
+22301092,562,PT06M15.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,229,13,0,Missed,1,97,112,209,h,MISS Valanciunas 3PT Jump Shot,Missed Shot,Jump Shot,1,3,410
+22301092,563,PT06M12.00S,4,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,97,112,209,v,Beal REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,411
+22301092,564,PT05M56.00S,4,1610612756,PHX,203078,Beal,B. Beal,67,89,11,Missed,1,97,112,209,v,MISS Beal 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,412
+22301092,565,PT05M55.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,97,112,209,v,Nurkic REBOUND (Off:8 Def:9),Rebound,Unknown,1,0,413
+22301092,566,PT05M55.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,97,112,209,h,Daniels P.FOUL (P3.PN) (J.Schroeder),Foul,Personal,1,0,414
+22301092,568,PT05M55.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,97,112,209,v,MISS Nurkic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,415
+22301092,569,PT05M55.00S,4,0,,1610612756,,,0,0,0,,0,97,112,209,v,Suns Rebound,Rebound,Normal Rebound,0,0,416
+22301092,570,PT05M55.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,97,113,210,v,Nurkic Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,417
+22301092,571,PT05M46.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,-26,19,3,Made,1,99,113,212,h,Williamson 3' Driving Layup (21 PTS) (McCollum 9 AST),Made Shot,Driving Layup Shot,1,2,418
+22301092,573,PT05M46.00S,4,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,99,113,212,v,Beal S.FOUL (P3.T3) (J.Schroeder),Foul,Shooting,1,0,419
+22301092,575,PT05M46.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,100,113,213,h,Williamson Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,1,0,420
+22301092,576,PT05M34.00S,4,1610612756,PHX,1626164,Booker,D. Booker,159,215,27,Missed,1,100,113,213,v,MISS Booker 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,421
+22301092,577,PT05M29.00S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,100,113,213,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,422
+22301092,578,PT05M18.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,100,113,213,h,Williamson Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,423
+22301092,578,PT05M18.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,100,113,213,v,Nurkic STEAL (1 STL),,,1,0,424
+22301092,580,PT04M59.00S,4,1610612756,PHX,201142,Durant,K. Durant,18,27,3,Missed,1,100,113,213,v,MISS Durant 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,425
+22301092,581,PT04M57.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,100,113,213,h,Valanciunas REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,426
+22301092,582,PT04M51.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,26,3,Missed,1,100,113,213,h,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,427
+22301092,582,PT04M51.00S,4,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,100,113,213,v,Beal BLOCK (1 BLK),,,1,2,428
+22301092,583,PT04M51.00S,4,0,,1610612756,,,0,0,0,,0,100,113,213,v,Suns Rebound,Rebound,Unknown,0,0,429
+22301092,584,PT04M51.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,100,113,213,h,Valanciunas L.B.FOUL (P1.PN) (J.Schroeder),Foul,Loose Ball,1,0,430
+22301092,587,PT04M51.00S,4,0,,1610612756,,,0,0,0,,0,100,113,213,v,Suns Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,431
+22301092,588,PT04M51.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,100,113,213,h,SUB: Murphy III FOR Valanciunas,Substitution,,0,0,432
+22301092,590,PT04M51.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,100,114,214,v,Nurkic Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,433
+22301092,591,PT04M51.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,100,115,215,v,Nurkic Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,434
+22301092,592,PT04M37.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,24,2,Made,1,102,115,217,h,Williamson 2' Driving Layup (24 PTS) (Daniels 4 AST),Made Shot,Driving Layup Shot,1,2,435
+22301092,594,PT04M37.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,102,115,217,v,Nurkic S.FOUL (P4.T4) (J.Schroeder),Foul,Shooting,1,0,436
+22301092,596,PT04M37.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,102,115,217,h,MISS Williamson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,437
+22301092,597,PT04M34.00S,4,1610612756,PHX,203078,Beal,B. Beal,0,0,0,,0,102,115,217,v,Beal REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,438
+22301092,598,PT04M12.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,-10,62,6,Missed,1,102,115,217,v,MISS Nurkic 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,439
+22301092,599,PT04M10.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,102,115,217,h,Daniels REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,440
+22301092,600,PT04M03.00S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,102,115,217,v,Durant S.FOUL (P2.PN) (Z.Zarba),Foul,Shooting,1,0,441
+22301092,602,PT04M03.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,103,115,218,h,Williamson Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,442
+22301092,603,PT04M03.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,103,115,218,h,MISS Williamson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,443
+22301092,604,PT04M00.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,103,115,218,v,Nurkic REBOUND (Off:8 Def:10),Rebound,Unknown,1,0,444
+22301092,605,PT03M39.00S,4,1610612756,PHX,201142,Durant,K. Durant,167,199,26,Missed,1,103,115,218,v,MISS Durant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,445
+22301092,606,PT03M35.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,103,115,218,h,Daniels REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,446
+22301092,607,PT03M27.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,-6,27,3,Made,1,105,115,220,h,Williamson 3' Driving Layup (27 PTS) (Daniels 5 AST),Made Shot,Driving Layup Shot,1,2,447
+22301092,609,PT03M09.00S,4,1610612756,PHX,1628960,Allen,G. Allen,225,36,0,Missed,1,105,115,220,v,MISS Allen 3PT Jump Shot,Missed Shot,Jump Shot,1,3,448
+22301092,610,PT03M06.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,105,115,220,h,Murphy III REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,449
+22301092,611,PT02M46.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,150,214,26,Made,1,108,115,223,h,McCollum 26' 3PT Jump Shot (15 PTS) (Murphy III 4 AST),Made Shot,Jump Shot,1,3,450
+22301092,613,PT02M37.00S,4,1610612756,PHX,201142,Durant,K. Durant,185,174,25,Missed,1,108,115,223,v,MISS Durant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,451
+22301092,614,PT02M35.00S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,108,115,223,v,Booker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,452
+22301092,615,PT02M35.00S,4,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,108,115,223,v,Booker Out of Bounds Lost Ball Turnover (P3.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,453
+22301092,616,PT02M21.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,-12,36,4,Missed,1,108,115,223,h,MISS McCollum 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,454
+22301092,617,PT02M20.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,108,115,223,h,McCollum REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,455
+22301092,618,PT02M20.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,Missed,1,108,115,223,h,MISS McCollum Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,456
+22301092,619,PT02M19.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,108,115,223,v,Nurkic REBOUND (Off:8 Def:11),Rebound,Unknown,1,0,457
+22301092,620,PT02M00.00S,4,1610612756,PHX,1626164,Booker,D. Booker,-12,2,1,Made,1,108,117,225,v,Booker 1' Driving Layup (50 PTS) (Durant 2 AST),Made Shot,Driving Layup Shot,1,2,458
+22301092,621,PT01M55.00S,4,1610612756,PHX,203994,Nurkić,J. Nurkić,0,0,0,,0,108,117,225,v,Nurkic S.FOUL (P5.PN) (J.Schroeder),Foul,Shooting,1,0,459
+22301092,623,PT01M55.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,109,117,226,h,Williamson Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,460
+22301092,624,PT01M55.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,110,117,227,h,Williamson Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,461
+22301092,625,PT01M34.00S,4,1610612756,PHX,1626164,Booker,D. Booker,9,11,1,Made,1,110,119,229,v,Booker 1' Driving Layup (52 PTS),Made Shot,Driving Layup Shot,1,2,462
+22301092,626,PT01M23.00S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,110,119,229,v,Allen S.FOUL (P2.PN) (N.Buchert),Foul,Shooting,1,0,463
+22301092,628,PT01M23.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,110,119,229,h,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,464
+22301092,629,PT01M23.00S,4,0,,1610612740,,,0,0,0,,0,110,119,229,h,PELICANS Rebound,Rebound,Normal Rebound,0,0,465
+22301092,630,PT01M23.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,111,119,230,h,Williamson Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,0,466
+22301092,631,PT01M02.00S,4,1610612756,PHX,203078,Beal,B. Beal,9,1,1,Made,1,111,121,232,v,Beal 1' Driving Reverse Layup (10 PTS) (Booker 9 AST),Made Shot,Driving Reverse Layup Shot,1,2,467
+22301092,638,PT00M56.50S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,-5,63,6,Missed,1,111,121,232,h,MISS Williamson 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,468
+22301092,638,PT00M56.50S,4,1610612756,PHX,1628960,Allen,G. Allen,0,0,0,,0,111,121,232,v,Allen BLOCK (1 BLK),,,1,2,469
+22301092,640,PT00M55.50S,4,0,,1610612756,,,0,0,0,,0,111,121,232,v,Suns Rebound,Rebound,Unknown,0,0,470
+22301092,635,PT00M55.50S,4,0,,1610612756,,,0,0,0,,0,111,121,232,v,Suns Timeout: Coach Challenge (Reg.4 Short 0),Timeout,Coach Challenge,0,0,471
+22301092,636,PT00M55.50S,4,0,,633,,,0,0,0,,0,111,121,232,,Instant Replay4th Period (10:19 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,472
+22301092,641,PT00M55.50S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,111,121,232,h,Jump Ball (CC) Williamson vs. Nurkic: Tip to Booker,Jump Ball,Coach Challenge,0,0,473
+22301092,644,PT00M35.90S,4,1610612756,PHX,203078,Beal,B. Beal,-39,267,27,Made,1,111,124,235,v,Beal 27' 3PT Pullup Jump Shot (13 PTS) (Durant 3 AST),Made Shot,Pullup Jump shot,1,3,474
+22301092,646,PT00M29.50S,4,1610612740,NOP,1630700,Daniels,D. Daniels,-157,197,25,Missed,1,111,124,235,h,MISS Daniels 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,475
+22301092,647,PT00M27.10S,4,1610612756,PHX,201142,Durant,K. Durant,0,0,0,,0,111,124,235,v,Durant REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,476
+22301092,648,PT00M03.60S,4,0,,1610612756,,,0,0,0,,0,111,124,235,v,Suns Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,1,0,477
+22301092,650,PT00M00.00S,4,0,,0,,,0,0,0,,0,111,124,235,,End of 4th Period (10:25 PM EST),period,end,1,0,478

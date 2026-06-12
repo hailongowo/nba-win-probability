@@ -1,0 +1,460 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22300471,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+22300471,4,PT12M00.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Jump Ball Gobert vs. Valanciunas: Tip to McCollum,Jump Ball,,1,0,2
+22300471,7,PT11M35.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,112,148,19,Missed,1,0,0,0,v,MISS McCollum 19' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,3
+22300471,8,PT11M33.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22300471,9,PT11M20.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,13,53,5,Missed,1,0,0,0,h,MISS Gobert 5' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,5
+22300471,10,PT11M19.00S,1,0,,1610612750,,,0,0,0,,0,0,0,0,h,TIMBERWOLVES Rebound,Rebound,Unknown,1,0,6
+22300471,12,PT11M11.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,34,29,4,Missed,1,0,0,0,h,MISS Edwards 4' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,7
+22300471,13,PT11M08.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,v,Valanciunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+22300471,14,PT11M02.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Gobert S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,1,0,9
+22300471,16,PT11M02.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,0,0,0,v,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,10
+22300471,17,PT11M02.00S,1,0,,1610612740,,,0,0,0,,0,0,0,0,v,Pelicans Rebound,Rebound,Normal Rebound,1,0,11
+22300471,18,PT11M02.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,0,1,1,v,Williamson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,12
+22300471,19,PT10M42.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,-230,10,0,Made,1,3,1,4,h,Edwards 3PT Jump Shot (3 PTS) (Towns 1 AST),Made Shot,Jump Shot,1,3,13
+22300471,21,PT10M24.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-67,124,14,Made,1,3,3,6,v,Ingram 14' Pullup Jump Shot (2 PTS) (Valanciunas 1 AST),Made Shot,Pullup Jump shot,1,2,14
+22300471,23,PT10M05.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,15,52,5,Missed,1,3,3,6,h,MISS Edwards 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,15
+22300471,24,PT10M04.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,3,3,6,h,Gobert REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,16
+22300471,25,PT10M02.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,3,3,6,v,Valanciunas S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,1,0,17
+22300471,27,PT10M02.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,4,3,7,h,Gobert Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,18
+22300471,29,PT10M02.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,4,3,7,h,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,19
+22300471,30,PT10M00.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,4,3,7,v,Valanciunas REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,20
+22300471,31,PT09M46.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-148,204,25,Missed,1,4,3,7,v,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,21
+22300471,32,PT09M43.00S,1,0,,1610612750,,,0,0,0,,0,4,3,7,h,TIMBERWOLVES Rebound,Rebound,Unknown,1,0,22
+22300471,34,PT09M28.00S,1,1610612750,MIN,201144,Conley,M. Conley,-4,70,7,Made,1,6,3,9,h,Conley 7' Floating Jump Shot (2 PTS) (McDaniels 1 AST),Made Shot,Floating Jump shot,1,2,23
+22300471,36,PT09M12.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,40,201,20,Made,1,6,5,11,v,Ingram 20' Pullup Jump Shot (4 PTS) (Valanciunas 2 AST),Made Shot,Pullup Jump shot,1,2,24
+22300471,38,PT09M00.00S,1,1610612750,MIN,1626157,Towns,K. Towns,9,257,26,Missed,1,6,5,11,h,MISS Towns 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,25
+22300471,39,PT08M59.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,6,5,11,v,Valanciunas REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,26
+22300471,40,PT08M47.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,6,5,11,h,Towns P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,1,0,27
+22300471,42,PT08M42.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,-10,21,2,Made,1,6,7,13,v,Williamson 2' Reverse Layup (3 PTS) (Ingram 1 AST),Made Shot,Reverse Layup Shot,1,2,28
+22300471,44,PT08M15.00S,1,1610612750,MIN,201144,Conley,M. Conley,-45,72,8,Made,1,8,7,15,h,Conley 8' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,1,2,29
+22300471,45,PT08M03.00S,1,1610612740,NOP,1630529,Jones,H. Jones,-227,10,0,Made,1,8,10,18,v,Jones 3PT Jump Shot (3 PTS) (McCollum 1 AST),Made Shot,Jump Shot,1,3,30
+22300471,47,PT07M44.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,235,-1,24,Missed,1,8,10,18,h,MISS McDaniels 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+22300471,48,PT07M41.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,8,10,18,v,Williamson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+22300471,49,PT07M34.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,5,15,2,Made,1,8,12,20,v,McCollum 2' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,33
+22300471,50,PT07M19.00S,1,1610612750,MIN,201144,Conley,M. Conley,232,88,25,Missed,1,8,12,20,h,MISS Conley 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,34
+22300471,51,PT07M15.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,8,12,20,v,Williamson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,35
+22300471,52,PT07M08.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,8,12,20,h,McDaniels S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,1,0,36
+22300471,54,PT07M08.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,8,13,21,v,Williamson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,37
+22300471,55,PT07M08.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,8,14,22,v,Williamson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,38
+22300471,56,PT06M52.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,49,86,10,Made,1,10,14,24,h,McDaniels 10' Turnaround Fadeaway (2 PTS) (Conley 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,39
+22300471,58,PT06M26.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,-44,51,7,Made,1,10,16,26,v,Williamson 7' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,1,2,40
+22300471,59,PT06M11.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,10,16,26,v,Williamson P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,1,0,41
+22300471,61,PT06M11.00S,1,0,,1610612750,,,0,0,0,,0,10,16,26,h,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,42
+22300471,62,PT06M11.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,10,16,26,v,SUB: Marshall FOR Williamson,Substitution,,0,0,43
+22300471,64,PT05M58.00S,1,1610612750,MIN,201144,Conley,M. Conley,-76,248,26,Missed,1,10,16,26,h,MISS Conley 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,44
+22300471,65,PT05M55.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,10,16,26,v,Valanciunas REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,45
+22300471,66,PT05M50.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,10,16,26,v,McCollum Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,46
+22300471,66,PT05M50.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,10,16,26,h,Conley STEAL (1 STL),,,1,0,47
+22300471,68,PT05M50.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,10,16,26,v,McCollum Transition Take Foul (P1.T3) (P.Fraher),Foul,Transition Take,1,0,48
+22300471,70,PT05M50.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,11,16,27,h,Towns Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,1,0,49
+22300471,71,PT05M40.00S,1,1610612750,MIN,1626157,Towns,K. Towns,2,112,11,Made,1,13,16,29,h,Towns 11' Floating Jump Shot (3 PTS) (Edwards 1 AST),Made Shot,Floating Jump shot,1,2,50
+22300471,73,PT05M23.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,234,8,0,Missed,1,13,16,29,v,MISS Valanciunas 3PT Jump Shot,Missed Shot,Jump Shot,1,3,51
+22300471,74,PT05M20.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,13,16,29,h,Towns REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,52
+22300471,75,PT05M08.00S,1,1610612750,MIN,1626157,Towns,K. Towns,-24,29,4,Missed,1,13,16,29,h,MISS Towns 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,53
+22300471,77,PT05M05.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,13,16,29,v,Marshall REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,54
+22300471,78,PT05M01.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,142,210,25,Missed,1,13,16,29,v,MISS Ingram 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,55
+22300471,79,PT04M57.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,13,16,29,h,Gobert REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,56
+22300471,80,PT04M50.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,13,16,29,h,Gobert Offensive Charge Foul (P2) (J.Schroeder),Foul,Offensive Charge,1,0,57
+22300471,82,PT04M50.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,13,16,29,h,Gobert Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,58
+22300471,83,PT04M50.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,13,16,29,h,SUB: Reid FOR Conley,Substitution,,0,0,59
+22300471,84,PT04M50.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,13,16,29,h,SUB: Alexander-Walker FOR Gobert,Substitution,,0,0,60
+22300471,85,PT04M50.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,13,16,29,v,SUB: Alvarado FOR McCollum,Substitution,,0,0,61
+22300471,89,PT04M34.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,50,114,12,Made,1,13,18,31,v,Ingram 12' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,1,2,62
+22300471,90,PT04M22.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,13,18,31,h,Reid Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,63
+22300471,90,PT04M22.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,13,18,31,v,Jones STEAL (1 STL),,,1,0,64
+22300471,92,PT04M19.00S,1,1610612740,NOP,1630529,Jones,H. Jones,24,24,3,Made,1,13,20,33,v,Jones 3' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,65
+22300471,93,PT03M57.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,20,18,3,Made,1,15,20,35,h,McDaniels 3' Driving Layup (4 PTS) (Edwards 2 AST),Made Shot,Driving Layup Shot,1,2,66
+22300471,95,PT03M46.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,39,82,9,Made,1,15,22,37,v,Marshall 9' Floating Jump Shot (2 PTS) (Ingram 2 AST),Made Shot,Floating Jump shot,1,2,67
+22300471,97,PT03M26.00S,1,1610612750,MIN,1629675,Reid,N. Reid,142,217,26,Made,1,18,22,40,h,Reid 26' 3PT Jump Shot (3 PTS) (Edwards 3 AST),Made Shot,Jump Shot,1,3,68
+22300471,99,PT03M17.00S,1,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,18,22,40,v,Alvarado Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,69
+22300471,100,PT03M17.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,18,22,40,h,SUB: Anderson FOR Towns,Substitution,,0,0,70
+22300471,101,PT03M17.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,18,22,40,v,SUB: Nance Jr. FOR Valanciunas,Substitution,,0,0,71
+22300471,104,PT03M05.00S,1,1610612750,MIN,1629675,Reid,N. Reid,7,32,3,Missed,1,18,22,40,h,MISS Reid 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,72
+22300471,105,PT03M00.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,18,22,40,v,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,73
+22300471,106,PT02M51.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,43,76,9,Missed,1,18,22,40,v,MISS Marshall 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,74
+22300471,107,PT02M47.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,18,22,40,h,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,75
+22300471,108,PT02M38.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,18,42,5,Missed,1,18,22,40,h,MISS Anderson 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,76
+22300471,109,PT02M37.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,18,22,40,v,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,77
+22300471,111,PT02M27.00S,1,0,,1610612740,,,0,0,0,,0,18,22,40,v,Pelicans Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,78
+22300471,112,PT02M27.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,18,22,40,v,SUB: Hawkins FOR Jones,Substitution,,0,0,79
+22300471,114,PT02M19.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,-191,161,25,Missed,1,18,22,40,v,MISS Marshall 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,80
+22300471,115,PT02M17.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,18,22,40,v,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,81
+22300471,116,PT02M14.00S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,223,106,25,Missed,1,18,22,40,v,MISS Hawkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,82
+22300471,116,PT02M14.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,18,22,40,h,McDaniels BLOCK (1 BLK),,,1,3,83
+22300471,117,PT02M12.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,18,22,40,h,Reid REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,84
+22300471,119,PT02M08.00S,1,1610612750,MIN,1629675,Reid,N. Reid,116,235,26,Missed,1,18,22,40,h,MISS Reid 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,85
+22300471,120,PT02M06.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,18,22,40,h,Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,86
+22300471,121,PT02M05.00S,1,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,18,22,40,v,Alvarado S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,1,0,87
+22300471,123,PT02M05.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,18,22,40,h,MISS Anderson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,88
+22300471,124,PT02M05.00S,1,0,,1610612750,,,0,0,0,,0,18,22,40,h,TIMBERWOLVES Rebound,Rebound,Normal Rebound,0,0,89
+22300471,125,PT02M05.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,18,22,40,h,SUB: McLaughlin FOR McDaniels,Substitution,,0,0,90
+22300471,126,PT02M05.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,18,22,40,v,SUB: Williamson FOR Ingram,Substitution,,0,0,91
+22300471,129,PT02M05.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,19,22,41,h,Anderson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,92
+22300471,131,PT01M41.00S,1,0,,1610612740,,,0,0,0,,0,19,22,41,v,Pelicans Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,1,0,93
+22300471,132,PT01M20.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-27,25,4,Made,1,21,22,43,h,McLaughlin 4' Driving Finger Roll Layup (2 PTS) (Edwards 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,94
+22300471,134,PT00M59.80S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,30,3,Made,1,21,24,45,v,Williamson 3' Cutting Finger Roll Layup Shot (9 PTS) (Alvarado 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,95
+22300471,137,PT00M39.80S,1,1610612750,MIN,1630162,Edwards,A. Edwards,4,22,2,Made,1,23,24,47,h,Edwards 2' Driving Layup (5 PTS) (Alexander-Walker 1 AST),Made Shot,Driving Layup Shot,1,2,96
+22300471,139,PT00M39.80S,1,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,23,24,47,v,Marshall S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,1,0,97
+22300471,141,PT00M39.80S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,24,24,48,h,Edwards Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,98
+22300471,142,PT00M32.80S,1,1610612740,NOP,1630631,Alvarado,J. Alvarado,-225,31,0,Made,1,24,27,51,v,Alvarado 3PT Jump Shot (3 PTS) (Williamson 1 AST),Made Shot,Jump Shot,1,3,99
+22300471,144,PT00M14.30S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,24,27,51,h,Edwards Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,100
+22300471,144,PT00M14.30S,1,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,24,27,51,v,Marshall STEAL (1 STL),,,1,0,101
+22300471,146,PT00M03.50S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,24,27,51,v,Williamson Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,102
+22300471,146,PT00M03.50S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,24,27,51,h,Edwards STEAL (1 STL),,,1,0,103
+22300471,148,PT00M00.30S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,104,236,26,Missed,1,24,27,51,h,MISS McLaughlin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,104
+22300471,149,PT00M00.10S,1,0,,1610612750,,,0,0,0,,0,24,27,51,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,105
+22300471,150,PT00M00.00S,1,0,,0,,,0,0,0,,0,24,27,51,,End of 1st Period (8:36 PM EST),period,end,1,0,106
+22300471,157,PT12M00.00S,2,0,,0,,,0,0,0,,0,24,27,51,,Start of 2nd Period (8:39 PM EST),period,start,0,0,107
+22300471,158,PT11M45.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,-163,193,25,Missed,1,24,27,51,h,MISS Alexander-Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+22300471,159,PT11M42.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,24,27,51,v,Williamson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,109
+22300471,160,PT11M35.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,-147,208,25,Missed,1,24,27,51,v,MISS Alvarado 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+22300471,161,PT11M31.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,24,27,51,v,Daniels REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,111
+22300471,162,PT11M26.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,12,57,6,Made,1,24,29,53,v,Williamson 6' Driving Finger Roll Layup (11 PTS) (Daniels 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,112
+22300471,163,PT11M08.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-23,60,6,Missed,1,24,29,53,h,MISS Reid 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,113
+22300471,164,PT11M05.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,24,29,53,v,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+22300471,165,PT11M00.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,24,29,53,v,McCollum Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,115
+22300471,165,PT11M00.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,24,29,53,h,McLaughlin STEAL (1 STL),,,1,0,116
+22300471,167,PT10M55.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,-225,-8,0,Missed,1,24,29,53,h,MISS Alexander-Walker 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,117
+22300471,168,PT10M52.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,24,29,53,v,Alvarado REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+22300471,169,PT10M39.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,-1,38,4,Missed,1,24,29,53,v,MISS McCollum 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,119
+22300471,170,PT10M38.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,24,29,53,h,Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,120
+22300471,171,PT10M25.00S,2,1610612750,MIN,1626157,Towns,K. Towns,21,21,3,Missed,1,24,29,53,h,MISS Towns 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,121
+22300471,171,PT10M25.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,24,29,53,v,McCollum BLOCK (1 BLK),,,1,2,122
+22300471,173,PT10M25.00S,2,0,,1610612750,,,0,0,0,,0,24,29,53,h,TIMBERWOLVES Rebound,Rebound,Unknown,1,0,123
+22300471,176,PT10M22.00S,2,1610612750,MIN,1626157,Towns,K. Towns,80,155,17,Made,1,26,29,55,h,Towns 17' Turnaround Jump Shot (5 PTS) (McLaughlin 1 AST),Made Shot,Turnaround Jump Shot,1,2,124
+22300471,178,PT10M22.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,26,29,55,v,Alvarado L.B.FOUL (P2.T1) (J.DeRosa),Foul,Loose Ball,1,0,125
+22300471,187,PT10M22.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,27,29,56,h,Alexander-Walker Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,0,0,126
+22300471,181,PT10M06.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,224,6,0,Made,1,27,32,59,v,Alvarado 3PT Jump Shot (6 PTS) (Williamson 2 AST),Made Shot,Jump Shot,1,3,127
+22300471,183,PT09M47.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,-33,86,9,Missed,1,27,32,59,h,MISS Anderson 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,128
+22300471,184,PT09M45.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,27,32,59,v,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,129
+22300471,185,PT09M36.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,49,30,6,Missed,1,27,32,59,v,MISS Nance Jr. 6' Hook Shot,Missed Shot,Hook Shot,1,2,130
+22300471,185,PT09M36.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,27,32,59,h,Reid BLOCK (1 BLK),,,1,2,131
+22300471,186,PT09M32.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,27,32,59,h,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,132
+22300471,188,PT09M20.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-124,221,25,Made,1,30,32,62,h,Reid 25' 3PT Jump Shot (6 PTS) (McLaughlin 2 AST),Made Shot,Jump Shot,1,3,133
+22300471,190,PT08M58.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,-17,32,4,Missed,1,30,32,62,v,MISS Williamson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,134
+22300471,191,PT08M56.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,30,32,62,h,Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,135
+22300471,192,PT08M37.00S,2,1610612750,MIN,1626157,Towns,K. Towns,6,76,8,Made,1,32,32,64,h,Towns 8' Hook Shot (7 PTS),Made Shot,Hook Shot,1,2,136
+22300471,193,PT08M24.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,48,157,16,Made,1,32,34,66,v,McCollum 16' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,137
+22300471,194,PT08M02.00S,2,1610612750,MIN,1626157,Towns,K. Towns,-137,160,21,Missed,1,32,34,66,h,MISS Towns 21' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,138
+22300471,195,PT07M58.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,32,34,66,v,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,139
+22300471,196,PT07M48.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,-86,53,10,Made,1,32,36,68,v,McCollum 10' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,140
+22300471,197,PT07M31.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,135,211,25,Missed,1,32,36,68,h,MISS McLaughlin 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+22300471,198,PT07M29.00S,2,0,,1610612740,,,0,0,0,,0,32,36,68,v,Pelicans Rebound,Rebound,Unknown,1,0,142
+22300471,200,PT07M29.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,32,36,68,h,SUB: McDaniels FOR Anderson,Substitution,,0,0,143
+22300471,201,PT07M29.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,32,36,68,h,SUB: Conley FOR Alexander-Walker,Substitution,,0,0,144
+22300471,202,PT07M29.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,32,36,68,h,SUB: Gobert FOR Reid,Substitution,,0,0,145
+22300471,203,PT07M29.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,32,36,68,v,SUB: Jones FOR Williamson,Substitution,,0,0,146
+22300471,204,PT07M29.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,32,36,68,v,SUB: Ingram FOR Alvarado,Substitution,,0,0,147
+22300471,205,PT07M29.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,32,36,68,v,SUB: Valanciunas FOR Nance Jr.,Substitution,,0,0,148
+22300471,212,PT07M20.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,32,36,68,v,Jones OFF.Foul (P1) (P.Fraher),Foul,Offensive,1,0,149
+22300471,214,PT07M20.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,32,36,68,v,Jones Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,150
+22300471,215,PT06M59.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,31,62,7,Missed,1,32,36,68,h,MISS McDaniels 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,151
+22300471,216,PT06M56.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,32,36,68,v,Daniels REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,152
+22300471,217,PT06M53.00S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,32,36,68,h,Towns S.FOUL (P2.T1) (J.Schroeder),Foul,Shooting,1,0,153
+22300471,219,PT06M53.00S,2,0,,1610612750,,,0,0,0,,0,32,36,68,h,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,154
+22300471,221,PT06M53.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,32,36,68,h,SUB: Edwards FOR McLaughlin,Substitution,,0,0,155
+22300471,223,PT06M53.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,32,37,69,v,Daniels Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,156
+22300471,224,PT06M53.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,32,38,70,v,Daniels Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,157
+22300471,225,PT06M39.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,32,38,70,v,McCollum P.FOUL (P2.T2) (J.Schroeder),Foul,Personal,1,0,158
+22300471,227,PT06M25.00S,2,0,,1610612750,,,0,0,0,,0,32,38,70,h,TIMBERWOLVES Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,1,0,159
+22300471,228,PT06M04.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,102,230,25,Missed,1,32,38,70,v,MISS Ingram 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+22300471,229,PT06M02.00S,2,0,,1610612740,,,0,0,0,,0,32,38,70,v,Pelicans Rebound,Rebound,Unknown,0,0,161
+22300471,231,PT06M02.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,32,38,70,v,SUB: Alvarado FOR McCollum,Substitution,,0,0,162
+22300471,233,PT06M00.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,32,38,70,v,Jones Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,163
+22300471,233,PT06M00.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,32,38,70,h,McDaniels STEAL (1 STL),,,1,0,164
+22300471,235,PT05M58.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,-5,34,3,Missed,1,32,38,70,h,MISS McDaniels 3' Running Layup,Missed Shot,Running Layup Shot,1,2,165
+22300471,235,PT05M58.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,32,38,70,v,Alvarado BLOCK (1 BLK),,,1,2,166
+22300471,237,PT05M57.00S,2,0,,1610612740,,,0,0,0,,0,32,38,70,v,Pelicans Rebound,Rebound,Unknown,1,0,167
+22300471,239,PT05M49.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,-181,173,25,Missed,1,32,38,70,v,MISS Alvarado 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+22300471,240,PT05M45.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,32,38,70,v,Valanciunas REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,169
+22300471,241,PT05M35.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-10,158,16,Made,1,32,40,72,v,Valanciunas 16' Jump Shot (2 PTS) (Ingram 3 AST),Made Shot,Jump Shot,1,2,170
+22300471,243,PT05M26.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,32,40,72,v,Valanciunas P.FOUL (P2.T3) (J.DeRosa),Foul,Personal,1,0,171
+22300471,245,PT05M17.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,235,5,24,Made,1,35,40,75,h,McDaniels 24' 3PT Jump Shot (7 PTS) (Conley 2 AST),Made Shot,Jump Shot,1,3,172
+22300471,247,PT04M52.00S,2,1610612740,NOP,1630529,Jones,H. Jones,-230,1,0,Made,1,35,43,78,v,Jones 3PT Jump Shot (8 PTS) (Valanciunas 3 AST),Made Shot,Jump Shot,1,3,173
+22300471,249,PT04M35.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,35,43,78,h,Edwards Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,174
+22300471,249,PT04M35.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,35,43,78,v,Daniels STEAL (1 STL),,,1,0,175
+22300471,251,PT04M30.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,15,19,2,Made,1,35,45,80,v,Alvarado 2' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,176
+22300471,253,PT04M30.00S,2,0,,1610612750,,,0,0,0,,0,35,45,80,h,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,177
+22300471,254,PT04M09.00S,2,1610612750,MIN,1626157,Towns,K. Towns,233,42,24,Missed,1,35,45,80,h,MISS Towns 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+22300471,255,PT04M07.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,35,45,80,v,Ingram REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,179
+22300471,256,PT03M58.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,97,127,16,Made,1,35,47,82,v,Ingram 16' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,180
+22300471,257,PT03M39.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,10,7,1,Made,1,37,47,84,h,Edwards 1' Driving Reverse Layup (8 PTS) (Conley 3 AST),Made Shot,Driving Reverse Layup Shot,1,2,181
+22300471,259,PT03M25.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,37,47,84,h,Gobert S.FOUL (P3.T2) (P.Fraher),Foul,Shooting,1,0,182
+22300471,261,PT03M25.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,37,48,85,v,Ingram Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,183
+22300471,286,PT03M25.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,37,48,85,h,SUB: Reid FOR Gobert,Substitution,,0,0,184
+22300471,264,PT03M25.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,37,49,86,v,Ingram Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,185
+22300471,265,PT03M04.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,-1,26,3,Missed,1,37,49,86,h,MISS Edwards 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,186
+22300471,266,PT03M02.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,37,49,86,v,Valanciunas REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,187
+22300471,311,PT03M02.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,37,49,86,h,Edwards T.FOUL (P0.T2) (P.Fraher),Foul,Technical,1,0,188
+22300471,268,PT03M02.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,37,49,86,v,MISS Ingram Free Throw Technical,Free Throw,Free Throw Technical,1,0,189
+22300471,269,PT03M02.00S,2,0,,1610612740,,,0,0,0,,0,37,49,86,v,Pelicans Rebound,Rebound,Normal Rebound,0,0,190
+22300471,270,PT03M02.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,37,49,86,v,SUB: Williamson FOR Valanciunas,Substitution,,0,0,191
+22300471,272,PT02M50.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,37,49,86,h,McDaniels S.FOUL (P2.T3) (P.Fraher),Foul,Shooting,1,0,192
+22300471,274,PT02M50.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,37,50,87,v,Ingram Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,193
+22300471,275,PT02M50.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,37,51,88,v,Ingram Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,194
+22300471,276,PT02M27.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,5,22,2,Made,1,39,51,90,h,McDaniels 2' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,195
+22300471,277,PT02M16.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-76,239,25,Made,1,39,54,93,v,Ingram 25' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,3,196
+22300471,278,PT01M51.00S,2,1610612750,MIN,1626157,Towns,K. Towns,1,39,4,Made,1,41,54,95,h,Towns 4' Driving Floating Bank Jump Shot (9 PTS) (Conley 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,197
+22300471,280,PT01M38.00S,2,1610612740,NOP,1630529,Jones,H. Jones,230,19,0,Made,1,41,57,98,v,Jones 3PT Jump Shot (11 PTS) (Ingram 4 AST),Made Shot,Jump Shot,1,3,198
+22300471,282,PT01M24.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-132,223,26,Missed,1,41,57,98,h,MISS Reid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,199
+22300471,283,PT01M21.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,41,57,98,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,200
+22300471,284,PT01M06.00S,2,1610612740,NOP,1630529,Jones,H. Jones,-29,35,5,Missed,1,41,57,98,v,MISS Jones 5' Layup,Missed Shot,Layup Shot,1,2,201
+22300471,285,PT01M04.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,41,57,98,h,Reid REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,202
+22300471,288,PT01M00.00S,2,1610612750,MIN,201144,Conley,M. Conley,230,84,24,Made,1,44,57,101,h,Conley 24' 3PT Running Jump Shot (7 PTS) (Edwards 5 AST),Made Shot,Running Jump Shot,1,3,203
+22300471,290,PT00M53.40S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,17,34,4,Missed,1,44,57,101,v,MISS Williamson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,204
+22300471,290,PT00M53.40S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,44,57,101,h,Reid BLOCK (2 BLK),,,1,2,205
+22300471,292,PT00M53.40S,2,0,,1610612750,,,0,0,0,,0,44,57,101,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,206
+22300471,294,PT00M53.40S,2,0,,1628228,,,0,0,0,,0,44,57,101,,Willie Green Foul:T.FOUL (J.DeRosa),Foul,Technical,1,0,207
+22300471,295,PT00M53.40S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,45,57,102,h,Towns Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,1,0,208
+22300471,296,PT00M29.40S,2,0,,1610612750,,,0,0,0,,0,45,57,102,h,TIMBERWOLVES Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,209
+22300471,297,PT00M29.40S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,45,57,102,h,SUB: Anderson FOR Towns,Substitution,,0,0,210
+22300471,298,PT00M29.40S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,45,57,102,v,SUB: McCollum FOR Daniels,Substitution,,0,0,211
+22300471,301,PT00M10.60S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,-27,32,4,Made,1,45,59,104,v,Williamson 4' Driving Finger Roll Layup (13 PTS) (Ingram 5 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,212
+22300471,303,PT00M04.20S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,45,59,104,v,Jones S.FOUL (P2.T4) (P.Fraher),Foul,Shooting,1,0,213
+22300471,305,PT00M04.20S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,46,59,105,h,Edwards Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,214
+22300471,306,PT00M04.20S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,46,59,105,h,SUB: Alexander-Walker FOR McDaniels,Substitution,,0,0,215
+22300471,308,PT00M04.20S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,46,59,105,h,MISS Edwards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,216
+22300471,309,PT00M02.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,46,59,105,v,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,217
+22300471,310,PT00M00.00S,2,0,,0,,,0,0,0,,0,46,59,105,,End of 2nd Period (9:06 PM EST),period,end,1,0,218
+22300471,320,PT12M00.00S,3,0,,0,,,0,0,0,,0,46,59,105,,Start of 3rd Period (9:21 PM EST),period,start,0,0,219
+22300471,321,PT11M45.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-51,47,7,Missed,1,46,59,105,h,MISS Edwards 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,220
+22300471,322,PT11M41.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,46,59,105,v,Ingram REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,221
+22300471,323,PT11M36.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-225,65,0,Made,1,46,62,108,v,McCollum 3PT Running Jump Shot (9 PTS) (Jones 1 AST),Made Shot,Running Jump Shot,1,3,222
+22300471,325,PT11M24.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,21,6,2,Made,1,48,62,110,h,Gobert 2' Layup (3 PTS) (Towns 2 AST),Made Shot,Layup Shot,1,2,223
+22300471,327,PT11M10.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,232,22,0,Missed,1,48,62,110,v,MISS Valanciunas 3PT Jump Shot,Missed Shot,Jump Shot,1,3,224
+22300471,328,PT11M08.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,48,62,110,h,Towns REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,225
+22300471,329,PT10M59.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-222,36,0,Made,1,51,62,113,h,Edwards 3PT Jump Shot (12 PTS) (McDaniels 2 AST),Made Shot,Jump Shot,1,3,226
+22300471,331,PT10M40.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,51,62,113,v,Jones Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,227
+22300471,331,PT10M40.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,51,62,113,h,McDaniels STEAL (2 STL),,,1,0,228
+22300471,333,PT10M33.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,2,20,2,Made,1,53,62,115,h,McDaniels 2' Running Finger Roll Layup (11 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,229
+22300471,334,PT10M17.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-162,193,25,Made,1,53,65,118,v,McCollum 25' 3PT Jump Shot (12 PTS) (Williamson 3 AST),Made Shot,Jump Shot,1,3,230
+22300471,336,PT10M01.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,53,65,118,h,Edwards Out of Bounds - Bad Pass Turnover Turnover (P3.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,231
+22300471,337,PT09M52.00S,3,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,53,65,118,h,Conley S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,1,0,232
+22300471,339,PT09M52.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,53,66,119,v,McCollum Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,233
+22300471,340,PT09M52.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,53,67,120,v,McCollum Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,234
+22300471,341,PT09M43.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,53,67,120,v,Valanciunas P.FOUL (P3.T1) (P.Fraher),Foul,Personal,1,0,235
+22300471,343,PT09M35.00S,3,1610612750,MIN,1626157,Towns,K. Towns,-1,94,9,Missed,1,53,67,120,h,MISS Towns 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,236
+22300471,344,PT09M32.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,53,67,120,v,Ingram REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,237
+22300471,345,PT09M26.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-162,12,16,Missed,1,53,67,120,v,MISS McCollum 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,238
+22300471,346,PT09M22.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,53,67,120,v,Williamson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,239
+22300471,347,PT09M22.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,22,20,3,Made,1,53,69,122,v,Williamson 3' Putback Layup (15 PTS),Made Shot,Putback Layup Shot,1,2,240
+22300471,348,PT09M05.00S,3,1610612750,MIN,1626157,Towns,K. Towns,-25,15,3,Missed,1,53,69,122,h,MISS Towns 3' Hook Shot,Missed Shot,Hook Shot,1,2,241
+22300471,349,PT09M05.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,53,69,122,h,Towns REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,242
+22300471,350,PT09M05.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,53,69,122,v,Williamson S.FOUL (P2.T2) (J.Schroeder),Foul,Shooting,1,0,243
+22300471,352,PT09M05.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,54,69,123,h,Towns Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,244
+22300471,353,PT09M05.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,55,69,124,h,Towns Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,245
+22300471,354,PT08M55.00S,3,1610612740,NOP,1630529,Jones,H. Jones,-189,170,25,Made,1,55,72,127,v,Jones 25' 3PT Jump Shot (14 PTS) (McCollum 2 AST),Made Shot,Jump Shot,1,3,246
+22300471,356,PT08M31.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,54,50,7,Made,1,57,72,129,h,Edwards 7' Driving Floating Bank Jump Shot (14 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,247
+22300471,357,PT08M31.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,57,72,129,v,Valanciunas S.FOUL (P4.T3) (J.DeRosa),Foul,Shooting,1,0,248
+22300471,359,PT08M31.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,57,72,129,v,SUB: Nance Jr. FOR Valanciunas,Substitution,,0,0,249
+22300471,361,PT08M31.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,58,72,130,h,Edwards Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,1,0,250
+22300471,362,PT08M18.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-22,13,3,Made,1,58,74,132,v,Williamson 3' Driving Reverse Layup (17 PTS) (McCollum 3 AST),Made Shot,Driving Reverse Layup Shot,1,2,251
+22300471,364,PT08M07.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,58,74,132,h,Towns Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,252
+22300471,364,PT08M07.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,58,74,132,v,Ingram STEAL (1 STL),,,1,0,253
+22300471,366,PT08M05.00S,3,1610612740,NOP,1630529,Jones,H. Jones,-22,32,4,Missed,1,58,74,132,v,MISS Jones 4' Running Layup,Missed Shot,Running Layup Shot,1,2,254
+22300471,366,PT08M05.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,58,74,132,h,Edwards BLOCK (1 BLK),,,1,2,255
+22300471,368,PT08M04.00S,3,0,,1610612750,,,0,0,0,,0,58,74,132,h,TIMBERWOLVES Rebound,Rebound,Unknown,1,0,256
+22300471,370,PT08M04.00S,3,0,,1610612750,,,0,0,0,,0,58,74,132,h,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,257
+22300471,371,PT08M04.00S,3,0,,369,Ward,C. Ward,0,0,0,,0,58,74,132,,Instant Replay3rd Period (9:28 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,258
+22300471,372,PT07M46.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-25,10,3,Made,1,60,74,134,h,Edwards 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,259
+22300471,374,PT07M34.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,60,74,134,v,Williamson Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,260
+22300471,375,PT07M17.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,123,213,25,Missed,1,60,74,134,h,MISS Edwards 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,261
+22300471,376,PT07M15.00S,3,0,,1610612740,,,0,0,0,,0,60,74,134,v,Pelicans Rebound,Rebound,Unknown,1,0,262
+22300471,378,PT06M53.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,22,16,3,Made,1,60,76,136,v,Nance Jr. 3' Cutting Layup Shot (2 PTS) (Jones 2 AST),Made Shot,Cutting Layup Shot,1,2,263
+22300471,380,PT06M40.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,60,76,136,h,Edwards Lost Ball Turnover (P4.T9),Turnover,Lost Ball,1,0,264
+22300471,380,PT06M40.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,60,76,136,v,Nance Jr. STEAL (1 STL),,,1,0,265
+22300471,382,PT06M35.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,37,21,4,Missed,1,60,76,136,v,MISS Williamson 4' Running Layup,Missed Shot,Running Layup Shot,1,2,266
+22300471,383,PT06M35.00S,3,0,,1610612750,,,0,0,0,,0,60,76,136,h,TIMBERWOLVES Rebound,Rebound,Unknown,1,0,267
+22300471,384,PT06M35.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,60,76,136,v,Ingram L.B.FOUL (P1.T4) (J.Schroeder),Foul,Loose Ball,1,0,268
+22300471,387,PT06M35.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,60,76,136,h,SUB: Alexander-Walker FOR Towns,Substitution,,0,0,269
+22300471,390,PT06M35.00S,3,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,60,76,136,h,SUB: Reid FOR Conley,Substitution,,0,0,270
+22300471,391,PT06M21.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,36,22,4,Missed,1,60,76,136,h,MISS Edwards 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,271
+22300471,391,PT06M21.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,60,76,136,v,Nance Jr. BLOCK (1 BLK),,,1,2,272
+22300471,393,PT06M21.00S,3,0,,1610612740,,,0,0,0,,0,60,76,136,v,Pelicans Rebound,Rebound,Unknown,1,0,273
+22300471,395,PT06M21.00S,3,0,,1610612740,,,0,0,0,,0,60,76,136,v,Pelicans Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,274
+22300471,396,PT06M21.00S,3,0,,394,,,0,0,0,,0,60,76,136,,Instant Replay3rd Period (9:34 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,275
+22300471,398,PT06M06.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,60,76,136,h,Gobert S.FOUL (P4.T2) (J.DeRosa),Foul,Shooting,1,0,276
+22300471,400,PT06M06.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,60,77,137,v,Williamson Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,277
+22300471,401,PT06M06.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,60,77,137,h,SUB: Towns FOR Gobert,Substitution,,0,0,278
+22300471,403,PT06M06.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,60,78,138,v,Williamson Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,279
+22300471,404,PT05M47.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,60,78,138,h,McDaniels Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,280
+22300471,405,PT05M27.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-49,42,6,Missed,1,60,78,138,v,MISS Williamson 6' Layup,Missed Shot,Layup Shot,1,2,281
+22300471,406,PT05M25.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,60,78,138,v,Nance Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,282
+22300471,407,PT05M24.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-1,23,2,Made,1,60,80,140,v,Williamson 2' Layup (21 PTS) (Nance Jr. 1 AST),Made Shot,Layup Shot,1,2,283
+22300471,408,PT05M15.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,23,15,3,Missed,1,60,80,140,h,MISS Edwards 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,284
+22300471,408,PT05M15.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,60,80,140,v,Williamson BLOCK (1 BLK),,,1,2,285
+22300471,410,PT05M15.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,60,80,140,v,Nance Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,286
+22300471,411,PT05M06.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-99,101,14,Made,1,60,82,142,v,Ingram 14' Fadeaway Jumper (17 PTS) (McCollum 4 AST),Made Shot,Fadeaway Jump Shot,1,2,287
+22300471,413,PT05M06.00S,3,0,,1610612750,,,0,0,0,,0,60,82,142,h,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,288
+22300471,470,PT05M06.00S,3,0,,1610612750,,,0,0,0,,0,60,82,142,h,TIMBERWOLVES Violation: Delay of game Violation,Violation,Delay Of Game,0,0,289
+22300471,414,PT05M06.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,60,82,142,h,SUB: Anderson FOR McDaniels,Substitution,,0,0,290
+22300471,415,PT05M06.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,60,82,142,v,SUB: Marshall FOR Williamson,Substitution,,0,0,291
+22300471,416,PT05M06.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,60,82,142,v,SUB: Alvarado FOR McCollum,Substitution,,0,0,292
+22300471,420,PT04M52.00S,3,1610612750,MIN,1626157,Towns,K. Towns,-65,232,24,Missed,1,60,82,142,h,MISS Towns 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,293
+22300471,421,PT04M48.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,60,82,142,v,Nance Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,294
+22300471,422,PT04M40.00S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,60,82,142,h,Alexander-Walker Violation:Kicked Ball (J.DeRosa),Violation,Kicked Ball,0,0,295
+22300471,424,PT04M33.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,96,174,20,Made,1,60,84,144,v,Ingram 20' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,1,2,296
+22300471,425,PT04M21.00S,3,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,60,84,144,v,Marshall S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,1,0,297
+22300471,427,PT04M21.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,61,84,145,h,Edwards Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,298
+22300471,428,PT04M21.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,61,84,145,h,SUB: McLaughlin FOR Towns,Substitution,,0,0,299
+22300471,430,PT04M21.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,62,84,146,h,Edwards Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,300
+22300471,431,PT04M02.00S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,62,84,146,h,Reid P.FOUL (P1.T3) (P.Fraher),Foul,Personal,1,0,301
+22300471,433,PT03M56.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,62,84,146,v,Ingram Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,302
+22300471,433,PT03M56.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,62,84,146,h,Anderson STEAL (1 STL),,,1,0,303
+22300471,435,PT03M53.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,28,15,3,Missed,1,62,84,146,h,MISS Edwards 3' Running Layup,Missed Shot,Running Layup Shot,1,2,304
+22300471,436,PT03M49.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,62,84,146,h,Edwards REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,305
+22300471,437,PT03M44.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,62,84,146,h,Edwards Out of Bounds - Bad Pass Turnover Turnover (P5.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,306
+22300471,438,PT03M26.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,62,84,146,v,Ingram Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,307
+22300471,438,PT03M26.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,62,84,146,h,Anderson STEAL (2 STL),,,1,0,308
+22300471,440,PT03M13.00S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,9,80,8,Made,1,64,84,148,h,Alexander-Walker 8' Driving Floating Jump Shot (3 PTS) (McLaughlin 3 AST),Made Shot,Driving Floating Jump Shot,1,2,309
+22300471,442,PT03M13.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,64,84,148,v,Nance Jr. S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,1,0,310
+22300471,444,PT03M13.00S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,65,84,149,h,Alexander-Walker Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0,311
+22300471,445,PT02M55.00S,3,1610612740,NOP,1630631,Alvarado,J. Alvarado,-223,32,0,Missed,1,65,84,149,v,MISS Alvarado 3PT Jump Shot,Missed Shot,Jump Shot,1,3,312
+22300471,446,PT02M53.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,65,84,149,h,Edwards REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,313
+22300471,447,PT02M46.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-40,241,24,Missed,1,65,84,149,h,MISS Edwards 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,314
+22300471,448,PT02M43.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,65,84,149,h,McLaughlin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,315
+22300471,449,PT02M40.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-157,187,24,Missed,1,65,84,149,h,MISS McLaughlin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,316
+22300471,450,PT02M37.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,65,84,149,v,Ingram REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,317
+22300471,451,PT02M33.00S,3,0,,1610612740,,,0,0,0,,0,65,84,149,v,Pelicans Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,318
+22300471,452,PT02M33.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,65,84,149,v,SUB: Williamson FOR Ingram,Substitution,,0,0,319
+22300471,454,PT02M20.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-4,18,2,Made,1,65,86,151,v,Nance Jr. 2' Reverse Dunk (4 PTS) (Williamson 4 AST),Made Shot,Reverse Dunk Shot,1,2,320
+22300471,456,PT02M08.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-9,12,2,Missed,1,65,86,151,h,MISS Edwards 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,321
+22300471,456,PT02M08.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,65,86,151,v,Jones BLOCK (1 BLK),,,1,2,322
+22300471,461,PT02M08.00S,3,0,,1610612750,,,0,0,0,,0,65,86,151,h,TIMBERWOLVES Rebound,Rebound,Unknown,1,0,323
+22300471,458,PT02M08.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,65,86,151,h,Jump Ball Edwards vs. Jones: Tip to McLaughlin,Jump Ball,,1,0,324
+22300471,462,PT02M05.00S,3,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,65,86,151,v,Marshall P.FOUL (P3.PN) (J.Schroeder),Foul,Personal,1,0,325
+22300471,464,PT02M05.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,66,86,152,h,McLaughlin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,326
+22300471,465,PT02M05.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,66,86,152,h,MISS McLaughlin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,327
+22300471,466,PT02M03.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,66,86,152,h,McLaughlin REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,328
+22300471,468,PT02M02.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-16,11,2,Missed,1,66,86,152,h,MISS McLaughlin 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,329
+22300471,469,PT01M59.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,66,86,152,v,Nance Jr. REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,330
+22300471,471,PT01M47.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-20,25,3,Made,1,66,88,154,v,Williamson 3' Driving Finger Roll Layup (23 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,331
+22300471,472,PT01M25.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-232,6,0,Missed,1,66,88,154,h,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,332
+22300471,473,PT01M23.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,66,88,154,h,Edwards REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,333
+22300471,474,PT01M23.00S,3,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,66,88,154,v,Marshall S.FOUL (P4.PN) (P.Fraher),Foul,Shooting,1,0,334
+22300471,476,PT01M23.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,67,88,155,h,Edwards Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,335
+22300471,477,PT01M23.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,68,88,156,h,Edwards Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,336
+22300471,478,PT01M15.00S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,68,88,156,h,Reid P.FOUL (P2.T4) (J.DeRosa),Foul,Personal,1,0,337
+22300471,480,PT01M05.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,22,21,3,Made,1,68,90,158,v,Nance Jr. 3' Layup (6 PTS) (Williamson 5 AST),Made Shot,Layup Shot,1,2,338
+22300471,482,PT00M48.60S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,68,90,158,v,Williamson Violation:Kicked Ball (P.Fraher),Violation,Kicked Ball,0,0,339
+22300471,483,PT00M46.30S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,68,90,158,h,Alexander-Walker Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,340
+22300471,483,PT00M46.30S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,68,90,158,v,Williamson STEAL (1 STL),,,1,0,341
+22300471,485,PT00M44.10S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,2,17,2,Made,1,68,92,160,v,Williamson 2' Running Dunk (25 PTS),Made Shot,Running Dunk Shot,1,2,342
+22300471,486,PT00M31.80S,3,1610612750,MIN,1630162,Edwards,A. Edwards,10,79,8,Made,1,70,92,162,h,Edwards 8' Driving Floating Jump Shot (23 PTS),Made Shot,Driving Floating Jump Shot,1,2,343
+22300471,487,PT00M31.80S,3,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,70,92,162,v,Alvarado S.FOUL (P3.PN) (P.Fraher),Foul,Shooting,1,0,344
+22300471,489,PT00M31.80S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,71,92,163,h,Edwards Free Throw 1 of 1 (24 PTS),Free Throw,Free Throw 1 of 1,1,0,345
+22300471,490,PT00M05.80S,3,1610612740,NOP,1630230,Marshall,N. Marshall,237,44,24,Missed,1,71,92,163,v,MISS Marshall 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+22300471,491,PT00M04.60S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,71,92,163,h,Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,347
+22300471,492,PT00M00.50S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-9,268,27,Missed,1,71,92,163,h,MISS Edwards 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,348
+22300471,493,PT00M00.20S,3,0,,1610612750,,,0,0,0,,0,71,92,163,h,TIMBERWOLVES Rebound,Rebound,Unknown,1,0,349
+22300471,494,PT00M00.00S,3,0,,0,,,0,0,0,,0,71,92,163,,End of 3rd Period (9:54 PM EST),period,end,1,0,350
+22300471,509,PT12M00.00S,4,0,,0,,,0,0,0,,0,71,92,163,,Start of 4th Period (9:56 PM EST),period,start,0,0,351
+22300471,510,PT11M44.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,229,-13,0,Made,1,71,95,166,v,Daniels 3PT Jump Shot (5 PTS) (Williamson 6 AST),Made Shot,Jump Shot,1,3,352
+22300471,512,PT11M25.00S,4,1610612750,MIN,1626157,Towns,K. Towns,1,26,3,Made,1,73,95,168,h,Towns 3' Hook Shot (14 PTS) (Conley 5 AST),Made Shot,Hook Shot,1,2,353
+22300471,514,PT11M06.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,134,226,26,Missed,1,73,95,168,v,MISS Alvarado 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+22300471,515,PT11M03.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,73,95,168,h,Gobert REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,355
+22300471,516,PT10M49.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,158,-6,16,Missed,1,73,95,168,h,MISS McDaniels 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,356
+22300471,517,PT10M46.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,73,95,168,v,Valanciunas REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,357
+22300471,518,PT10M37.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,2,11,1,Made,1,73,97,170,v,Williamson 1' Driving Finger Roll Layup (27 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,358
+22300471,519,PT10M23.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,3,0,Made,1,75,97,172,h,Gobert Alley Oop Dunk (5 PTS) (Conley 6 AST),Made Shot,Alley Oop Dunk Shot,1,2,359
+22300471,521,PT10M03.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,75,97,172,v,Valanciunas OFF.Foul (P5) (J.Schroeder),Foul,Offensive,1,0,360
+22300471,523,PT10M03.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,75,97,172,v,Valanciunas Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,1,0,361
+22300471,524,PT09M49.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,227,30,0,Missed,1,75,97,172,h,MISS McDaniels 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+22300471,525,PT09M45.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,75,97,172,v,McCollum REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,363
+22300471,526,PT09M37.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,9,11,1,Made,1,75,99,174,v,Valanciunas 1' Layup (4 PTS) (McCollum 5 AST),Made Shot,Layup Shot,1,2,364
+22300471,528,PT09M25.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,75,99,174,v,Williamson S.FOUL (P3.T1) (J.DeRosa),Foul,Shooting,1,0,365
+22300471,530,PT09M25.00S,4,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,76,99,175,h,Towns Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,366
+22300471,531,PT09M25.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,76,99,175,h,SUB: Edwards FOR McLaughlin,Substitution,,0,0,367
+22300471,533,PT09M25.00S,4,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,77,99,176,h,Towns Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,368
+22300471,534,PT09M11.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,-40,104,11,Missed,1,77,99,176,v,MISS Alvarado 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,369
+22300471,535,PT09M09.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,77,99,176,v,Alvarado REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,370
+22300471,536,PT09M08.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-165,1,17,Missed,1,77,99,176,v,MISS Valanciunas 17' Jump Shot,Missed Shot,Jump Shot,1,2,371
+22300471,537,PT09M08.00S,4,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,77,99,176,h,Towns REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,372
+22300471,538,PT09M02.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,143,209,25,Made,1,80,99,179,h,Edwards 25' 3PT Running Jump Shot (27 PTS) (Conley 7 AST),Made Shot,Running Jump Shot,1,3,373
+22300471,540,PT08M33.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,-138,204,25,Made,1,80,102,182,v,McCollum 25' 3PT Jump Shot (17 PTS) (Alvarado 2 AST),Made Shot,Jump Shot,1,3,374
+22300471,542,PT08M22.00S,4,1610612750,MIN,1626157,Towns,K. Towns,-7,6,1,Missed,1,80,102,182,h,MISS Towns 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,375
+22300471,543,PT08M19.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,80,102,182,v,Daniels REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,376
+22300471,544,PT08M17.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,80,102,182,h,McDaniels P.FOUL (P3.T1) (P.Fraher),Foul,Personal,1,0,377
+22300471,546,PT08M17.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,80,102,182,v,SUB: Jones FOR Williamson,Substitution,,0,0,378
+22300471,547,PT08M17.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,80,102,182,v,SUB: Zeller FOR Valanciunas,Substitution,,0,0,379
+22300471,550,PT08M17.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,80,102,182,v,SUB: Ingram FOR Alvarado,Substitution,,0,0,380
+22300471,552,PT08M13.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,222,112,25,Missed,1,80,102,182,v,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,381
+22300471,553,PT08M09.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,80,102,182,h,Gobert REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,382
+22300471,554,PT07M56.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,80,102,182,h,Edwards Lost Ball Turnover (P6.T13),Turnover,Lost Ball,1,0,383
+22300471,554,PT07M56.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,80,102,182,v,Ingram STEAL (2 STL),,,1,0,384
+22300471,556,PT07M45.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,-131,106,17,Missed,1,80,102,182,v,MISS McCollum 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,385
+22300471,557,PT07M43.00S,4,1610612740,NOP,203469,Zeller,C. Zeller,0,0,0,,0,80,102,182,v,Zeller REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,386
+22300471,558,PT07M41.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,27,29,4,Made,1,80,104,184,v,McCollum 4' Floating Jump Shot (19 PTS) (Zeller 1 AST),Made Shot,Floating Jump shot,1,2,387
+22300471,560,PT07M24.00S,4,1610612750,MIN,1626157,Towns,K. Towns,-80,-7,8,Made,1,82,104,186,h,Towns 8' Floating Jump Shot (18 PTS) (Conley 8 AST),Made Shot,Floating Jump shot,1,2,388
+22300471,562,PT07M24.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,82,104,186,v,Ingram S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,1,0,389
+22300471,564,PT07M24.00S,4,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,82,104,186,h,MISS Towns Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,390
+22300471,565,PT07M20.00S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,82,104,186,v,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,391
+22300471,566,PT07M03.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,55,7,6,Missed,1,82,104,186,v,MISS McCollum 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,392
+22300471,567,PT07M01.00S,4,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,82,104,186,h,Towns REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,393
+22300471,568,PT06M57.00S,4,1610612750,MIN,1626157,Towns,K. Towns,11,14,2,Made,1,84,104,188,h,Towns 2' Running Layup (20 PTS),Made Shot,Running Layup Shot,1,2,394
+22300471,569,PT06M57.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,84,104,188,v,Daniels Violation:Defensive Goaltending (P.Fraher),Violation,Defensive Goaltending,1,0,395
+22300471,571,PT06M45.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,232,-20,0,Made,1,84,107,191,v,McCollum 3PT Jump Shot (22 PTS) (Ingram 6 AST),Made Shot,Jump Shot,1,3,396
+22300471,573,PT06M24.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-174,178,25,Made,1,87,107,194,h,Edwards 25' 3PT Jump Shot (30 PTS) (Conley 9 AST),Made Shot,Jump Shot,1,3,397
+22300471,576,PT06M07.00S,4,0,,1610612750,,,0,0,0,,0,87,107,194,h,TIMBERWOLVES Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,398
+22300471,577,PT06M07.00S,4,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,87,107,194,h,SUB: Alexander-Walker FOR Conley,Substitution,,0,0,399
+22300471,578,PT06M07.00S,4,1610612740,NOP,203469,Zeller,C. Zeller,0,0,0,,0,87,107,194,v,SUB: Nance Jr. FOR Zeller,Substitution,,0,0,400
+22300471,581,PT06M04.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,10,17,2,Missed,1,87,107,194,v,MISS Ingram 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,401
+22300471,581,PT06M04.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,87,107,194,h,Gobert BLOCK (1 BLK),,,1,2,402
+22300471,583,PT06M03.00S,4,0,,1610612740,,,0,0,0,,0,87,107,194,v,Pelicans Rebound,Rebound,Unknown,0,0,403
+22300471,585,PT05M59.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,199,25,20,Missed,1,87,107,194,v,MISS McCollum 20' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,404
+22300471,586,PT05M58.00S,4,0,,1610612740,,,0,0,0,,0,87,107,194,v,Pelicans Rebound,Rebound,Unknown,0,0,405
+22300471,587,PT05M58.00S,4,0,,1610612740,,,0,0,0,,0,87,107,194,v,Pelicans Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,406
+22300471,588,PT05M48.00S,4,1610612750,MIN,1626157,Towns,K. Towns,97,236,26,Missed,1,87,107,194,h,MISS Towns 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+22300471,589,PT05M45.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,87,107,194,v,Daniels REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,408
+22300471,590,PT05M28.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,116,121,17,Missed,1,87,107,194,v,MISS Ingram 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,409
+22300471,591,PT05M24.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,87,107,194,v,Daniels REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,410
+22300471,594,PT05M14.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,87,107,194,h,Edwards S.FOUL (P1.T2) (J.Schroeder),Foul,Shooting,1,0,411
+22300471,596,PT05M14.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,87,107,194,v,McCollum T.FOUL (P2.T2) (J.Schroeder),Foul,Technical,1,0,412
+22300471,597,PT05M14.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,88,107,195,h,Edwards Free Throw Technical (31 PTS),Free Throw,Free Throw Technical,1,0,413
+22300471,598,PT05M14.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,88,108,196,v,McCollum Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,414
+22300471,599,PT05M14.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,88,108,196,h,SUB: Reid FOR Gobert,Substitution,,0,0,415
+22300471,601,PT05M14.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,88,109,197,v,McCollum Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,416
+22300471,602,PT04M57.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-1,20,2,Made,1,90,109,199,h,Edwards 2' Driving Layup (33 PTS),Made Shot,Driving Layup Shot,1,2,417
+22300471,603,PT04M38.00S,4,1610612740,NOP,1630529,Jones,H. Jones,1,7,1,Made,1,90,111,201,v,Jones 1' Driving Layup (16 PTS) (Ingram 7 AST),Made Shot,Driving Layup Shot,1,2,418
+22300471,605,PT04M17.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-1,6,1,Made,1,92,111,203,h,Edwards 1' Driving Layup (35 PTS),Made Shot,Driving Layup Shot,1,2,419
+22300471,606,PT03M58.00S,4,1610612740,NOP,1630529,Jones,H. Jones,-42,94,10,Missed,1,92,111,203,v,MISS Jones 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,420
+22300471,607,PT03M54.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,92,111,203,h,Edwards REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,421
+22300471,608,PT03M40.00S,4,1610612750,MIN,1626157,Towns,K. Towns,1,58,6,Missed,1,92,111,203,h,MISS Towns 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,422
+22300471,609,PT03M39.00S,4,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,92,111,203,h,Towns REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,423
+22300471,610,PT03M38.00S,4,1610612750,MIN,1626157,Towns,K. Towns,9,24,3,Made,1,94,111,205,h,Towns 3' Putback Layup (22 PTS),Made Shot,Putback Layup Shot,1,2,424
+22300471,611,PT03M14.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,-4,10,1,Made,1,94,113,207,v,Daniels 1' Cutting Dunk Shot (7 PTS) (Nance Jr. 2 AST),Made Shot,Cutting Dunk Shot,1,2,425
+22300471,613,PT03M14.00S,4,0,,1610612750,,,0,0,0,,0,94,113,207,h,TIMBERWOLVES Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,426
+22300471,614,PT03M14.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,94,113,207,h,SUB: McLaughlin FOR McDaniels,Substitution,,0,0,427
+22300471,615,PT03M14.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,94,113,207,h,SUB: Brown Jr. FOR Edwards,Substitution,,0,0,428
+22300471,616,PT03M14.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,94,113,207,h,SUB: Minott FOR Alexander-Walker,Substitution,,0,0,429
+22300471,617,PT03M14.00S,4,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,94,113,207,h,SUB: Milton FOR Towns,Substitution,,0,0,430
+22300471,622,PT03M01.00S,4,1610612750,MIN,1629675,Reid,N. Reid,49,58,8,Made,1,96,113,209,h,Reid 8' Floating Jump Shot (8 PTS) (McLaughlin 4 AST),Made Shot,Floating Jump shot,1,2,431
+22300471,624,PT02M51.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,96,113,209,v,Ingram OFF.Foul (P3) (P.Fraher),Foul,Offensive,1,0,432
+22300471,626,PT02M51.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,96,113,209,v,Ingram Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,1,0,433
+22300471,627,PT02M51.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,96,113,209,v,SUB: Marshall FOR McCollum,Substitution,,0,0,434
+22300471,628,PT02M51.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,96,113,209,v,SUB: Alvarado FOR Ingram,Substitution,,0,0,435
+22300471,631,PT02M44.00S,4,1610612750,MIN,1628972,Brown Jr.,T. Brown Jr.,181,180,26,Made,1,99,113,212,h,Brown Jr. 26' 3PT Step Back Jump Shot (3 PTS) (Reid 1 AST),Made Shot,Step Back Jump shot,1,3,436
+22300471,632,PT02M25.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,-10,70,7,Missed,1,99,113,212,v,MISS Daniels 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,437
+22300471,633,PT02M23.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,99,113,212,h,Reid REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,438
+22300471,635,PT02M06.00S,4,1610612750,MIN,1628972,Brown Jr.,T. Brown Jr.,194,187,27,Missed,1,99,113,212,h,MISS Brown Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,439
+22300471,636,PT02M03.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,99,113,212,v,Marshall REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,440
+22300471,637,PT01M58.00S,4,0,,1610612740,,,0,0,0,,0,99,113,212,v,Pelicans Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,441
+22300471,638,PT01M45.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-23,169,17,Made,1,99,115,214,v,Nance Jr. 17' Jump Shot (8 PTS) (Alvarado 3 AST),Made Shot,Jump Shot,1,2,442
+22300471,640,PT01M25.00S,4,1610612750,MIN,1629675,Reid,N. Reid,-172,184,25,Missed,1,99,115,214,h,MISS Reid 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,443
+22300471,641,PT01M22.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,99,115,214,v,Alvarado REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,444
+22300471,642,PT01M01.00S,4,1610612740,NOP,1630529,Jones,H. Jones,-127,-3,13,Missed,1,99,115,214,v,MISS Jones 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,445
+22300471,643,PT00M58.40S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,99,115,214,v,Nance Jr. REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,446
+22300471,644,PT00M58.40S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Missed,1,99,115,214,v,MISS Nance Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,447
+22300471,645,PT00M57.50S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,99,115,214,h,Reid REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,448
+22300471,646,PT00M51.90S,4,1610612750,MIN,1629003,Milton,S. Milton,-233,16,0,Made,1,102,115,217,h,Milton 3PT Jump Shot (3 PTS) (Reid 2 AST),Made Shot,Jump Shot,1,3,449
+22300471,648,PT00M32.80S,4,1610612740,NOP,1630529,Jones,H. Jones,121,230,26,Missed,1,102,115,217,v,MISS Jones 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,450
+22300471,648,PT00M32.80S,4,1610612750,MIN,1631169,Minott,J. Minott,0,0,0,,0,102,115,217,h,Minott BLOCK (1 BLK),,,1,3,451
+22300471,650,PT00M28.90S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,102,115,217,h,Reid REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,452
+22300471,651,PT00M25.90S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,102,115,217,v,Jones S.FOUL (P3.T3) (P.Fraher),Foul,Shooting,1,0,453
+22300471,653,PT00M25.90S,4,1610612750,MIN,1631169,Minott,J. Minott,0,0,0,,0,103,115,218,h,Minott Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,454
+22300471,654,PT00M25.90S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,103,115,218,v,SUB: Hawkins FOR Jones,Substitution,,0,0,455
+22300471,656,PT00M25.90S,4,1610612750,MIN,1631169,Minott,J. Minott,0,0,0,,0,104,115,219,h,Minott Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,456
+22300471,657,PT00M16.70S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,146,7,15,Made,1,104,117,221,v,Hawkins 15' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,457
+22300471,658,PT00M11.00S,4,1610612750,MIN,1629003,Milton,S. Milton,6,15,2,Made,1,106,117,223,h,Milton 2' Cutting Layup Shot (5 PTS) (Brown Jr. 1 AST),Made Shot,Cutting Layup Shot,1,2,458
+22300471,660,PT00M00.00S,4,0,,0,,,0,0,0,,0,106,117,223,,End of 4th Period (10:22 PM EST),period,end,1,0,459

@@ -1,0 +1,464 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22200217,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+22200217,4,PT12M00.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Jump Ball Valanciunas vs. Vucevic: Tip to McCollum,Jump Ball,,1,0,2
+22200217,7,PT11M31.00S,1,1610612740,NOP,1630529,Jones,H. Jones,1,31,3,Missed,1,0,0,0,h,MISS Jones 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,3
+22200217,8,PT11M31.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,4
+22200217,9,PT11M31.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,0,0,0,v,Dosunmu S.FOUL (P1.T1) (J.Sterling),Foul,Shooting,1,0,5
+22200217,11,PT11M31.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,1,0,1,h,Valanciunas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,6
+22200217,12,PT11M31.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,2,0,2,h,Valanciunas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,7
+22200217,13,PT11M12.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,134,10,13,Made,1,2,2,4,v,DeRozan 13' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,8
+22200217,14,PT11M04.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,195,167,26,Made,1,5,2,7,h,Murphy III 26' 3PT Jump Shot (3 PTS) (Ingram 1 AST),Made Shot,Jump Shot,1,3,9
+22200217,16,PT10M48.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,23,20,3,Made,1,5,4,9,v,Dosunmu 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,10
+22200217,17,PT10M34.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,25,52,6,Missed,1,5,4,9,h,MISS Valanciunas 6' Hook Shot,Missed Shot,Hook Shot,1,2,11
+22200217,18,PT10M32.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,5,4,9,v,Vucevic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+22200217,19,PT10M26.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-98,252,27,Made,1,5,7,12,v,Vucevic 27' 3PT Jump Shot (3 PTS) (DeRozan 1 AST),Made Shot,Jump Shot,1,3,13
+22200217,21,PT10M10.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,7,73,7,Missed,1,5,7,12,h,MISS Valanciunas 7' Hook Shot,Missed Shot,Hook Shot,1,2,14
+22200217,22,PT10M08.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,5,7,12,v,Vucevic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,15
+22200217,23,PT10M01.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,80,29,9,Missed,1,5,7,12,v,MISS Vucevic 9' Jump Shot,Missed Shot,Jump Shot,1,2,16
+22200217,24,PT09M58.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,5,7,12,h,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+22200217,25,PT09M49.00S,1,1610612740,NOP,1630529,Jones,H. Jones,-32,48,6,Missed,1,5,7,12,h,MISS Jones 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,18
+22200217,26,PT09M46.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,5,7,12,h,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,19
+22200217,27,PT09M43.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,26,32,4,Missed,1,5,7,12,h,MISS Ingram 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,20
+22200217,28,PT09M40.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,5,7,12,v,DeRozan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,21
+22200217,29,PT09M25.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,-132,238,27,Missed,1,5,7,12,v,MISS LaVine 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,22
+22200217,30,PT09M21.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,5,7,12,h,Ingram REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,23
+22200217,31,PT09M13.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,110,232,26,Made,1,8,7,15,h,Valanciunas 26' 3PT Jump Shot (5 PTS) (Murphy III 1 AST),Made Shot,Jump Shot,1,3,24
+22200217,33,PT08M54.00S,1,1610612741,CHI,1630172,Williams,P. Williams,-143,223,26,Made,1,8,10,18,v,Williams 26' 3PT Jump Shot (3 PTS) (DeRozan 2 AST),Made Shot,Jump Shot,1,3,25
+22200217,35,PT08M36.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,141,236,27,Made,1,11,10,21,h,Murphy III 27' 3PT Jump Shot (6 PTS) (McCollum 1 AST),Made Shot,Jump Shot,1,3,26
+22200217,37,PT08M23.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,-228,81,24,Missed,1,11,10,21,v,MISS DeRozan 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+22200217,38,PT08M20.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,11,10,21,h,Valanciunas REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,28
+22200217,39,PT08M09.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,11,10,21,v,DeRozan P.FOUL (P1.T2) (R.Mott),Foul,Personal,1,0,29
+22200217,41,PT08M02.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,11,10,21,h,McCollum Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,30
+22200217,41,PT08M02.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,11,10,21,v,Dosunmu STEAL (1 STL),,,1,0,31
+22200217,43,PT07M58.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,-207,163,26,Missed,1,11,10,21,v,MISS LaVine 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,32
+22200217,44,PT07M57.00S,1,0,,1610612741,,,0,0,0,,0,11,10,21,v,Bulls Rebound,Rebound,Unknown,0,0,33
+22200217,45,PT07M57.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,11,10,21,h,Valanciunas L.B.FOUL (P1.T1) (J.Sterling),Foul,Loose Ball,1,0,34
+22200217,47,PT07M54.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,11,10,21,v,LaVine Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,35
+22200217,47,PT07M54.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,11,10,21,h,Murphy III STEAL (1 STL),,,1,0,36
+22200217,49,PT07M50.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-227,14,0,Missed,1,11,10,21,h,MISS McCollum 3PT Jump Shot,Missed Shot,Jump Shot,1,3,37
+22200217,50,PT07M46.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,11,10,21,v,DeRozan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,38
+22200217,51,PT07M40.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,11,10,21,h,Ingram S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,1,0,39
+22200217,53,PT07M40.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,11,11,22,v,DeRozan Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,40
+22200217,54,PT07M40.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,11,12,23,v,DeRozan Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,41
+22200217,55,PT07M28.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,2,51,5,Made,1,13,12,25,h,Valanciunas 5' Hook Shot (7 PTS) (McCollum 2 AST),Made Shot,Hook Shot,1,2,42
+22200217,57,PT07M17.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,29,10,3,Made,1,13,14,27,v,LaVine 3' Driving Reverse Layup (2 PTS) (DeRozan 3 AST),Made Shot,Driving Reverse Layup Shot,1,2,43
+22200217,59,PT07M08.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,134,214,25,Made,1,16,14,30,h,McCollum 25' 3PT Jump Shot (3 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,3,44
+22200217,61,PT06M56.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-223,17,0,Missed,1,16,14,30,v,MISS Vucevic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,45
+22200217,62,PT06M53.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,16,14,30,h,Ingram REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,46
+22200217,63,PT06M49.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,16,14,30,h,Ingram Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,47
+22200217,65,PT06M49.00S,1,0,,1610612740,,,0,0,0,,0,16,14,30,h,PELICANS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,48
+22200217,66,PT06M37.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-1,49,5,Made,1,16,16,32,v,Vucevic 5' Hook Shot (5 PTS) (DeRozan 4 AST),Made Shot,Hook Shot,1,2,49
+22200217,68,PT06M20.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,25,245,25,Made,1,19,16,35,h,Ingram 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,50
+22200217,69,PT06M11.00S,1,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,19,16,35,v,Williams Traveling Turnover (P1.T2),Turnover,Traveling,1,0,51
+22200217,70,PT06M11.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,19,16,35,v,SUB: Green FOR LaVine,Substitution,,0,0,52
+22200217,72,PT05M57.00S,1,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,19,16,35,v,Williams P.FOUL (P1.T3) (J.Sterling),Foul,Personal,1,0,53
+22200217,74,PT05M52.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,116,232,26,Missed,1,19,16,35,h,MISS Ingram 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,54
+22200217,75,PT05M49.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,19,16,35,h,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,55
+22200217,76,PT05M38.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-91,169,19,Missed,1,19,16,35,h,MISS Ingram 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,56
+22200217,77,PT05M38.00S,1,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,19,16,35,v,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+22200217,78,PT05M32.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-164,199,26,Missed,1,19,16,35,v,MISS Vucevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,58
+22200217,79,PT05M27.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,19,16,35,h,Murphy III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+22200217,80,PT05M21.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,19,16,35,v,Vucevic S.FOUL (P1.T4) (P.Fraher),Foul,Shooting,1,0,60
+22200217,82,PT05M21.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,20,16,36,h,Ingram Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,61
+22200217,83,PT05M21.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,20,16,36,h,SUB: Nance Jr. FOR Valanciunas,Substitution,,0,0,62
+22200217,84,PT05M21.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,20,16,36,h,SUB: Marshall FOR Murphy III,Substitution,,0,0,63
+22200217,87,PT05M21.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,21,16,37,h,Ingram Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,64
+22200217,88,PT05M06.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,34,23,4,Missed,1,21,16,37,v,MISS DeRozan 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,65
+22200217,89,PT05M04.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,21,16,37,h,Ingram REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,66
+22200217,90,PT04M57.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-31,50,6,Missed,1,21,16,37,h,MISS Ingram 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,67
+22200217,91,PT04M54.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,21,16,37,v,Vucevic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,68
+22200217,92,PT04M52.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,21,16,37,v,Dosunmu Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,69
+22200217,93,PT04M52.00S,1,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,21,16,37,v,SUB: Caruso FOR Williams,Substitution,,0,0,70
+22200217,95,PT04M35.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,21,261,26,Missed,1,21,16,37,h,MISS Marshall 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,71
+22200217,96,PT04M32.00S,1,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,21,16,37,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,72
+22200217,97,PT04M22.00S,1,1610612741,CHI,1629750,Green,J. Green,34,41,5,Missed,1,21,16,37,v,MISS Green 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,73
+22200217,98,PT04M19.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,21,16,37,v,Dosunmu REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,74
+22200217,99,PT04M18.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,20,25,3,Made,1,21,18,39,v,Dosunmu 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,75
+22200217,100,PT04M10.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-228,51,0,Made,1,24,18,42,h,McCollum 3PT Step Back Jump Shot (6 PTS) (Nance Jr. 1 AST),Made Shot,Step Back Jump shot,1,3,76
+22200217,102,PT03M46.00S,1,1610612741,CHI,1629750,Green,J. Green,-238,16,24,Missed,1,24,18,42,v,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+22200217,103,PT03M43.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,24,18,42,h,Nance Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+22200217,104,PT03M38.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,24,18,42,h,McCollum Step Out of Bounds Turnover (P2.T3),Turnover,Step Out of Bounds Turnover,1,0,79
+22200217,105,PT03M38.00S,1,0,,1610612741,,,0,0,0,,0,24,18,42,v,Bulls Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,80
+22200217,106,PT03M38.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,24,18,42,h,SUB: Daniels FOR McCollum,Substitution,,0,0,81
+22200217,107,PT03M38.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,24,18,42,h,SUB: Graham FOR Jones,Substitution,,0,0,82
+22200217,108,PT03M38.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,24,18,42,v,SUB: Dragic FOR Dosunmu,Substitution,,0,0,83
+22200217,112,PT03M26.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,47,10,5,Made,1,24,20,44,v,Vucevic 5' Layup (7 PTS) (Dragic 1 AST),Made Shot,Layup Shot,1,2,84
+22200217,114,PT03M13.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-16,34,4,Made,1,26,20,46,h,Ingram 4' Reverse Layup (7 PTS) (Graham 1 AST),Made Shot,Reverse Layup Shot,1,2,85
+22200217,116,PT03M03.00S,1,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,26,20,46,v,Dragic Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,86
+22200217,117,PT03M03.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,26,20,46,v,SUB: Drummond FOR Vucevic,Substitution,,0,0,87
+22200217,118,PT03M03.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,26,20,46,v,SUB: LaVine FOR DeRozan,Substitution,,0,0,88
+22200217,121,PT02M52.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,26,20,46,h,Marshall Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,1,0,89
+22200217,122,PT02M43.00S,1,1610612741,CHI,201609,Dragic,G. Dragic,-56,20,6,Missed,1,26,20,46,v,MISS Dragic 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,90
+22200217,123,PT02M42.00S,1,0,,1610612740,,,0,0,0,,0,26,20,46,h,PELICANS Rebound,Rebound,Unknown,1,0,91
+22200217,126,PT02M19.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-188,167,25,Missed,1,26,20,46,h,MISS Nance Jr. 25' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,1,3,92
+22200217,127,PT02M18.00S,1,0,,1610612740,,,0,0,0,,0,26,20,46,h,PELICANS Rebound,Rebound,Unknown,0,0,93
+22200217,134,PT02M18.00S,1,0,,1610612740,,,0,0,0,,0,26,20,46,h,PELICANS Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0,94
+22200217,129,PT02M08.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,16,268,27,Missed,1,26,20,46,v,MISS LaVine 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,95
+22200217,130,PT02M05.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,26,20,46,h,Ingram REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,96
+22200217,131,PT01M57.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,23,11,3,Made,1,28,20,48,h,Nance Jr. 3' Layup (2 PTS) (Ingram 2 AST),Made Shot,Layup Shot,1,2,97
+22200217,133,PT01M47.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,-25,33,4,Made,1,28,22,50,v,LaVine 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,98
+22200217,135,PT01M24.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,91,158,18,Missed,1,28,22,50,h,MISS Ingram 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,99
+22200217,136,PT01M21.00S,1,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,28,22,50,v,Dragic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,100
+22200217,138,PT01M13.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,28,22,50,h,SUB: McCollum FOR Ingram,Substitution,,0,0,101
+22200217,140,PT01M11.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,28,22,50,v,LaVine Traveling Turnover (P2.T5),Turnover,Traveling,1,0,102
+22200217,141,PT00M56.70S,1,1610612740,NOP,203468,McCollum,C. McCollum,-12,30,3,Made,1,30,22,52,h,McCollum 3' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,1,2,103
+22200217,142,PT00M49.50S,1,1610612741,CHI,201609,Dragic,G. Dragic,-11,28,3,Made,1,30,24,54,v,Dragic 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,104
+22200217,143,PT00M36.70S,1,1610612740,NOP,203468,McCollum,C. McCollum,-158,80,18,Made,1,32,24,56,h,McCollum 18' Pullup Jump Shot (10 PTS) (Nance Jr. 2 AST),Made Shot,Pullup Jump shot,1,2,105
+22200217,145,PT00M28.20S,1,1610612741,CHI,203083,Drummond,A. Drummond,-5,16,2,Made,1,32,26,58,v,Drummond 2' Alley Oop Dunk (2 PTS) (Caruso 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,106
+22200217,147,PT00M08.10S,1,1610612740,NOP,1628984,Graham,D. Graham,218,127,25,Missed,1,32,26,58,h,MISS Graham 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+22200217,148,PT00M05.10S,1,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,32,26,58,v,Dragic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,108
+22200217,149,PT00M02.30S,1,1610612741,CHI,201609,Dragic,G. Dragic,18,17,2,Made,1,32,28,60,v,Dragic 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,109
+22200217,150,PT00M01.00S,1,1610612740,NOP,1628984,Graham,D. Graham,0,0,0,,0,32,28,60,h,Graham Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,110
+22200217,151,PT00M00.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,196,89,22,Missed,1,32,28,60,v,MISS LaVine 22' Jump Shot,Missed Shot,Jump Shot,1,2,111
+22200217,152,PT00M00.00S,1,0,,1610612741,,,0,0,0,,0,32,28,60,v,Bulls Rebound,Rebound,Unknown,1,0,112
+22200217,153,PT00M00.00S,1,0,,0,,,0,0,0,,0,32,28,60,,End of 1st Period (8:37 PM EST),period,end,1,0,113
+22200217,160,PT12M00.00S,2,0,,0,,,0,0,0,,0,32,28,60,,Start of 2nd Period (8:38 PM EST),period,start,0,0,114
+22200217,161,PT11M45.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,-216,121,25,Made,1,32,31,63,v,Caruso 25' 3PT Jump Shot (3 PTS) (Dragic 2 AST),Made Shot,Jump Shot,0,3,115
+22200217,163,PT11M17.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-71,5,7,Missed,1,32,31,63,h,MISS Valanciunas 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,116
+22200217,164,PT11M15.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,32,31,63,v,Caruso REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,117
+22200217,165,PT11M12.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,-15,32,4,Made,1,32,33,65,v,LaVine 4' Running Dunk (6 PTS) (Dragic 3 AST),Made Shot,Running Dunk Shot,0,2,118
+22200217,167,PT11M12.00S,2,0,,1610612740,,,0,0,0,,0,32,33,65,h,PELICANS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,119
+22200217,168,PT10M53.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,-131,236,27,Missed,1,32,33,65,h,MISS Alvarado 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+22200217,169,PT10M49.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,32,33,65,v,Caruso REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,121
+22200217,170,PT10M44.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,-2,22,2,Made,1,32,35,67,v,Drummond 2' Cutting Layup Shot (4 PTS) (LaVine 1 AST),Made Shot,Cutting Layup Shot,1,2,122
+22200217,172,PT10M29.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,32,35,67,h,Valanciunas Traveling Turnover (P1.T7),Turnover,Traveling,1,0,123
+22200217,173,PT10M29.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,32,35,67,h,SUB: Jones FOR Marshall,Substitution,,0,0,124
+22200217,175,PT10M14.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,11,1,Made,1,32,37,69,v,Caruso 1' Cutting Dunk Shot (5 PTS) (Jones Jr. 1 AST),Made Shot,Cutting Dunk Shot,1,2,125
+22200217,177,PT09M58.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,32,37,69,h,Alvarado OFF.Foul (P1) (R.Mott),Foul,Offensive,1,0,126
+22200217,179,PT09M58.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,32,37,69,h,Alvarado Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,127
+22200217,180,PT09M39.00S,2,1610612741,CHI,201609,Dragic,G. Dragic,-100,257,28,Missed,1,32,37,69,v,MISS Dragic 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+22200217,181,PT09M35.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,32,37,69,h,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,129
+22200217,182,PT09M29.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,-44,24,5,Missed,1,32,37,69,h,MISS Daniels 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,130
+22200217,183,PT09M25.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,32,37,69,h,Valanciunas REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,131
+22200217,184,PT09M24.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,26,24,4,Made,1,34,37,71,h,Valanciunas 4' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,132
+22200217,185,PT09M16.00S,2,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,34,37,71,v,Jones Jr. Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,133
+22200217,185,PT09M16.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,34,37,71,h,Jones STEAL (1 STL),,,1,0,134
+22200217,187,PT09M11.00S,2,1610612740,NOP,1630529,Jones,H. Jones,-25,15,3,Missed,1,34,37,71,h,MISS Jones 3' Running Layup,Missed Shot,Running Layup Shot,1,2,135
+22200217,188,PT09M11.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,34,37,71,h,Alvarado REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,136
+22200217,189,PT09M11.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,Made,1,36,37,73,h,Alvarado Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,137
+22200217,190,PT09M11.00S,2,0,,1610612741,,,0,0,0,,0,36,37,73,v,Bulls Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,138
+22200217,191,PT08M57.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,28,3,Made,1,36,39,75,v,Drummond 3' Alley Oop Dunk (6 PTS) (Dragic 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,139
+22200217,193,PT08M39.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,238,35,24,Missed,1,36,39,75,h,MISS McCollum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+22200217,194,PT08M37.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,36,39,75,v,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,141
+22200217,195,PT08M28.00S,2,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,55,25,6,Missed,1,36,39,75,v,MISS Jones Jr. 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,142
+22200217,195,PT08M28.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,36,39,75,h,Valanciunas BLOCK (1 BLK),,,1,2,143
+22200217,200,PT08M24.00S,2,0,,1610612741,,,0,0,0,,0,36,39,75,v,Bulls Rebound,Rebound,Unknown,0,0,144
+22200217,197,PT08M24.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,36,39,75,h,Jump Ball Valanciunas vs. Drummond: Tip to Dragic,Jump Ball,,1,0,145
+22200217,201,PT08M03.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,36,39,75,h,Daniels S.FOUL (P1.T1) (R.Mott),Foul,Shooting,1,0,146
+22200217,203,PT08M03.00S,2,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,36,39,75,v,MISS Dragic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,147
+22200217,204,PT08M03.00S,2,0,,1610612741,,,0,0,0,,0,36,39,75,v,Bulls Rebound,Rebound,Normal Rebound,0,0,148
+22200217,205,PT08M03.00S,2,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,36,39,75,v,MISS Dragic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,149
+22200217,206,PT08M00.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,36,39,75,h,Jones REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,150
+22200217,207,PT07M44.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,-27,30,4,Made,1,38,39,77,h,Alvarado 4' Cutting Layup Shot (4 PTS) (Valanciunas 1 AST),Made Shot,Cutting Layup Shot,1,2,151
+22200217,209,PT07M32.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,38,39,77,h,Valanciunas P.FOUL (P2.T2) (P.Fraher),Foul,Personal,1,0,152
+22200217,211,PT07M32.00S,2,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,38,39,77,v,SUB: Dosunmu FOR Dragic,Substitution,,0,0,153
+22200217,212,PT07M32.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,38,39,77,v,SUB: DeRozan FOR LaVine,Substitution,,0,0,154
+22200217,215,PT07M25.00S,2,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,110,238,26,Missed,1,38,39,77,v,MISS Jones Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,155
+22200217,216,PT07M21.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,38,39,77,h,Daniels REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,156
+22200217,230,PT07M18.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,38,39,77,h,SUB: Ingram FOR McCollum,Substitution,,0,0,157
+22200217,260,PT07M18.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,38,39,77,v,SUB: Williams FOR Caruso,Substitution,,0,0,158
+22200217,217,PT07M16.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,38,39,77,h,Jump Ball Daniels vs. Dosunmu: Tip to Alvarado,Jump Ball,,1,0,159
+22200217,220,PT07M07.00S,2,1610612740,NOP,1630529,Jones,H. Jones,234,20,0,Made,1,41,39,80,h,Jones 3PT Jump Shot (3 PTS) (Daniels 1 AST),Made Shot,Jump Shot,1,3,160
+22200217,222,PT06M46.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,41,39,80,h,Daniels P.FOUL (P2.T3) (P.Fraher),Foul,Personal,1,0,161
+22200217,224,PT06M46.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,41,39,80,h,SUB: Murphy III FOR Daniels,Substitution,,0,0,162
+22200217,225,PT06M46.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,41,39,80,v,SUB: Vucevic FOR Drummond,Substitution,,0,0,163
+22200217,228,PT06M41.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,41,39,80,v,Dosunmu Traveling Turnover (P2.T7),Turnover,Traveling,1,0,164
+22200217,229,PT06M18.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,97,168,19,Missed,1,41,39,80,h,MISS Ingram 19' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,1,2,165
+22200217,232,PT06M15.00S,2,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,41,39,80,v,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,166
+22200217,233,PT06M15.00S,2,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,41,39,80,v,Williams Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,167
+22200217,234,PT05M59.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,56,141,15,Missed,1,41,39,80,h,MISS Valanciunas 15' Jump Shot,Missed Shot,Jump Shot,1,2,168
+22200217,235,PT05M57.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,41,39,80,v,Dosunmu REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,169
+22200217,236,PT05M48.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,-58,258,26,Made,1,41,42,83,v,Vucevic 26' 3PT Jump Shot (10 PTS) (DeRozan 5 AST),Made Shot,Jump Shot,1,3,170
+22200217,238,PT05M31.00S,2,1610612740,NOP,1630529,Jones,H. Jones,-93,229,25,Made,1,44,42,86,h,Jones 25' 3PT Jump Shot (6 PTS) (Ingram 3 AST),Made Shot,Jump Shot,1,3,171
+22200217,240,PT05M12.00S,2,1610612741,CHI,1630172,Williams,P. Williams,-153,201,25,Missed,1,44,42,86,v,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,172
+22200217,241,PT05M10.00S,2,0,,1610612741,,,0,0,0,,0,44,42,86,v,Bulls Rebound,Rebound,Unknown,1,0,173
+22200217,243,PT05M10.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,44,42,86,h,SUB: Nance Jr. FOR Valanciunas,Substitution,,0,0,174
+22200217,244,PT05M10.00S,2,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,44,42,86,v,SUB: Caruso FOR Jones Jr.,Substitution,,0,0,175
+22200217,247,PT05M06.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,31,196,20,Missed,1,44,42,86,v,MISS DeRozan 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,176
+22200217,248,PT05M03.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,44,42,86,h,Murphy III REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,177
+22200217,249,PT04M55.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-159,61,17,Missed,1,44,42,86,h,MISS Ingram 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,178
+22200217,250,PT04M51.00S,2,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,44,42,86,v,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,179
+22200217,251,PT04M42.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,-56,81,10,Missed,1,44,42,86,v,MISS Vucevic 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,180
+22200217,252,PT04M40.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,44,42,86,h,Nance Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,181
+22200217,253,PT04M28.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,153,194,25,Missed,1,44,42,86,h,MISS Nance Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,182
+22200217,254,PT04M26.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,44,42,86,v,Vucevic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,183
+22200217,255,PT04M22.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,62,142,15,Made,1,44,44,88,v,DeRozan 15' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,184
+22200217,256,PT04M08.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,27,22,3,Made,1,46,44,90,h,Alvarado 3' Cutting Layup Shot (6 PTS) (Nance Jr. 3 AST),Made Shot,Cutting Layup Shot,1,2,185
+22200217,258,PT04M08.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,46,44,90,v,DeRozan S.FOUL (P2.T1) (R.Mott),Foul,Shooting,1,0,186
+22200217,262,PT04M08.00S,2,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,46,44,90,v,SUB: LaVine FOR Williams,Substitution,,0,0,187
+22200217,264,PT04M08.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,47,44,91,h,Alvarado Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,188
+22200217,265,PT03M44.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,227,49,0,Missed,1,47,44,91,v,MISS Dosunmu 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+22200217,266,PT03M39.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,47,44,91,v,DeRozan REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,190
+22200217,267,PT03M38.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,47,44,91,h,Nance Jr. FLAGRANT.FOUL.TYPE1 (P1.T4) (J.Sterling),Foul,Flagrant Type 1,1,0,191
+22200217,269,PT03M38.00S,2,0,,267,,,0,0,0,,0,47,44,91,,Instant Replay2nd Period (8:58 PM EST),Instant Replay,Overturn Ruling,0,0,192
+22200217,271,PT03M38.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,47,45,92,v,DeRozan Free Throw Flagrant 1 of 2 (7 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,193
+22200217,272,PT03M38.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,47,45,92,v,MISS DeRozan Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,1,0,194
+22200217,273,PT03M38.00S,2,0,,1610612741,,,0,0,0,,0,47,45,92,v,Bulls Rebound,Rebound,Normal Rebound,0,0,195
+22200217,274,PT03M23.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,55,16,6,Missed,1,47,45,92,v,MISS Vucevic 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,196
+22200217,275,PT03M20.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,47,45,92,h,Alvarado REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,197
+22200217,276,PT03M12.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-232,15,0,Made,1,50,45,95,h,Murphy III 3PT Jump Shot (9 PTS) (Ingram 4 AST),Made Shot,Jump Shot,1,3,198
+22200217,278,PT02M59.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,90,211,23,Made,1,50,47,97,v,LaVine 23' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,199
+22200217,279,PT02M38.00S,2,1610612740,NOP,1630529,Jones,H. Jones,5,68,7,Made,1,52,47,99,h,Jones 7' Cutting Layup Shot (8 PTS) (Ingram 5 AST),Made Shot,Cutting Layup Shot,1,2,200
+22200217,281,PT02M38.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,52,47,99,v,DeRozan S.FOUL (P3.T2) (J.Sterling),Foul,Shooting,1,0,201
+22200217,283,PT02M38.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,52,47,99,h,SUB: McCollum FOR Alvarado,Substitution,,0,0,202
+22200217,285,PT02M38.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,53,47,100,h,Jones Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,203
+22200217,286,PT02M22.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,61,197,21,Made,1,53,49,102,v,DeRozan 21' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,204
+22200217,287,PT02M13.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-62,334,34,Made,1,56,49,105,h,Murphy III 34' 3PT Jump Shot (12 PTS) (Ingram 6 AST),Made Shot,Jump Shot,1,3,205
+22200217,289,PT02M00.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,-100,272,29,Missed,1,56,49,105,v,MISS LaVine 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,206
+22200217,290,PT01M58.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,56,49,105,v,Vucevic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,207
+22200217,291,PT01M57.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,-34,23,4,Made,1,56,51,107,v,Vucevic 4' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,2,208
+22200217,292,PT01M51.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-105,239,26,Missed,1,56,51,107,h,MISS Murphy III 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,209
+22200217,293,PT01M51.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,56,51,107,v,Dosunmu REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,210
+22200217,294,PT01M35.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,56,51,107,v,Vucevic Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,211
+22200217,294,PT01M35.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,56,51,107,h,Murphy III STEAL (2 STL),,,1,0,212
+22200217,296,PT01M28.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,56,51,107,v,DeRozan Violation:Kicked Ball (P.Fraher),Violation,Kicked Ball,0,0,213
+22200217,297,PT01M28.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,56,51,107,v,SUB: Williams FOR DeRozan,Substitution,,0,0,214
+22200217,316,PT01M28.00S,2,0,,278,Augmon,S. Augmon,0,0,0,,0,56,51,107,,Instant Replay2nd Period (9:04 PM EST),Instant Replay,Replay Center,0,0,215
+22200217,299,PT01M18.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,56,51,107,h,McCollum Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,216
+22200217,299,PT01M18.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,56,51,107,v,Vucevic STEAL (1 STL),,,1,0,217
+22200217,301,PT01M07.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,18,25,3,Made,1,56,53,109,v,Caruso 3' Cutting Layup Shot (7 PTS) (LaVine 2 AST),Made Shot,Cutting Layup Shot,1,2,218
+22200217,303,PT00M37.40S,2,1610612740,NOP,1627742,Ingram,B. Ingram,99,50,11,Missed,1,56,53,109,h,MISS Ingram 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,219
+22200217,304,PT00M31.30S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,56,53,109,h,Nance Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,220
+22200217,305,PT00M31.30S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,Missed,1,56,53,109,h,MISS Nance Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,221
+22200217,306,PT00M29.70S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,56,53,109,v,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,222
+22200217,307,PT00M27.50S,2,1610612741,CHI,203897,LaVine,Z. LaVine,-7,71,7,Missed,1,56,53,109,v,MISS LaVine 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,223
+22200217,307,PT00M27.50S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,56,53,109,h,Murphy III BLOCK (1 BLK),,,1,2,224
+22200217,309,PT00M24.40S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,56,53,109,h,Murphy III REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,225
+22200217,310,PT00M24.40S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-6,15,2,Made,1,58,53,111,h,Murphy III 2' Running Dunk (14 PTS),Made Shot,Running Dunk Shot,1,2,226
+22200217,311,PT00M02.60S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,58,53,111,v,LaVine Offensive Charge Foul (P1) (P.Fraher),Foul,Offensive Charge,1,0,227
+22200217,313,PT00M02.60S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,58,53,111,v,LaVine Offensive Foul Turnover (P3.T10),Turnover,Offensive Foul Turnover,1,0,228
+22200217,314,PT00M00.00S,2,0,,0,,,0,0,0,,0,58,53,111,,End of 2nd Period (9:09 PM EST),period,end,1,0,229
+22200217,321,PT12M00.00S,3,0,,0,,,0,0,0,,0,58,53,111,,Start of 3rd Period (9:21 PM EST),period,start,0,0,230
+22200217,322,PT11M45.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-147,210,26,Missed,1,58,53,111,v,MISS Dosunmu 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+22200217,323,PT11M43.00S,3,0,,1610612740,,,0,0,0,,0,58,53,111,h,PELICANS Rebound,Rebound,Unknown,0,0,232
+22200217,325,PT11M26.00S,3,1610612740,NOP,1630529,Jones,H. Jones,20,55,6,Missed,1,58,53,111,h,MISS Jones 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,233
+22200217,326,PT11M24.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,58,53,111,h,Jones REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,234
+22200217,327,PT11M22.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-11,273,27,Made,1,61,53,114,h,Ingram 27' 3PT Jump Shot (10 PTS) (Jones 2 AST),Made Shot,Jump Shot,1,3,235
+22200217,329,PT11M07.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,61,53,114,v,Vucevic Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,236
+22200217,329,PT11M07.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,61,53,114,h,Murphy III STEAL (3 STL),,,1,0,237
+22200217,331,PT11M02.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-196,169,26,Made,1,64,53,117,h,McCollum 26' 3PT Jump Shot (13 PTS) (Jones 3 AST),Made Shot,Jump Shot,1,3,238
+22200217,333,PT10M41.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,-2,41,4,Missed,1,64,53,117,v,MISS LaVine 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,239
+22200217,334,PT10M39.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,64,53,117,h,Murphy III REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,240
+22200217,335,PT10M22.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,-223,84,24,Made,1,67,53,120,h,Murphy III 24' 3PT Jump Shot (17 PTS) (McCollum 3 AST),Made Shot,Jump Shot,1,3,241
+22200217,337,PT10M21.00S,3,0,,1610612741,,,0,0,0,,0,67,53,120,v,Bulls Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,242
+22200217,338,PT10M06.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,56,31,6,Made,1,67,55,122,v,DeRozan 6' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,243
+22200217,339,PT09M52.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,67,55,122,h,Valanciunas OFF.Foul (P3) (R.Mott),Foul,Offensive,1,0,244
+22200217,341,PT09M52.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,67,55,122,h,Valanciunas Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,245
+22200217,342,PT09M43.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,13,51,5,Made,1,67,57,124,v,DeRozan 5' Driving Dunk (13 PTS),Made Shot,Driving Dunk Shot,1,2,246
+22200217,343,PT09M30.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,102,162,19,Missed,1,67,57,124,h,MISS Ingram 19' Jump Shot,Missed Shot,Jump Shot,1,2,247
+22200217,344,PT09M28.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,67,57,124,v,LaVine REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,248
+22200217,345,PT09M19.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,77,184,20,Missed,1,67,57,124,v,MISS DeRozan 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,249
+22200217,346,PT09M16.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,67,57,124,h,Murphy III REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,250
+22200217,347,PT09M09.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-96,149,18,Missed,1,67,57,124,h,MISS McCollum 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,251
+22200217,348,PT09M05.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,67,57,124,v,Vucevic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,252
+22200217,349,PT08M55.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,1,216,22,Missed,1,67,57,124,v,MISS LaVine 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,253
+22200217,350,PT08M51.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,67,57,124,h,Valanciunas REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,254
+22200217,351,PT08M37.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-54,34,6,Made,1,69,57,126,h,Valanciunas 6' Turnaround Jump Shot (11 PTS),Made Shot,Turnaround Jump Shot,1,2,255
+22200217,352,PT08M22.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,69,57,126,h,Jones P.FOUL (P1.T1) (R.Mott),Foul,Personal,1,0,256
+22200217,354,PT08M22.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,69,57,126,v,SUB: Dragic FOR Dosunmu,Substitution,,0,0,257
+22200217,356,PT08M11.00S,3,1610612741,CHI,201609,Dragic,G. Dragic,167,193,26,Missed,1,69,57,126,v,MISS Dragic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,258
+22200217,357,PT08M08.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,69,57,126,h,Murphy III REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,259
+22200217,358,PT07M57.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-237,91,25,Missed,1,69,57,126,h,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,260
+22200217,359,PT07M54.00S,3,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,69,57,126,v,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,261
+22200217,360,PT07M49.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,62,252,26,Missed,1,69,57,126,v,MISS Vucevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,262
+22200217,361,PT07M45.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,69,57,126,h,Ingram REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,263
+22200217,362,PT07M41.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,7,16,2,Made,1,71,57,128,h,McCollum 2' Running Layup (15 PTS) (Ingram 7 AST),Made Shot,Running Layup Shot,1,2,264
+22200217,364,PT07M21.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,-119,169,21,Made,1,71,59,130,v,DeRozan 21' Jump Shot (15 PTS) (LaVine 3 AST),Made Shot,Jump Shot,1,2,265
+22200217,366,PT07M14.00S,3,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,71,59,130,v,Dragic P.FOUL (P1.T1) (P.Fraher),Foul,Personal,1,0,266
+22200217,368,PT07M14.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,71,59,130,v,SUB: Caruso FOR LaVine,Substitution,,0,0,267
+22200217,370,PT07M07.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,113,81,14,Made,1,73,59,132,h,McCollum 14' Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,2,268
+22200217,371,PT06M43.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,240,0,24,Made,1,73,62,135,v,Caruso 24' 3PT Jump Shot (10 PTS) (Dragic 5 AST),Made Shot,Jump Shot,1,3,269
+22200217,375,PT06M23.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,73,62,135,h,Jones Traveling Turnover (P1.T11),Turnover,Traveling,1,0,270
+22200217,376,PT06M11.00S,3,1610612741,CHI,1630172,Williams,P. Williams,-77,131,15,Missed,1,73,62,135,v,MISS Williams 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,271
+22200217,377,PT06M09.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,73,62,135,h,Ingram REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,272
+22200217,378,PT06M02.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-10,268,27,Made,1,76,62,138,h,Valanciunas 27' 3PT Jump Shot (14 PTS) (Ingram 8 AST),Made Shot,Jump Shot,1,3,273
+22200217,380,PT05M47.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,5,205,21,Made,1,76,64,140,v,DeRozan 21' Pullup Jump Shot (17 PTS) (Williams 1 AST),Made Shot,Pullup Jump shot,1,2,274
+22200217,381,PT05M36.00S,3,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,76,64,140,v,Williams S.FOUL (P2.T2) (J.Sterling),Foul,Shooting,1,0,275
+22200217,383,PT05M36.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,77,64,141,h,Ingram Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,276
+22200217,385,PT05M36.00S,3,0,,1610612741,,,0,0,0,,0,77,64,141,v,Bulls Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,277
+22200217,386,PT05M36.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,77,64,141,h,SUB: Nance Jr. FOR Valanciunas,Substitution,,0,0,278
+22200217,387,PT05M36.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,77,64,141,v,SUB: Drummond FOR Vucevic,Substitution,,0,0,279
+22200217,388,PT05M36.00S,3,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,77,64,141,v,SUB: Green FOR Williams,Substitution,,0,0,280
+22200217,392,PT05M36.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,78,64,142,h,Ingram Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,281
+22200217,393,PT05M22.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,32,36,5,Missed,1,78,64,142,v,MISS Drummond 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,282
+22200217,394,PT05M16.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,78,64,142,v,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,283
+22200217,395,PT05M16.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,Missed,1,78,64,142,v,MISS Green Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,284
+22200217,396,PT05M15.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,78,64,142,h,Murphy III REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,285
+22200217,397,PT05M13.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,78,64,142,v,Drummond S.FOUL (P1.T3) (R.Mott),Foul,Shooting,1,0,286
+22200217,399,PT05M13.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,79,64,143,h,Nance Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,287
+22200217,400,PT05M13.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,80,64,144,h,Nance Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,288
+22200217,401,PT05M00.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,-62,155,17,Made,1,80,66,146,v,DeRozan 17' Pullup Jump Shot (19 PTS) (Dragic 6 AST),Made Shot,Pullup Jump shot,1,2,289
+22200217,403,PT04M43.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,80,66,146,v,Drummond S.FOUL (P2.T4) (P.Fraher),Foul,Shooting,1,0,290
+22200217,405,PT04M43.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,80,66,146,h,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,291
+22200217,406,PT04M43.00S,3,0,,1610612740,,,0,0,0,,0,80,66,146,h,PELICANS Rebound,Rebound,Normal Rebound,0,0,292
+22200217,407,PT04M43.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,80,66,146,h,SUB: Graham FOR McCollum,Substitution,,0,0,293
+22200217,409,PT04M43.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,81,66,147,h,Jones Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,294
+22200217,410,PT04M27.00S,3,1610612741,CHI,1629750,Green,J. Green,-113,230,26,Missed,1,81,66,147,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,295
+22200217,411,PT04M24.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,81,66,147,h,Murphy III REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,296
+22200217,412,PT04M18.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-42,27,5,Missed,1,81,66,147,h,MISS Ingram 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,297
+22200217,412,PT04M18.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,81,66,147,v,Green BLOCK (1 BLK),,,1,2,298
+22200217,414,PT04M15.00S,3,1610612740,NOP,1628984,Graham,D. Graham,0,0,0,,0,81,66,147,h,Graham REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,299
+22200217,415,PT04M09.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,21,23,3,Missed,1,81,66,147,h,MISS Murphy III 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,300
+22200217,416,PT04M06.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,81,66,147,h,Murphy III REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,301
+22200217,417,PT04M06.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,Made,1,83,66,149,h,Murphy III Putback Dunk (19 PTS),Made Shot,Putback Dunk Shot,1,2,302
+22200217,418,PT03M58.00S,3,1610612741,CHI,1629750,Green,J. Green,32,17,4,Made,1,83,68,151,v,Green 4' Cutting Layup Shot (2 PTS) (Caruso 2 AST),Made Shot,Cutting Layup Shot,1,2,303
+22200217,420,PT03M47.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,83,68,151,h,Ingram OFF.Foul (P2) (J.Sterling),Foul,Offensive,1,0,304
+22200217,422,PT03M47.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,83,68,151,h,Ingram Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,0,305
+22200217,423,PT03M47.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,83,68,151,h,SUB: Marshall FOR Jones,Substitution,,0,0,306
+22200217,424,PT03M47.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,83,68,151,v,SUB: LaVine FOR DeRozan,Substitution,,0,0,307
+22200217,427,PT03M37.00S,3,1610612741,CHI,1629750,Green,J. Green,-34,78,9,Missed,1,83,68,151,v,MISS Green 9' Hook Shot,Missed Shot,Hook Shot,1,2,308
+22200217,427,PT03M37.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,83,68,151,h,Ingram BLOCK (1 BLK),,,1,2,309
+22200217,429,PT03M34.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,83,68,151,h,Nance Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,310
+22200217,431,PT03M14.00S,3,1610612740,NOP,1630230,Marshall,N. Marshall,-78,267,28,Missed,1,83,68,151,h,MISS Marshall 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,311
+22200217,432,PT03M10.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,83,68,151,v,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,312
+22200217,433,PT02M59.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,-39,10,4,Missed,1,83,68,151,v,MISS Caruso 4' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,313
+22200217,434,PT02M55.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,83,68,151,h,Nance Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,314
+22200217,435,PT02M50.00S,3,0,,1610612740,,,0,0,0,,0,83,68,151,h,PELICANS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,315
+22200217,436,PT02M50.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,83,68,151,h,SUB: McCollum FOR Ingram,Substitution,,0,0,316
+22200217,438,PT02M39.00S,3,1610612740,NOP,1630230,Marshall,N. Marshall,-230,16,0,Missed,1,83,68,151,h,MISS Marshall 3PT Jump Shot,Missed Shot,Jump Shot,1,3,317
+22200217,439,PT02M39.00S,3,0,,1610612740,,,0,0,0,,0,83,68,151,h,PELICANS Rebound,Rebound,Unknown,0,0,318
+22200217,440,PT02M39.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,83,68,151,v,Caruso L.B.FOUL (P1.PN) (R.Mott),Foul,Loose Ball,1,0,319
+22200217,442,PT02M39.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,84,68,152,h,Nance Jr. Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,320
+22200217,443,PT02M39.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,84,68,152,h,SUB: Daniels FOR Murphy III,Substitution,,0,0,321
+22200217,445,PT02M39.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,85,68,153,h,Nance Jr. Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,322
+22200217,446,PT02M24.00S,3,1610612741,CHI,1629750,Green,J. Green,-22,31,4,Missed,1,85,68,153,v,MISS Green 4' Layup,Missed Shot,Layup Shot,1,2,323
+22200217,446,PT02M24.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,85,68,153,h,McCollum BLOCK (1 BLK),,,1,2,324
+22200217,448,PT02M22.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,85,68,153,v,Drummond REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,325
+22200217,449,PT02M22.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,4,26,3,Made,1,85,70,155,v,Drummond 3' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,326
+22200217,450,PT02M22.00S,3,0,,1610612741,,,0,0,0,,0,85,70,155,v,Bulls Violation: Delay of game Violation,Violation,Delay Of Game,0,0,327
+22200217,451,PT02M11.00S,3,1610612740,NOP,1628984,Graham,D. Graham,-157,216,27,Made,1,88,70,158,h,Graham 27' 3PT Jump Shot (3 PTS) (McCollum 4 AST),Made Shot,Jump Shot,1,3,328
+22200217,453,PT01M56.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,237,-6,24,Made,1,88,73,161,v,Caruso 24' 3PT Jump Shot (13 PTS) (Dragic 7 AST),Made Shot,Jump Shot,1,3,329
+22200217,455,PT01M45.00S,3,1610612740,NOP,1628984,Graham,D. Graham,-153,230,28,Made,1,91,73,164,h,Graham 28' 3PT Jump Shot (6 PTS) (McCollum 5 AST),Made Shot,Jump Shot,1,3,330
+22200217,457,PT01M26.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,-102,225,25,Made,1,91,76,167,v,LaVine 25' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,331
+22200217,458,PT01M12.00S,3,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,91,76,167,v,Green P.FOUL (P1.PN) (J.Sterling),Foul,Personal,1,0,332
+22200217,460,PT01M12.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,92,76,168,h,McCollum Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,333
+22200217,461,PT01M12.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,93,76,169,h,McCollum Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,334
+22200217,462,PT01M00.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,17,24,3,Missed,1,93,76,169,v,MISS LaVine 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,335
+22200217,463,PT00M57.90S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,93,76,169,h,Nance Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,336
+22200217,464,PT00M55.40S,3,1610612740,NOP,203468,McCollum,C. McCollum,-199,168,26,Missed,1,93,76,169,h,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,337
+22200217,465,PT00M51.70S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,93,76,169,v,Drummond REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,338
+22200217,466,PT00M44.70S,3,1610612741,CHI,203083,Drummond,A. Drummond,48,25,5,Missed,1,93,76,169,v,MISS Drummond 5' Layup,Missed Shot,Layup Shot,1,2,339
+22200217,466,PT00M44.70S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,93,76,169,h,Nance Jr. BLOCK (1 BLK),,,1,2,340
+22200217,467,PT00M42.60S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,93,76,169,h,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,341
+22200217,468,PT00M34.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-186,186,26,Missed,1,93,76,169,h,MISS McCollum 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,342
+22200217,469,PT00M31.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,93,76,169,v,Drummond REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,343
+22200217,472,PT00M12.60S,3,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,93,76,169,v,Dragic Traveling Turnover (P2.T12),Turnover,Traveling,1,0,344
+22200217,473,PT00M05.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,-5,28,3,Made,1,95,76,171,h,Daniels 3' Driving Layup (2 PTS) (McCollum 6 AST),Made Shot,Driving Layup Shot,1,2,345
+22200217,475,PT00M00.00S,3,1610612741,CHI,201609,Dragic,G. Dragic,-16,34,4,Made,1,95,78,173,v,Dragic 4' Driving Layup (6 PTS) (LaVine 4 AST),Made Shot,Driving Layup Shot,1,2,346
+22200217,478,PT00M00.00S,3,0,,475,Smith,D. Smith,0,0,0,,0,95,78,173,,Instant Replay3rd Period (9:49 PM EST),Instant Replay,Support Ruling,0,0,347
+22200217,477,PT00M00.00S,3,0,,0,,,0,0,0,,0,95,78,173,,End of 3rd Period (9:49 PM EST),period,end,1,0,348
+22200217,483,PT12M00.00S,4,0,,0,,,0,0,0,,0,95,78,173,,Start of 4th Period (9:51 PM EST),period,start,0,0,349
+22200217,484,PT11M46.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,95,78,173,h,Valanciunas Traveling Turnover (P3.T13),Turnover,Traveling,1,0,350
+22200217,485,PT11M29.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,165,208,27,Missed,1,95,78,173,v,MISS LaVine 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,351
+22200217,486,PT11M28.00S,4,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,95,78,173,v,Green REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,352
+22200217,487,PT11M28.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,95,78,173,h,Daniels P.FOUL (P3.T1) (R.Mott),Foul,Personal,1,0,353
+22200217,489,PT11M21.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,27,47,5,Missed,1,95,78,173,v,MISS LaVine 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,354
+22200217,489,PT11M21.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,95,78,173,h,Daniels BLOCK (1 BLK),,,1,2,355
+22200217,491,PT11M18.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,95,78,173,h,Valanciunas REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,356
+22200217,492,PT11M06.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-26,39,5,Made,1,97,78,175,h,Valanciunas 5' Layup (16 PTS) (Alvarado 1 AST),Made Shot,Layup Shot,1,2,357
+22200217,494,PT10M55.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,97,78,175,h,Alvarado P.FOUL (P2.T2) (P.Fraher),Foul,Personal,1,0,358
+22200217,497,PT10M55.00S,4,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,97,78,175,v,SUB: Williams FOR Green,Substitution,,0,0,359
+22200217,506,PT10M55.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,97,78,175,v,SUB: Jones Jr. FOR Drummond,Substitution,,0,0,360
+22200217,502,PT10M46.00S,4,1610612741,CHI,201609,Dragic,G. Dragic,16,74,8,Missed,1,97,78,175,v,MISS Dragic 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,361
+22200217,503,PT10M44.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,97,78,175,h,Valanciunas REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,362
+22200217,504,PT10M29.00S,4,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,97,78,175,v,Jones Jr. S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,1,0,363
+22200217,507,PT10M29.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,98,78,176,h,Valanciunas Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,364
+22200217,508,PT10M29.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,99,78,177,h,Valanciunas Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,365
+22200217,509,PT10M17.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,16,252,25,Missed,1,99,78,177,v,MISS LaVine 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+22200217,510,PT10M12.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,99,78,177,h,Daniels REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,367
+22200217,511,PT09M58.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,-18,27,3,Made,1,101,78,179,h,Alvarado 3' Cutting Layup Shot (9 PTS) (Valanciunas 2 AST),Made Shot,Cutting Layup Shot,1,2,368
+22200217,513,PT09M43.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,-225,101,25,Missed,1,101,78,179,v,MISS Caruso 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,369
+22200217,514,PT09M41.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,101,78,179,h,McCollum REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,370
+22200217,515,PT09M34.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,18,29,3,Missed,1,101,78,179,h,MISS Marshall 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,371
+22200217,516,PT09M33.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,101,78,179,h,Daniels REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,372
+22200217,517,PT09M33.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,-25,22,3,Made,1,103,78,181,h,Daniels 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,373
+22200217,518,PT09M33.00S,4,0,,1610612741,,,0,0,0,,0,103,78,181,v,Bulls Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,374
+22200217,519,PT09M33.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,103,78,181,v,SUB: DeRozan FOR Caruso,Substitution,,0,0,375
+22200217,520,PT09M33.00S,4,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,103,78,181,v,SUB: Vucevic FOR Jones Jr.,Substitution,,0,0,376
+22200217,523,PT09M17.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,17,53,6,Missed,1,103,78,181,v,MISS Vucevic 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,377
+22200217,524,PT09M11.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,103,78,181,v,Vucevic REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,378
+22200217,525,PT09M11.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,Made,1,103,80,183,v,Vucevic Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,1,2,379
+22200217,526,PT09M01.00S,4,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,103,80,183,v,Dragic P.FOUL (P2.T2) (P.Fraher),Foul,Personal,1,0,380
+22200217,529,PT08M47.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,80,73,11,Made,1,105,80,185,h,McCollum 11' Driving Floating Bank Jump Shot (21 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,381
+22200217,530,PT08M29.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,92,58,11,Made,1,105,82,187,v,DeRozan 11' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,2,382
+22200217,531,PT08M10.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,-230,75,24,Made,1,108,82,190,h,Marshall 24' 3PT Jump Shot (3 PTS) (McCollum 7 AST),Made Shot,Jump Shot,1,3,383
+22200217,533,PT08M03.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,108,82,190,h,Daniels S.FOUL (P4.T3) (J.Sterling),Foul,Shooting,1,0,384
+22200217,535,PT08M03.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,108,82,190,v,MISS LaVine Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,385
+22200217,536,PT08M03.00S,4,0,,1610612741,,,0,0,0,,0,108,82,190,v,Bulls Rebound,Rebound,Normal Rebound,0,0,386
+22200217,537,PT08M03.00S,4,1610612741,CHI,201609,Dragic,G. Dragic,0,0,0,,0,108,82,190,v,SUB: Dosunmu FOR Dragic,Substitution,,0,0,387
+22200217,539,PT08M03.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,108,83,191,v,LaVine Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,388
+22200217,540,PT07M50.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,65,188,20,Missed,1,108,83,191,h,MISS McCollum 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,389
+22200217,541,PT07M47.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,108,83,191,v,Vucevic REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,390
+22200217,542,PT07M33.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,-152,208,26,Made,1,108,86,194,v,LaVine 26' 3PT Jump Shot (15 PTS) (DeRozan 6 AST),Made Shot,Jump Shot,1,3,391
+22200217,544,PT07M11.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,-4,67,7,Made,1,110,86,196,h,Alvarado 7' Floating Jump Shot (11 PTS) (Daniels 2 AST),Made Shot,Floating Jump shot,1,2,392
+22200217,546,PT06M56.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,-194,-10,19,Made,1,110,88,198,v,LaVine 19' Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,2,393
+22200217,547,PT06M34.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,13,27,3,Missed,1,110,88,198,h,MISS Marshall 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,394
+22200217,548,PT06M31.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,110,88,198,v,DeRozan REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,395
+22200217,549,PT06M27.00S,4,1610612741,CHI,1630172,Williams,P. Williams,45,47,7,Made,1,110,90,200,v,Williams 7' Cutting Layup Shot (5 PTS) (DeRozan 7 AST),Made Shot,Cutting Layup Shot,1,2,396
+22200217,551,PT06M26.00S,4,0,,1610612740,,,0,0,0,,0,110,90,200,h,PELICANS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,397
+22200217,552,PT06M26.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,110,90,200,h,SUB: Jones FOR Marshall,Substitution,,0,0,398
+22200217,553,PT06M26.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,110,90,200,h,SUB: Ingram FOR Daniels,Substitution,,0,0,399
+22200217,556,PT06M07.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-11,16,2,Made,1,112,90,202,h,Valanciunas 2' Cutting Dunk Shot (20 PTS) (Ingram 9 AST),Made Shot,Cutting Dunk Shot,1,2,400
+22200217,558,PT06M03.00S,4,0,,1610612741,,,0,0,0,,0,112,90,202,v,Bulls Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,401
+22200217,559,PT06M03.00S,4,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,112,90,202,v,SUB: Caruso FOR Williams,Substitution,,0,0,402
+22200217,561,PT05M52.00S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,112,90,202,h,Jones S.FOUL (P2.T4) (J.Sterling),Foul,Shooting,1,0,403
+22200217,563,PT05M52.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,112,91,203,v,DeRozan Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,404
+22200217,564,PT05M52.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,112,92,204,v,DeRozan Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,405
+22200217,565,PT05M38.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,-143,217,26,Missed,1,112,92,204,h,MISS Ingram 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,406
+22200217,566,PT05M34.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,112,92,204,h,McCollum REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,407
+22200217,567,PT05M28.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,143,-1,14,Missed,1,112,92,204,h,MISS McCollum 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,408
+22200217,568,PT05M25.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,112,92,204,h,Valanciunas REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,409
+22200217,569,PT05M19.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-131,226,26,Missed,1,112,92,204,h,MISS Valanciunas 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,410
+22200217,570,PT05M16.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,112,92,204,v,LaVine REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,411
+22200217,571,PT05M12.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,81,245,26,Made,1,112,95,207,v,LaVine 26' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,3,412
+22200217,572,PT04M48.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,22,32,4,Made,1,114,95,209,h,Valanciunas 4' Driving Layup (22 PTS),Made Shot,Driving Layup Shot,1,2,413
+22200217,573,PT04M39.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,-34,30,5,Made,1,114,97,211,v,DeRozan 5' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,2,414
+22200217,574,PT04M39.00S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,114,97,211,h,Jones S.FOUL (P3.PN) (P.Fraher),Foul,Shooting,1,0,415
+22200217,576,PT04M39.00S,4,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,114,97,211,h,SUB: Nance Jr. FOR Valanciunas,Substitution,,0,0,416
+22200217,578,PT04M39.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,114,98,212,v,DeRozan Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,1,0,417
+22200217,579,PT04M23.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,105,90,14,Made,1,116,98,214,h,Ingram 14' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,418
+22200217,580,PT04M12.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,145,248,29,Made,1,116,101,217,v,LaVine 29' 3PT Jump Shot (23 PTS) (Dosunmu 1 AST),Made Shot,Jump Shot,1,3,419
+22200217,582,PT03M44.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,116,101,217,v,LaVine S.FOUL (P2.T3) (R.Mott),Foul,Shooting,1,0,420
+22200217,584,PT03M44.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,117,101,218,h,McCollum Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,421
+22200217,585,PT03M44.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,118,101,219,h,McCollum Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,422
+22200217,586,PT03M32.00S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,118,101,219,h,Jones P.FOUL (P4.PN) (R.Mott),Foul,Personal,1,0,423
+22200217,588,PT03M32.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,118,102,220,v,LaVine Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,424
+22200217,589,PT03M32.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,118,103,221,v,LaVine Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,425
+22200217,590,PT03M12.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,118,103,221,v,Caruso S.FOUL (P2.T4) (R.Mott),Foul,Shooting,1,0,426
+22200217,592,PT03M12.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,119,103,222,h,Ingram Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,427
+22200217,593,PT03M12.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,119,103,222,v,SUB: Jones Jr. FOR Caruso,Substitution,,0,0,428
+22200217,595,PT03M12.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,119,103,222,h,MISS Ingram Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,429
+22200217,596,PT03M10.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,119,103,222,v,Vucevic REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,430
+22200217,597,PT02M55.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,17,19,3,Made,1,119,105,224,v,DeRozan 3' Driving Dunk (28 PTS) (LaVine 5 AST),Made Shot,Driving Dunk Shot,1,2,431
+22200217,599,PT02M29.00S,4,1610612741,CHI,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,119,105,224,v,Jones Jr. P.FOUL (P2.PN) (J.Sterling),Foul,Personal,1,0,432
+22200217,601,PT02M29.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,120,105,225,h,Ingram Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,433
+22200217,602,PT02M29.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,120,105,225,h,MISS Ingram Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,434
+22200217,603,PT02M27.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,120,105,225,v,Vucevic REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,435
+22200217,604,PT02M17.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,-115,226,25,Missed,1,120,105,225,v,MISS LaVine 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,436
+22200217,605,PT02M13.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,120,105,225,h,Alvarado REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,437
+22200217,606,PT01M54.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,18,96,10,Made,1,122,105,227,h,Nance Jr. 10' Floating Jump Shot (8 PTS) (McCollum 8 AST),Made Shot,Floating Jump shot,1,2,438
+22200217,608,PT01M54.00S,4,0,,1610612741,,,0,0,0,,0,122,105,227,v,Bulls Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,439
+22200217,609,PT01M54.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,122,105,227,h,SUB: Daniels FOR McCollum,Substitution,,0,0,440
+22200217,610,PT01M54.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,122,105,227,h,SUB: Murphy III FOR Ingram,Substitution,,0,0,441
+22200217,611,PT01M54.00S,4,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,122,105,227,h,SUB: Hernangomez FOR Nance Jr.,Substitution,,0,0,442
+22200217,612,PT01M54.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,122,105,227,v,SUB: Bradley FOR LaVine,Substitution,,0,0,443
+22200217,613,PT01M54.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,122,105,227,v,SUB: Green FOR Vucevic,Substitution,,0,0,444
+22200217,614,PT01M54.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,122,105,227,v,SUB: Terry FOR DeRozan,Substitution,,0,0,445
+22200217,621,PT01M54.00S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,122,105,227,h,SUB: Marshall FOR Jones,Substitution,,0,0,446
+22200217,623,PT01M43.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,202,167,26,Missed,1,122,105,227,v,MISS Dosunmu 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,447
+22200217,624,PT01M40.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,122,105,227,h,Marshall REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,448
+22200217,625,PT01M20.00S,4,1610612740,NOP,1626195,Hernangomez,W. Hernangomez,-118,80,14,Missed,1,122,105,227,h,MISS Hernangomez 14' Jump Shot,Missed Shot,Jump Shot,1,2,449
+22200217,626,PT01M18.00S,4,1610612741,CHI,1628396,Bradley,T. Bradley,0,0,0,,0,122,105,227,v,Bradley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,450
+22200217,627,PT01M10.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,122,105,227,h,Daniels S.FOUL (P5.PN) (R.Mott),Foul,Shooting,1,0,451
+22200217,629,PT01M10.00S,4,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,122,106,228,v,Green Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,452
+22200217,630,PT01M10.00S,4,1610612741,CHI,1629750,Green,J. Green,0,0,0,,0,122,106,228,v,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,453
+22200217,631,PT01M07.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,122,106,228,h,Murphy III REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,454
+22200217,632,PT01M01.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,7,55,6,Made,1,124,106,230,h,Alvarado 6' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,1,2,455
+22200217,633,PT00M52.40S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,124,106,230,h,Alvarado S.FOUL (P3.PN) (J.Sterling),Foul,Shooting,1,0,456
+22200217,635,PT00M52.40S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,124,106,230,v,MISS Terry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,457
+22200217,636,PT00M52.40S,4,0,,1610612741,,,0,0,0,,0,124,106,230,v,Bulls Rebound,Rebound,Normal Rebound,1,0,458
+22200217,637,PT00M52.40S,4,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,124,107,231,v,Terry Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,459
+22200217,638,PT00M35.60S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,124,107,231,h,Murphy III Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,460
+22200217,639,PT00M26.40S,4,1610612741,CHI,1628396,Bradley,T. Bradley,225,72,24,Made,1,124,110,234,v,Bradley 24' 3PT Jump Shot (3 PTS) (Terry 1 AST),Made Shot,Jump Shot,1,3,461
+22200217,641,PT00M01.30S,4,0,,1610612740,,,0,0,0,,0,124,110,234,h,PELICANS Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,462
+22200217,642,PT00M00.00S,4,0,,0,,,0,0,0,,0,124,110,234,,End of 4th Period (10:22 PM EST),period,end,1,0,463

@@ -1,0 +1,529 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22201202,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,0,0,1
+22201202,4,PT12M00.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,0,0,0,h,Jump Ball Williams vs. Smith Jr.: Tip to Smith Jr.,Jump Ball,,1,0,2
+22201202,7,PT11M45.00S,1,1610612745,HOU,1630231,Martin,K. Martin,-7,25,3,Made,1,0,2,2,v,Martin Jr. 3' Driving Dunk (2 PTS) (Porter Jr. 1 AST),Made Shot,Driving Dunk Shot,1,2,3
+22201202,9,PT11M28.00S,1,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,201,155,25,Made,1,3,2,5,h,Mykhailiuk 25' 3PT Pullup Jump Shot (3 PTS) (Maledon 1 AST),Made Shot,Pullup Jump shot,1,3,4
+22201202,10,PT11M13.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-129,127,18,Missed,1,3,2,5,v,MISS Smith Jr. 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,5
+22201202,11,PT11M10.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,3,2,5,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+22201202,12,PT11M03.00S,1,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,26,21,3,Missed,1,3,2,5,h,MISS Mykhailiuk 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,7
+22201202,14,PT11M00.00S,1,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,3,2,5,h,Mykhailiuk REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,8
+22201202,15,PT10M58.00S,1,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,169,188,25,Missed,1,3,2,5,h,MISS Mykhailiuk 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,9
+22201202,16,PT10M55.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,3,2,5,h,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,10
+22201202,17,PT10M53.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,-169,191,26,Missed,1,3,2,5,h,MISS McGowens 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,11
+22201202,18,PT10M53.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,3,2,5,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+22201202,19,PT10M44.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-51,176,18,Missed,1,3,2,5,v,MISS Porter Jr. 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,13
+22201202,20,PT10M39.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,3,2,5,h,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,14
+22201202,21,PT10M25.00S,1,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,3,2,5,h,Maledon Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,15
+22201202,21,PT10M25.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,3,2,5,v,Green STEAL (1 STL),,,1,0,16
+22201202,23,PT10M23.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,3,2,5,v,Smith Jr. Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,17
+22201202,23,PT10M23.00S,1,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,3,2,5,h,Maledon STEAL (1 STL),,,1,0,18
+22201202,25,PT10M23.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,3,2,5,v,Smith Jr. S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,19
+22201202,27,PT10M23.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,4,2,6,h,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,20
+22201202,28,PT10M23.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,5,2,7,h,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,21
+22201202,29,PT10M09.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,5,2,7,v,Sengun Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,22
+22201202,29,PT10M09.00S,1,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,5,2,7,h,Maledon STEAL (2 STL),,,1,0,23
+22201202,31,PT10M03.00S,1,1610612766,CHA,1630177,Maledon,T. Maledon,-130,226,26,Made,1,8,2,10,h,Maledon 26' 3PT Running Jump Shot (3 PTS) (Mykhailiuk 1 AST),Made Shot,Running Jump Shot,1,3,24
+22201202,33,PT09M48.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,-47,96,11,Missed,1,8,2,10,v,MISS Sengun 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,25
+22201202,34,PT09M48.00S,1,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,8,2,10,h,Maledon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,26
+22201202,35,PT09M48.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,8,2,10,v,Sengun P.FOUL (P1.T2) (N.Sago),Foul,Personal,1,0,27
+22201202,37,PT09M34.00S,1,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,16,7,2,Made,1,10,2,12,h,Mykhailiuk 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,28
+22201202,38,PT09M22.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,1,22,2,Made,1,10,4,14,v,Porter Jr. 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,29
+22201202,39,PT09M10.00S,1,1610612766,CHA,1630177,Maledon,T. Maledon,-71,247,26,Made,1,13,4,17,h,Maledon 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,30
+22201202,40,PT08M54.00S,1,1610612745,HOU,1630224,Green,J. Green,-25,24,3,Missed,1,13,4,17,v,MISS Green 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,31
+22201202,40,PT08M54.00S,1,1610612766,CHA,1630550,Thor,J. Thor,0,0,0,,0,13,4,17,h,Thor BLOCK (1 BLK),,,1,2,32
+22201202,41,PT08M54.00S,1,0,,1610612745,,,0,0,0,,0,13,4,17,v,Rockets Rebound,Rebound,Unknown,0,0,33
+22201202,43,PT08M50.00S,1,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,13,4,17,h,Mykhailiuk S.FOUL (P1.T1) (J.Conley),Foul,Shooting,1,0,34
+22201202,46,PT08M50.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,13,4,17,v,MISS Green Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,35
+22201202,47,PT08M50.00S,1,0,,1610612745,,,0,0,0,,0,13,4,17,v,Rockets Rebound,Rebound,Normal Rebound,0,0,36
+22201202,48,PT08M50.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,13,5,18,v,Green Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,37
+22201202,49,PT08M41.00S,1,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,13,5,18,h,Mykhailiuk OFF.Foul (P2) (S.Wright),Foul,Offensive,1,0,38
+22201202,51,PT08M41.00S,1,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,13,5,18,h,Mykhailiuk Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,39
+22201202,52,PT08M26.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-18,9,2,Made,1,13,7,20,v,Porter Jr. 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,40
+22201202,53,PT08M08.00S,1,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,-1,220,22,Missed,1,13,7,20,h,MISS Mykhailiuk 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,41
+22201202,54,PT08M06.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,13,7,20,v,Sengun REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,42
+22201202,55,PT07M53.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-67,83,11,Made,1,13,9,22,v,Smith Jr. 11' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,43
+22201202,56,PT07M41.00S,1,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,13,9,22,h,Maledon Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,44
+22201202,56,PT07M41.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,13,9,22,v,Smith Jr. STEAL (1 STL),,,1,0,45
+22201202,58,PT07M39.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,13,9,22,v,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,46
+22201202,59,PT07M24.00S,1,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,13,9,22,h,Mykhailiuk Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,47
+22201202,59,PT07M24.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,13,9,22,v,Sengun STEAL (1 STL),,,1,0,48
+22201202,61,PT07M20.00S,1,1610612745,HOU,1630224,Green,J. Green,4,5,1,Made,1,13,11,24,v,Green 1' Running Reverse Layup (3 PTS) (Sengun 1 AST),Made Shot,Running Reverse Layup Shot,1,2,49
+22201202,62,PT07M04.00S,1,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,13,11,24,h,Maledon Bad Pass Turnover (P3.T5),Turnover,Bad Pass,1,0,50
+22201202,62,PT07M04.00S,1,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,13,11,24,v,Martin Jr. STEAL (1 STL),,,1,0,51
+22201202,64,PT07M00.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,7,8,1,Made,1,13,13,26,v,Smith Jr. 1' Running Layup (4 PTS) (Martin Jr. 1 AST),Made Shot,Running Layup Shot,1,2,52
+22201202,66,PT07M00.00S,1,0,,1610612766,,,0,0,0,,0,13,13,26,h,HORNETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,53
+22201202,69,PT07M00.00S,1,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,13,13,26,h,SUB: Bouknight FOR Mykhailiuk,Substitution,,0,0,54
+22201202,71,PT06M42.00S,1,1610612766,CHA,1630177,Maledon,T. Maledon,113,243,27,Missed,1,13,13,26,h,MISS Maledon 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,55
+22201202,72,PT06M38.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,13,13,26,v,Sengun REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,56
+22201202,73,PT06M29.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,27,57,6,Missed,1,13,13,26,v,MISS Sengun 6' Hook Shot,Missed Shot,Hook Shot,1,2,57
+22201202,74,PT06M26.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,13,13,26,h,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,58
+22201202,75,PT06M21.00S,1,1610612766,CHA,1630177,Maledon,T. Maledon,96,158,18,Made,1,15,13,28,h,Maledon 18' Running Pull-Up Jump Shot (8 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,59
+22201202,76,PT05M57.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,15,13,28,h,Williams S.FOUL (P1.T2) (S.Wright),Foul,Shooting,1,0,60
+22201202,78,PT05M57.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,15,14,29,v,Sengun Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,61
+22201202,79,PT05M57.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,15,15,30,v,Sengun Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,62
+22201202,80,PT05M44.00S,1,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,15,15,30,h,Bouknight Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,63
+22201202,80,PT05M44.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,15,15,30,v,Sengun STEAL (2 STL),,,1,0,64
+22201202,82,PT05M35.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,17,26,3,Made,1,15,17,32,v,Smith Jr. 3' Cutting Layup Shot (6 PTS) (Martin Jr. 2 AST),Made Shot,Cutting Layup Shot,1,2,65
+22201202,84,PT05M16.00S,1,1610612766,CHA,1630547,Bouknight,J. Bouknight,-233,67,24,Missed,1,15,17,32,h,MISS Bouknight 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,66
+22201202,85,PT05M13.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,15,17,32,v,Sengun REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,67
+22201202,86,PT04M56.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,43,248,25,Missed,1,15,17,32,v,MISS Porter Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,68
+22201202,87,PT04M54.00S,1,1610612766,CHA,1630550,Thor,J. Thor,0,0,0,,0,15,17,32,h,Thor REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+22201202,88,PT04M45.00S,1,1610612766,CHA,1631109,Williams,M. Williams,-15,18,2,Made,1,17,17,34,h,Williams 2' Alley Oop Layup (4 PTS) (Maledon 2 AST),Made Shot,Alley Oop Layup shot,1,2,70
+22201202,90,PT04M30.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,17,17,34,h,Williams S.FOUL (P2.T3) (N.Sago),Foul,Shooting,1,0,71
+22201202,92,PT04M30.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,17,18,35,v,Green Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,72
+22201202,93,PT04M30.00S,1,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,17,18,35,h,SUB: Richards FOR Williams,Substitution,,0,0,73
+22201202,94,PT04M30.00S,1,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,17,18,35,v,SUB: Eason FOR Martin Jr.,Substitution,,0,0,74
+22201202,97,PT04M30.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,17,19,36,v,Green Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,75
+22201202,98,PT04M16.00S,1,1610612766,CHA,1630550,Thor,J. Thor,0,0,0,,0,17,19,36,h,Thor Traveling Turnover (P1.T7),Turnover,Traveling,1,0,76
+22201202,99,PT04M03.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,17,19,36,v,Smith Jr. Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,77
+22201202,99,PT04M03.00S,1,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,17,19,36,h,Maledon STEAL (3 STL),,,1,0,78
+22201202,101,PT03M59.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,9,11,1,Made,1,19,19,38,h,McGowens 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,79
+22201202,102,PT03M50.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,19,19,38,v,Porter Jr. Backcourt Turnover (P1.T5),Turnover,Backcourt Turnover,1,0,80
+22201202,103,PT03M50.00S,1,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,19,19,38,h,SUB: Jones FOR Maledon,Substitution,,0,0,81
+22201202,104,PT03M50.00S,1,1610612766,CHA,1630550,Thor,J. Thor,0,0,0,,0,19,19,38,h,SUB: Sneed FOR Thor,Substitution,,0,0,82
+22201202,107,PT03M43.00S,1,1610612766,CHA,1630539,Jones,K. Jones,55,254,26,Missed,1,19,19,38,h,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,83
+22201202,108,PT03M41.00S,1,0,,1610612745,,,0,0,0,,0,19,19,38,v,Rockets Rebound,Rebound,Unknown,0,0,84
+22201202,110,PT03M21.00S,1,1610612745,HOU,1630224,Green,J. Green,146,136,20,Missed,1,19,19,38,v,MISS Green 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,85
+22201202,111,PT03M18.00S,1,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,19,19,38,h,Bouknight REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+22201202,112,PT03M09.00S,1,1610612766,CHA,1630539,Jones,K. Jones,0,0,0,,0,19,19,38,h,Jones Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,87
+22201202,112,PT03M09.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,19,19,38,v,Porter Jr. STEAL (1 STL),,,1,0,88
+22201202,114,PT03M04.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,1,14,1,Made,1,19,21,40,v,Porter Jr. 1' Running Dunk (6 PTS),Made Shot,Running Dunk Shot,1,2,89
+22201202,115,PT02M49.00S,1,1610612766,CHA,1630547,Bouknight,J. Bouknight,109,157,19,Made,1,21,21,42,h,Bouknight 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,90
+22201202,116,PT02M25.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,-13,42,4,Missed,1,21,21,42,v,MISS Sengun 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,91
+22201202,116,PT02M25.00S,1,1610612766,CHA,1630539,Jones,K. Jones,0,0,0,,0,21,21,42,h,Jones BLOCK (1 BLK),,,1,2,92
+22201202,118,PT02M22.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,21,21,42,v,Sengun REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,93
+22201202,119,PT02M22.00S,1,1610612745,HOU,1631106,Eason,T. Eason,-28,34,4,Missed,1,21,21,42,v,MISS Eason 4' Layup,Missed Shot,Layup Shot,1,2,94
+22201202,119,PT02M22.00S,1,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,21,21,42,h,Richards BLOCK (1 BLK),,,1,2,95
+22201202,121,PT02M22.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,21,21,42,v,Sengun REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,96
+22201202,122,PT02M22.00S,1,0,,1610612745,,,0,0,0,,0,21,21,42,v,Rockets Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,97
+22201202,123,PT02M22.00S,1,0,,1610612745,,,0,0,0,,0,21,21,42,v,Rockets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,98
+22201202,124,PT02M22.00S,1,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,21,21,42,h,SUB: Simmons FOR McGowens,Substitution,,0,0,99
+22201202,126,PT02M04.00S,1,1610612766,CHA,1630547,Bouknight,J. Bouknight,121,68,14,Missed,1,21,21,42,h,MISS Bouknight 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,100
+22201202,127,PT02M02.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,21,21,42,v,Sengun REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,101
+22201202,129,PT01M51.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,21,21,42,v,SUB: Garuba FOR Green,Substitution,,0,0,102
+22201202,130,PT01M51.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,21,21,42,v,SUB: Christopher FOR Sengun,Substitution,,0,0,103
+22201202,133,PT01M45.00S,1,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,21,21,42,v,Christopher Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,104
+22201202,133,PT01M45.00S,1,1610612766,CHA,1630539,Jones,K. Jones,0,0,0,,0,21,21,42,h,Jones STEAL (1 STL),,,1,0,105
+22201202,135,PT01M30.00S,1,1610612766,CHA,1630539,Jones,K. Jones,232,63,24,Missed,1,21,21,42,h,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+22201202,136,PT01M30.00S,1,0,,1610612766,,,0,0,0,,0,21,21,42,h,HORNETS Rebound,Rebound,Unknown,1,0,107
+22201202,137,PT01M30.00S,1,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,21,21,42,v,Garuba L.B.FOUL (P1.T3) (S.Wright),Foul,Loose Ball,1,0,108
+22201202,139,PT01M22.00S,1,1610612766,CHA,1630208,Richards,N. Richards,21,8,2,Made,1,23,21,44,h,Richards 2' Cutting Layup Shot (2 PTS) (Bouknight 1 AST),Made Shot,Cutting Layup Shot,1,2,109
+22201202,141,PT01M06.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-113,64,13,Made,1,23,23,46,v,Smith Jr. 13' Jump Shot (8 PTS),Made Shot,Jump Shot,1,2,110
+22201202,142,PT00M59.00S,1,1610612766,CHA,1630539,Jones,K. Jones,-18,47,5,Missed,1,23,23,46,h,MISS Jones 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,111
+22201202,143,PT00M59.00S,1,0,,1610612745,,,0,0,0,,0,23,23,46,v,Rockets Rebound,Rebound,Unknown,1,0,112
+22201202,145,PT00M45.90S,1,1610612745,HOU,1630586,Garuba,U. Garuba,-61,240,25,Missed,1,23,23,46,v,MISS Garuba 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+22201202,146,PT00M38.80S,1,1610612766,CHA,1628424,Simmons,K. Simmons,0,0,0,,0,23,23,46,h,Simmons REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+22201202,147,PT00M31.40S,1,1610612766,CHA,1630539,Jones,K. Jones,-59,43,7,Made,1,25,23,48,h,Jones 7' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,115
+22201202,148,PT00M31.40S,1,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,25,23,48,v,Eason S.FOUL (P1.PN) (N.Sago),Foul,Shooting,1,0,116
+22201202,150,PT00M31.40S,1,1610612766,CHA,1630539,Jones,K. Jones,0,0,0,,0,26,23,49,h,Jones Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,117
+22201202,151,PT00M11.50S,1,1610612745,HOU,1630528,Christopher,J. Christopher,56,271,28,Missed,1,26,23,49,v,MISS Christopher 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,118
+22201202,151,PT00M11.50S,1,1610612766,CHA,1628424,Simmons,K. Simmons,0,0,0,,0,26,23,49,h,Simmons BLOCK (1 BLK),,,1,3,119
+22201202,152,PT00M08.50S,1,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,26,23,49,h,Bouknight REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,120
+22201202,153,PT00M05.50S,1,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,26,23,49,h,Bouknight Backcourt Turnover (P2.T9),Turnover,Backcourt Turnover,1,0,121
+22201202,154,PT00M00.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-11,6,1,Made,1,26,25,51,v,Porter Jr. 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,122
+22201202,155,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,25,51,,End of 1st Period (7:36 PM EST),period,end,1,0,123
+22201202,167,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,25,51,,Start of 2nd Period (7:39 PM EST),period,start,0,0,124
+22201202,168,PT11M51.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,26,25,51,v,Garuba S.FOUL (P2.T1) (J.Conley),Foul,Shooting,1,0,125
+22201202,170,PT11M51.00S,2,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,26,25,51,h,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,126
+22201202,171,PT11M51.00S,2,0,,1610612766,,,0,0,0,,0,26,25,51,h,HORNETS Rebound,Rebound,Normal Rebound,0,0,127
+22201202,172,PT11M51.00S,2,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,27,25,52,h,Richards Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,128
+22201202,173,PT11M39.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,27,25,52,v,Green Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,129
+22201202,173,PT11M39.00S,2,1610612766,CHA,1630539,Jones,K. Jones,0,0,0,,0,27,25,52,h,Jones STEAL (2 STL),,,1,0,130
+22201202,175,PT11M34.00S,2,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,-2,17,2,Made,1,29,25,54,h,Mykhailiuk 2' Running Layup (7 PTS) (McGowens 1 AST),Made Shot,Running Layup Shot,1,2,131
+22201202,177,PT11M08.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,-29,92,10,Missed,1,29,25,54,v,MISS Christopher 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,132
+22201202,178,PT11M02.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,29,25,54,v,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,133
+22201202,179,PT11M02.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,Made,1,29,27,56,v,Garuba Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,134
+22201202,180,PT10M53.00S,2,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,5,52,5,Missed,1,29,27,56,h,MISS Mykhailiuk 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,135
+22201202,181,PT10M51.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,29,27,56,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,136
+22201202,182,PT10M49.00S,2,1610612745,HOU,1630231,Martin,K. Martin,-7,31,3,Made,1,29,29,58,v,Martin Jr. 3' Running Layup (4 PTS) (Green 1 AST),Made Shot,Running Layup Shot,1,2,137
+22201202,184,PT10M49.00S,2,1610612766,CHA,1630539,Jones,K. Jones,0,0,0,,0,29,29,58,h,Jones Violation:Defensive Goaltending (S.Wright),Violation,Defensive Goaltending,1,0,138
+22201202,185,PT10M36.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,29,29,58,v,Eason P.FOUL (P2.T2) (J.Conley),Foul,Personal,1,0,139
+22201202,187,PT10M28.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,29,20,4,Missed,1,29,29,58,h,MISS McGowens 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,140
+22201202,187,PT10M28.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,29,29,58,v,Eason BLOCK (1 BLK),,,1,2,141
+22201202,188,PT10M22.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,29,29,58,v,Martin Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,142
+22201202,189,PT10M21.00S,2,1610612745,HOU,1630231,Martin,K. Martin,-10,6,1,Made,1,29,31,60,v,Martin Jr. 1' Running Layup (6 PTS) (Green 2 AST),Made Shot,Running Layup Shot,1,2,143
+22201202,192,PT10M06.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,-1,29,3,Made,1,31,31,62,h,McGowens 3' Driving Layup (4 PTS) (Mykhailiuk 2 AST),Made Shot,Driving Layup Shot,1,2,144
+22201202,194,PT10M00.00S,2,1610612745,HOU,1630224,Green,J. Green,0,22,2,Missed,1,31,31,62,v,MISS Green 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,145
+22201202,195,PT09M57.00S,2,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,31,31,62,h,Richards REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,146
+22201202,196,PT09M52.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,22,17,3,Missed,1,31,31,62,h,MISS McGowens 3' Running Layup,Missed Shot,Running Layup Shot,1,2,147
+22201202,197,PT09M51.00S,2,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,31,31,62,h,Richards REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,148
+22201202,198,PT09M51.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,31,31,62,v,Garuba S.FOUL (P3.T3) (J.Conley),Foul,Shooting,1,0,149
+22201202,200,PT09M51.00S,2,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,31,31,62,h,MISS Richards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,150
+22201202,201,PT09M51.00S,2,0,,1610612766,,,0,0,0,,0,31,31,62,h,HORNETS Rebound,Rebound,Normal Rebound,1,0,151
+22201202,202,PT09M51.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,31,31,62,v,SUB: Marjanovic FOR Garuba,Substitution,,0,0,152
+22201202,204,PT09M51.00S,2,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,32,31,63,h,Richards Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,153
+22201202,205,PT09M37.00S,2,1610612745,HOU,1631106,Eason,T. Eason,18,14,2,Missed,1,32,31,63,v,MISS Eason 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,154
+22201202,207,PT09M34.00S,2,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,32,31,63,h,Richards REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,155
+22201202,208,PT09M29.00S,2,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,32,31,63,h,Mykhailiuk Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0,156
+22201202,208,PT09M29.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,32,31,63,v,Eason STEAL (1 STL),,,1,0,157
+22201202,210,PT09M22.00S,2,1610612745,HOU,1630231,Martin,K. Martin,-10,6,1,Missed,1,32,31,63,v,MISS Martin Jr. 1' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,1,2,158
+22201202,211,PT09M16.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,32,31,63,v,Eason REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,159
+22201202,212,PT09M16.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,Made,1,32,33,65,v,Eason Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,2,160
+22201202,213,PT09M02.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,21,2,2,Made,1,34,33,67,h,McGowens 2' Driving Finger Roll Layup (6 PTS) (Maledon 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,161
+22201202,215,PT08M36.00S,2,1610612745,HOU,1630231,Martin,K. Martin,-17,9,2,Missed,1,34,33,67,v,MISS Martin Jr. 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,162
+22201202,215,PT08M36.00S,2,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,34,33,67,h,Richards BLOCK (2 BLK),,,1,2,163
+22201202,217,PT08M32.00S,2,1610612745,HOU,1626246,Marjanović,B. Marjanović,0,0,0,,0,34,33,67,v,Marjanovic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,164
+22201202,218,PT08M32.00S,2,1610612745,HOU,1626246,Marjanović,B. Marjanović,5,11,1,Made,1,34,35,69,v,Marjanovic 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,2,165
+22201202,219,PT08M22.00S,2,1610612766,CHA,1630177,Maledon,T. Maledon,147,-5,15,Made,1,36,35,71,h,Maledon 15' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,2,166
+22201202,221,PT08M15.00S,2,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,36,35,71,h,Richards P.FOUL (P1.T1) (J.Conley),Foul,Personal,1,0,167
+22201202,239,PT08M15.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,36,35,71,h,SUB: Bouknight FOR McGowens,Substitution,,0,0,168
+22201202,223,PT08M04.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,-232,15,0,Missed,1,36,35,71,v,MISS Christopher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,169
+22201202,224,PT08M02.00S,2,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,36,35,71,h,Mykhailiuk REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,170
+22201202,225,PT07M45.00S,2,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,120,232,26,Made,1,39,35,74,h,Mykhailiuk 26' 3PT Pullup Jump Shot (10 PTS) (Jones 1 AST),Made Shot,Pullup Jump shot,1,3,171
+22201202,226,PT07M39.00S,2,1610612745,HOU,1630224,Green,J. Green,-58,262,27,Made,1,39,38,77,v,Green 27' 3PT Jump Shot (8 PTS) (Christopher 1 AST),Made Shot,Jump Shot,1,3,172
+22201202,230,PT07M24.00S,2,1610612766,CHA,1630539,Jones,K. Jones,238,17,24,Missed,1,39,38,77,h,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,173
+22201202,231,PT07M21.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,39,38,77,v,Eason REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,174
+22201202,232,PT07M17.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,-12,20,2,Missed,1,39,38,77,v,MISS Christopher 2' Running Layup,Missed Shot,Running Layup Shot,1,2,175
+22201202,233,PT07M12.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,39,38,77,v,Eason REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,176
+22201202,234,PT07M12.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,Made,1,39,40,79,v,Eason Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,177
+22201202,235,PT07M03.00S,2,1610612766,CHA,1630547,Bouknight,J. Bouknight,-210,154,26,Missed,1,39,40,79,h,MISS Bouknight 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+22201202,235,PT07M03.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,39,40,79,v,Christopher BLOCK (1 BLK),,,1,3,179
+22201202,237,PT07M03.00S,2,0,,1610612766,,,0,0,0,,0,39,40,79,h,HORNETS Rebound,Rebound,Unknown,0,0,180
+22201202,242,PT06M58.00S,2,0,,1610612766,,,0,0,0,,0,39,40,79,h,HORNETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,181
+22201202,243,PT06M58.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,39,40,79,v,SUB: Porter Jr. FOR Green,Substitution,,0,0,182
+22201202,245,PT06M52.00S,2,1610612766,CHA,1630539,Jones,K. Jones,-1,38,4,Missed,1,39,40,79,h,MISS Jones 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,183
+22201202,246,PT06M50.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,39,40,79,v,Martin Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,184
+22201202,247,PT06M35.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,-36,56,7,Missed,1,39,40,79,v,MISS Christopher 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,185
+22201202,248,PT06M32.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,39,40,79,v,Martin Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,186
+22201202,249,PT06M32.00S,2,1610612745,HOU,1630231,Martin,K. Martin,-12,16,2,Missed,1,39,40,79,v,MISS Martin Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,187
+22201202,250,PT06M32.00S,2,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,39,40,79,h,Bouknight REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,188
+22201202,296,PT06M32.00S,2,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,39,40,79,h,Bouknight Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,0,189
+22201202,296,PT06M32.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,39,40,79,v,Eason STEAL (2 STL),,,1,0,190
+22201202,251,PT06M27.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,39,40,79,v,Eason Traveling Turnover (P1.T9),Turnover,Traveling,1,0,191
+22201202,252,PT06M27.00S,2,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,39,40,79,h,SUB: Williams FOR Richards,Substitution,,0,0,192
+22201202,253,PT06M27.00S,2,1610612766,CHA,1630539,Jones,K. Jones,0,0,0,,0,39,40,79,h,SUB: Thor FOR Jones,Substitution,,0,0,193
+22201202,257,PT06M10.00S,2,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,152,216,26,Missed,1,39,40,79,h,MISS Mykhailiuk 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,194
+22201202,258,PT06M07.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,39,40,79,v,Eason REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,195
+22201202,259,PT05M46.00S,2,1610612745,HOU,1631106,Eason,T. Eason,-6,77,8,Missed,1,39,40,79,v,MISS Eason 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,196
+22201202,260,PT05M46.00S,2,0,,1610612766,,,0,0,0,,0,39,40,79,h,HORNETS Rebound,Rebound,Unknown,1,0,197
+22201202,262,PT05M46.00S,2,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,39,40,79,h,SUB: McGowens FOR Mykhailiuk,Substitution,,0,0,198
+22201202,263,PT05M46.00S,2,1610612745,HOU,1626246,Marjanović,B. Marjanović,0,0,0,,0,39,40,79,v,SUB: Sengun FOR Marjanovic,Substitution,,0,0,199
+22201202,266,PT05M36.00S,2,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,39,40,79,h,Maledon Out of Bounds - Bad Pass Turnover Turnover (P4.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,200
+22201202,267,PT05M34.00S,2,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,39,40,79,h,Bouknight S.FOUL (P1.T2) (J.Conley),Foul,Shooting,1,0,201
+22201202,269,PT05M34.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,39,41,80,v,Porter Jr. Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,202
+22201202,270,PT05M34.00S,2,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,39,41,80,h,SUB: Sneed FOR Maledon,Substitution,,0,0,203
+22201202,272,PT05M34.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,39,41,80,v,MISS Porter Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,204
+22201202,273,PT05M32.00S,2,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,39,41,80,h,Williams REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,205
+22201202,274,PT05M20.00S,2,1610612766,CHA,1630547,Bouknight,J. Bouknight,6,257,26,Missed,1,39,41,80,h,MISS Bouknight 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,206
+22201202,275,PT05M15.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,39,41,80,v,Christopher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,207
+22201202,276,PT05M05.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,123,229,26,Made,1,39,44,83,v,Porter Jr. 26' 3PT Jump Shot (12 PTS) (Eason 1 AST),Made Shot,Jump Shot,1,3,208
+22201202,278,PT04M47.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,9,34,4,Missed,1,39,44,83,h,MISS McGowens 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,209
+22201202,279,PT04M45.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,39,44,83,v,Sengun REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,210
+22201202,280,PT04M39.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-184,169,25,Missed,1,39,44,83,v,MISS Porter Jr. 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,211
+22201202,281,PT04M37.00S,2,1610612766,CHA,1630550,Thor,J. Thor,0,0,0,,0,39,44,83,h,Thor REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,212
+22201202,282,PT04M28.00S,2,1610612766,CHA,1630547,Bouknight,J. Bouknight,-18,63,7,Made,1,41,44,85,h,Bouknight 7' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,213
+22201202,283,PT04M12.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,-10,103,10,Made,1,41,46,87,v,Christopher 10' Pullup Jump Shot (2 PTS) (Porter Jr. 2 AST),Made Shot,Pullup Jump shot,1,2,214
+22201202,284,PT03M59.00S,2,1610612766,CHA,1630270,Sneed,X. Sneed,157,205,26,Missed,1,41,46,87,h,MISS Sneed 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,215
+22201202,285,PT03M55.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,41,46,87,v,Eason REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,216
+22201202,286,PT03M40.00S,2,1610612745,HOU,1631106,Eason,T. Eason,7,-6,1,Missed,1,41,46,87,v,MISS Eason 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,217
+22201202,287,PT03M37.00S,2,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,41,46,87,h,Williams REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,218
+22201202,288,PT03M36.00S,2,1610612766,CHA,1630547,Bouknight,J. Bouknight,-12,23,3,Made,1,43,46,89,h,Bouknight 3' Running Layup (6 PTS) (Sneed 1 AST),Made Shot,Running Layup Shot,1,2,219
+22201202,290,PT03M36.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,43,46,89,v,Martin Jr. S.FOUL (P1.T4) (J.Conley),Foul,Shooting,1,0,220
+22201202,317,PT03M36.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,43,46,89,v,SUB: Smith Jr. FOR Eason,Substitution,,0,0,221
+22201202,292,PT03M36.00S,2,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,43,46,89,h,MISS Bouknight Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,222
+22201202,293,PT03M28.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,43,46,89,v,Sengun REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,223
+22201202,294,PT03M19.00S,2,1610612766,CHA,1630270,Sneed,X. Sneed,0,0,0,,0,43,46,89,h,Sneed S.FOUL (P1.T3) (S.Wright),Foul,Shooting,1,0,224
+22201202,298,PT03M19.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,43,47,90,v,Porter Jr. Free Throw 1 of 3 (13 PTS),Free Throw,Free Throw 1 of 3,1,0,225
+22201202,299,PT03M19.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,43,48,91,v,Porter Jr. Free Throw 2 of 3 (14 PTS),Free Throw,Free Throw 2 of 3,1,0,226
+22201202,300,PT03M19.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,43,49,92,v,Porter Jr. Free Throw 3 of 3 (15 PTS),Free Throw,Free Throw 3 of 3,1,0,227
+22201202,301,PT03M04.00S,2,1610612766,CHA,1630270,Sneed,X. Sneed,34,37,5,Missed,1,43,49,92,h,MISS Sneed 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,228
+22201202,301,PT03M04.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,43,49,92,v,Smith Jr. BLOCK (1 BLK),,,1,2,229
+22201202,303,PT03M04.00S,2,0,,1610612766,,,0,0,0,,0,43,49,92,h,HORNETS Rebound,Rebound,Unknown,0,0,230
+22201202,304,PT03M04.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,43,49,92,v,SUB: Green FOR Christopher,Substitution,,0,0,231
+22201202,306,PT02M54.00S,2,1610612766,CHA,1630550,Thor,J. Thor,119,232,26,Made,1,46,49,95,h,Thor 26' 3PT Jump Shot (3 PTS) (McGowens 2 AST),Made Shot,Jump Shot,1,3,232
+22201202,307,PT02M36.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-25,74,8,Missed,1,46,49,95,v,MISS Smith Jr. 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,233
+22201202,308,PT02M32.00S,2,1610612766,CHA,1630270,Sneed,X. Sneed,0,0,0,,0,46,49,95,h,Sneed REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,234
+22201202,309,PT02M30.00S,2,1610612766,CHA,1630547,Bouknight,J. Bouknight,75,155,17,Missed,1,46,49,95,h,MISS Bouknight 17' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,235
+22201202,310,PT02M25.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,46,49,95,v,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,236
+22201202,311,PT02M15.00S,2,1610612745,HOU,1630224,Green,J. Green,-51,253,26,Missed,1,46,49,95,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+22201202,312,PT02M15.00S,2,0,,1610612745,,,0,0,0,,0,46,49,95,v,Rockets Rebound,Rebound,Unknown,0,0,238
+22201202,314,PT02M15.00S,2,0,,1610612745,,,0,0,0,,0,46,49,95,v,Rockets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,239
+22201202,319,PT02M15.00S,2,1610612766,CHA,1630270,Sneed,X. Sneed,0,0,0,,0,46,49,95,h,SUB: Maledon FOR Sneed,Substitution,,0,0,240
+22201202,323,PT02M10.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,46,49,95,h,McGowens S.FOUL (P1.T4) (J.Conley),Foul,Shooting,1,0,241
+22201202,325,PT02M10.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,46,50,96,v,Porter Jr. Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,242
+22201202,326,PT02M10.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,46,51,97,v,Porter Jr. Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,243
+22201202,328,PT01M59.00S,2,1610612766,CHA,1631121,McGowens,B. McGowens,206,162,26,Missed,1,46,51,97,h,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,244
+22201202,329,PT01M56.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,46,51,97,v,Sengun REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,245
+22201202,330,PT01M49.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,157,57,17,Missed,1,46,51,97,v,MISS Smith Jr. 17' Jump Shot,Missed Shot,Jump Shot,1,2,246
+22201202,331,PT01M47.00S,2,1610612766,CHA,1630550,Thor,J. Thor,0,0,0,,0,46,51,97,h,Thor REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,247
+22201202,332,PT01M29.00S,2,1610612766,CHA,1630550,Thor,J. Thor,188,111,22,Missed,1,46,51,97,h,MISS Thor 22' Jump Shot,Missed Shot,Jump Shot,1,2,248
+22201202,333,PT01M27.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,46,51,97,v,Sengun REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,249
+22201202,334,PT01M21.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,-22,31,4,Missed,1,46,51,97,v,MISS Sengun 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,250
+22201202,335,PT01M19.00S,2,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,46,51,97,h,Williams REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,251
+22201202,336,PT01M09.00S,2,1610612766,CHA,1630177,Maledon,T. Maledon,-26,80,8,Missed,1,46,51,97,h,MISS Maledon 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,252
+22201202,337,PT01M07.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,46,51,97,v,Martin Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,253
+22201202,338,PT01M03.00S,2,1610612745,HOU,1630231,Martin,K. Martin,-5,16,2,Made,1,46,53,99,v,Martin Jr. 2' Running Finger Roll Layup (8 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,254
+22201202,339,PT00M50.80S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,46,53,99,v,Porter Jr. S.FOUL (P1.PN) (S.Wright),Foul,Shooting,1,0,255
+22201202,341,PT00M50.80S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,46,53,99,h,MISS McGowens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,256
+22201202,342,PT00M50.80S,2,0,,1610612766,,,0,0,0,,0,46,53,99,h,HORNETS Rebound,Rebound,Normal Rebound,0,0,257
+22201202,343,PT00M50.80S,2,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,46,53,99,h,SUB: Richards FOR Williams,Substitution,,0,0,258
+22201202,345,PT00M50.80S,2,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,47,53,100,h,McGowens Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,259
+22201202,346,PT00M35.20S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,76,263,27,Missed,1,47,53,100,v,MISS Porter Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,260
+22201202,347,PT00M32.10S,2,1610612766,CHA,1630550,Thor,J. Thor,0,0,0,,0,47,53,100,h,Thor REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,261
+22201202,348,PT00M23.90S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,47,53,100,v,Smith Jr. S.FOUL (P2.PN) (S.Wright),Foul,Shooting,1,0,262
+22201202,350,PT00M23.90S,2,1610612766,CHA,1630550,Thor,J. Thor,0,0,0,,0,48,53,101,h,Thor Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,263
+22201202,351,PT00M23.90S,2,1610612766,CHA,1630550,Thor,J. Thor,0,0,0,,0,49,53,102,h,Thor Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,264
+22201202,352,PT00M01.30S,2,1610612745,HOU,1630224,Green,J. Green,91,9,9,Missed,1,49,53,102,v,MISS Green 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,265
+22201202,353,PT00M00.20S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,49,53,102,v,Martin Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,266
+22201202,354,PT00M00.20S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,Made,1,49,55,104,v,Martin Jr. Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,1,2,267
+22201202,355,PT00M00.00S,2,1610612766,CHA,1630547,Bouknight,J. Bouknight,1,521,52,Missed,1,49,55,104,h,MISS Bouknight 52' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,268
+22201202,356,PT00M00.00S,2,0,,1610612766,,,0,0,0,,0,49,55,104,h,HORNETS Rebound,Rebound,Unknown,0,0,269
+22201202,357,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,55,104,,End of 2nd Period (8:06 PM EST),period,end,1,0,270
+22201202,364,PT12M00.00S,3,0,,0,,,0,0,0,,0,49,55,104,,Start of 3rd Period (8:21 PM EST),period,start,0,0,271
+22201202,365,PT11M48.00S,3,1610612766,CHA,1631109,Williams,M. Williams,-2,32,3,Missed,1,49,55,104,h,MISS Williams 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,272
+22201202,365,PT11M48.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,49,55,104,v,Smith Jr. BLOCK (2 BLK),,,1,2,273
+22201202,367,PT11M44.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,49,55,104,v,Sengun REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,274
+22201202,368,PT11M40.00S,3,1610612745,HOU,1630224,Green,J. Green,-205,154,26,Missed,1,49,55,104,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,275
+22201202,369,PT11M36.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,49,55,104,h,Williams REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,276
+22201202,370,PT11M29.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,233,13,0,Missed,1,49,55,104,h,MISS McGowens 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,277
+22201202,371,PT11M25.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,49,55,104,h,Williams REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,278
+22201202,372,PT11M25.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,Made,1,51,55,106,h,Williams Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,279
+22201202,373,PT11M01.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,-4,67,7,Made,1,51,57,108,v,Sengun 7' Driving Floating Jump Shot (4 PTS) (Porter Jr. 3 AST),Made Shot,Driving Floating Jump Shot,1,2,280
+22201202,375,PT10M47.00S,3,1610612766,CHA,1630550,Thor,J. Thor,-232,26,0,Missed,1,51,57,108,h,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,1,3,281
+22201202,376,PT10M44.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,51,57,108,v,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,282
+22201202,377,PT10M34.00S,3,1610612745,HOU,1630224,Green,J. Green,-119,147,19,Made,1,51,59,110,v,Green 19' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,2,283
+22201202,378,PT10M19.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,51,59,110,v,Sengun S.FOUL (P2.T1) (S.Wright),Foul,Shooting,1,0,284
+22201202,380,PT10M19.00S,3,1610612766,CHA,1630550,Thor,J. Thor,0,0,0,,0,52,59,111,h,Thor Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,285
+22201202,381,PT10M19.00S,3,1610612766,CHA,1630550,Thor,J. Thor,0,0,0,,0,53,59,112,h,Thor Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,286
+22201202,382,PT10M01.00S,3,1610612745,HOU,1630231,Martin,K. Martin,-13,15,2,Made,1,53,61,114,v,Martin Jr. 2' Cutting Layup Shot (12 PTS) (Sengun 2 AST),Made Shot,Cutting Layup Shot,1,2,287
+22201202,384,PT09M49.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,112,31,12,Missed,1,53,61,114,h,MISS McGowens 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,288
+22201202,385,PT09M46.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,53,61,114,h,Williams REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,289
+22201202,386,PT09M46.00S,3,1610612766,CHA,1631109,Williams,M. Williams,10,30,3,Missed,1,53,61,114,h,MISS Williams 3' Hook Shot,Missed Shot,Hook Shot,1,2,290
+22201202,387,PT09M46.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,53,61,114,v,Sengun REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,291
+22201202,388,PT09M37.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-230,17,0,Made,1,53,64,117,v,Smith Jr. 3PT Jump Shot (11 PTS) (Martin Jr. 3 AST),Made Shot,Jump Shot,1,3,292
+22201202,390,PT09M37.00S,3,0,,1610612766,,,0,0,0,,0,53,64,117,h,HORNETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,293
+22201202,391,PT09M25.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,86,241,26,Missed,1,53,64,117,h,MISS Mykhailiuk 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,294
+22201202,392,PT09M22.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,53,64,117,v,Sengun REBOUND (Off:2 Def:11),Rebound,Unknown,1,0,295
+22201202,393,PT09M18.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,53,64,117,v,Sengun OFF.Foul (P3) (J.Conley),Foul,Offensive,1,0,296
+22201202,395,PT09M18.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,53,64,117,v,Sengun Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,297
+22201202,396,PT09M07.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,21,17,3,Missed,1,53,64,117,h,MISS Mykhailiuk 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,298
+22201202,396,PT09M07.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,53,64,117,v,Sengun BLOCK (1 BLK),,,1,2,299
+22201202,398,PT09M03.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,53,64,117,h,Mykhailiuk REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,300
+22201202,399,PT09M01.00S,3,1610612766,CHA,1631109,Williams,M. Williams,20,10,2,Made,1,55,64,119,h,Williams 2' Layup (8 PTS) (Mykhailiuk 3 AST),Made Shot,Layup Shot,1,2,301
+22201202,401,PT08M48.00S,3,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,55,64,119,h,Maledon P.FOUL (P1.T1) (S.Wright),Foul,Personal,1,0,302
+22201202,403,PT08M40.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,55,64,119,v,Smith Jr. Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,303
+22201202,403,PT08M40.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,55,64,119,h,McGowens STEAL (1 STL),,,1,0,304
+22201202,405,PT08M36.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,55,64,119,h,McGowens Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,305
+22201202,405,PT08M36.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,55,64,119,v,Porter Jr. STEAL (2 STL),,,1,0,306
+22201202,407,PT08M32.00S,3,1610612745,HOU,1630224,Green,J. Green,0,16,2,Made,1,55,66,121,v,Green 2' Running Alley Oop Dunk Shot (12 PTS) (Porter Jr. 4 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,307
+22201202,409,PT08M12.00S,3,1610612766,CHA,1631109,Williams,M. Williams,-5,80,8,Made,1,57,66,123,h,Williams 8' Fadeaway Jumper (10 PTS) (Thor 1 AST),Made Shot,Fadeaway Jump Shot,1,2,308
+22201202,411,PT07M51.00S,3,1610612745,HOU,1630224,Green,J. Green,47,259,26,Missed,1,57,66,123,v,MISS Green 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,309
+22201202,412,PT07M41.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,57,66,123,h,Mykhailiuk REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,310
+22201202,413,PT07M39.00S,3,1610612766,CHA,1630177,Maledon,T. Maledon,131,220,26,Missed,1,57,66,123,h,MISS Maledon 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,311
+22201202,414,PT07M36.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,57,66,123,v,Sengun REBOUND (Off:2 Def:12),Rebound,Unknown,1,0,312
+22201202,415,PT07M26.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,57,66,123,v,Porter Jr. Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,313
+22201202,415,PT07M26.00S,3,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,57,66,123,h,Maledon STEAL (4 STL),,,1,0,314
+22201202,417,PT07M26.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,57,66,123,v,Porter Jr. P.FOUL (P2.T2) (S.Wright),Foul,Personal,1,0,315
+22201202,419,PT07M26.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,57,66,123,h,SUB: Bouknight FOR McGowens,Substitution,,0,0,316
+22201202,421,PT07M17.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,-48,255,26,Missed,1,57,66,123,h,MISS Mykhailiuk 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,317
+22201202,422,PT07M14.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,57,66,123,v,Sengun REBOUND (Off:2 Def:13),Rebound,Unknown,1,0,318
+22201202,423,PT07M04.00S,3,1610612745,HOU,1630224,Green,J. Green,11,160,16,Missed,1,57,66,123,v,MISS Green 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,319
+22201202,424,PT07M02.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,57,66,123,h,Williams REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,320
+22201202,425,PT06M55.00S,3,1610612766,CHA,1630177,Maledon,T. Maledon,16,6,2,Made,1,59,66,125,h,Maledon 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,321
+22201202,426,PT06M42.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,59,66,125,v,Porter Jr. Lost Ball Turnover (P3.T13),Turnover,Lost Ball,1,0,322
+22201202,426,PT06M42.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,59,66,125,h,Williams STEAL (1 STL),,,1,0,323
+22201202,428,PT06M25.00S,3,1610612766,CHA,1631109,Williams,M. Williams,-1,10,1,Made,1,61,66,127,h,Williams 1' Dunk (12 PTS),Made Shot,Dunk Shot,1,2,324
+22201202,429,PT06M25.00S,3,0,,1610612745,,,0,0,0,,0,61,66,127,v,Rockets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,325
+22201202,430,PT06M09.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,61,66,127,v,Green Out of Bounds Lost Ball Turnover (P3.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0,326
+22201202,432,PT06M00.00S,3,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,61,66,127,h,Bouknight OFF.Foul (P2) (J.Conley),Foul,Offensive,1,0,327
+22201202,434,PT06M00.00S,3,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,61,66,127,h,Bouknight Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,1,0,328
+22201202,435,PT05M40.00S,3,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,61,66,127,h,Bouknight S.FOUL (P3.T2) (S.Wright),Foul,Shooting,1,0,329
+22201202,437,PT05M40.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,61,67,128,v,Porter Jr. Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,330
+22201202,438,PT05M40.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,61,67,128,v,MISS Porter Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,331
+22201202,439,PT05M34.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,61,67,128,v,Sengun REBOUND (Off:3 Def:13),Rebound,Unknown,1,0,332
+22201202,440,PT05M34.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,Made,1,61,69,130,v,Sengun Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,333
+22201202,441,PT05M11.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,114,235,26,Missed,1,61,69,130,h,MISS Mykhailiuk 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,334
+22201202,442,PT05M08.00S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,61,69,130,v,Martin Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,335
+22201202,443,PT04M59.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,61,69,130,v,Sengun Traveling Turnover (P3.T15),Turnover,Traveling,1,0,336
+22201202,444,PT04M46.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,61,69,130,h,Mykhailiuk Bad Pass Turnover (P4.T15),Turnover,Bad Pass,1,0,337
+22201202,444,PT04M46.00S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,61,69,130,v,Martin Jr. STEAL (2 STL),,,1,0,338
+22201202,446,PT04M40.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,168,199,26,Made,1,61,72,133,v,Porter Jr. 26' 3PT Running Jump Shot (21 PTS) (Green 3 AST),Made Shot,Running Jump Shot,1,3,339
+22201202,448,PT04M27.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,61,72,133,v,Porter Jr. S.FOUL (P3.T3) (S.Wright),Foul,Shooting,1,0,340
+22201202,450,PT04M27.00S,3,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,62,72,134,h,Maledon Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,341
+22201202,451,PT04M27.00S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,62,72,134,v,SUB: Eason FOR Martin Jr.,Substitution,,0,0,342
+22201202,453,PT04M27.00S,3,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,63,72,135,h,Maledon Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,343
+22201202,454,PT04M14.00S,3,1610612745,HOU,1630224,Green,J. Green,-25,21,3,Missed,1,63,72,135,v,MISS Green 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,344
+22201202,455,PT04M11.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,63,72,135,h,Mykhailiuk REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,345
+22201202,456,PT04M08.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,-7,9,1,Made,1,65,72,137,h,Mykhailiuk 1' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,2,346
+22201202,457,PT04M08.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,65,72,137,v,Porter Jr. S.FOUL (P4.T4) (N.Sago),Foul,Shooting,1,0,347
+22201202,459,PT04M08.00S,3,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,65,72,137,h,SUB: Richards FOR Williams,Substitution,,0,0,348
+22201202,460,PT04M08.00S,3,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,65,72,137,h,SUB: Jones FOR Maledon,Substitution,,0,0,349
+22201202,461,PT04M08.00S,3,1610612766,CHA,1630550,Thor,J. Thor,0,0,0,,0,65,72,137,h,SUB: Sneed FOR Thor,Substitution,,0,0,350
+22201202,465,PT04M08.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,65,72,137,h,MISS Mykhailiuk Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,351
+22201202,466,PT04M06.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,65,72,137,v,Sengun REBOUND (Off:3 Def:14),Rebound,Unknown,1,0,352
+22201202,467,PT03M49.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,-21,38,4,Missed,1,65,72,137,v,MISS Sengun 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,353
+22201202,468,PT03M46.00S,3,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,65,72,137,h,Richards REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,354
+22201202,469,PT03M41.00S,3,1610612766,CHA,1630539,Jones,K. Jones,0,0,0,,0,65,72,137,h,Jones Offensive Charge Foul (P1) (S.Wright),Foul,Offensive Charge,1,0,355
+22201202,471,PT03M41.00S,3,1610612766,CHA,1630539,Jones,K. Jones,0,0,0,,0,65,72,137,h,Jones Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,1,0,356
+22201202,472,PT03M25.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,-4,13,1,Made,1,65,74,139,v,Sengun 1' Driving Dunk (8 PTS) (Green 4 AST),Made Shot,Driving Dunk Shot,1,2,357
+22201202,473,PT03M01.00S,3,1610612766,CHA,1630547,Bouknight,J. Bouknight,-113,234,26,Missed,1,65,74,139,h,MISS Bouknight 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,358
+22201202,474,PT02M57.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,65,74,139,v,Sengun REBOUND (Off:3 Def:15),Rebound,Unknown,1,0,359
+22201202,475,PT02M52.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,23,62,7,Missed,1,65,74,139,v,MISS Smith Jr. 7' Running Layup,Missed Shot,Running Layup Shot,1,2,360
+22201202,476,PT02M49.00S,3,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,65,74,139,h,Richards REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,361
+22201202,477,PT02M40.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,65,74,139,h,Mykhailiuk Bad Pass Turnover (P5.T17),Turnover,Bad Pass,1,0,362
+22201202,477,PT02M40.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,65,74,139,v,Eason STEAL (3 STL),,,1,0,363
+22201202,479,PT02M33.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,47,265,27,Made,1,65,77,142,v,Sengun 27' 3PT Running Jump Shot (11 PTS) (Green 5 AST),Made Shot,Running Jump Shot,1,3,364
+22201202,481,PT02M18.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,65,77,142,v,Porter Jr. S.FOUL (P5.PN) (N.Sago),Foul,Shooting,1,0,365
+22201202,483,PT02M18.00S,3,0,,481,,,0,0,0,,0,65,77,142,,Instant Replay3rd Period (8:42 PM EST),Instant Replay,Coach Challenge Support Ruling,0,0,366
+22201202,484,PT02M18.00S,3,0,,1610612745,,,0,0,0,,0,65,77,142,v,Rockets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,367
+22201202,485,PT02M18.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,66,77,143,h,Mykhailiuk Free Throw 1 of 3 (13 PTS),Free Throw,Free Throw 1 of 3,1,0,368
+22201202,486,PT02M18.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,66,77,143,v,SUB: Garuba FOR Porter Jr.,Substitution,,0,0,369
+22201202,487,PT02M18.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,66,77,143,v,SUB: Christopher FOR Sengun,Substitution,,0,0,370
+22201202,490,PT02M18.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,66,77,143,h,MISS Mykhailiuk Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,1,0,371
+22201202,491,PT02M18.00S,3,0,,1610612766,,,0,0,0,,0,66,77,143,h,HORNETS Rebound,Rebound,Normal Rebound,0,0,372
+22201202,492,PT02M18.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,67,77,144,h,Mykhailiuk Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,1,0,373
+22201202,493,PT02M05.00S,3,1610612745,HOU,1631106,Eason,T. Eason,10,11,1,Made,1,67,79,146,v,Eason 1' Driving Layup (6 PTS) (Smith Jr. 1 AST),Made Shot,Driving Layup Shot,1,2,374
+22201202,494,PT02M05.00S,3,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,67,79,146,h,Bouknight S.FOUL (P4.T3) (N.Sago),Foul,Shooting,1,0,375
+22201202,496,PT02M05.00S,3,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,67,79,146,h,SUB: McGowens FOR Mykhailiuk,Substitution,,0,0,376
+22201202,498,PT02M05.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,67,80,147,v,Eason Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,377
+22201202,500,PT01M47.00S,3,1610612766,CHA,1630539,Jones,K. Jones,7,11,1,Made,1,69,80,149,h,Jones 1' Alley Oop Dunk (5 PTS) (Bouknight 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,378
+22201202,502,PT01M30.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,69,80,149,v,Eason OFF.Foul (P3) (S.Wright),Foul,Offensive,1,0,379
+22201202,504,PT01M30.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,69,80,149,v,Eason Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,1,0,380
+22201202,505,PT01M30.00S,3,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,69,80,149,h,SUB: Maledon FOR Bouknight,Substitution,,0,0,381
+22201202,507,PT01M19.00S,3,1610612766,CHA,1631121,McGowens,B. McGowens,150,45,16,Missed,1,69,80,149,h,MISS McGowens 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,382
+22201202,507,PT01M19.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,69,80,149,v,Eason BLOCK (2 BLK),,,1,2,383
+22201202,509,PT01M16.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,69,80,149,v,Eason REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,384
+22201202,510,PT01M01.00S,3,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,69,80,149,v,Christopher Lost Ball Turnover (P2.T17),Turnover,Lost Ball,1,0,385
+22201202,510,PT01M01.00S,3,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,69,80,149,h,Maledon STEAL (5 STL),,,1,0,386
+22201202,512,PT00M58.60S,3,1610612766,CHA,1630539,Jones,K. Jones,-2,10,1,Made,1,71,80,151,h,Jones 1' Running Dunk (7 PTS) (Richards 1 AST),Made Shot,Running Dunk Shot,1,2,387
+22201202,513,PT00M58.60S,3,1610612766,CHA,1630539,Jones,K. Jones,0,0,0,,0,71,80,151,h,Jones T.FOUL (P1.T3) (N.Sago),Foul,Technical,0,0,388
+22201202,515,PT00M58.60S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,71,80,151,v,MISS Green Free Throw Technical,Free Throw,Free Throw Technical,1,0,389
+22201202,516,PT00M58.60S,3,0,,1610612745,,,0,0,0,,0,71,80,151,v,Rockets Rebound,Rebound,Normal Rebound,0,0,390
+22201202,517,PT00M42.80S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,169,199,26,Missed,1,71,80,151,v,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,391
+22201202,518,PT00M40.70S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,71,80,151,v,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,392
+22201202,519,PT00M38.40S,3,1610612745,HOU,1630224,Green,J. Green,-11,295,30,Missed,1,71,80,151,v,MISS Green 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,393
+22201202,520,PT00M38.40S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,71,80,151,v,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,394
+22201202,521,PT00M36.80S,3,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,71,80,151,h,Maledon P.FOUL (P2.T4) (S.Wright),Foul,Personal,1,0,395
+22201202,523,PT00M24.00S,3,1610612745,HOU,1630224,Green,J. Green,-165,206,26,Made,1,71,83,154,v,Green 26' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,396
+22201202,524,PT00M04.40S,3,1610612766,CHA,1630270,Sneed,X. Sneed,6,8,1,Made,1,73,83,156,h,Sneed 1' Driving Dunk (2 PTS) (Maledon 4 AST),Made Shot,Driving Dunk Shot,1,2,397
+22201202,526,PT00M00.00S,3,1610612766,CHA,1630270,Sneed,X. Sneed,0,0,0,,0,73,83,156,h,Sneed S.FOUL (P2.PN) (J.Conley),Foul,Shooting,1,0,398
+22201202,528,PT00M00.00S,3,0,,526,,,0,0,0,,0,73,83,156,,Instant Replay3rd Period (8:50 PM EST),Instant Replay,Support Ruling,0,0,399
+22201202,529,PT00M00.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,73,84,157,v,Green Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,400
+22201202,530,PT00M00.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,73,85,158,v,Green Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,401
+22201202,531,PT00M00.00S,3,0,,0,,,0,0,0,,0,73,85,158,,End of 3rd Period (8:51 PM EST),period,end,1,0,402
+22201202,536,PT12M00.00S,4,0,,0,,,0,0,0,,0,73,85,158,,Start of 4th Period (8:54 PM EST),period,start,0,0,403
+22201202,537,PT11M41.00S,4,1610612745,HOU,1630224,Green,J. Green,34,34,5,Made,1,73,87,160,v,Green 5' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,1,2,404
+22201202,538,PT11M25.00S,4,1610612766,CHA,1630539,Jones,K. Jones,229,24,0,Made,1,76,87,163,h,Jones 3PT Jump Shot (10 PTS) (Maledon 5 AST),Made Shot,Jump Shot,1,3,405
+22201202,540,PT11M07.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,76,87,163,v,Martin Jr. Traveling Turnover (P1.T18),Turnover,Traveling,1,0,406
+22201202,541,PT10M52.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,13,8,2,Made,1,78,87,165,h,McGowens 2' Cutting Layup Shot (9 PTS) (Mykhailiuk 4 AST),Made Shot,Cutting Layup Shot,1,2,407
+22201202,543,PT10M40.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,228,17,0,Missed,1,78,87,165,v,MISS Garuba 3PT Jump Shot,Missed Shot,Jump Shot,1,3,408
+22201202,544,PT10M37.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,78,87,165,h,McGowens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,409
+22201202,545,PT10M34.00S,4,1610612766,CHA,1630177,Maledon,T. Maledon,233,32,24,Missed,1,78,87,165,h,MISS Maledon 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,410
+22201202,546,PT10M30.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,78,87,165,v,Eason REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,411
+22201202,547,PT10M24.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,-12,23,3,Made,1,78,89,167,v,Christopher 3' Running Finger Roll Layup (4 PTS) (Eason 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,412
+22201202,549,PT10M06.00S,4,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,127,218,25,Made,1,81,89,170,h,Mykhailiuk 25' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,3,413
+22201202,550,PT09M55.00S,4,1610612745,HOU,1630224,Green,J. Green,131,236,27,Made,1,81,92,173,v,Green 27' 3PT Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,3,414
+22201202,551,PT09M29.00S,4,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,235,34,24,Made,1,84,92,176,h,Mykhailiuk 24' 3PT Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,1,3,415
+22201202,552,PT09M11.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,43,64,8,Missed,1,84,92,176,v,MISS Christopher 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,416
+22201202,552,PT09M11.00S,4,1610612766,CHA,1630539,Jones,K. Jones,0,0,0,,0,84,92,176,h,Jones BLOCK (2 BLK),,,1,2,417
+22201202,554,PT09M07.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,84,92,176,h,McGowens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,418
+22201202,555,PT09M05.00S,4,1610612766,CHA,1630208,Richards,N. Richards,21,9,2,Missed,1,84,92,176,h,MISS Richards 2' Running Layup,Missed Shot,Running Layup Shot,1,2,419
+22201202,555,PT09M05.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,84,92,176,v,Garuba BLOCK (1 BLK),,,1,2,420
+22201202,557,PT09M01.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,84,92,176,h,McGowens REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,421
+22201202,558,PT08M59.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-131,214,25,Made,1,87,92,179,h,McGowens 25' 3PT Jump Shot (12 PTS) (Maledon 6 AST),Made Shot,Jump Shot,1,3,422
+22201202,560,PT08M57.00S,4,0,,1610612745,,,0,0,0,,0,87,92,179,v,Rockets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,423
+22201202,562,PT08M57.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,87,92,179,h,SUB: Bouknight FOR McGowens,Substitution,,0,0,424
+22201202,563,PT08M57.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,87,92,179,v,SUB: Marjanovic FOR Green,Substitution,,0,0,425
+22201202,564,PT08M57.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,87,92,179,v,SUB: Porter Jr. FOR Garuba,Substitution,,0,0,426
+22201202,568,PT08M49.00S,4,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,87,92,179,h,Maledon P.FOUL (P3.T1) (S.Wright),Foul,Personal,1,0,427
+22201202,570,PT08M41.00S,4,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,87,92,179,h,Bouknight S.FOUL (P5.T2) (N.Sago),Foul,Shooting,1,0,428
+22201202,572,PT08M41.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,87,93,180,v,Porter Jr. Free Throw 1 of 3 (22 PTS),Free Throw,Free Throw 1 of 3,1,0,429
+22201202,573,PT08M41.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,87,94,181,v,Porter Jr. Free Throw 2 of 3 (23 PTS),Free Throw,Free Throw 2 of 3,1,0,430
+22201202,574,PT08M41.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,87,95,182,v,Porter Jr. Free Throw 3 of 3 (24 PTS),Free Throw,Free Throw 3 of 3,0,0,431
+22201202,575,PT08M21.00S,4,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,-206,145,25,Missed,1,87,95,182,h,MISS Mykhailiuk 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,432
+22201202,576,PT08M19.00S,4,1610612745,HOU,1626246,Marjanović,B. Marjanović,0,0,0,,0,87,95,182,v,Marjanovic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,433
+22201202,577,PT08M12.00S,4,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,87,95,182,h,Richards P.FOUL (P2.T3) (S.Wright),Foul,Personal,1,0,434
+22201202,579,PT08M02.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,107,68,13,Missed,1,87,95,182,v,MISS Christopher 13' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,435
+22201202,580,PT08M02.00S,4,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,87,95,182,h,Richards REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,436
+22201202,581,PT08M02.00S,4,1610612745,HOU,1626246,Marjanović,B. Marjanović,0,0,0,,0,87,95,182,v,Marjanovic P.FOUL (P1.T1) (J.Conley),Foul,Personal,1,0,437
+22201202,583,PT07M53.00S,4,1610612766,CHA,1630177,Maledon,T. Maledon,148,221,27,Missed,1,87,95,182,h,MISS Maledon 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,438
+22201202,584,PT07M52.00S,4,0,,1610612745,,,0,0,0,,0,87,95,182,v,Rockets Rebound,Rebound,Unknown,1,0,439
+22201202,586,PT07M36.00S,4,1610612745,HOU,1626246,Marjanović,B. Marjanović,2,70,7,Made,1,87,97,184,v,Marjanovic 7' Driving Hook Shot (4 PTS) (Porter Jr. 5 AST),Made Shot,Driving Hook Shot,1,2,440
+22201202,588,PT07M22.00S,4,1610612766,CHA,1630177,Maledon,T. Maledon,-26,101,10,Missed,1,87,97,184,h,MISS Maledon 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,441
+22201202,588,PT07M22.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,87,97,184,v,Christopher BLOCK (2 BLK),,,1,2,442
+22201202,590,PT07M22.00S,4,0,,1610612745,,,0,0,0,,0,87,97,184,v,Rockets Rebound,Rebound,Unknown,0,0,443
+22201202,592,PT07M13.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,5,57,6,Missed,1,87,97,184,v,MISS Porter Jr. 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,444
+22201202,592,PT07M13.00S,4,1610612766,CHA,1630539,Jones,K. Jones,0,0,0,,0,87,97,184,h,Jones BLOCK (3 BLK),,,1,2,445
+22201202,594,PT07M09.00S,4,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,87,97,184,h,Richards REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,446
+22201202,595,PT07M05.00S,4,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,229,92,25,Missed,1,87,97,184,h,MISS Mykhailiuk 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,447
+22201202,596,PT07M05.00S,4,0,,1610612766,,,0,0,0,,0,87,97,184,h,HORNETS Rebound,Rebound,Unknown,1,0,448
+22201202,597,PT07M05.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,87,97,184,v,Eason L.B.FOUL (P4.T2) (S.Wright),Foul,Loose Ball,1,0,449
+22201202,599,PT07M05.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,87,97,184,v,Porter Jr. T.FOUL (P5.T2) (N.Sago),Foul,Technical,0,0,450
+22201202,600,PT07M05.00S,4,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,87,97,184,h,MISS Maledon Free Throw Technical,Free Throw,Free Throw Technical,1,0,451
+22201202,601,PT07M05.00S,4,0,,1610612766,,,0,0,0,,0,87,97,184,h,HORNETS Rebound,Rebound,Normal Rebound,0,0,452
+22201202,602,PT06M56.00S,4,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,-110,234,26,Made,1,90,97,187,h,Mykhailiuk 26' 3PT Pullup Jump Shot (23 PTS) (Maledon 7 AST),Made Shot,Pullup Jump shot,1,3,453
+22201202,604,PT06M36.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,-15,21,3,Made,1,90,99,189,v,Christopher 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,454
+22201202,605,PT06M14.00S,4,1610612745,HOU,1626246,Marjanović,B. Marjanović,0,0,0,,0,90,99,189,v,Marjanovic S.FOUL (P2.T3) (S.Wright),Foul,Shooting,1,0,455
+22201202,607,PT06M14.00S,4,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,91,99,190,h,Richards Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,456
+22201202,608,PT06M14.00S,4,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,91,99,190,h,SUB: McGowens FOR Mykhailiuk,Substitution,,0,0,457
+22201202,609,PT06M14.00S,4,1610612745,HOU,1626246,Marjanović,B. Marjanović,0,0,0,,0,91,99,190,v,SUB: Sengun FOR Marjanovic,Substitution,,0,0,458
+22201202,612,PT06M14.00S,4,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,92,99,191,h,Richards Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,459
+22201202,613,PT05M59.00S,4,1610612745,HOU,1631106,Eason,T. Eason,135,220,26,Missed,1,92,99,191,v,MISS Eason 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,460
+22201202,614,PT05M56.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,92,99,191,v,Christopher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,461
+22201202,615,PT05M54.00S,4,1610612745,HOU,1631106,Eason,T. Eason,15,23,3,Missed,1,92,99,191,v,MISS Eason 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,462
+22201202,616,PT05M54.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,92,99,191,h,McGowens REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,463
+22201202,617,PT05M47.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,26,6,3,Made,1,94,99,193,h,McGowens 3' Running Layup (14 PTS) (Maledon 8 AST),Made Shot,Running Layup Shot,1,2,464
+22201202,620,PT05M31.00S,4,1610612766,CHA,1630208,Richards,N. Richards,0,0,0,,0,94,99,193,h,SUB: Williams FOR Richards,Substitution,,0,0,465
+22201202,621,PT05M31.00S,4,1610612766,CHA,1630539,Jones,K. Jones,0,0,0,,0,94,99,193,h,SUB: Thor FOR Jones,Substitution,,0,0,466
+22201202,622,PT05M31.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,94,99,193,v,SUB: Green FOR Christopher,Substitution,,0,0,467
+22201202,623,PT05M31.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,94,99,193,v,SUB: Smith Jr. FOR Eason,Substitution,,0,0,468
+22201202,628,PT05M16.00S,4,1610612745,HOU,1630231,Martin,K. Martin,-16,23,3,Made,1,94,101,195,v,Martin Jr. 3' Driving Finger Roll Layup (14 PTS) (Sengun 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,469
+22201202,630,PT05M06.00S,4,1610612766,CHA,1630177,Maledon,T. Maledon,-102,232,25,Made,1,97,101,198,h,Maledon 25' 3PT Step Back Jump Shot (17 PTS) (Bouknight 3 AST),Made Shot,Step Back Jump shot,1,3,470
+22201202,631,PT04M51.00S,4,1610612745,HOU,1630224,Green,J. Green,26,27,4,Missed,1,97,101,198,v,MISS Green 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,471
+22201202,631,PT04M51.00S,4,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,97,101,198,h,Williams BLOCK (1 BLK),,,1,2,472
+22201202,633,PT04M51.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,97,101,198,v,Sengun REBOUND (Off:4 Def:15),Rebound,Unknown,1,0,473
+22201202,634,PT04M51.00S,4,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,97,101,198,h,Maledon S.FOUL (P4.T4) (S.Wright),Foul,Shooting,1,0,474
+22201202,636,PT04M51.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,97,102,199,v,Sengun Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,475
+22201202,637,PT04M51.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,97,102,199,v,MISS Sengun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,476
+22201202,638,PT04M48.00S,4,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,97,102,199,h,Williams REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,477
+22201202,639,PT04M37.00S,4,1610612766,CHA,1630177,Maledon,T. Maledon,9,21,2,Made,1,99,102,201,h,Maledon 2' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,478
+22201202,640,PT04M12.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-34,110,12,Made,1,99,104,203,v,Smith Jr. 12' Pullup Jump Shot (13 PTS) (Green 6 AST),Made Shot,Pullup Jump shot,1,2,479
+22201202,641,PT04M12.00S,4,0,,1610612766,,,0,0,0,,0,99,104,203,h,HORNETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,480
+22201202,643,PT04M12.00S,4,1610612766,CHA,1630547,Bouknight,J. Bouknight,0,0,0,,0,99,104,203,h,SUB: Mykhailiuk FOR Bouknight,Substitution,,0,0,481
+22201202,645,PT03M58.00S,4,1610612766,CHA,1630550,Thor,J. Thor,229,17,0,Missed,1,99,104,203,h,MISS Thor 3PT Jump Shot,Missed Shot,Jump Shot,1,3,482
+22201202,646,PT03M56.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,99,104,203,v,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,483
+22201202,647,PT03M44.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,99,155,18,Made,1,99,106,205,v,Porter Jr. 18' Pullup Jump Shot (26 PTS),Made Shot,Pullup Jump shot,1,2,484
+22201202,648,PT03M20.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,99,106,205,v,Sengun P.FOUL (P4.T4) (J.Conley),Foul,Personal,1,0,485
+22201202,650,PT03M09.00S,4,1610612766,CHA,1630177,Maledon,T. Maledon,-58,93,11,Missed,1,99,106,205,h,MISS Maledon 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,486
+22201202,651,PT03M07.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,99,106,205,v,Sengun REBOUND (Off:4 Def:16),Rebound,Unknown,1,0,487
+22201202,652,PT02M54.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-1,48,5,Missed,1,99,106,205,v,MISS Porter Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,488
+22201202,652,PT02M54.00S,4,1610612766,CHA,1630177,Maledon,T. Maledon,0,0,0,,0,99,106,205,h,Maledon BLOCK (1 BLK),,,1,2,489
+22201202,654,PT02M50.00S,4,1610612766,CHA,1630550,Thor,J. Thor,0,0,0,,0,99,106,205,h,Thor REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,490
+22201202,655,PT02M49.00S,4,1610612766,CHA,1630550,Thor,J. Thor,-23,17,3,Missed,1,99,106,205,h,MISS Thor 3' Running Layup,Missed Shot,Running Layup Shot,1,2,491
+22201202,655,PT02M49.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,99,106,205,v,Smith Jr. BLOCK (3 BLK),,,1,2,492
+22201202,657,PT02M49.00S,4,0,,1610612766,,,0,0,0,,0,99,106,205,h,HORNETS Rebound,Rebound,Unknown,0,0,493
+22201202,659,PT02M45.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,-173,190,26,Missed,1,99,106,205,h,MISS McGowens 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,494
+22201202,660,PT02M42.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,99,106,205,v,Porter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,495
+22201202,661,PT02M30.00S,4,1610612745,HOU,1630224,Green,J. Green,7,8,1,Made,1,99,108,207,v,Green 1' Driving Dunk (24 PTS),Made Shot,Driving Dunk Shot,1,2,496
+22201202,662,PT02M30.00S,4,0,,1610612766,,,0,0,0,,0,99,108,207,h,HORNETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,497
+22201202,663,PT02M05.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,99,108,207,v,Smith Jr. S.FOUL (P3.PN) (N.Sago),Foul,Shooting,1,0,498
+22201202,665,PT02M05.00S,4,0,,663,,,0,0,0,,0,99,108,207,,Instant Replay4th Period (9:19 PM EST),Instant Replay,Support Ruling,0,0,499
+22201202,666,PT02M05.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,100,108,208,h,McGowens Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,500
+22201202,667,PT02M05.00S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,101,108,209,h,McGowens Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,501
+22201202,668,PT01M50.00S,4,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,101,108,209,h,Williams S.FOUL (P3.PN) (S.Wright),Foul,Shooting,1,0,502
+22201202,670,PT01M50.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,101,109,210,v,Sengun Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,503
+22201202,671,PT01M50.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,101,110,211,v,Sengun Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,504
+22201202,672,PT01M40.00S,4,1610612766,CHA,1630177,Maledon,T. Maledon,54,248,25,Made,1,104,110,214,h,Maledon 25' 3PT Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,3,505
+22201202,673,PT01M16.00S,4,1610612745,HOU,1630224,Green,J. Green,23,274,27,Missed,1,104,110,214,v,MISS Green 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,506
+22201202,674,PT01M14.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,104,110,214,v,Sengun REBOUND (Off:5 Def:16),Rebound,Unknown,1,0,507
+22201202,675,PT01M10.00S,4,1610612745,HOU,1630224,Green,J. Green,-1,38,4,Made,1,104,112,216,v,Green 4' Driving Floating Jump Shot (26 PTS),Made Shot,Driving Floating Jump Shot,1,2,508
+22201202,677,PT01M01.00S,4,1610612766,CHA,1630550,Thor,J. Thor,-227,14,0,Made,1,107,112,219,h,Thor 3PT Jump Shot (10 PTS) (Mykhailiuk 5 AST),Made Shot,Jump Shot,1,3,509
+22201202,680,PT00M43.20S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,107,112,219,v,Sengun Bad Pass Turnover (P4.T19),Turnover,Bad Pass,1,0,510
+22201202,680,PT00M43.20S,4,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,107,112,219,h,Mykhailiuk STEAL (1 STL),,,1,0,511
+22201202,682,PT00M41.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,107,112,219,v,Green P.FOUL (P1.PN) (N.Sago),Foul,Personal,1,0,512
+22201202,684,PT00M41.00S,4,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,108,112,220,h,Mykhailiuk Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,513
+22201202,685,PT00M41.00S,4,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,109,112,221,h,Mykhailiuk Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,514
+22201202,686,PT00M26.60S,4,1610612745,HOU,1630224,Green,J. Green,22,17,3,Missed,1,109,112,221,v,MISS Green 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,515
+22201202,687,PT00M24.30S,4,1610612766,CHA,1631109,Williams,M. Williams,0,0,0,,0,109,112,221,h,Williams REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,516
+22201202,688,PT00M17.70S,4,0,,1610612766,,,0,0,0,,0,109,112,221,h,HORNETS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,517
+22201202,689,PT00M17.70S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,109,112,221,v,SUB: Eason FOR Sengun,Substitution,,0,0,518
+22201202,691,PT00M13.30S,4,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,-94,241,26,Missed,1,109,112,221,h,MISS Mykhailiuk 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,519
+22201202,692,PT00M10.20S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,109,112,221,v,Porter Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,520
+22201202,694,PT00M08.80S,4,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,109,112,221,h,Mykhailiuk P.FOUL (P3.PN) (N.Sago),Foul,Personal,1,0,521
+22201202,696,PT00M08.80S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,109,112,221,v,MISS Martin Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,522
+22201202,697,PT00M08.80S,4,0,,1610612745,,,0,0,0,,0,109,112,221,v,Rockets Rebound,Rebound,Normal Rebound,0,0,523
+22201202,698,PT00M08.80S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,109,112,221,v,MISS Martin Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,524
+22201202,699,PT00M06.70S,4,1610612766,CHA,1631121,McGowens,B. McGowens,0,0,0,,0,109,112,221,h,McGowens REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,525
+22201202,700,PT00M00.00S,4,1610612766,CHA,1629004,Mykhailiuk,S. Mykhailiuk,-159,203,26,Missed,1,109,112,221,h,MISS Mykhailiuk 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,526
+22201202,701,PT00M00.00S,4,0,,1610612766,,,0,0,0,,0,109,112,221,h,HORNETS Rebound,Rebound,Unknown,0,0,527
+22201202,702,PT00M00.00S,4,0,,0,,,0,0,0,,0,109,112,221,,End of 4th Period (9:27 PM EST),period,end,1,0,528

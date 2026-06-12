@@ -1,0 +1,507 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22201169,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (6:11 PM EST),period,start,0,0,1
+22201169,4,PT12M00.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,0,0,0,h,Jump Ball Carter Jr. vs. Wiseman: Tip to Fultz,Jump Ball,,1,0,2
+22201169,7,PT11M41.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,4,6,1,Made,1,2,0,2,h,F. Wagner 1' Driving Dunk (2 PTS) (Banchero 1 AST),Made Shot,Driving Dunk Shot,1,2,3
+22201169,9,PT11M20.00S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,-47,1,5,Made,1,2,2,4,v,Wiseman 5' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,4
+22201169,10,PT11M12.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,2,2,4,v,Hayes P.FOUL (P1.T1) (B.Barnaky),Foul,Personal,1,0,5
+22201169,12,PT11M09.00S,1,1610612753,ORL,203914,Harris,G. Harris,232,50,24,Missed,1,2,2,4,h,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,6
+22201169,13,PT11M07.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,2,2,4,v,Ivey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+22201169,14,PT10M56.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,199,180,27,Missed,1,2,2,4,v,MISS Hayes 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,8
+22201169,15,PT10M53.00S,1,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,2,2,4,h,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+22201169,16,PT10M48.00S,1,1610612765,DET,1628963,Bagley III,M. Bagley III,0,0,0,,0,2,2,4,v,Bagley III S.FOUL (P1.T2) (S.Wright),Foul,Shooting,1,0,10
+22201169,18,PT10M48.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,3,2,5,h,Banchero Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,11
+22201169,19,PT10M48.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,3,2,5,h,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,12
+22201169,20,PT10M45.00S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,3,2,5,v,Wiseman REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+22201169,21,PT10M27.00S,1,1610612765,DET,1628963,Bagley III,M. Bagley III,-25,6,3,Missed,1,3,2,5,v,MISS Bagley III 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,14
+22201169,22,PT10M25.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,3,2,5,h,Carter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+22201169,23,PT10M23.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,3,2,5,v,Ivey S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,1,0,16
+22201169,25,PT10M23.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,3,2,5,h,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,17
+22201169,26,PT10M23.00S,1,0,,1610612753,,,0,0,0,,0,3,2,5,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,18
+22201169,27,PT10M23.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,3,2,5,h,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,19
+22201169,28,PT10M20.00S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,3,2,5,v,Wiseman REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,20
+22201169,29,PT10M12.00S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,-26,27,4,Made,1,3,4,7,v,Wiseman 4' Cutting Layup Shot (4 PTS) (Ivey 1 AST),Made Shot,Cutting Layup Shot,1,2,21
+22201169,31,PT09M55.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-210,130,25,Made,1,6,4,10,h,Carter Jr. 25' 3PT Jump Shot (3 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,1,3,22
+22201169,33,PT09M30.00S,1,1610612765,DET,1628963,Bagley III,M. Bagley III,29,67,7,Missed,1,6,4,10,v,MISS Bagley III 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,23
+22201169,35,PT09M30.00S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,6,4,10,v,Wiseman REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,24
+22201169,36,PT09M30.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,6,4,10,h,Carter Jr. S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,25
+22201169,38,PT09M30.00S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,6,5,11,v,Wiseman Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,26
+22201169,39,PT09M30.00S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,6,6,12,v,Wiseman Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,27
+22201169,40,PT09M16.00S,1,1610612753,ORL,203914,Harris,G. Harris,7,53,5,Made,1,8,6,14,h,Harris 5' Driving Finger Roll Layup (2 PTS) (F. Wagner 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,28
+22201169,42,PT08M59.00S,1,1610612765,DET,1628963,Bagley III,M. Bagley III,-192,180,26,Missed,1,8,6,14,v,MISS Bagley III 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,29
+22201169,43,PT08M57.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,8,6,14,h,Carter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,30
+22201169,44,PT08M48.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,16,29,3,Missed,1,8,6,14,h,MISS Carter Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,31
+22201169,45,PT08M46.00S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,8,6,14,v,Wiseman REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,32
+22201169,46,PT08M43.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,8,6,14,v,Ivey Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,33
+22201169,46,PT08M43.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,8,6,14,h,F. Wagner STEAL (1 STL),,,1,0,34
+22201169,48,PT08M40.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,12,21,2,Made,1,10,6,16,h,F. Wagner 2' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,2,35
+22201169,49,PT08M24.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,69,138,15,Missed,1,10,6,16,v,MISS Ivey 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,36
+22201169,50,PT08M21.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,10,6,16,h,Banchero REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,37
+22201169,51,PT08M19.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,5,34,3,Made,1,12,6,18,h,Banchero 3' Running Layup (3 PTS),Made Shot,Running Layup Shot,1,2,38
+22201169,52,PT08M19.00S,1,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,12,6,18,v,Livers S.FOUL (P1.T4) (B.Barnaky),Foul,Shooting,1,0,39
+22201169,54,PT08M19.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,13,6,19,h,Banchero Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,1,0,40
+22201169,55,PT08M13.00S,1,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,13,6,19,h,Harris P.FOUL (P1.T2) (S.Wright),Foul,Personal,1,0,41
+22201169,58,PT07M55.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,-45,125,13,Made,1,13,8,21,v,Hayes 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,42
+22201169,59,PT07M44.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-87,248,26,Made,1,16,8,24,h,Carter Jr. 26' 3PT Jump Shot (6 PTS) (Fultz 1 AST),Made Shot,Jump Shot,1,3,43
+22201169,62,PT07M21.00S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,49,23,5,Missed,1,16,8,24,v,MISS Wiseman 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,44
+22201169,63,PT07M18.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,16,8,24,h,Banchero REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,45
+22201169,64,PT07M09.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,-10,20,2,Made,1,18,8,26,h,Fultz 2' Driving Dunk (2 PTS) (Banchero 2 AST),Made Shot,Driving Dunk Shot,1,2,46
+22201169,66,PT07M09.00S,1,0,,1610612765,,,0,0,0,,0,18,8,26,v,Pistons Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,47
+22201169,69,PT06M49.00S,1,0,,1610612753,,,0,0,0,,0,18,8,26,h,MAGIC Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,48
+22201169,233,PT06M49.00S,1,1610612765,DET,1628963,Bagley III,M. Bagley III,-1,47,5,Missed,1,18,8,26,v,MISS Bagley III 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,49
+22201169,233,PT06M49.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,18,8,26,h,Carter Jr. BLOCK (1 BLK),,,1,2,50
+22201169,234,PT06M49.00S,1,0,,1610612753,,,0,0,0,,0,18,8,26,h,MAGIC Rebound,Rebound,Unknown,0,0,51
+22201169,70,PT06M49.00S,1,0,,67,Hammonds,T. Hammonds,0,0,0,,0,18,8,26,,Instant Replay1st Period (6:24 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,52
+22201169,75,PT06M49.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,18,8,26,h,SUB: Anthony FOR F. Wagner,Substitution,,0,0,53
+22201169,71,PT06M42.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,18,8,26,h,Jump Ball (CC) Carter Jr. vs. Bagley III: Tip to Anthony,Jump Ball,Coach Challenge,0,0,54
+22201169,77,PT06M32.00S,1,1610612753,ORL,1630175,Anthony,C. Anthony,148,5,15,Made,1,20,8,28,h,Anthony 15' Jump Shot (2 PTS) (Fultz 2 AST),Made Shot,Jump Shot,1,2,55
+22201169,79,PT06M20.00S,1,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,20,8,28,h,Anthony P.FOUL (P1.T3) (S.Wright),Foul,Personal,1,0,56
+22201169,81,PT06M15.00S,1,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,20,8,28,v,Livers Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,57
+22201169,81,PT06M15.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,20,8,28,h,Carter Jr. STEAL (1 STL),,,1,0,58
+22201169,83,PT06M07.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,21,168,17,Missed,1,20,8,28,h,MISS Banchero 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,59
+22201169,84,PT06M04.00S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,20,8,28,v,Wiseman REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,60
+22201169,85,PT06M00.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,26,25,4,Made,1,20,10,30,v,Ivey 4' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,61
+22201169,86,PT05M48.00S,1,1610612753,ORL,1630175,Anthony,C. Anthony,115,222,25,Missed,1,20,10,30,h,MISS Anthony 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,62
+22201169,87,PT05M43.00S,1,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,20,10,30,v,Livers REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,63
+22201169,88,PT05M29.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,23,68,7,Made,1,20,12,32,v,Hayes 7' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,64
+22201169,89,PT05M25.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,20,12,32,h,Fultz Traveling Turnover (P1.T1),Turnover,Traveling,1,0,65
+22201169,90,PT05M25.00S,1,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,20,12,32,h,SUB: Suggs FOR Harris,Substitution,,0,0,66
+22201169,92,PT05M11.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,-54,113,13,Made,1,20,14,34,v,Hayes 13' Jump Shot (6 PTS) (Wiseman 1 AST),Made Shot,Jump Shot,1,2,67
+22201169,94,PT04M59.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,-108,99,15,Missed,1,20,14,34,h,MISS Fultz 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,68
+22201169,95,PT04M59.00S,1,0,,1610612753,,,0,0,0,,0,20,14,34,h,MAGIC Rebound,Rebound,Unknown,0,0,69
+22201169,96,PT04M59.00S,1,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,20,14,34,v,Livers L.B.FOUL (P2.PN) (S.Wright),Foul,Loose Ball,1,0,70
+22201169,98,PT04M59.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,21,14,35,h,Suggs Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,71
+22201169,99,PT04M59.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,21,14,35,h,SUB: Bitadze FOR Carter Jr.,Substitution,,0,0,72
+22201169,101,PT04M59.00S,1,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,21,14,35,v,SUB: Duren FOR Livers,Substitution,,0,0,73
+22201169,108,PT04M59.00S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,21,14,35,v,SUB: Omoruyi FOR Wiseman,Substitution,,0,0,74
+22201169,105,PT04M59.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,21,14,35,h,MISS Suggs Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,75
+22201169,106,PT04M50.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,21,14,35,v,Duren REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,76
+22201169,110,PT04M39.00S,1,1610612765,DET,1630647,Omoruyi,E. Omoruyi,230,64,24,Missed,1,21,14,35,v,MISS Omoruyi 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+22201169,111,PT04M36.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,21,14,35,v,Ivey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,78
+22201169,112,PT04M36.00S,1,1610612765,DET,1630647,Omoruyi,E. Omoruyi,23,26,3,Made,1,21,16,37,v,Omoruyi 3' Cutting Layup Shot (2 PTS) (Ivey 2 AST),Made Shot,Cutting Layup Shot,1,2,79
+22201169,114,PT04M36.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,21,16,37,h,Bitadze S.FOUL (P1.T4) (S.Wright),Foul,Shooting,1,0,80
+22201169,116,PT04M36.00S,1,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,21,16,37,v,MISS Omoruyi Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,81
+22201169,117,PT04M33.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,21,16,37,v,Duren REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,82
+22201169,118,PT04M23.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,21,16,37,h,Bitadze S.FOUL (P2.PN) (D.Richardson),Foul,Shooting,1,0,83
+22201169,120,PT04M23.00S,1,0,,1610612765,,,0,0,0,,0,21,16,37,v,Pistons Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,84
+22201169,121,PT04M23.00S,1,0,,118,,,0,0,0,,0,21,16,37,,Instant Replay1st Period (6:34 PM EST),Instant Replay,Ruling Stands,0,0,85
+22201169,122,PT04M23.00S,1,1610612765,DET,1628963,Bagley III,M. Bagley III,0,0,0,,0,21,17,38,v,Bagley III Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,86
+22201169,123,PT04M23.00S,1,1610612765,DET,1628963,Bagley III,M. Bagley III,0,0,0,,0,21,18,39,v,Bagley III Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,87
+22201169,124,PT04M08.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,25,52,6,Missed,1,21,18,39,h,MISS Banchero 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,88
+22201169,126,PT04M04.00S,1,1610612765,DET,1628963,Bagley III,M. Bagley III,0,0,0,,0,21,18,39,v,Bagley III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+22201169,127,PT03M51.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,42,27,5,Missed,1,21,18,39,v,MISS Ivey 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,90
+22201169,128,PT03M46.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,21,18,39,v,Duren REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,91
+22201169,129,PT03M46.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,Missed,1,21,18,39,v,MISS Duren Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,92
+22201169,130,PT03M46.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,21,18,39,h,Banchero REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,93
+22201169,132,PT03M40.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,-9,16,2,Missed,1,21,18,39,h,MISS Fultz 2' Running Dunk,Missed Shot,Running Dunk Shot,1,2,94
+22201169,133,PT03M35.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,21,18,39,h,Banchero REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,95
+22201169,134,PT03M33.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,-224,136,26,Made,1,24,18,42,h,Suggs 26' 3PT Jump Shot (4 PTS) (Anthony 1 AST),Made Shot,Jump Shot,1,3,96
+22201169,136,PT03M22.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,24,18,42,h,Suggs S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,1,0,97
+22201169,138,PT03M22.00S,1,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,24,19,43,v,Omoruyi Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,98
+22201169,139,PT03M22.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,24,19,43,h,SUB: F. Wagner FOR Fultz,Substitution,,0,0,99
+22201169,140,PT03M22.00S,1,1610612765,DET,1628963,Bagley III,M. Bagley III,0,0,0,,0,24,19,43,v,SUB: Hampton FOR Bagley III,Substitution,,0,0,100
+22201169,143,PT03M22.00S,1,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,24,20,44,v,Omoruyi Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,101
+22201169,144,PT02M58.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,-196,163,25,Made,1,27,20,47,h,Banchero 25' 3PT Jump Shot (7 PTS) (F. Wagner 3 AST),Made Shot,Jump Shot,1,3,102
+22201169,147,PT02M49.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,27,20,47,v,SUB: Joseph FOR Hayes,Substitution,,0,0,103
+22201169,149,PT02M34.00S,1,1610612765,DET,1631105,Duren,J. Duren,127,-14,13,Made,1,27,22,49,v,Duren 13' Turnaround Hook Shot (2 PTS) (Ivey 3 AST),Made Shot,Turnaround Hook Shot,1,2,104
+22201169,151,PT02M20.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,27,22,49,h,Banchero Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,105
+22201169,151,PT02M20.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,27,22,49,v,Duren STEAL (1 STL),,,1,0,106
+22201169,153,PT02M13.00S,1,1610612765,DET,1630647,Omoruyi,E. Omoruyi,-43,37,6,Missed,1,27,22,49,v,MISS Omoruyi 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,107
+22201169,154,PT02M12.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,27,22,49,h,Banchero REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,108
+22201169,155,PT02M02.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,26,304,31,Made,1,30,22,52,h,F. Wagner 31' 3PT Jump Shot (7 PTS) (Banchero 3 AST),Made Shot,Jump Shot,1,3,109
+22201169,157,PT01M50.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,-217,147,26,Made,1,30,25,55,v,Ivey 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,110
+22201169,158,PT01M36.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,-210,142,25,Made,1,33,25,58,h,Banchero 25' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,111
+22201169,159,PT01M21.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,62,267,27,Missed,1,33,25,58,v,MISS Ivey 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,112
+22201169,160,PT01M18.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,33,25,58,v,Duren REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,113
+22201169,162,PT01M07.00S,1,1610612765,DET,202709,Joseph,C. Joseph,222,144,26,Made,1,33,28,61,v,Joseph 26' 3PT Jump Shot (3 PTS) (Ivey 4 AST),Made Shot,Jump Shot,1,3,114
+22201169,164,PT01M00.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,33,28,61,h,Suggs Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,115
+22201169,166,PT00M54.10S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,33,28,61,h,F. Wagner P.FOUL (P1.PN) (S.Wright),Foul,Personal,1,0,116
+22201169,168,PT00M54.10S,1,1610612765,DET,1630181,Hampton,R. Hampton,0,0,0,,0,33,28,61,v,MISS Hampton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,117
+22201169,169,PT00M54.10S,1,0,,1610612765,,,0,0,0,,0,33,28,61,v,Pistons Rebound,Rebound,Normal Rebound,0,0,118
+22201169,170,PT00M54.10S,1,1610612765,DET,1630181,Hampton,R. Hampton,0,0,0,,0,33,28,61,v,MISS Hampton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,119
+22201169,171,PT00M51.40S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,33,28,61,h,Banchero REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,120
+22201169,173,PT00M32.10S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,33,28,61,h,Jump Ball Bitadze vs. Duren: Tip to Omoruyi,Jump Ball,,1,0,121
+22201169,176,PT00M32.10S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,33,28,61,h,F. Wagner Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,122
+22201169,178,PT00M28.40S,1,1610612765,DET,1630647,Omoruyi,E. Omoruyi,-184,209,28,Missed,1,33,28,61,v,MISS Omoruyi 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+22201169,179,PT00M25.20S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,33,28,61,h,Banchero REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,124
+22201169,180,PT00M03.70S,1,1610612753,ORL,1630532,Wagner,F. Wagner,-38,19,4,Missed,1,33,28,61,h,MISS F. Wagner 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,125
+22201169,181,PT00M03.70S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,33,28,61,h,Bitadze REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,126
+22201169,182,PT00M03.70S,1,1610612765,DET,1630181,Hampton,R. Hampton,0,0,0,,0,33,28,61,v,Hampton S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,1,0,127
+22201169,184,PT00M03.70S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,33,28,61,h,MISS Bitadze Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,128
+22201169,185,PT00M03.70S,1,0,,1610612753,,,0,0,0,,0,33,28,61,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,129
+22201169,186,PT00M03.70S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,34,28,62,h,Bitadze Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,130
+22201169,187,PT00M02.80S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,34,28,62,h,Suggs T.FOUL (P1.PN) (S.Wright),Foul,Technical,1,0,131
+22201169,188,PT00M02.80S,1,0,,187,Cummings,T. Cummings,0,0,0,,0,34,28,62,,Instant Replay1st Period (6:45 PM EST),Instant Replay,Ruling Stands,0,0,132
+22201169,189,PT00M02.80S,1,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,34,29,63,v,Joseph Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,1,0,133
+22201169,190,PT00M00.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,-32,431,43,Missed,1,34,29,63,v,MISS Ivey 43' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,134
+22201169,191,PT00M00.00S,1,0,,1610612765,,,0,0,0,,0,34,29,63,v,Pistons Rebound,Rebound,Unknown,0,0,135
+22201169,192,PT00M00.00S,1,0,,0,,,0,0,0,,0,34,29,63,,End of 1st Period (6:48 PM EST),period,end,1,0,136
+22201169,197,PT12M00.00S,2,0,,0,,,0,0,0,,0,34,29,63,,Start of 2nd Period (6:50 PM EST),period,start,0,0,137
+22201169,198,PT11M42.00S,2,1610612765,DET,1630647,Omoruyi,E. Omoruyi,-178,195,26,Missed,1,34,29,63,v,MISS Omoruyi 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+22201169,199,PT11M39.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,34,29,63,h,Bitadze REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,139
+22201169,200,PT11M27.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,29,32,4,Made,1,36,29,65,h,F. Wagner 4' Driving Finger Roll Layup (9 PTS) (Anthony 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,140
+22201169,202,PT11M14.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,36,29,65,h,Anthony S.FOUL (P2.T1) (D.Richardson),Foul,Shooting,1,0,141
+22201169,204,PT11M14.00S,2,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,36,29,65,v,MISS Joseph Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,142
+22201169,205,PT11M14.00S,2,0,,1610612765,,,0,0,0,,0,36,29,65,v,Pistons Rebound,Rebound,Normal Rebound,1,0,143
+22201169,206,PT11M14.00S,2,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,36,30,66,v,Joseph Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,144
+22201169,207,PT10M56.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,-18,261,26,Missed,1,36,30,66,h,MISS Anthony 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+22201169,208,PT10M54.00S,2,1610612765,DET,1631197,Rhoden,J. Rhoden,0,0,0,,0,36,30,66,v,Rhoden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,146
+22201169,209,PT10M51.00S,2,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,36,30,66,v,Omoruyi Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,147
+22201169,210,PT10M42.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,-9,26,3,Made,1,38,30,68,h,Bitadze 3' Cutting Layup Shot (3 PTS) (Anthony 3 AST),Made Shot,Cutting Layup Shot,1,2,148
+22201169,212,PT10M28.00S,2,1610612765,DET,1631197,Rhoden,J. Rhoden,0,0,0,,0,38,30,68,v,Rhoden Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,149
+22201169,212,PT10M28.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,38,30,68,h,Suggs STEAL (1 STL),,,1,0,150
+22201169,214,PT10M25.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,16,8,2,Missed,1,38,30,68,h,MISS Suggs 2' Running Layup,Missed Shot,Running Layup Shot,1,2,151
+22201169,215,PT10M21.00S,2,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,38,30,68,v,Joseph REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,152
+22201169,216,PT10M20.00S,2,1610612765,DET,1630181,Hampton,R. Hampton,0,0,0,,0,38,30,68,v,Hampton Offensive Charge Foul (P2) (S.Wright),Foul,Offensive Charge,1,0,153
+22201169,218,PT10M20.00S,2,1610612765,DET,1630181,Hampton,R. Hampton,0,0,0,,0,38,30,68,v,Hampton Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,154
+22201169,219,PT10M14.00S,2,1610612765,DET,1631197,Rhoden,J. Rhoden,0,0,0,,0,38,30,68,v,Rhoden P.FOUL (P1.T1) (B.Barnaky),Foul,Personal,1,0,155
+22201169,221,PT10M08.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,-10,115,12,Made,1,40,30,70,h,Anthony 12' Driving Floating Jump Shot (4 PTS) (Bitadze 1 AST),Made Shot,Driving Floating Jump Shot,1,2,156
+22201169,222,PT09M56.00S,2,1610612765,DET,1630647,Omoruyi,E. Omoruyi,-146,225,27,Missed,1,40,30,70,v,MISS Omoruyi 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,157
+22201169,223,PT09M52.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,40,30,70,h,F. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,158
+22201169,224,PT09M48.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,61,251,26,Missed,1,40,30,70,h,MISS Bitadze 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,159
+22201169,225,PT09M45.00S,2,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,40,30,70,v,Joseph REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,160
+22201169,227,PT09M34.00S,2,1610612765,DET,1631105,Duren,J. Duren,4,58,6,Missed,1,40,30,70,v,MISS Duren 6' Layup,Missed Shot,Layup Shot,1,2,161
+22201169,227,PT09M34.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,40,30,70,h,Bitadze BLOCK (1 BLK),,,1,2,162
+22201169,229,PT09M29.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,40,30,70,h,F. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,163
+22201169,230,PT09M28.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,153,211,26,Made,1,43,30,73,h,Anthony 26' 3PT Running Jump Shot (7 PTS) (F. Wagner 4 AST),Made Shot,Running Jump Shot,1,3,164
+22201169,232,PT09M28.00S,2,0,,1610612765,,,0,0,0,,0,43,30,73,v,Pistons Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,165
+22201169,235,PT09M28.00S,2,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,43,30,73,v,SUB: Livers FOR Omoruyi,Substitution,,0,0,166
+22201169,236,PT09M28.00S,2,1610612765,DET,1631197,Rhoden,J. Rhoden,0,0,0,,0,43,30,73,v,SUB: Hayes FOR Rhoden,Substitution,,0,0,167
+22201169,239,PT09M07.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,237,8,24,Missed,1,43,30,73,v,MISS Hayes 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+22201169,240,PT09M04.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,43,30,73,h,Bitadze REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,169
+22201169,241,PT08M45.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,18,4,2,Made,1,45,30,75,h,Bitadze 2' Layup (5 PTS) (Suggs 1 AST),Made Shot,Layup Shot,1,2,170
+22201169,244,PT08M33.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,45,30,75,h,Suggs P.FOUL (P2.T2) (S.Wright),Foul,Personal,1,0,171
+22201169,246,PT08M24.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,-25,120,12,Made,1,45,32,77,v,Hayes 12' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,1,2,172
+22201169,247,PT08M12.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,45,32,77,v,Hayes P.FOUL (P2.T2) (S.Wright),Foul,Personal,1,0,173
+22201169,249,PT07M58.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,-34,151,15,Missed,1,45,32,77,h,MISS Suggs 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,174
+22201169,250,PT07M56.00S,2,1610612765,DET,1630181,Hampton,R. Hampton,0,0,0,,0,45,32,77,v,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,175
+22201169,252,PT07M36.00S,2,1610612765,DET,1630587,Livers,I. Livers,-147,212,26,Missed,1,45,32,77,v,MISS Livers 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,176
+22201169,252,PT07M36.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,45,32,77,h,M. Wagner BLOCK (1 BLK),,,1,3,177
+22201169,254,PT07M35.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,45,32,77,h,Suggs REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,178
+22201169,256,PT07M25.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,94,46,10,Missed,1,45,32,77,h,MISS F. Wagner 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,179
+22201169,257,PT07M23.00S,2,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,45,32,77,v,Livers REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,180
+22201169,258,PT07M13.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,45,32,77,h,MAGIC T.Foul (Def. 3 Sec M. Wagner ) (D.Richardson),Foul,Defense 3 Second,1,0,181
+22201169,259,PT07M13.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,45,33,78,v,Hayes Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,1,0,182
+22201169,260,PT07M13.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,45,33,78,h,SUB: Carter Jr. FOR Bitadze,Substitution,,0,0,183
+22201169,261,PT07M13.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,45,33,78,v,SUB: Wiseman FOR Duren,Substitution,,0,0,184
+22201169,262,PT07M13.00S,2,1610612765,DET,1630181,Hampton,R. Hampton,0,0,0,,0,45,33,78,v,SUB: Ivey FOR Hampton,Substitution,,0,0,185
+22201169,267,PT07M02.00S,2,1610612765,DET,1630587,Livers,I. Livers,232,10,0,Missed,1,45,33,78,v,MISS Livers 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,186
+22201169,268,PT06M58.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,45,33,78,h,F. Wagner REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,187
+22201169,269,PT06M48.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,45,33,78,h,Suggs Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,188
+22201169,270,PT06M35.00S,2,1610612765,DET,1630164,Wiseman,J. Wiseman,96,60,11,Missed,1,45,33,78,v,MISS Wiseman 11' Hook Shot,Missed Shot,Hook Shot,1,2,189
+22201169,271,PT06M31.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,45,33,78,h,F. Wagner REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,190
+22201169,272,PT06M26.00S,2,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,45,33,78,v,Wiseman S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,1,0,191
+22201169,274,PT06M26.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,45,33,78,h,MISS Carter Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,192
+22201169,275,PT06M26.00S,2,0,,1610612753,,,0,0,0,,0,45,33,78,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,193
+22201169,276,PT06M26.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,45,33,78,h,SUB: Fultz FOR Anthony,Substitution,,0,0,194
+22201169,278,PT06M26.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,46,33,79,h,Carter Jr. Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,195
+22201169,279,PT06M11.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,46,33,79,v,Ivey Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,196
+22201169,279,PT06M11.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,46,33,79,h,Suggs STEAL (2 STL),,,1,0,197
+22201169,281,PT06M08.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,-9,17,2,Made,1,48,33,81,h,Fultz 2' Running Dunk (4 PTS) (Suggs 2 AST),Made Shot,Running Dunk Shot,1,2,198
+22201169,283,PT05M54.00S,2,1610612765,DET,1630587,Livers,I. Livers,-105,7,11,Missed,1,48,33,81,v,MISS Livers 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,199
+22201169,284,PT05M53.00S,2,0,,1610612765,,,0,0,0,,0,48,33,81,v,Pistons Rebound,Rebound,Unknown,1,0,200
+22201169,286,PT05M52.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,48,33,81,v,Hayes Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,201
+22201169,286,PT05M52.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,48,33,81,h,Suggs STEAL (3 STL),,,1,0,202
+22201169,288,PT05M51.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,48,33,81,v,Ivey FLAGRANT.FOUL.TYPE1 (P2.T4) (S.Wright),Foul,Flagrant Type 1,1,0,203
+22201169,290,PT05M51.00S,2,0,,288,Gilliam,A. Gilliam,0,0,0,,0,48,33,81,,Instant Replay2nd Period (7:10 PM EST),Instant Replay,Overturn Ruling,0,0,204
+22201169,291,PT05M51.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,48,33,81,h,SUB: Banchero FOR M. Wagner,Substitution,,0,0,205
+22201169,293,PT05M51.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,49,33,82,h,Suggs Free Throw Flagrant 1 of 2 (5 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,206
+22201169,294,PT05M51.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,50,33,83,h,Suggs Free Throw Flagrant 2 of 2 (6 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,207
+22201169,296,PT05M51.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,50,33,83,v,Hayes P.FOUL (P3.PN) (B.Barnaky),Foul,Personal,1,0,208
+22201169,299,PT05M51.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,50,33,83,h,MISS Fultz Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,209
+22201169,300,PT05M51.00S,2,0,,1610612753,,,0,0,0,,0,50,33,83,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,210
+22201169,301,PT05M51.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,50,33,83,h,MISS Fultz Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,211
+22201169,302,PT05M48.00S,2,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,50,33,83,v,Wiseman REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,212
+22201169,303,PT05M37.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,50,33,83,v,Hayes Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,213
+22201169,303,PT05M37.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,50,33,83,h,F. Wagner STEAL (2 STL),,,1,0,214
+22201169,305,PT05M32.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,-228,82,24,Missed,1,50,33,83,h,MISS Banchero 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,215
+22201169,306,PT05M27.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,50,33,83,h,Carter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,216
+22201169,307,PT05M27.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,2,16,2,Made,1,52,33,85,h,Carter Jr. 2' Putback Dunk (9 PTS),Made Shot,Putback Dunk Shot,1,2,217
+22201169,308,PT05M14.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,227,53,0,Missed,1,52,33,85,v,MISS Ivey 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,218
+22201169,309,PT05M14.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,52,33,85,h,Carter Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,219
+22201169,310,PT05M01.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,-25,246,25,Made,1,55,33,88,h,Suggs 25' 3PT Jump Shot (9 PTS) (Fultz 3 AST),Made Shot,Jump Shot,1,3,220
+22201169,312,PT04M44.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,55,33,88,v,Ivey Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,221
+22201169,312,PT04M44.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,55,33,88,h,Carter Jr. STEAL (2 STL),,,1,0,222
+22201169,314,PT04M36.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,52,5,Made,1,57,33,90,h,F. Wagner 5' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,223
+22201169,315,PT04M36.00S,2,0,,1610612765,,,0,0,0,,0,57,33,90,v,Pistons Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,224
+22201169,316,PT04M36.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,57,33,90,h,SUB: Harris FOR Suggs,Substitution,,0,0,225
+22201169,317,PT04M36.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,57,33,90,h,SUB: Okeke FOR F. Wagner,Substitution,,0,0,226
+22201169,318,PT04M36.00S,2,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,57,33,90,v,SUB: Omoruyi FOR Joseph,Substitution,,0,0,227
+22201169,322,PT04M23.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,-107,74,13,Missed,1,57,33,90,v,MISS Ivey 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,228
+22201169,323,PT04M19.00S,2,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,57,33,90,v,Livers REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,229
+22201169,324,PT04M17.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,57,33,90,h,Carter Jr. S.FOUL (P2.T3) (S.Wright),Foul,Shooting,1,0,230
+22201169,326,PT04M17.00S,2,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,57,33,90,v,MISS Omoruyi Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,231
+22201169,327,PT04M17.00S,2,0,,1610612765,,,0,0,0,,0,57,33,90,v,Pistons Rebound,Rebound,Normal Rebound,0,0,232
+22201169,328,PT04M17.00S,2,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,57,34,91,v,Omoruyi Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,233
+22201169,329,PT04M03.00S,2,1610612753,ORL,1629643,Okeke,C. Okeke,163,208,26,Missed,1,57,34,91,h,MISS Okeke 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+22201169,330,PT04M01.00S,2,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,57,34,91,h,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,235
+22201169,331,PT03M56.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,57,34,91,h,Banchero Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,236
+22201169,332,PT03M40.00S,2,1610612765,DET,1630647,Omoruyi,E. Omoruyi,-205,154,26,Missed,1,57,34,91,v,MISS Omoruyi 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+22201169,333,PT03M37.00S,2,0,,1610612753,,,0,0,0,,0,57,34,91,h,MAGIC Rebound,Rebound,Unknown,1,0,238
+22201169,334,PT03M22.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,-67,-16,7,Missed,1,57,34,91,h,MISS Fultz 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,239
+22201169,335,PT03M20.00S,2,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,57,34,91,v,Omoruyi REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,240
+22201169,336,PT03M08.00S,2,1610612765,DET,1630164,Wiseman,J. Wiseman,-112,16,11,Made,1,57,36,93,v,Wiseman 11' Jump Shot (8 PTS) (Omoruyi 1 AST),Made Shot,Jump Shot,1,2,241
+22201169,338,PT02M56.00S,2,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,57,36,93,v,Livers S.FOUL (P3.PN) (B.Barnaky),Foul,Shooting,1,0,242
+22201169,340,PT02M56.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,58,36,94,h,Banchero Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,243
+22201169,341,PT02M56.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,58,36,94,h,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,244
+22201169,342,PT02M45.00S,2,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,58,36,94,v,Livers REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,245
+22201169,343,PT02M41.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,97,28,10,Made,1,58,38,96,v,Ivey 10' Driving Floating Bank Jump Shot (7 PTS) (Hayes 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,246
+22201169,344,PT02M39.00S,2,0,,1610612765,,,0,0,0,,0,58,38,96,v,Pistons Violation: Delay of game Violation,Violation,Delay Of Game,0,0,247
+22201169,345,PT02M25.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,88,48,10,Missed,1,58,38,96,h,MISS Banchero 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,248
+22201169,346,PT02M23.00S,2,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,58,38,96,v,Wiseman REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,249
+22201169,347,PT02M14.00S,2,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,58,38,96,h,Harris S.FOUL (P2.T4) (B.Barnaky),Foul,Shooting,1,0,250
+22201169,349,PT02M14.00S,2,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,58,39,97,v,Omoruyi Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,251
+22201169,350,PT02M14.00S,2,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,58,39,97,v,MISS Omoruyi Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,252
+22201169,351,PT02M12.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,58,39,97,h,Banchero REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,253
+22201169,352,PT01M56.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,33,15,4,Made,1,60,39,99,h,Banchero 4' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,254
+22201169,353,PT01M43.00S,2,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,60,39,99,h,Harris S.FOUL (P3.PN) (B.Barnaky),Foul,Shooting,1,0,255
+22201169,355,PT01M43.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,60,40,100,v,Hayes Free Throw 1 of 3 (10 PTS),Free Throw,Free Throw 1 of 3,1,0,256
+22201169,356,PT01M43.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,60,41,101,v,Hayes Free Throw 2 of 3 (11 PTS),Free Throw,Free Throw 2 of 3,1,0,257
+22201169,357,PT01M43.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,60,42,102,v,Hayes Free Throw 3 of 3 (12 PTS),Free Throw,Free Throw 3 of 3,1,0,258
+22201169,358,PT01M26.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,60,42,102,h,Fultz Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,259
+22201169,358,PT01M26.00S,2,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,60,42,102,v,Omoruyi STEAL (1 STL),,,1,0,260
+22201169,360,PT01M23.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,60,42,102,h,Banchero S.FOUL (P1.PN) (D.Richardson),Foul,Shooting,1,0,261
+22201169,362,PT01M23.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,60,43,103,v,Ivey Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,262
+22201169,363,PT01M23.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,60,44,104,v,Ivey Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,263
+22201169,364,PT01M06.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,60,44,104,h,Banchero Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,264
+22201169,364,PT01M06.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,60,44,104,v,Ivey STEAL (1 STL),,,1,0,265
+22201169,366,PT01M03.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,60,44,104,v,Hayes Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,266
+22201169,366,PT01M03.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,60,44,104,h,Carter Jr. STEAL (3 STL),,,1,0,267
+22201169,368,PT00M58.20S,2,1610612753,ORL,203914,Harris,G. Harris,-228,-18,0,Made,1,63,44,107,h,Harris 3PT Jump Shot (5 PTS) (Fultz 4 AST),Made Shot,Jump Shot,1,3,268
+22201169,371,PT00M39.00S,2,1610612765,DET,1630587,Livers,I. Livers,-164,212,27,Missed,1,63,44,107,v,MISS Livers 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,269
+22201169,372,PT00M37.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,63,44,107,h,Fultz REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,270
+22201169,373,PT00M32.90S,2,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,63,44,107,h,Fultz Out of Bounds Lost Ball Turnover (P3.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,271
+22201169,374,PT00M15.00S,2,1610612765,DET,1630647,Omoruyi,E. Omoruyi,210,147,26,Missed,1,63,44,107,v,MISS Omoruyi 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,272
+22201169,375,PT00M12.20S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,63,44,107,h,Carter Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,273
+22201169,376,PT00M00.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,110,226,25,Missed,1,63,44,107,h,MISS Carter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,274
+22201169,377,PT00M00.00S,2,0,,1610612753,,,0,0,0,,0,63,44,107,h,MAGIC Rebound,Rebound,Unknown,0,0,275
+22201169,378,PT00M00.00S,2,0,,0,,,0,0,0,,0,63,44,107,,End of 2nd Period (7:27 PM EST),period,end,1,0,276
+22201169,384,PT12M00.00S,3,0,,0,,,0,0,0,,0,63,44,107,,Start of 3rd Period (7:43 PM EST),period,start,0,0,277
+22201169,385,PT11M36.00S,3,1610612765,DET,1630647,Omoruyi,E. Omoruyi,230,-1,0,Made,1,63,47,110,v,Omoruyi 3PT Jump Shot (9 PTS) (Ivey 5 AST),Made Shot,Jump Shot,1,3,278
+22201169,387,PT11M16.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-140,16,14,Missed,1,63,47,110,h,MISS Carter Jr. 14' Jump Shot,Missed Shot,Jump Shot,1,2,279
+22201169,388,PT11M13.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,63,47,110,v,Wiseman REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,280
+22201169,389,PT11M06.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,110,235,26,Missed,1,63,47,110,v,MISS Hayes 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,281
+22201169,390,PT11M02.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,63,47,110,h,Carter Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,282
+22201169,391,PT10M51.00S,3,1610612753,ORL,203914,Harris,G. Harris,-219,118,25,Made,1,66,47,113,h,Harris 25' 3PT Jump Shot (8 PTS) (Fultz 5 AST),Made Shot,Jump Shot,1,3,283
+22201169,393,PT10M38.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,143,235,28,Made,1,66,50,116,v,Ivey 28' 3PT Jump Shot (12 PTS) (Hayes 2 AST),Made Shot,Jump Shot,1,3,284
+22201169,395,PT10M22.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,-61,106,12,Made,1,68,50,118,h,Fultz 12' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,285
+22201169,396,PT10M02.00S,3,1610612765,DET,1630647,Omoruyi,E. Omoruyi,-233,-22,0,Made,1,68,53,121,v,Omoruyi 3PT Jump Shot (12 PTS) (Hayes 3 AST),Made Shot,Jump Shot,1,3,286
+22201169,398,PT09M34.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,7,152,15,Missed,1,68,53,121,h,MISS F. Wagner 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,287
+22201169,399,PT09M32.00S,3,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,68,53,121,v,Omoruyi REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,288
+22201169,400,PT09M25.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,76,26,8,Missed,1,68,53,121,v,MISS Wiseman 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,289
+22201169,401,PT09M24.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,68,53,121,h,Carter Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,290
+22201169,402,PT09M17.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,4,257,26,Made,1,71,53,124,h,Carter Jr. 26' 3PT Jump Shot (12 PTS) (Fultz 6 AST),Made Shot,Jump Shot,1,3,291
+22201169,404,PT08M55.00S,3,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,71,53,124,v,Livers Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,292
+22201169,404,PT08M55.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,71,53,124,h,F. Wagner STEAL (3 STL),,,1,0,293
+22201169,406,PT08M53.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,71,53,124,v,Ivey S.FOUL (P3.T1) (B.Barnaky),Foul,Shooting,1,0,294
+22201169,408,PT08M53.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,72,53,125,h,F. Wagner Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,295
+22201169,409,PT08M53.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,73,53,126,h,F. Wagner Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,296
+22201169,410,PT08M35.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,73,53,126,v,Hayes Out of Bounds - Bad Pass Turnover Turnover (P4.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,297
+22201169,411,PT08M10.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,167,195,26,Made,1,76,53,129,h,Fultz 26' 3PT Pullup Jump Shot (9 PTS) (Carter Jr. 1 AST),Made Shot,Pullup Jump shot,1,3,298
+22201169,413,PT07M54.00S,3,1610612765,DET,1630647,Omoruyi,E. Omoruyi,43,252,26,Missed,1,76,53,129,v,MISS Omoruyi 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,299
+22201169,414,PT07M51.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,76,53,129,h,Fultz REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,300
+22201169,415,PT07M47.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,-168,222,28,Missed,1,76,53,129,h,MISS F. Wagner 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,301
+22201169,416,PT07M43.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,76,53,129,v,Wiseman REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,302
+22201169,417,PT07M34.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,172,214,27,Missed,1,76,53,129,v,MISS Ivey 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,303
+22201169,418,PT07M29.00S,3,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,76,53,129,h,Harris REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,304
+22201169,420,PT07M25.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,76,53,129,h,Carter Jr. Offensive Charge Foul (P3) (D.Richardson),Foul,Offensive Charge,1,0,305
+22201169,422,PT07M25.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,76,53,129,h,Carter Jr. Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,306
+22201169,423,PT07M10.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,-72,156,17,Missed,1,76,53,129,v,MISS Hayes 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,307
+22201169,424,PT07M09.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,76,53,129,h,Banchero REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,308
+22201169,425,PT07M00.00S,3,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,76,53,129,v,Omoruyi S.FOUL (P1.T2) (S.Wright),Foul,Shooting,1,0,309
+22201169,427,PT07M00.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,76,53,129,h,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,310
+22201169,428,PT07M00.00S,3,0,,1610612753,,,0,0,0,,0,76,53,129,h,MAGIC Rebound,Rebound,Normal Rebound,1,0,311
+22201169,429,PT07M00.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,76,53,129,v,SUB: Duren FOR Wiseman,Substitution,,0,0,312
+22201169,431,PT07M00.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,76,53,129,h,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,313
+22201169,432,PT06M57.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,76,53,129,v,Duren REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,314
+22201169,433,PT06M41.00S,3,1610612765,DET,1630647,Omoruyi,E. Omoruyi,-80,-12,8,Made,1,76,55,131,v,Omoruyi 8' Hook Shot (14 PTS) (Hayes 4 AST),Made Shot,Hook Shot,1,2,315
+22201169,435,PT06M26.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-54,260,27,Missed,1,76,55,131,h,MISS Carter Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,316
+22201169,436,PT06M20.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,76,55,131,v,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,317
+22201169,437,PT06M11.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,21,46,5,Missed,1,76,55,131,v,MISS Ivey 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,318
+22201169,437,PT06M11.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,76,55,131,h,Fultz BLOCK (1 BLK),,,1,2,319
+22201169,439,PT06M08.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,76,55,131,h,Carter Jr. REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,320
+22201169,440,PT05M56.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,76,55,131,h,Banchero Lost Ball Turnover (P4.T11),Turnover,Lost Ball,1,0,321
+22201169,440,PT05M56.00S,3,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,76,55,131,v,Omoruyi STEAL (2 STL),,,1,0,322
+22201169,442,PT05M54.00S,3,1610612765,DET,1630647,Omoruyi,E. Omoruyi,12,14,2,Missed,1,76,55,131,v,MISS Omoruyi 2' Running Layup,Missed Shot,Running Layup Shot,1,2,323
+22201169,442,PT05M54.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,76,55,131,h,Fultz BLOCK (2 BLK),,,1,2,324
+22201169,444,PT05M53.00S,3,0,,1610612765,,,0,0,0,,0,76,55,131,v,Pistons Rebound,Rebound,Unknown,0,0,325
+22201169,446,PT05M53.00S,3,0,,1610612753,,,0,0,0,,0,76,55,131,h,MAGIC Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,326
+22201169,447,PT05M53.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,76,55,131,h,SUB: Anthony FOR F. Wagner,Substitution,,0,0,327
+22201169,449,PT05M41.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,28,136,14,Made,1,76,57,133,v,Hayes 14' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,328
+22201169,452,PT05M19.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,76,57,133,h,Fultz Offensive Goaltending Turnover (P4.T12),Turnover,Offensive Goaltending,1,0,329
+22201169,453,PT05M04.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,51,151,16,Missed,1,76,57,133,v,MISS Ivey 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,330
+22201169,454,PT05M00.00S,3,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,76,57,133,h,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,331
+22201169,455,PT04M45.00S,3,1610612753,ORL,1630175,Anthony,C. Anthony,-210,144,25,Missed,1,76,57,133,h,MISS Anthony 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,332
+22201169,456,PT04M45.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,76,57,133,v,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,333
+22201169,458,PT04M39.00S,3,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,76,57,133,h,SUB: Suggs FOR Harris,Substitution,,0,0,334
+22201169,460,PT04M39.00S,3,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,76,57,133,v,SUB: Hampton FOR Livers,Substitution,,0,0,335
+22201169,462,PT04M37.00S,3,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,76,57,133,v,Omoruyi Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,336
+22201169,462,PT04M37.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,76,57,133,h,Fultz STEAL (1 STL),,,1,0,337
+22201169,464,PT04M33.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,28,8,3,Made,1,78,57,135,h,Fultz 3' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,1,2,338
+22201169,465,PT04M21.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,78,57,135,h,Suggs P.FOUL (P3.T1) (S.Wright),Foul,Personal,1,0,339
+22201169,467,PT04M11.00S,3,1610612765,DET,1630647,Omoruyi,E. Omoruyi,-230,-15,0,Made,1,78,60,138,v,Omoruyi 3PT Jump Shot (17 PTS) (Hayes 5 AST),Made Shot,Jump Shot,1,3,340
+22201169,469,PT03M47.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,188,176,26,Missed,1,78,60,138,h,MISS Banchero 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+22201169,470,PT03M45.00S,3,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,78,60,138,h,Anthony REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,342
+22201169,471,PT03M45.00S,3,1610612765,DET,1630181,Hampton,R. Hampton,0,0,0,,0,78,60,138,v,Hampton S.FOUL (P3.T3) (S.Wright),Foul,Shooting,1,0,343
+22201169,473,PT03M45.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,78,60,138,h,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,344
+22201169,474,PT03M45.00S,3,0,,1610612753,,,0,0,0,,0,78,60,138,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,345
+22201169,475,PT03M45.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,78,60,138,v,SUB: Joseph FOR Ivey,Substitution,,0,0,346
+22201169,477,PT03M45.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,79,60,139,h,Banchero Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,347
+22201169,478,PT03M28.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,-103,134,17,Missed,1,79,60,139,v,MISS Hayes 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,348
+22201169,479,PT03M23.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,79,60,139,v,Duren REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,349
+22201169,480,PT03M23.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,Missed,1,79,60,139,v,MISS Duren Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,350
+22201169,481,PT03M23.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,79,60,139,v,Duren REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,351
+22201169,482,PT03M20.00S,3,1610612765,DET,1631105,Duren,J. Duren,-4,22,2,Made,1,79,62,141,v,Duren 2' Dunk (4 PTS) (Omoruyi 2 AST),Made Shot,Dunk Shot,1,2,352
+22201169,484,PT03M06.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,-200,184,27,Missed,1,79,62,141,h,MISS Suggs 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+22201169,485,PT03M04.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,79,62,141,h,Carter Jr. REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,354
+22201169,486,PT03M04.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,79,62,141,v,Duren S.FOUL (P1.T4) (D.Richardson),Foul,Shooting,1,0,355
+22201169,488,PT03M04.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,80,62,142,h,Carter Jr. Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,356
+22201169,489,PT03M04.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,81,62,143,h,Carter Jr. Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,357
+22201169,490,PT02M55.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,81,62,143,h,Fultz P.FOUL (P1.T2) (S.Wright),Foul,Personal,1,0,358
+22201169,492,PT02M55.00S,3,0,,1610612765,,,0,0,0,,0,81,62,143,v,Pistons Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,359
+22201169,493,PT02M55.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,81,62,143,h,SUB: F. Wagner FOR Fultz,Substitution,,0,0,360
+22201169,494,PT02M55.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,81,62,143,h,SUB: Bitadze FOR Carter Jr.,Substitution,,0,0,361
+22201169,497,PT02M47.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,81,62,143,v,Duren OFF.Foul (P2) (D.Richardson),Foul,Offensive,1,0,362
+22201169,499,PT02M47.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,81,62,143,v,Duren Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,1,0,363
+22201169,500,PT02M26.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,-20,44,5,Made,1,83,62,145,h,Bitadze 5' Driving Reverse Layup (7 PTS) (F. Wagner 5 AST),Made Shot,Driving Reverse Layup Shot,1,2,364
+22201169,502,PT02M14.00S,3,1610612765,DET,202709,Joseph,C. Joseph,-201,164,26,Made,1,83,65,148,v,Joseph 26' 3PT Jump Shot (8 PTS) (Hayes 6 AST),Made Shot,Jump Shot,1,3,365
+22201169,504,PT02M05.00S,3,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,83,65,148,v,Joseph S.FOUL (P1.PN) (D.Richardson),Foul,Shooting,1,0,366
+22201169,506,PT02M05.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,84,65,149,h,Bitadze Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,367
+22201169,507,PT02M05.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,84,65,149,v,SUB: Rhoden FOR Hayes,Substitution,,0,0,368
+22201169,509,PT02M05.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,85,65,150,h,Bitadze Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,369
+22201169,510,PT01M49.00S,3,1610612765,DET,202709,Joseph,C. Joseph,75,247,26,Missed,1,85,65,150,v,MISS Joseph 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,370
+22201169,511,PT01M46.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,85,65,150,h,Suggs REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,371
+22201169,512,PT01M36.00S,3,1610612753,ORL,1630175,Anthony,C. Anthony,229,148,27,Made,1,88,65,153,h,Anthony 27' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,1,3,372
+22201169,513,PT01M16.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,88,65,153,h,Bitadze S.FOUL (P3.T3) (S.Wright),Foul,Shooting,1,0,373
+22201169,515,PT01M16.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,88,66,154,v,Duren Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,374
+22201169,516,PT01M16.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,88,66,154,v,MISS Duren Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,375
+22201169,517,PT01M14.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,88,66,154,h,F. Wagner REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,376
+22201169,518,PT01M05.00S,3,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,88,66,154,h,Anthony Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,377
+22201169,519,PT00M44.60S,3,1610612765,DET,1630181,Hampton,R. Hampton,-7,69,7,Made,1,88,68,156,v,Hampton 7' Driving Floating Jump Shot (2 PTS) (Joseph 1 AST),Made Shot,Driving Floating Jump Shot,1,2,378
+22201169,522,PT00M33.10S,3,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,88,68,156,v,Joseph S.FOUL (P2.PN) (D.Richardson),Foul,Shooting,1,0,379
+22201169,524,PT00M33.10S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,88,68,156,h,MISS F. Wagner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,380
+22201169,525,PT00M33.10S,3,0,,1610612753,,,0,0,0,,0,88,68,156,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,381
+22201169,526,PT00M33.10S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,88,68,156,h,SUB: M. Wagner FOR Banchero,Substitution,,0,0,382
+22201169,528,PT00M33.10S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,89,68,157,h,F. Wagner Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,383
+22201169,529,PT00M15.10S,3,1610612765,DET,1630647,Omoruyi,E. Omoruyi,32,61,7,Missed,1,89,68,157,v,MISS Omoruyi 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,384
+22201169,530,PT00M15.10S,3,0,,1610612753,,,0,0,0,,0,89,68,157,h,MAGIC Rebound,Rebound,Unknown,0,0,385
+22201169,532,PT00M00.90S,3,1610612753,ORL,1630175,Anthony,C. Anthony,-1,75,8,Made,1,91,68,159,h,Anthony 8' Fadeaway Jumper (12 PTS),Made Shot,Fadeaway Jump Shot,1,2,386
+22201169,533,PT00M00.00S,3,1610612765,DET,1630181,Hampton,R. Hampton,-211,345,40,Missed,1,91,68,159,v,MISS Hampton 40' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,387
+22201169,534,PT00M00.00S,3,0,,1610612765,,,0,0,0,,0,91,68,159,v,Pistons Rebound,Rebound,Unknown,0,0,388
+22201169,535,PT00M00.00S,3,0,,0,,,0,0,0,,0,91,68,159,,End of 3rd Period (8:10 PM EST),period,end,1,0,389
+22201169,538,PT12M00.00S,4,0,,0,,,0,0,0,,0,91,68,159,,Start of 4th Period (8:12 PM EST),period,start,0,0,390
+22201169,539,PT11M47.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,-2,20,2,Made,1,93,68,161,h,Bitadze 2' Cutting Dunk Shot (11 PTS) (F. Wagner 6 AST),Made Shot,Cutting Dunk Shot,1,2,391
+22201169,541,PT11M18.00S,4,1610612765,DET,1631105,Duren,J. Duren,5,20,2,Made,1,93,70,163,v,Duren 2' Cutting Layup Shot (7 PTS) (Livers 1 AST),Made Shot,Cutting Layup Shot,1,2,392
+22201169,543,PT10M57.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,232,44,24,Made,1,96,70,166,h,Suggs 24' 3PT Jump Shot (12 PTS) (F. Wagner 7 AST),Made Shot,Jump Shot,1,3,393
+22201169,545,PT10M43.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,96,70,166,h,Suggs P.FOUL (P4.T1) (B.Barnaky),Foul,Personal,1,0,394
+22201169,547,PT10M27.00S,4,1610612765,DET,202709,Joseph,C. Joseph,108,255,28,Missed,1,96,70,166,v,MISS Joseph 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,395
+22201169,548,PT10M25.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,96,70,166,h,Anthony REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,396
+22201169,549,PT10M11.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,10,89,9,Missed,1,96,70,166,h,MISS F. Wagner 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,397
+22201169,549,PT10M11.00S,4,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,96,70,166,v,Livers BLOCK (1 BLK),,,1,2,398
+22201169,551,PT10M11.00S,4,0,,1610612753,,,0,0,0,,0,96,70,166,h,MAGIC Rebound,Rebound,Unknown,0,0,399
+22201169,553,PT10M02.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,-135,71,15,Made,1,98,70,168,h,Anthony 15' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,400
+22201169,554,PT09M39.00S,4,1610612765,DET,1630181,Hampton,R. Hampton,25,150,15,Made,1,98,72,170,v,Hampton 15' Pullup Jump Shot (4 PTS) (Joseph 2 AST),Made Shot,Pullup Jump shot,1,2,401
+22201169,555,PT09M27.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,-232,-15,0,Missed,1,98,72,170,h,MISS F. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+22201169,556,PT09M25.00S,4,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,98,72,170,v,Livers REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,403
+22201169,557,PT09M22.00S,4,1610612765,DET,1631197,Rhoden,J. Rhoden,27,0,3,Made,1,98,74,172,v,Rhoden 3' Running Alley Oop Layup Shot (2 PTS) (Joseph 3 AST),Made Shot,Running Alley Oop Layup Shot,1,2,404
+22201169,559,PT09M04.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,-20,76,8,Missed,1,98,74,172,h,MISS Anthony 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,405
+22201169,560,PT09M04.00S,4,1610612765,DET,1630181,Hampton,R. Hampton,0,0,0,,0,98,74,172,v,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,406
+22201169,561,PT08M48.00S,4,1610612765,DET,1630181,Hampton,R. Hampton,47,262,27,Missed,1,98,74,172,v,MISS Hampton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+22201169,561,PT08M48.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,98,74,172,h,Suggs BLOCK (1 BLK),,,1,3,408
+22201169,563,PT08M48.00S,4,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,98,74,172,v,Livers REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,409
+22201169,564,PT08M48.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,98,74,172,h,Bitadze S.FOUL (P4.T2) (S.Wright),Foul,Shooting,1,0,410
+22201169,566,PT08M48.00S,4,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,98,75,173,v,Livers Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,411
+22201169,568,PT08M48.00S,4,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,98,76,174,v,Livers Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,412
+22201169,569,PT08M36.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,9,31,3,Made,1,100,76,176,h,Bitadze 3' Cutting Dunk Shot (13 PTS) (F. Wagner 8 AST),Made Shot,Cutting Dunk Shot,1,2,413
+22201169,571,PT08M25.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,100,76,176,h,Suggs P.FOUL (P5.T3) (S.Wright),Foul,Personal,1,0,414
+22201169,573,PT08M15.00S,4,1610612765,DET,1630587,Livers,I. Livers,229,15,0,Made,1,100,79,179,v,Livers 3PT Jump Shot (5 PTS) (Joseph 4 AST),Made Shot,Jump Shot,1,3,415
+22201169,575,PT07M54.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,208,168,27,Made,1,103,79,182,h,Suggs 27' 3PT Jump Shot (15 PTS) (Bitadze 2 AST),Made Shot,Jump Shot,1,3,416
+22201169,577,PT07M34.00S,4,1610612765,DET,1630587,Livers,I. Livers,-156,194,25,Made,1,103,82,185,v,Livers 25' 3PT Jump Shot (8 PTS) (Joseph 5 AST),Made Shot,Jump Shot,1,3,417
+22201169,579,PT07M20.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,-4,52,5,Made,1,105,82,187,h,M. Wagner 5' Hook Shot (2 PTS) (Bitadze 3 AST),Made Shot,Hook Shot,1,2,418
+22201169,581,PT07M20.00S,4,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,105,82,187,v,Livers S.FOUL (P4.T1) (S.Wright),Foul,Shooting,1,0,419
+22201169,583,PT07M20.00S,4,1610612765,DET,1630181,Hampton,R. Hampton,0,0,0,,0,105,82,187,v,SUB: Ivey FOR Hampton,Substitution,,0,0,420
+22201169,585,PT07M20.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,106,82,188,h,M. Wagner Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,421
+22201169,586,PT07M04.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,106,82,188,h,Bitadze S.FOUL (P5.T4) (S.Wright),Foul,Shooting,1,0,422
+22201169,588,PT07M04.00S,4,1610612765,DET,1631197,Rhoden,J. Rhoden,0,0,0,,0,106,83,189,v,Rhoden Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,423
+22201169,589,PT07M04.00S,4,1610612765,DET,1631197,Rhoden,J. Rhoden,0,0,0,,0,106,84,190,v,Rhoden Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,424
+22201169,590,PT06M50.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,143,95,17,Missed,1,106,84,190,h,MISS Anthony 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,425
+22201169,591,PT06M50.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,106,84,190,v,Ivey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,426
+22201169,596,PT06M50.00S,4,0,,0,,,0,0,0,,0,106,84,190,,Instant Replay4th Period (8:23 PM EST),Instant Replay,Altercation Ruling,0,0,427
+22201169,597,PT06M50.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,106,84,190,," Foul : Double Personal - Duren (3 PF), Bitadze (6 PF) (S.Wright)",Foul,Double Personal,1,0,428
+22201169,602,PT06M50.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,106,84,190,v,SUB: Wiseman FOR Duren,Substitution,,0,0,429
+22201169,600,PT06M50.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,106,84,190,,"Double Technical - Bitadze, Duren (S.Wright)",Foul,Double Technical,1,0,430
+22201169,608,PT06M50.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,106,84,190,h,SUB: Okeke FOR Bitadze,Substitution,,0,0,431
+22201169,604,PT06M36.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,106,84,190,v,Ivey Lost Ball Turnover (P4.T15),Turnover,Lost Ball,1,0,432
+22201169,604,PT06M36.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,106,84,190,h,Suggs STEAL (4 STL),,,1,0,433
+22201169,606,PT06M35.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,106,84,190,h,M. Wagner Out of Bounds Lost Ball Turnover (P1.T14),Turnover,Out of Bounds Lost Ball Turnover,1,0,434
+22201169,607,PT06M11.00S,4,1610612765,DET,1630587,Livers,I. Livers,-130,129,18,Made,1,106,86,192,v,Livers 18' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,2,435
+22201169,610,PT05M56.00S,4,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,106,86,192,v,Wiseman S.FOUL (P2.T2) (S.Wright),Foul,Shooting,1,0,436
+22201169,615,PT05M56.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,107,86,193,h,F. Wagner Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,437
+22201169,616,PT05M56.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,108,86,194,h,F. Wagner Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,438
+22201169,612,PT05M56.00S,4,0,,610,,,0,0,0,,0,108,86,194,,Instant Replay4th Period (8:27 PM EST),Instant Replay,Ruling Stands,0,0,439
+22201169,617,PT05M39.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,108,86,194,h,M. Wagner S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,1,0,440
+22201169,619,PT05M39.00S,4,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,108,87,195,v,Wiseman Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,441
+22201169,620,PT05M39.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,108,87,195,h,SUB: Houstan FOR F. Wagner,Substitution,,0,0,442
+22201169,622,PT05M39.00S,4,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,108,88,196,v,Wiseman Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,443
+22201169,623,PT05M37.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,108,88,196,v,Ivey P.FOUL (P4.T3) (S.Wright),Foul,Personal,1,0,444
+22201169,625,PT05M21.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,-230,-1,0,Made,1,111,88,199,h,M. Wagner 3PT Jump Shot (6 PTS) (Houstan 1 AST),Made Shot,Jump Shot,1,3,445
+22201169,627,PT05M13.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,111,88,199,h,Anthony P.FOUL (P3.PN) (S.Wright),Foul,Personal,1,0,446
+22201169,629,PT05M13.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,111,89,200,v,Ivey Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,447
+22201169,630,PT05M13.00S,4,1610612765,DET,1630587,Livers,I. Livers,0,0,0,,0,111,89,200,v,SUB: Boeheim FOR Livers,Substitution,,0,0,448
+22201169,631,PT05M13.00S,4,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,111,89,200,v,SUB: Hayes FOR Joseph,Substitution,,0,0,449
+22201169,634,PT05M13.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,111,90,201,v,Ivey Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,450
+22201169,635,PT05M01.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,37,37,5,Made,1,113,90,203,h,Suggs 5' Driving Layup (17 PTS) (M. Wagner 1 AST),Made Shot,Driving Layup Shot,1,2,451
+22201169,637,PT05M01.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,113,90,203,v,Hayes S.FOUL (P4.T4) (S.Wright),Foul,Shooting,1,0,452
+22201169,639,PT05M01.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,114,90,204,h,Suggs Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,453
+22201169,640,PT04M41.00S,4,1610612765,DET,1630164,Wiseman,J. Wiseman,6,56,6,Made,1,114,92,206,v,Wiseman 6' Floating Jump Shot (12 PTS) (Ivey 6 AST),Made Shot,Floating Jump shot,1,2,454
+22201169,642,PT04M24.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,-163,217,27,Missed,1,114,92,206,h,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,455
+22201169,643,PT04M22.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,114,92,206,h,Anthony REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,456
+22201169,644,PT04M15.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,132,217,25,Missed,1,114,92,206,h,MISS Suggs 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+22201169,645,PT04M15.00S,4,1610612765,DET,1631197,Rhoden,J. Rhoden,0,0,0,,0,114,92,206,v,Rhoden REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,458
+22201169,646,PT04M07.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,-138,230,27,Missed,1,114,92,206,v,MISS Ivey 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,459
+22201169,647,PT04M04.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,114,92,206,h,Anthony REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,460
+22201169,648,PT03M57.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,114,92,206,v,Ivey S.FOUL (P5.PN) (B.Barnaky),Foul,Shooting,1,0,461
+22201169,650,PT03M57.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,115,92,207,h,Anthony Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,462
+22201169,651,PT03M57.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,115,92,207,h,SUB: Schofield FOR Suggs,Substitution,,0,0,463
+22201169,652,PT03M57.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,115,92,207,v,SUB: Hampton FOR Ivey,Substitution,,0,0,464
+22201169,655,PT03M57.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,115,92,207,h,MISS Anthony Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,465
+22201169,656,PT03M54.00S,4,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,115,92,207,v,Wiseman REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,466
+22201169,657,PT03M42.00S,4,1610612765,DET,1630164,Wiseman,J. Wiseman,-91,206,23,Missed,1,115,92,207,v,MISS Wiseman 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,467
+22201169,658,PT03M39.00S,4,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,115,92,207,h,Okeke REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,468
+22201169,659,PT03M32.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,-33,26,4,Made,1,117,92,209,h,M. Wagner 4' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,1,2,469
+22201169,660,PT03M32.00S,4,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,117,92,209,v,Wiseman S.FOUL (P3.PN) (D.Richardson),Foul,Shooting,1,0,470
+22201169,662,PT03M32.00S,4,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,117,92,209,v,SUB: Omoruyi FOR Wiseman,Substitution,,0,0,471
+22201169,664,PT03M32.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,118,92,210,h,M. Wagner Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,472
+22201169,665,PT03M11.00S,4,1610612765,DET,1631205,Boeheim,B. Boeheim,34,46,6,Made,1,118,94,212,v,Boeheim 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,473
+22201169,666,PT02M55.00S,4,1610612753,ORL,1629678,Schofield,A. Schofield,-140,225,27,Missed,1,118,94,212,h,MISS Schofield 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,474
+22201169,667,PT02M52.00S,4,1610612765,DET,1631205,Boeheim,B. Boeheim,0,0,0,,0,118,94,212,v,Boeheim REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,475
+22201169,668,PT02M42.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,-125,24,13,Missed,1,118,94,212,v,MISS Hayes 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,476
+22201169,669,PT02M40.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,118,94,212,h,Anthony REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,477
+22201169,670,PT02M33.00S,4,1610612765,DET,1631205,Boeheim,B. Boeheim,0,0,0,,0,118,94,212,v,Boeheim S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,1,0,478
+22201169,672,PT02M33.00S,4,0,,1610612765,,,0,0,0,,0,118,94,212,v,Pistons Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,479
+22201169,673,PT02M33.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,119,94,213,h,Anthony Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,480
+22201169,674,PT02M33.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,120,94,214,h,Anthony Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,481
+22201169,675,PT02M32.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,120,94,214,h,Anthony Personal Take Foul (P4.PN) (D.Richardson),Foul,Personal Take,1,0,482
+22201169,677,PT02M32.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,120,94,214,h,SUB: Scrubb FOR Anthony,Substitution,,0,0,483
+22201169,679,PT02M32.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,120,95,215,v,Hayes Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,484
+22201169,680,PT02M32.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,120,96,216,v,Hayes Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,485
+22201169,681,PT02M18.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,-5,34,3,Made,1,122,96,218,h,M. Wagner 3' Cutting Dunk Shot (11 PTS) (Houstan 2 AST),Made Shot,Cutting Dunk Shot,1,2,486
+22201169,683,PT02M01.00S,4,1610612765,DET,1630647,Omoruyi,E. Omoruyi,26,241,24,Missed,1,122,96,218,v,MISS Omoruyi 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,487
+22201169,684,PT01M58.00S,4,1610612753,ORL,1630206,Scrubb,J. Scrubb,0,0,0,,0,122,96,218,h,Scrubb REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,488
+22201169,685,PT01M54.00S,4,1610612753,ORL,1630206,Scrubb,J. Scrubb,-17,17,2,Made,1,124,96,220,h,Scrubb 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,489
+22201169,686,PT01M47.00S,4,1610612753,ORL,1630206,Scrubb,J. Scrubb,0,0,0,,0,124,96,220,h,Scrubb P.FOUL (P1.PN) (D.Richardson),Foul,Personal,1,0,490
+22201169,688,PT01M47.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,124,97,221,v,Hayes Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,491
+22201169,689,PT01M47.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,124,97,221,h,SUB: Carter-Williams FOR M. Wagner,Substitution,,0,0,492
+22201169,691,PT01M47.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,124,98,222,v,Hayes Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,493
+22201169,692,PT01M30.00S,4,1610612753,ORL,1629643,Okeke,C. Okeke,-186,190,27,Made,1,127,98,225,h,Okeke 27' 3PT Jump Shot (3 PTS) (Schofield 1 AST),Made Shot,Jump Shot,1,3,494
+22201169,694,PT01M30.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,127,98,225,v,Hayes Inbound Turnover (P5.T16),Turnover,Inbound Turnover,1,0,495
+22201169,695,PT01M16.00S,4,1610612765,DET,1630647,Omoruyi,E. Omoruyi,0,0,0,,0,127,98,225,v,Omoruyi S.FOUL (P2.PN) (S.Wright),Foul,Shooting,1,0,496
+22201169,697,PT01M16.00S,4,1610612753,ORL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,127,98,225,h,MISS Carter-Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,497
+22201169,698,PT01M16.00S,4,0,,1610612753,,,0,0,0,,0,127,98,225,h,MAGIC Rebound,Rebound,Normal Rebound,0,0,498
+22201169,699,PT01M16.00S,4,1610612753,ORL,203487,Carter-Williams,M. Carter-Williams,0,0,0,,0,128,98,226,h,Carter-Williams Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,499
+22201169,700,PT01M06.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,11,25,3,Made,1,128,100,228,v,Hayes 3' Driving Finger Roll Layup (20 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,500
+22201169,701,PT00M42.00S,4,0,,1610612753,,,0,0,0,,0,128,100,228,h,MAGIC Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,0,0,501
+22201169,702,PT00M42.00S,4,0,,1610612753,,,0,0,0,,0,128,100,228,h,MAGIC Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,502
+22201169,703,PT00M42.00S,4,1610612753,ORL,1629678,Schofield,A. Schofield,0,0,0,,0,128,100,228,h,SUB: M. Wagner FOR Schofield,Substitution,,0,0,503
+22201169,705,PT00M24.40S,4,1610612765,DET,1630647,Omoruyi,E. Omoruyi,-17,4,2,Made,1,128,102,230,v,Omoruyi 2' Driving Layup (19 PTS) (Hayes 7 AST),Made Shot,Driving Layup Shot,1,2,504
+22201169,707,PT00M01.50S,4,0,,1610612753,,,0,0,0,,0,128,102,230,h,MAGIC Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,0,0,505
+22201169,709,PT00M00.00S,4,0,,0,,,0,0,0,,0,128,102,230,,End of 4th Period (8:48 PM EST),period,end,1,0,506

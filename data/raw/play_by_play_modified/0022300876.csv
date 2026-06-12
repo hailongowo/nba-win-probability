@@ -1,0 +1,427 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22300876,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:14 PM EST),period,start,0,0,1
+22300876,4,PT12M00.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,0,0,0,h,Jump Ball Allen vs. Hartenstein: Tip to Mobley,Jump Ball,,1,0,2
+22300876,7,PT11M45.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,2,13,1,Made,1,2,0,2,h,Okoro 1' Layup (2 PTS) (Mobley 1 AST),Made Shot,Layup Shot,1,2,3
+22300876,9,PT11M25.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-40,103,11,Missed,1,2,0,2,v,MISS Brunson 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,4
+22300876,10,PT11M23.00S,1,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,2,0,2,v,Achiuwa REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,5
+22300876,11,PT11M19.00S,1,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,2,0,2,v,Achiuwa Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,6
+22300876,11,PT11M19.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,2,0,2,h,Okoro STEAL (1 STL),,,1,0,7
+22300876,13,PT11M16.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,2,0,2,h,Okoro Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,8
+22300876,13,PT11M16.00S,1,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,2,0,2,v,Achiuwa STEAL (1 STL),,,1,0,9
+22300876,15,PT11M13.00S,1,0,,1610612752,,,0,0,0,,0,2,0,2,v,Knicks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,10
+22300876,16,PT11M13.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,2,0,2,v,SUB: McBride FOR Brunson,Substitution,,0,0,11
+22300876,18,PT10M57.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,224,13,0,Made,1,2,3,5,v,DiVincenzo 3PT Jump Shot (3 PTS) (Hartenstein 1 AST),Made Shot,Jump Shot,1,3,12
+22300876,20,PT10M39.00S,1,1610612739,CLE,1629622,Strus,M. Strus,130,233,27,Missed,1,2,3,5,h,MISS Strus 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,13
+22300876,21,PT10M36.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,2,3,5,v,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+22300876,22,PT10M34.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,2,3,5,v,Hartenstein Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,15
+22300876,22,PT10M34.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,2,3,5,h,Strus STEAL (1 STL),,,1,0,16
+22300876,24,PT10M25.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,2,3,5,h,Allen Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,17
+22300876,24,PT10M25.00S,1,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,2,3,5,v,Achiuwa STEAL (2 STL),,,1,0,18
+22300876,26,PT10M22.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,2,3,5,h,Okoro P.FOUL (P1.T1) (B.Barnaky),Foul,Personal,1,0,19
+22300876,28,PT10M10.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,2,3,5,h,Mobley S.FOUL (P1.T2) (B.Forte),Foul,Shooting,1,0,20
+22300876,30,PT10M10.00S,1,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,2,3,5,v,MISS Achiuwa Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,21
+22300876,31,PT10M10.00S,1,0,,1610612752,,,0,0,0,,0,2,3,5,v,Knicks Rebound,Rebound,Normal Rebound,1,0,22
+22300876,32,PT10M10.00S,1,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,2,3,5,v,MISS Achiuwa Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,23
+22300876,33,PT10M10.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,2,3,5,v,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,24
+22300876,117,PT10M10.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,-47,6,5,Missed,1,2,3,5,v,MISS Hartenstein 5' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,2,25
+22300876,118,PT10M10.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,2,3,5,h,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,26
+22300876,35,PT09M58.00S,1,1610612739,CLE,1629636,Garland,D. Garland,34,90,10,Missed,1,2,3,5,h,MISS Garland 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,27
+22300876,36,PT09M55.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,2,3,5,v,Hart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+22300876,37,PT09M48.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,-18,14,2,Made,1,2,5,7,v,Hartenstein 2' Turnaround Bank Shot (2 PTS) (Hart 1 AST),Made Shot,Turnaround Bank shot,1,2,29
+22300876,39,PT09M37.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,2,5,7,v,DiVincenzo P.FOUL (P1.T1) (D.Collins),Foul,Personal,1,0,30
+22300876,41,PT09M28.00S,1,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,2,5,7,v,McBride P.FOUL (P1.T2) (D.Collins),Foul,Personal,1,0,31
+22300876,43,PT09M20.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-87,2,9,Missed,1,2,5,7,h,MISS Allen 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,32
+22300876,44,PT09M18.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,2,5,7,v,Hart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,33
+22300876,45,PT09M10.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-235,-27,24,Missed,1,2,5,7,v,MISS DiVincenzo 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,34
+22300876,46,PT09M07.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,2,5,7,h,Garland REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,35
+22300876,47,PT08M51.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,2,5,7,v,Hartenstein S.FOUL (P1.T3) (B.Forte),Foul,Shooting,1,0,36
+22300876,49,PT08M51.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,3,5,8,h,Mobley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,37
+22300876,50,PT08M51.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,3,5,8,h,MISS Mobley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,38
+22300876,51,PT08M50.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,3,5,8,v,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,39
+22300876,52,PT08M37.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,3,5,8,h,Mobley Violation:Kicked Ball (B.Forte),Violation,Kicked Ball,0,0,40
+22300876,53,PT08M23.00S,1,0,,1610612752,,,0,0,0,,0,3,5,8,v,Knicks Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,1,0,41
+22300876,54,PT08M08.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,-174,209,27,Made,1,6,5,11,h,Okoro 27' 3PT Jump Shot (5 PTS) (Strus 1 AST),Made Shot,Jump Shot,1,3,42
+22300876,56,PT07M47.00S,1,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,72,137,15,Missed,1,6,5,11,v,MISS Achiuwa 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,43
+22300876,57,PT07M44.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,6,5,11,h,Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,44
+22300876,58,PT07M33.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,43,13,4,Made,1,8,5,13,h,Mobley 4' Driving Floating Bank Jump Shot (3 PTS) (Allen 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,45
+22300876,60,PT07M13.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,33,145,15,Made,1,8,7,15,v,DiVincenzo 15' Pullup Jump Shot (5 PTS) (Hartenstein 2 AST),Made Shot,Pullup Jump shot,1,2,46
+22300876,62,PT06M57.00S,1,1610612739,CLE,1628386,Allen,J. Allen,4,4,1,Made,1,10,7,17,h,Allen 1' Dunk (2 PTS) (Okoro 1 AST),Made Shot,Dunk Shot,1,2,47
+22300876,64,PT06M36.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,-10,15,2,Missed,1,10,7,17,v,MISS Hartenstein 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,48
+22300876,65,PT06M33.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,10,7,17,h,Mobley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,49
+22300876,66,PT06M25.00S,1,1610612739,CLE,1629636,Garland,D. Garland,33,116,12,Made,1,12,7,19,h,Garland 12' Pullup Jump Shot (2 PTS) (Mobley 2 AST),Made Shot,Pullup Jump shot,1,2,50
+22300876,68,PT06M19.00S,1,0,,1610612752,,,0,0,0,,0,12,7,19,v,Knicks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,51
+22300876,69,PT06M19.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,12,7,19,h,SUB: Wade FOR Mobley,Substitution,,0,0,52
+22300876,70,PT06M19.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,12,7,19,v,SUB: Sims FOR Hartenstein,Substitution,,0,0,53
+22300876,73,PT06M10.00S,1,1610612752,NYK,1630540,McBride,M. McBride,13,159,16,Made,1,12,9,21,v,McBride 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,54
+22300876,74,PT05M57.00S,1,1610612739,CLE,1628386,Allen,J. Allen,2,22,2,Missed,1,12,9,21,h,MISS Allen 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,55
+22300876,74,PT05M57.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,12,9,21,v,Sims BLOCK (1 BLK),,,1,2,56
+22300876,75,PT05M55.00S,1,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,12,9,21,v,Achiuwa REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,57
+22300876,76,PT05M46.00S,1,1610612752,NYK,1628404,Hart,J. Hart,-181,174,25,Made,1,12,12,24,v,Hart 25' 3PT Jump Shot (3 PTS) (Sims 1 AST),Made Shot,Jump Shot,1,3,58
+22300876,78,PT05M26.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,12,12,24,h,Strus Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,59
+22300876,78,PT05M26.00S,1,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,12,12,24,v,Sims STEAL (1 STL),,,1,0,60
+22300876,81,PT05M18.00S,1,1610612752,NYK,1630540,McBride,M. McBride,230,16,0,Missed,1,12,12,24,v,MISS McBride 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,61
+22300876,82,PT05M14.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,12,12,24,h,Okoro REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+22300876,83,PT05M07.00S,1,1610612739,CLE,1629622,Strus,M. Strus,233,74,24,Missed,1,12,12,24,h,MISS Strus 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,63
+22300876,84,PT05M05.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,12,12,24,v,Hart REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,64
+22300876,85,PT04M59.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,201,253,32,Made,1,12,15,27,v,DiVincenzo 32' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,65
+22300876,86,PT04M39.00S,1,1610612739,CLE,1629622,Strus,M. Strus,21,8,2,Missed,1,12,15,27,h,MISS Strus 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,66
+22300876,86,PT04M39.00S,1,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,12,15,27,v,Achiuwa BLOCK (1 BLK),,,1,2,67
+22300876,88,PT04M36.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,12,15,27,v,Hart REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,68
+22300876,89,PT04M32.00S,1,1610612752,NYK,1630540,McBride,M. McBride,238,105,26,Made,1,12,18,30,v,McBride 26' 3PT Jump Shot (5 PTS) (Hart 2 AST),Made Shot,Jump Shot,1,3,69
+22300876,91,PT04M30.00S,1,0,,1610612739,,,0,0,0,,0,12,18,30,h,CAVALIERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,70
+22300876,92,PT04M30.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,12,18,30,h,SUB: Merrill FOR Strus,Substitution,,0,0,71
+22300876,93,PT04M30.00S,1,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,12,18,30,v,SUB: Bogdanovic FOR Achiuwa,Substitution,,0,0,72
+22300876,96,PT04M15.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-38,257,26,Missed,1,12,18,30,h,MISS Garland 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+22300876,97,PT04M13.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,12,18,30,v,Hart REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,74
+22300876,98,PT04M01.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,69,21,7,Made,1,12,20,32,v,DiVincenzo 7' Driving Floating Bank Jump Shot (10 PTS) (Hart 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,75
+22300876,100,PT03M51.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,143,217,26,Made,1,15,20,35,h,Okoro 26' 3PT Jump Shot (8 PTS) (Allen 2 AST),Made Shot,Jump Shot,1,3,76
+22300876,102,PT03M30.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-223,85,24,Missed,1,15,20,35,v,MISS DiVincenzo 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+22300876,103,PT03M27.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,15,20,35,h,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+22300876,104,PT03M19.00S,1,1610612739,CLE,1628386,Allen,J. Allen,6,7,1,Made,1,17,20,37,h,Allen 1' Alley Oop Dunk (4 PTS) (Garland 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,79
+22300876,106,PT02M50.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,17,20,37,v,Hart Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,80
+22300876,106,PT02M50.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,17,20,37,h,Garland STEAL (1 STL),,,1,0,81
+22300876,108,PT02M44.00S,1,1610612739,CLE,1629731,Wade,D. Wade,-239,47,24,Missed,1,17,20,37,h,MISS Wade 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,82
+22300876,109,PT02M41.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,17,20,37,h,Okoro REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,83
+22300876,110,PT02M38.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-194,178,26,Missed,1,17,20,37,h,MISS Garland 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,84
+22300876,111,PT02M35.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,17,20,37,v,Hart REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,85
+22300876,112,PT02M23.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-4,6,1,Made,1,17,22,39,v,DiVincenzo 1' Driving Reverse Layup (12 PTS) (Hart 4 AST),Made Shot,Driving Reverse Layup Shot,1,2,86
+22300876,113,PT02M10.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-109,230,25,Missed,1,17,22,39,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+22300876,114,PT02M08.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,17,22,39,v,DiVincenzo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,88
+22300876,115,PT02M06.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,17,22,39,h,Merrill P.FOUL (P1.T3) (D.Collins),Foul,Personal,1,0,89
+22300876,119,PT02M06.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,17,22,39,h,SUB: Strus FOR Allen,Substitution,,0,0,90
+22300876,120,PT02M06.00S,1,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,17,22,39,h,SUB: Mobley FOR Wade,Substitution,,0,0,91
+22300876,121,PT02M06.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,17,22,39,h,SUB: Niang FOR Okoro,Substitution,,0,0,92
+22300876,125,PT01M58.00S,1,1610612752,NYK,202711,Bogdanović,B. Bogdanović,87,104,14,Missed,1,17,22,39,v,MISS Bogdanovic 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,93
+22300876,127,PT01M58.00S,1,0,,1610612752,,,0,0,0,,0,17,22,39,v,Knicks Rebound,Rebound,Unknown,1,0,94
+22300876,129,PT01M49.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,1,63,6,Missed,1,17,22,39,v,MISS DiVincenzo 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,95
+22300876,130,PT01M48.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,17,22,39,h,Mobley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,96
+22300876,132,PT01M47.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,17,22,39,h,Mobley Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,97
+22300876,132,PT01M47.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,17,22,39,v,Hart STEAL (1 STL),,,1,0,98
+22300876,133,PT01M43.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,67,240,25,Missed,1,17,22,39,v,MISS DiVincenzo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+22300876,134,PT01M42.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,17,22,39,v,DiVincenzo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,100
+22300876,135,PT01M37.00S,1,1610612752,NYK,1630540,McBride,M. McBride,222,3,0,Made,1,17,25,42,v,McBride 3PT Jump Shot (8 PTS) (DiVincenzo 1 AST),Made Shot,Jump Shot,1,3,101
+22300876,137,PT01M15.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,-1,64,6,Missed,1,17,25,42,h,MISS Mobley 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,102
+22300876,139,PT01M15.00S,1,1610612752,NYK,202711,Bogdanović,B. Bogdanović,0,0,0,,0,17,25,42,v,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,103
+22300876,140,PT01M06.00S,1,1610612752,NYK,1628404,Hart,J. Hart,201,151,25,Made,1,17,28,45,v,Hart 25' 3PT Jump Shot (6 PTS) (Bogdanovic 1 AST),Made Shot,Jump Shot,1,3,104
+22300876,142,PT00M58.60S,1,1610612739,CLE,1630596,Mobley,E. Mobley,12,2,1,Made,1,19,28,47,h,Mobley 1' Cutting Dunk Shot (5 PTS) (Garland 2 AST),Made Shot,Cutting Dunk Shot,1,2,105
+22300876,145,PT00M43.50S,1,1610612752,NYK,202711,Bogdanović,B. Bogdanović,-114,222,25,Missed,1,19,28,47,v,MISS Bogdanovic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,106
+22300876,146,PT00M36.60S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,19,28,47,h,Mobley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,107
+22300876,147,PT00M34.40S,1,1610612739,CLE,1629622,Strus,M. Strus,151,191,24,Missed,1,19,28,47,h,MISS Strus 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,108
+22300876,148,PT00M30.60S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,19,28,47,h,Niang REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,109
+22300876,149,PT00M18.20S,1,1610612739,CLE,1629622,Strus,M. Strus,6,13,1,Missed,1,19,28,47,h,MISS Strus 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,110
+22300876,149,PT00M18.20S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,19,28,47,v,Hart BLOCK (1 BLK),,,1,2,111
+22300876,151,PT00M13.50S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,19,28,47,v,DiVincenzo REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,112
+22300876,152,PT00M01.50S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,28,59,7,Missed,1,19,28,47,v,MISS DiVincenzo 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,113
+22300876,153,PT00M01.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,19,28,47,h,Strus REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+22300876,154,PT00M00.00S,1,0,,0,,,0,0,0,,0,19,28,47,,End of 1st Period (7:40 PM EST),period,end,1,0,115
+22300876,159,PT12M00.00S,2,0,,0,,,0,0,0,,0,19,28,47,,Start of 2nd Period (7:43 PM EST),period,start,0,0,116
+22300876,160,PT11M42.00S,2,1610612752,NYK,202711,Bogdanović,B. Bogdanović,-15,14,2,Made,1,19,30,49,v,Bogdanovic 2' Driving Layup (2 PTS) (Burks 1 AST),Made Shot,Driving Layup Shot,1,2,117
+22300876,162,PT11M26.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-125,223,26,Made,1,22,30,52,h,Merrill 26' 3PT Jump Shot (3 PTS) (Strus 2 AST),Made Shot,Jump Shot,1,3,118
+22300876,164,PT10M59.00S,2,1610612752,NYK,1630540,McBride,M. McBride,-152,82,17,Missed,1,22,30,52,v,MISS McBride 17' Jump Shot,Missed Shot,Jump Shot,1,2,119
+22300876,165,PT10M56.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,22,30,52,h,Merrill REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,120
+22300876,166,PT10M39.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,-12,68,7,Made,1,24,30,54,h,Mobley 7' Hook Shot (7 PTS) (Merrill 1 AST),Made Shot,Hook Shot,1,2,121
+22300876,168,PT10M27.00S,2,1610612752,NYK,1630540,McBride,M. McBride,1,11,1,Made,1,24,32,56,v,McBride 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,122
+22300876,169,PT10M13.00S,2,1610612739,CLE,1627777,Niang,G. Niang,-208,154,26,Missed,1,24,32,56,h,MISS Niang 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+22300876,170,PT10M11.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,24,32,56,v,Hart REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,124
+22300876,171,PT09M56.00S,2,1610612752,NYK,1628404,Hart,J. Hart,135,13,14,Missed,1,24,32,56,v,MISS Hart 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,125
+22300876,172,PT09M54.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,24,32,56,h,Niang REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,126
+22300876,173,PT09M49.00S,2,1610612739,CLE,1627777,Niang,G. Niang,16,12,2,Missed,1,24,32,56,h,MISS Niang 2' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,127
+22300876,174,PT09M47.00S,2,1610612752,NYK,202711,Bogdanović,B. Bogdanović,0,0,0,,0,24,32,56,v,Bogdanovic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,128
+22300876,253,PT09M47.00S,2,1610612752,NYK,202711,Bogdanović,B. Bogdanović,0,0,0,,0,24,32,56,v,Bogdanovic Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,129
+22300876,253,PT09M47.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,24,32,56,h,Porter Jr. STEAL (1 STL),,,1,0,130
+22300876,175,PT09M42.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,-38,254,26,Missed,1,24,32,56,h,MISS Mobley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+22300876,176,PT09M39.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,24,32,56,v,Hart REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,132
+22300876,177,PT09M33.00S,2,1610612752,NYK,202692,Burks,A. Burks,-58,247,25,Missed,1,24,32,56,v,MISS Burks 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,133
+22300876,178,PT09M30.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,24,32,56,h,Mobley REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,134
+22300876,179,PT09M23.00S,2,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,24,32,56,v,Sims P.FOUL (P1.T1) (B.Barnaky),Foul,Personal,1,0,135
+22300876,181,PT09M23.00S,2,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,24,32,56,v,SUB: Hartenstein FOR Sims,Substitution,,0,0,136
+22300876,183,PT09M17.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,143,205,25,Made,1,27,32,59,h,Merrill 25' 3PT Jump Shot (6 PTS) (Mobley 3 AST),Made Shot,Jump Shot,1,3,137
+22300876,185,PT09M05.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,27,32,59,h,Mobley S.FOUL (P2.T1) (B.Barnaky),Foul,Shooting,1,0,138
+22300876,187,PT09M05.00S,2,1610612752,NYK,202692,Burks,A. Burks,0,0,0,,0,27,33,60,v,Burks Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,139
+22300876,188,PT09M05.00S,2,1610612752,NYK,202692,Burks,A. Burks,0,0,0,,0,27,34,61,v,Burks Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,140
+22300876,189,PT08M42.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,4,154,15,Made,1,29,34,63,h,Porter Jr. 15' Step Back Jump Shot (2 PTS) (Merrill 2 AST),Made Shot,Step Back Jump shot,1,2,141
+22300876,191,PT08M26.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,-28,10,3,Made,1,29,36,65,v,Hartenstein 3' Driving Layup (4 PTS) (Hart 5 AST),Made Shot,Driving Layup Shot,1,2,142
+22300876,192,PT08M16.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-50,42,7,Missed,1,29,36,65,h,MISS Porter Jr. 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,143
+22300876,193,PT08M14.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,29,36,65,v,Hartenstein REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,144
+22300876,195,PT08M04.00S,2,1610612752,NYK,202711,Bogdanović,B. Bogdanović,49,169,18,Made,1,29,38,67,v,Bogdanovic 18' Step Back Jump Shot (4 PTS) (Hartenstein 3 AST),Made Shot,Step Back Jump shot,1,2,145
+22300876,197,PT07M51.00S,2,1610612739,CLE,1627777,Niang,G. Niang,233,63,24,Missed,1,29,38,67,h,MISS Niang 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,146
+22300876,198,PT07M48.00S,2,1610612752,NYK,202692,Burks,A. Burks,0,0,0,,0,29,38,67,v,Burks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,147
+22300876,199,PT07M39.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,29,38,67,h,Mobley S.FOUL (P3.T2) (B.Forte),Foul,Shooting,1,0,148
+22300876,201,PT07M39.00S,2,1610612752,NYK,202692,Burks,A. Burks,0,0,0,,0,29,38,67,v,MISS Burks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,149
+22300876,202,PT07M39.00S,2,0,,1610612752,,,0,0,0,,0,29,38,67,v,Knicks Rebound,Rebound,Normal Rebound,0,0,150
+22300876,203,PT07M39.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,29,38,67,h,SUB: Allen FOR Strus,Substitution,,0,0,151
+22300876,204,PT07M39.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,29,38,67,h,SUB: Okoro FOR Mobley,Substitution,,0,0,152
+22300876,205,PT07M39.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,29,38,67,v,SUB: DiVincenzo FOR Hart,Substitution,,0,0,153
+22300876,209,PT07M39.00S,2,1610612752,NYK,202692,Burks,A. Burks,0,0,0,,0,29,39,68,v,Burks Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,154
+22300876,210,PT07M24.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,29,39,68,h,Niang Backcourt Turnover (P1.T5),Turnover,Backcourt Turnover,1,0,155
+22300876,211,PT07M24.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,29,39,68,h,SUB: Garland FOR Porter Jr.,Substitution,,0,0,156
+22300876,213,PT07M16.00S,2,1610612752,NYK,202711,Bogdanović,B. Bogdanović,-49,74,9,Made,1,29,41,70,v,Bogdanovic 9' Fadeaway Jumper (6 PTS) (Hartenstein 4 AST),Made Shot,Fadeaway Jump Shot,1,2,157
+22300876,215,PT07M01.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-235,6,24,Made,1,32,41,73,h,Merrill 24' 3PT Jump Shot (9 PTS) (Niang 1 AST),Made Shot,Jump Shot,1,3,158
+22300876,217,PT06M33.00S,2,1610612752,NYK,202711,Bogdanović,B. Bogdanović,-10,104,10,Made,1,32,43,75,v,Bogdanovic 10' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,1,2,159
+22300876,218,PT06M22.00S,2,1610612752,NYK,202711,Bogdanović,B. Bogdanović,0,0,0,,0,32,43,75,v,Bogdanovic P.FOUL (P1.T2) (B.Forte),Foul,Personal,1,0,160
+22300876,220,PT06M22.00S,2,0,,1610612739,,,0,0,0,,0,32,43,75,h,CAVALIERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,161
+22300876,221,PT06M22.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,32,43,75,h,SUB: Wade FOR Niang,Substitution,,0,0,162
+22300876,223,PT06M13.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,28,254,26,Made,1,35,43,78,h,Merrill 26' 3PT Jump Shot (12 PTS) (Allen 3 AST),Made Shot,Jump Shot,1,3,163
+22300876,225,PT05M55.00S,2,1610612752,NYK,1630540,McBride,M. McBride,-65,19,7,Missed,1,35,43,78,v,MISS McBride 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,164
+22300876,226,PT05M53.00S,2,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,35,43,78,h,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,165
+22300876,227,PT05M44.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,227,47,0,Made,1,38,43,81,h,Okoro 3PT Jump Shot (11 PTS) (Wade 1 AST),Made Shot,Jump Shot,1,3,166
+22300876,229,PT05M28.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,130,260,29,Missed,1,38,43,81,v,MISS DiVincenzo 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,167
+22300876,230,PT05M24.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,38,43,81,h,Garland REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,168
+22300876,231,PT05M12.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,10,1,Made,1,40,43,83,h,Allen 1' Layup (6 PTS) (Garland 3 AST),Made Shot,Layup Shot,1,2,169
+22300876,233,PT05M01.00S,2,0,,1610612752,,,0,0,0,,0,40,43,83,v,Knicks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,170
+22300876,234,PT05M01.00S,2,1610612752,NYK,202692,Burks,A. Burks,0,0,0,,0,40,43,83,v,SUB: Hart FOR Burks,Substitution,,0,0,171
+22300876,236,PT04M52.00S,2,1610612752,NYK,202711,Bogdanović,B. Bogdanović,-176,26,18,Missed,1,40,43,83,v,MISS Bogdanovic 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,172
+22300876,236,PT04M52.00S,2,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,40,43,83,h,Wade BLOCK (1 BLK),,,1,2,173
+22300876,238,PT04M52.00S,2,0,,1610612739,,,0,0,0,,0,40,43,83,h,CAVALIERS Rebound,Rebound,Unknown,1,0,174
+22300876,240,PT04M43.00S,2,1610612739,CLE,1629731,Wade,D. Wade,212,132,25,Missed,1,40,43,83,h,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,175
+22300876,241,PT04M40.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,40,43,83,v,DiVincenzo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,176
+22300876,242,PT04M28.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,48,75,9,Made,1,40,45,85,v,Hartenstein 9' Floating Jump Shot (6 PTS) (Hart 6 AST),Made Shot,Floating Jump shot,1,2,177
+22300876,244,PT04M07.00S,2,1610612739,CLE,1628386,Allen,J. Allen,2,4,0,Made,1,42,45,87,h,Allen Layup (8 PTS) (Okoro 2 AST),Made Shot,Layup Shot,1,2,178
+22300876,247,PT03M43.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,42,45,87,v,SUB: Achiuwa FOR Hartenstein,Substitution,,0,0,179
+22300876,249,PT03M39.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-5,10,1,Made,1,42,47,89,v,Achiuwa 1' Cutting Dunk Shot (2 PTS) (McBride 1 AST),Made Shot,Cutting Dunk Shot,1,2,180
+22300876,251,PT03M17.00S,2,1610612739,CLE,1628386,Allen,J. Allen,-23,54,6,Made,1,44,47,91,h,Allen 6' Turnaround Hook Shot (10 PTS) (Okoro 3 AST),Made Shot,Turnaround Hook Shot,1,2,181
+22300876,255,PT03M08.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,44,47,91,v,DiVincenzo Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,182
+22300876,255,PT03M08.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,44,47,91,h,Okoro STEAL (2 STL),,,1,0,183
+22300876,257,PT03M05.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,6,-8,1,Missed,1,44,47,91,h,MISS Okoro 1' Running Layup,Missed Shot,Running Layup Shot,1,2,184
+22300876,259,PT03M00.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,44,47,91,v,Hart REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,185
+22300876,260,PT02M55.00S,2,1610612752,NYK,1630540,McBride,M. McBride,-2,20,2,Missed,1,44,47,91,v,MISS McBride 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,186
+22300876,261,PT02M53.00S,2,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,44,47,91,h,Wade REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,187
+22300876,262,PT02M47.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-44,309,31,Missed,1,44,47,91,h,MISS Merrill 31' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,188
+22300876,263,PT02M45.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,44,47,91,h,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,189
+22300876,264,PT02M45.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,44,47,91,v,DiVincenzo S.FOUL (P2.T3) (D.Collins),Foul,Shooting,1,0,190
+22300876,266,PT02M45.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,44,47,91,h,MISS Allen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,191
+22300876,267,PT02M45.00S,2,0,,1610612739,,,0,0,0,,0,44,47,91,h,CAVALIERS Rebound,Rebound,Normal Rebound,1,0,192
+22300876,268,PT02M45.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,45,47,92,h,Allen Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,193
+22300876,269,PT02M26.00S,2,1610612752,NYK,202711,Bogdanović,B. Bogdanović,-59,31,7,Made,1,45,49,94,v,Bogdanovic 7' Fadeaway Bank Shot (10 PTS) (McBride 2 AST),Made Shot,Fadeaway Bank shot,1,2,194
+22300876,270,PT02M09.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-178,220,28,Made,1,48,49,97,h,Garland 28' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,195
+22300876,272,PT01M58.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,48,49,97,h,SUB: Strus FOR Merrill,Substitution,,0,0,196
+22300876,274,PT01M47.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,240,83,25,Missed,1,48,49,97,v,MISS DiVincenzo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+22300876,275,PT01M44.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,48,49,97,h,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,198
+22300876,276,PT01M35.00S,2,1610612739,CLE,1629636,Garland,D. Garland,6,4,1,Missed,1,48,49,97,h,MISS Garland 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,199
+22300876,276,PT01M35.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,48,49,97,v,Achiuwa BLOCK (2 BLK),,,1,2,200
+22300876,278,PT01M35.00S,2,0,,1610612739,,,0,0,0,,0,48,49,97,h,CAVALIERS Rebound,Rebound,Unknown,1,0,201
+22300876,280,PT01M32.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-229,50,0,Missed,1,48,49,97,h,MISS Garland 3PT Jump Shot,Missed Shot,Jump Shot,1,3,202
+22300876,280,PT01M32.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,48,49,97,v,Achiuwa BLOCK (3 BLK),,,1,3,203
+22300876,281,PT01M29.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,48,49,97,v,Hart REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,204
+22300876,282,PT01M25.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-7,6,1,Made,1,48,51,99,v,Achiuwa 1' Running Layup (4 PTS) (DiVincenzo 2 AST),Made Shot,Running Layup Shot,1,2,205
+22300876,284,PT01M09.00S,2,1610612739,CLE,1628386,Allen,J. Allen,38,155,16,Missed,1,48,51,99,h,MISS Allen 16' Jump Shot,Missed Shot,Jump Shot,1,2,206
+22300876,285,PT01M07.00S,2,1610612752,NYK,202711,Bogdanović,B. Bogdanović,0,0,0,,0,48,51,99,v,Bogdanovic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,207
+22300876,286,PT00M56.90S,2,1610612752,NYK,202711,Bogdanović,B. Bogdanović,0,0,0,,0,48,51,99,v,Bogdanovic Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,208
+22300876,286,PT00M56.90S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,48,51,99,h,Allen STEAL (1 STL),,,1,0,209
+22300876,288,PT00M52.10S,2,1610612739,CLE,1628386,Allen,J. Allen,-1,10,1,Made,1,50,51,101,h,Allen 1' Running Dunk (13 PTS) (Strus 3 AST),Made Shot,Running Dunk Shot,1,2,210
+22300876,290,PT00M32.90S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-228,116,26,Missed,1,50,51,101,v,MISS DiVincenzo 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,211
+22300876,291,PT00M30.60S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,50,51,101,h,Garland REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,212
+22300876,292,PT00M09.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-150,257,30,Made,1,53,51,104,h,Garland 30' 3PT Step Back Jump Shot (8 PTS) (Wade 2 AST),Made Shot,Step Back Jump shot,1,3,213
+22300876,294,PT00M00.00S,2,1610612752,NYK,1628404,Hart,J. Hart,-34,82,9,Missed,1,53,51,104,v,MISS Hart 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,214
+22300876,295,PT00M00.00S,2,0,,1610612752,,,0,0,0,,0,53,51,104,v,Knicks Rebound,Rebound,Unknown,1,0,215
+22300876,296,PT00M00.00S,2,0,,0,,,0,0,0,,0,53,51,104,,End of 2nd Period (8:08 PM EST),period,end,1,0,216
+22300876,301,PT12M00.00S,3,0,,0,,,0,0,0,,0,53,51,104,,Start of 3rd Period (8:23 PM EST),period,start,0,0,217
+22300876,302,PT11M46.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,232,88,25,Missed,1,53,51,104,v,MISS DiVincenzo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+22300876,303,PT11M43.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,53,51,104,v,Achiuwa REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,219
+22300876,304,PT11M40.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,2,5,1,Made,1,53,53,106,v,Achiuwa 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,220
+22300876,306,PT11M25.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,229,-2,0,Missed,1,53,53,106,h,MISS Okoro 3PT Jump Shot,Missed Shot,Jump Shot,1,3,221
+22300876,307,PT11M20.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,53,53,106,h,Mobley REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,222
+22300876,308,PT11M20.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,Missed,1,53,53,106,h,MISS Mobley Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,223
+22300876,309,PT11M20.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,53,53,106,h,Mobley REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,224
+22300876,405,PT11M19.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,16,84,9,Missed,1,53,53,106,h,MISS Mobley 9' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,225
+22300876,406,PT11M19.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,53,53,106,h,Mobley REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,226
+22300876,311,PT11M16.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,26,3,Made,1,55,53,108,h,Mobley 3' Cutting Layup Shot (9 PTS) (Allen 4 AST),Made Shot,Cutting Layup Shot,1,2,227
+22300876,313,PT11M16.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,55,53,108,v,Achiuwa S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,228
+22300876,315,PT11M16.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,55,53,108,h,MISS Mobley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,229
+22300876,316,PT11M13.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,55,53,108,v,Hartenstein REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,230
+22300876,317,PT10M57.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-230,8,0,Made,1,55,56,111,v,Achiuwa 3PT Jump Shot (9 PTS) (Hartenstein 5 AST),Made Shot,Jump Shot,1,3,231
+22300876,319,PT10M39.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,-191,168,25,Missed,1,55,56,111,h,MISS Okoro 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,232
+22300876,320,PT10M36.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,55,56,111,v,DiVincenzo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,233
+22300876,321,PT10M27.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,2,0,0,Made,1,55,58,113,v,Hartenstein Cutting Dunk Shot (8 PTS) (DiVincenzo 3 AST),Made Shot,Cutting Dunk Shot,1,2,234
+22300876,323,PT10M11.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,55,58,113,h,Mobley Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,235
+22300876,323,PT10M11.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,55,58,113,v,DiVincenzo STEAL (1 STL),,,1,0,236
+22300876,325,PT09M55.00S,3,1610612752,NYK,1630540,McBride,M. McBride,-237,59,24,Missed,1,55,58,113,v,MISS McBride 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+22300876,326,PT09M51.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,55,58,113,h,Mobley REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,238
+22300876,327,PT09M37.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,-199,145,25,Missed,1,55,58,113,h,MISS Okoro 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,239
+22300876,328,PT09M35.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,55,58,113,v,Hart REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,240
+22300876,329,PT09M21.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,232,15,0,Made,1,55,61,116,v,DiVincenzo 3PT Jump Shot (15 PTS) (McBride 3 AST),Made Shot,Jump Shot,1,3,241
+22300876,332,PT08M52.00S,3,1610612739,CLE,1629622,Strus,M. Strus,-148,248,29,Missed,1,55,61,116,h,MISS Strus 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,242
+22300876,333,PT08M52.00S,3,0,,1610612739,,,0,0,0,,0,55,61,116,h,CAVALIERS Rebound,Rebound,Unknown,1,0,243
+22300876,334,PT08M52.00S,3,0,,1610612739,,,0,0,0,,0,55,61,116,h,CAVALIERS Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,244
+22300876,335,PT08M38.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,5,2,1,Made,1,55,63,118,v,Achiuwa 1' Driving Layup (11 PTS) (Hartenstein 6 AST),Made Shot,Driving Layup Shot,1,2,245
+22300876,336,PT08M38.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,55,63,118,h,Allen S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,246
+22300876,338,PT08M38.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,55,64,119,v,Achiuwa Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,247
+22300876,339,PT08M26.00S,3,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,55,64,119,v,McBride P.FOUL (P2.T2) (B.Forte),Foul,Personal,1,0,248
+22300876,341,PT08M17.00S,3,1610612739,CLE,1628386,Allen,J. Allen,76,19,8,Made,1,57,64,121,h,Allen 8' Hook Shot (15 PTS) (Mobley 4 AST),Made Shot,Hook Shot,1,2,249
+22300876,343,PT07M54.00S,3,1610612752,NYK,1628404,Hart,J. Hart,-66,270,28,Missed,1,57,64,121,v,MISS Hart 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,250
+22300876,344,PT07M53.00S,3,0,,1610612739,,,0,0,0,,0,57,64,121,h,CAVALIERS Rebound,Rebound,Unknown,0,0,251
+22300876,346,PT07M36.00S,3,1610612739,CLE,1629622,Strus,M. Strus,-18,248,25,Made,1,60,64,124,h,Strus 25' 3PT Step Back Jump Shot (3 PTS) (Mobley 5 AST),Made Shot,Step Back Jump shot,1,3,252
+22300876,348,PT07M15.00S,3,1610612752,NYK,1630540,McBride,M. McBride,-212,165,27,Missed,1,60,64,124,v,MISS McBride 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,253
+22300876,349,PT07M12.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,60,64,124,h,Allen REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,254
+22300876,350,PT07M05.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,10,13,2,Made,1,62,64,126,h,Mobley 2' Alley Oop Dunk (11 PTS) (Allen 5 AST),Made Shot,Alley Oop Dunk Shot,1,2,255
+22300876,352,PT07M05.00S,3,0,,1610612752,,,0,0,0,,0,62,64,126,v,Knicks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,256
+22300876,353,PT07M05.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,62,64,126,h,SUB: Wade FOR Mobley,Substitution,,0,0,257
+22300876,356,PT06M46.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,62,64,126,v,Achiuwa Traveling Turnover (P2.T8),Turnover,Traveling,1,0,258
+22300876,357,PT06M25.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,62,64,126,h,Strus Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,259
+22300876,357,PT06M25.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,62,64,126,v,DiVincenzo STEAL (2 STL),,,1,0,260
+22300876,359,PT06M15.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,16,1,2,Missed,1,62,64,126,v,MISS Achiuwa 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,261
+22300876,359,PT06M15.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,62,64,126,h,Wade BLOCK (2 BLK),,,1,2,262
+22300876,361,PT06M11.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,62,64,126,v,Achiuwa REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,263
+22300876,362,PT06M06.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,62,64,126,v,Hart Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,264
+22300876,362,PT06M06.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,62,64,126,h,Garland STEAL (2 STL),,,1,0,265
+22300876,364,PT06M00.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,-4,0,0,Made,1,64,64,128,h,Okoro Running Layup (13 PTS) (Garland 4 AST),Made Shot,Running Layup Shot,1,2,266
+22300876,366,PT05M39.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,2,-4,0,Made,1,64,66,130,v,DiVincenzo Driving Reverse Layup (17 PTS) (Hartenstein 7 AST),Made Shot,Driving Reverse Layup Shot,1,2,267
+22300876,368,PT05M24.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,-230,59,24,Missed,1,64,66,130,h,MISS Okoro 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,268
+22300876,369,PT05M22.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,64,66,130,h,Garland REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,269
+22300876,370,PT05M21.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,-223,121,25,Missed,1,64,66,130,h,MISS Okoro 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+22300876,371,PT05M20.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,64,66,130,v,Hart REBOUND (Off:0 Def:12),Rebound,Unknown,1,0,271
+22300876,372,PT05M20.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,64,66,130,h,Strus P.FOUL (P1.T2) (B.Forte),Foul,Personal,1,0,272
+22300876,374,PT05M20.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,64,66,130,h,SUB: Merrill FOR Strus,Substitution,,0,0,273
+22300876,375,PT05M20.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,64,66,130,v,SUB: Sims FOR Hartenstein,Substitution,,0,0,274
+22300876,378,PT05M00.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-18,109,11,Made,1,64,68,132,v,Achiuwa 11' Driving Hook Shot (14 PTS) (Hart 7 AST),Made Shot,Driving Hook Shot,1,2,275
+22300876,380,PT04M48.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,64,68,132,h,Wade Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,276
+22300876,380,PT04M48.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,64,68,132,v,DiVincenzo STEAL (3 STL),,,1,0,277
+22300876,382,PT04M43.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-161,204,26,Made,1,64,71,135,v,DiVincenzo 26' 3PT Running Jump Shot (20 PTS),Made Shot,Running Jump Shot,1,3,278
+22300876,383,PT04M21.00S,3,1610612739,CLE,1629731,Wade,D. Wade,146,214,26,Missed,1,64,71,135,h,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,279
+22300876,384,PT04M19.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,64,71,135,h,Okoro REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,280
+22300876,385,PT04M18.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,-4,8,1,Made,1,66,71,137,h,Okoro 1' Putback Layup (15 PTS),Made Shot,Putback Layup Shot,1,2,281
+22300876,386,PT03M56.00S,3,1610612752,NYK,1630540,McBride,M. McBride,-67,100,12,Missed,1,66,71,137,v,MISS McBride 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,282
+22300876,387,PT03M54.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,66,71,137,h,Allen REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,283
+22300876,388,PT03M48.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-224,68,0,Missed,1,66,71,137,h,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,1,3,284
+22300876,388,PT03M48.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,66,71,137,v,Hart BLOCK (2 BLK),,,1,3,285
+22300876,390,PT03M44.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,66,71,137,h,Merrill REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,286
+22300876,391,PT03M40.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-161,195,25,Missed,1,66,71,137,h,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+22300876,392,PT03M37.00S,3,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,66,71,137,v,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,288
+22300876,393,PT03M29.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-233,134,27,Made,1,66,74,140,v,DiVincenzo 27' 3PT Jump Shot (23 PTS) (Hart 8 AST),Made Shot,Jump Shot,1,3,289
+22300876,395,PT03M11.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,1,4,0,Made,1,68,74,142,h,Okoro Alley Oop Layup (17 PTS) (Allen 6 AST),Made Shot,Alley Oop Layup shot,1,2,290
+22300876,397,PT03M11.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,68,74,142,v,Achiuwa S.FOUL (P2.T3) (D.Collins),Foul,Shooting,1,0,291
+22300876,399,PT03M11.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,68,74,142,h,MISS Okoro Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,292
+22300876,400,PT03M08.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,68,74,142,v,Hart REBOUND (Off:0 Def:13),Rebound,Unknown,1,0,293
+22300876,401,PT02M55.00S,3,1610612752,NYK,1628404,Hart,J. Hart,20,12,2,Made,1,68,76,144,v,Hart 2' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,1,2,294
+22300876,402,PT02M47.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,68,76,144,v,Achiuwa P.FOUL (P3.T4) (B.Forte),Foul,Personal,1,0,295
+22300876,404,PT02M47.00S,3,0,,1610612739,,,0,0,0,,0,68,76,144,h,CAVALIERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,296
+22300876,408,PT02M47.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,68,76,144,h,SUB: Strus FOR Wade,Substitution,,0,0,297
+22300876,409,PT02M47.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,68,76,144,h,SUB: Niang FOR Okoro,Substitution,,0,0,298
+22300876,412,PT02M32.00S,3,1610612739,CLE,1629636,Garland,D. Garland,150,115,19,Made,1,70,76,146,h,Garland 19' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,2,299
+22300876,413,PT02M08.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,121,242,27,Made,1,70,79,149,v,DiVincenzo 27' 3PT Jump Shot (26 PTS) (McBride 4 AST),Made Shot,Jump Shot,1,3,300
+22300876,415,PT01M49.00S,3,1610612739,CLE,1627777,Niang,G. Niang,132,205,24,Missed,1,70,79,149,h,MISS Niang 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+22300876,416,PT01M45.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,70,79,149,v,Hart REBOUND (Off:0 Def:14),Rebound,Unknown,1,0,302
+22300876,417,PT01M41.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,70,79,149,h,Merrill P.FOUL (P2.T3) (D.Collins),Foul,Personal,1,0,303
+22300876,419,PT01M41.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,70,79,149,h,SUB: Mobley FOR Garland,Substitution,,0,0,304
+22300876,420,PT01M41.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,70,79,149,h,SUB: Porter Jr. FOR Allen,Substitution,,0,0,305
+22300876,421,PT01M41.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,70,79,149,v,SUB: Bogdanovic FOR Achiuwa,Substitution,,0,0,306
+22300876,425,PT01M30.00S,3,1610612752,NYK,202711,Bogdanović,B. Bogdanović,43,116,12,Made,1,70,81,151,v,Bogdanovic 12' Floating Jump Shot (12 PTS) (Hart 9 AST),Made Shot,Floating Jump shot,1,2,307
+22300876,427,PT01M09.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,16,11,2,Missed,1,70,81,151,h,MISS Mobley 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,308
+22300876,427,PT01M09.00S,3,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,70,81,151,v,Sims BLOCK (2 BLK),,,1,2,309
+22300876,429,PT01M06.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,70,81,151,v,DiVincenzo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,310
+22300876,430,PT01M06.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,70,81,151,h,Merrill S.FOUL (P3.PN) (B.Barnaky),Foul,Shooting,1,0,311
+22300876,432,PT01M06.00S,3,1610612752,NYK,202711,Bogdanović,B. Bogdanović,0,0,0,,0,70,82,152,v,Bogdanovic Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,312
+22300876,433,PT01M06.00S,3,1610612752,NYK,202711,Bogdanović,B. Bogdanović,0,0,0,,0,70,83,153,v,Bogdanovic Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,313
+22300876,434,PT00M55.90S,3,1610612739,CLE,1630241,Merrill,S. Merrill,82,251,26,Missed,1,70,83,153,h,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,314
+22300876,435,PT00M53.80S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,70,83,153,v,Hart REBOUND (Off:0 Def:15),Rebound,Unknown,1,0,315
+22300876,436,PT00M51.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,10,1,Made,1,70,85,155,v,Hart 1' Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2,316
+22300876,437,PT00M42.70S,3,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,136,-12,14,Made,1,72,85,157,h,Porter Jr. 14' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,317
+22300876,438,PT00M35.60S,3,1610612752,NYK,1628404,Hart,J. Hart,185,273,33,Missed,1,72,85,157,v,MISS Hart 33' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,318
+22300876,439,PT00M32.70S,3,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,72,85,157,h,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,319
+22300876,440,PT00M27.40S,3,1610612739,CLE,1629622,Strus,M. Strus,-152,211,26,Made,1,75,85,160,h,Strus 26' 3PT Running Jump Shot (6 PTS) (Porter Jr. 1 AST),Made Shot,Running Jump Shot,1,3,320
+22300876,442,PT00M07.90S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,80,32,9,Made,1,75,87,162,v,DiVincenzo 9' Driving Floating Bank Jump Shot (28 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,321
+22300876,444,PT00M00.30S,3,1610612739,CLE,1630241,Merrill,S. Merrill,238,104,26,Made,1,78,87,165,h,Merrill 26' 3PT Jump Shot (15 PTS) (Porter Jr. 2 AST),Made Shot,Jump Shot,1,3,322
+22300876,446,PT00M00.00S,3,0,,0,,,0,0,0,,0,78,87,165,,End of 3rd Period (8:48 PM EST),period,end,1,0,323
+22300876,451,PT12M00.00S,4,0,,0,,,0,0,0,,0,78,87,165,,Start of 4th Period (8:51 PM EST),period,start,0,0,324
+22300876,452,PT11M38.00S,4,1610612739,CLE,1627777,Niang,G. Niang,-87,10,9,Missed,1,78,87,165,h,MISS Niang 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,325
+22300876,453,PT11M35.00S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,78,87,165,v,McBride REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,326
+22300876,454,PT11M14.00S,4,1610612752,NYK,1628404,Hart,J. Hart,-183,66,19,Missed,1,78,87,165,v,MISS Hart 19' Jump Bank Shot,Missed Shot,Jump Bank Shot,0,2,327
+22300876,455,PT11M14.00S,4,0,,1610612752,,,0,0,0,,0,78,87,165,v,Knicks Rebound,Rebound,Unknown,0,0,328
+22300876,456,PT11M14.00S,4,0,,1610612752,,,0,0,0,,0,78,87,165,v,Knicks Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,329
+22300876,457,PT11M02.00S,4,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,10,94,9,Missed,1,78,87,165,h,MISS Porter Jr. 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,330
+22300876,458,PT11M00.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,78,87,165,v,Hart REBOUND (Off:0 Def:16),Rebound,Unknown,1,0,331
+22300876,459,PT10M56.00S,4,1610612752,NYK,202692,Burks,A. Burks,2,6,1,Made,1,78,89,167,v,Burks 1' Running Layup (5 PTS) (Hart 10 AST),Made Shot,Running Layup Shot,1,2,332
+22300876,461,PT10M45.00S,4,1610612739,CLE,1627777,Niang,G. Niang,-233,103,25,Missed,1,78,89,167,h,MISS Niang 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,333
+22300876,462,PT10M43.00S,4,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,78,89,167,v,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,334
+22300876,463,PT10M32.00S,4,1610612752,NYK,202692,Burks,A. Burks,23,13,3,Missed,1,78,89,167,v,MISS Burks 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,335
+22300876,464,PT10M29.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,78,89,167,h,Mobley REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,336
+22300876,465,PT10M13.00S,4,1610612739,CLE,1629731,Wade,D. Wade,-240,47,24,Missed,1,78,89,167,h,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,337
+22300876,466,PT10M11.00S,4,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,78,89,167,v,Sims REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,338
+22300876,467,PT09M51.00S,4,1610612752,NYK,202711,Bogdanović,B. Bogdanović,0,0,0,,0,78,89,167,v,Bogdanovic Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,339
+22300876,468,PT09M51.00S,4,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,78,89,167,h,SUB: Garland FOR Porter Jr.,Substitution,,0,0,340
+22300876,470,PT09M24.00S,4,1610612739,CLE,1629636,Garland,D. Garland,225,27,0,Made,1,81,89,170,h,Garland 3PT Pullup Jump Shot (13 PTS) (Mobley 6 AST),Made Shot,Pullup Jump shot,1,3,341
+22300876,472,PT09M00.00S,4,1610612752,NYK,202692,Burks,A. Burks,-65,110,13,Missed,1,81,89,170,v,MISS Burks 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,342
+22300876,473,PT08M58.00S,4,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,81,89,170,v,Sims REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,343
+22300876,474,PT08M55.00S,4,1610612752,NYK,202692,Burks,A. Burks,-235,99,26,Made,1,81,92,173,v,Burks 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,344
+22300876,475,PT08M37.00S,4,1610612739,CLE,1629636,Garland,D. Garland,181,235,30,Made,1,84,92,176,h,Garland 30' 3PT Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,3,345
+22300876,476,PT08M15.00S,4,1610612752,NYK,202692,Burks,A. Burks,-134,244,28,Missed,1,84,92,176,v,MISS Burks 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,346
+22300876,477,PT08M13.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,84,92,176,h,Mobley REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,347
+22300876,478,PT07M50.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-6,14,2,Missed,1,84,92,176,h,MISS Garland 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,348
+22300876,479,PT07M48.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,84,92,176,v,Hart REBOUND (Off:0 Def:17),Rebound,Unknown,1,0,349
+22300876,480,PT07M42.00S,4,1610612752,NYK,1630540,McBride,M. McBride,-233,32,24,Missed,1,84,92,176,v,MISS McBride 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+22300876,481,PT07M39.00S,4,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,84,92,176,h,Wade REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,351
+22300876,482,PT07M39.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,84,92,176,v,Hart P.FOUL (P1.T1) (B.Forte),Foul,Personal,1,0,352
+22300876,484,PT07M39.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,84,92,176,h,SUB: Allen FOR Mobley,Substitution,,0,0,353
+22300876,485,PT07M39.00S,4,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,84,92,176,h,SUB: Okoro FOR Wade,Substitution,,0,0,354
+22300876,486,PT07M39.00S,4,1610612752,NYK,202692,Burks,A. Burks,0,0,0,,0,84,92,176,v,SUB: DiVincenzo FOR Burks,Substitution,,0,0,355
+22300876,490,PT07M27.00S,4,1610612752,NYK,202711,Bogdanović,B. Bogdanović,0,0,0,,0,84,92,176,v,Bogdanovic S.FOUL (P2.T2) (B.Barnaky),Foul,Shooting,1,0,356
+22300876,492,PT07M27.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,84,92,176,h,MISS Allen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,357
+22300876,493,PT07M27.00S,4,0,,1610612739,,,0,0,0,,0,84,92,176,h,CAVALIERS Rebound,Rebound,Normal Rebound,1,0,358
+22300876,494,PT07M27.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,85,92,177,h,Allen Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,359
+22300876,495,PT07M05.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,6,5,1,Missed,1,85,92,177,v,MISS DiVincenzo 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,360
+22300876,495,PT07M05.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,85,92,177,h,Allen BLOCK (1 BLK),,,1,2,361
+22300876,496,PT07M03.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,85,92,177,h,Allen REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,362
+22300876,497,PT06M55.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,192,153,25,Made,1,88,92,180,h,Merrill 25' 3PT Pullup Jump Shot (18 PTS) (Okoro 4 AST),Made Shot,Pullup Jump shot,1,3,363
+22300876,499,PT06M38.00S,4,1610612752,NYK,202711,Bogdanović,B. Bogdanović,224,95,24,Made,1,88,95,183,v,Bogdanovic 24' 3PT Jump Shot (17 PTS) (McBride 5 AST),Made Shot,Jump Shot,1,3,364
+22300876,502,PT06M38.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,88,95,183,h,Niang S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,1,0,365
+22300876,504,PT06M38.00S,4,0,,1610612739,,,0,0,0,,0,88,95,183,h,CAVALIERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,366
+22300876,505,PT06M38.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,88,95,183,h,SUB: Strus FOR Niang,Substitution,,0,0,367
+22300876,507,PT06M38.00S,4,1610612752,NYK,202711,Bogdanović,B. Bogdanović,0,0,0,,0,88,96,184,v,Bogdanovic Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,368
+22300876,508,PT06M21.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,112,226,25,Made,1,91,96,187,h,Merrill 25' 3PT Jump Shot (21 PTS),Made Shot,Jump Shot,1,3,369
+22300876,509,PT05M52.00S,4,1610612752,NYK,1630540,McBride,M. McBride,152,206,26,Made,1,91,99,190,v,McBride 26' 3PT Pullup Jump Shot (13 PTS) (Bogdanovic 2 AST),Made Shot,Pullup Jump shot,1,3,370
+22300876,510,PT05M40.00S,4,1610612739,CLE,1628386,Allen,J. Allen,-11,11,2,Made,1,93,99,192,h,Allen 2' Alley Oop Dunk (18 PTS) (Garland 5 AST),Made Shot,Alley Oop Dunk Shot,1,2,371
+22300876,513,PT05M19.00S,4,1610612752,NYK,202711,Bogdanović,B. Bogdanović,-222,136,26,Missed,1,93,99,192,v,MISS Bogdanovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,372
+22300876,513,PT05M19.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,93,99,192,h,Okoro BLOCK (1 BLK),,,1,3,373
+22300876,515,PT05M15.00S,4,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,93,99,192,v,Sims REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,374
+22300876,516,PT05M10.00S,4,1610612752,NYK,1630540,McBride,M. McBride,224,136,26,Missed,1,93,99,192,v,MISS McBride 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+22300876,517,PT05M07.00S,4,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,93,99,192,v,Sims REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,376
+22300876,518,PT05M05.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,234,7,0,Missed,1,93,99,192,v,MISS DiVincenzo 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+22300876,519,PT05M03.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,93,99,192,h,Okoro REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,378
+22300876,520,PT04M54.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,93,99,192,v,Hart P.FOUL (P2.T3) (B.Forte),Foul,Personal,1,0,379
+22300876,522,PT04M54.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,93,99,192,h,SUB: Mobley FOR Merrill,Substitution,,0,0,380
+22300876,523,PT04M54.00S,4,1610612752,NYK,1630579,Sims,J. Sims,0,0,0,,0,93,99,192,v,SUB: Hartenstein FOR Sims,Substitution,,0,0,381
+22300876,527,PT04M40.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-135,205,25,Made,1,96,99,195,h,Garland 25' 3PT Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,1,3,382
+22300876,528,PT04M18.00S,4,1610612752,NYK,202711,Bogdanović,B. Bogdanović,119,113,16,Made,1,96,101,197,v,Bogdanovic 16' Pullup Jump Shot (20 PTS) (Hartenstein 8 AST),Made Shot,Pullup Jump shot,1,2,383
+22300876,530,PT03M55.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,96,101,197,h,Garland Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,384
+22300876,531,PT03M37.00S,4,1610612752,NYK,202711,Bogdanović,B. Bogdanović,5,259,26,Missed,1,96,101,197,v,MISS Bogdanovic 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,385
+22300876,532,PT03M35.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,96,101,197,v,Hart REBOUND (Off:1 Def:17),Rebound,Unknown,1,0,386
+22300876,533,PT03M26.00S,4,1610612752,NYK,1628404,Hart,J. Hart,-86,251,27,Missed,1,96,101,197,v,MISS Hart 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,387
+22300876,534,PT03M22.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,96,101,197,h,Allen REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,388
+22300876,576,PT03M05.00S,4,1610612739,CLE,1629622,Strus,M. Strus,-9,13,2,Missed,1,96,101,197,h,MISS Strus 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,389
+22300876,576,PT03M05.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,96,101,197,v,Hartenstein BLOCK (1 BLK),,,1,2,390
+22300876,578,PT03M05.00S,4,0,,1610612752,,,0,0,0,,0,96,101,197,v,Knicks Rebound,Rebound,Unknown,1,0,391
+22300876,538,PT03M04.00S,4,0,,1610612752,,,0,0,0,,0,96,101,197,v,Knicks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,392
+22300876,539,PT03M04.00S,4,0,,535,,,0,0,0,,0,96,101,197,,Instant Replay4th Period (9:08 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,393
+22300876,540,PT03M04.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,96,101,197,h,Jump Ball (CC) Allen vs. Hartenstein: Tip to Hart,Jump Ball,Coach Challenge,1,0,394
+22300876,543,PT02M52.00S,4,1610612752,NYK,202711,Bogdanović,B. Bogdanović,-228,111,25,Missed,1,96,101,197,v,MISS Bogdanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,395
+22300876,544,PT02M49.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,96,101,197,h,Mobley REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,396
+22300876,545,PT02M37.00S,4,1610612739,CLE,1628386,Allen,J. Allen,39,8,4,Missed,1,96,101,197,h,MISS Allen 4' Layup,Missed Shot,Layup Shot,1,2,397
+22300876,545,PT02M37.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,96,101,197,v,DiVincenzo BLOCK (1 BLK),,,1,2,398
+22300876,547,PT02M31.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,96,101,197,v,Hart REBOUND (Off:1 Def:18),Rebound,Unknown,1,0,399
+22300876,548,PT02M29.00S,4,1610612752,NYK,202711,Bogdanović,B. Bogdanović,224,-1,0,Missed,1,96,101,197,v,MISS Bogdanovic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,400
+22300876,549,PT02M28.00S,4,0,,1610612739,,,0,0,0,,0,96,101,197,h,CAVALIERS Rebound,Rebound,Unknown,0,0,401
+22300876,551,PT02M28.00S,4,0,,1610612739,,,0,0,0,,0,96,101,197,h,CAVALIERS Timeout: Coach Challenge (Full 4 Short 0),Timeout,Coach Challenge,0,0,402
+22300876,552,PT02M28.00S,4,0,,550,,,0,0,0,,0,96,101,197,,Instant Replay4th Period (9:13 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,403
+22300876,553,PT02M28.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,96,101,197,h,SUB: Merrill FOR Strus,Substitution,,0,0,404
+22300876,555,PT02M11.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,96,101,197,h,Jump Ball Garland vs. Hart: Tip to Mobley,Jump Ball,,0,0,405
+22300876,558,PT02M04.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,16,2,Missed,1,96,101,197,h,MISS Allen 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,406
+22300876,559,PT01M59.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,96,101,197,h,Mobley REBOUND (Off:4 Def:9),Rebound,Unknown,1,0,407
+22300876,560,PT01M59.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,Made,1,98,101,199,h,Mobley Tip Dunk Shot (13 PTS),Made Shot,Tip Dunk Shot,1,2,408
+22300876,561,PT01M36.00S,4,1610612752,NYK,1628404,Hart,J. Hart,232,18,0,Made,1,98,104,202,v,Hart 3PT Step Back Jump Shot (13 PTS) (Bogdanovic 3 AST),Made Shot,Step Back Jump shot,1,3,409
+22300876,562,PT01M28.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,98,104,202,h,Garland Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,410
+22300876,562,PT01M28.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,98,104,202,v,Hart STEAL (2 STL),,,1,0,411
+22300876,564,PT01M04.00S,4,1610612752,NYK,1628404,Hart,J. Hart,142,89,17,Missed,1,98,104,202,v,MISS Hart 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,412
+22300876,565,PT01M02.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,98,104,202,v,Hartenstein REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,413
+22300876,566,PT01M01.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,16,-5,2,Missed,1,98,104,202,v,MISS Hartenstein 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,414
+22300876,566,PT01M01.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,98,104,202,h,Mobley BLOCK (1 BLK),,,1,2,415
+22300876,568,PT01M01.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,98,104,202,h,Okoro REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,416
+22300876,569,PT00M56.80S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-164,177,24,Missed,1,98,104,202,h,MISS Merrill 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,417
+22300876,570,PT00M56.80S,4,0,,1610612752,,,0,0,0,,0,98,104,202,v,Knicks Rebound,Rebound,Unknown,1,0,418
+22300876,572,PT00M46.40S,4,0,,1610612752,,,0,0,0,,0,98,104,202,v,Knicks Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,419
+22300876,573,PT00M46.40S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,98,104,202,h,SUB: Wade FOR Merrill,Substitution,,0,0,420
+22300876,575,PT00M44.20S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,98,104,202,h,Garland P.FOUL (P1.T2) (B.Barnaky),Foul,Personal,1,0,421
+22300876,580,PT00M33.20S,4,1610612752,NYK,1630540,McBride,M. McBride,-235,4,24,Made,1,98,107,205,v,McBride 24' 3PT Jump Shot (16 PTS) (DiVincenzo 4 AST),Made Shot,Jump Shot,1,3,422
+22300876,584,PT00M25.30S,4,1610612739,CLE,1629636,Garland,D. Garland,10,11,1,Missed,1,98,107,205,h,MISS Garland 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,423
+22300876,585,PT00M23.40S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,98,107,205,v,Hartenstein REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,424
+22300876,586,PT00M01.60S,4,0,,1610612752,,,0,0,0,,0,98,107,205,v,Knicks Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,425
+22300876,587,PT00M00.00S,4,0,,0,,,0,0,0,,0,98,107,205,,End of 4th Period (9:21 PM EST),period,end,1,0,426

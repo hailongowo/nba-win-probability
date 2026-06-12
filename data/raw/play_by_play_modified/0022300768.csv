@@ -1,0 +1,564 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22300768,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:41 PM EST),period,start,0,0,1
+22300768,4,PT12M00.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,0,0,0,h,Jump Ball Gafford vs. Bagley III: Tip to Poole,Jump Ball,,1,0,2
+22300768,7,PT11M38.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-98,240,26,Missed,1,0,0,0,v,MISS Kuzma 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+22300768,8,PT11M36.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,0,0,0,h,Gafford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22300768,9,PT11M23.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,11,22,2,Made,1,2,0,2,h,Gafford 2' Turnaround Hook Shot (2 PTS) (Doncic 1 AST),Made Shot,Turnaround Hook Shot,1,2,5
+22300768,11,PT11M11.00S,1,1610612764,WAS,1626145,Jones,T. Jones,4,62,6,Made,1,2,2,4,v,Jones 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,6
+22300768,12,PT10M57.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,-50,105,12,Missed,1,2,2,4,h,MISS Gafford 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,7
+22300768,13,PT10M56.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,2,2,4,h,Gafford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,8
+22300768,14,PT10M54.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,2,0,0,Missed,1,2,2,4,h,MISS Gafford Putback Layup,Missed Shot,Putback Layup Shot,1,2,9
+22300768,15,PT10M53.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,2,2,4,v,Avdija REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+22300768,16,PT10M51.00S,1,1610612764,WAS,1629673,Poole,J. Poole,-15,29,3,Missed,1,2,2,4,v,MISS Poole 3' Running Layup,Missed Shot,Running Layup Shot,1,2,11
+22300768,16,PT10M51.00S,1,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,2,2,4,h,Green BLOCK (1 BLK),,,1,2,12
+22300768,18,PT10M50.00S,1,0,,1610612764,,,0,0,0,,0,2,2,4,v,Wizards Rebound,Rebound,Unknown,0,0,13
+22300768,20,PT10M46.00S,1,1610612764,WAS,1629673,Poole,J. Poole,195,30,20,Missed,1,2,2,4,v,MISS Poole 20' Jump Shot,Missed Shot,Jump Shot,1,2,14
+22300768,21,PT10M43.00S,1,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,2,2,4,h,Irving REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+22300768,22,PT10M39.00S,1,1610612742,DAL,1630182,Green,J. Green,-2,30,3,Missed,1,2,2,4,h,MISS Green 3' Running Layup,Missed Shot,Running Layup Shot,1,2,16
+22300768,23,PT10M37.00S,1,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,2,2,4,v,Bagley III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+22300768,24,PT10M28.00S,1,1610612764,WAS,1628963,Bagley III,M. Bagley III,-4,11,1,Made,1,2,4,6,v,Bagley III 1' Driving Reverse Layup (2 PTS) (Jones 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,18
+22300768,26,PT10M17.00S,1,1610612742,DAL,202681,Irving,K. Irving,104,238,26,Missed,1,2,4,6,h,MISS Irving 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+22300768,27,PT10M16.00S,1,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,2,4,6,v,Bagley III REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,20
+22300768,28,PT10M05.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-199,24,20,Missed,1,2,4,6,v,MISS Kuzma 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,21
+22300768,29,PT10M00.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,2,4,6,h,Gafford REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,22
+22300768,30,PT09M58.00S,1,1610612742,DAL,202681,Irving,K. Irving,17,22,3,Missed,1,2,4,6,h,MISS Irving 3' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,23
+22300768,31,PT09M57.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,2,4,6,h,Gafford REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,24
+22300768,32,PT09M54.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,4,85,9,Missed,1,2,4,6,h,MISS Gafford 9' Hook Shot,Missed Shot,Hook Shot,1,2,25
+22300768,33,PT09M51.00S,1,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,2,4,6,v,Bagley III REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,26
+22300768,34,PT09M44.00S,1,1610612764,WAS,1629673,Poole,J. Poole,-20,51,5,Missed,1,2,4,6,v,MISS Poole 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,27
+22300768,35,PT09M42.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,2,4,6,h,Gafford REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,28
+22300768,37,PT09M33.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,2,4,6,v,Poole S.FOUL (P1.T1) (J.Orr),Foul,Shooting,1,0,29
+22300768,39,PT09M33.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,3,4,7,h,Gafford Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,30
+22300768,40,PT09M33.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,3,4,7,h,MISS Gafford Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,31
+22300768,41,PT09M28.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,3,4,7,v,Poole REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+22300768,42,PT09M25.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,3,4,7,v,Poole Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,33
+22300768,42,PT09M25.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,3,4,7,h,Gafford STEAL (1 STL),,,1,0,34
+22300768,57,PT09M23.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,3,4,7,h,Gafford Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,35
+22300768,57,PT09M23.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,3,4,7,v,Poole STEAL (1 STL),,,1,0,36
+22300768,45,PT09M13.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,147,155,21,Made,1,3,6,9,v,Kuzma 21' Jump Shot (2 PTS) (Poole 1 AST),Made Shot,Jump Shot,1,2,37
+22300768,48,PT09M08.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,-114,155,19,Missed,1,3,6,9,h,MISS Doncic 19' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,38
+22300768,49,PT09M04.00S,1,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,3,6,9,v,Bagley III REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,39
+22300768,50,PT08M56.00S,1,1610612764,WAS,1628963,Bagley III,M. Bagley III,127,61,14,Missed,1,3,6,9,v,MISS Bagley III 14' Jump Shot,Missed Shot,Jump Shot,1,2,40
+22300768,51,PT08M53.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,3,6,9,h,Gafford REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,41
+22300768,52,PT08M48.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,152,210,26,Made,1,6,6,12,h,Doncic 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,42
+22300768,53,PT08M23.00S,1,1610612764,WAS,1626145,Jones,T. Jones,129,41,14,Made,1,6,8,14,v,Jones 14' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,43
+22300768,54,PT08M16.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,205,140,25,Missed,1,6,8,14,h,MISS Doncic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,44
+22300768,55,PT08M12.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,6,8,14,v,Kuzma REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,45
+22300768,56,PT08M11.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,6,8,14,v,Kuzma Traveling Turnover (P1.T2),Turnover,Traveling,1,0,46
+22300768,59,PT07M50.00S,1,1610612742,DAL,202681,Irving,K. Irving,-39,27,5,Made,1,8,8,16,h,Irving 5' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,47
+22300768,60,PT07M34.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,20,136,14,Missed,1,8,8,16,v,MISS Avdija 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,48
+22300768,61,PT07M30.00S,1,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,8,8,16,h,Washington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+22300768,62,PT07M25.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,8,8,16,h,Doncic Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,50
+22300768,62,PT07M25.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,8,8,16,v,Poole STEAL (2 STL),,,1,0,51
+22300768,64,PT07M20.00S,1,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,8,8,16,v,Jones Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,52
+22300768,64,PT07M20.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,8,8,16,h,Gafford STEAL (2 STL),,,1,0,53
+22300768,66,PT07M15.00S,1,1610612742,DAL,1630182,Green,J. Green,229,50,0,Missed,1,8,8,16,h,MISS Green 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,54
+22300768,67,PT07M09.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,8,8,16,v,Poole REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,55
+22300768,68,PT07M08.00S,1,1610612764,WAS,1626145,Jones,T. Jones,2,64,6,Missed,1,8,8,16,v,MISS Jones 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,56
+22300768,69,PT07M04.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,8,8,16,h,Gafford REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,57
+22300768,70,PT07M00.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,-142,210,25,Missed,1,8,8,16,h,MISS Doncic 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,58
+22300768,71,PT06M57.00S,1,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,8,8,16,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+22300768,72,PT06M52.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-6,22,2,Made,1,8,10,18,v,Kuzma 2' Driving Layup (4 PTS) (Jones 2 AST),Made Shot,Driving Layup Shot,1,2,60
+22300768,74,PT06M40.00S,1,1610612742,DAL,202681,Irving,K. Irving,107,235,26,Made,1,11,10,21,h,Irving 26' 3PT Jump Shot (5 PTS) (Doncic 2 AST),Made Shot,Jump Shot,1,3,61
+22300768,76,PT06M35.00S,1,0,,1610612764,,,0,0,0,,0,11,10,21,v,Wizards Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,62
+22300768,77,PT06M35.00S,1,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,11,10,21,h,SUB: Kleber FOR Green,Substitution,,0,0,63
+22300768,78,PT06M35.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,11,10,21,h,SUB: Hardaway Jr. FOR Gafford,Substitution,,0,0,64
+22300768,79,PT06M35.00S,1,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,11,10,21,v,SUB: Kispert FOR Bagley III,Substitution,,0,0,65
+22300768,80,PT06M35.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,11,10,21,v,SUB: Holmes FOR Avdija,Substitution,,0,0,66
+22300768,81,PT06M35.00S,1,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,11,10,21,v,SUB: Coulibaly FOR Poole,Substitution,,0,0,67
+22300768,87,PT06M27.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-6,9,1,Made,1,11,12,23,v,Kuzma 1' Driving Finger Roll Layup (6 PTS) (Jones 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,68
+22300768,89,PT06M13.00S,1,1610612742,DAL,1629023,Washington,P. Washington,21,70,7,Made,1,13,12,25,h,Washington 7' Driving Floating Jump Shot (2 PTS) (Doncic 3 AST),Made Shot,Driving Floating Jump Shot,1,2,69
+22300768,91,PT05M43.00S,1,1610612764,WAS,1626158,Holmes,R. Holmes,13,30,3,Made,1,13,14,27,v,Holmes 3' Turnaround Jump Shot (2 PTS) (Jones 4 AST),Made Shot,Turnaround Jump Shot,1,2,70
+22300768,93,PT05M19.00S,1,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,13,14,27,h,Kleber Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,71
+22300768,93,PT05M19.00S,1,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,13,14,27,v,Jones STEAL (1 STL),,,1,0,72
+22300768,95,PT05M15.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,-185,169,25,Missed,1,13,14,27,v,MISS Kispert 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,73
+22300768,96,PT05M11.00S,1,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,13,14,27,v,Coulibaly REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,74
+22300768,97,PT05M06.00S,1,1610612764,WAS,1626145,Jones,T. Jones,-83,120,15,Missed,1,13,14,27,v,MISS Jones 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,75
+22300768,98,PT05M03.00S,1,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,13,14,27,h,Irving REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,76
+22300768,99,PT04M57.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,45,55,7,Missed,1,13,14,27,h,MISS Doncic 7' Running Layup,Missed Shot,Running Layup Shot,1,2,77
+22300768,100,PT04M55.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,13,14,27,h,Doncic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,78
+22300768,101,PT04M54.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,Made,1,15,14,29,h,Doncic Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,2,79
+22300768,102,PT04M50.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,15,14,29,v,Kuzma Offensive Charge Foul (P1) (J.Orr),Foul,Offensive Charge,1,0,80
+22300768,104,PT04M50.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,15,14,29,v,Kuzma Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,1,0,81
+22300768,105,PT04M50.00S,1,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,15,14,29,h,SUB: Jones Jr. FOR Washington,Substitution,,0,0,82
+22300768,107,PT04M39.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,15,14,29,h,Doncic Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,83
+22300768,108,PT04M30.00S,1,1610612764,WAS,1626158,Holmes,R. Holmes,7,29,3,Made,1,15,16,31,v,Holmes 3' Cutting Layup Shot (4 PTS) (Jones 5 AST),Made Shot,Cutting Layup Shot,1,2,84
+22300768,110,PT04M18.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,23,11,3,Missed,1,15,16,31,h,MISS Hardaway Jr. 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,85
+22300768,111,PT04M15.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,15,16,31,v,Kispert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,86
+22300768,112,PT04M10.00S,1,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,229,68,24,Missed,1,15,16,31,v,MISS Coulibaly 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+22300768,113,PT04M10.00S,1,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,15,16,31,h,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,88
+22300768,114,PT04M02.00S,1,1610612742,DAL,202681,Irving,K. Irving,34,16,4,Made,1,17,16,33,h,Irving 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,89
+22300768,115,PT04M02.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,17,16,33,v,Kispert S.FOUL (P1.T2) (J.Orr),Foul,Shooting,1,0,90
+22300768,117,PT04M02.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,17,16,33,v,SUB: Shamet FOR Kuzma,Substitution,,0,0,91
+22300768,119,PT04M02.00S,1,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,18,16,34,h,Irving Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,92
+22300768,120,PT03M55.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,18,16,34,h,Hardaway Jr. P.FOUL (P1.T1) (M.Ervin),Foul,Personal,1,0,93
+22300768,122,PT03M55.00S,1,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,18,16,34,h,SUB: Hardy FOR Irving,Substitution,,0,0,94
+22300768,124,PT03M50.00S,1,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,18,16,34,v,Jones Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,95
+22300768,125,PT03M38.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,18,16,34,h,Doncic Bad Pass Turnover (P3.T5),Turnover,Bad Pass,1,0,96
+22300768,125,PT03M38.00S,1,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,18,16,34,v,Shamet STEAL (1 STL),,,1,0,97
+22300768,127,PT03M15.00S,1,1610612764,WAS,1626145,Jones,T. Jones,-15,56,6,Missed,1,18,16,34,v,MISS Jones 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,98
+22300768,127,PT03M15.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,18,16,34,h,Doncic BLOCK (1 BLK),,,1,2,99
+22300768,129,PT03M14.00S,1,0,,1610612764,,,0,0,0,,0,18,16,34,v,Wizards Rebound,Rebound,Unknown,1,0,100
+22300768,131,PT03M13.00S,1,0,,1610612764,,,0,0,0,,0,18,16,34,v,Wizards Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,0,0,101
+22300768,132,PT03M06.00S,1,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,18,16,34,h,Kleber OFF.Foul (P1) (J.Orr),Foul,Offensive,1,0,102
+22300768,134,PT03M06.00S,1,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,18,16,34,h,Kleber Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,103
+22300768,135,PT03M06.00S,1,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,18,16,34,v,SUB: Avdija FOR Holmes,Substitution,,0,0,104
+22300768,136,PT03M06.00S,1,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,18,16,34,v,SUB: Poole FOR Jones,Substitution,,0,0,105
+22300768,139,PT02M52.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,18,16,34,h,Doncic P.FOUL (P1.T2) (J.Butler),Foul,Personal,1,0,106
+22300768,141,PT02M52.00S,1,0,,1610612742,,,0,0,0,,0,18,16,34,h,MAVERICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,107
+22300768,142,PT02M48.00S,1,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,29,45,5,Missed,1,18,16,34,v,MISS Coulibaly 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,108
+22300768,143,PT02M47.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,18,16,34,v,Avdija REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,109
+22300768,144,PT02M46.00S,1,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,18,16,34,h,Hardy S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,1,0,110
+22300768,146,PT02M46.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,18,16,34,v,MISS Avdija Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,111
+22300768,147,PT02M46.00S,1,0,,1610612764,,,0,0,0,,0,18,16,34,v,Wizards Rebound,Rebound,Normal Rebound,0,0,112
+22300768,148,PT02M46.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,18,16,34,v,MISS Avdija Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,113
+22300768,149,PT02M43.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,18,16,34,h,Doncic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,114
+22300768,150,PT02M35.00S,1,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,-29,8,3,Made,1,20,16,36,h,Jones Jr. 3' Alley Oop Layup (2 PTS) (Doncic 4 AST),Made Shot,Alley Oop Layup shot,1,2,115
+22300768,152,PT02M19.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,-33,52,6,Missed,1,20,16,36,v,MISS Kispert 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,116
+22300768,153,PT02M17.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,20,16,36,h,Hardaway Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+22300768,154,PT02M13.00S,1,1610612742,DAL,1630702,Hardy,J. Hardy,6,16,2,Missed,1,20,16,36,h,MISS Hardy 2' Running Layup,Missed Shot,Running Layup Shot,1,2,118
+22300768,154,PT02M13.00S,1,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,20,16,36,v,Coulibaly BLOCK (1 BLK),,,1,2,119
+22300768,156,PT02M11.00S,1,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,20,16,36,h,Kleber REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,120
+22300768,157,PT02M05.00S,1,1610612742,DAL,1630702,Hardy,J. Hardy,26,10,3,Made,1,22,16,38,h,Hardy 3' Driving Layup (2 PTS) (Doncic 5 AST),Made Shot,Driving Layup Shot,1,2,121
+22300768,159,PT01M56.00S,1,1610612764,WAS,1629673,Poole,J. Poole,-174,185,25,Missed,1,22,16,38,v,MISS Poole 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,122
+22300768,160,PT01M53.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,22,16,38,h,Doncic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,123
+22300768,161,PT01M43.00S,1,1610612742,DAL,1628467,Kleber,M. Kleber,-39,247,25,Missed,1,22,16,38,h,MISS Kleber 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+22300768,162,PT01M40.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,22,16,38,v,Kispert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,125
+22300768,163,PT01M31.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,26,67,7,Made,1,22,18,40,v,Avdija 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,126
+22300768,164,PT01M31.00S,1,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,22,18,40,h,Jones Jr. S.FOUL (P1.T4) (J.Orr),Foul,Shooting,1,0,127
+22300768,166,PT01M31.00S,1,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,22,18,40,h,SUB: Irving FOR Kleber,Substitution,,0,0,128
+22300768,167,PT01M31.00S,1,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,22,18,40,h,SUB: Gafford FOR Doncic,Substitution,,0,0,129
+22300768,170,PT01M31.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,22,18,40,v,MISS Avdija Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,130
+22300768,171,PT01M29.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,22,18,40,h,Hardaway Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,131
+22300768,172,PT01M13.00S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-115,158,20,Missed,1,22,18,40,h,MISS Hardaway Jr. 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,132
+22300768,173,PT01M10.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,22,18,40,h,Gafford REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,133
+22300768,174,PT01M09.00S,1,1610612742,DAL,1629655,Gafford,D. Gafford,-10,1,1,Made,1,24,18,42,h,Gafford 1' Dunk (5 PTS),Made Shot,Dunk Shot,1,2,134
+22300768,175,PT00M55.90S,1,1610612764,WAS,1630166,Avdija,D. Avdija,-50,26,6,Made,1,24,20,44,v,Avdija 6' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,135
+22300768,176,PT00M46.50S,1,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,215,188,29,Missed,1,24,20,44,h,MISS Hardaway Jr. 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+22300768,177,PT00M42.50S,1,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,24,20,44,v,Coulibaly REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,137
+22300768,178,PT00M26.80S,1,1610612764,WAS,1630166,Avdija,D. Avdija,58,43,7,Made,1,24,22,46,v,Avdija 7' Turnaround Bank Shot (6 PTS),Made Shot,Turnaround Bank shot,1,2,138
+22300768,179,PT00M13.50S,1,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,24,22,46,v,Shamet P.FOUL (P1.T3) (M.Ervin),Foul,Personal,1,0,139
+22300768,181,PT00M13.50S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,24,22,46,v,SUB: Bagley III FOR Avdija,Substitution,,0,0,140
+22300768,183,PT00M03.00S,1,1610612742,DAL,202681,Irving,K. Irving,-53,63,8,Made,1,26,22,48,h,Irving 8' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,141
+22300768,184,PT00M00.50S,1,1610612764,WAS,1629673,Poole,J. Poole,-77,262,27,Missed,1,26,22,48,v,MISS Poole 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,142
+22300768,185,PT00M00.10S,1,0,,1610612764,,,0,0,0,,0,26,22,48,v,Wizards Rebound,Rebound,Unknown,0,0,143
+22300768,186,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,22,48,,End of 1st Period (9:06 PM EST),period,end,1,0,144
+22300768,189,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,22,48,,Start of 2nd Period (9:08 PM EST),period,start,0,0,145
+22300768,191,PT11M48.00S,2,1610612742,DAL,1630702,Hardy,J. Hardy,38,147,15,Missed,1,26,22,48,h,MISS Hardy 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,146
+22300768,192,PT11M47.00S,2,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,26,22,48,h,Gafford REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,147
+22300768,193,PT11M45.00S,2,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,26,22,48,h,Gafford Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,148
+22300768,194,PT11M44.00S,2,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,26,22,48,h,Irving L.B.FOUL (P1.T1) (J.Butler),Foul,Loose Ball,1,0,149
+22300768,196,PT11M31.00S,2,1610612764,WAS,1626153,Wright,D. Wright,-39,66,8,Made,1,26,24,50,v,Wright 8' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,150
+22300768,197,PT11M17.00S,2,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,26,24,50,h,Hardy Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,151
+22300768,198,PT11M03.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,-192,174,26,Missed,1,26,24,50,v,MISS Kispert 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,152
+22300768,199,PT11M01.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,26,24,50,v,Coulibaly REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,153
+22300768,200,PT10M59.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,-18,21,3,Missed,1,26,24,50,v,MISS Coulibaly 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,154
+22300768,201,PT10M59.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,26,24,50,v,Coulibaly REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,155
+22300768,202,PT10M57.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,-18,15,2,Missed,1,26,24,50,v,MISS Coulibaly 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,156
+22300768,202,PT10M57.00S,2,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,26,24,50,h,Gafford BLOCK (1 BLK),,,1,2,157
+22300768,204,PT10M56.00S,2,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,26,24,50,v,Bagley III REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,158
+22300768,205,PT10M55.00S,2,1610612764,WAS,1628963,Bagley III,M. Bagley III,-1,4,0,Made,1,26,26,52,v,Bagley III Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,159
+22300768,206,PT10M39.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-191,176,26,Missed,1,26,26,52,h,MISS Hardaway Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+22300768,207,PT10M37.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,26,26,52,v,Shamet REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,161
+22300768,208,PT10M33.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,26,26,52,h,Hardaway Jr. P.FOUL (P2.T2) (J.Orr),Foul,Personal,1,0,162
+22300768,210,PT10M33.00S,2,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,26,26,52,h,SUB: Green FOR Hardy,Substitution,,0,0,163
+22300768,212,PT10M17.00S,2,1610612764,WAS,1626153,Wright,D. Wright,26,26,4,Missed,1,26,26,52,v,MISS Wright 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,164
+22300768,213,PT10M13.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,26,26,52,h,Hardaway Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,165
+22300768,214,PT10M10.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-17,40,4,Missed,1,26,26,52,h,MISS Hardaway Jr. 4' Running Layup,Missed Shot,Running Layup Shot,1,2,166
+22300768,215,PT10M07.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,26,26,52,v,Kispert REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,167
+22300768,216,PT10M04.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,-136,224,26,Missed,1,26,26,52,v,MISS Coulibaly 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,168
+22300768,217,PT09M59.00S,2,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,26,26,52,h,Irving REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,169
+22300768,218,PT09M54.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,158,222,27,Missed,1,26,26,52,h,MISS Hardaway Jr. 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,170
+22300768,219,PT09M51.00S,2,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,26,26,52,v,Wright REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,171
+22300768,220,PT09M46.00S,2,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,26,26,52,v,Bagley III OFF.Foul (P1) (J.Butler),Foul,Offensive,1,0,172
+22300768,222,PT09M46.00S,2,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,26,26,52,v,Bagley III Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,173
+22300768,223,PT09M46.00S,2,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,26,26,52,h,SUB: Kleber FOR Gafford,Substitution,,0,0,174
+22300768,225,PT09M32.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,25,251,25,Missed,1,26,26,52,h,MISS Hardaway Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,175
+22300768,226,PT09M30.00S,2,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,26,26,52,h,Green REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,176
+22300768,227,PT09M22.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-5,258,26,Missed,1,26,26,52,h,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,177
+22300768,228,PT09M19.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,26,26,52,v,Coulibaly REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,178
+22300768,229,PT09M15.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,192,179,26,Made,1,26,29,55,v,Shamet 26' 3PT Running Pull-Up Jump Shot (3 PTS) (Coulibaly 1 AST),Made Shot,Running Pull-Up Jump Shot,1,3,179
+22300768,231,PT09M14.00S,2,0,,1610612742,,,0,0,0,,0,26,29,55,h,MAVERICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,180
+22300768,232,PT09M14.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,26,29,55,h,SUB: Doncic FOR Hardaway Jr.,Substitution,,0,0,181
+22300768,234,PT09M02.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,26,29,55,v,Coulibaly S.FOUL (P1.T1) (J.Butler),Foul,Shooting,1,0,182
+22300768,236,PT09M02.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,27,29,56,h,Doncic Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,183
+22300768,237,PT09M02.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,28,29,57,h,Doncic Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,184
+22300768,238,PT08M45.00S,2,1610612764,WAS,1628963,Bagley III,M. Bagley III,45,38,6,Missed,1,28,29,57,v,MISS Bagley III 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,185
+22300768,239,PT08M42.00S,2,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,28,29,57,v,Bagley III REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,186
+22300768,240,PT08M41.00S,2,1610612764,WAS,1628963,Bagley III,M. Bagley III,4,15,2,Made,1,28,31,59,v,Bagley III 2' Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,1,2,187
+22300768,241,PT08M25.00S,2,1610612742,DAL,202681,Irving,K. Irving,135,220,26,Made,1,31,31,62,h,Irving 26' 3PT Jump Shot (13 PTS) (Doncic 6 AST),Made Shot,Jump Shot,1,3,188
+22300768,243,PT08M13.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,36,24,4,Missed,1,31,31,62,v,MISS Coulibaly 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,189
+22300768,243,PT08M13.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,31,31,62,h,Doncic BLOCK (2 BLK),,,1,2,190
+22300768,245,PT08M12.00S,2,0,,1610612764,,,0,0,0,,0,31,31,62,v,Wizards Rebound,Rebound,Unknown,0,0,191
+22300768,247,PT08M12.00S,2,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,31,31,62,h,SUB: Washington FOR Jones Jr.,Substitution,,0,0,192
+22300768,249,PT08M10.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,225,24,0,Made,1,31,34,65,v,Shamet 3PT Jump Shot (6 PTS) (Wright 1 AST),Made Shot,Jump Shot,1,3,193
+22300768,251,PT07M51.00S,2,1610612742,DAL,202681,Irving,K. Irving,208,148,26,Missed,1,31,34,65,h,MISS Irving 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,194
+22300768,252,PT07M49.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,31,34,65,v,Coulibaly REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,195
+22300768,253,PT07M45.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,31,34,65,v,Coulibaly Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,196
+22300768,253,PT07M45.00S,2,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,31,34,65,h,Green STEAL (1 STL),,,1,0,197
+22300768,255,PT07M40.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,-172,226,28,Missed,1,31,34,65,h,MISS Doncic 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,198
+22300768,256,PT07M38.00S,2,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,31,34,65,v,Bagley III REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,199
+22300768,257,PT07M22.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,230,29,0,Missed,1,31,34,65,v,MISS Shamet 3PT Jump Shot,Missed Shot,Jump Shot,1,3,200
+22300768,258,PT07M20.00S,2,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,31,34,65,h,Kleber REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,201
+22300768,259,PT07M15.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,-69,81,11,Missed,1,31,34,65,h,MISS Doncic 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,202
+22300768,260,PT07M11.00S,2,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,31,34,65,v,Bagley III REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,203
+22300768,261,PT07M09.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,23,11,3,Missed,1,31,34,65,v,MISS Coulibaly 3' Running Layup,Missed Shot,Running Layup Shot,1,2,204
+22300768,261,PT07M09.00S,2,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,31,34,65,h,Kleber BLOCK (1 BLK),,,1,2,205
+22300768,262,PT07M08.00S,2,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,31,34,65,h,Washington REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,206
+22300768,263,PT07M04.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,9,7,1,Made,1,33,34,67,h,Doncic 1' Running Layup (9 PTS) (Washington 1 AST),Made Shot,Running Layup Shot,1,2,207
+22300768,265,PT07M04.00S,2,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,33,34,67,v,Wright S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,1,0,208
+22300768,268,PT07M04.00S,2,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,33,34,67,v,SUB: Kuzma FOR Coulibaly,Substitution,,0,0,209
+22300768,269,PT07M04.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,33,34,67,v,SUB: Avdija FOR Kispert,Substitution,,0,0,210
+22300768,270,PT07M04.00S,2,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,33,34,67,v,SUB: Holmes FOR Bagley III,Substitution,,0,0,211
+22300768,271,PT07M04.00S,2,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,33,34,67,v,SUB: Jones FOR Wright,Substitution,,0,0,212
+22300768,276,PT07M04.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,34,34,68,h,Doncic Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,213
+22300768,277,PT06M54.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,34,34,68,h,Doncic S.FOUL (P2.T3) (M.Ervin),Foul,Shooting,1,0,214
+22300768,279,PT06M54.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,34,35,69,v,Avdija Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,215
+22300768,280,PT06M54.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,34,36,70,v,Avdija Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,216
+22300768,281,PT06M45.00S,2,1610612742,DAL,1630182,Green,J. Green,10,16,2,Made,1,36,36,72,h,Green 2' Cutting Dunk Shot (2 PTS) (Doncic 7 AST),Made Shot,Cutting Dunk Shot,1,2,217
+22300768,283,PT06M45.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,36,36,72,v,Kuzma S.FOUL (P2.T3) (M.Ervin),Foul,Shooting,1,0,218
+22300768,286,PT06M45.00S,2,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,37,36,73,h,Green Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,219
+22300768,287,PT06M27.00S,2,1610612764,WAS,1626158,Holmes,R. Holmes,5,110,11,Missed,1,37,36,73,v,MISS Holmes 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,220
+22300768,288,PT06M24.00S,2,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,37,36,73,h,Washington REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,221
+22300768,289,PT06M19.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,-55,248,25,Missed,1,37,36,73,h,MISS Doncic 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,222
+22300768,290,PT06M16.00S,2,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,37,36,73,v,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,223
+22300768,291,PT06M14.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-4,19,2,Made,1,37,38,75,v,Kuzma 2' Running Layup (8 PTS) (Jones 6 AST),Made Shot,Running Layup Shot,1,2,224
+22300768,293,PT06M14.00S,2,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,37,38,75,h,Irving S.FOUL (P2.T4) (M.Ervin),Foul,Shooting,1,0,225
+22300768,295,PT06M14.00S,2,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,37,38,75,h,SUB: Gafford FOR Kleber,Substitution,,0,0,226
+22300768,297,PT06M14.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,37,39,76,v,Kuzma Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,227
+22300768,298,PT05M56.00S,2,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,37,39,76,h,Irving Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,228
+22300768,298,PT05M56.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,37,39,76,v,Shamet STEAL (2 STL),,,1,0,229
+22300768,300,PT05M54.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,37,39,76,v,Avdija Traveling Turnover (P1.T9),Turnover,Traveling,1,0,230
+22300768,301,PT05M54.00S,2,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,37,39,76,h,SUB: Hardaway Jr. FOR Irving,Substitution,,0,0,231
+22300768,302,PT05M54.00S,2,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,37,39,76,v,SUB: Poole FOR Shamet,Substitution,,0,0,232
+22300768,305,PT05M44.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,37,39,76,v,Avdija P.FOUL (P1.T4) (J.Butler),Foul,Personal,1,0,233
+22300768,308,PT05M34.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-85,183,20,Made,1,39,39,78,h,Hardaway Jr. 20' Pullup Jump Shot (2 PTS) (Gafford 1 AST),Made Shot,Pullup Jump shot,1,2,234
+22300768,310,PT05M18.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,45,34,6,Made,1,39,41,80,v,Avdija 6' Driving Floating Bank Jump Shot (10 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,235
+22300768,311,PT05M05.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,102,47,11,Missed,1,39,41,80,h,MISS Hardaway Jr. 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,236
+22300768,312,PT05M04.00S,2,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,39,41,80,h,Gafford REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,237
+22300768,313,PT05M02.00S,2,1610612742,DAL,1630182,Green,J. Green,-20,11,2,Made,1,41,41,82,h,Green 2' Cutting Layup Shot (5 PTS) (Gafford 2 AST),Made Shot,Cutting Layup Shot,1,2,238
+22300768,315,PT04M54.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,114,190,22,Made,1,41,43,84,v,Kuzma 22' Jump Shot (11 PTS) (Jones 7 AST),Made Shot,Jump Shot,1,2,239
+22300768,317,PT04M43.00S,2,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,41,43,84,v,Holmes P.FOUL (P1.PN) (M.Ervin),Foul,Personal,1,0,240
+22300768,319,PT04M43.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,42,43,85,h,Doncic Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,241
+22300768,320,PT04M43.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,43,43,86,h,Doncic Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,242
+22300768,321,PT04M43.00S,2,0,,1610612764,,,0,0,0,,0,43,43,86,v,Wizards Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,243
+22300768,322,PT04M24.00S,2,1610612764,WAS,1626158,Holmes,R. Holmes,-39,38,5,Missed,1,43,43,86,v,MISS Holmes 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,244
+22300768,322,PT04M24.00S,2,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,43,43,86,h,Gafford BLOCK (2 BLK),,,1,2,245
+22300768,324,PT04M20.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,43,43,86,h,Doncic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,246
+22300768,325,PT04M17.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,-132,220,26,Made,1,46,43,89,h,Hardaway Jr. 26' 3PT Running Jump Shot (5 PTS) (Doncic 8 AST),Made Shot,Running Jump Shot,1,3,247
+22300768,327,PT04M04.00S,2,1610612764,WAS,1626158,Holmes,R. Holmes,-11,11,2,Made,1,46,45,91,v,Holmes 2' Alley Oop Layup (6 PTS) (Avdija 1 AST),Made Shot,Alley Oop Layup shot,1,2,248
+22300768,329,PT03M51.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,46,45,91,h,Hardaway Jr. OFF.Foul (P3) (M.Ervin),Foul,Offensive,1,0,249
+22300768,331,PT03M51.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,46,45,91,h,Hardaway Jr. Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,250
+22300768,332,PT03M51.00S,2,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,46,45,91,h,SUB: Irving FOR Hardaway Jr.,Substitution,,0,0,251
+22300768,333,PT03M51.00S,2,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,46,45,91,v,SUB: Bagley III FOR Holmes,Substitution,,0,0,252
+22300768,336,PT03M35.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,1,15,2,Missed,1,46,45,91,v,MISS Kuzma 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,253
+22300768,337,PT03M33.00S,2,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,46,45,91,h,Gafford REBOUND (Off:5 Def:6),Rebound,Unknown,1,0,254
+22300768,338,PT03M16.00S,2,1610612742,DAL,1629023,Washington,P. Washington,-12,22,3,Missed,1,46,45,91,h,MISS Washington 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,255
+22300768,338,PT03M16.00S,2,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,46,45,91,v,Poole BLOCK (1 BLK),,,1,2,256
+22300768,340,PT03M12.00S,2,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,46,45,91,h,Gafford REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,257
+22300768,341,PT03M09.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,46,45,91,h,Doncic Lost Ball Turnover (P4.T11),Turnover,Lost Ball,1,0,258
+22300768,341,PT03M09.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,46,45,91,v,Kuzma STEAL (1 STL),,,1,0,259
+22300768,343,PT03M09.00S,2,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,46,45,91,h,Green P.FOUL (P1.PN) (J.Orr),Foul,Personal,1,0,260
+22300768,345,PT03M09.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,46,46,92,v,Kuzma Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,261
+22300768,346,PT03M09.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,46,47,93,v,Kuzma Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,262
+22300768,347,PT02M52.00S,2,1610612742,DAL,1629655,Gafford,D. Gafford,-1,5,1,Made,1,48,47,95,h,Gafford 1' Cutting Layup Shot (7 PTS) (Doncic 9 AST),Made Shot,Cutting Layup Shot,1,2,263
+22300768,349,PT02M31.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,-45,36,6,Missed,1,48,47,95,v,MISS Avdija 6' Layup,Missed Shot,Layup Shot,1,2,264
+22300768,349,PT02M31.00S,2,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,48,47,95,h,Gafford BLOCK (3 BLK),,,1,2,265
+22300768,351,PT02M28.00S,2,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,48,47,95,h,Gafford REBOUND (Off:6 Def:7),Rebound,Unknown,1,0,266
+22300768,352,PT02M26.00S,2,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,48,47,95,v,Bagley III S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,1,0,267
+22300768,354,PT02M26.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,49,47,96,h,Doncic Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,268
+22300768,355,PT02M26.00S,2,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,49,47,96,h,MISS Doncic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,269
+22300768,356,PT02M23.00S,2,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,49,47,96,v,Bagley III REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,270
+22300768,357,PT02M14.00S,2,1610612764,WAS,1626145,Jones,T. Jones,-59,97,11,Made,1,49,49,98,v,Jones 11' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,271
+22300768,358,PT01M55.00S,2,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,49,49,98,h,Washington Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,272
+22300768,358,PT01M55.00S,2,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,49,49,98,v,Bagley III STEAL (1 STL),,,1,0,273
+22300768,360,PT01M51.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,9,29,3,Made,1,49,51,100,v,Avdija 3' Running Layup (12 PTS) (Jones 8 AST),Made Shot,Running Layup Shot,1,2,274
+22300768,363,PT01M37.00S,2,1610612742,DAL,1629655,Gafford,D. Gafford,9,12,2,Missed,1,49,51,100,h,MISS Gafford 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,275
+22300768,364,PT01M34.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,49,51,100,v,Avdija REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,276
+22300768,365,PT01M26.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,-4,64,6,Made,1,49,53,102,v,Avdija 6' Floating Jump Shot (14 PTS) (Jones 9 AST),Made Shot,Floating Jump shot,1,2,277
+22300768,367,PT01M12.00S,2,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,49,53,102,h,Irving Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,278
+22300768,367,PT01M12.00S,2,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,49,53,102,v,Jones STEAL (2 STL),,,1,0,279
+22300768,369,PT01M07.00S,2,1610612764,WAS,1626145,Jones,T. Jones,-7,9,1,Made,1,49,55,104,v,Jones 1' Running Layup (8 PTS) (Bagley III 1 AST),Made Shot,Running Layup Shot,1,2,280
+22300768,371,PT00M52.70S,2,1610612742,DAL,1629023,Washington,P. Washington,-230,52,24,Missed,1,49,55,104,h,MISS Washington 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,281
+22300768,372,PT00M49.40S,2,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,49,55,104,v,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,282
+22300768,373,PT00M34.60S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-68,274,28,Missed,1,49,55,104,v,MISS Kuzma 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,283
+22300768,374,PT00M31.50S,2,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,49,55,104,h,Gafford REBOUND (Off:6 Def:8),Rebound,Unknown,1,0,284
+22300768,375,PT00M23.40S,2,1610612742,DAL,1629023,Washington,P. Washington,-4,-9,1,Made,1,51,55,106,h,Washington 1' Dunk (4 PTS) (Doncic 10 AST),Made Shot,Dunk Shot,1,2,285
+22300768,377,PT00M00.90S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-223,31,0,Made,1,51,58,109,v,Kuzma 3PT Jump Shot (16 PTS) (Jones 10 AST),Made Shot,Jump Shot,1,3,286
+22300768,379,PT00M00.00S,2,0,,0,,,0,0,0,,0,51,58,109,,End of 2nd Period (9:36 PM EST),period,end,1,0,287
+22300768,380,PT12M00.00S,3,0,,0,,,0,0,0,,0,51,58,109,,Start of 3rd Period (9:51 PM EST),period,start,0,0,288
+22300768,381,PT11M40.00S,3,1610612742,DAL,1629023,Washington,P. Washington,190,167,25,Missed,1,51,58,109,h,MISS Washington 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,289
+22300768,382,PT11M35.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,51,58,109,v,Poole REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,290
+22300768,383,PT11M31.00S,3,1610612764,WAS,1629673,Poole,J. Poole,66,252,26,Made,1,51,61,112,v,Poole 26' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,291
+22300768,384,PT11M20.00S,3,1610612742,DAL,202681,Irving,K. Irving,-7,34,3,Made,1,53,61,114,h,Irving 3' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,1,2,292
+22300768,385,PT11M01.00S,3,1610612764,WAS,1626145,Jones,T. Jones,59,29,7,Missed,1,53,61,114,v,MISS Jones 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,293
+22300768,386,PT10M58.00S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,53,61,114,h,Irving REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,294
+22300768,387,PT10M54.00S,3,1610612742,DAL,1629655,Gafford,D. Gafford,20,13,2,Made,1,55,61,116,h,Gafford 2' Running Layup (9 PTS) (Green 1 AST),Made Shot,Running Layup Shot,1,2,295
+22300768,389,PT10M34.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,-234,54,24,Missed,1,55,61,116,v,MISS Kuzma 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,296
+22300768,390,PT10M32.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,55,61,116,h,Doncic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,297
+22300768,391,PT10M22.00S,3,1610612742,DAL,1630182,Green,J. Green,-23,20,3,Made,1,57,61,118,h,Green 3' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,298
+22300768,392,PT09M59.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,-132,220,26,Made,1,57,64,121,v,Avdija 26' 3PT Step Back Jump Shot (17 PTS) (Bagley III 2 AST),Made Shot,Step Back Jump shot,1,3,299
+22300768,394,PT09M39.00S,3,1610612742,DAL,1629655,Gafford,D. Gafford,-5,16,2,Made,1,59,64,123,h,Gafford 2' Cutting Dunk Shot (11 PTS) (Washington 2 AST),Made Shot,Cutting Dunk Shot,1,2,300
+22300768,396,PT09M27.00S,3,1610612764,WAS,1629673,Poole,J. Poole,-164,207,26,Missed,1,59,64,123,v,MISS Poole 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,301
+22300768,397,PT09M25.00S,3,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,59,64,123,h,Gafford REBOUND (Off:6 Def:9),Rebound,Unknown,1,0,302
+22300768,398,PT09M22.00S,3,1610612742,DAL,202681,Irving,K. Irving,34,262,26,Missed,1,59,64,123,h,MISS Irving 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,303
+22300768,399,PT09M19.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,59,64,123,v,Avdija REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,304
+22300768,400,PT09M12.00S,3,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,59,64,123,h,Green S.FOUL (P2.T1) (J.Butler),Foul,Shooting,1,0,305
+22300768,402,PT09M12.00S,3,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,59,65,124,v,Jones Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,306
+22300768,403,PT09M12.00S,3,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,59,66,125,v,Jones Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,307
+22300768,404,PT09M01.00S,3,1610612742,DAL,1630182,Green,J. Green,168,208,27,Made,1,62,66,128,h,Green 27' 3PT Jump Shot (10 PTS) (Irving 1 AST),Made Shot,Jump Shot,1,3,308
+22300768,406,PT08M45.00S,3,1610612764,WAS,1628963,Bagley III,M. Bagley III,-21,17,3,Missed,1,62,66,128,v,MISS Bagley III 3' Dunk,Missed Shot,Dunk Shot,1,2,309
+22300768,406,PT08M45.00S,3,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,62,66,128,h,Gafford BLOCK (4 BLK),,,1,2,310
+22300768,408,PT08M44.00S,3,0,,1610612764,,,0,0,0,,0,62,66,128,v,Wizards Rebound,Rebound,Unknown,0,0,311
+22300768,411,PT08M39.00S,3,1610612764,WAS,1628963,Bagley III,M. Bagley III,-21,32,4,Missed,1,62,66,128,v,MISS Bagley III 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,312
+22300768,411,PT08M39.00S,3,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,62,66,128,h,Gafford BLOCK (5 BLK),,,1,2,313
+22300768,413,PT08M38.00S,3,0,,1610612764,,,0,0,0,,0,62,66,128,v,Wizards Rebound,Rebound,Unknown,1,0,314
+22300768,415,PT08M35.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,-189,174,26,Missed,1,62,66,128,v,MISS Kuzma 26' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,315
+22300768,416,PT08M33.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,62,66,128,h,Doncic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,316
+22300768,417,PT08M21.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,-23,286,29,Missed,1,62,66,128,h,MISS Doncic 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,317
+22300768,418,PT08M19.00S,3,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,62,66,128,v,Bagley III REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,318
+22300768,419,PT08M09.00S,3,1610612764,WAS,1626145,Jones,T. Jones,-16,38,4,Made,1,62,68,130,v,Jones 4' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,319
+22300768,420,PT08M00.00S,3,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,62,68,130,v,Bagley III S.FOUL (P3.T1) (J.Orr),Foul,Shooting,1,0,320
+22300768,422,PT08M00.00S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,63,68,131,h,Irving Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,321
+22300768,423,PT08M00.00S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,63,68,131,h,MISS Irving Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,322
+22300768,424,PT07M59.00S,3,0,,1610612764,,,0,0,0,,0,63,68,131,v,Wizards Rebound,Rebound,Unknown,1,0,323
+22300768,426,PT07M45.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,17,12,2,Made,1,63,70,133,v,Avdija 2' Driving Layup (19 PTS) (Jones 11 AST),Made Shot,Driving Layup Shot,1,2,324
+22300768,428,PT07M36.00S,3,1610612742,DAL,1629655,Gafford,D. Gafford,1,20,2,Made,1,65,70,135,h,Gafford 2' Cutting Layup Shot (13 PTS) (Doncic 11 AST),Made Shot,Cutting Layup Shot,1,2,325
+22300768,429,PT07M36.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,65,70,135,v,Avdija S.FOUL (P2.T2) (M.Ervin),Foul,Shooting,1,0,326
+22300768,432,PT07M36.00S,3,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,66,70,136,h,Gafford Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,327
+22300768,433,PT07M26.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,127,216,25,Missed,1,66,70,136,v,MISS Avdija 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+22300768,434,PT07M22.00S,3,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,66,70,136,h,Gafford REBOUND (Off:6 Def:10),Rebound,Unknown,1,0,329
+22300768,435,PT07M15.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,66,70,136,h,Doncic Lost Ball Turnover (P5.T14),Turnover,Lost Ball,1,0,330
+22300768,435,PT07M15.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,66,70,136,v,Poole STEAL (3 STL),,,1,0,331
+22300768,437,PT07M11.00S,3,1610612764,WAS,1628963,Bagley III,M. Bagley III,-2,-3,0,Made,1,66,72,138,v,Bagley III Running Dunk (8 PTS) (Poole 2 AST),Made Shot,Running Dunk Shot,1,2,332
+22300768,439,PT06M57.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,66,72,138,v,Poole P.FOUL (P2.T3) (M.Ervin),Foul,Personal,1,0,333
+22300768,441,PT06M57.00S,3,0,,1610612742,,,0,0,0,,0,66,72,138,h,MAVERICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,334
+22300768,442,PT06M57.00S,3,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,66,72,138,h,SUB: Hardaway Jr. FOR Washington,Substitution,,0,0,335
+22300768,443,PT06M57.00S,3,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,66,72,138,h,SUB: Kleber FOR Gafford,Substitution,,0,0,336
+22300768,444,PT06M57.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,66,72,138,v,SUB: Coulibaly FOR Avdija,Substitution,,0,0,337
+22300768,445,PT06M57.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,66,72,138,v,SUB: Kispert FOR Poole,Substitution,,0,0,338
+22300768,450,PT06M46.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,20,10,2,Made,1,68,72,140,h,Doncic 2' Cutting Finger Roll Layup Shot (15 PTS) (Green 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,339
+22300768,452,PT06M30.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,-5,1,Made,1,68,74,142,v,Kuzma 1' Cutting Dunk Shot (18 PTS) (Jones 12 AST),Made Shot,Cutting Dunk Shot,1,2,340
+22300768,454,PT06M12.00S,3,1610612742,DAL,1628467,Kleber,M. Kleber,232,29,0,Missed,1,68,74,142,h,MISS Kleber 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+22300768,455,PT06M09.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,68,74,142,v,Kuzma REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,342
+22300768,456,PT05M55.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,-17,50,5,Missed,1,68,74,142,v,MISS Kispert 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,343
+22300768,457,PT05M52.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,68,74,142,v,Kispert REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,344
+22300768,458,PT05M45.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,-44,117,13,Missed,1,68,74,142,v,MISS Kispert 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,345
+22300768,459,PT05M40.00S,3,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,68,74,142,v,Bagley III REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,346
+22300768,460,PT05M32.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,4,41,4,Missed,1,68,74,142,v,MISS Kuzma 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,347
+22300768,461,PT05M30.00S,3,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,68,74,142,v,Bagley III REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,348
+22300768,462,PT05M29.00S,3,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,Made,1,68,76,144,v,Bagley III Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,349
+22300768,463,PT05M19.00S,3,1610612742,DAL,202681,Irving,K. Irving,37,40,5,Made,1,70,76,146,h,Irving 5' Driving Floating Bank Jump Shot (18 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,350
+22300768,464,PT05M08.00S,3,1610612764,WAS,1626145,Jones,T. Jones,-50,68,8,Made,1,70,78,148,v,Jones 8' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,1,2,351
+22300768,465,PT04M54.00S,3,1610612742,DAL,1630182,Green,J. Green,-12,13,2,Made,1,72,78,150,h,Green 2' Cutting Dunk Shot (12 PTS) (Irving 2 AST),Made Shot,Cutting Dunk Shot,1,2,352
+22300768,467,PT04M42.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,235,34,24,Missed,1,72,78,150,v,MISS Kispert 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+22300768,468,PT04M40.00S,3,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,72,78,150,h,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,354
+22300768,469,PT04M32.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,71,122,14,Made,1,74,78,152,h,Doncic 14' Turnaround Fadeaway (17 PTS),Made Shot,Turnaround Fadeaway shot,1,2,355
+22300768,470,PT04M13.00S,3,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,230,27,0,Missed,1,74,78,152,v,MISS Coulibaly 3PT Jump Shot,Missed Shot,Jump Shot,1,3,356
+22300768,471,PT04M11.00S,3,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,74,78,152,h,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,357
+22300768,472,PT04M05.00S,3,1610612742,DAL,202681,Irving,K. Irving,67,106,13,Missed,1,74,78,152,h,MISS Irving 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,358
+22300768,473,PT04M02.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,74,78,152,v,Kuzma REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,359
+22300768,474,PT03M57.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,-165,199,26,Made,1,74,81,155,v,Kispert 26' 3PT Running Jump Shot (3 PTS) (Jones 13 AST),Made Shot,Running Jump Shot,1,3,360
+22300768,476,PT03M37.00S,3,1610612742,DAL,202681,Irving,K. Irving,-6,8,1,Missed,1,74,81,155,h,MISS Irving 1' Layup,Missed Shot,Layup Shot,1,2,361
+22300768,477,PT03M35.00S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,74,81,155,h,Irving REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,362
+22300768,478,PT03M34.00S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,Made,1,76,81,157,h,Irving Tip Layup Shot (20 PTS),Made Shot,Tip Layup Shot,1,2,363
+22300768,479,PT03M21.00S,3,1610612764,WAS,1626145,Jones,T. Jones,-104,158,19,Missed,1,76,81,157,v,MISS Jones 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,364
+22300768,480,PT03M20.00S,3,0,,1610612764,,,0,0,0,,0,76,81,157,v,Wizards Rebound,Rebound,Unknown,1,0,365
+22300768,482,PT03M20.00S,3,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,76,81,157,h,Green L.B.FOUL (P3.T2) (M.Ervin),Foul,Loose Ball,1,0,366
+22300768,484,PT03M20.00S,3,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,76,81,157,h,SUB: Washington FOR Green,Substitution,,0,0,367
+22300768,485,PT03M20.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,76,81,157,h,SUB: Jones Jr. FOR Doncic,Substitution,,0,0,368
+22300768,486,PT03M20.00S,3,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,76,81,157,v,SUB: Holmes FOR Jones,Substitution,,0,0,369
+22300768,487,PT03M20.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,76,81,157,v,SUB: Poole FOR Kuzma,Substitution,,0,0,370
+22300768,488,PT03M20.00S,3,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,76,81,157,v,SUB: Avdija FOR Bagley III,Substitution,,0,0,371
+22300768,494,PT03M08.00S,3,1610612764,WAS,1629673,Poole,J. Poole,88,59,11,Missed,1,76,81,157,v,MISS Poole 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,372
+22300768,495,PT03M05.00S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,76,81,157,h,Irving REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,373
+22300768,496,PT03M00.00S,3,1610612742,DAL,202681,Irving,K. Irving,80,36,9,Made,1,78,81,159,h,Irving 9' Driving Floating Bank Jump Shot (22 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,374
+22300768,497,PT02M46.00S,3,1610612764,WAS,1626158,Holmes,R. Holmes,-6,12,1,Made,1,78,83,161,v,Holmes 1' Layup (8 PTS) (Kispert 1 AST),Made Shot,Layup Shot,1,2,375
+22300768,499,PT02M31.00S,3,1610612742,DAL,202681,Irving,K. Irving,13,258,26,Missed,1,78,83,161,h,MISS Irving 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,376
+22300768,500,PT02M26.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,78,83,161,v,Avdija REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,377
+22300768,501,PT02M17.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,78,83,161,v,Avdija Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,378
+22300768,501,PT02M17.00S,3,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,78,83,161,h,Jones Jr. STEAL (1 STL),,,1,0,379
+22300768,503,PT02M10.00S,3,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,92,285,30,Missed,1,78,83,161,h,MISS Hardaway Jr. 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+22300768,504,PT02M08.00S,3,0,,1610612764,,,0,0,0,,0,78,83,161,v,Wizards Rebound,Rebound,Unknown,0,0,381
+22300768,506,PT02M08.00S,3,0,,1610612764,,,0,0,0,,0,78,83,161,v,Wizards Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,382
+22300768,507,PT02M08.00S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,78,83,161,h,SUB: Doncic FOR Irving,Substitution,,0,0,383
+22300768,509,PT01M55.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,-29,267,27,Missed,1,78,83,161,v,MISS Kispert 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,384
+22300768,510,PT01M53.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,78,83,161,h,Doncic REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,385
+22300768,511,PT01M43.00S,3,1610612742,DAL,1629023,Washington,P. Washington,-167,176,24,Missed,1,78,83,161,h,MISS Washington 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,386
+22300768,512,PT01M37.00S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,78,83,161,v,Poole REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,387
+22300768,532,PT01M33.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,78,83,161,v,Kispert OFF.Foul (P2) (M.Ervin),Foul,Offensive,0,0,388
+22300768,533,PT01M33.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,78,83,161,v,Kispert Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,389
+22300768,519,PT01M33.00S,3,0,,1610612764,,,0,0,0,,0,78,83,161,v,Wizards Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,390
+22300768,520,PT01M33.00S,3,0,,515,,,0,0,0,,0,78,83,161,,Instant Replay3rd Period (10:13 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,391
+22300768,521,PT01M33.00S,3,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,78,83,161,h,SUB: Irving FOR Doncic,Substitution,,0,0,392
+22300768,523,PT01M21.00S,3,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,-44,64,8,Missed,1,78,83,161,h,MISS Jones Jr. 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,393
+22300768,523,PT01M21.00S,3,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,78,83,161,v,Holmes BLOCK (1 BLK),,,1,2,394
+22300768,524,PT01M19.00S,3,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,78,83,161,h,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,395
+22300768,525,PT01M18.00S,3,1610612742,DAL,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,78,83,161,h,Jones Jr. Out of Bounds Lost Ball Turnover (P1.T15),Turnover,Out of Bounds Lost Ball Turnover,1,0,396
+22300768,526,PT01M06.00S,3,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,-225,37,0,Made,1,78,86,164,v,Coulibaly 3PT Jump Shot (3 PTS) (Avdija 2 AST),Made Shot,Jump Shot,1,3,397
+22300768,529,PT00M44.20S,3,1610612742,DAL,1629023,Washington,P. Washington,6,58,6,Missed,1,78,86,164,h,MISS Washington 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,398
+22300768,530,PT00M43.10S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,78,86,164,v,Avdija REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,399
+22300768,535,PT00M29.50S,3,1610612764,WAS,1629673,Poole,J. Poole,-47,54,7,Missed,1,78,86,164,v,MISS Poole 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,400
+22300768,535,PT00M29.50S,3,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,78,86,164,h,Irving BLOCK (1 BLK),,,1,2,401
+22300768,537,PT00M26.60S,3,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,78,86,164,v,Holmes REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,402
+22300768,538,PT00M23.20S,3,1610612764,WAS,1630557,Kispert,C. Kispert,-9,8,1,Made,1,78,88,166,v,Kispert 1' Cutting Layup Shot (5 PTS) (Avdija 3 AST),Made Shot,Cutting Layup Shot,1,2,403
+22300768,540,PT00M06.50S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,78,88,166,v,Poole P.FOUL (P3.T4) (M.Ervin),Foul,Personal,1,0,404
+22300768,542,PT00M06.50S,3,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,78,88,166,v,SUB: Shamet FOR Poole,Substitution,,0,0,405
+22300768,543,PT00M06.50S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,78,88,166,v,SUB: Wright FOR Kispert,Substitution,,0,0,406
+22300768,546,PT00M00.70S,3,1610612742,DAL,1629023,Washington,P. Washington,81,243,26,Missed,1,78,88,166,h,MISS Washington 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,407
+22300768,547,PT00M00.70S,3,0,,1610612742,,,0,0,0,,0,78,88,166,h,MAVERICKS Rebound,Rebound,Unknown,0,0,408
+22300768,548,PT00M00.00S,3,0,,0,,,0,0,0,,0,78,88,166,,End of 3rd Period (10:19 PM EST),period,end,1,0,409
+22300768,555,PT12M00.00S,4,0,,0,,,0,0,0,,0,78,88,166,,Start of 4th Period (10:21 PM EST),period,start,0,0,410
+22300768,556,PT11M47.00S,4,1610612764,WAS,1629673,Poole,J. Poole,-119,247,27,Missed,1,78,88,166,v,MISS Poole 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,411
+22300768,557,PT11M42.00S,4,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,78,88,166,h,Irving REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,412
+22300768,558,PT11M38.00S,4,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,78,88,166,v,Shamet S.FOUL (P2.T1) (J.Butler),Foul,Shooting,1,0,413
+22300768,560,PT11M38.00S,4,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,78,88,166,v,Holmes T.FOUL (P1.T1) (J.Butler),Foul,Technical,0,0,414
+22300768,561,PT11M38.00S,4,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,78,88,166,h,MISS Irving Free Throw Technical,Free Throw,Free Throw Technical,1,0,415
+22300768,562,PT11M38.00S,4,0,,1610612742,,,0,0,0,,0,78,88,166,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,0,416
+22300768,563,PT11M38.00S,4,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,79,88,167,h,Irving Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,417
+22300768,564,PT11M38.00S,4,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,80,88,168,h,Irving Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,418
+22300768,565,PT11M22.00S,4,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,22,116,12,Missed,1,80,88,168,v,MISS Coulibaly 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,419
+22300768,567,PT11M20.00S,4,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,80,88,168,v,Coulibaly REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,420
+22300768,568,PT11M18.00S,4,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,80,88,168,h,Washington S.FOUL (P1.T1) (J.Butler),Foul,Shooting,1,0,421
+22300768,570,PT11M18.00S,4,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,80,88,168,v,MISS Coulibaly Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,422
+22300768,571,PT11M18.00S,4,0,,1610612764,,,0,0,0,,0,80,88,168,v,Wizards Rebound,Rebound,Normal Rebound,1,0,423
+22300768,572,PT11M18.00S,4,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,80,89,169,v,Coulibaly Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,424
+22300768,573,PT11M00.00S,4,1610612742,DAL,1629655,Gafford,D. Gafford,-7,11,1,Made,1,82,89,171,h,Gafford 1' Cutting Dunk Shot (16 PTS) (Hardaway Jr. 1 AST),Made Shot,Cutting Dunk Shot,1,2,425
+22300768,575,PT10M44.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,-145,110,18,Made,1,82,91,173,v,Avdija 18' Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,1,2,426
+22300768,578,PT10M22.00S,4,1610612742,DAL,202681,Irving,K. Irving,114,95,15,Missed,1,82,91,173,h,MISS Irving 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,427
+22300768,579,PT10M18.00S,4,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,82,91,173,v,Holmes REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,428
+22300768,580,PT10M08.00S,4,1610612764,WAS,1626158,Holmes,R. Holmes,5,117,12,Made,1,82,93,175,v,Holmes 12' Floating Jump Shot (10 PTS) (Poole 3 AST),Made Shot,Floating Jump shot,1,2,429
+22300768,582,PT09M59.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,100,231,25,Missed,1,82,93,175,h,MISS Hardy 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,430
+22300768,583,PT09M57.00S,4,0,,1610612742,,,0,0,0,,0,82,93,175,h,MAVERICKS Rebound,Rebound,Unknown,1,0,431
+22300768,584,PT09M57.00S,4,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,82,93,175,v,Holmes L.B.FOUL (P2.T2) (J.Butler),Foul,Loose Ball,1,0,432
+22300768,586,PT09M50.00S,4,1610612742,DAL,1629023,Washington,P. Washington,-22,22,3,Made,1,84,93,177,h,Washington 3' Layup (6 PTS) (Irving 3 AST),Made Shot,Layup Shot,1,2,433
+22300768,588,PT09M43.00S,4,1610612764,WAS,1629673,Poole,J. Poole,-45,249,25,Missed,1,84,93,177,v,MISS Poole 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,434
+22300768,589,PT09M42.00S,4,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,84,93,177,h,Washington REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,435
+22300768,590,PT09M29.00S,4,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,84,93,177,v,Holmes P.FOUL (P3.T3) (J.Butler),Foul,Personal,1,0,436
+22300768,592,PT09M29.00S,4,1610612764,WAS,1626158,Holmes,R. Holmes,0,0,0,,0,84,93,177,v,SUB: Bagley III FOR Holmes,Substitution,,0,0,437
+22300768,594,PT09M24.00S,4,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,84,93,177,h,Washington OFF.Foul (P2) (M.Ervin),Foul,Offensive,1,0,438
+22300768,596,PT09M24.00S,4,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,84,93,177,h,Washington Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,1,0,439
+22300768,597,PT09M11.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,84,93,177,v,Avdija Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,440
+22300768,597,PT09M11.00S,4,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,84,93,177,h,Hardaway Jr. STEAL (1 STL),,,1,0,441
+22300768,599,PT09M07.00S,4,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,1,35,4,Missed,1,84,93,177,h,MISS Hardaway Jr. 4' Running Layup,Missed Shot,Running Layup Shot,1,2,442
+22300768,599,PT09M07.00S,4,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,84,93,177,v,Coulibaly BLOCK (2 BLK),,,1,2,443
+22300768,601,PT09M03.00S,4,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,84,93,177,v,Poole REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,444
+22300768,602,PT09M00.00S,4,1610612764,WAS,1629013,Shamet,L. Shamet,-126,218,25,Missed,1,84,93,177,v,MISS Shamet 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,445
+22300768,603,PT08M56.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,84,93,177,h,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,446
+22300768,604,PT08M51.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,-10,15,2,Made,1,86,93,179,h,Hardy 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,447
+22300768,605,PT08M44.00S,4,1610612764,WAS,1629673,Poole,J. Poole,25,7,3,Missed,1,86,93,179,v,MISS Poole 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,448
+22300768,606,PT08M42.00S,4,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,86,93,179,v,Bagley III REBOUND (Off:5 Def:8),Rebound,Unknown,1,0,449
+22300768,607,PT08M41.00S,4,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,Made,1,86,95,181,v,Bagley III Tip Dunk Shot (12 PTS),Made Shot,Tip Dunk Shot,1,2,450
+22300768,608,PT08M30.00S,4,1610612742,DAL,1629655,Gafford,D. Gafford,-22,-1,2,Missed,1,86,95,181,h,MISS Gafford 2' Layup,Missed Shot,Layup Shot,1,2,451
+22300768,608,PT08M30.00S,4,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,86,95,181,v,Bagley III BLOCK (1 BLK),,,1,2,452
+22300768,610,PT08M29.00S,4,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,86,95,181,h,Gafford REBOUND (Off:7 Def:10),Rebound,Unknown,1,0,453
+22300768,611,PT08M28.00S,4,1610612742,DAL,1629655,Gafford,D. Gafford,-2,19,2,Missed,1,86,95,181,h,MISS Gafford 2' Layup,Missed Shot,Layup Shot,1,2,454
+22300768,611,PT08M28.00S,4,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,86,95,181,v,Shamet BLOCK (1 BLK),,,1,2,455
+22300768,613,PT08M27.00S,4,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,86,95,181,v,Poole REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,456
+22300768,614,PT08M24.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,16,10,2,Missed,1,86,95,181,v,MISS Avdija 2' Running Layup,Missed Shot,Running Layup Shot,1,2,457
+22300768,614,PT08M24.00S,4,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,86,95,181,h,Hardaway Jr. BLOCK (1 BLK),,,1,2,458
+22300768,616,PT08M23.00S,4,0,,1610612764,,,0,0,0,,0,86,95,181,v,Wizards Rebound,Rebound,Unknown,0,0,459
+22300768,618,PT08M23.00S,4,0,,1610612742,,,0,0,0,,0,86,95,181,h,MAVERICKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,460
+22300768,619,PT08M23.00S,4,0,,594,,,0,0,0,,0,86,95,181,,Instant Replay4th Period (10:29 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,461
+22300768,620,PT08M23.00S,4,1610612742,DAL,1629655,Gafford,D. Gafford,0,0,0,,0,86,95,181,h,SUB: Doncic FOR Gafford,Substitution,,0,0,462
+22300768,621,PT08M23.00S,4,1610612742,DAL,203501,Hardaway Jr.,T. Hardaway Jr.,0,0,0,,0,86,95,181,h,SUB: Kleber FOR Hardaway Jr.,Substitution,,0,0,463
+22300768,622,PT08M23.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,86,95,181,v,SUB: Kuzma FOR Avdija,Substitution,,0,0,464
+22300768,623,PT08M23.00S,4,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,86,95,181,v,SUB: Kispert FOR Poole,Substitution,,0,0,465
+22300768,624,PT08M23.00S,4,1610612764,WAS,1629013,Shamet,L. Shamet,0,0,0,,0,86,95,181,v,SUB: Jones FOR Shamet,Substitution,,0,0,466
+22300768,631,PT08M14.00S,4,1610612764,WAS,1626145,Jones,T. Jones,-124,232,26,Missed,1,86,95,181,v,MISS Jones 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,467
+22300768,632,PT08M10.00S,4,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,86,95,181,h,Washington REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,468
+22300768,633,PT07M58.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,-27,256,26,Made,1,89,95,184,h,Hardy 26' 3PT Jump Shot (7 PTS) (Doncic 12 AST),Made Shot,Jump Shot,1,3,469
+22300768,635,PT07M37.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,88,240,26,Missed,1,89,95,184,v,MISS Kuzma 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,470
+22300768,636,PT07M34.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,89,95,184,h,Doncic REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,471
+22300768,637,PT07M25.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,-51,72,9,Made,1,91,95,186,h,Doncic 9' Turnaround Fadeaway (19 PTS),Made Shot,Turnaround Fadeaway shot,1,2,472
+22300768,638,PT07M06.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,20,48,5,Missed,1,91,95,186,v,MISS Kuzma 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,473
+22300768,639,PT07M04.00S,4,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,91,95,186,h,Kleber REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,474
+22300768,640,PT06M55.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,228,8,0,Made,1,94,95,189,h,Hardy 3PT Jump Shot (10 PTS) (Washington 3 AST),Made Shot,Jump Shot,1,3,475
+22300768,642,PT06M47.00S,4,0,,1610612764,,,0,0,0,,0,94,95,189,v,Wizards Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,476
+22300768,643,PT06M47.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,94,95,189,v,SUB: Avdija FOR Kispert,Substitution,,0,0,477
+22300768,645,PT06M38.00S,4,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,94,95,189,h,Irving S.FOUL (P3.T2) (M.Ervin),Foul,Shooting,1,0,478
+22300768,647,PT06M38.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,94,95,189,v,MISS Kuzma Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,479
+22300768,648,PT06M38.00S,4,0,,1610612764,,,0,0,0,,0,94,95,189,v,Wizards Rebound,Rebound,Normal Rebound,0,0,480
+22300768,649,PT06M38.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,94,96,190,v,Kuzma Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,481
+22300768,650,PT06M26.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,-72,240,25,Missed,1,94,96,190,h,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,482
+22300768,651,PT06M22.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,94,96,190,v,Kuzma REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,483
+22300768,652,PT06M05.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,64,253,26,Missed,1,94,96,190,v,MISS Kuzma 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,484
+22300768,653,PT06M03.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,94,96,190,h,Doncic REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,485
+22300768,654,PT05M56.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,-23,17,3,Missed,1,94,96,190,h,MISS Hardy 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,486
+22300768,654,PT05M56.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,94,96,190,v,Avdija BLOCK (1 BLK),,,1,2,487
+22300768,656,PT05M54.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,94,96,190,v,Kuzma REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,488
+22300768,657,PT05M45.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,-47,256,26,Missed,1,94,96,190,v,MISS Avdija 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,489
+22300768,658,PT05M44.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,94,96,190,h,Doncic REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,490
+22300768,659,PT05M32.00S,4,1610612742,DAL,1628467,Kleber,M. Kleber,-70,250,26,Made,1,97,96,193,h,Kleber 26' 3PT Jump Shot (3 PTS) (Doncic 13 AST),Made Shot,Jump Shot,1,3,491
+22300768,661,PT05M04.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,6,11,1,Made,1,97,98,195,v,Kuzma 1' Driving Layup (21 PTS) (Jones 14 AST),Made Shot,Driving Layup Shot,1,2,492
+22300768,663,PT04M51.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,103,147,18,Made,1,99,98,197,h,Doncic 18' Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,1,2,493
+22300768,664,PT04M31.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,58,44,7,Missed,1,99,98,197,v,MISS Avdija 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,494
+22300768,664,PT04M31.00S,4,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,99,98,197,h,Irving BLOCK (2 BLK),,,1,2,495
+22300768,666,PT04M30.00S,4,0,,1610612742,,,0,0,0,,0,99,98,197,h,MAVERICKS Rebound,Rebound,Unknown,1,0,496
+22300768,668,PT04M30.00S,4,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,99,98,197,h,SUB: Green FOR Hardy,Substitution,,0,0,497
+22300768,669,PT04M30.00S,4,1610612764,WAS,1628963,Bagley III,M. Bagley III,0,0,0,,0,99,98,197,v,SUB: Kispert FOR Bagley III,Substitution,,0,0,498
+22300768,672,PT04M21.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,-179,190,26,Made,1,102,98,200,h,Doncic 26' 3PT Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,1,3,499
+22300768,673,PT04M06.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,-152,201,25,Missed,1,102,98,200,v,MISS Kispert 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,500
+22300768,674,PT04M02.00S,4,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,102,98,200,h,Green REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,501
+22300768,675,PT03M57.00S,4,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,102,98,200,v,Coulibaly S.FOUL (P2.T4) (J.Orr),Foul,Shooting,1,0,502
+22300768,677,PT03M57.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,102,98,200,h,MISS Doncic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,503
+22300768,678,PT03M57.00S,4,0,,1610612742,,,0,0,0,,0,102,98,200,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,0,504
+22300768,679,PT03M57.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,103,98,201,h,Doncic Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,505
+22300768,680,PT03M47.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,103,98,201,h,Doncic S.FOUL (P3.T3) (J.Orr),Foul,Shooting,1,0,506
+22300768,682,PT03M47.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,20,5,2,Made,1,103,100,203,v,Avdija 2' Driving Layup (23 PTS),Made Shot,Driving Layup Shot,1,2,507
+22300768,683,PT03M47.00S,4,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,103,100,203,h,Washington Violation:Defensive Goaltending (M.Ervin),Violation,Defensive Goaltending,1,0,508
+22300768,684,PT03M47.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,103,100,203,v,MISS Avdija Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,509
+22300768,685,PT03M46.00S,4,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,103,100,203,h,Kleber REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,510
+22300768,686,PT03M46.00S,4,0,,1610612742,,,0,0,0,,0,103,100,203,h,MAVERICKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,511
+22300768,687,PT03M38.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,103,100,203,v,Avdija S.FOUL (P3.PN) (J.Butler),Foul,Shooting,1,0,512
+22300768,689,PT03M38.00S,4,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,103,100,203,h,MISS Washington Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,513
+22300768,690,PT03M38.00S,4,0,,1610612742,,,0,0,0,,0,103,100,203,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,0,514
+22300768,691,PT03M38.00S,4,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,104,100,204,h,Washington Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,515
+22300768,693,PT03M18.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,104,100,204,v,Avdija Bad Pass Turnover (P4.T13),Turnover,Bad Pass,1,0,516
+22300768,693,PT03M18.00S,4,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,104,100,204,h,Green STEAL (2 STL),,,1,0,517
+22300768,695,PT03M11.00S,4,1610612742,DAL,1628467,Kleber,M. Kleber,-12,8,1,Made,1,106,100,206,h,Kleber 1' Driving Dunk (5 PTS) (Doncic 14 AST),Made Shot,Driving Dunk Shot,1,2,518
+22300768,697,PT03M11.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,106,100,206,v,Kuzma S.FOUL (P3.PN) (J.Orr),Foul,Shooting,1,0,519
+22300768,699,PT03M11.00S,4,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,106,100,206,h,MISS Kleber Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,520
+22300768,700,PT03M09.00S,4,0,,1610612742,,,0,0,0,,0,106,100,206,h,MAVERICKS Rebound,Rebound,Unknown,1,0,521
+22300768,702,PT03M02.00S,4,1610612742,DAL,1630182,Green,J. Green,-225,17,0,Missed,1,106,100,206,h,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,3,522
+22300768,703,PT02M59.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,106,100,206,v,Avdija REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,523
+22300768,704,PT02M50.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,1,6,1,Made,1,106,102,208,v,Avdija 1' Turnaround Hook Shot (25 PTS) (Jones 15 AST),Made Shot,Turnaround Hook Shot,1,2,524
+22300768,706,PT02M25.00S,4,1610612742,DAL,1629023,Washington,P. Washington,-4,11,1,Made,1,108,102,210,h,Washington 1' Driving Layup (9 PTS) (Irving 4 AST),Made Shot,Driving Layup Shot,1,2,525
+22300768,708,PT02M10.00S,4,1610612764,WAS,1626145,Jones,T. Jones,-11,18,2,Missed,1,108,102,210,v,MISS Jones 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,526
+22300768,709,PT02M07.00S,4,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,108,102,210,h,Kleber REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,527
+22300768,710,PT02M07.00S,4,1610612742,DAL,202681,Irving,K. Irving,-21,16,3,Made,1,110,102,212,h,Irving 3' Running Layup (26 PTS) (Doncic 15 AST),Made Shot,Running Layup Shot,1,2,528
+22300768,712,PT02M07.00S,4,0,,1610612764,,,0,0,0,,0,110,102,212,v,Wizards Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,529
+22300768,714,PT02M00.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,21,12,2,Made,1,110,104,214,v,Kuzma 2' Cutting Layup Shot (23 PTS) (Jones 16 AST),Made Shot,Cutting Layup Shot,1,2,530
+22300768,716,PT01M38.00S,4,1610612742,DAL,202681,Irving,K. Irving,140,214,26,Missed,1,110,104,214,h,MISS Irving 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,531
+22300768,717,PT01M36.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,110,104,214,v,Kuzma REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,532
+22300768,718,PT01M27.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,-192,218,29,Missed,1,110,104,214,v,MISS Kispert 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,533
+22300768,719,PT01M24.00S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,110,104,214,h,Doncic REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,534
+22300768,720,PT00M59.50S,4,1610612742,DAL,1629023,Washington,P. Washington,-227,24,0,Missed,1,110,104,214,h,MISS Washington 3PT Jump Shot,Missed Shot,Jump Shot,1,3,535
+22300768,721,PT00M57.60S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,110,104,214,v,Kuzma REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,536
+22300768,722,PT00M50.90S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,110,104,214,v,Kuzma OFF.Foul (P4) (J.Orr),Foul,Offensive,1,0,537
+22300768,724,PT00M50.90S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,110,104,214,v,Kuzma Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,1,0,538
+22300768,725,PT00M28.20S,4,1610612742,DAL,1628467,Kleber,M. Kleber,-69,180,19,Missed,1,110,104,214,h,MISS Kleber 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,539
+22300768,726,PT00M26.20S,4,0,,1610612764,,,0,0,0,,0,110,104,214,v,Wizards Rebound,Rebound,Unknown,0,0,540
+22300768,727,PT00M26.20S,4,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,110,104,214,h,Green L.B.FOUL (P4.T4) (M.Ervin),Foul,Loose Ball,1,0,541
+22300768,729,PT00M18.40S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,110,104,214,v,Avdija Out of Bounds Lost Ball Turnover (P5.T15),Turnover,Out of Bounds Lost Ball Turnover,0,0,542
+22300768,730,PT00M12.20S,4,1610612764,WAS,1626145,Jones,T. Jones,0,0,0,,0,110,104,214,v,Jones Personal Take Foul (P1.PN) (M.Ervin),Foul,Personal Take,1,0,543
+22300768,733,PT00M12.20S,4,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,111,104,215,h,Green Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,544
+22300768,734,PT00M12.20S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,111,104,215,v,SUB: Poole FOR Avdija,Substitution,,0,0,545
+22300768,736,PT00M12.20S,4,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,111,104,215,h,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,546
+22300768,737,PT00M10.40S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,111,104,215,v,Kuzma REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,547
+22300768,738,PT00M05.40S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,111,104,215,v,Kuzma Bad Pass Turnover (P4.T16),Turnover,Bad Pass,1,0,548
+22300768,738,PT00M05.40S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,111,104,215,h,Doncic STEAL (1 STL),,,1,0,549
+22300768,740,PT00M03.90S,4,1610612764,WAS,1629673,Poole,J. Poole,0,0,0,,0,111,104,215,v,Poole Personal Take Foul (P4.PN) (M.Ervin),Foul,Personal Take,1,0,550
+22300768,742,PT00M03.90S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,111,104,215,h,MISS Doncic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,551
+22300768,743,PT00M03.90S,4,0,,1610612742,,,0,0,0,,0,111,104,215,h,MAVERICKS Rebound,Rebound,Normal Rebound,0,0,552
+22300768,744,PT00M03.90S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,112,104,216,h,Doncic Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,553
+22300768,745,PT00M03.90S,4,0,,1610612764,,,0,0,0,,0,112,104,216,v,Wizards Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,554
+22300768,746,PT00M03.90S,4,1610612742,DAL,1629023,Washington,P. Washington,0,0,0,,0,112,104,216,h,SUB: Hardy FOR Washington,Substitution,,0,0,555
+22300768,747,PT00M03.90S,4,1610612742,DAL,1630182,Green,J. Green,0,0,0,,0,112,104,216,h,SUB: Gafford FOR Green,Substitution,,0,0,556
+22300768,748,PT00M03.90S,4,1610612742,DAL,202681,Irving,K. Irving,0,0,0,,0,112,104,216,h,SUB: Williams FOR Irving,Substitution,,0,0,557
+22300768,749,PT00M03.90S,4,1610612742,DAL,1628467,Kleber,M. Kleber,0,0,0,,0,112,104,216,h,SUB: Prosper FOR Kleber,Substitution,,0,0,558
+22300768,750,PT00M03.90S,4,1610612742,DAL,1629029,Dončić,L. Dončić,0,0,0,,0,112,104,216,h,SUB: Lawson FOR Doncic,Substitution,,0,0,559
+22300768,751,PT00M03.90S,4,1610612764,WAS,1641731,Coulibaly,B. Coulibaly,0,0,0,,0,112,104,216,v,SUB: Shamet FOR Coulibaly,Substitution,,0,0,560
+22300768,758,PT00M01.40S,4,1610612764,WAS,1629013,Shamet,L. Shamet,-130,110,17,Missed,1,112,104,216,v,MISS Shamet 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,561
+22300768,759,PT00M00.80S,4,1610612742,DAL,1630702,Hardy,J. Hardy,0,0,0,,0,112,104,216,h,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,562
+22300768,760,PT00M00.00S,4,0,,0,,,0,0,0,,0,112,104,216,,End of 4th Period (10:57 PM EST),period,end,1,0,563

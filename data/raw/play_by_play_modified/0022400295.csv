@@ -1,0 +1,505 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22400295,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:12 PM EST),period,start,0,0,1
+22400295,4,PT12M00.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,0,0,0,h,Jump Ball Missi vs. Poeltl: Tip to Barnes,Jump Ball,,1,0,2
+22400295,7,PT11M47.00S,1,1610612761,TOR,1642266,Walter,J. Walter,-224,-6,0,Made,1,0,3,3,v,Walter 3PT Jump Shot (3 PTS) (Barrett 1 AST),Made Shot,Jump Shot,1,3,3
+22400295,9,PT11M20.00S,1,1610612740,NOP,1627749,Murray,D. Murray,137,218,26,Missed,1,0,3,3,h,MISS Murray 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,4
+22400295,10,PT11M18.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,0,3,3,v,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+22400295,11,PT11M10.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,-102,248,27,Missed,1,0,3,3,v,MISS Barnes 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,6
+22400295,12,PT11M04.00S,1,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,0,3,3,h,Boston Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+22400295,13,PT11M00.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,0,3,3,v,Poeltl S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,1,0,8
+22400295,15,PT11M00.00S,1,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,1,3,4,h,Murray Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,9
+22400295,16,PT11M00.00S,1,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,2,3,5,h,Murray Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,10
+22400295,17,PT10M48.00S,1,1610612761,TOR,1642266,Walter,J. Walter,-230,78,24,Missed,1,2,3,5,v,MISS Walter 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,11
+22400295,18,PT10M45.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,2,3,5,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+22400295,19,PT10M37.00S,1,1610612740,NOP,1629750,Green,J. Green,-224,113,25,Missed,1,2,3,5,h,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,13
+22400295,20,PT10M34.00S,1,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,2,3,5,v,Walter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+22400295,21,PT10M27.00S,1,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,2,3,5,v,Walter Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,15
+22400295,21,PT10M27.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,2,3,5,h,Missi STEAL (1 STL),,,1,0,16
+22400295,23,PT10M24.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,2,3,5,h,Missi Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,17
+22400295,23,PT10M24.00S,1,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,2,3,5,v,Walter STEAL (1 STL),,,1,0,18
+22400295,25,PT10M23.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,-18,18,3,Made,1,2,5,7,v,Agbaji 3' Driving Layup (2 PTS) (Walter 1 AST),Made Shot,Driving Layup Shot,1,2,19
+22400295,26,PT10M23.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,2,5,7,h,Missi Violation:Defensive Goaltending (D.Scott),Violation,Defensive Goaltending,1,0,20
+22400295,27,PT10M03.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-9,53,5,Made,1,4,5,9,h,McCollum 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,21
+22400295,28,PT09M49.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,4,5,9,v,Barnes Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,22
+22400295,28,PT09M49.00S,1,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,4,5,9,h,Murray STEAL (1 STL),,,1,0,23
+22400295,30,PT09M45.00S,1,1610612740,NOP,1630527,Boston,B. Boston,-176,174,25,Missed,1,4,5,9,h,MISS Boston Jr. 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,24
+22400295,31,PT09M41.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,4,5,9,v,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,25
+22400295,32,PT09M35.00S,1,1610612761,TOR,1642266,Walter,J. Walter,-181,179,25,Missed,1,4,5,9,v,MISS Walter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,26
+22400295,33,PT09M35.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,4,5,9,v,Barnes REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,27
+22400295,34,PT09M27.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,-17,38,4,Made,1,4,7,11,v,Barnes 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,28
+22400295,35,PT09M27.00S,1,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,4,7,11,h,Boston Jr. S.FOUL (P1.T1) (D.Scott),Foul,Shooting,1,0,29
+22400295,37,PT09M27.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,4,8,12,v,Barnes Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,30
+22400295,38,PT09M10.00S,1,1610612740,NOP,1627749,Murray,D. Murray,-81,146,17,Missed,1,4,8,12,h,MISS Murray 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,31
+22400295,39,PT09M07.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,4,8,12,v,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+22400295,40,PT09M01.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,-12,1,1,Made,1,4,10,14,v,Barrett 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,33
+22400295,41,PT09M01.00S,1,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,4,10,14,h,Boston Jr. S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,1,0,34
+22400295,43,PT09M01.00S,1,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,4,10,14,h,SUB: Robinson-Earl FOR Boston Jr.,Substitution,,0,0,35
+22400295,45,PT09M01.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,4,10,14,v,MISS Barrett Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,36
+22400295,46,PT08M59.00S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,4,10,14,h,Robinson-Earl REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,37
+22400295,47,PT08M47.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-4,243,24,Missed,1,4,10,14,h,MISS McCollum 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,38
+22400295,48,PT08M44.00S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,4,10,14,h,Robinson-Earl REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,39
+22400295,49,PT08M37.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-43,20,5,Missed,1,4,10,14,h,MISS McCollum 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,40
+22400295,50,PT08M37.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,4,10,14,h,Missi REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,41
+22400295,51,PT08M33.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,Missed,1,4,10,14,h,MISS Missi Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,42
+22400295,52,PT08M33.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,4,10,14,h,McCollum REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,43
+22400295,53,PT08M31.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,4,10,14,v,Barrett S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,1,0,44
+22400295,55,PT08M31.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,5,10,15,h,Missi Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,45
+22400295,56,PT08M31.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,6,10,16,h,Missi Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,46
+22400295,57,PT08M20.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,232,-3,0,Missed,1,6,10,16,v,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,1,3,47
+22400295,58,PT08M17.00S,1,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,6,10,16,v,Walter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,48
+22400295,59,PT08M16.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,-176,183,25,Missed,1,6,10,16,v,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,49
+22400295,60,PT08M16.00S,1,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,6,10,16,h,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,50
+22400295,61,PT08M02.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,6,10,16,v,Agbaji S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,1,0,51
+22400295,63,PT08M02.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,6,10,16,h,MISS Missi Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,52
+22400295,64,PT08M02.00S,1,0,,1610612740,,,0,0,0,,0,6,10,16,h,PELICANS Rebound,Rebound,Normal Rebound,0,0,53
+22400295,65,PT08M02.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,7,10,17,h,Missi Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,54
+22400295,66,PT07M46.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,-78,148,17,Missed,1,7,10,17,v,MISS Barnes 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,55
+22400295,67,PT07M43.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,7,10,17,h,McCollum REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,56
+22400295,68,PT07M36.00S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-181,174,25,Missed,1,7,10,17,h,MISS Robinson-Earl 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,57
+22400295,69,PT07M33.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,7,10,17,v,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,58
+22400295,70,PT07M32.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,7,10,17,v,Barrett Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,59
+22400295,70,PT07M32.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,7,10,17,h,Green STEAL (1 STL),,,1,0,60
+22400295,72,PT07M27.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-148,189,24,Missed,1,7,10,17,h,MISS McCollum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+22400295,73,PT07M25.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,7,10,17,h,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,62
+22400295,74,PT07M24.00S,1,1610612740,NOP,1629750,Green,J. Green,18,1,2,Missed,1,7,10,17,h,MISS Green 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,63
+22400295,75,PT07M24.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,7,10,17,v,Poeltl REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+22400295,76,PT07M17.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,-38,256,26,Missed,1,7,10,17,v,MISS Barnes 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,65
+22400295,77,PT07M13.00S,1,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,7,10,17,h,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,66
+22400295,78,PT07M05.00S,1,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,7,10,17,h,Murray Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,67
+22400295,79,PT06M59.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,-23,12,3,Missed,1,7,10,17,v,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,68
+22400295,79,PT06M59.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,7,10,17,h,Green BLOCK (1 BLK),,,1,2,69
+22400295,81,PT06M54.00S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,7,10,17,h,Robinson-Earl REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,70
+22400295,82,PT06M51.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,203,141,25,Missed,1,7,10,17,h,MISS McCollum 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,71
+22400295,83,PT06M47.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,7,10,17,v,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,72
+22400295,84,PT06M47.00S,1,0,,1610612761,,,0,0,0,,0,7,10,17,v,Raptors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,73
+22400295,86,PT06M47.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,7,10,17,h,SUB: Hawkins FOR McCollum,Substitution,,0,0,74
+22400295,87,PT06M47.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,7,10,17,h,SUB: Theis FOR Missi,Substitution,,0,0,75
+22400295,88,PT06M47.00S,1,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,7,10,17,v,SUB: Mitchell FOR Walter,Substitution,,0,0,76
+22400295,92,PT06M35.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,-53,249,25,Missed,1,7,10,17,v,MISS Barnes 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+22400295,93,PT06M32.00S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,7,10,17,h,Hawkins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+22400295,94,PT06M14.00S,1,1610612740,NOP,1628464,Theis,D. Theis,28,0,3,Made,1,9,10,19,h,Theis 3' Driving Layup (2 PTS) (Murray 1 AST),Made Shot,Driving Layup Shot,1,2,79
+22400295,96,PT06M07.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,-221,133,26,Made,1,9,13,22,v,Agbaji 26' 3PT Jump Shot (5 PTS) (Barnes 1 AST),Made Shot,Jump Shot,1,3,80
+22400295,98,PT05M42.00S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,17,13,2,Missed,1,9,13,22,h,MISS Hawkins 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,81
+22400295,98,PT05M42.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,9,13,22,v,Agbaji BLOCK (1 BLK),,,1,2,82
+22400295,100,PT05M38.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,9,13,22,v,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,83
+22400295,101,PT05M36.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,4,5,1,Made,1,9,15,24,v,Barnes 1' Running Alley Oop Dunk Shot (5 PTS) (Barrett 2 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,84
+22400295,103,PT05M20.00S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,163,208,26,Made,1,12,15,27,h,Hawkins 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,85
+22400295,104,PT05M06.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,141,235,27,Made,1,12,18,30,v,Barrett 27' 3PT Jump Shot (5 PTS) (Agbaji 1 AST),Made Shot,Jump Shot,1,3,86
+22400295,107,PT04M45.00S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,-201,172,26,Missed,1,12,18,30,h,MISS Hawkins 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,87
+22400295,108,PT04M43.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,12,18,30,v,Barnes REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,88
+22400295,109,PT04M36.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,-164,239,29,Missed,1,12,18,30,v,MISS Barnes 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+22400295,110,PT04M30.00S,1,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,12,18,30,h,Murray REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,90
+22400295,111,PT04M25.00S,1,1610612740,NOP,1627749,Murray,D. Murray,17,-10,2,Missed,1,12,18,30,h,MISS Murray 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,91
+22400295,111,PT04M25.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,12,18,30,v,Barnes BLOCK (1 BLK),,,1,2,92
+22400295,113,PT04M24.00S,1,0,,1610612740,,,0,0,0,,0,12,18,30,h,PELICANS Rebound,Rebound,Unknown,1,0,93
+22400295,115,PT04M24.00S,1,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,12,18,30,h,SUB: Payton FOR Murray,Substitution,,0,0,94
+22400295,116,PT04M24.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,12,18,30,v,SUB: Boucher FOR Barnes,Substitution,,0,0,95
+22400295,119,PT04M20.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,12,18,30,v,Agbaji P.FOUL (P2.T4) (S.Corbin),Foul,Personal,1,0,96
+22400295,121,PT04M20.00S,1,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,12,18,30,v,SUB: Battle FOR Agbaji,Substitution,,0,0,97
+22400295,123,PT04M06.00S,1,1610612740,NOP,1628464,Theis,D. Theis,15,-10,2,Made,1,14,18,32,h,Theis 2' Driving Layup (4 PTS) (Hawkins 1 AST),Made Shot,Driving Layup Shot,1,2,98
+22400295,125,PT03M49.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,-31,263,26,Missed,1,14,18,32,v,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+22400295,126,PT03M48.00S,1,0,,1610612740,,,0,0,0,,0,14,18,32,h,PELICANS Rebound,Rebound,Unknown,1,0,100
+22400295,128,PT03M34.00S,1,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,14,18,32,h,Payton Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,101
+22400295,128,PT03M34.00S,1,1610612761,TOR,1642419,Battle,J. Battle,0,0,0,,0,14,18,32,v,Battle STEAL (1 STL),,,0,0,102
+22400295,130,PT03M19.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,105,242,26,Missed,1,14,18,32,v,MISS Boucher 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,103
+22400295,131,PT03M16.00S,1,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,14,18,32,h,Payton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+22400295,132,PT03M07.00S,1,1610612740,NOP,1629750,Green,J. Green,237,17,24,Missed,1,14,18,32,h,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,105
+22400295,133,PT03M03.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,14,18,32,v,Poeltl REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,106
+22400295,134,PT02M54.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,225,20,0,Missed,1,14,18,32,v,MISS Boucher 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+22400295,135,PT02M51.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,14,18,32,h,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,108
+22400295,136,PT02M48.00S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-11,-2,1,Made,1,16,18,34,h,Robinson-Earl 1' Running Layup (2 PTS) (Green 1 AST),Made Shot,Running Layup Shot,1,2,109
+22400295,138,PT02M23.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,227,5,0,Missed,1,16,18,34,v,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+22400295,139,PT02M18.00S,1,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,16,18,34,h,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,111
+22400295,140,PT02M13.00S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,16,-5,2,Made,1,18,18,36,h,Robinson-Earl 2' Running Layup (4 PTS) (Green 2 AST),Made Shot,Running Layup Shot,1,2,112
+22400295,142,PT01M51.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,-26,89,9,Missed,1,18,18,36,v,MISS Poeltl 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,113
+22400295,143,PT01M48.00S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,18,18,36,h,Robinson-Earl REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,114
+22400295,144,PT01M33.00S,1,1610612740,NOP,1628464,Theis,D. Theis,49,247,25,Missed,1,18,18,36,h,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,115
+22400295,145,PT01M31.00S,1,0,,1610612761,,,0,0,0,,0,18,18,36,v,Raptors Rebound,Rebound,Unknown,1,0,116
+22400295,147,PT01M31.00S,1,0,,1610612740,,,0,0,0,,0,18,18,36,h,PELICANS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,117
+22400295,148,PT01M31.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,18,18,36,h,SUB: McCollum FOR Green,Substitution,,0,0,118
+22400295,149,PT01M31.00S,1,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,18,18,36,v,SUB: Mogbo FOR Barrett,Substitution,,0,0,119
+22400295,150,PT01M31.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,18,18,36,v,SUB: Barnes FOR Poeltl,Substitution,,0,0,120
+22400295,154,PT01M13.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,15,2,2,Missed,1,18,18,36,v,MISS Barnes 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,121
+22400295,154,PT01M13.00S,1,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,18,18,36,h,Theis BLOCK (1 BLK),,,1,2,122
+22400295,156,PT01M09.00S,1,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,18,18,36,h,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,123
+22400295,158,PT00M50.80S,1,1610612740,NOP,203468,McCollum,C. McCollum,-169,180,25,Missed,1,18,18,36,h,MISS McCollum 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,124
+22400295,159,PT00M49.40S,1,0,,1610612740,,,0,0,0,,0,18,18,36,h,PELICANS Rebound,Rebound,Unknown,0,0,125
+22400295,160,PT00M49.40S,1,0,,1610612740,,,0,0,0,,0,18,18,36,h,PELICANS Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,1,0,126
+22400295,161,PT00M34.10S,1,1610612761,TOR,1642419,Battle,J. Battle,-233,-11,0,Made,1,18,21,39,v,Battle 3PT Jump Shot (3 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,1,3,127
+22400295,163,PT00M23.50S,1,1610612740,NOP,203901,Payton,E. Payton,13,34,4,Made,1,20,21,41,h,Payton 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,128
+22400295,164,PT00M09.30S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,20,21,41,h,Robinson-Earl P.FOUL (P1.T3) (S.Corbin),Foul,Personal,1,0,129
+22400295,166,PT00M09.30S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,20,21,41,h,SUB: Green FOR Hawkins,Substitution,,0,0,130
+22400295,168,PT00M01.50S,1,1610612761,TOR,1630558,Mitchell,D. Mitchell,216,136,26,Missed,1,20,21,41,v,MISS Mitchell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+22400295,169,PT00M01.50S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,20,21,41,h,Robinson-Earl REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,132
+22400295,170,PT00M00.00S,1,0,,0,,,0,0,0,,0,20,21,41,,End of 1st Period (8:37 PM EST),period,end,1,0,133
+22400295,177,PT12M00.00S,2,0,,0,,,0,0,0,,0,20,21,41,,Start of 2nd Period (8:39 PM EST),period,start,0,0,134
+22400295,178,PT11M47.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,20,21,41,h,McCollum Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,135
+22400295,179,PT11M29.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,-1,17,2,Made,1,20,23,43,v,Mogbo 2' Alley Oop Layup (2 PTS) (Shead 1 AST),Made Shot,Alley Oop Layup shot,1,2,136
+22400295,181,PT11M12.00S,2,1610612740,NOP,203901,Payton,E. Payton,-5,82,8,Made,1,22,23,45,h,Payton 8' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,137
+22400295,182,PT10M59.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,-5,25,3,Missed,1,22,23,45,v,MISS Barnes 3' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,138
+22400295,183,PT10M57.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,22,23,45,v,Barnes REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,139
+22400295,184,PT10M55.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,-6,6,1,Missed,1,22,23,45,v,MISS Barnes 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,140
+22400295,185,PT10M53.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,22,23,45,h,Robinson-Earl REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,141
+22400295,186,PT10M35.00S,2,1610612740,NOP,203901,Payton,E. Payton,67,215,23,Missed,1,22,23,45,h,MISS Payton 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,142
+22400295,187,PT10M34.00S,2,0,,1610612740,,,0,0,0,,0,22,23,45,h,PELICANS Rebound,Rebound,Unknown,1,0,143
+22400295,188,PT10M34.00S,2,0,,1610612740,,,0,0,0,,0,22,23,45,h,PELICANS Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,144
+22400295,189,PT10M16.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,224,4,0,Missed,1,22,23,45,v,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+22400295,190,PT10M10.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,22,23,45,v,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,146
+22400295,191,PT10M10.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,6,21,2,Missed,1,22,23,45,v,MISS Boucher 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,147
+22400295,191,PT10M10.00S,2,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,22,23,45,h,Missi BLOCK (1 BLK),,,1,2,148
+22400295,193,PT10M07.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,22,23,45,v,Mogbo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,149
+22400295,194,PT10M04.00S,2,1610612761,TOR,1642419,Battle,J. Battle,-237,64,25,Made,1,22,26,48,v,Battle 25' 3PT Jump Shot (6 PTS) (Shead 2 AST),Made Shot,Jump Shot,1,3,150
+22400295,196,PT09M42.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,-89,237,25,Made,1,25,26,51,h,McCollum 25' 3PT Jump Shot (5 PTS) (Boston Jr. 1 AST),Made Shot,Jump Shot,1,3,151
+22400295,198,PT09M31.00S,2,1610612761,TOR,1642419,Battle,J. Battle,-229,104,25,Made,1,25,29,54,v,Battle 25' 3PT Jump Shot (9 PTS) (Barnes 2 AST),Made Shot,Jump Shot,1,3,152
+22400295,200,PT09M15.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,-33,255,26,Made,1,28,29,57,h,McCollum 26' 3PT Step Back Jump Shot (8 PTS) (Missi 1 AST),Made Shot,Step Back Jump shot,1,3,153
+22400295,201,PT08M56.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,174,188,26,Made,1,28,32,60,v,Barnes 26' 3PT Jump Shot (8 PTS) (Battle 1 AST),Made Shot,Jump Shot,1,3,154
+22400295,204,PT08M40.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,-110,-2,11,Missed,1,28,32,60,h,MISS McCollum 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,155
+22400295,205,PT08M38.00S,2,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,28,32,60,h,Payton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,156
+22400295,206,PT08M35.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,200,138,24,Made,1,31,32,63,h,Robinson-Earl 24' 3PT Jump Shot (7 PTS) (Payton 1 AST),Made Shot,Jump Shot,1,3,157
+22400295,208,PT08M32.00S,2,0,,1610612761,,,0,0,0,,0,31,32,63,v,Raptors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,158
+22400295,209,PT08M32.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,31,32,63,v,SUB: Mitchell FOR Barnes,Substitution,,0,0,159
+22400295,210,PT08M32.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,31,32,63,v,SUB: Barrett FOR Boucher,Substitution,,0,0,160
+22400295,211,PT08M32.00S,2,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,31,32,63,v,SUB: Agbaji FOR Shead,Substitution,,0,0,161
+22400295,215,PT08M16.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,16,33,4,Missed,1,31,32,63,v,MISS Mogbo 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,162
+22400295,215,PT08M16.00S,2,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,31,32,63,h,Missi BLOCK (2 BLK),,,1,2,163
+22400295,217,PT08M12.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,31,32,63,h,McCollum REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,164
+22400295,218,PT08M10.00S,2,1610612740,NOP,1630527,Boston,B. Boston,-22,8,2,Made,1,33,32,65,h,Boston Jr. 2' Running Layup (2 PTS) (McCollum 1 AST),Made Shot,Running Layup Shot,1,2,165
+22400295,221,PT07M49.00S,2,1610612761,TOR,1642419,Battle,J. Battle,-143,11,14,Made,1,33,34,67,v,Battle 14' Jump Shot (11 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,0,2,166
+22400295,223,PT07M24.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,11,-5,1,Made,1,35,34,69,h,McCollum 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,167
+22400295,224,PT07M15.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,-132,223,26,Missed,1,35,34,69,v,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+22400295,225,PT07M13.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,35,34,69,h,Robinson-Earl REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,169
+22400295,226,PT07M03.00S,2,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,35,34,69,v,Mitchell P.FOUL (P1.T1) (D.Scott),Foul,Personal,1,0,170
+22400295,228,PT07M03.00S,2,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,35,34,69,h,SUB: Hawkins FOR Boston Jr.,Substitution,,0,0,171
+22400295,229,PT07M03.00S,2,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,35,34,69,h,SUB: Murray FOR Payton,Substitution,,0,0,172
+22400295,230,PT07M03.00S,2,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,35,34,69,v,SUB: Poeltl FOR Mogbo,Substitution,,0,0,173
+22400295,231,PT07M03.00S,2,1610612761,TOR,1642419,Battle,J. Battle,0,0,0,,0,35,34,69,v,SUB: Walter FOR Battle,Substitution,,0,0,174
+22400295,236,PT06M49.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,230,1,0,Made,1,38,34,72,h,Hawkins 3PT Jump Shot (6 PTS) (Robinson-Earl 1 AST),Made Shot,Jump Shot,1,3,175
+22400295,238,PT06M31.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,38,34,72,h,Robinson-Earl P.FOUL (P2.T1) (D.Scott),Foul,Personal,1,0,176
+22400295,240,PT06M31.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,38,34,72,h,SUB: Boston Jr. FOR McCollum,Substitution,,0,0,177
+22400295,242,PT06M23.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,38,34,72,v,Barrett Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,178
+22400295,242,PT06M23.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,38,34,72,h,Robinson-Earl STEAL (1 STL),,,1,0,179
+22400295,244,PT06M16.00S,2,1610612740,NOP,1642274,Missi,Y. Missi,-1,17,2,Made,1,40,34,74,h,Missi 2' Hook Shot (5 PTS),Made Shot,Hook Shot,1,2,180
+22400295,246,PT06M16.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,40,34,74,v,Barrett S.FOUL (P2.T2) (D.Scott),Foul,Shooting,1,0,181
+22400295,248,PT06M16.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,40,34,74,h,SUB: Green FOR Robinson-Earl,Substitution,,0,0,182
+22400295,250,PT06M16.00S,2,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,40,34,74,h,MISS Missi Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,183
+22400295,251,PT06M14.00S,2,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,40,34,74,v,Walter REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,184
+22400295,252,PT06M02.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,-239,64,25,Made,1,40,37,77,v,Agbaji 25' 3PT Jump Shot (8 PTS) (Barrett 3 AST),Made Shot,Jump Shot,1,3,185
+22400295,254,PT05M44.00S,2,1610612740,NOP,1627749,Murray,D. Murray,23,87,9,Missed,1,40,37,77,h,MISS Murray 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,186
+22400295,255,PT05M44.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,40,37,77,v,Poeltl REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,187
+22400295,256,PT05M35.00S,2,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,40,37,77,h,Murray S.FOUL (P1.T2) (D.Scott),Foul,Shooting,1,0,188
+22400295,258,PT05M35.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,40,38,78,v,Barrett Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,189
+22400295,259,PT05M35.00S,2,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,40,38,78,h,SUB: Theis FOR Missi,Substitution,,0,0,190
+22400295,270,PT05M35.00S,2,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,40,38,78,v,SUB: Barnes FOR Mitchell,Substitution,,0,0,191
+22400295,263,PT05M35.00S,2,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,40,38,78,v,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,192
+22400295,264,PT05M34.00S,2,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,40,38,78,h,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,193
+22400295,265,PT05M26.00S,2,1610612740,NOP,1627749,Murray,D. Murray,15,-4,2,Missed,1,40,38,78,h,MISS Murray 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,194
+22400295,266,PT05M23.00S,2,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,40,38,78,v,Walter REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,195
+22400295,267,PT05M13.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,222,13,0,Made,1,40,41,81,v,Agbaji 3PT Jump Shot (11 PTS) (Barrett 4 AST),Made Shot,Jump Shot,1,3,196
+22400295,268,PT04M54.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,126,208,24,Missed,1,40,41,81,h,MISS Hawkins 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,197
+22400295,269,PT04M54.00S,2,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,40,41,81,v,Walter REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,198
+22400295,271,PT04M44.00S,2,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,40,41,81,h,Murray P.FOUL (P2.T3) (S.Corbin),Foul,Personal,1,0,199
+22400295,274,PT04M38.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,40,41,81,v,Barnes Offensive Charge Foul (P1) (S.Corbin),Foul,Offensive Charge,1,0,200
+22400295,276,PT04M38.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,40,41,81,v,Barnes Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,1,0,201
+22400295,277,PT04M21.00S,2,1610612740,NOP,1629750,Green,J. Green,233,104,26,Missed,1,40,41,81,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,202
+22400295,278,PT04M17.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,40,41,81,v,Poeltl REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,203
+22400295,279,PT04M03.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,-238,-3,24,Made,1,40,44,84,v,Agbaji 24' 3PT Jump Shot (14 PTS) (Barrett 5 AST),Made Shot,Jump Shot,1,3,204
+22400295,281,PT04M03.00S,2,0,,1610612740,,,0,0,0,,0,40,44,84,h,PELICANS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,205
+22400295,282,PT04M03.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,40,44,84,h,SUB: McCollum FOR Hawkins,Substitution,,0,0,206
+22400295,283,PT04M03.00S,2,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,40,44,84,h,SUB: Missi FOR Theis,Substitution,,0,0,207
+22400295,286,PT03M51.00S,2,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,40,44,84,h,Missi Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,208
+22400295,286,PT03M51.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,40,44,84,v,Agbaji STEAL (1 STL),,,1,0,209
+22400295,288,PT03M49.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,13,6,1,Made,1,40,46,86,v,Agbaji 1' Running Layup (16 PTS),Made Shot,Running Layup Shot,1,2,210
+22400295,289,PT03M49.00S,2,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,40,46,86,h,Missi Violation:Defensive Goaltending (D.Scott),Violation,Defensive Goaltending,1,0,211
+22400295,290,PT03M35.00S,2,1610612740,NOP,1627749,Murray,D. Murray,-91,-21,9,Missed,1,40,46,86,h,MISS Murray 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,212
+22400295,291,PT03M32.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,40,46,86,v,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,213
+22400295,292,PT03M20.00S,2,1610612761,TOR,1642266,Walter,J. Walter,-146,201,25,Missed,1,40,46,86,v,MISS Walter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,214
+22400295,293,PT03M16.00S,2,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,40,46,86,h,Boston Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,215
+22400295,294,PT03M10.00S,2,1610612740,NOP,1627749,Murray,D. Murray,1,35,4,Missed,1,40,46,86,h,MISS Murray 4' Running Layup,Missed Shot,Running Layup Shot,1,2,216
+22400295,295,PT03M10.00S,2,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,40,46,86,v,Walter REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,217
+22400295,296,PT03M10.00S,2,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,40,46,86,h,Murray P.FOUL (P3.T4) (S.Corbin),Foul,Personal,1,0,218
+22400295,298,PT03M10.00S,2,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,40,46,86,h,SUB: Robinson-Earl FOR Green,Substitution,,0,0,219
+22400295,299,PT03M10.00S,2,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,40,46,86,h,SUB: Payton FOR Murray,Substitution,,0,0,220
+22400295,302,PT02M55.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,40,46,86,v,Barnes Bad Pass Turnover (P3.T6),Turnover,Bad Pass,1,0,221
+22400295,302,PT02M55.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,40,46,86,h,Robinson-Earl STEAL (2 STL),,,1,0,222
+22400295,304,PT02M52.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,-9,41,4,Missed,1,40,46,86,h,MISS McCollum 4' Running Layup,Missed Shot,Running Layup Shot,1,2,223
+22400295,305,PT02M50.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,40,46,86,v,Barnes REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,224
+22400295,306,PT02M45.00S,2,1610612761,TOR,1642266,Walter,J. Walter,7,10,1,Made,1,40,48,88,v,Walter 1' Running Alley Oop Layup Shot (5 PTS) (Barnes 3 AST),Made Shot,Running Alley Oop Layup Shot,1,2,225
+22400295,308,PT02M45.00S,2,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,40,48,88,h,Boston Jr. S.FOUL (P3.PN) (D.Scott),Foul,Shooting,1,0,226
+22400295,310,PT02M45.00S,2,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,40,48,88,h,SUB: Green FOR Boston Jr.,Substitution,,0,0,227
+22400295,312,PT02M45.00S,2,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,40,48,88,v,MISS Walter Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,228
+22400295,313,PT02M39.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,40,48,88,v,Barnes REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,229
+22400295,314,PT02M39.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,Missed,1,40,48,88,v,MISS Barnes Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,230
+22400295,315,PT02M38.00S,2,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,40,48,88,h,Green REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,231
+22400295,316,PT02M29.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-230,-18,0,Missed,1,40,48,88,h,MISS Robinson-Earl 3PT Jump Shot,Missed Shot,Jump Shot,1,3,232
+22400295,317,PT02M27.00S,2,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,40,48,88,v,Agbaji REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,233
+22400295,319,PT02M07.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,40,48,88,v,Barnes Bad Pass Turnover (P4.T7),Turnover,Bad Pass,1,0,234
+22400295,319,PT02M07.00S,2,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,40,48,88,h,Payton STEAL (1 STL),,,1,0,235
+22400295,321,PT01M52.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,150,209,26,Made,1,43,48,91,h,McCollum 26' 3PT Step Back Jump Shot (13 PTS) (Green 3 AST),Made Shot,Step Back Jump shot,1,3,236
+22400295,323,PT01M28.00S,2,1610612761,TOR,1642266,Walter,J. Walter,-6,69,7,Made,1,43,50,93,v,Walter 7' Driving Floating Jump Shot (7 PTS) (Barrett 6 AST),Made Shot,Driving Floating Jump Shot,1,2,237
+22400295,324,PT01M14.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,43,50,93,h,McCollum Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,238
+22400295,324,PT01M14.00S,2,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,43,50,93,v,Walter STEAL (2 STL),,,1,0,239
+22400295,326,PT01M05.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,-28,265,27,Made,1,43,53,96,v,Barnes 27' 3PT Jump Shot (11 PTS) (Walter 2 AST),Made Shot,Jump Shot,1,3,240
+22400295,328,PT00M45.50S,2,1610612740,NOP,203901,Payton,E. Payton,13,89,9,Missed,1,43,53,96,h,MISS Payton 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,241
+22400295,329,PT00M43.20S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,43,53,96,v,Barnes REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,242
+22400295,330,PT00M35.20S,2,1610612761,TOR,1630567,Barnes,S. Barnes,-20,263,26,Missed,1,43,53,96,v,MISS Barnes 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,243
+22400295,331,PT00M32.10S,2,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,43,53,96,h,Payton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,244
+22400295,332,PT00M27.60S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-228,-17,0,Made,1,46,53,99,h,Robinson-Earl 3PT Running Jump Shot (10 PTS) (Green 4 AST),Made Shot,Running Jump Shot,1,3,245
+22400295,334,PT00M05.80S,2,1610612761,TOR,1629628,Barrett,R. Barrett,-76,247,26,Made,1,46,56,102,v,Barrett 26' 3PT Jump Shot (9 PTS) (Barnes 4 AST),Made Shot,Jump Shot,1,3,246
+22400295,336,PT00M00.00S,2,1610612740,NOP,203901,Payton,E. Payton,18,5,2,Missed,1,46,56,102,h,MISS Payton 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,247
+22400295,336,PT00M00.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,46,56,102,v,Poeltl BLOCK (1 BLK),,,1,2,248
+22400295,338,PT00M00.00S,2,0,,1610612740,,,0,0,0,,0,46,56,102,h,PELICANS Rebound,Rebound,Unknown,0,0,249
+22400295,339,PT00M00.00S,2,0,,0,,,0,0,0,,0,46,56,102,,End of 2nd Period (9:03 PM EST),period,end,1,0,250
+22400295,347,PT12M00.00S,3,0,,0,,,0,0,0,,0,46,56,102,,Start of 3rd Period (9:18 PM EST),period,start,0,0,251
+22400295,348,PT11M39.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,86,244,26,Missed,1,46,56,102,h,MISS McCollum 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,252
+22400295,349,PT11M35.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,46,56,102,v,Poeltl REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,253
+22400295,350,PT11M22.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,-234,-11,0,Missed,1,46,56,102,v,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,1,3,254
+22400295,351,PT11M19.00S,3,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,46,56,102,v,Walter REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,255
+22400295,494,PT11M18.00S,3,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,46,56,102,v,Walter Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,256
+22400295,494,PT11M18.00S,3,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,46,56,102,h,Boston Jr. STEAL (1 STL),,,1,0,257
+22400295,352,PT11M04.00S,3,1610612740,NOP,1627749,Murray,D. Murray,-26,104,11,Made,1,48,56,104,h,Murray 11' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,2,258
+22400295,354,PT10M46.00S,3,1610612761,TOR,1642266,Walter,J. Walter,-124,219,25,Made,1,48,59,107,v,Walter 25' 3PT Jump Shot (10 PTS) (Barnes 5 AST),Made Shot,Jump Shot,1,3,259
+22400295,356,PT10M31.00S,3,1610612740,NOP,1629750,Green,J. Green,-148,206,25,Made,1,51,59,110,h,Green 25' 3PT Jump Shot (3 PTS) (McCollum 2 AST),Made Shot,Jump Shot,1,3,260
+22400295,358,PT10M15.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,27,-7,3,Made,1,51,61,112,v,Barnes 3' Alley Oop Layup (13 PTS) (Poeltl 1 AST),Made Shot,Alley Oop Layup shot,1,2,261
+22400295,360,PT10M04.00S,3,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,51,61,112,h,Boston Jr. Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,262
+22400295,360,PT10M04.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,51,61,112,v,Poeltl STEAL (1 STL),,,1,0,263
+22400295,362,PT10M00.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,20,6,2,Made,1,51,63,114,v,Agbaji 2' Running Alley Oop Layup Shot (18 PTS) (Barrett 7 AST),Made Shot,Running Alley Oop Layup Shot,1,2,264
+22400295,364,PT09M46.00S,3,1610612740,NOP,1627749,Murray,D. Murray,25,256,26,Missed,1,51,63,114,h,MISS Murray 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,265
+22400295,365,PT09M43.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,51,63,114,v,Barrett REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,266
+22400295,366,PT09M40.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,51,63,114,v,Barrett Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,267
+22400295,366,PT09M40.00S,3,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,51,63,114,h,Murray STEAL (2 STL),,,1,0,268
+22400295,368,PT09M31.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-22,54,6,Missed,1,51,63,114,h,MISS McCollum 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,269
+22400295,369,PT09M27.00S,3,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,51,63,114,v,Walter REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,270
+22400295,370,PT09M24.00S,3,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,51,63,114,h,Boston Jr. S.FOUL (P4.T1) (D.Scott),Foul,Shooting,1,0,271
+22400295,372,PT09M24.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,51,64,115,v,Barrett Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,272
+22400295,373,PT09M24.00S,3,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,51,64,115,h,SUB: Hawkins FOR Boston Jr.,Substitution,,0,0,273
+22400295,375,PT09M24.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,51,65,116,v,Barrett Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,274
+22400295,376,PT09M07.00S,3,1610612740,NOP,1642274,Missi,Y. Missi,16,10,2,Missed,1,51,65,116,h,MISS Missi 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,275
+22400295,377,PT09M05.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,51,65,116,v,Agbaji REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,276
+22400295,378,PT09M04.00S,3,1610612761,TOR,1642266,Walter,J. Walter,233,3,0,Missed,1,51,65,116,v,MISS Walter 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,277
+22400295,379,PT09M00.00S,3,0,,1610612761,,,0,0,0,,0,51,65,116,v,Raptors Rebound,Rebound,Unknown,1,0,278
+22400295,381,PT08M57.00S,3,1610612761,TOR,1642266,Walter,J. Walter,-235,16,24,Missed,1,51,65,116,v,MISS Walter 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,279
+22400295,382,PT08M54.00S,3,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,51,65,116,h,Murray REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,280
+22400295,383,PT08M48.00S,3,1610612740,NOP,1627749,Murray,D. Murray,64,116,13,Missed,1,51,65,116,h,MISS Murray 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,281
+22400295,384,PT08M44.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,51,65,116,v,Barrett REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,282
+22400295,385,PT08M28.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,-40,31,5,Missed,1,51,65,116,v,MISS Poeltl 5' Hook Shot,Missed Shot,Hook Shot,1,2,283
+22400295,386,PT08M27.00S,3,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,51,65,116,h,Missi REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,284
+22400295,387,PT08M27.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,51,65,116,v,Poeltl P.FOUL (P2.T1) (P.Fraher),Foul,Personal,1,0,285
+22400295,389,PT08M14.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,96,10,Missed,1,51,65,116,h,MISS McCollum 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,286
+22400295,390,PT08M12.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,51,65,116,v,Barnes REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,287
+22400295,391,PT08M11.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,-18,11,2,Made,1,51,67,118,v,Barrett 2' Running Layup (13 PTS) (Barnes 6 AST),Made Shot,Running Layup Shot,1,2,288
+22400295,392,PT08M11.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,51,67,118,h,Hawkins Violation:Defensive Goaltending (S.Corbin),Violation,Defensive Goaltending,1,0,289
+22400295,393,PT07M55.00S,3,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,51,67,118,h,Murray Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,290
+22400295,394,PT07M40.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,-18,-8,2,Made,1,51,69,120,v,Barrett 2' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,291
+22400295,395,PT07M35.00S,3,0,,1610612740,,,0,0,0,,0,51,69,120,h,PELICANS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,292
+22400295,396,PT07M18.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-23,13,3,Missed,1,51,69,120,h,MISS McCollum 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,293
+22400295,397,PT07M15.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,51,69,120,v,Poeltl REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,294
+22400295,398,PT07M06.00S,3,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,51,69,120,h,Murray P.FOUL (P4.T2) (D.Scott),Foul,Personal,1,0,295
+22400295,400,PT07M06.00S,3,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,51,69,120,h,SUB: Payton FOR Murray,Substitution,,0,0,296
+22400295,402,PT06M56.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,51,69,120,v,Barnes Lost Ball Turnover (P5.T10),Turnover,Lost Ball,1,0,297
+22400295,402,PT06M56.00S,3,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,51,69,120,h,Payton STEAL (2 STL),,,1,0,298
+22400295,404,PT06M47.00S,3,1610612740,NOP,203901,Payton,E. Payton,15,8,2,Missed,1,51,69,120,h,MISS Payton 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,299
+22400295,405,PT06M43.00S,3,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,51,69,120,v,Walter REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,300
+22400295,406,PT06M39.00S,3,1610612761,TOR,1642266,Walter,J. Walter,-227,99,25,Missed,1,51,69,120,v,MISS Walter 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,301
+22400295,407,PT06M35.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,51,69,120,v,Barnes REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,302
+22400295,408,PT06M33.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,5,35,4,Made,1,51,71,122,v,Barrett 4' Layup (17 PTS) (Barnes 7 AST),Made Shot,Layup Shot,1,2,303
+22400295,410,PT06M11.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,233,10,0,Missed,1,51,71,122,h,MISS McCollum 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,304
+22400295,411,PT06M11.00S,3,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,51,71,122,h,Missi REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,305
+22400295,412,PT06M09.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,51,71,122,v,Poeltl S.FOUL (P3.T2) (D.Scott),Foul,Shooting,1,0,306
+22400295,414,PT06M09.00S,3,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,52,71,123,h,Missi Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,307
+22400295,415,PT06M09.00S,3,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,52,71,123,h,SUB: Robinson-Earl FOR Green,Substitution,,0,0,308
+22400295,417,PT06M09.00S,3,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,53,71,124,h,Missi Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,309
+22400295,418,PT05M57.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,200,161,26,Made,1,53,74,127,v,Agbaji 26' 3PT Jump Shot (21 PTS) (Walter 3 AST),Made Shot,Jump Shot,1,3,310
+22400295,420,PT05M36.00S,3,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,42,16,4,Missed,1,53,74,127,h,MISS Robinson-Earl 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,311
+22400295,421,PT05M34.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,53,74,127,v,Barnes REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,312
+22400295,422,PT05M27.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,5,260,26,Missed,1,53,74,127,v,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,313
+22400295,423,PT05M24.00S,3,0,,1610612761,,,0,0,0,,0,53,74,127,v,Raptors Rebound,Rebound,Unknown,1,0,314
+22400295,425,PT05M24.00S,3,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,53,74,127,h,SUB: Theis FOR Missi,Substitution,,0,0,315
+22400295,426,PT05M24.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,53,74,127,v,SUB: Mitchell FOR Barrett,Substitution,,0,0,316
+22400295,429,PT05M18.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,-157,182,24,Made,1,53,77,130,v,Agbaji 24' 3PT Jump Shot (24 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,1,3,317
+22400295,431,PT04M59.00S,3,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-20,10,2,Missed,1,53,77,130,h,MISS Robinson-Earl 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,318
+22400295,432,PT04M57.00S,3,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,53,77,130,h,Payton REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,319
+22400295,433,PT04M55.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,176,185,26,Missed,1,53,77,130,h,MISS Hawkins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+22400295,434,PT04M55.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,53,77,130,v,Poeltl REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,321
+22400295,435,PT04M42.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,18,58,6,Made,1,53,79,132,v,Barnes 6' Driving Floating Bank Jump Shot (15 PTS) (Agbaji 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,322
+22400295,436,PT04M42.00S,3,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,53,79,132,h,Theis S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,1,0,323
+22400295,438,PT04M42.00S,3,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,53,79,132,v,SUB: Battle FOR Walter,Substitution,,0,0,324
+22400295,440,PT04M42.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,53,79,132,v,MISS Barnes Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,325
+22400295,441,PT04M40.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,53,79,132,h,Hawkins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,326
+22400295,442,PT04M26.00S,3,1610612740,NOP,203901,Payton,E. Payton,0,47,5,Made,1,55,79,134,h,Payton 5' Driving Floating Jump Shot (6 PTS) (McCollum 3 AST),Made Shot,Driving Floating Jump Shot,1,2,327
+22400295,444,PT04M14.00S,3,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,55,79,134,h,Theis S.FOUL (P2.T4) (D.Scott),Foul,Shooting,1,0,328
+22400295,446,PT04M14.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,55,79,134,v,MISS Poeltl Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,329
+22400295,447,PT04M14.00S,3,0,,1610612761,,,0,0,0,,0,55,79,134,v,Raptors Rebound,Rebound,Normal Rebound,0,0,330
+22400295,448,PT04M14.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,55,79,134,v,MISS Poeltl Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,331
+22400295,449,PT04M12.00S,3,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,55,79,134,h,Robinson-Earl REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,332
+22400295,450,PT04M06.00S,3,1610612740,NOP,203901,Payton,E. Payton,-10,41,4,Made,1,57,79,136,h,Payton 4' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,333
+22400295,451,PT04M05.00S,3,0,,1610612761,,,0,0,0,,0,57,79,136,v,Raptors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,334
+22400295,453,PT04M05.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,57,79,136,h,SUB: Murray FOR McCollum,Substitution,,0,0,335
+22400295,454,PT04M05.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,57,79,136,v,SUB: Mogbo FOR Poeltl,Substitution,,0,0,336
+22400295,455,PT04M05.00S,3,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,57,79,136,v,SUB: Boucher FOR Agbaji,Substitution,,0,0,337
+22400295,459,PT03M44.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,-223,-8,0,Missed,1,57,79,136,v,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,1,3,338
+22400295,460,PT03M40.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,57,79,136,h,Hawkins REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,339
+22400295,461,PT03M29.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,-65,186,20,Missed,1,57,79,136,h,MISS Hawkins 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,340
+22400295,462,PT03M25.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,57,79,136,v,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,341
+22400295,463,PT03M06.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,15,93,9,Missed,1,57,79,136,v,MISS Barnes 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,342
+22400295,464,PT03M05.00S,3,0,,1610612761,,,0,0,0,,0,57,79,136,v,Raptors Rebound,Rebound,Unknown,1,0,343
+22400295,467,PT03M05.00S,3,0,,465,,,0,0,0,,0,57,79,136,,Instant Replay3rd Period (9:39 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,344
+22400295,468,PT03M05.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,57,79,136,v,SUB: Barrett FOR Barnes,Substitution,,0,0,345
+22400295,470,PT02M53.00S,3,1610612761,TOR,1628449,Boucher,C. Boucher,203,162,26,Missed,1,57,79,136,v,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,346
+22400295,471,PT02M47.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,57,79,136,v,Barrett REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,347
+22400295,472,PT02M47.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,Made,1,57,81,138,v,Barrett Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,1,2,348
+22400295,473,PT02M34.00S,3,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-21,43,5,Missed,1,57,81,138,h,MISS Robinson-Earl 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,349
+22400295,473,PT02M34.00S,3,1610612761,TOR,1642419,Battle,J. Battle,0,0,0,,0,57,81,138,v,Battle BLOCK (1 BLK),,,1,2,350
+22400295,475,PT02M34.00S,3,0,,1610612740,,,0,0,0,,0,57,81,138,h,PELICANS Rebound,Rebound,Unknown,0,0,351
+22400295,477,PT02M23.00S,3,1610612740,NOP,203901,Payton,E. Payton,11,70,7,Missed,1,57,81,138,h,MISS Payton 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,352
+22400295,478,PT02M21.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,57,81,138,v,Barrett REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,353
+22400295,479,PT02M17.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,145,213,26,Made,1,57,84,141,v,Barrett 26' 3PT Running Jump Shot (22 PTS) (Mitchell 4 AST),Made Shot,Running Jump Shot,1,3,354
+22400295,481,PT02M04.00S,3,1610612740,NOP,1627749,Murray,D. Murray,7,196,20,Missed,1,57,84,141,h,MISS Murray 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,355
+22400295,482,PT02M04.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,57,84,141,v,Barrett REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,356
+22400295,483,PT02M00.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,57,84,141,v,Barrett Out of Bounds Lost Ball Turnover (P4.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,357
+22400295,484,PT01M44.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,-17,262,26,Missed,1,57,84,141,h,MISS Hawkins 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,358
+22400295,485,PT01M42.00S,3,0,,1610612761,,,0,0,0,,0,57,84,141,v,Raptors Rebound,Rebound,Unknown,1,0,359
+22400295,487,PT01M24.00S,3,1610612761,TOR,1642367,Mogbo,J. Mogbo,15,45,5,Missed,1,57,84,141,v,MISS Mogbo 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,360
+22400295,488,PT01M22.00S,3,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,57,84,141,h,Theis REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,361
+22400295,489,PT01M15.00S,3,1610612740,NOP,1627749,Murray,D. Murray,-200,170,26,Missed,1,57,84,141,h,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,362
+22400295,490,PT01M12.00S,3,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,57,84,141,v,Mogbo REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,363
+22400295,491,PT01M07.00S,3,1610612761,TOR,1642419,Battle,J. Battle,-181,179,25,Made,1,57,87,144,v,Battle 25' 3PT Jump Shot (14 PTS) (Mogbo 1 AST),Made Shot,Jump Shot,1,3,364
+22400295,493,PT01M06.00S,3,0,,1610612740,,,0,0,0,,0,57,87,144,h,PELICANS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,365
+22400295,496,PT00M55.00S,3,1610612740,NOP,203901,Payton,E. Payton,1,64,6,Missed,1,57,87,144,h,MISS Payton 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,366
+22400295,497,PT00M54.30S,3,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,57,87,144,h,Theis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,367
+22400295,564,PT00M53.40S,3,1610612740,NOP,1628464,Theis,D. Theis,4,20,2,Missed,1,57,87,144,h,MISS Theis 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,368
+22400295,565,PT00M53.10S,3,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,57,87,144,h,Theis REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,369
+22400295,498,PT00M52.30S,3,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,Missed,1,57,87,144,h,MISS Theis Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,370
+22400295,499,PT00M52.30S,3,0,,1610612740,,,0,0,0,,0,57,87,144,h,PELICANS Rebound,Rebound,Unknown,1,0,371
+22400295,501,PT00M46.10S,3,1610612740,NOP,1627749,Murray,D. Murray,180,194,26,Made,1,60,87,147,h,Murray 26' 3PT Jump Shot (7 PTS) (Theis 1 AST),Made Shot,Jump Shot,1,3,372
+22400295,504,PT00M37.00S,3,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,60,87,147,h,Payton P.FOUL (P1.PN) (P.Fraher),Foul,Personal,1,0,373
+22400295,506,PT00M37.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,60,87,147,v,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,374
+22400295,507,PT00M37.00S,3,0,,1610612761,,,0,0,0,,0,60,87,147,v,Raptors Rebound,Rebound,Normal Rebound,0,0,375
+22400295,508,PT00M37.00S,3,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,60,87,147,v,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,376
+22400295,509,PT00M34.80S,3,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,60,87,147,h,Robinson-Earl REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,377
+22400295,510,PT00M25.20S,3,1610612740,NOP,1627749,Murray,D. Murray,-71,279,29,Made,1,63,87,150,h,Murray 29' 3PT Jump Shot (10 PTS) (Payton 2 AST),Made Shot,Jump Shot,1,3,378
+22400295,512,PT00M03.40S,3,1610612761,TOR,1630558,Mitchell,D. Mitchell,0,0,0,,0,63,87,150,v,Mitchell Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,379
+22400295,512,PT00M03.40S,3,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,63,87,150,h,Payton STEAL (3 STL),,,1,0,380
+22400295,514,PT00M00.00S,3,1610612740,NOP,1627749,Murray,D. Murray,-178,178,25,Missed,1,63,87,150,h,MISS Murray 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,381
+22400295,515,PT00M00.00S,3,0,,1610612740,,,0,0,0,,0,63,87,150,h,PELICANS Rebound,Rebound,Unknown,1,0,382
+22400295,516,PT00M00.00S,3,0,,0,,,0,0,0,,0,63,87,150,,End of 3rd Period (9:46 PM EST),period,end,1,0,383
+22400295,527,PT12M00.00S,4,0,,0,,,0,0,0,,0,63,87,150,,Start of 4th Period (9:49 PM EST),period,start,0,0,384
+22400295,528,PT11M38.00S,4,1610612761,TOR,1642419,Battle,J. Battle,175,199,27,Missed,1,63,87,150,v,MISS Battle 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,385
+22400295,529,PT11M34.00S,4,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,63,87,150,h,Green REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,386
+22400295,530,PT11M28.00S,4,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,63,87,150,v,Raptors T.Foul (Def. 3 Sec Mogbo ) (P.Fraher),Foul,Defense 3 Second,1,0,387
+22400295,531,PT11M28.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,63,87,150,h,MISS McCollum Free Throw Technical,Free Throw,Free Throw Technical,1,0,388
+22400295,532,PT11M28.00S,4,0,,1610612740,,,0,0,0,,0,63,87,150,h,PELICANS Rebound,Rebound,Normal Rebound,0,0,389
+22400295,533,PT11M28.00S,4,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,63,87,150,v,SUB: Poeltl FOR Mogbo,Substitution,,0,0,390
+22400295,535,PT11M22.00S,4,1610612740,NOP,1641998,Jemison III,T. Jemison III,-4,106,11,Made,1,65,87,152,h,Jemison III 11' Driving Floating Bank Jump Shot (2 PTS) (Robinson-Earl 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,391
+22400295,537,PT11M07.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,-12,-6,1,Missed,1,65,87,152,v,MISS Barrett 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,392
+22400295,538,PT11M03.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,65,87,152,v,Poeltl REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,393
+22400295,539,PT11M03.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,Missed,1,65,87,152,v,MISS Poeltl Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,394
+22400295,540,PT11M03.00S,4,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,65,87,152,h,Green REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,395
+22400295,541,PT11M03.00S,4,1610612761,TOR,1642419,Battle,J. Battle,0,0,0,,0,65,87,152,v,Battle P.FOUL (P1.T1) (P.Fraher),Foul,Personal,1,0,396
+22400295,543,PT10M55.00S,4,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,65,87,152,h,Jemison III OFF.Foul (P1) (D.Scott),Foul,Offensive,1,0,397
+22400295,545,PT10M55.00S,4,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,65,87,152,h,Jemison III Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,398
+22400295,546,PT10M34.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,-229,3,0,Missed,1,65,87,152,v,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,1,3,399
+22400295,547,PT10M31.00S,4,1610612761,TOR,1642419,Battle,J. Battle,0,0,0,,0,65,87,152,v,Battle REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,400
+22400295,548,PT10M29.00S,4,1610612761,TOR,1642347,Shead,J. Shead,-86,230,25,Made,1,65,90,155,v,Shead 25' 3PT Jump Shot (3 PTS) (Battle 2 AST),Made Shot,Jump Shot,1,3,401
+22400295,550,PT10M19.00S,4,1610612740,NOP,1627749,Murray,D. Murray,12,2,1,Made,1,67,90,157,h,Murray 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,402
+22400295,551,PT10M19.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,67,90,157,v,Barnes S.FOUL (P2.T2) (D.Scott),Foul,Shooting,1,0,403
+22400295,553,PT10M19.00S,4,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,67,90,157,h,MISS Murray Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,404
+22400295,554,PT10M18.00S,4,0,,1610612761,,,0,0,0,,0,67,90,157,v,Raptors Rebound,Rebound,Unknown,1,0,405
+22400295,555,PT10M18.00S,4,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,67,90,157,h,Jemison III L.B.FOUL (P2.T1) (S.Corbin),Foul,Loose Ball,1,0,406
+22400295,557,PT10M03.00S,4,1610612761,TOR,1642419,Battle,J. Battle,-104,234,26,Made,1,67,93,160,v,Battle 26' 3PT Jump Shot (17 PTS) (Barrett 8 AST),Made Shot,Jump Shot,1,3,407
+22400295,559,PT09M33.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,7,68,7,Missed,1,67,93,160,h,MISS Robinson-Earl 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,408
+22400295,560,PT09M31.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,67,93,160,v,Barnes REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,409
+22400295,561,PT09M23.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,-13,-8,2,Made,1,67,95,162,v,Poeltl 2' Reverse Layup (2 PTS) (Barrett 9 AST),Made Shot,Reverse Layup Shot,1,2,410
+22400295,563,PT09M16.00S,4,0,,1610612740,,,0,0,0,,0,67,95,162,h,PELICANS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,411
+22400295,566,PT09M16.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,67,95,162,h,SUB: Missi FOR Robinson-Earl,Substitution,,0,0,412
+22400295,567,PT09M16.00S,4,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,67,95,162,h,SUB: Hawkins FOR Jemison III,Substitution,,0,0,413
+22400295,570,PT09M10.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,125,227,26,Made,1,70,95,165,h,McCollum 26' 3PT Jump Shot (16 PTS) (Murray 2 AST),Made Shot,Jump Shot,1,3,414
+22400295,572,PT08M57.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,70,95,165,h,McCollum P.FOUL (P1.T2) (S.Corbin),Foul,Personal,1,0,415
+22400295,574,PT08M53.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,21,-2,2,Made,1,70,97,167,v,Barnes 2' Driving Layup (17 PTS) (Barrett 10 AST),Made Shot,Driving Layup Shot,1,2,416
+22400295,576,PT08M32.00S,4,1610612740,NOP,1627749,Murray,D. Murray,-15,96,10,Made,1,72,97,169,h,Murray 10' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,1,2,417
+22400295,577,PT08M23.00S,4,1610612761,TOR,1642419,Battle,J. Battle,2,-4,0,Made,1,72,99,171,v,Battle Cutting Layup Shot (19 PTS) (Barrett 11 AST),Made Shot,Cutting Layup Shot,1,2,418
+22400295,579,PT08M12.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,16,6,2,Made,1,74,99,173,h,McCollum 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,419
+22400295,580,PT08M06.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,20,-1,2,Missed,1,74,99,173,v,MISS Barrett 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,420
+22400295,581,PT08M03.00S,4,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,74,99,173,h,Missi REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,421
+22400295,582,PT07M59.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,74,99,173,v,Poeltl P.FOUL (P4.T3) (D.Scott),Foul,Personal,1,0,422
+22400295,584,PT07M59.00S,4,1610612761,TOR,1629628,Barrett,R. Barrett,0,0,0,,0,74,99,173,v,SUB: Walter FOR Barrett,Substitution,,0,0,423
+22400295,586,PT07M46.00S,4,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,74,99,173,h,Murray Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,424
+22400295,586,PT07M46.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,74,99,173,v,Poeltl STEAL (2 STL),,,1,0,425
+22400295,588,PT07M38.00S,4,1610612761,TOR,1642347,Shead,J. Shead,12,1,1,Made,1,74,101,175,v,Shead 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,426
+22400295,589,PT07M26.00S,4,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,74,101,175,v,Shead S.FOUL (P1.T4) (D.Scott),Foul,Shooting,1,0,427
+22400295,591,PT07M26.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,74,101,175,h,MISS McCollum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,428
+22400295,592,PT07M26.00S,4,0,,1610612740,,,0,0,0,,0,74,101,175,h,PELICANS Rebound,Rebound,Normal Rebound,1,0,429
+22400295,593,PT07M26.00S,4,1610612740,NOP,1627749,Murray,D. Murray,0,0,0,,0,74,101,175,h,SUB: Payton FOR Murray,Substitution,,0,0,430
+22400295,594,PT07M26.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,74,101,175,v,SUB: Agbaji FOR Barnes,Substitution,,0,0,431
+22400295,597,PT07M26.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,75,101,176,h,McCollum Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,432
+22400295,598,PT07M16.00S,4,1610612761,TOR,1642419,Battle,J. Battle,148,210,26,Made,1,75,104,179,v,Battle 26' 3PT Jump Shot (22 PTS) (Shead 3 AST),Made Shot,Jump Shot,1,3,433
+22400295,600,PT07M01.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,92,136,16,Missed,1,75,104,179,h,MISS Hawkins 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,434
+22400295,601,PT06M58.00S,4,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,75,104,179,v,Agbaji REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,435
+22400295,602,PT06M54.00S,4,1610612761,TOR,1642419,Battle,J. Battle,58,255,26,Missed,1,75,104,179,v,MISS Battle 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,436
+22400295,603,PT06M51.00S,4,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,75,104,179,h,Missi REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,437
+22400295,604,PT06M42.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,184,209,28,Missed,1,75,104,179,h,MISS McCollum 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,438
+22400295,605,PT06M39.00S,4,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,75,104,179,v,Agbaji REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,439
+22400295,606,PT06M31.00S,4,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,75,104,179,v,Shead Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,440
+22400295,606,PT06M31.00S,4,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,75,104,179,h,Green STEAL (2 STL),,,1,0,441
+22400295,608,PT06M23.00S,4,1610612740,NOP,1642274,Missi,Y. Missi,20,12,2,Made,1,77,104,181,h,Missi 2' Cutting Layup Shot (9 PTS) (McCollum 4 AST),Made Shot,Cutting Layup Shot,1,2,442
+22400295,610,PT06M17.00S,4,0,,1610612761,,,0,0,0,,0,77,104,181,v,Raptors Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,443
+22400295,611,PT06M17.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,77,104,181,h,SUB: Robinson-Earl FOR McCollum,Substitution,,0,0,444
+22400295,612,PT06M17.00S,4,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,77,104,181,h,SUB: Boston Jr. FOR Green,Substitution,,0,0,445
+22400295,613,PT06M17.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,77,104,181,h,SUB: Reeves FOR Hawkins,Substitution,,0,0,446
+22400295,614,PT06M17.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,77,104,181,v,SUB: Fernando FOR Poeltl,Substitution,,0,0,447
+22400295,619,PT06M01.00S,4,1610612761,TOR,1642266,Walter,J. Walter,-23,-4,2,Made,1,77,106,183,v,Walter 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,448
+22400295,620,PT05M44.00S,4,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,77,106,183,h,Payton Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,449
+22400295,620,PT05M44.00S,4,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,77,106,183,v,Shead STEAL (1 STL),,,1,0,450
+22400295,622,PT05M34.00S,4,1610612761,TOR,1628981,Fernando,B. Fernando,-28,-5,3,Made,1,77,108,185,v,Fernando 3' Alley Oop Layup (2 PTS) (Battle 3 AST),Made Shot,Alley Oop Layup shot,1,2,451
+22400295,624,PT05M17.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,157,217,27,Missed,1,77,108,185,h,MISS Robinson-Earl 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,452
+22400295,625,PT05M13.00S,4,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,77,108,185,v,Walter REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,453
+22400295,626,PT05M04.00S,4,1610612761,TOR,1642347,Shead,J. Shead,-232,-11,0,Made,1,77,111,188,v,Shead 3PT Jump Shot (8 PTS) (Walter 4 AST),Made Shot,Jump Shot,1,3,454
+22400295,628,PT04M44.00S,4,1610612740,NOP,1630527,Boston,B. Boston,-21,11,2,Made,1,79,111,190,h,Boston Jr. 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,455
+22400295,629,PT04M29.00S,4,1610612761,TOR,1642266,Walter,J. Walter,205,140,25,Missed,1,79,111,190,v,MISS Walter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,456
+22400295,630,PT04M26.00S,4,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,79,111,190,h,Boston Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,457
+22400295,631,PT04M14.00S,4,1610612740,NOP,1630527,Boston,B. Boston,53,183,19,Missed,1,79,111,190,h,MISS Boston Jr. 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,458
+22400295,632,PT04M11.00S,4,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,79,111,190,v,Shead REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,459
+22400295,633,PT04M03.00S,4,1610612761,TOR,1642419,Battle,J. Battle,21,4,2,Made,1,79,113,192,v,Battle 2' Driving Finger Roll Layup (24 PTS) (Shead 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,460
+22400295,635,PT03M43.00S,4,1610612740,NOP,1642274,Missi,Y. Missi,20,2,2,Made,1,81,113,194,h,Missi 2' Driving Layup (11 PTS) (Robinson-Earl 3 AST),Made Shot,Driving Layup Shot,1,2,461
+22400295,637,PT03M43.00S,4,1610612761,TOR,1628981,Fernando,B. Fernando,0,0,0,,0,81,113,194,v,Fernando S.FOUL (P1.PN) (S.Corbin),Foul,Shooting,1,0,462
+22400295,639,PT03M43.00S,4,1610612761,TOR,1630534,Agbaji,O. Agbaji,0,0,0,,0,81,113,194,v,SUB: Mogbo FOR Agbaji,Substitution,,0,0,463
+22400295,640,PT03M43.00S,4,1610612761,TOR,1642419,Battle,J. Battle,0,0,0,,0,81,113,194,v,SUB: Temple FOR Battle,Substitution,,0,0,464
+22400295,643,PT03M43.00S,4,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,81,113,194,h,MISS Missi Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,465
+22400295,644,PT03M37.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,81,113,194,h,Robinson-Earl REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,466
+22400295,645,PT03M36.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,81,113,194,h,Robinson-Earl Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,467
+22400295,645,PT03M36.00S,4,1610612761,TOR,202066,Temple,G. Temple,0,0,0,,0,81,113,194,v,Temple STEAL (1 STL),,,1,0,468
+22400295,647,PT03M33.00S,4,1610612761,TOR,1628981,Fernando,B. Fernando,0,0,0,,0,81,113,194,v,Fernando OFF.Foul (P2) (D.Scott),Foul,Offensive,1,0,469
+22400295,649,PT03M33.00S,4,1610612761,TOR,1628981,Fernando,B. Fernando,0,0,0,,0,81,113,194,v,Fernando Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,1,0,470
+22400295,650,PT03M33.00S,4,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,81,113,194,h,SUB: Jemison III FOR Missi,Substitution,,0,0,471
+22400295,652,PT03M27.00S,4,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,81,113,194,h,Payton Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,472
+22400295,652,PT03M27.00S,4,1610612761,TOR,1628981,Fernando,B. Fernando,0,0,0,,0,81,113,194,v,Fernando STEAL (1 STL),,,1,0,473
+22400295,654,PT03M22.00S,4,1610612761,TOR,1642266,Walter,J. Walter,-239,-15,24,Missed,1,81,113,194,v,MISS Walter 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,474
+22400295,655,PT03M19.00S,4,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,81,113,194,h,Payton REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,475
+22400295,656,PT03M03.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,228,17,0,Missed,1,81,113,194,h,MISS Robinson-Earl 3PT Jump Shot,Missed Shot,Jump Shot,1,3,476
+22400295,657,PT03M01.00S,4,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,81,113,194,v,Walter REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,477
+22400295,658,PT02M49.00S,4,1610612761,TOR,1642347,Shead,J. Shead,154,220,27,Missed,1,81,113,194,v,MISS Shead 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,478
+22400295,659,PT02M46.00S,4,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,81,113,194,h,Jemison III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,479
+22400295,660,PT02M36.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-17,1,2,Made,1,83,113,196,h,Robinson-Earl 2' Cutting Layup Shot (12 PTS) (Payton 3 AST),Made Shot,Cutting Layup Shot,1,2,480
+22400295,662,PT02M17.00S,4,1610612761,TOR,1642266,Walter,J. Walter,0,0,0,,0,83,113,196,v,Walter Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,481
+22400295,662,PT02M17.00S,4,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,83,113,196,h,Boston Jr. STEAL (2 STL),,,1,0,482
+22400295,664,PT02M11.00S,4,1610612740,NOP,1641810,Reeves,A. Reeves,13,2,1,Made,1,85,113,198,h,Reeves 1' Running Reverse Layup (2 PTS) (Boston Jr. 2 AST),Made Shot,Running Reverse Layup Shot,1,2,483
+22400295,666,PT01M54.00S,4,1610612761,TOR,1642347,Shead,J. Shead,26,79,8,Missed,1,85,113,198,v,MISS Shead 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,484
+22400295,667,PT01M53.00S,4,1610612761,TOR,1628981,Fernando,B. Fernando,0,0,0,,0,85,113,198,v,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,485
+22400295,668,PT01M48.00S,4,1610612761,TOR,1628981,Fernando,B. Fernando,153,64,17,Missed,1,85,113,198,v,MISS Fernando 17' Jump Shot,Missed Shot,Jump Shot,1,2,486
+22400295,669,PT01M44.00S,4,1610612740,NOP,1641810,Reeves,A. Reeves,0,0,0,,0,85,113,198,h,Reeves REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,487
+22400295,670,PT01M39.00S,4,1610612740,NOP,203901,Payton,E. Payton,0,0,0,,0,85,113,198,h,Payton Lost Ball Turnover (P4.T16),Turnover,Lost Ball,1,0,488
+22400295,670,PT01M39.00S,4,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,85,113,198,v,Mogbo STEAL (1 STL),,,1,0,489
+22400295,672,PT01M36.00S,4,1610612761,TOR,1642367,Mogbo,J. Mogbo,-10,-2,1,Made,1,85,115,200,v,Mogbo 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,2,490
+22400295,673,PT01M25.00S,4,1610612761,TOR,1642367,Mogbo,J. Mogbo,0,0,0,,0,85,115,200,v,Mogbo S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,1,0,491
+22400295,675,PT01M25.00S,4,1610612740,NOP,1641810,Reeves,A. Reeves,0,0,0,,0,86,115,201,h,Reeves Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,492
+22400295,676,PT01M25.00S,4,1610612740,NOP,1641810,Reeves,A. Reeves,0,0,0,,0,87,115,202,h,Reeves Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,493
+22400295,677,PT01M11.00S,4,1610612761,TOR,1642266,Walter,J. Walter,-40,75,9,Made,1,87,117,204,v,Walter 9' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,1,2,494
+22400295,678,PT01M04.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-20,15,3,Made,1,89,117,206,h,Robinson-Earl 3' Cutting Layup Shot (14 PTS) (Jemison III 1 AST),Made Shot,Cutting Layup Shot,1,2,495
+22400295,680,PT00M48.30S,4,1610612761,TOR,1628981,Fernando,B. Fernando,4,1,0,Made,1,89,119,208,v,Fernando Alley Oop Dunk (4 PTS) (Walter 5 AST),Made Shot,Alley Oop Dunk Shot,1,2,496
+22400295,682,PT00M46.00S,4,1610612740,NOP,1641998,Jemison III,T. Jemison III,0,0,0,,0,89,119,208,h,Jemison III Bad Pass Turnover (P2.T17),Turnover,Bad Pass,1,0,497
+22400295,682,PT00M46.00S,4,1610612761,TOR,1642347,Shead,J. Shead,0,0,0,,0,89,119,208,v,Shead STEAL (2 STL),,,1,0,498
+22400295,684,PT00M42.50S,4,1610612761,TOR,1642347,Shead,J. Shead,-190,159,25,Missed,1,89,119,208,v,MISS Shead 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,499
+22400295,685,PT00M42.30S,4,0,,1610612740,,,0,0,0,,0,89,119,208,h,PELICANS Rebound,Rebound,Unknown,1,0,500
+22400295,687,PT00M30.40S,4,1610612740,NOP,203901,Payton,E. Payton,51,70,9,Made,1,91,119,210,h,Payton 9' Driving Floating Jump Shot (10 PTS) (Boston Jr. 3 AST),Made Shot,Driving Floating Jump Shot,1,2,501
+22400295,689,PT00M05.20S,4,0,,1610612761,,,0,0,0,,0,91,119,210,v,Raptors Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,1,0,502
+22400295,690,PT00M03.70S,4,1610612740,NOP,1641998,Jemison III,T. Jemison III,-4,6,1,Made,1,93,119,212,h,Jemison III 1' Cutting Dunk Shot (4 PTS) (Payton 4 AST),Made Shot,Cutting Dunk Shot,1,2,503
+22400295,692,PT00M00.00S,4,0,,0,,,0,0,0,,0,93,119,212,,End of 4th Period (10:13 PM EST),period,end,1,0,504

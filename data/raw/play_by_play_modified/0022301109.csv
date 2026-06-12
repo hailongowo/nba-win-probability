@@ -1,0 +1,476 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22301109,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+22301109,4,PT12M00.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Jump Ball Valanciunas vs. Carter Jr.: Tip to Suggs,Jump Ball,,1,0,2
+22301109,7,PT11M45.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,-9,51,5,Missed,1,0,0,0,v,MISS Banchero 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,3
+22301109,8,PT11M44.00S,1,0,,1610612753,,,0,0,0,,0,0,0,0,v,Magic Rebound,Rebound,Unknown,1,0,4
+22301109,9,PT11M44.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,0,0,0,h,Jones L.B.FOUL (P1.T1) (J.Conley),Foul,Loose Ball,1,0,5
+22301109,11,PT11M32.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,4,102,10,Missed,1,0,0,0,v,MISS Banchero 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,6
+22301109,12,PT11M29.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,0,0,0,h,Valanciunas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+22301109,13,PT11M19.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,7,-4,1,Made,1,2,0,2,h,Valanciunas 1' Layup (2 PTS) (McCollum 1 AST),Made Shot,Layup Shot,1,2,8
+22301109,15,PT10M56.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,145,15,Missed,1,2,0,2,v,MISS Suggs 15' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,9
+22301109,16,PT10M54.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,2,0,2,v,Carter Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,10
+22301109,17,PT10M46.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,1,78,8,Missed,1,2,0,2,v,MISS Carter Jr. 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,11
+22301109,18,PT10M44.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,2,0,2,v,Suggs REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,12
+22301109,19,PT10M40.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,-165,199,26,Missed,1,2,0,2,v,MISS Banchero 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,13
+22301109,20,PT10M35.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,2,0,2,h,Murphy III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+22301109,21,PT10M23.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-129,67,15,Missed,1,2,0,2,h,MISS Valanciunas 15' Jump Shot,Missed Shot,Jump Shot,1,2,15
+22301109,22,PT10M21.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,2,0,2,v,Banchero REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+22301109,23,PT10M12.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,2,-1,0,Made,1,2,2,4,v,Carter Jr. Cutting Dunk Shot (2 PTS) (Harris 1 AST),Made Shot,Cutting Dunk Shot,1,2,17
+22301109,25,PT09M47.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,222,-5,0,Made,1,5,2,7,h,McCollum 3PT Fadeaway Jumper (3 PTS),Made Shot,Fadeaway Jump Shot,1,3,18
+22301109,26,PT09M29.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,5,2,7,h,Williamson P.FOUL (P1.T2) (J.Conley),Foul,Personal,1,0,19
+22301109,28,PT09M18.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-232,-13,0,Missed,1,5,2,7,v,MISS Carter Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+22301109,29,PT09M17.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,5,2,7,v,Banchero REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,21
+22301109,30,PT09M17.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,-33,10,3,Missed,1,5,2,7,v,MISS Banchero 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,22
+22301109,32,PT09M16.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,5,2,7,h,Williamson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,23
+22301109,33,PT09M08.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,22,5,2,Made,1,7,2,9,h,Williamson 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,24
+22301109,34,PT09M00.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,7,2,9,h,Murphy III S.FOUL (P1.T3) (J.Capers),Foul,Shooting,1,0,25
+22301109,36,PT09M00.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,7,3,10,v,Banchero Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,26
+22301109,37,PT09M00.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,7,4,11,v,Banchero Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,27
+22301109,39,PT08M45.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,200,158,25,Missed,1,7,4,11,h,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,28
+22301109,40,PT08M42.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,7,4,11,v,Carter Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,29
+22301109,41,PT08M28.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,-21,0,2,Made,1,7,6,13,v,F. Wagner 2' Driving Reverse Layup (2 PTS) (Banchero 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,30
+22301109,42,PT08M08.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,33,86,9,Made,1,9,6,15,h,Murphy III 9' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,31
+22301109,43,PT07M55.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,9,6,15,h,Valanciunas S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,1,0,32
+22301109,45,PT07M55.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,9,6,15,v,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,33
+22301109,46,PT07M55.00S,1,0,,1610612753,,,0,0,0,,0,9,6,15,v,Magic Rebound,Rebound,Normal Rebound,0,0,34
+22301109,47,PT07M55.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,9,7,16,v,Banchero Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,35
+22301109,48,PT07M47.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,-20,6,2,Made,1,11,7,18,h,Williamson 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,36
+22301109,49,PT07M37.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,-225,22,0,Made,1,11,10,21,v,F. Wagner 3PT Jump Shot (5 PTS) (Suggs 1 AST),Made Shot,Jump Shot,1,3,37
+22301109,52,PT07M25.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,11,10,21,v,Carter Jr. S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,1,0,38
+22301109,54,PT07M25.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,12,10,22,h,Valanciunas Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,1,0,39
+22301109,55,PT07M25.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,13,10,23,h,Valanciunas Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,1,0,40
+22301109,56,PT07M25.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,14,10,24,h,Valanciunas Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1,0,41
+22301109,57,PT07M14.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,14,10,24,v,Carter Jr. Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,42
+22301109,57,PT07M14.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,14,10,24,h,Murphy III STEAL (1 STL),,,1,0,43
+22301109,59,PT07M03.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,14,10,24,v,Suggs P.FOUL (P1.T2) (J.Capers),Foul,Personal,1,0,44
+22301109,61,PT06M56.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,-36,70,8,Made,1,16,10,26,h,Williamson 8' Driving Floating Jump Shot (6 PTS) (Valanciunas 1 AST),Made Shot,Driving Floating Jump Shot,1,2,45
+22301109,63,PT06M38.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,16,10,26,h,Murphy III S.FOUL (P2.PN) (J.Conley),Foul,Shooting,1,0,46
+22301109,65,PT06M38.00S,1,0,,1610612740,,,0,0,0,,0,16,10,26,h,PELICANS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,47
+22301109,67,PT06M38.00S,1,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,16,10,26,h,SUB: Marshall FOR Murphy III,Substitution,,0,0,48
+22301109,69,PT06M38.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,16,11,27,v,Carter Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,49
+22301109,70,PT06M38.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,16,11,27,v,MISS Carter Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,50
+22301109,71,PT06M36.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,16,11,27,h,Valanciunas REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,51
+22301109,72,PT06M18.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,32,29,4,Missed,1,16,11,27,h,MISS Williamson 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,52
+22301109,73,PT06M13.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,16,11,27,v,Suggs REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,53
+22301109,74,PT06M11.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,16,11,27,v,Carter Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,54
+22301109,75,PT05M51.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,-25,-4,3,Missed,1,16,11,27,h,MISS Marshall 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,55
+22301109,76,PT05M48.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,16,11,27,v,Carter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,56
+22301109,77,PT05M43.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,-53,260,27,Missed,1,16,11,27,v,MISS Suggs 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,57
+22301109,78,PT05M40.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,16,11,27,h,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,58
+22301109,79,PT05M23.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,127,228,26,Missed,1,16,11,27,h,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,59
+22301109,80,PT05M20.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,16,11,27,v,Suggs REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,60
+22301109,81,PT05M07.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,1,8,1,Missed,1,16,11,27,v,MISS Banchero 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,61
+22301109,82,PT05M05.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,16,11,27,h,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,62
+22301109,83,PT05M01.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-18,1,2,Made,1,18,11,29,h,McCollum 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,63
+22301109,84,PT04M54.00S,1,1610612753,ORL,203914,Harris,G. Harris,-222,90,24,Missed,1,18,11,29,v,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,64
+22301109,85,PT04M51.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,18,11,29,h,Valanciunas REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,65
+22301109,86,PT04M41.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,-29,52,6,Missed,1,18,11,29,h,MISS Williamson 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,66
+22301109,87,PT04M39.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,18,11,29,v,Carter Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,67
+22301109,88,PT04M35.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,18,11,29,h,Marshall S.FOUL (P1.PN) (J.Capers),Foul,Shooting,1,0,68
+22301109,90,PT04M35.00S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,18,11,29,h,Jones T.FOUL (P1.PN) (J.Capers),Foul,Technical,1,0,69
+22301109,91,PT04M35.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,18,11,29,v,MISS Banchero Free Throw Technical,Free Throw,Free Throw Technical,1,0,70
+22301109,92,PT04M35.00S,1,0,,1610612753,,,0,0,0,,0,18,11,29,v,Magic Rebound,Rebound,Normal Rebound,0,0,71
+22301109,93,PT04M35.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,18,11,29,h,SUB: Nance Jr. FOR McCollum,Substitution,,0,0,72
+22301109,94,PT04M35.00S,1,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,18,11,29,h,SUB: Daniels FOR Valanciunas,Substitution,,0,0,73
+22301109,95,PT04M35.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,18,11,29,v,SUB: Isaac FOR F. Wagner,Substitution,,0,0,74
+22301109,96,PT04M35.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,18,11,29,v,SUB: Fultz FOR Carter Jr.,Substitution,,0,0,75
+22301109,101,PT04M35.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,18,12,30,v,Banchero Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,76
+22301109,102,PT04M35.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,18,13,31,v,Banchero Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,77
+22301109,103,PT04M21.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,-17,1,2,Missed,1,18,13,31,h,MISS Williamson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,78
+22301109,104,PT04M19.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,18,13,31,v,Isaac REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+22301109,105,PT04M08.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,-134,213,25,Made,1,18,16,34,v,Isaac 25' 3PT Jump Shot (3 PTS) (Banchero 2 AST),Made Shot,Jump Shot,1,3,80
+22301109,107,PT03M51.00S,1,1610612740,NOP,1630529,Jones,H. Jones,-23,33,4,Missed,1,18,16,34,h,MISS Jones 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,81
+22301109,107,PT03M51.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,18,16,34,v,Isaac BLOCK (1 BLK),,,1,2,82
+22301109,109,PT03M48.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,18,16,34,v,Fultz REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,83
+22301109,111,PT03M27.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,96,32,10,Missed,1,18,16,34,v,MISS Banchero 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,84
+22301109,112,PT03M24.00S,1,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,18,16,34,v,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,85
+22301109,113,PT03M22.00S,1,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,18,16,34,v,Harris Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,86
+22301109,113,PT03M22.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,18,16,34,h,Williamson STEAL (1 STL),,,1,0,87
+22301109,115,PT03M19.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,16,5,2,Made,1,20,16,36,h,Marshall 2' Running Layup (2 PTS) (Daniels 1 AST),Made Shot,Running Layup Shot,1,2,88
+22301109,116,PT03M19.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,20,16,36,v,Isaac Violation:Defensive Goaltending (J.Conley),Violation,Defensive Goaltending,1,0,89
+22301109,117,PT03M19.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,20,16,36,v,Fultz S.FOUL (P1.T3) (J.Conley),Foul,Shooting,1,0,90
+22301109,120,PT03M19.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,21,16,37,h,Marshall Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,91
+22301109,121,PT02M55.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,17,140,14,Missed,1,21,16,37,v,MISS Fultz 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,92
+22301109,122,PT02M53.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,21,16,37,h,Williamson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,93
+22301109,124,PT02M53.00S,1,0,,1610612753,,,0,0,0,,0,21,16,37,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,94
+22301109,125,PT02M53.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,21,16,37,h,SUB: McCollum FOR Williamson,Substitution,,0,0,95
+22301109,126,PT02M53.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,21,16,37,v,SUB: Ingles FOR Suggs,Substitution,,0,0,96
+22301109,127,PT02M53.00S,1,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,21,16,37,v,SUB: Anthony FOR Harris,Substitution,,0,0,97
+22301109,131,PT02M35.00S,1,1610612740,NOP,1630529,Jones,H. Jones,1,22,2,Made,1,23,16,39,h,Jones 2' Layup (2 PTS) (Marshall 1 AST),Made Shot,Layup Shot,1,2,98
+22301109,133,PT02M22.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,23,16,39,v,Fultz Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,99
+22301109,133,PT02M22.00S,1,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,23,16,39,h,Daniels STEAL (1 STL),,,1,0,100
+22301109,135,PT02M13.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,222,25,0,Missed,1,23,16,39,h,MISS McCollum 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+22301109,136,PT02M09.00S,1,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,23,16,39,h,Nance Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,102
+22301109,137,PT01M59.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,23,16,39,v,Fultz P.FOUL (P2.T4) (S.Corbin),Foul,Personal,1,0,103
+22301109,139,PT01M51.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,10,49,5,Missed,1,23,16,39,h,MISS McCollum 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,2,104
+22301109,140,PT01M51.00S,1,0,,1610612753,,,0,0,0,,0,23,16,39,v,Magic Rebound,Rebound,Unknown,0,0,105
+22301109,142,PT01M38.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,18,5,2,Made,1,23,18,41,v,Fultz 2' Cutting Layup Shot (2 PTS) (Anthony 1 AST),Made Shot,Cutting Layup Shot,1,2,106
+22301109,144,PT01M38.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,23,18,41,h,Marshall S.FOUL (P2.PN) (S.Corbin),Foul,Shooting,1,0,107
+22301109,146,PT01M38.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,23,19,42,v,Fultz Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,108
+22301109,147,PT01M19.00S,1,1610612740,NOP,1630230,Marshall,N. Marshall,184,181,26,Made,1,26,19,45,h,Marshall 26' 3PT Jump Shot (6 PTS) (Daniels 2 AST),Made Shot,Jump Shot,1,3,109
+22301109,149,PT01M00.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,71,164,18,Made,1,26,21,47,v,Isaac 18' Pullup Jump Shot (5 PTS) (Banchero 3 AST),Made Shot,Pullup Jump shot,1,2,110
+22301109,151,PT00M45.30S,1,1610612740,NOP,203468,McCollum,C. McCollum,-142,221,26,Missed,1,26,21,47,h,MISS McCollum 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,111
+22301109,152,PT00M41.70S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,26,21,47,v,Isaac REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,112
+22301109,153,PT00M36.40S,1,1610612753,ORL,1631094,Banchero,P. Banchero,134,-26,14,Missed,1,26,21,47,v,MISS Banchero 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,113
+22301109,154,PT00M36.40S,1,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,26,21,47,h,Marshall REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+22301109,155,PT00M28.20S,1,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,26,21,47,h,Jones Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,115
+22301109,155,PT00M28.20S,1,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,26,21,47,v,Ingles STEAL (1 STL),,,1,0,116
+22301109,157,PT00M06.80S,1,1610612753,ORL,1631094,Banchero,P. Banchero,65,250,26,Made,1,26,24,50,v,Banchero 26' 3PT Step Back Jump Shot (8 PTS) (Anthony 2 AST),Made Shot,Step Back Jump shot,1,3,117
+22301109,159,PT00M00.00S,1,1610612740,NOP,203468,McCollum,C. McCollum,-56,99,11,Missed,1,26,24,50,h,MISS McCollum 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,118
+22301109,160,PT00M00.00S,1,0,,1610612740,,,0,0,0,,0,26,24,50,h,PELICANS Rebound,Rebound,Unknown,0,0,119
+22301109,161,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,24,50,,End of 1st Period (8:38 PM EST),period,end,1,0,120
+22301109,166,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,24,50,,Start of 2nd Period (8:41 PM EST),period,start,0,0,121
+22301109,167,PT11M45.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,15,-1,2,Missed,1,26,24,50,h,MISS McCollum 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,122
+22301109,168,PT11M42.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,26,24,50,v,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+22301109,169,PT11M31.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,225,41,0,Missed,1,26,24,50,v,MISS Isaac 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+22301109,170,PT11M29.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,26,24,50,h,Daniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,125
+22301109,171,PT11M23.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,-6,6,1,Made,1,28,24,52,h,Nance Jr. 1' Running Dunk (2 PTS) (Murphy III 1 AST),Made Shot,Running Dunk Shot,1,2,126
+22301109,173,PT11M02.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,16,17,2,Made,1,28,26,54,v,M. Wagner 2' Cutting Layup Shot (2 PTS) (Isaac 1 AST),Made Shot,Cutting Layup Shot,1,2,127
+22301109,175,PT10M50.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,153,201,25,Missed,1,28,26,54,h,MISS Daniels 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+22301109,176,PT10M48.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,28,26,54,v,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,129
+22301109,177,PT10M35.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,-192,171,26,Missed,1,28,26,54,v,MISS Anthony 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+22301109,178,PT10M31.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,28,26,54,h,McCollum REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,131
+22301109,179,PT10M24.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,-235,13,24,Made,1,31,26,57,h,Daniels 24' 3PT Jump Shot (3 PTS) (Marshall 2 AST),Made Shot,Jump Shot,1,3,132
+22301109,181,PT10M01.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,-185,183,26,Made,1,31,29,60,v,Anthony 26' 3PT Jump Shot (3 PTS) (Isaac 2 AST),Made Shot,Jump Shot,1,3,133
+22301109,183,PT09M51.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,31,29,60,h,Daniels Offensive Charge Foul (P1) (S.Corbin),Foul,Offensive Charge,1,0,134
+22301109,185,PT09M51.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,31,29,60,h,Daniels Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,135
+22301109,186,PT09M38.00S,2,1610612753,ORL,204060,Ingles,J. Ingles,12,250,25,Missed,1,31,29,60,v,MISS Ingles 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,136
+22301109,187,PT09M33.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,31,29,60,h,Murphy III REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,137
+22301109,188,PT09M28.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,-15,68,7,Made,1,33,29,62,h,Marshall 7' Running Pull-Up Jump Shot (8 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,138
+22301109,190,PT09M13.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,36,55,7,Made,1,33,31,64,v,Fultz 7' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,139
+22301109,192,PT08M57.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,-75,249,26,Made,1,36,31,67,h,McCollum 26' 3PT Step Back Jump Shot (8 PTS) (Nance Jr. 1 AST),Made Shot,Step Back Jump shot,1,3,140
+22301109,194,PT08M38.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,21,6,2,Made,1,36,33,69,v,M. Wagner 2' Cutting Layup Shot (4 PTS) (Anthony 3 AST),Made Shot,Cutting Layup Shot,1,2,141
+22301109,196,PT08M38.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,36,33,69,h,Daniels S.FOUL (P2.T1) (J.Conley),Foul,Shooting,1,0,142
+22301109,198,PT08M38.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,36,33,69,v,SUB: F. Wagner FOR Fultz,Substitution,,0,0,143
+22301109,200,PT08M38.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,36,34,70,v,M. Wagner Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,144
+22301109,201,PT08M22.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,36,34,70,h,Nance Jr. Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,145
+22301109,201,PT08M22.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,36,34,70,v,Anthony STEAL (1 STL),,,1,0,146
+22301109,203,PT08M12.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,-2,50,5,Made,1,36,36,72,v,M. Wagner 5' Driving Layup (7 PTS) (F. Wagner 1 AST),Made Shot,Driving Layup Shot,1,2,147
+22301109,204,PT07M59.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,-15,105,11,Missed,1,36,36,72,h,MISS McCollum 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,148
+22301109,205,PT07M59.00S,2,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,36,36,72,v,Ingles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,149
+22301109,206,PT07M45.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,-22,-1,2,Made,1,36,38,74,v,M. Wagner 2' Layup (9 PTS) (Ingles 1 AST),Made Shot,Layup Shot,1,2,150
+22301109,209,PT07M38.00S,2,0,,1610612740,,,0,0,0,,0,36,38,74,h,PELICANS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,151
+22301109,210,PT07M38.00S,2,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,36,38,74,h,SUB: Valanciunas FOR Marshall,Substitution,,0,0,152
+22301109,211,PT07M38.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,36,38,74,h,SUB: Williamson FOR Daniels,Substitution,,0,0,153
+22301109,212,PT07M38.00S,2,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,36,38,74,h,SUB: Jones FOR Nance Jr.,Substitution,,0,0,154
+22301109,213,PT07M38.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,36,38,74,v,SUB: Banchero FOR Isaac,Substitution,,0,0,155
+22301109,218,PT07M33.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,36,38,74,v,F. Wagner P.FOUL (P1.T1) (S.Corbin),Foul,Personal,1,0,156
+22301109,220,PT07M20.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-119,15,12,Made,1,38,38,76,h,Valanciunas 12' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,1,2,157
+22301109,221,PT06M55.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,39,50,6,Missed,1,38,38,76,v,MISS F. Wagner 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,158
+22301109,222,PT06M53.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,38,38,76,h,McCollum REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,159
+22301109,224,PT06M34.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,1,57,6,Missed,1,38,38,76,h,MISS Williamson 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,160
+22301109,225,PT06M31.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,38,38,76,v,Anthony REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,161
+22301109,226,PT06M26.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,-218,134,26,Missed,1,38,38,76,v,MISS M. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,162
+22301109,227,PT06M23.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,38,38,76,h,Valanciunas REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,163
+22301109,228,PT06M15.00S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,17,258,26,Missed,1,38,38,76,h,MISS Murphy III 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,164
+22301109,229,PT06M10.00S,2,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,38,38,76,v,Ingles REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,165
+22301109,230,PT06M05.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,38,38,76,v,F. Wagner Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,166
+22301109,231,PT05M44.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,38,38,76,h,Valanciunas Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,167
+22301109,231,PT05M44.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,38,38,76,v,Anthony STEAL (2 STL),,,1,0,168
+22301109,233,PT05M40.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,38,38,76,h,McCollum P.FOUL (P1.T2) (J.Capers),Foul,Personal,1,0,169
+22301109,235,PT05M40.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,38,38,76,h,SUB: Daniels FOR McCollum,Substitution,,0,0,170
+22301109,236,PT05M40.00S,2,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,38,38,76,v,SUB: Suggs FOR Ingles,Substitution,,0,0,171
+22301109,237,PT05M40.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,38,38,76,v,SUB: Harris FOR M. Wagner,Substitution,,0,0,172
+22301109,238,PT05M40.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,38,38,76,v,SUB: Carter Jr. FOR Anthony,Substitution,,0,0,173
+22301109,243,PT05M23.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,21,1,2,Made,1,38,40,78,v,Banchero 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,174
+22301109,244,PT05M14.00S,2,1610612740,NOP,1630529,Jones,H. Jones,225,85,24,Missed,1,38,40,78,h,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,175
+22301109,245,PT05M12.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,38,40,78,v,Carter Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,176
+22301109,246,PT05M00.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,-232,-7,0,Missed,1,38,40,78,v,MISS F. Wagner 3PT Jump Shot,Missed Shot,Jump Shot,1,3,177
+22301109,247,PT05M00.00S,2,0,,1610612753,,,0,0,0,,0,38,40,78,v,Magic Rebound,Rebound,Unknown,0,0,178
+22301109,248,PT04M59.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,38,40,78,h,Jones L.B.FOUL (P2.T3) (S.Corbin),Foul,Loose Ball,1,0,179
+22301109,250,PT04M54.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,38,40,78,h,Valanciunas P.FOUL (P2.T4) (J.Capers),Foul,Personal,1,0,180
+22301109,252,PT04M41.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,25,77,8,Made,1,38,42,80,v,Banchero 8' Driving Floating Jump Shot (12 PTS) (Carter Jr. 1 AST),Made Shot,Driving Floating Jump Shot,1,2,181
+22301109,253,PT04M21.00S,2,1610612740,NOP,1630529,Jones,H. Jones,-20,10,2,Made,1,40,42,82,h,Jones 2' Driving Layup (4 PTS) (Daniels 3 AST),Made Shot,Driving Layup Shot,1,2,182
+22301109,256,PT04M11.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-56,247,25,Made,1,40,45,85,v,Carter Jr. 25' 3PT Jump Shot (6 PTS) (F. Wagner 2 AST),Made Shot,Jump Shot,1,3,183
+22301109,258,PT03M58.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,-16,28,3,Missed,1,40,45,85,h,MISS Williamson 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,184
+22301109,259,PT03M56.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,40,45,85,v,Carter Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,185
+22301109,260,PT03M44.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,225,-1,0,Made,1,40,48,88,v,Carter Jr. 3PT Jump Shot (9 PTS) (Suggs 2 AST),Made Shot,Jump Shot,1,3,186
+22301109,262,PT03M21.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,40,48,88,v,Carter Jr. P.FOUL (P2.T2) (J.Conley),Foul,Personal,1,0,187
+22301109,264,PT03M21.00S,2,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,40,48,88,h,SUB: McCollum FOR Valanciunas,Substitution,,0,0,188
+22301109,266,PT03M11.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,192,170,26,Made,1,43,48,91,h,Daniels 26' 3PT Jump Shot (6 PTS) (Williamson 1 AST),Made Shot,Jump Shot,1,3,189
+22301109,268,PT02M59.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,2,27,3,Missed,1,43,48,91,v,MISS Banchero 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,190
+22301109,269,PT02M58.00S,2,0,,1610612740,,,0,0,0,,0,43,48,91,h,PELICANS Rebound,Rebound,Unknown,0,0,191
+22301109,273,PT02M58.00S,2,0,,1610612753,,,0,0,0,,0,43,48,91,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,192
+22301109,274,PT02M42.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,10,-1,1,Missed,1,43,48,91,h,MISS Daniels 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,193
+22301109,275,PT02M40.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,43,48,91,v,F. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,194
+22301109,276,PT02M35.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,43,48,91,v,F. Wagner Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,195
+22301109,276,PT02M35.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,43,48,91,h,Daniels STEAL (2 STL),,,1,0,196
+22301109,278,PT02M29.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,10,6,1,Made,1,45,48,93,h,Daniels 1' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,197
+22301109,279,PT02M23.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,-21,17,3,Missed,1,45,48,93,v,MISS Suggs 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,198
+22301109,279,PT02M23.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,45,48,93,h,Williamson BLOCK (1 BLK),,,1,2,199
+22301109,281,PT02M20.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,45,48,93,h,McCollum REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,200
+22301109,282,PT02M19.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,45,48,93,v,Banchero S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,1,0,201
+22301109,284,PT02M19.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,46,48,94,h,Jones Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,202
+22301109,285,PT02M19.00S,2,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,47,48,95,h,Jones Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,203
+22301109,286,PT02M02.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,47,48,95,h,Daniels P.FOUL (P3.PN) (J.Conley),Foul,Personal,1,0,204
+22301109,288,PT02M02.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,47,49,96,v,Banchero Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,205
+22301109,289,PT02M02.00S,2,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,47,49,96,h,SUB: Marshall FOR Daniels,Substitution,,0,0,206
+22301109,290,PT02M02.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,47,49,96,v,SUB: Isaac FOR Carter Jr.,Substitution,,0,0,207
+22301109,293,PT02M02.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,47,50,97,v,Banchero Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,208
+22301109,294,PT01M47.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,-10,23,3,Made,1,49,50,99,h,Williamson 3' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,209
+22301109,295,PT01M30.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,-5,51,5,Made,1,49,52,101,v,Suggs 5' Driving Layup (2 PTS) (F. Wagner 3 AST),Made Shot,Driving Layup Shot,1,2,210
+22301109,297,PT01M22.00S,2,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,49,52,101,h,McCollum Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,211
+22301109,297,PT01M22.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,49,52,101,v,Suggs STEAL (1 STL),,,1,0,212
+22301109,299,PT01M15.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,21,6,2,Missed,1,49,52,101,v,MISS F. Wagner 2' Running Layup,Missed Shot,Running Layup Shot,1,2,213
+22301109,300,PT01M10.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,49,52,101,v,Isaac REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,214
+22301109,301,PT01M10.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,Made,1,49,54,103,v,Isaac Tip Dunk Shot (7 PTS),Made Shot,Tip Dunk Shot,1,2,215
+22301109,302,PT00M56.20S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,49,54,103,v,Isaac S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,1,0,216
+22301109,304,PT00M56.20S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,50,54,104,h,Williamson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,217
+22301109,305,PT00M56.20S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,50,54,104,h,MISS Williamson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,218
+22301109,306,PT00M53.40S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,50,54,104,v,Banchero REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,219
+22301109,307,PT00M49.70S,2,1610612753,ORL,1631094,Banchero,P. Banchero,-2,-4,0,Made,1,50,56,106,v,Banchero Running Dunk (16 PTS),Made Shot,Running Dunk Shot,1,2,220
+22301109,308,PT00M39.50S,2,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,50,56,106,v,Harris P.FOUL (P1.PN) (J.Conley),Foul,Personal,1,0,221
+22301109,310,PT00M39.50S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,51,56,107,h,Murphy III Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,222
+22301109,311,PT00M39.50S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,52,56,108,h,Murphy III Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,223
+22301109,312,PT00M32.30S,2,1610612753,ORL,1631094,Banchero,P. Banchero,108,225,25,Missed,1,52,56,108,v,MISS Banchero 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,224
+22301109,313,PT00M29.20S,2,0,,1610612753,,,0,0,0,,0,52,56,108,v,Magic Rebound,Rebound,Unknown,0,0,225
+22301109,315,PT00M20.80S,2,1610612753,ORL,1631094,Banchero,P. Banchero,6,9,1,Made,1,52,58,110,v,Banchero 1' Cutting Dunk Shot (18 PTS) (F. Wagner 4 AST),Made Shot,Cutting Dunk Shot,1,2,226
+22301109,317,PT00M05.30S,2,1610612740,NOP,1630530,Murphy III,T. Murphy III,-148,205,25,Made,1,55,58,113,h,Murphy III 25' 3PT Jump Shot (7 PTS) (Williamson 2 AST),Made Shot,Jump Shot,1,3,227
+22301109,319,PT00M00.40S,2,1610612753,ORL,203914,Harris,G. Harris,-223,121,25,Missed,1,55,58,113,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,228
+22301109,320,PT00M00.40S,2,0,,1610612753,,,0,0,0,,0,55,58,113,v,Magic Rebound,Rebound,Unknown,1,0,229
+22301109,321,PT00M00.00S,2,0,,0,,,0,0,0,,0,55,58,113,,End of 2nd Period (9:07 PM EST),period,end,1,0,230
+22301109,326,PT12M00.00S,3,0,,0,,,0,0,0,,0,55,58,113,,Start of 3rd Period (9:22 PM EST),period,start,0,0,231
+22301109,327,PT11M42.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,25,62,7,Made,1,57,58,115,h,McCollum 7' Driving Floating Jump Shot (10 PTS) (Williamson 3 AST),Made Shot,Driving Floating Jump Shot,1,2,232
+22301109,328,PT11M21.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,260,26,Made,1,57,61,118,v,Carter Jr. 26' 3PT Jump Shot (12 PTS) (F. Wagner 5 AST),Made Shot,Jump Shot,1,3,233
+22301109,331,PT10M59.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,164,183,25,Missed,1,57,61,118,h,MISS Murphy III 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+22301109,332,PT10M55.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,57,61,118,v,Carter Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,235
+22301109,333,PT10M38.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,107,148,18,Made,1,57,63,120,v,Banchero 18' Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,1,2,236
+22301109,334,PT10M25.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-191,159,25,Missed,1,57,63,120,h,MISS McCollum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+22301109,335,PT10M20.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,57,63,120,v,Banchero REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,238
+22301109,336,PT10M16.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,-163,218,27,Made,1,57,66,123,v,F. Wagner 27' 3PT Jump Shot (8 PTS) (Banchero 4 AST),Made Shot,Jump Shot,1,3,239
+22301109,338,PT09M58.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,26,99,10,Missed,1,57,66,123,h,MISS Williamson 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,240
+22301109,339,PT09M55.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,57,66,123,v,Suggs REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,241
+22301109,340,PT09M48.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,57,66,123,h,Williamson P.FOUL (P2.T1) (J.Conley),Foul,Personal,1,0,242
+22301109,342,PT09M42.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-28,259,26,Missed,1,57,66,123,v,MISS Banchero 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,243
+22301109,343,PT09M38.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,57,66,123,h,McCollum REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,244
+22301109,344,PT09M25.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,57,66,123,h,Williamson Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,245
+22301109,345,PT09M13.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,-71,71,10,Made,1,57,68,125,v,F. Wagner 10' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,246
+22301109,346,PT09M13.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,57,68,125,h,Williamson S.FOUL (P3.T2) (J.Capers),Foul,Shooting,1,0,247
+22301109,348,PT09M13.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,57,68,125,v,MISS F. Wagner Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,248
+22301109,349,PT09M11.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,57,68,125,h,Valanciunas REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,249
+22301109,350,PT08M56.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,15,51,5,Missed,1,57,68,125,h,MISS Williamson 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,250
+22301109,351,PT08M49.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,57,68,125,h,Valanciunas REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,251
+22301109,352,PT08M49.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,Made,1,59,68,127,h,Valanciunas Putback Layup (9 PTS),Made Shot,Putback Layup Shot,1,2,252
+22301109,353,PT08M37.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,-23,6,2,Missed,1,59,68,127,v,MISS F. Wagner 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,253
+22301109,354,PT08M35.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,59,68,127,h,McCollum REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,254
+22301109,355,PT08M30.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-9,21,2,Made,1,61,68,129,h,Williamson 2' Driving Finger Roll Layup (11 PTS) (McCollum 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,255
+22301109,357,PT08M13.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-1,154,15,Missed,1,61,68,129,v,MISS Banchero 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,256
+22301109,358,PT08M10.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,61,68,129,h,Murphy III REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,257
+22301109,359,PT08M06.00S,3,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,61,68,129,v,Harris P.FOUL (P2.T1) (S.Corbin),Foul,Personal,1,0,258
+22301109,361,PT08M06.00S,3,0,,202427,,,0,0,0,,0,61,68,129,,Jamahl Mosley Foul:T.FOUL (S.Corbin),Foul,Technical,0,0,259
+22301109,362,PT08M06.00S,3,0,,359,Brown,C. Brown,0,0,0,,0,61,68,129,,Instant Replay3rd Period (9:28 PM EST),Instant Replay,Support Ruling,0,0,260
+22301109,363,PT08M06.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,62,68,130,h,Murphy III Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,1,0,261
+22301109,364,PT07M58.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-9,31,3,Missed,1,62,68,130,h,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,262
+22301109,365,PT07M55.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,62,68,130,h,Murphy III REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,263
+22301109,366,PT07M52.00S,3,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,62,68,130,v,Harris S.FOUL (P3.T2) (J.Capers),Foul,Shooting,1,0,264
+22301109,368,PT07M52.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,63,68,131,h,McCollum Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,265
+22301109,369,PT07M52.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,64,68,132,h,McCollum Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,266
+22301109,370,PT07M40.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,119,25,12,Made,1,64,70,134,v,Banchero 12' Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,2,267
+22301109,371,PT07M20.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,33,79,9,Made,1,66,70,136,h,McCollum 9' Turnaround Fadeaway (14 PTS),Made Shot,Turnaround Fadeaway shot,1,2,268
+22301109,372,PT07M03.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,9,16,2,Made,1,66,72,138,v,F. Wagner 2' Cutting Layup Shot (12 PTS) (Carter Jr. 2 AST),Made Shot,Cutting Layup Shot,1,2,269
+22301109,374,PT06M49.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-94,-15,10,Missed,1,66,72,138,h,MISS Valanciunas 10' Jump Shot,Missed Shot,Jump Shot,1,2,270
+22301109,375,PT06M49.00S,3,0,,1610612753,,,0,0,0,,0,66,72,138,v,Magic Rebound,Rebound,Unknown,1,0,271
+22301109,376,PT06M49.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,66,72,138,h,Williamson L.B.FOUL (P4.T3) (J.Conley),Foul,Loose Ball,1,0,272
+22301109,378,PT06M49.00S,3,0,,1610612740,,,0,0,0,,0,66,72,138,h,PELICANS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,273
+22301109,379,PT06M49.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,66,72,138,h,SUB: Marshall FOR Williamson,Substitution,,0,0,274
+22301109,381,PT06M37.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,13,2,1,Made,1,66,74,140,v,F. Wagner 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,275
+22301109,382,PT06M21.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,-1,72,7,Made,1,68,74,142,h,Valanciunas 7' Turnaround Hook Shot (11 PTS) (Murphy III 2 AST),Made Shot,Turnaround Hook Shot,1,2,276
+22301109,383,PT06M09.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,-235,20,24,Made,1,68,77,145,v,Suggs 24' 3PT Jump Shot (5 PTS) (Carter Jr. 3 AST),Made Shot,Jump Shot,1,3,277
+22301109,385,PT05M50.00S,3,1610612740,NOP,1630529,Jones,H. Jones,17,6,2,Missed,1,68,77,145,h,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,278
+22301109,385,PT05M50.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,68,77,145,v,F. Wagner BLOCK (1 BLK),,,1,2,279
+22301109,387,PT05M47.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,68,77,145,v,Carter Jr. REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,280
+22301109,388,PT05M38.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,68,77,145,v,F. Wagner Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,281
+22301109,388,PT05M38.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,68,77,145,h,Jones STEAL (1 STL),,,1,0,282
+22301109,390,PT05M33.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-217,129,25,Missed,1,68,77,145,h,MISS McCollum 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,283
+22301109,391,PT05M30.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,68,77,145,v,F. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,284
+22301109,392,PT05M16.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-7,259,26,Missed,1,68,77,145,v,MISS Banchero 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,285
+22301109,393,PT05M13.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,68,77,145,h,Murphy III REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,286
+22301109,394,PT05M10.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,68,77,145,v,Suggs S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,1,0,287
+22301109,396,PT05M10.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,69,77,146,h,McCollum Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,288
+22301109,397,PT05M10.00S,3,1610612740,NOP,202685,Valančiūnas,J. Valančiūnas,0,0,0,,0,69,77,146,h,SUB: Nance Jr. FOR Valanciunas,Substitution,,0,0,289
+22301109,399,PT05M10.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,70,77,147,h,McCollum Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,290
+22301109,400,PT04M59.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,70,77,147,h,Nance Jr. S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,1,0,291
+22301109,402,PT04M59.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,70,78,148,v,F. Wagner Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,292
+22301109,403,PT04M59.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,70,79,149,v,F. Wagner Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,293
+22301109,404,PT04M42.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,70,79,149,h,Nance Jr. OFF.Foul (P2) (J.Capers),Foul,Offensive,1,0,294
+22301109,406,PT04M42.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,70,79,149,h,Nance Jr. Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,295
+22301109,407,PT04M42.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,70,79,149,v,SUB: Isaac FOR Carter Jr.,Substitution,,0,0,296
+22301109,409,PT04M32.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,70,79,149,v,F. Wagner Lost Ball Turnover (P4.T8),Turnover,Lost Ball,1,0,297
+22301109,409,PT04M32.00S,3,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,70,79,149,h,Marshall STEAL (1 STL),,,1,0,298
+22301109,411,PT04M24.00S,3,0,,1610612740,,,0,0,0,,0,70,79,149,h,PELICANS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,299
+22301109,413,PT04M06.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,-85,116,14,Missed,1,70,79,149,h,MISS McCollum 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,300
+22301109,414,PT04M04.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,70,79,149,v,Banchero REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,301
+22301109,415,PT03M52.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,70,79,149,v,Banchero Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,302
+22301109,415,PT03M52.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,70,79,149,h,McCollum STEAL (1 STL),,,1,0,303
+22301109,417,PT03M48.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,13,5,1,Missed,1,70,79,149,h,MISS McCollum 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,304
+22301109,418,PT03M45.00S,3,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,70,79,149,v,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,305
+22301109,419,PT03M29.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,-165,157,23,Made,1,70,81,151,v,Suggs 23' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,2,306
+22301109,420,PT03M08.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,70,81,151,h,McCollum Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,307
+22301109,420,PT03M08.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,70,81,151,v,Isaac STEAL (1 STL),,,1,0,308
+22301109,422,PT02M54.00S,3,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,70,81,151,h,Marshall S.FOUL (P3.PN) (J.Conley),Foul,Shooting,1,0,309
+22301109,424,PT02M54.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,70,82,152,v,Banchero Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,310
+22301109,425,PT02M54.00S,3,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,70,82,152,h,SUB: Williamson FOR McCollum,Substitution,,0,0,311
+22301109,426,PT02M54.00S,3,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,70,82,152,h,SUB: Daniels FOR Jones,Substitution,,0,0,312
+22301109,427,PT02M54.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,70,82,152,v,SUB: Anthony FOR Suggs,Substitution,,0,0,313
+22301109,428,PT02M54.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,70,82,152,v,SUB: Fultz FOR F. Wagner,Substitution,,0,0,314
+22301109,433,PT02M54.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,70,82,152,v,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,315
+22301109,434,PT02M51.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,70,82,152,h,Murphy III REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,316
+22301109,435,PT02M43.00S,3,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,70,82,152,v,Harris P.FOUL (P4.T4) (J.Capers),Foul,Personal,1,0,317
+22301109,445,PT02M43.00S,3,0,,419,,,0,0,0,,0,70,82,152,,Instant Replay3rd Period (9:45 PM EST),Instant Replay,Replay Center,0,0,318
+22301109,437,PT02M43.00S,3,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,70,82,152,v,SUB: M. Wagner FOR Harris,Substitution,,0,0,319
+22301109,439,PT02M31.00S,3,1610612740,NOP,1630230,Marshall,N. Marshall,6,56,6,Missed,1,70,82,152,h,MISS Marshall 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,320
+22301109,441,PT02M27.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,70,82,152,v,M. Wagner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,321
+22301109,442,PT02M18.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,-7,21,2,Made,1,70,84,154,v,M. Wagner 2' Finger Roll Layup (11 PTS) (Anthony 4 AST),Made Shot,Finger Roll Layup Shot,1,2,322
+22301109,444,PT02M10.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,70,84,154,v,Fultz P.FOUL (P3.PN) (J.Capers),Foul,Personal,1,0,323
+22301109,447,PT02M10.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,70,84,154,h,MISS Murphy III Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,324
+22301109,448,PT02M10.00S,3,0,,1610612740,,,0,0,0,,0,70,84,154,h,PELICANS Rebound,Rebound,Normal Rebound,0,0,325
+22301109,449,PT02M10.00S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,71,84,155,h,Murphy III Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,326
+22301109,450,PT01M54.00S,3,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,71,84,155,h,Daniels S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,1,0,327
+22301109,452,PT01M54.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,71,85,156,v,Banchero Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,328
+22301109,453,PT01M54.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,71,86,157,v,Banchero Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,329
+22301109,454,PT01M41.00S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,228,5,0,Missed,1,71,86,157,h,MISS Nance Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+22301109,455,PT01M37.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,71,86,157,v,Banchero REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,331
+22301109,456,PT01M29.00S,3,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,71,86,157,v,Anthony Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,332
+22301109,456,PT01M29.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,71,86,157,h,Williamson STEAL (2 STL),,,1,0,333
+22301109,458,PT01M25.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-1,5,1,Made,1,73,86,159,h,Williamson 1' Running Dunk (13 PTS),Made Shot,Running Dunk Shot,1,2,334
+22301109,459,PT01M04.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-5,28,3,Made,1,73,88,161,v,Banchero 3' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,1,2,335
+22301109,460,PT00M51.20S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,73,88,161,v,Banchero S.FOUL (P2.PN) (S.Corbin),Foul,Shooting,1,0,336
+22301109,462,PT00M51.20S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,73,88,161,h,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,337
+22301109,463,PT00M51.20S,3,0,,1610612740,,,0,0,0,,0,73,88,161,h,PELICANS Rebound,Rebound,Normal Rebound,1,0,338
+22301109,469,PT00M51.20S,3,1610612740,NOP,1626204,Nance Jr.,L. Nance Jr.,0,0,0,,0,73,88,161,h,SUB: Robinson-Earl FOR Nance Jr.,Substitution,,0,0,339
+22301109,466,PT00M51.20S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,73,88,161,h,MISS Williamson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,340
+22301109,467,PT00M47.70S,3,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,73,88,161,h,Marshall REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,341
+22301109,468,PT00M42.70S,3,1610612740,NOP,1630700,Daniels,D. Daniels,-213,127,25,Made,1,76,88,164,h,Daniels 25' 3PT Jump Shot (11 PTS) (Williamson 4 AST),Made Shot,Jump Shot,1,3,342
+22301109,471,PT00M30.70S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-66,254,26,Made,1,76,91,167,v,Banchero 26' 3PT Step Back Jump Shot (30 PTS),Made Shot,Step Back Jump shot,1,3,343
+22301109,472,PT00M23.90S,3,1610612740,NOP,1630530,Murphy III,T. Murphy III,210,172,27,Missed,1,76,91,167,h,MISS Murphy III 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,344
+22301109,473,PT00M20.50S,3,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,76,91,167,v,Isaac REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,345
+22301109,475,PT00M06.70S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,76,91,167,v,SUB: F. Wagner FOR Fultz,Substitution,,0,0,346
+22301109,477,PT00M06.70S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,76,91,167,h,SUB: Jones FOR Williamson,Substitution,,0,0,347
+22301109,479,PT00M03.10S,3,1610612753,ORL,1628371,Isaac,J. Isaac,-141,273,31,Missed,1,76,91,167,v,MISS Isaac 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,348
+22301109,480,PT00M03.10S,3,0,,1610612753,,,0,0,0,,0,76,91,167,v,Magic Rebound,Rebound,Unknown,0,0,349
+22301109,481,PT00M00.00S,3,0,,0,,,0,0,0,,0,76,91,167,,End of 3rd Period (9:52 PM EST),period,end,1,0,350
+22301109,490,PT12M00.00S,4,0,,0,,,0,0,0,,0,76,91,167,,Start of 4th Period (9:55 PM EST),period,start,0,0,351
+22301109,491,PT11M35.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,-28,81,9,Missed,1,76,91,167,v,MISS Anthony 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,352
+22301109,492,PT11M33.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,76,91,167,h,Robinson-Earl REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,353
+22301109,493,PT11M29.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,76,91,167,h,Robinson-Earl Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,354
+22301109,493,PT11M29.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,76,91,167,v,Fultz STEAL (1 STL),,,1,0,355
+22301109,495,PT11M11.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,16,15,2,Made,1,76,93,169,v,M. Wagner 2' Cutting Layup Shot (13 PTS) (Ingles 2 AST),Made Shot,Cutting Layup Shot,1,2,356
+22301109,497,PT10M59.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,76,93,169,v,Fultz P.FOUL (P4.T1) (J.Capers),Foul,Personal,1,0,357
+22301109,499,PT10M53.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-229,58,24,Missed,1,76,93,169,h,MISS Robinson-Earl 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,358
+22301109,500,PT10M50.00S,4,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,76,93,169,v,Ingles REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,359
+22301109,501,PT10M36.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,-23,16,3,Missed,1,76,93,169,v,MISS M. Wagner 3' Layup,Missed Shot,Layup Shot,1,2,360
+22301109,502,PT10M35.00S,4,0,,1610612740,,,0,0,0,,0,76,93,169,h,PELICANS Rebound,Rebound,Unknown,1,0,361
+22301109,504,PT10M20.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,-39,8,4,Missed,1,76,93,169,h,MISS Williamson 4' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,2,362
+22301109,505,PT10M18.00S,4,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,76,93,169,v,Isaac REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,363
+22301109,506,PT10M12.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,-2,99,10,Made,1,76,95,171,v,Anthony 10' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,1,2,364
+22301109,507,PT09M58.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,-9,250,25,Made,1,79,95,174,h,McCollum 25' 3PT Jump Shot (19 PTS) (Williamson 5 AST),Made Shot,Jump Shot,1,3,365
+22301109,509,PT09M36.00S,4,1610612753,ORL,204060,Ingles,J. Ingles,189,178,26,Missed,1,79,95,174,v,MISS Ingles 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+22301109,510,PT09M33.00S,4,0,,1610612740,,,0,0,0,,0,79,95,174,h,PELICANS Rebound,Rebound,Unknown,1,0,367
+22301109,512,PT09M20.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,-2,0,Made,1,81,95,176,h,Williamson Cutting Dunk Shot (15 PTS) (McCollum 3 AST),Made Shot,Cutting Dunk Shot,1,2,368
+22301109,514,PT09M06.00S,4,1610612753,ORL,204060,Ingles,J. Ingles,-229,21,0,Made,1,81,98,179,v,Ingles 3PT Jump Shot (3 PTS) (Anthony 5 AST),Made Shot,Jump Shot,1,3,369
+22301109,516,PT08M49.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,218,134,26,Made,1,84,98,182,h,Daniels 26' 3PT Jump Shot (14 PTS) (McCollum 4 AST),Made Shot,Jump Shot,1,3,370
+22301109,518,PT08M30.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,-83,244,26,Made,1,84,101,185,v,M. Wagner 26' 3PT Jump Shot (16 PTS) (Anthony 6 AST),Made Shot,Jump Shot,1,3,371
+22301109,520,PT08M17.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,84,101,185,h,Williamson Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,372
+22301109,520,PT08M17.00S,4,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,84,101,185,v,Ingles STEAL (2 STL),,,1,0,373
+22301109,522,PT08M00.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,-154,211,26,Missed,1,84,101,185,v,MISS Anthony 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,374
+22301109,523,PT07M57.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,84,101,185,v,M. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,375
+22301109,524,PT07M56.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,84,101,185,h,Daniels S.FOUL (P5.T1) (J.Conley),Foul,Shooting,1,0,376
+22301109,526,PT07M56.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,84,102,186,v,M. Wagner Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,377
+22301109,527,PT07M56.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,84,102,186,h,SUB: Murphy III FOR Daniels,Substitution,,0,0,378
+22301109,528,PT07M56.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,84,102,186,h,SUB: Marshall FOR Robinson-Earl,Substitution,,0,0,379
+22301109,529,PT07M56.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,84,102,186,v,SUB: F. Wagner FOR Fultz,Substitution,,0,0,380
+22301109,533,PT07M56.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,84,102,186,h,Williamson T.FOUL (P4.T1) (S.Corbin),Foul,Technical,0,0,381
+22301109,534,PT07M56.00S,4,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,84,103,187,v,Ingles Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,1,0,382
+22301109,535,PT07M56.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,84,104,188,v,M. Wagner Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,383
+22301109,536,PT07M46.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,7,266,27,Made,1,87,104,191,h,McCollum 27' 3PT Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,3,384
+22301109,537,PT07M29.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,5,112,11,Missed,1,87,104,191,v,MISS Anthony 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,385
+22301109,538,PT07M26.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,87,104,191,h,McCollum REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,386
+22301109,539,PT07M24.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,87,104,191,v,M. Wagner S.FOUL (P1.T2) (J.Capers),Foul,Shooting,1,0,387
+22301109,541,PT07M24.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,88,104,192,h,McCollum Free Throw 1 of 3 (23 PTS),Free Throw,Free Throw 1 of 3,1,0,388
+22301109,542,PT07M24.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,89,104,193,h,McCollum Free Throw 2 of 3 (24 PTS),Free Throw,Free Throw 2 of 3,1,0,389
+22301109,543,PT07M24.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,89,104,193,h,SUB: Robinson-Earl FOR Williamson,Substitution,,0,0,390
+22301109,545,PT07M24.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,90,104,194,h,McCollum Free Throw 3 of 3 (25 PTS),Free Throw,Free Throw 3 of 3,1,0,391
+22301109,546,PT07M02.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,90,104,194,h,McCollum P.FOUL (P2.T2) (J.Capers),Foul,Personal,1,0,392
+22301109,548,PT06M50.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,-123,252,28,Made,1,90,107,197,v,F. Wagner 28' 3PT Step Back Jump Shot (19 PTS) (M. Wagner 1 AST),Made Shot,Step Back Jump shot,1,3,393
+22301109,550,PT06M30.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,-18,3,2,Made,1,92,107,199,h,McCollum 2' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,1,2,394
+22301109,552,PT06M07.00S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,92,107,199,h,Jones S.FOUL (P3.T3) (J.Conley),Foul,Shooting,1,0,395
+22301109,554,PT06M07.00S,4,0,,1610612740,,,0,0,0,,0,92,107,199,h,PELICANS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,396
+22301109,555,PT06M07.00S,4,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,92,107,199,v,SUB: Suggs FOR Ingles,Substitution,,0,0,397
+22301109,556,PT06M07.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,92,107,199,v,SUB: Harris FOR M. Wagner,Substitution,,0,0,398
+22301109,557,PT06M07.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,92,107,199,v,SUB: Banchero FOR Anthony,Substitution,,0,0,399
+22301109,561,PT06M07.00S,4,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,92,108,200,v,Isaac Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,400
+22301109,562,PT06M07.00S,4,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,92,108,200,v,MISS Isaac Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,401
+22301109,563,PT06M05.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,92,108,200,h,Robinson-Earl REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,402
+22301109,564,PT05M48.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,92,108,200,h,Robinson-Earl Step Out of Bounds Turnover (P2.T11),Turnover,Step Out of Bounds Turnover,1,0,403
+22301109,565,PT05M48.00S,4,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,92,108,200,v,SUB: Carter Jr. FOR Isaac,Substitution,,0,0,404
+22301109,567,PT05M29.00S,4,1610612753,ORL,203914,Harris,G. Harris,225,28,0,Missed,1,92,108,200,v,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,1,3,405
+22301109,568,PT05M25.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,92,108,200,h,Murphy III REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,406
+22301109,569,PT05M16.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,107,242,26,Made,1,95,108,203,h,Murphy III 26' 3PT Pullup Jump Shot (12 PTS) (Jones 1 AST),Made Shot,Pullup Jump shot,1,3,407
+22301109,571,PT04M50.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,95,108,203,v,Banchero Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,408
+22301109,571,PT04M50.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,95,108,203,h,McCollum STEAL (2 STL),,,1,0,409
+22301109,573,PT04M42.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,95,108,203,h,McCollum Lost Ball Turnover (P3.T12),Turnover,Lost Ball,1,0,410
+22301109,573,PT04M42.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,95,108,203,v,Banchero STEAL (1 STL),,,1,0,411
+22301109,575,PT04M39.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,95,108,203,v,Suggs Traveling Turnover (P1.T12),Turnover,Traveling,1,0,412
+22301109,576,PT04M39.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,95,108,203,v,Suggs T.FOUL (P2.T2) (J.Capers),Foul,Technical,0,0,413
+22301109,577,PT04M39.00S,4,0,,1610612753,,,0,0,0,,0,95,108,203,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,414
+22301109,578,PT04M39.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,96,108,204,h,Murphy III Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,1,0,415
+22301109,580,PT04M39.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,96,108,204,v,Anthony T.FOUL (P0.T2) (J.Capers),Foul,Technical,0,0,416
+22301109,581,PT04M39.00S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,97,108,205,h,Murphy III Free Throw Technical (14 PTS),Free Throw,Free Throw Technical,1,0,417
+22301109,583,PT04M15.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,97,108,205,v,Carter Jr. S.FOUL (P3.T3) (J.Capers),Foul,Shooting,1,0,418
+22301109,585,PT04M15.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,98,108,206,h,McCollum Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,419
+22301109,586,PT04M15.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,99,108,207,h,McCollum Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,420
+22301109,587,PT04M02.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,99,108,207,h,Robinson-Earl P.FOUL (P1.T4) (J.Capers),Foul,Personal,1,0,421
+22301109,589,PT03M47.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,114,332,35,Missed,1,99,108,207,v,MISS F. Wagner 35' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,422
+22301109,590,PT03M44.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,99,108,207,h,Marshall REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,423
+22301109,594,PT03M30.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,99,108,207,h,Marshall Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,424
+22301109,594,PT03M30.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,99,108,207,v,Suggs STEAL (2 STL),,,1,0,425
+22301109,593,PT03M07.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,-2,75,8,Made,1,99,110,209,v,F. Wagner 8' Turnaround Jump Shot (21 PTS),Made Shot,Turnaround Jump Shot,1,2,426
+22301109,596,PT02M56.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,-114,227,25,Made,1,102,110,212,h,McCollum 25' 3PT Pullup Jump Shot (32 PTS),Made Shot,Pullup Jump shot,1,3,427
+22301109,597,PT02M27.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,-32,6,3,Missed,1,102,110,212,v,MISS Banchero 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,428
+22301109,598,PT02M23.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,102,110,212,v,Carter Jr. REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,429
+22301109,599,PT02M23.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,Made,1,102,112,214,v,Carter Jr. Tip Dunk Shot (14 PTS),Made Shot,Tip Dunk Shot,1,2,430
+22301109,600,PT02M15.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,-9,31,3,Missed,1,102,112,214,h,MISS McCollum 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,431
+22301109,601,PT02M13.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,102,112,214,v,Carter Jr. REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,432
+22301109,602,PT01M57.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,-129,248,28,Missed,1,102,112,214,v,MISS F. Wagner 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,433
+22301109,603,PT01M56.00S,4,0,,1610612740,,,0,0,0,,0,102,112,214,h,PELICANS Rebound,Rebound,Unknown,1,0,434
+22301109,604,PT01M56.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,102,112,214,v,Suggs L.B.FOUL (P3.T4) (J.Conley),Foul,Loose Ball,1,0,435
+22301109,606,PT01M56.00S,4,1610612740,NOP,1630230,Marshall,N. Marshall,0,0,0,,0,102,112,214,h,SUB: Daniels FOR Marshall,Substitution,,0,0,436
+22301109,608,PT01M47.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,-230,14,0,Missed,1,102,112,214,h,MISS Robinson-Earl 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+22301109,609,PT01M45.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,102,112,214,h,McCollum REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,438
+22301109,610,PT01M45.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,102,112,214,v,Suggs P.FOUL (P4.PN) (J.Capers),Foul,Personal,1,0,439
+22301109,612,PT01M45.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,103,112,215,h,McCollum Free Throw 1 of 2 (33 PTS),Free Throw,Free Throw 1 of 2,1,0,440
+22301109,613,PT01M45.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,104,112,216,h,McCollum Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,1,0,441
+22301109,614,PT01M27.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,104,112,216,v,Banchero Traveling Turnover (P3.T13),Turnover,Traveling,1,0,442
+22301109,615,PT01M15.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,104,112,216,h,McCollum OFF.Foul (P3) (J.Conley),Foul,Offensive,1,0,443
+22301109,617,PT01M15.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,104,112,216,h,McCollum Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,1,0,444
+22301109,618,PT01M15.00S,4,0,,1610612740,,,0,0,0,,0,104,112,216,h,PELICANS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,445
+22301109,619,PT01M15.00S,4,0,,615,,,0,0,0,,0,104,112,216,,Instant Replay4th Period (10:21 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,446
+22301109,620,PT00M53.80S,4,1610612753,ORL,1631094,Banchero,P. Banchero,108,112,16,Missed,1,104,112,216,v,MISS Banchero 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,447
+22301109,621,PT00M50.20S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,104,112,216,h,Robinson-Earl REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,448
+22301109,622,PT00M39.70S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,225,9,0,Missed,1,104,112,216,h,MISS Robinson-Earl 3PT Jump Shot,Missed Shot,Jump Shot,1,3,449
+22301109,623,PT00M36.20S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,104,112,216,h,Robinson-Earl REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,450
+22301109,624,PT00M34.70S,4,1610612740,NOP,1630700,Daniels,D. Daniels,-2,15,2,Made,1,106,112,218,h,Daniels 2' Layup (16 PTS) (Robinson-Earl 1 AST),Made Shot,Layup Shot,1,2,451
+22301109,626,PT00M29.50S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,106,112,218,h,Jones P.FOUL (P4.PN) (J.Conley),Foul,Personal,1,0,452
+22301109,628,PT00M29.50S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,106,112,218,v,MISS Suggs Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,453
+22301109,629,PT00M29.50S,4,0,,1610612753,,,0,0,0,,0,106,112,218,v,Magic Rebound,Rebound,Normal Rebound,0,0,454
+22301109,630,PT00M29.50S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,106,112,218,v,MISS Suggs Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,455
+22301109,631,PT00M27.00S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,106,112,218,h,Daniels REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,456
+22301109,632,PT00M22.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,-224,127,26,Missed,1,106,112,218,h,MISS McCollum 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,457
+22301109,633,PT00M18.60S,4,1610612740,NOP,203468,McCollum,C. McCollum,0,0,0,,0,106,112,218,h,McCollum REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,458
+22301109,634,PT00M16.70S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,-45,258,26,Missed,1,106,112,218,h,MISS Murphy III 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,459
+22301109,635,PT00M13.30S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,106,112,218,v,Carter Jr. REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,460
+22301109,636,PT00M08.90S,4,1610612753,ORL,1631094,Banchero,P. Banchero,-9,-1,1,Made,1,106,114,220,v,Banchero 1' Running Dunk (32 PTS) (Harris 2 AST),Made Shot,Running Dunk Shot,1,2,461
+22301109,638,PT00M07.40S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,106,114,220,h,Jones T.FOUL (P4.PN) (S.Corbin),Foul,Technical,0,0,462
+22301109,639,PT00M07.40S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,106,115,221,v,F. Wagner Free Throw Technical (22 PTS),Free Throw,Free Throw Technical,1,0,463
+22301109,641,PT00M07.40S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,106,115,221,h,Murphy III T.FOUL (P2.PN) (S.Corbin),Foul,Technical,0,0,464
+22301109,642,PT00M07.40S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,106,116,222,v,F. Wagner Free Throw Technical (23 PTS),Free Throw,Free Throw Technical,1,0,465
+22301109,643,PT00M07.40S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,106,116,222,h,Daniels T.FOUL (P5.PN) (S.Corbin),Foul,Technical,1,0,466
+22301109,644,PT00M07.40S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,106,117,223,v,F. Wagner Free Throw Technical (24 PTS),Free Throw,Free Throw Technical,1,0,467
+22301109,645,PT00M07.40S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,106,117,223,h,Jones Ejection:Other,Ejection,Other,1,0,468
+22301109,646,PT00M07.40S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,106,117,223,h,Daniels Ejection:Other,Ejection,Other,0,0,469
+22301109,647,PT00M07.40S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,106,117,223,h,Murphy III Ejection:Other,Ejection,Other,0,0,470
+22301109,648,PT00M07.40S,4,1610612740,NOP,1630529,Jones,H. Jones,0,0,0,,0,106,117,223,h,SUB: Ryan FOR Jones,Substitution,,0,0,471
+22301109,649,PT00M07.40S,4,1610612740,NOP,1630530,Murphy III,T. Murphy III,0,0,0,,0,106,117,223,h,SUB: Hawkins FOR Murphy III,Substitution,,0,0,472
+22301109,650,PT00M07.40S,4,1610612740,NOP,1630700,Daniels,D. Daniels,0,0,0,,0,106,117,223,h,SUB: Marshall FOR Daniels,Substitution,,0,0,473
+22301109,654,PT00M01.00S,4,1610612740,NOP,203468,McCollum,C. McCollum,-22,11,2,Made,1,108,117,225,h,McCollum 2' Cutting Layup Shot (36 PTS) (Marshall 3 AST),Made Shot,Cutting Layup Shot,1,2,474
+22301109,656,PT00M00.00S,4,0,,0,,,0,0,0,,0,108,117,225,,End of 4th Period (10:28 PM EST),period,end,1,0,475

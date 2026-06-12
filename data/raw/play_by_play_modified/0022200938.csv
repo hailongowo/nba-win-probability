@@ -1,0 +1,485 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22200938,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:12 PM EST),period,start,0,0,1
+22200938,4,PT12M00.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,0,0,0,h,Jump Ball Smith Jr. vs. Jackson Jr.: Tip to Tillman,Jump Ball,,1,0,2
+22200938,7,PT11M43.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,17,25,3,Made,1,0,2,2,v,Jackson Jr. 3' Layup (2 PTS) (Morant 1 AST),Made Shot,Layup Shot,1,2,3
+22200938,9,PT11M22.00S,1,1610612745,HOU,1630224,Green,J. Green,20,9,2,Missed,1,0,2,2,h,MISS Green 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,4
+22200938,10,PT11M20.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,0,2,2,v,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+22200938,11,PT11M06.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,0,2,2,h,Green P.FOUL (P1.T1) (S.Wall),Foul,Personal,1,0,6
+22200938,14,PT10M51.00S,1,1610612763,MEM,1630217,Bane,D. Bane,21,17,3,Missed,1,0,2,2,v,MISS Bane 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,7
+22200938,15,PT10M50.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,0,2,2,h,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+22200938,16,PT10M29.00S,1,1610612745,HOU,1630224,Green,J. Green,-10,8,1,Missed,1,0,2,2,h,MISS Green 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,9
+22200938,17,PT10M28.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,0,2,2,h,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,10
+22200938,18,PT10M23.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,233,9,0,Missed,1,0,2,2,h,MISS Porter Jr. 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,11
+22200938,19,PT10M21.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,0,2,2,h,Smith Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,12
+22200938,20,PT10M17.00S,1,1610612745,HOU,1630224,Green,J. Green,-97,250,27,Made,1,3,2,5,h,Green 27' 3PT Jump Shot (3 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,1,3,13
+22200938,22,PT09M59.00S,1,1610612763,MEM,1630217,Bane,D. Bane,-12,105,11,Missed,1,3,2,5,v,MISS Bane 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,14
+22200938,23,PT09M58.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,3,2,5,h,Smith Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,15
+22200938,24,PT09M52.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,3,2,5,v,Bane P.FOUL (P1.T1) (B.Nansel),Foul,Personal,1,0,16
+22200938,26,PT09M43.00S,1,1610612745,HOU,1630224,Green,J. Green,13,14,2,Missed,1,3,2,5,h,MISS Green 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,17
+22200938,27,PT09M42.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,3,2,5,h,Sengun REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,18
+22200938,28,PT09M42.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,3,2,5,v,Brooks P.FOUL (P1.T2) (S.Wall),Foul,Personal,1,0,19
+22200938,30,PT09M33.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-50,40,6,Missed,1,3,2,5,h,MISS Porter Jr. 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,20
+22200938,30,PT09M33.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,3,2,5,v,Bane BLOCK (1 BLK),,,1,2,21
+22200938,32,PT09M33.00S,1,0,,1610612745,,,0,0,0,,0,3,2,5,h,ROCKETS Rebound,Rebound,Unknown,0,0,22
+22200938,34,PT09M27.00S,1,1610612745,HOU,1630224,Green,J. Green,-108,-20,11,Missed,1,3,2,5,h,MISS Green 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,23
+22200938,35,PT09M25.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,3,2,5,v,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,24
+22200938,36,PT09M17.00S,1,1610612763,MEM,1630217,Bane,D. Bane,170,206,27,Made,1,3,5,8,v,Bane 27' 3PT Jump Shot (3 PTS) (Brooks 1 AST),Made Shot,Jump Shot,1,3,25
+22200938,38,PT08M52.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-110,232,26,Missed,1,3,5,8,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,26
+22200938,39,PT08M51.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,3,5,8,v,Bane REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,27
+22200938,40,PT08M42.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-2,67,7,Made,1,3,7,10,v,Jackson Jr. 7' Turnaround Hook Shot (4 PTS) (Bane 1 AST),Made Shot,Turnaround Hook Shot,1,2,28
+22200938,42,PT08M29.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,175,205,27,Missed,1,3,7,10,h,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,29
+22200938,43,PT08M28.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,3,7,10,v,Bane REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,30
+22200938,44,PT08M23.00S,1,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,3,7,10,h,Martin Jr. P.FOUL (P1.T2) (S.Wall),Foul,Personal,1,0,31
+22200938,46,PT08M16.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,230,89,25,Missed,1,3,7,10,v,MISS Brooks 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,32
+22200938,47,PT08M15.00S,1,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,3,7,10,h,Martin Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+22200938,48,PT08M05.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,27,255,26,Missed,1,3,7,10,h,MISS Porter Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,34
+22200938,49,PT08M04.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,3,7,10,v,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,35
+22200938,50,PT07M57.00S,1,1610612763,MEM,1630217,Bane,D. Bane,1,291,29,Missed,1,3,7,10,v,MISS Bane 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,36
+22200938,51,PT07M56.00S,1,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,3,7,10,h,Martin Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,37
+22200938,52,PT07M46.00S,1,1610612745,HOU,1630224,Green,J. Green,126,-7,13,Made,1,5,7,12,h,Green 13' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,2,38
+22200938,53,PT07M32.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,12,53,5,Made,1,5,9,14,v,Jackson Jr. 5' Layup (6 PTS) (Brooks 2 AST),Made Shot,Layup Shot,1,2,39
+22200938,55,PT07M14.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,172,17,Missed,1,5,9,14,h,MISS Porter Jr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,40
+22200938,56,PT07M13.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,5,9,14,v,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,41
+22200938,57,PT07M03.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,42,254,26,Missed,1,5,9,14,v,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,42
+22200938,58,PT07M01.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,5,9,14,v,Morant REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,43
+22200938,59,PT06M57.00S,1,1610612763,MEM,1629630,Morant,J. Morant,-230,7,0,Made,1,5,12,17,v,Morant 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,3,44
+22200938,60,PT06M43.00S,1,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,5,12,17,v,Tillman P.FOUL (P1.T3) (S.Wall),Foul,Personal,1,0,45
+22200938,62,PT06M43.00S,1,0,,1610612745,,,0,0,0,,0,5,12,17,h,ROCKETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,46
+22200938,63,PT06M43.00S,1,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,5,12,17,v,SUB: Kennard FOR Bane,Substitution,,0,0,47
+22200938,65,PT06M43.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,5,12,17,v,Morant Violation:Kicked Ball (S.Wall),Violation,Kicked Ball,0,0,48
+22200938,66,PT06M32.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,5,12,17,h,Sengun Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,49
+22200938,66,PT06M32.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,5,12,17,v,Brooks STEAL (1 STL),,,1,0,50
+22200938,68,PT06M27.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,5,12,17,v,Brooks Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,51
+22200938,69,PT06M15.00S,1,1610612745,HOU,1630224,Green,J. Green,-202,187,28,Made,1,8,12,20,h,Green 28' 3PT Jump Shot (8 PTS) (Sengun 1 AST),Made Shot,Jump Shot,1,3,52
+22200938,71,PT06M02.00S,1,1610612763,MEM,1629630,Morant,J. Morant,54,112,12,Missed,1,8,12,20,v,MISS Morant 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,53
+22200938,71,PT06M02.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,8,12,20,h,Green BLOCK (1 BLK),,,1,2,54
+22200938,73,PT06M00.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,8,12,20,v,Morant REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,55
+22200938,74,PT05M58.00S,1,1610612763,MEM,1629630,Morant,J. Morant,28,34,4,Made,1,8,14,22,v,Morant 4' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,1,2,56
+22200938,75,PT05M30.00S,1,1610612745,HOU,1630224,Green,J. Green,-94,271,29,Missed,1,8,14,22,h,MISS Green 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,57
+22200938,76,PT05M29.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,8,14,22,h,Porter Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,58
+22200938,77,PT05M22.00S,1,1610612745,HOU,1630231,Martin,K. Martin,4,10,1,Made,1,10,14,24,h,Martin Jr. 1' Cutting Dunk Shot (2 PTS) (Green 1 AST),Made Shot,Cutting Dunk Shot,1,2,59
+22200938,79,PT04M58.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,10,14,24,h,Green P.FOUL (P2.T3) (B.Nansel),Foul,Personal,1,0,60
+22200938,81,PT04M58.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,10,14,24,v,SUB: Aldama FOR Jackson Jr.,Substitution,,0,0,61
+22200938,83,PT04M58.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,10,14,24,h,SUB: Washington Jr. FOR Porter Jr.,Substitution,,0,0,62
+22200938,84,PT04M58.00S,1,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,10,14,24,h,SUB: Eason FOR Martin Jr.,Substitution,,0,0,63
+22200938,87,PT04M47.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,10,14,24,h,Sengun S.FOUL (P1.T4) (B.Forte),Foul,Shooting,1,0,64
+22200938,89,PT04M47.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,10,15,25,v,Morant Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,65
+22200938,90,PT04M47.00S,1,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,10,15,25,v,SUB: Clarke FOR Tillman,Substitution,,0,0,66
+22200938,92,PT04M47.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,10,16,26,v,Morant Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,67
+22200938,93,PT04M32.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,40,19,4,Missed,1,10,16,26,h,MISS Smith Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,68
+22200938,94,PT04M31.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,10,16,26,h,Sengun REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,69
+22200938,95,PT04M31.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,4,3,1,Made,1,12,16,28,h,Sengun 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,70
+22200938,96,PT04M31.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,12,16,28,v,Clarke S.FOUL (P1.T4) (S.Wall),Foul,Shooting,1,0,71
+22200938,98,PT04M31.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,13,16,29,h,Sengun Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,72
+22200938,100,PT04M12.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,13,16,29,h,SUB: Tate FOR Green,Substitution,,0,0,73
+22200938,102,PT04M07.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,72,22,8,Made,1,13,18,31,v,Aldama 8' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,74
+22200938,103,PT03M51.00S,1,1610612745,HOU,1630256,Tate,J. Tate,235,29,24,Missed,1,13,18,31,h,MISS Tate 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+22200938,104,PT03M50.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,13,18,31,v,Brooks REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,76
+22200938,105,PT03M42.00S,1,1610612763,MEM,1629630,Morant,J. Morant,38,12,4,Missed,1,13,18,31,v,MISS Morant 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,77
+22200938,106,PT03M40.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,13,18,31,h,Tate REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+22200938,109,PT03M33.00S,1,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,16,19,2,Missed,1,13,18,31,h,MISS Washington Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,79
+22200938,110,PT03M32.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,13,18,31,v,Clarke REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+22200938,111,PT03M24.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,-16,0,2,Made,1,13,20,33,v,Aldama 2' Driving Finger Roll Layup (4 PTS) (Clarke 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,81
+22200938,113,PT03M23.00S,1,0,,1610612745,,,0,0,0,,0,13,20,33,h,ROCKETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,82
+22200938,114,PT03M13.00S,1,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,0,0,0,,0,13,20,33,h,Washington Jr. Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,83
+22200938,114,PT03M13.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,13,20,33,v,Clarke STEAL (1 STL),,,1,0,84
+22200938,116,PT03M10.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,1,7,1,Missed,1,13,20,33,v,MISS Clarke 1' Running Dunk,Missed Shot,Running Dunk Shot,1,2,85
+22200938,117,PT03M08.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,13,20,33,h,Tate REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,86
+22200938,118,PT03M02.00S,1,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,178,218,28,Missed,1,13,20,33,h,MISS Washington Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,87
+22200938,119,PT03M00.00S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,13,20,33,v,Clarke REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,88
+22200938,120,PT02M54.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,108,230,25,Missed,1,13,20,33,v,MISS Brooks 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,89
+22200938,121,PT02M53.00S,1,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,0,0,0,,0,13,20,33,h,Washington Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,90
+22200938,122,PT02M39.00S,1,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,91,252,27,Missed,1,13,20,33,h,MISS Washington Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,91
+22200938,123,PT02M38.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,13,20,33,v,Brooks REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,92
+22200938,124,PT02M30.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,-22,26,3,Missed,1,13,20,33,v,MISS Aldama 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,93
+22200938,125,PT02M28.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,13,20,33,h,Sengun REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,94
+22200938,126,PT02M12.00S,1,1610612745,HOU,1630256,Tate,J. Tate,-15,14,2,Made,1,15,20,35,h,Tate 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,95
+22200938,127,PT01M49.00S,1,1610612763,MEM,1628379,Kennard,L. Kennard,-228,12,0,Missed,1,15,20,35,v,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+22200938,128,PT01M48.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,15,20,35,h,Sengun REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,97
+22200938,129,PT01M33.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,15,20,35,v,Brooks P.FOUL (P2.PN) (B.Forte),Foul,Personal,1,0,98
+22200938,131,PT01M33.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,16,20,36,h,Tate Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,99
+22200938,132,PT01M33.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,16,20,36,h,SUB: Martin Jr. FOR Smith Jr.,Substitution,,0,0,100
+22200938,133,PT01M33.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,16,20,36,h,SUB: Garuba FOR Sengun,Substitution,,0,0,101
+22200938,134,PT01M33.00S,1,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,16,20,36,v,SUB: Jones FOR Kennard,Substitution,,0,0,102
+22200938,135,PT01M33.00S,1,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,16,20,36,v,SUB: Bane FOR Morant,Substitution,,0,0,103
+22200938,136,PT01M33.00S,1,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,16,20,36,v,SUB: Konchar FOR Brooks,Substitution,,0,0,104
+22200938,142,PT01M33.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,17,20,37,h,Tate Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,105
+22200938,143,PT01M12.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,51,33,6,Made,1,17,22,39,v,Aldama 6' Finger Roll Layup (6 PTS),Made Shot,Finger Roll Layup Shot,1,2,106
+22200938,144,PT00M56.90S,1,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,158,211,26,Missed,1,17,22,39,h,MISS Washington Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+22200938,145,PT00M55.40S,1,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,17,22,39,h,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,108
+22200938,146,PT00M55.30S,1,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,17,22,39,v,Clarke P.FOUL (P2.PN) (B.Nansel),Foul,Personal,1,0,109
+22200938,148,PT00M55.30S,1,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,18,22,40,h,Garuba Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,110
+22200938,149,PT00M55.30S,1,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,19,22,41,h,Garuba Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,111
+22200938,150,PT00M44.60S,1,1610612763,MEM,1630583,Aldama,S. Aldama,-225,15,0,Made,1,19,25,44,v,Aldama 3PT Jump Shot (9 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,3,112
+22200938,152,PT00M32.10S,1,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,-172,187,25,Missed,1,19,25,44,h,MISS Washington Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+22200938,153,PT00M30.60S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,19,25,44,v,Aldama REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+22200938,154,PT00M11.40S,1,1610612763,MEM,1626145,Jones,T. Jones,-42,80,9,Missed,1,19,25,44,v,MISS Jones 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,115
+22200938,155,PT00M09.70S,1,0,,1610612745,,,0,0,0,,0,19,25,44,h,ROCKETS Rebound,Rebound,Unknown,1,0,116
+22200938,157,PT00M03.00S,1,1610612745,HOU,1630256,Tate,J. Tate,13,41,4,Missed,1,19,25,44,h,MISS Tate 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,117
+22200938,158,PT00M01.80S,1,0,,1610612745,,,0,0,0,,0,19,25,44,h,ROCKETS Rebound,Rebound,Unknown,1,0,118
+22200938,160,PT00M01.00S,1,1610612745,HOU,1631106,Eason,T. Eason,9,247,25,Missed,1,19,25,44,h,MISS Eason 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,119
+22200938,161,PT00M01.00S,1,0,,1610612745,,,0,0,0,,0,19,25,44,h,ROCKETS Rebound,Rebound,Unknown,1,0,120
+22200938,162,PT00M00.00S,1,0,,0,,,0,0,0,,0,19,25,44,,End of 1st Period (8:38 PM EST),period,end,1,0,121
+22200938,167,PT12M00.00S,2,0,,0,,,0,0,0,,0,19,25,44,,Start of 2nd Period (8:40 PM EST),period,start,0,0,122
+22200938,168,PT11M47.00S,2,1610612745,HOU,1630256,Tate,J. Tate,-150,211,26,Missed,1,19,25,44,h,MISS Tate 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+22200938,169,PT11M44.00S,2,1610612763,MEM,1626145,Jones,T. Jones,0,0,0,,0,19,25,44,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,124
+22200938,170,PT11M39.00S,2,1610612763,MEM,1626145,Jones,T. Jones,0,0,0,,0,19,25,44,v,Jones Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,125
+22200938,170,PT11M39.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,19,25,44,h,Eason STEAL (1 STL),,,1,0,126
+22200938,172,PT11M34.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,-23,-6,2,Made,1,21,25,46,h,Garuba 2' Running Layup (4 PTS) (Eason 1 AST),Made Shot,Running Layup Shot,1,2,127
+22200938,174,PT11M08.00S,2,1610612763,MEM,1630217,Bane,D. Bane,-235,-8,24,Made,1,21,28,49,v,Bane 24' 3PT Fadeaway Jumper (6 PTS) (Konchar 1 AST),Made Shot,Fadeaway Jump Shot,1,3,128
+22200938,176,PT10M58.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,-29,16,3,Missed,1,21,28,49,h,MISS Garuba 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,129
+22200938,176,PT10M58.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,21,28,49,v,Jackson Jr. BLOCK (1 BLK),,,1,2,130
+22200938,178,PT10M58.00S,2,0,,1610612745,,,0,0,0,,0,21,28,49,h,ROCKETS Rebound,Rebound,Unknown,0,0,131
+22200938,180,PT10M47.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,162,19,16,Missed,1,21,28,49,h,MISS Porter Jr. 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,132
+22200938,181,PT10M45.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,21,28,49,h,Eason REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,133
+22200938,182,PT10M44.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,21,28,49,v,Jackson Jr. P.FOUL (P1.T1) (S.Wall),Foul,Personal,1,0,134
+22200938,184,PT10M36.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,21,28,49,v,Jackson Jr. S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,1,0,135
+22200938,186,PT10M36.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,22,28,50,h,Porter Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,136
+22200938,187,PT10M36.00S,2,0,,1610612763,,,0,0,0,,0,22,28,50,v,Grizzlies Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,137
+22200938,188,PT10M36.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,22,28,50,h,SUB: Christopher FOR Eason,Substitution,,0,0,138
+22200938,189,PT10M36.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,22,28,50,v,SUB: Tillman FOR Aldama,Substitution,,0,0,139
+22200938,192,PT10M36.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,22,28,50,h,MISS Porter Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,140
+22200938,193,PT10M36.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,22,28,50,v,Jackson Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,141
+22200938,194,PT10M18.00S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,22,28,50,v,Bane Offensive Charge Foul (P2) (B.Nansel),Foul,Offensive Charge,1,0,142
+22200938,196,PT10M18.00S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,22,28,50,v,Bane Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,143
+22200938,197,PT10M02.00S,2,1610612745,HOU,1630256,Tate,J. Tate,-27,8,3,Missed,1,22,28,50,h,MISS Tate 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,144
+22200938,198,PT09M58.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,22,28,50,h,Martin Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,145
+22200938,199,PT09M56.00S,2,1610612745,HOU,1630231,Martin,K. Martin,16,75,8,Missed,1,22,28,50,h,MISS Martin Jr. 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,146
+22200938,200,PT09M54.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,22,28,50,h,Garuba REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,147
+22200938,201,PT09M53.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,4,58,6,Missed,1,22,28,50,h,MISS Garuba 6' Layup,Missed Shot,Layup Shot,1,2,148
+22200938,201,PT09M53.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,22,28,50,v,Tillman BLOCK (1 BLK),,,1,2,149
+22200938,202,PT09M53.00S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,22,28,50,v,Bane REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,150
+22200938,203,PT09M48.00S,2,1610612763,MEM,1629723,Konchar,J. Konchar,-227,10,0,Missed,1,22,28,50,v,MISS Konchar 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+22200938,204,PT09M46.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,22,28,50,h,Garuba REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,152
+22200938,206,PT09M34.00S,2,1610612745,HOU,1630231,Martin,K. Martin,-87,252,27,Made,1,25,28,53,h,Martin Jr. 27' 3PT Jump Shot (5 PTS) (Tate 1 AST),Made Shot,Jump Shot,1,3,153
+22200938,208,PT09M25.00S,2,1610612763,MEM,1630217,Bane,D. Bane,82,281,29,Missed,1,25,28,53,v,MISS Bane 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,154
+22200938,209,PT09M24.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,25,28,53,v,Tillman REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,155
+22200938,210,PT09M24.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,25,28,53,h,Tate S.FOUL (P1.T1) (S.Wall),Foul,Shooting,1,0,156
+22200938,212,PT09M24.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,25,29,54,v,Tillman Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,157
+22200938,213,PT09M24.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,25,30,55,v,Tillman Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,158
+22200938,214,PT09M07.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,83,143,17,Made,1,27,30,57,h,Porter Jr. 17' Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,2,159
+22200938,215,PT08M41.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,27,30,57,v,Jackson Jr. Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,160
+22200938,215,PT08M41.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,27,30,57,h,Christopher STEAL (1 STL),,,1,0,161
+22200938,217,PT08M36.00S,2,1610612745,HOU,1630231,Martin,K. Martin,-10,22,2,Made,1,29,30,59,h,Martin Jr. 2' Running Alley Oop Dunk Shot (7 PTS) (Christopher 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,162
+22200938,219,PT08M24.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-230,63,24,Missed,1,29,30,59,v,MISS Jackson Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,163
+22200938,220,PT08M23.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,29,30,59,h,Martin Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,164
+22200938,221,PT08M04.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-76,241,25,Made,1,32,30,62,h,Porter Jr. 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,165
+22200938,222,PT07M46.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,32,30,62,h,Garuba P.FOUL (P1.T2) (S.Wall),Foul,Personal,1,0,166
+22200938,224,PT07M39.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,32,30,62,h,Porter Jr. S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,1,0,167
+22200938,226,PT07M39.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,32,31,63,v,Jackson Jr. Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,168
+22200938,227,PT07M39.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,32,31,63,h,SUB: Eason FOR Tate,Substitution,,0,0,169
+22200938,229,PT07M39.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,32,32,64,v,Jackson Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,170
+22200938,230,PT07M25.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,44,20,5,Missed,1,32,32,64,h,MISS Porter Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,171
+22200938,230,PT07M25.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,32,32,64,v,Jackson Jr. BLOCK (2 BLK),,,1,2,172
+22200938,232,PT07M23.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,32,32,64,v,Tillman REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,173
+22200938,233,PT07M16.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,203,170,26,Made,1,32,35,67,v,Jackson Jr. 26' 3PT Jump Shot (11 PTS) (Bane 2 AST),Made Shot,Jump Shot,1,3,174
+22200938,235,PT07M05.00S,2,1610612745,HOU,1630231,Martin,K. Martin,-237,36,24,Made,1,35,35,70,h,Martin Jr. 24' 3PT Jump Shot (10 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,1,3,175
+22200938,237,PT06M51.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,26,7,3,Missed,1,35,35,70,v,MISS Tillman 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,176
+22200938,237,PT06M51.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,35,35,70,h,Garuba BLOCK (1 BLK),,,1,2,177
+22200938,239,PT06M50.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,35,35,70,h,Martin Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,178
+22200938,240,PT06M36.00S,2,1610612745,HOU,1631106,Eason,T. Eason,31,6,3,Missed,1,35,35,70,h,MISS Eason 3' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,179
+22200938,240,PT06M36.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,35,35,70,v,Jackson Jr. BLOCK (3 BLK),,,1,2,180
+22200938,242,PT06M35.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,35,35,70,v,Tillman REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,181
+22200938,243,PT06M30.00S,2,1610612763,MEM,1626145,Jones,T. Jones,-157,207,26,Missed,1,35,35,70,v,MISS Jones 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,182
+22200938,244,PT06M29.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,35,35,70,h,Christopher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,183
+22200938,245,PT06M24.00S,2,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,35,35,70,v,Konchar S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,1,0,184
+22200938,247,PT06M24.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,36,35,71,h,Christopher Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,185
+22200938,248,PT06M24.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,36,35,71,h,SUB: Green FOR Martin Jr.,Substitution,,0,0,186
+22200938,249,PT06M24.00S,2,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,36,35,71,h,SUB: Sengun FOR Garuba,Substitution,,0,0,187
+22200938,250,PT06M24.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,36,35,71,v,SUB: Aldama FOR Jackson Jr.,Substitution,,0,0,188
+22200938,251,PT06M24.00S,2,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,36,35,71,v,SUB: Kennard FOR Bane,Substitution,,0,0,189
+22200938,252,PT06M24.00S,2,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,36,35,71,v,SUB: Brooks FOR Konchar,Substitution,,0,0,190
+22200938,258,PT06M24.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,36,35,71,h,MISS Christopher Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,191
+22200938,259,PT06M24.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,36,35,71,v,Tillman REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,192
+22200938,260,PT05M59.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,82,244,26,Missed,1,36,35,71,v,MISS Kennard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,193
+22200938,261,PT05M58.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,36,35,71,h,Porter Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,194
+22200938,262,PT05M40.00S,2,1610612745,HOU,1630224,Green,J. Green,-64,125,14,Missed,1,36,35,71,h,MISS Green 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,195
+22200938,263,PT05M39.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,36,35,71,v,Aldama REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,196
+22200938,264,PT05M32.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,-225,28,0,Missed,1,36,35,71,v,MISS Kennard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+22200938,265,PT05M31.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,36,35,71,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,198
+22200938,266,PT05M26.00S,2,0,,1610612745,,,0,0,0,,0,36,35,71,h,ROCKETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,199
+22200938,267,PT05M26.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,36,35,71,h,SUB: Tate FOR Porter Jr.,Substitution,,0,0,200
+22200938,268,PT05M26.00S,2,1610612763,MEM,1626145,Jones,T. Jones,0,0,0,,0,36,35,71,v,SUB: Morant FOR Jones,Substitution,,0,0,201
+22200938,271,PT05M14.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,36,35,71,v,Aldama S.FOUL (P1.T4) (S.Wall),Foul,Shooting,1,0,202
+22200938,273,PT05M14.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,36,35,71,h,MISS Sengun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,203
+22200938,274,PT05M14.00S,2,0,,1610612745,,,0,0,0,,0,36,35,71,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0,204
+22200938,275,PT05M14.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,36,35,71,h,MISS Sengun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,205
+22200938,276,PT05M14.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,36,35,71,v,Tillman REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,206
+22200938,277,PT04M50.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,36,35,71,v,Kennard Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,207
+22200938,277,PT04M50.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,36,35,71,h,Sengun STEAL (1 STL),,,1,0,208
+22200938,279,PT04M48.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,36,35,71,h,Sengun Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,209
+22200938,279,PT04M48.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,36,35,71,v,Morant STEAL (1 STL),,,1,0,210
+22200938,281,PT04M42.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,36,35,71,v,Kennard Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,211
+22200938,282,PT04M32.00S,2,1610612745,HOU,1630256,Tate,J. Tate,-29,22,4,Made,1,38,35,73,h,Tate 4' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,212
+22200938,283,PT04M15.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,38,35,73,h,Tate S.FOUL (P2.T4) (B.Forte),Foul,Shooting,1,0,213
+22200938,285,PT04M15.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,38,36,74,v,Brooks Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,214
+22200938,286,PT04M15.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,38,37,75,v,Brooks Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,215
+22200938,287,PT03M59.00S,2,1610612745,HOU,1630224,Green,J. Green,-17,16,2,Missed,1,38,37,75,h,MISS Green 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,216
+22200938,288,PT03M57.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,38,37,75,h,Sengun REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,217
+22200938,289,PT03M53.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,38,37,75,h,Sengun Out of Bounds - Bad Pass Turnover Turnover (P3.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,218
+22200938,290,PT03M36.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,-62,244,25,Made,1,38,40,78,v,Brooks 25' 3PT Pullup Jump Shot (5 PTS) (Kennard 1 AST),Made Shot,Pullup Jump shot,1,3,219
+22200938,292,PT03M12.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,21,13,2,Made,1,40,40,80,h,Sengun 2' Layup (5 PTS),Made Shot,Layup Shot,1,2,220
+22200938,293,PT03M07.00S,2,1610612763,MEM,1628415,Brooks,D. Brooks,-11,83,8,Missed,1,40,40,80,v,MISS Brooks 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,221
+22200938,293,PT03M07.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,40,40,80,h,Eason BLOCK (1 BLK),,,1,2,222
+22200938,295,PT03M06.00S,2,0,,1610612745,,,0,0,0,,0,40,40,80,h,ROCKETS Rebound,Rebound,Unknown,0,0,223
+22200938,297,PT03M06.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,40,40,80,h,SUB: Smith Jr. FOR Christopher,Substitution,,0,0,224
+22200938,298,PT03M06.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,40,40,80,h,SUB: Martin Jr. FOR Eason,Substitution,,0,0,225
+22200938,299,PT03M06.00S,2,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,40,40,80,v,SUB: Jackson Jr. FOR Tillman,Substitution,,0,0,226
+22200938,300,PT03M06.00S,2,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,40,40,80,v,SUB: Clarke FOR Kennard,Substitution,,0,0,227
+22200938,301,PT03M06.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,40,40,80,v,SUB: Bane FOR Aldama,Substitution,,0,0,228
+22200938,307,PT02M54.00S,2,1610612745,HOU,1630231,Martin,K. Martin,-6,37,4,Made,1,42,40,82,h,Martin Jr. 4' Layup (12 PTS) (Sengun 2 AST),Made Shot,Layup Shot,1,2,229
+22200938,309,PT02M39.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,42,40,82,h,Sengun S.FOUL (P2.PN) (S.Wall),Foul,Shooting,1,0,230
+22200938,311,PT02M39.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,42,40,82,v,MISS Morant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,231
+22200938,312,PT02M39.00S,2,0,,1610612763,,,0,0,0,,0,42,40,82,v,Grizzlies Rebound,Rebound,Normal Rebound,0,0,232
+22200938,313,PT02M39.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,42,40,82,h,SUB: Nix FOR Tate,Substitution,,0,0,233
+22200938,315,PT02M39.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,42,41,83,v,Morant Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,234
+22200938,316,PT02M18.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,42,41,83,h,Sengun Bad Pass Turnover (P4.T5),Turnover,Bad Pass,1,0,235
+22200938,316,PT02M18.00S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,42,41,83,v,Morant STEAL (2 STL),,,1,0,236
+22200938,318,PT02M12.00S,2,1610612763,MEM,1630217,Bane,D. Bane,-223,130,26,Made,1,42,44,86,v,Bane 26' 3PT Jump Shot (9 PTS) (Morant 2 AST),Made Shot,Jump Shot,1,3,237
+22200938,321,PT01M51.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-21,10,2,Made,1,44,44,88,h,Smith Jr. 2' Driving Layup (2 PTS) (Green 2 AST),Made Shot,Driving Layup Shot,1,2,238
+22200938,323,PT01M31.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,13,10,2,Made,1,44,46,90,v,Clarke 2' Alley Oop Dunk (2 PTS) (Morant 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,239
+22200938,325,PT01M09.00S,2,1610612745,HOU,1630227,Nix,D. Nix,-2,253,25,Missed,1,44,46,90,h,MISS Nix 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,240
+22200938,326,PT01M08.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,44,46,90,v,Jackson Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,241
+22200938,327,PT01M03.00S,2,1610612763,MEM,1629630,Morant,J. Morant,56,259,26,Missed,1,44,46,90,v,MISS Morant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,242
+22200938,328,PT01M00.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,44,46,90,v,Jackson Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,243
+22200938,329,PT00M58.40S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,Missed,1,44,46,90,v,MISS Jackson Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,244
+22200938,330,PT00M57.00S,2,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,44,46,90,v,Clarke REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,245
+22200938,331,PT00M47.60S,2,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,44,46,90,h,Nix S.FOUL (P1.PN) (B.Forte),Foul,Shooting,1,0,246
+22200938,333,PT00M47.60S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,44,46,90,v,MISS Morant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,247
+22200938,334,PT00M47.60S,2,0,,1610612763,,,0,0,0,,0,44,46,90,v,Grizzlies Rebound,Rebound,Normal Rebound,0,0,248
+22200938,335,PT00M47.60S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,44,46,90,v,SUB: Aldama FOR Jackson Jr.,Substitution,,0,0,249
+22200938,337,PT00M47.60S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,44,47,91,v,Morant Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,250
+22200938,338,PT00M28.80S,2,1610612745,HOU,1630224,Green,J. Green,2,269,27,Missed,1,44,47,91,h,MISS Green 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,251
+22200938,339,PT00M26.30S,2,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,44,47,91,v,Morant REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,252
+22200938,340,PT00M04.10S,2,1610612763,MEM,1629634,Clarke,B. Clarke,26,23,3,Missed,1,44,47,91,v,MISS Clarke 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,253
+22200938,341,PT00M01.60S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,44,47,91,h,Smith Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,254
+22200938,342,PT00M00.00S,2,0,,0,,,0,0,0,,0,44,47,91,,Instant Replay2nd Period (9:08 PM EST),Instant Replay,Support Ruling,0,0,255
+22200938,343,PT00M00.00S,2,0,,0,,,0,0,0,,0,44,47,91,,End of 2nd Period (9:08 PM EST),period,end,1,0,256
+22200938,348,PT12M00.00S,3,0,,0,,,0,0,0,,0,44,47,91,,Start of 3rd Period (9:23 PM EST),period,start,0,0,257
+22200938,349,PT11M46.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-37,48,6,Made,1,46,47,93,h,Smith Jr. 6' Finger Roll Layup (4 PTS),Made Shot,Finger Roll Layup Shot,1,2,258
+22200938,350,PT11M33.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,235,103,26,Made,1,46,50,96,v,Brooks 26' 3PT Jump Shot (8 PTS) (Morant 4 AST),Made Shot,Jump Shot,1,3,259
+22200938,352,PT11M07.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,39,130,14,Missed,1,46,50,96,h,MISS Smith Jr. 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,260
+22200938,353,PT11M06.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,46,50,96,v,Jackson Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,261
+22200938,354,PT10M52.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-104,56,12,Missed,1,46,50,96,v,MISS Morant 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,262
+22200938,355,PT10M51.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,46,50,96,v,Clarke REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,263
+22200938,356,PT10M47.00S,3,1610612763,MEM,1630217,Bane,D. Bane,-53,266,27,Made,1,46,53,99,v,Bane 27' 3PT Jump Shot (12 PTS) (Morant 5 AST),Made Shot,Jump Shot,1,3,264
+22200938,358,PT10M25.00S,3,1610612745,HOU,1630224,Green,J. Green,116,257,28,Missed,1,46,53,99,h,MISS Green 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,265
+22200938,359,PT10M24.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,46,53,99,v,Bane REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,266
+22200938,360,PT10M17.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-50,274,28,Missed,1,46,53,99,v,MISS Jackson Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,267
+22200938,361,PT10M16.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,46,53,99,h,Porter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,268
+22200938,362,PT10M00.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,22,17,3,Made,1,48,53,101,h,Sengun 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,269
+22200938,363,PT10M00.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,48,53,101,v,Jackson Jr. S.FOUL (P3.T1) (B.Nansel),Foul,Shooting,1,0,270
+22200938,365,PT10M00.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,48,53,101,h,MISS Sengun Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,271
+22200938,366,PT10M00.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,48,53,101,v,Clarke REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,272
+22200938,367,PT09M44.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-233,24,0,Missed,1,48,53,101,v,MISS Jackson Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,273
+22200938,368,PT09M43.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,48,53,101,h,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,274
+22200938,369,PT09M37.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,48,53,101,v,Bane S.FOUL (P3.T2) (B.Forte),Foul,Shooting,1,0,275
+22200938,371,PT09M37.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,48,53,101,v,Brooks T.FOUL (P2.T2) (S.Wall),Foul,Technical,1,0,276
+22200938,372,PT09M37.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,48,53,101,h,MISS Green Free Throw Technical,Free Throw,Free Throw Technical,1,0,277
+22200938,373,PT09M37.00S,3,0,,1610612745,,,0,0,0,,0,48,53,101,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0,278
+22200938,374,PT09M37.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,49,53,102,h,Porter Jr. Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,279
+22200938,375,PT09M37.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,50,53,103,h,Porter Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,280
+22200938,376,PT09M31.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,50,53,103,h,Smith Jr. S.FOUL (P1.T1) (B.Forte),Foul,Shooting,1,0,281
+22200938,378,PT09M31.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,50,54,104,v,Morant Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,282
+22200938,379,PT09M31.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,50,55,105,v,Morant Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,283
+22200938,380,PT09M21.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,50,55,105,v,Brooks P.FOUL (P3.T3) (B.Nansel),Foul,Personal,1,0,284
+22200938,383,PT09M14.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-16,54,6,Missed,1,50,55,105,h,MISS Smith Jr. 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,285
+22200938,384,PT09M12.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,50,55,105,v,Bane REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,286
+22200938,385,PT09M07.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,-227,25,0,Made,1,50,58,108,v,Brooks 3PT Jump Shot (11 PTS) (Morant 6 AST),Made Shot,Jump Shot,1,3,287
+22200938,387,PT08M44.00S,3,1610612745,HOU,1630231,Martin,K. Martin,-195,164,25,Missed,1,50,58,108,h,MISS Martin Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,288
+22200938,388,PT08M41.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,50,58,108,v,Morant REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,289
+22200938,389,PT08M36.00S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,50,58,108,h,Martin Jr. S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,1,0,290
+22200938,391,PT08M36.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,50,59,109,v,Clarke Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,291
+22200938,392,PT08M36.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,50,60,110,v,Clarke Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,292
+22200938,393,PT08M26.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,50,60,110,h,Porter Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,293
+22200938,394,PT08M16.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,50,60,110,h,Porter Jr. S.FOUL (P2.T3) (B.Forte),Foul,Shooting,1,0,294
+22200938,396,PT08M16.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,50,60,110,v,MISS Morant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,295
+22200938,397,PT08M16.00S,3,0,,1610612763,,,0,0,0,,0,50,60,110,v,Grizzlies Rebound,Rebound,Normal Rebound,0,0,296
+22200938,398,PT08M16.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,50,61,111,v,Morant Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,297
+22200938,399,PT07M55.00S,3,1610612745,HOU,1630224,Green,J. Green,-163,225,28,Made,1,53,61,114,h,Green 28' 3PT Jump Shot (11 PTS) (Sengun 3 AST),Made Shot,Jump Shot,1,3,298
+22200938,401,PT07M33.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-229,17,0,Missed,1,53,61,114,v,MISS Jackson Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,299
+22200938,402,PT07M30.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,53,61,114,h,Green REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,300
+22200938,405,PT07M26.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,53,61,114,h,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,301
+22200938,406,PT07M16.00S,3,1610612763,MEM,1630217,Bane,D. Bane,115,222,25,Made,1,53,64,117,v,Bane 25' 3PT Jump Shot (15 PTS) (Clarke 2 AST),Made Shot,Jump Shot,1,3,302
+22200938,408,PT07M07.00S,3,0,,1610612745,,,0,0,0,,0,53,64,117,h,ROCKETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,303
+22200938,409,PT06M57.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-26,85,9,Missed,1,53,64,117,h,MISS Porter Jr. 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,304
+22200938,409,PT06M57.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,53,64,117,v,Jackson Jr. BLOCK (4 BLK),,,1,2,305
+22200938,411,PT06M54.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,53,64,117,v,Bane REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,306
+22200938,412,PT06M53.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,-9,17,2,Made,1,53,66,119,v,Brooks 2' Running Dunk (13 PTS) (Bane 3 AST),Made Shot,Running Dunk Shot,1,2,307
+22200938,414,PT06M28.00S,3,1610612745,HOU,1630224,Green,J. Green,-98,139,17,Missed,1,53,66,119,h,MISS Green 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,308
+22200938,415,PT06M26.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,53,66,119,v,Clarke REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,309
+22200938,416,PT06M17.00S,3,1610612763,MEM,1630217,Bane,D. Bane,-103,258,28,Missed,1,53,66,119,v,MISS Bane 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,310
+22200938,417,PT06M16.00S,3,0,,1610612745,,,0,0,0,,0,53,66,119,h,ROCKETS Rebound,Rebound,Unknown,1,0,311
+22200938,418,PT06M16.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,53,66,119,v,Clarke L.B.FOUL (P3.T4) (B.Nansel),Foul,Loose Ball,1,0,312
+22200938,420,PT06M16.00S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,53,66,119,v,SUB: Aldama FOR Bane,Substitution,,0,0,313
+22200938,421,PT06M16.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,53,66,119,v,SUB: Kennard FOR Jackson Jr.,Substitution,,0,0,314
+22200938,424,PT05M55.00S,3,1610612745,HOU,1630231,Martin,K. Martin,221,128,26,Missed,1,53,66,119,h,MISS Martin Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,315
+22200938,425,PT05M53.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,53,66,119,v,Aldama REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,316
+22200938,426,PT05M43.00S,3,1610612763,MEM,1629630,Morant,J. Morant,13,53,5,Missed,1,53,66,119,v,MISS Morant 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,317
+22200938,427,PT05M41.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,53,66,119,h,Smith Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,318
+22200938,428,PT05M35.00S,3,1610612745,HOU,1630224,Green,J. Green,-13,4,1,Made,1,55,66,121,h,Green 1' Driving Reverse Layup (13 PTS),Made Shot,Driving Reverse Layup Shot,1,2,319
+22200938,429,PT05M28.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,-92,241,26,Made,1,55,69,124,v,Brooks 26' 3PT Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,3,320
+22200938,430,PT05M04.00S,3,1610612745,HOU,1630224,Green,J. Green,-217,126,25,Made,1,58,69,127,h,Green 25' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,3,321
+22200938,431,PT04M48.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-16,5,2,Made,1,58,71,129,v,Morant 2' Driving Floating Bank Jump Shot (14 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,322
+22200938,433,PT04M34.00S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,58,71,129,h,Martin Jr. OFF.Foul (P3) (B.Nansel),Foul,Offensive,0,0,323
+22200938,435,PT04M34.00S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,58,71,129,h,Martin Jr. Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,324
+22200938,436,PT04M34.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,58,71,129,h,SUB: Tate FOR Smith Jr.,Substitution,,0,0,325
+22200938,437,PT04M34.00S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,58,71,129,h,SUB: Eason FOR Martin Jr.,Substitution,,0,0,326
+22200938,440,PT04M23.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,10,14,2,Made,1,58,73,131,v,Clarke 2' Alley Oop Dunk (6 PTS) (Morant 7 AST),Made Shot,Alley Oop Dunk Shot,1,2,327
+22200938,442,PT04M05.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-13,256,26,Missed,1,58,73,131,h,MISS Porter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+22200938,443,PT04M04.00S,3,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,58,73,131,v,Kennard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,329
+22200938,444,PT03M57.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,-195,179,26,Missed,1,58,73,131,v,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+22200938,445,PT03M55.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,58,73,131,h,Sengun REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,331
+22200938,446,PT03M36.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,72,252,26,Missed,1,58,73,131,h,MISS Sengun 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,332
+22200938,447,PT03M35.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,58,73,131,h,Tate REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,333
+22200938,448,PT03M34.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,58,73,131,v,Clarke S.FOUL (P4.PN) (B.Forte),Foul,Shooting,1,0,334
+22200938,450,PT03M34.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,58,73,131,h,MISS Tate Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,335
+22200938,451,PT03M34.00S,3,0,,1610612745,,,0,0,0,,0,58,73,131,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0,336
+22200938,456,PT03M34.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,59,73,132,h,Tate Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,337
+22200938,452,PT03M34.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,59,73,132,h,SUB: Nix FOR Porter Jr.,Substitution,,0,0,338
+22200938,453,PT03M34.00S,3,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,59,73,132,v,SUB: Tillman FOR Clarke,Substitution,,0,0,339
+22200938,457,PT03M24.00S,3,1610612763,MEM,1629630,Morant,J. Morant,17,69,7,Missed,1,59,73,132,v,MISS Morant 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,340
+22200938,458,PT03M22.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,59,73,132,h,Eason REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,341
+22200938,459,PT03M15.00S,3,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,59,73,132,v,Tillman S.FOUL (P2.PN) (B.Nansel),Foul,Shooting,1,0,342
+22200938,461,PT03M15.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,60,73,133,h,Green Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,343
+22200938,462,PT03M15.00S,3,0,,1610612763,,,0,0,0,,0,60,73,133,v,Grizzlies Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,344
+22200938,463,PT03M15.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,61,73,134,h,Green Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,345
+22200938,464,PT03M00.00S,3,1610612763,MEM,1629630,Morant,J. Morant,18,9,2,Made,1,61,75,136,v,Morant 2' Reverse Layup (16 PTS) (Aldama 1 AST),Made Shot,Reverse Layup Shot,1,2,346
+22200938,466,PT02M33.00S,3,1610612745,HOU,1631106,Eason,T. Eason,-115,232,26,Made,1,64,75,139,h,Eason 26' 3PT Jump Shot (3 PTS) (Nix 1 AST),Made Shot,Jump Shot,1,3,347
+22200938,468,PT02M20.00S,3,1610612763,MEM,1629630,Morant,J. Morant,2,152,15,Made,1,64,77,141,v,Morant 15' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,1,2,348
+22200938,469,PT02M05.00S,3,1610612745,HOU,1631106,Eason,T. Eason,36,25,4,Missed,1,64,77,141,h,MISS Eason 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,349
+22200938,469,PT02M05.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,64,77,141,v,Aldama BLOCK (1 BLK),,,1,2,350
+22200938,471,PT02M04.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,64,77,141,h,Eason REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,351
+22200938,472,PT02M00.00S,3,1610612745,HOU,1631106,Eason,T. Eason,28,31,4,Missed,1,64,77,141,h,MISS Eason 4' Putback Layup,Missed Shot,Putback Layup Shot,1,2,352
+22200938,473,PT01M59.00S,3,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,64,77,141,v,Kennard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,353
+22200938,474,PT01M48.00S,3,1610612763,MEM,1629630,Morant,J. Morant,-15,6,2,Made,1,64,79,143,v,Morant 2' Driving Finger Roll Layup (20 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,354
+22200938,475,PT01M41.00S,3,1610612745,HOU,1630256,Tate,J. Tate,-9,11,1,Made,1,66,79,145,h,Tate 1' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,355
+22200938,476,PT01M29.00S,3,1610612763,MEM,1628379,Kennard,L. Kennard,210,138,25,Missed,1,66,79,145,v,MISS Kennard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,356
+22200938,477,PT01M28.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,66,79,145,h,Sengun REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,357
+22200938,478,PT01M22.00S,3,1610612745,HOU,1630256,Tate,J. Tate,-12,11,2,Made,1,68,79,147,h,Tate 2' Running Layup (11 PTS) (Nix 2 AST),Made Shot,Running Layup Shot,1,2,358
+22200938,480,PT01M22.00S,3,0,,1610612763,,,0,0,0,,0,68,79,147,v,Grizzlies Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,359
+22200938,481,PT01M22.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,68,79,147,h,SUB: Martin Jr. FOR Green,Substitution,,0,0,360
+22200938,482,PT01M22.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,68,79,147,h,SUB: Garuba FOR Sengun,Substitution,,0,0,361
+22200938,483,PT01M22.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,68,79,147,v,SUB: Jackson Jr. FOR Aldama,Substitution,,0,0,362
+22200938,484,PT01M22.00S,3,1610612763,MEM,1629630,Morant,J. Morant,0,0,0,,0,68,79,147,v,SUB: Jones FOR Morant,Substitution,,0,0,363
+22200938,485,PT01M22.00S,3,1610612763,MEM,1628415,Brooks,D. Brooks,0,0,0,,0,68,79,147,v,SUB: Bane FOR Brooks,Substitution,,0,0,364
+22200938,491,PT01M11.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,68,79,147,h,Tate P.FOUL (P3.T4) (S.Wall),Foul,Personal,1,0,365
+22200938,493,PT01M03.00S,3,1610612763,MEM,1630217,Bane,D. Bane,-26,6,3,Made,1,68,81,149,v,Bane 3' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,366
+22200938,494,PT00M45.00S,3,1610612745,HOU,1630227,Nix,D. Nix,-162,206,26,Missed,1,68,81,149,h,MISS Nix 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,367
+22200938,495,PT00M43.20S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,68,81,149,v,Bane REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,368
+22200938,496,PT00M36.00S,3,1610612763,MEM,1630217,Bane,D. Bane,78,34,9,Made,1,68,83,151,v,Bane 9' Driving Floating Bank Jump Shot (19 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,369
+22200938,497,PT00M17.20S,3,1610612745,HOU,1630231,Martin,K. Martin,-210,144,25,Missed,1,68,83,151,h,MISS Martin Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+22200938,498,PT00M15.50S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,68,83,151,h,Eason REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,371
+22200938,499,PT00M13.90S,3,1610612745,HOU,1631106,Eason,T. Eason,15,16,2,Missed,1,68,83,151,h,MISS Eason 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,372
+22200938,499,PT00M13.90S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,68,83,151,v,Jackson Jr. BLOCK (5 BLK),,,1,2,373
+22200938,501,PT00M13.90S,3,0,,1610612745,,,0,0,0,,0,68,83,151,h,ROCKETS Rebound,Rebound,Unknown,1,0,374
+22200938,503,PT00M11.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,68,83,151,h,Eason Offensive Charge Foul (P1) (S.Wall),Foul,Offensive Charge,1,0,375
+22200938,505,PT00M11.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,68,83,151,h,Eason Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,376
+22200938,506,PT00M02.40S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-232,31,0,Missed,1,68,83,151,v,MISS Jackson Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+22200938,507,PT00M00.90S,3,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,68,83,151,v,Bane REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,378
+22200938,508,PT00M00.20S,3,1610612763,MEM,1630217,Bane,D. Bane,17,10,2,Made,1,68,85,153,v,Bane 2' Putback Layup (21 PTS),Made Shot,Putback Layup Shot,1,2,379
+22200938,509,PT00M00.00S,3,0,,508,,,0,0,0,,0,68,85,153,,Instant Replay3rd Period (9:51 PM EST),Instant Replay,Support Ruling,0,0,380
+22200938,510,PT00M00.00S,3,0,,0,,,0,0,0,,0,68,85,153,,End of 3rd Period (9:52 PM EST),period,end,1,0,381
+22200938,515,PT12M00.00S,4,0,,0,,,0,0,0,,0,68,85,153,,Start of 4th Period (9:54 PM EST),period,start,0,0,382
+22200938,516,PT11M44.00S,4,1610612763,MEM,1630217,Bane,D. Bane,-13,37,4,Made,1,68,87,155,v,Bane 4' Driving Finger Roll Layup (23 PTS) (Tillman 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,383
+22200938,518,PT11M24.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,68,87,155,v,Jackson Jr. P.FOUL (P4.T1) (B.Forte),Foul,Personal,1,0,384
+22200938,520,PT11M13.00S,4,1610612745,HOU,1630256,Tate,J. Tate,56,109,12,Missed,1,68,87,155,h,MISS Tate 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,385
+22200938,521,PT11M12.00S,4,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,68,87,155,v,Konchar REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,386
+22200938,522,PT11M04.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,68,87,155,h,Christopher P.FOUL (P1.T1) (B.Forte),Foul,Personal,1,0,387
+22200938,524,PT10M49.00S,4,1610612763,MEM,1630217,Bane,D. Bane,-227,9,0,Made,1,68,90,158,v,Bane 3PT Jump Shot (26 PTS) (Konchar 2 AST),Made Shot,Jump Shot,1,3,388
+22200938,526,PT10M37.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,134,228,26,Made,1,71,90,161,h,Christopher 26' 3PT Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,3,389
+22200938,527,PT10M21.00S,4,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,71,90,161,v,Tillman Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,390
+22200938,527,PT10M21.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,71,90,161,h,Garuba STEAL (1 STL),,,1,0,391
+22200938,529,PT10M16.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,-15,16,2,Missed,1,71,90,161,h,MISS Christopher 2' Running Layup,Missed Shot,Running Layup Shot,1,2,392
+22200938,530,PT10M10.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,71,90,161,h,Martin Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,393
+22200938,531,PT10M10.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,Made,1,73,90,163,h,Martin Jr. Tip Dunk Shot (14 PTS),Made Shot,Tip Dunk Shot,1,2,394
+22200938,532,PT10M00.00S,4,1610612763,MEM,1626145,Jones,T. Jones,112,235,26,Made,1,73,93,166,v,Jones 26' 3PT Jump Shot (3 PTS) (Bane 4 AST),Made Shot,Jump Shot,1,3,395
+22200938,533,PT09M40.00S,4,1610612745,HOU,1630227,Nix,D. Nix,13,47,5,Missed,1,73,93,166,h,MISS Nix 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,396
+22200938,534,PT09M39.00S,4,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,73,93,166,h,Nix REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,397
+22200938,535,PT09M39.00S,4,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,73,93,166,v,Tillman S.FOUL (P3.T2) (S.Wall),Foul,Shooting,1,0,398
+22200938,537,PT09M39.00S,4,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,74,93,167,h,Nix Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,399
+22200938,538,PT09M39.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,74,93,167,h,SUB: Eason FOR Tate,Substitution,,0,0,400
+22200938,540,PT09M39.00S,4,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,74,93,167,h,MISS Nix Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,401
+22200938,541,PT09M39.00S,4,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,74,93,167,v,Bane REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,402
+22200938,542,PT09M15.00S,4,1610612763,MEM,1630214,Tillman,X. Tillman,-49,51,7,Made,1,74,95,169,v,Tillman 7' Driving Floating Jump Shot (4 PTS) (Bane 5 AST),Made Shot,Driving Floating Jump Shot,1,2,403
+22200938,544,PT09M13.00S,4,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,74,95,169,h,Nix Inbound Turnover (P1.T10),Turnover,Inbound Turnover,1,0,404
+22200938,545,PT09M06.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,11,82,8,Made,1,74,97,171,v,Jackson Jr. 8' Turnaround Hook Shot (13 PTS),Made Shot,Turnaround Hook Shot,1,2,405
+22200938,546,PT09M06.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,74,97,171,h,Eason S.FOUL (P2.T2) (S.Wall),Foul,Shooting,1,0,406
+22200938,548,PT09M06.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,74,98,172,v,Jackson Jr. Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,407
+22200938,549,PT08M57.00S,4,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,74,98,172,v,Tillman S.FOUL (P4.T3) (S.Wall),Foul,Shooting,1,0,408
+22200938,551,PT08M57.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,75,98,173,h,Garuba Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,409
+22200938,552,PT08M57.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,76,98,174,h,Garuba Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,410
+22200938,553,PT08M39.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-104,246,27,Made,1,76,101,177,v,Jackson Jr. 27' 3PT Jump Shot (17 PTS) (Jones 2 AST),Made Shot,Jump Shot,1,3,411
+22200938,555,PT08M23.00S,4,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,76,101,177,v,Bane S.FOUL (P4.T4) (B.Nansel),Foul,Shooting,1,0,412
+22200938,557,PT08M23.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,76,101,177,h,MISS Martin Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,413
+22200938,558,PT08M23.00S,4,0,,1610612745,,,0,0,0,,0,76,101,177,h,ROCKETS Rebound,Rebound,Normal Rebound,0,0,414
+22200938,559,PT08M23.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,77,101,178,h,Martin Jr. Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,415
+22200938,560,PT08M09.00S,4,1610612763,MEM,1630217,Bane,D. Bane,36,113,12,Made,1,77,103,180,v,Bane 12' Driving Floating Jump Shot (28 PTS) (Tillman 2 AST),Made Shot,Driving Floating Jump Shot,1,2,416
+22200938,562,PT07M51.00S,4,1610612745,HOU,1631106,Eason,T. Eason,26,22,3,Missed,1,77,103,180,h,MISS Eason 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,417
+22200938,563,PT07M50.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,77,103,180,h,Garuba REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,418
+22200938,564,PT07M50.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,-10,17,2,Made,1,79,103,182,h,Garuba 2' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,419
+22200938,565,PT07M37.00S,4,1610612763,MEM,1626145,Jones,T. Jones,-80,236,25,Made,1,79,106,185,v,Jones 25' 3PT Pullup Jump Shot (6 PTS) (Bane 6 AST),Made Shot,Pullup Jump shot,1,3,420
+22200938,568,PT07M31.00S,4,0,,1610612745,,,0,0,0,,0,79,106,185,h,ROCKETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,421
+22200938,570,PT07M31.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,79,106,185,h,SUB: Porter Jr. FOR Christopher,Substitution,,0,0,422
+22200938,571,PT07M31.00S,4,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,79,106,185,h,SUB: Green FOR Nix,Substitution,,0,0,423
+22200938,572,PT07M31.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,79,106,185,h,SUB: Sengun FOR Garuba,Substitution,,0,0,424
+22200938,576,PT07M18.00S,4,1610612745,HOU,1630224,Green,J. Green,-17,64,7,Made,1,81,106,187,h,Green 7' Driving Floating Jump Shot (20 PTS),Made Shot,Driving Floating Jump Shot,1,2,425
+22200938,577,PT06M56.00S,4,1610612763,MEM,1629723,Konchar,J. Konchar,235,78,25,Made,1,81,109,190,v,Konchar 25' 3PT Jump Shot (3 PTS) (Jones 3 AST),Made Shot,Jump Shot,1,3,426
+22200938,579,PT06M44.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,81,109,190,h,Porter Jr. Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,427
+22200938,579,PT06M44.00S,4,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,81,109,190,v,Konchar STEAL (1 STL),,,1,0,428
+22200938,581,PT06M40.00S,4,1610612763,MEM,1626145,Jones,T. Jones,228,72,24,Missed,1,81,109,190,v,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,429
+22200938,582,PT06M38.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,81,109,190,h,Porter Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,430
+22200938,583,PT06M32.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,25,3,Made,1,83,109,192,h,Martin Jr. 3' Running Finger Roll Layup (17 PTS) (Porter Jr. 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,431
+22200938,584,PT06M15.00S,4,1610612763,MEM,1630217,Bane,D. Bane,-28,11,3,Made,1,83,111,194,v,Bane 3' Finger Roll Layup (30 PTS) (Tillman 3 AST),Made Shot,Finger Roll Layup Shot,1,2,432
+22200938,586,PT06M00.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,-11,16,2,Made,1,85,111,196,h,Sengun 2' Dunk (9 PTS) (Green 3 AST),Made Shot,Dunk Shot,1,2,433
+22200938,588,PT05M38.00S,4,1610612763,MEM,1630214,Tillman,X. Tillman,233,6,0,Missed,1,85,111,196,v,MISS Tillman 3PT Jump Shot,Missed Shot,Jump Shot,1,3,434
+22200938,589,PT05M37.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,85,111,196,h,Eason REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,435
+22200938,590,PT05M28.00S,4,1610612745,HOU,1630224,Green,J. Green,-15,21,3,Missed,1,85,111,196,h,MISS Green 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,436
+22200938,590,PT05M28.00S,4,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,85,111,196,v,Tillman BLOCK (2 BLK),,,1,2,437
+22200938,592,PT05M28.00S,4,0,,1610612745,,,0,0,0,,0,85,111,196,h,ROCKETS Rebound,Rebound,Unknown,0,0,438
+22200938,594,PT05M28.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,85,111,196,v,SUB: Kennard FOR Jackson Jr.,Substitution,,0,0,439
+22200938,595,PT05M28.00S,4,1610612763,MEM,1630217,Bane,D. Bane,0,0,0,,0,85,111,196,v,SUB: Aldama FOR Bane,Substitution,,0,0,440
+22200938,598,PT05M20.00S,4,1610612745,HOU,1630231,Martin,K. Martin,-16,11,2,Made,1,87,111,198,h,Martin Jr. 2' Reverse Dunk (19 PTS) (Sengun 4 AST),Made Shot,Reverse Dunk Shot,1,2,441
+22200938,600,PT05M01.00S,4,1610612763,MEM,1626145,Jones,T. Jones,10,69,7,Made,1,87,113,200,v,Jones 7' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,442
+22200938,601,PT04M34.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-188,168,25,Made,1,90,113,203,h,Porter Jr. 25' 3PT Jump Shot (11 PTS) (Sengun 5 AST),Made Shot,Jump Shot,1,3,443
+22200938,603,PT04M31.00S,4,0,,1610612763,,,0,0,0,,0,90,113,203,v,Grizzlies Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,444
+22200938,604,PT04M31.00S,4,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,90,113,203,v,SUB: Williams FOR Konchar,Substitution,,0,0,445
+22200938,607,PT04M20.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,-38,105,11,Missed,1,90,113,203,v,MISS Aldama 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,446
+22200938,607,PT04M20.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,90,113,203,h,Eason BLOCK (2 BLK),,,1,2,447
+22200938,609,PT04M19.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,90,113,203,h,Sengun REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,448
+22200938,610,PT04M13.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,7,17,2,Made,1,92,113,205,h,Sengun 2' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,1,2,449
+22200938,611,PT03M48.00S,4,1610612763,MEM,1630533,Williams,Z. Williams,-21,11,2,Missed,1,92,113,205,v,MISS Williams 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,450
+22200938,612,PT03M47.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,92,113,205,h,Porter Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,451
+22200938,613,PT03M38.00S,4,1610612745,HOU,1631106,Eason,T. Eason,-16,5,2,Missed,1,92,113,205,h,MISS Eason 2' Layup,Missed Shot,Layup Shot,1,2,452
+22200938,614,PT03M37.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,92,113,205,h,Eason REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,453
+22200938,615,PT03M37.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,Made,1,94,113,207,h,Eason Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,454
+22200938,634,PT03M37.00S,4,0,,1610612763,,,0,0,0,,0,94,113,207,v,Grizzlies Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,455
+22200938,616,PT03M37.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,94,113,207,h,SUB: Kaminsky FOR Porter Jr.,Substitution,,0,0,456
+22200938,617,PT03M37.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,94,113,207,h,SUB: Marjanovic FOR Green,Substitution,,0,0,457
+22200938,618,PT03M37.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,94,113,207,h,SUB: Christopher FOR Martin Jr.,Substitution,,0,0,458
+22200938,619,PT03M37.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,94,113,207,h,SUB: Nix FOR Sengun,Substitution,,0,0,459
+22200938,620,PT03M37.00S,4,1610612763,MEM,1630214,Tillman,X. Tillman,0,0,0,,0,94,113,207,v,SUB: Clarke FOR Tillman,Substitution,,0,0,460
+22200938,626,PT03M20.00S,4,1610612763,MEM,1630533,Williams,Z. Williams,-225,57,0,Missed,1,94,113,207,v,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,1,3,461
+22200938,630,PT03M20.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,0,0,0,,0,94,113,207,v,Clarke REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,462
+22200938,628,PT03M14.00S,4,1610612763,MEM,1630533,Williams,Z. Williams,-25,24,3,Missed,1,94,113,207,v,MISS Williams 3' Layup,Missed Shot,Layup Shot,1,2,463
+22200938,629,PT03M12.00S,4,1610612745,HOU,1626246,Marjanović,B. Marjanović,0,0,0,,0,94,113,207,h,Marjanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,464
+22200938,631,PT02M54.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,94,113,207,h,Christopher Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,465
+22200938,631,PT02M54.00S,4,1610612763,MEM,1628379,Kennard,L. Kennard,0,0,0,,0,94,113,207,v,Kennard STEAL (1 STL),,,1,0,466
+22200938,633,PT02M42.00S,4,1610612763,MEM,1626145,Jones,T. Jones,165,187,25,Missed,1,94,113,207,v,MISS Jones 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,467
+22200938,635,PT02M40.00S,4,1610612745,HOU,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,94,113,207,h,Kaminsky REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,468
+22200938,636,PT02M32.00S,4,1610612745,HOU,1631106,Eason,T. Eason,39,251,25,Made,1,97,113,210,h,Eason 25' 3PT Jump Shot (8 PTS) (Christopher 2 AST),Made Shot,Jump Shot,1,3,469
+22200938,638,PT02M04.00S,4,1610612763,MEM,1626145,Jones,T. Jones,-234,27,24,Missed,1,97,113,210,v,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,470
+22200938,639,PT02M03.00S,4,1610612745,HOU,1626163,Kaminsky,F. Kaminsky,0,0,0,,0,97,113,210,h,Kaminsky REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,471
+22200938,640,PT01M57.00S,4,1610612745,HOU,1631106,Eason,T. Eason,15,20,3,Made,1,99,113,212,h,Eason 3' Running Dunk (10 PTS),Made Shot,Running Dunk Shot,1,2,472
+22200938,642,PT01M35.00S,4,1610612763,MEM,1629634,Clarke,B. Clarke,-5,110,11,Missed,1,99,113,212,v,MISS Clarke 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,473
+22200938,643,PT01M34.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,99,113,212,h,Eason REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,474
+22200938,644,PT01M21.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,-136,235,27,Missed,1,99,113,212,h,MISS Christopher 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,475
+22200938,645,PT01M19.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,99,113,212,v,Aldama REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,476
+22200938,646,PT00M58.10S,4,1610612763,MEM,1626145,Jones,T. Jones,-96,108,14,Missed,1,99,113,212,v,MISS Jones 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,477
+22200938,646,PT00M58.10S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,99,113,212,h,Eason BLOCK (3 BLK),,,1,2,478
+22200938,648,PT00M56.80S,4,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,99,113,212,h,Nix REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,479
+22200938,649,PT00M52.00S,4,1610612745,HOU,1626163,Kaminsky,F. Kaminsky,165,191,25,Missed,1,99,113,212,h,MISS Kaminsky 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,480
+22200938,650,PT00M52.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,99,113,212,v,Aldama REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,481
+22200938,651,PT00M26.60S,4,0,,1610612763,,,0,0,0,,0,99,113,212,v,Grizzlies Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,482
+22200938,652,PT00M02.60S,4,0,,1610612745,,,0,0,0,,0,99,113,212,h,ROCKETS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,483
+22200938,653,PT00M00.00S,4,0,,0,,,0,0,0,,0,99,113,212,,End of 4th Period (10:19 PM EST),period,end,1,0,484

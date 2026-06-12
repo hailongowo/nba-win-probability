@@ -1,0 +1,500 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22400631,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,0,0,1
+22400631,4,PT12M00.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,0,0,0,h,Jump Ball Yabusele vs. Allen: Tip to Mitchell,Jump Ball,,1,0,2
+22400631,7,PT11M41.00S,1,1610612739,CLE,1628386,Allen,J. Allen,39,-7,4,Missed,1,0,0,0,v,MISS Allen 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,3
+22400631,9,PT11M36.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,0,0,0,h,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22400631,10,PT11M21.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,224,54,0,Made,1,3,0,3,h,Yabusele 3PT Jump Shot (3 PTS) (Gordon 1 AST),Made Shot,Jump Shot,1,3,5
+22400631,12,PT11M11.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,5,5,1,Missed,1,3,0,3,v,MISS Mitchell 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,6
+22400631,12,PT11M11.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,3,0,3,h,Yabusele BLOCK (1 BLK),,,1,2,7
+22400631,17,PT11M09.00S,1,0,,1610612739,,,0,0,0,,0,3,0,3,v,Cavaliers Rebound,Rebound,Unknown,0,0,8
+22400631,14,PT11M09.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,3,0,3,h,Jump Ball Yabusele vs. Mitchell: Tip to Strus,Jump Ball,,0,0,9
+22400631,18,PT11M02.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,96,247,27,Made,1,3,3,6,v,Mitchell 27' 3PT Jump Shot (3 PTS) (Strus 1 AST),Made Shot,Jump Shot,1,3,10
+22400631,20,PT10M43.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,3,3,6,h,George Offensive Charge Foul (P1) (J.Orr),Foul,Offensive Charge,1,0,11
+22400631,22,PT10M43.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,3,3,6,h,George Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,12
+22400631,23,PT10M31.00S,1,1610612739,CLE,1629622,Strus,M. Strus,37,-7,4,Missed,1,3,3,6,v,MISS Strus 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,13
+22400631,24,PT10M29.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,3,3,6,h,Oubre Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,14
+22400631,25,PT10M24.00S,1,1610612755,PHI,201569,Gordon,E. Gordon,0,0,0,,0,3,3,6,h,Gordon Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,15
+22400631,26,PT10M12.00S,1,1610612739,CLE,1629731,Wade,D. Wade,-227,29,0,Missed,1,3,3,6,v,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,1,3,16
+22400631,27,PT10M11.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,3,3,6,h,Yabusele REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,17
+22400631,28,PT10M04.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-31,257,26,Made,1,6,3,9,h,Maxey 26' 3PT Running Pull-Up Jump Shot (3 PTS) (Gordon 2 AST),Made Shot,Running Pull-Up Jump Shot,1,3,18
+22400631,30,PT09M48.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,6,3,9,v,Mitchell Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,19
+22400631,30,PT09M48.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,6,3,9,h,Maxey STEAL (1 STL),,,1,0,20
+22400631,32,PT09M43.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-33,36,5,Missed,1,6,3,9,h,MISS Oubre Jr. 5' Running Layup,Missed Shot,Running Layup Shot,1,2,21
+22400631,33,PT09M41.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,6,3,9,v,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,22
+22400631,34,PT09M38.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,6,3,9,h,Yabusele S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,1,0,23
+22400631,36,PT09M38.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,6,4,10,v,Mitchell Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,24
+22400631,37,PT09M38.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,6,5,11,v,Mitchell Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,25
+22400631,38,PT09M26.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,6,5,11,h,George Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,26
+22400631,38,PT09M26.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,6,5,11,v,Garland STEAL (1 STL),,,1,0,27
+22400631,40,PT09M24.00S,1,1610612739,CLE,1629636,Garland,D. Garland,2,11,1,Made,1,6,7,13,v,Garland 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,28
+22400631,41,PT09M24.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,6,7,13,h,George Violation:Defensive Goaltending (R.Hussey),Violation,Defensive Goaltending,1,0,29
+22400631,42,PT09M02.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,77,26,8,Made,1,8,7,15,h,Maxey 8' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,1,2,30
+22400631,43,PT08M40.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-2,74,7,Missed,1,8,7,15,v,MISS Allen 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,31
+22400631,44,PT08M38.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,8,7,15,v,Strus REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,32
+22400631,45,PT08M37.00S,1,1610612739,CLE,1629622,Strus,M. Strus,229,66,24,Made,1,8,10,18,v,Strus 24' 3PT Turnaround Jump Shot (3 PTS),Made Shot,Turnaround Jump Shot,1,3,33
+22400631,46,PT08M20.00S,1,1610612755,PHI,202331,George,P. George,222,52,0,Missed,1,8,10,18,h,MISS George 3PT Jump Shot,Missed Shot,Jump Shot,1,3,34
+22400631,47,PT08M19.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,8,10,18,v,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,35
+22400631,48,PT08M04.00S,1,1610612739,CLE,1629622,Strus,M. Strus,228,46,0,Missed,1,8,10,18,v,MISS Strus 3PT Jump Shot,Missed Shot,Jump Shot,1,3,36
+22400631,49,PT08M02.00S,1,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,8,10,18,v,Wade REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,37
+22400631,50,PT08M01.00S,1,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,Made,1,8,12,20,v,Wade Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,38
+22400631,51,PT07M34.00S,1,1610612755,PHI,201569,Gordon,E. Gordon,-27,36,5,Made,1,10,12,22,h,Gordon 5' Driving Floating Jump Shot (2 PTS) (Yabusele 1 AST),Made Shot,Driving Floating Jump Shot,1,2,39
+22400631,53,PT07M23.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-93,87,13,Made,1,10,14,24,v,Garland 13' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,40
+22400631,54,PT07M13.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-188,199,27,Made,1,13,14,27,h,Maxey 27' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,3,41
+22400631,55,PT06M55.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-47,268,27,Missed,1,13,14,27,v,MISS Garland 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,42
+22400631,56,PT06M54.00S,1,0,,1610612755,,,0,0,0,,0,13,14,27,h,76ERS Rebound,Rebound,Unknown,1,0,43
+22400631,58,PT06M54.00S,1,0,,1610612755,,,0,0,0,,0,13,14,27,h,76ERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,44
+22400631,59,PT06M54.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,13,14,27,v,SUB: Jerome FOR Mitchell,Substitution,,0,0,45
+22400631,60,PT06M54.00S,1,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,13,14,27,v,SUB: Niang FOR Wade,Substitution,,0,0,46
+22400631,63,PT06M39.00S,1,1610612755,PHI,202331,George,P. George,77,15,8,Missed,1,13,14,27,h,MISS George 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,47
+22400631,64,PT06M36.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,13,14,27,v,Allen REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,48
+22400631,65,PT06M32.00S,1,1610612739,CLE,1629622,Strus,M. Strus,-10,-12,2,Missed,1,13,14,27,v,MISS Strus 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,49
+22400631,66,PT06M30.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,13,14,27,h,Yabusele REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,50
+22400631,67,PT06M22.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,13,14,27,h,Maxey Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,51
+22400631,67,PT06M22.00S,1,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,13,14,27,v,Jerome STEAL (1 STL),,,1,0,52
+22400631,69,PT06M10.00S,1,1610612739,CLE,1627777,Niang,G. Niang,-225,53,0,Made,1,13,17,30,v,Niang 3PT Jump Shot (3 PTS) (Jerome 1 AST),Made Shot,Jump Shot,1,3,53
+22400631,71,PT05M45.00S,1,1610612755,PHI,202331,George,P. George,224,55,0,Made,1,16,17,33,h,George 3PT Jump Shot (3 PTS) (Maxey 1 AST),Made Shot,Jump Shot,1,3,54
+22400631,96,PT05M38.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-12,5,1,Missed,1,16,17,33,v,MISS Garland 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,55
+22400631,96,PT05M38.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,16,17,33,h,Maxey BLOCK (1 BLK),,,1,2,56
+22400631,98,PT05M36.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,16,17,33,h,Maxey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+22400631,75,PT05M31.00S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,16,17,33,v,Niang S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,1,0,58
+22400631,77,PT05M31.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,17,17,34,h,Oubre Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,59
+22400631,78,PT05M31.00S,1,1610612755,PHI,201569,Gordon,E. Gordon,0,0,0,,0,17,17,34,h,SUB: Bona FOR Gordon,Substitution,,0,0,60
+22400631,79,PT05M31.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,17,17,34,h,SUB: Edwards FOR Yabusele,Substitution,,0,0,61
+22400631,82,PT05M31.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,18,17,35,h,Oubre Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,62
+22400631,83,PT05M20.00S,1,1610612739,CLE,1629660,Jerome,T. Jerome,232,82,25,Made,1,18,20,38,v,Jerome 25' 3PT Step Back Jump Shot (3 PTS) (Garland 1 AST),Made Shot,Step Back Jump shot,1,3,63
+22400631,85,PT05M03.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,10,59,6,Missed,1,18,20,38,h,MISS Maxey 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,64
+22400631,86,PT05M02.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,18,20,38,h,Bona REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,65
+22400631,87,PT05M00.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,Made,1,20,20,40,h,Bona Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,66
+22400631,88,PT04M45.00S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,20,20,40,v,Niang Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,67
+22400631,88,PT04M45.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,20,20,40,h,Maxey STEAL (2 STL),,,1,0,68
+22400631,90,PT04M38.00S,1,1610612755,PHI,202331,George,P. George,-44,274,28,Missed,1,20,20,40,h,MISS George 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,69
+22400631,91,PT04M38.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,20,20,40,h,Oubre Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,70
+22400631,92,PT04M38.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,20,20,40,h,Oubre Jr. Traveling Turnover (P1.T5),Turnover,Traveling,1,0,71
+22400631,93,PT04M38.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,20,20,40,v,SUB: Merrill FOR Strus,Substitution,,0,0,72
+22400631,95,PT04M25.00S,1,1610612739,CLE,1629636,Garland,D. Garland,22,-11,2,Made,1,20,22,42,v,Garland 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,73
+22400631,99,PT04M09.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-9,44,4,Made,1,22,22,44,h,Oubre Jr. 4' Driving Layup (4 PTS) (George 1 AST),Made Shot,Driving Layup Shot,1,2,74
+22400631,101,PT04M09.00S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,22,22,44,v,Niang S.FOUL (P2.T2) (J.Orr),Foul,Shooting,1,0,75
+22400631,103,PT04M09.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,22,22,44,v,SUB: Mitchell FOR Garland,Substitution,,0,0,76
+22400631,105,PT04M09.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,23,22,45,h,Oubre Jr. Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,77
+22400631,106,PT03M53.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,51,248,25,Missed,1,23,22,45,v,MISS Mitchell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,78
+22400631,107,PT03M49.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,23,22,45,v,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,79
+22400631,110,PT03M45.00S,1,0,,0,,,0,0,0,,0,23,22,45,,Instant Replay1st Period (7:28 PM EST),Instant Replay,Overturn Ruling,0,0,80
+22400631,111,PT03M45.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,23,22,45,h,Oubre Jr. FLAGRANT.FOUL.TYPE1 (P1.T2) (M.Ervin),Foul,Flagrant Type 1,0,0,81
+22400631,113,PT03M45.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,23,23,46,v,Merrill Free Throw Flagrant 1 of 3 (1 PTS),Free Throw,Free Throw Flagrant 1 of 3,1,0,82
+22400631,114,PT03M45.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,23,24,47,v,Merrill Free Throw Flagrant 2 of 3 (2 PTS),Free Throw,Free Throw Flagrant 2 of 3,1,0,83
+22400631,115,PT03M45.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,23,25,48,v,Merrill Free Throw Flagrant 3 of 3 (3 PTS),Free Throw,Free Throw Flagrant 3 of 3,1,0,84
+22400631,116,PT03M45.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,23,25,48,h,SUB: Gordon FOR George,Substitution,,0,0,85
+22400631,117,PT03M45.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,23,25,48,v,SUB: Thompson FOR Allen,Substitution,,0,0,86
+22400631,120,PT03M41.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-76,257,27,Made,1,23,28,51,v,Merrill 27' 3PT Jump Shot (6 PTS) (Mitchell 1 AST),Made Shot,Jump Shot,1,3,87
+22400631,122,PT03M15.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,116,53,13,Missed,1,23,28,51,h,MISS Maxey 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,88
+22400631,123,PT03M14.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,23,28,51,h,Edwards REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,89
+22400631,124,PT03M13.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,-11,55,6,Missed,1,23,28,51,h,MISS Edwards 6' Putback Layup,Missed Shot,Putback Layup Shot,1,2,90
+22400631,125,PT03M12.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,23,28,51,h,Edwards REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,91
+22400631,126,PT03M11.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,23,28,51,v,Thompson S.FOUL (P1.T3) (R.Hussey),Foul,Shooting,1,0,92
+22400631,128,PT03M11.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,24,28,52,h,Edwards Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,93
+22400631,129,PT03M11.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,24,28,52,h,MISS Edwards Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,94
+22400631,130,PT03M09.00S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,24,28,52,v,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,95
+22400631,131,PT03M02.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,55,246,25,Made,1,24,31,55,v,Merrill 25' 3PT Jump Shot (9 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,1,3,96
+22400631,133,PT02M41.00S,1,1610612755,PHI,201569,Gordon,E. Gordon,56,22,6,Missed,1,24,31,55,h,MISS Gordon 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,97
+22400631,134,PT02M38.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,24,31,55,h,Edwards REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,98
+22400631,135,PT02M33.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,-218,159,27,Made,1,27,31,58,h,Edwards 27' 3PT Jump Shot (4 PTS) (Maxey 2 AST),Made Shot,Jump Shot,1,3,99
+22400631,137,PT02M22.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,27,31,58,v,Mitchell Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0,100
+22400631,137,PT02M22.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,27,31,58,h,Bona STEAL (1 STL),,,1,0,101
+22400631,140,PT02M15.00S,1,0,,1610612739,,,0,0,0,,0,27,31,58,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,102
+22400631,141,PT02M03.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-130,228,26,Made,1,30,31,61,h,Maxey 26' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,103
+22400631,142,PT01M50.00S,1,1610612739,CLE,1627777,Niang,G. Niang,-29,-10,3,Made,1,30,33,63,v,Niang 3' Driving Floating Jump Shot (5 PTS) (Mitchell 3 AST),Made Shot,Driving Floating Jump Shot,1,2,104
+22400631,144,PT01M34.00S,1,1610612755,PHI,201569,Gordon,E. Gordon,-183,216,28,Made,1,33,33,66,h,Gordon 28' 3PT Jump Shot (5 PTS) (Maxey 3 AST),Made Shot,Jump Shot,1,3,105
+22400631,146,PT01M17.00S,1,1610612739,CLE,1627777,Niang,G. Niang,108,224,25,Missed,1,33,33,66,v,MISS Niang 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,106
+22400631,147,PT01M16.00S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,33,33,66,h,Bona REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,107
+22400631,148,PT01M03.00S,1,1610612755,PHI,1642348,Edwards,J. Edwards,-188,199,27,Made,1,36,33,69,h,Edwards 27' 3PT Jump Shot (7 PTS) (Maxey 4 AST),Made Shot,Jump Shot,1,3,108
+22400631,150,PT00M50.10S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,112,130,17,Missed,1,36,33,69,v,MISS Mitchell 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,109
+22400631,151,PT00M47.80S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,36,33,69,v,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,110
+22400631,152,PT00M46.60S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,36,33,69,v,Thompson Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,111
+22400631,152,PT00M46.60S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,36,33,69,h,Oubre Jr. STEAL (1 STL),,,1,0,112
+22400631,154,PT00M36.50S,1,1610612755,PHI,1630178,Maxey,T. Maxey,15,10,2,Made,1,38,33,71,h,Maxey 2' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,113
+22400631,155,PT00M27.90S,1,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,38,33,71,v,Jerome Traveling Turnover (P1.T5),Turnover,Traveling,1,0,114
+22400631,156,PT00M27.90S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,38,33,71,v,SUB: Wade FOR Niang,Substitution,,0,0,115
+22400631,158,PT00M27.90S,1,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,38,33,71,h,SUB: Yabusele FOR Bona,Substitution,,0,0,116
+22400631,163,PT00M08.90S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,38,33,71,v,Cavaliers T.Foul (Def. 3 Sec Mitchell ) (J.Orr),Foul,Defense 3 Second,1,0,117
+22400631,164,PT00M08.90S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,39,33,72,h,Maxey Free Throw Technical (14 PTS),Free Throw,Free Throw Technical,1,0,118
+22400631,165,PT00M04.20S,1,1610612755,PHI,1630178,Maxey,T. Maxey,97,275,29,Missed,1,39,33,72,h,MISS Maxey 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,119
+22400631,166,PT00M02.10S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,39,33,72,v,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,120
+22400631,167,PT00M00.00S,1,0,,0,,,0,0,0,,0,39,33,72,,End of 1st Period (7:40 PM EST),period,end,1,0,121
+22400631,174,PT12M00.00S,2,0,,0,,,0,0,0,,0,39,33,72,,Start of 2nd Period (7:42 PM EST),period,start,0,0,122
+22400631,175,PT11M45.00S,2,1610612755,PHI,202331,George,P. George,-102,127,16,Missed,1,39,33,72,h,MISS George 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,123
+22400631,176,PT11M42.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,39,33,72,v,Niang REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,124
+22400631,177,PT11M35.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,49,251,26,Made,1,39,36,75,v,Mitchell 26' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,3,125
+22400631,178,PT11M25.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,39,36,75,v,Niang P.FOUL (P3.T1) (M.Ervin),Foul,Personal,1,0,126
+22400631,180,PT11M25.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,39,36,75,v,SUB: Tyson FOR Niang,Substitution,,0,0,127
+22400631,182,PT11M13.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,39,36,75,h,George Lost Ball Turnover (P3.T6),Turnover,Lost Ball,1,0,128
+22400631,182,PT11M13.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,39,36,75,v,Jerome STEAL (2 STL),,,1,0,129
+22400631,184,PT10M57.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,29,263,26,Made,1,39,39,78,v,Jerome 26' 3PT Pullup Jump Shot (6 PTS) (Mitchell 4 AST),Made Shot,Pullup Jump shot,1,3,130
+22400631,186,PT10M34.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,18,264,26,Made,1,42,39,81,h,Yabusele 26' 3PT Jump Shot (6 PTS) (George 2 AST),Made Shot,Jump Shot,1,3,131
+22400631,188,PT10M25.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,42,39,81,v,Thompson OFF.Foul (P2) (M.Ervin),Foul,Offensive,1,0,132
+22400631,190,PT10M25.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,42,39,81,v,Thompson Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,133
+22400631,192,PT10M04.00S,2,1610612755,PHI,202331,George,P. George,-175,194,26,Missed,1,42,39,81,h,MISS George 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,134
+22400631,193,PT10M00.00S,2,1610612739,CLE,1642281,Tyson,J. Tyson,0,0,0,,0,42,39,81,v,Tyson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,135
+22400631,194,PT09M54.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,-1,253,25,Made,1,42,42,84,v,Mitchell 25' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,3,136
+22400631,195,PT09M35.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,-232,133,27,Missed,1,42,42,84,h,MISS Edwards 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+22400631,196,PT09M33.00S,2,1610612739,CLE,1642281,Tyson,J. Tyson,0,0,0,,0,42,42,84,v,Tyson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,138
+22400631,197,PT09M27.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,-15,245,25,Missed,1,42,42,84,v,MISS Mitchell 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,139
+22400631,198,PT09M24.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,42,42,84,h,George REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+22400631,199,PT09M16.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,42,42,84,h,Yabusele Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,141
+22400631,199,PT09M16.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,42,42,84,v,Mitchell STEAL (1 STL),,,1,0,142
+22400631,201,PT09M12.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,-151,192,24,Missed,1,42,42,84,v,MISS Merrill 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,143
+22400631,202,PT09M11.00S,2,0,,1610612739,,,0,0,0,,0,42,42,84,v,Cavaliers Rebound,Rebound,Unknown,0,0,144
+22400631,203,PT09M11.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,42,42,84,h,Edwards L.B.FOUL (P1.T1) (R.Hussey),Foul,Loose Ball,1,0,145
+22400631,205,PT09M05.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,42,42,84,h,George P.FOUL (P2.T2) (J.Orr),Foul,Personal,1,0,146
+22400631,207,PT08M55.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,42,42,84,v,Mitchell Lost Ball Turnover (P3.T7),Turnover,Lost Ball,1,0,147
+22400631,207,PT08M55.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,42,42,84,h,Edwards STEAL (1 STL),,,1,0,148
+22400631,209,PT08M50.00S,2,1610612755,PHI,201569,Gordon,E. Gordon,34,0,3,Missed,1,42,42,84,h,MISS Gordon 3' Running Layup,Missed Shot,Running Layup Shot,1,2,149
+22400631,209,PT08M50.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,42,42,84,v,Thompson BLOCK (1 BLK),,,1,2,150
+22400631,211,PT08M48.00S,2,0,,1610612755,,,0,0,0,,0,42,42,84,h,76ERS Rebound,Rebound,Unknown,0,0,151
+22400631,213,PT08M48.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,42,42,84,v,SUB: Allen FOR Thompson,Substitution,,0,0,152
+22400631,214,PT08M48.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,42,42,84,v,SUB: Garland FOR Mitchell,Substitution,,0,0,153
+22400631,217,PT08M31.00S,2,1610612755,PHI,201569,Gordon,E. Gordon,-26,199,20,Missed,1,42,42,84,h,MISS Gordon 20' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,154
+22400631,218,PT08M28.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,42,42,84,v,Allen REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,155
+22400631,219,PT08M20.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,42,42,84,h,Edwards S.FOUL (P2.T3) (J.Orr),Foul,Shooting,1,0,156
+22400631,221,PT08M20.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,42,43,85,v,Jerome Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,157
+22400631,222,PT08M20.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,42,43,85,h,SUB: Oubre Jr. FOR Edwards,Substitution,,0,0,158
+22400631,223,PT08M20.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,42,43,85,v,SUB: Wade FOR Merrill,Substitution,,0,0,159
+22400631,226,PT08M20.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,42,44,86,v,Jerome Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,160
+22400631,227,PT08M07.00S,2,1610612755,PHI,201569,Gordon,E. Gordon,82,267,28,Made,1,45,44,89,h,Gordon 28' 3PT Jump Shot (8 PTS) (Dowtin Jr. 1 AST),Made Shot,Jump Shot,1,3,161
+22400631,229,PT07M47.00S,2,1610612739,CLE,1629731,Wade,D. Wade,-80,234,25,Missed,1,45,44,89,v,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,162
+22400631,230,PT07M45.00S,2,0,,1610612755,,,0,0,0,,0,45,44,89,h,76ERS Rebound,Rebound,Unknown,1,0,163
+22400631,232,PT07M45.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,45,44,89,v,SUB: Strus FOR Jerome,Substitution,,0,0,164
+22400631,234,PT07M25.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,45,44,89,h,George Out of Bounds - Bad Pass Turnover Turnover (P4.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,165
+22400631,239,PT07M16.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,45,44,89,v,Garland Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,166
+22400631,238,PT07M16.00S,2,0,,1610612755,,,0,0,0,,0,45,44,89,h,76ERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,167
+22400631,240,PT07M02.00S,2,1610612755,PHI,202331,George,P. George,6,18,2,Made,1,47,44,91,h,George 2' Cutting Dunk Shot (5 PTS) (Oubre Jr. 1 AST),Made Shot,Cutting Dunk Shot,1,2,168
+22400631,242,PT06M48.00S,2,1610612739,CLE,1629636,Garland,D. Garland,7,30,3,Missed,1,47,44,91,v,MISS Garland 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,169
+22400631,242,PT06M48.00S,2,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,47,44,91,h,Dowtin Jr. BLOCK (1 BLK),,,1,2,170
+22400631,244,PT06M46.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,47,44,91,h,Yabusele REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,171
+22400631,245,PT06M43.00S,2,1610612755,PHI,202331,George,P. George,-13,17,2,Made,1,49,44,93,h,George 2' Running Layup (7 PTS) (Yabusele 2 AST),Made Shot,Running Layup Shot,1,2,172
+22400631,246,PT06M43.00S,2,1610612739,CLE,1642281,Tyson,J. Tyson,0,0,0,,0,49,44,93,v,Tyson Violation:Defensive Goaltending (M.Ervin),Violation,Defensive Goaltending,1,0,173
+22400631,247,PT06M24.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-6,1,1,Made,1,49,46,95,v,Garland 1' Driving Finger Roll Layup (8 PTS) (Wade 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,174
+22400631,250,PT06M10.00S,2,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,49,46,95,h,SUB: Maxey FOR Dowtin Jr.,Substitution,,0,0,175
+22400631,253,PT05M57.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,-6,111,11,Missed,1,49,46,95,h,MISS Yabusele 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,176
+22400631,254,PT05M54.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,49,46,95,v,Strus REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,177
+22400631,255,PT05M49.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,49,46,95,h,Yabusele P.FOUL (P2.T4) (M.Ervin),Foul,Personal,1,0,178
+22400631,257,PT05M39.00S,2,1610612739,CLE,1628386,Allen,J. Allen,-15,3,2,Made,1,49,48,97,v,Allen 2' Turnaround Hook Shot (2 PTS) (Wade 2 AST),Made Shot,Turnaround Hook Shot,1,2,179
+22400631,259,PT05M17.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,2,104,10,Missed,1,49,48,97,h,MISS Oubre Jr. 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,180
+22400631,260,PT05M14.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,49,48,97,v,Allen REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,181
+22400631,261,PT05M03.00S,2,1610612739,CLE,1629636,Garland,D. Garland,94,157,18,Missed,1,49,48,97,v,MISS Garland 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,182
+22400631,262,PT05M01.00S,2,0,,1610612755,,,0,0,0,,0,49,48,97,h,76ERS Rebound,Rebound,Unknown,0,0,183
+22400631,264,PT04M44.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,49,48,97,h,Maxey Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,184
+22400631,264,PT04M44.00S,2,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,49,48,97,v,Wade STEAL (1 STL),,,1,0,185
+22400631,266,PT04M41.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,49,48,97,h,Maxey S.FOUL (P1.PN) (R.Hussey),Foul,Shooting,1,0,186
+22400631,268,PT04M41.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,49,49,98,v,Garland Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,187
+22400631,269,PT04M41.00S,2,1610612755,PHI,201569,Gordon,E. Gordon,0,0,0,,0,49,49,98,h,SUB: Bona FOR Gordon,Substitution,,0,0,188
+22400631,270,PT04M41.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,49,49,98,h,SUB: Edwards FOR Yabusele,Substitution,,0,0,189
+22400631,273,PT04M41.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,49,50,99,v,Garland Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,190
+22400631,274,PT04M23.00S,2,1610612755,PHI,202331,George,P. George,89,96,13,Made,1,51,50,101,h,George 13' Turnaround Fadeaway (9 PTS),Made Shot,Turnaround Fadeaway shot,1,2,191
+22400631,275,PT04M12.00S,2,1610612739,CLE,1629636,Garland,D. Garland,37,184,19,Made,1,51,52,103,v,Garland 19' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,192
+22400631,276,PT03M54.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-38,44,6,Missed,1,51,52,103,h,MISS Oubre Jr. 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,193
+22400631,276,PT03M54.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,51,52,103,v,Allen BLOCK (1 BLK),,,1,2,194
+22400631,278,PT03M53.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,51,52,103,h,Edwards REBOUND (Off:4 Def:0),Rebound,Unknown,1,0,195
+22400631,279,PT03M52.00S,2,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,51,52,103,h,Edwards Traveling Turnover (P1.T10),Turnover,Traveling,1,0,196
+22400631,280,PT03M40.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-21,152,15,Missed,1,51,52,103,v,MISS Garland 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,197
+22400631,281,PT03M37.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,51,52,103,h,Maxey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,198
+22400631,282,PT03M32.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,223,2,0,Made,1,54,52,106,h,Oubre Jr. 3PT Running Jump Shot (8 PTS) (Edwards 1 AST),Made Shot,Running Jump Shot,1,3,199
+22400631,284,PT03M10.00S,2,1610612739,CLE,1628386,Allen,J. Allen,12,24,3,Missed,1,54,52,106,v,MISS Allen 3' Layup,Missed Shot,Layup Shot,1,2,200
+22400631,285,PT03M08.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,54,52,106,v,Allen REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,201
+22400631,286,PT03M07.00S,2,1610612739,CLE,1628386,Allen,J. Allen,1,15,2,Made,1,54,54,108,v,Allen 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,202
+22400631,287,PT02M58.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,54,54,108,v,Allen S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,1,0,203
+22400631,289,PT02M58.00S,2,0,,1610612739,,,0,0,0,,0,54,54,108,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,204
+22400631,290,PT02M58.00S,2,1610612739,CLE,1642281,Tyson,J. Tyson,0,0,0,,0,54,54,108,v,SUB: Jerome FOR Tyson,Substitution,,0,0,205
+22400631,291,PT02M58.00S,2,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,54,54,108,v,SUB: Mitchell FOR Wade,Substitution,,0,0,206
+22400631,294,PT02M58.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,54,54,108,h,SUB: Dowtin Jr. FOR George,Substitution,,0,0,207
+22400631,296,PT02M58.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,55,54,109,h,Bona Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,208
+22400631,297,PT02M58.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,56,54,110,h,Bona Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,209
+22400631,298,PT02M40.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,-59,247,25,Made,1,56,57,113,v,Mitchell 25' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,210
+22400631,299,PT02M15.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-36,27,5,Made,1,58,57,115,h,Oubre Jr. 5' Driving Floating Bank Jump Shot (10 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,211
+22400631,301,PT02M15.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,58,57,115,v,Strus S.FOUL (P1.T3) (R.Hussey),Foul,Shooting,1,0,212
+22400631,303,PT02M15.00S,2,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,58,57,115,h,SUB: Yabusele FOR Bona,Substitution,,0,0,213
+22400631,305,PT02M15.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,59,57,116,h,Oubre Jr. Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,214
+22400631,307,PT02M01.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,-121,222,25,Made,1,59,60,119,v,Jerome 25' 3PT Jump Shot (11 PTS) (Garland 2 AST),Made Shot,Jump Shot,1,3,215
+22400631,309,PT01M47.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-59,264,27,Made,1,62,60,122,h,Maxey 27' 3PT Jump Shot (17 PTS) (Dowtin Jr. 2 AST),Made Shot,Jump Shot,1,3,216
+22400631,311,PT01M33.00S,2,1610612739,CLE,1628386,Allen,J. Allen,-1,21,2,Made,1,62,62,124,v,Allen 2' Cutting Layup Shot (6 PTS) (Garland 3 AST),Made Shot,Cutting Layup Shot,1,2,217
+22400631,313,PT01M15.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,-86,259,27,Missed,1,62,62,124,h,MISS Yabusele 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+22400631,314,PT01M12.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,62,62,124,v,Jerome REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,219
+22400631,315,PT01M05.00S,2,1610612739,CLE,1629622,Strus,M. Strus,234,94,25,Missed,1,62,62,124,v,MISS Strus 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,220
+22400631,316,PT01M02.00S,2,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,62,62,124,h,Yabusele REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,221
+22400631,317,PT00M50.40S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-121,249,28,Missed,1,62,62,124,h,MISS Oubre Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,222
+22400631,318,PT00M48.60S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,62,62,124,v,Allen REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,223
+22400631,319,PT00M38.20S,2,1610612739,CLE,1629622,Strus,M. Strus,163,218,27,Made,1,62,65,127,v,Strus 27' 3PT Jump Shot (6 PTS) (Garland 4 AST),Made Shot,Jump Shot,1,3,224
+22400631,321,PT00M33.30S,2,1610612755,PHI,1630178,Maxey,T. Maxey,60,27,7,Made,1,64,65,129,h,Maxey 7' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,1,2,225
+22400631,322,PT00M11.50S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,12,257,26,Missed,1,64,65,129,v,MISS Mitchell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,226
+22400631,323,PT00M08.90S,2,0,,1610612739,,,0,0,0,,0,64,65,129,v,Cavaliers Rebound,Rebound,Unknown,0,0,227
+22400631,326,PT00M03.70S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,-15,-7,2,Made,1,64,67,131,v,Mitchell 2' Driving Layup (16 PTS) (Strus 2 AST),Made Shot,Driving Layup Shot,1,2,228
+22400631,328,PT00M00.10S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-88,256,27,Missed,1,64,67,131,h,MISS Maxey 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,229
+22400631,329,PT00M00.10S,2,0,,1610612755,,,0,0,0,,0,64,67,131,h,76ERS Rebound,Rebound,Unknown,1,0,230
+22400631,330,PT00M00.00S,2,0,,0,,,0,0,0,,0,64,67,131,,End of 2nd Period (8:09 PM EST),period,end,1,0,231
+22400631,337,PT12M00.00S,3,0,,0,,,0,0,0,,0,64,67,131,,Start of 3rd Period (8:25 PM EST),period,start,0,0,232
+22400631,338,PT11M40.00S,3,1610612755,PHI,202331,George,P. George,0,250,25,Made,1,67,67,134,h,George 25' 3PT Pullup Jump Shot (12 PTS) (Oubre Jr. 2 AST),Made Shot,Pullup Jump shot,0,3,233
+22400631,340,PT11M28.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-132,252,28,Made,1,67,70,137,v,Garland 28' 3PT Jump Shot (15 PTS) (Wade 3 AST),Made Shot,Jump Shot,1,3,234
+22400631,342,PT11M12.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,67,70,137,h,George Bad Pass Turnover (P5.T11),Turnover,Bad Pass,1,0,235
+22400631,342,PT11M12.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,67,70,137,v,Mitchell STEAL (2 STL),,,1,0,236
+22400631,344,PT11M07.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,67,70,137,v,Allen Traveling Turnover (P1.T9),Turnover,Traveling,1,0,237
+22400631,345,PT11M02.00S,3,0,,338,,,0,0,0,,0,67,70,137,,Instant Replay3rd Period (8:26 PM EST),Instant Replay,Replay Center,0,0,238
+22400631,346,PT10M49.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-5,36,4,Made,1,69,70,139,h,Maxey 4' Driving Finger Roll Layup (21 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,239
+22400631,347,PT10M37.00S,3,1610612739,CLE,1628386,Allen,J. Allen,-11,79,8,Made,1,69,72,141,v,Allen 8' Floating Jump Shot (8 PTS) (Wade 4 AST),Made Shot,Floating Jump shot,1,2,240
+22400631,367,PT10M17.00S,3,1610612755,PHI,202331,George,P. George,9,4,1,Missed,1,69,72,141,h,MISS George 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,241
+22400631,367,PT10M17.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,69,72,141,v,Strus BLOCK (1 BLK),,,1,2,242
+22400631,369,PT10M16.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,69,72,141,v,Strus REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,243
+22400631,351,PT10M09.00S,3,1610612739,CLE,1629636,Garland,D. Garland,9,275,28,Missed,1,69,72,141,v,MISS Garland 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,244
+22400631,352,PT10M05.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,69,72,141,h,Yabusele REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,245
+22400631,353,PT09M48.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-67,129,15,Missed,1,69,72,141,h,MISS Maxey 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,246
+22400631,354,PT09M45.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,69,72,141,v,Garland REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,247
+22400631,355,PT09M40.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,69,72,141,v,Garland Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,248
+22400631,355,PT09M40.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,69,72,141,h,George STEAL (1 STL),,,1,0,249
+22400631,357,PT09M35.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-225,119,25,Missed,1,69,72,141,h,MISS Maxey 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,250
+22400631,358,PT09M32.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,69,72,141,h,Yabusele REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,251
+22400631,359,PT09M30.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-2,250,25,Missed,1,69,72,141,h,MISS Oubre Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,252
+22400631,360,PT09M26.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,69,72,141,v,Allen REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,253
+22400631,361,PT09M16.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,-161,223,28,Made,1,69,75,144,v,Mitchell 28' 3PT Jump Shot (19 PTS) (Garland 5 AST),Made Shot,Jump Shot,1,3,254
+22400631,363,PT08M58.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,-18,109,11,Missed,1,69,75,144,h,MISS Yabusele 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,255
+22400631,364,PT08M56.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,69,75,144,v,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,256
+22400631,365,PT08M48.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,-2,20,2,Made,1,69,77,146,v,Mitchell 2' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,2,257
+22400631,366,PT08M38.00S,3,0,,1610612755,,,0,0,0,,0,69,77,146,h,76ERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,258
+22400631,370,PT08M28.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,31,246,25,Missed,1,69,77,146,h,MISS Maxey 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,259
+22400631,371,PT08M25.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,69,77,146,v,Strus REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,260
+22400631,372,PT08M20.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,69,77,146,v,Allen Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,261
+22400631,373,PT08M01.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,69,77,146,v,Wade S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,1,0,262
+22400631,375,PT08M01.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,70,77,147,h,Yabusele Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,263
+22400631,376,PT08M01.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,71,77,148,h,Yabusele Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,264
+22400631,377,PT07M55.00S,3,1610612739,CLE,1629636,Garland,D. Garland,66,263,27,Missed,1,71,77,148,v,MISS Garland 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,265
+22400631,378,PT07M51.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,71,77,148,h,Yabusele REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,266
+22400631,379,PT07M44.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,-4,-6,1,Made,1,73,77,150,h,Yabusele 1' Driving Dunk (10 PTS) (Oubre Jr. 3 AST),Made Shot,Driving Dunk Shot,1,2,267
+22400631,381,PT07M30.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,71,263,27,Missed,1,73,77,150,v,MISS Mitchell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,268
+22400631,382,PT07M27.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,73,77,150,h,George REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,269
+22400631,383,PT07M14.00S,3,1610612755,PHI,202331,George,P. George,214,153,26,Made,1,76,77,153,h,George 26' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,3,270
+22400631,384,PT07M13.00S,3,0,,1610612739,,,0,0,0,,0,76,77,153,v,Cavaliers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,271
+22400631,385,PT07M13.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,76,77,153,v,SUB: Niang FOR Allen,Substitution,,0,0,272
+22400631,386,PT07M13.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,76,77,153,v,SUB: Jerome FOR Mitchell,Substitution,,0,0,273
+22400631,389,PT06M54.00S,3,1610612739,CLE,1629636,Garland,D. Garland,228,71,24,Made,1,76,80,156,v,Garland 24' 3PT Jump Shot (18 PTS) (Niang 1 AST),Made Shot,Jump Shot,1,3,274
+22400631,391,PT06M27.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,15,6,2,Missed,1,76,80,156,h,MISS Maxey 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,275
+22400631,392,PT06M25.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,76,80,156,h,Oubre Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,276
+22400631,393,PT06M25.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,Made,1,78,80,158,h,Oubre Jr. Putback Layup (13 PTS),Made Shot,Putback Layup Shot,1,2,277
+22400631,394,PT06M13.00S,3,1610612739,CLE,1629660,Jerome,T. Jerome,-5,50,5,Made,1,78,82,160,v,Jerome 5' Driving Floating Jump Shot (13 PTS) (Garland 6 AST),Made Shot,Driving Floating Jump Shot,1,2,278
+22400631,396,PT05M57.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,78,82,160,h,Yabusele Out of Bounds - Bad Pass Turnover Turnover (P2.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,279
+22400631,397,PT05M47.00S,3,1610612739,CLE,1629622,Strus,M. Strus,-96,257,27,Missed,1,78,82,160,v,MISS Strus 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,280
+22400631,398,PT05M43.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,78,82,160,h,Maxey REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,281
+22400631,399,PT05M37.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,13,8,2,Made,1,80,82,162,h,Maxey 2' Driving Layup (23 PTS),Made Shot,Driving Layup Shot,1,2,282
+22400631,400,PT05M27.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-183,209,28,Missed,1,80,82,162,v,MISS Garland 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,283
+22400631,401,PT05M19.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,80,82,162,v,Strus REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,284
+22400631,402,PT05M16.00S,3,1610612739,CLE,1629660,Jerome,T. Jerome,-235,48,24,Made,1,80,85,165,v,Jerome 24' 3PT Jump Shot (16 PTS) (Niang 2 AST),Made Shot,Jump Shot,1,3,285
+22400631,404,PT05M04.00S,3,1610612755,PHI,202331,George,P. George,-185,168,25,Made,1,83,85,168,h,George 25' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,3,286
+22400631,405,PT04M53.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-31,25,4,Missed,1,83,85,168,v,MISS Garland 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,287
+22400631,406,PT04M50.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,83,85,168,h,Oubre Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,288
+22400631,407,PT04M47.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,15,67,7,Made,1,85,85,170,h,Oubre Jr. 7' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,1,2,289
+22400631,408,PT04M47.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,85,85,170,v,Wade S.FOUL (P2.T2) (J.Orr),Foul,Shooting,1,0,290
+22400631,410,PT04M47.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,85,85,170,h,SUB: Edwards FOR Yabusele,Substitution,,0,0,291
+22400631,411,PT04M47.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,85,85,170,v,SUB: Merrill FOR Strus,Substitution,,0,0,292
+22400631,414,PT04M47.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,86,85,171,h,Oubre Jr. Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0,293
+22400631,415,PT04M34.00S,3,1610612739,CLE,1629636,Garland,D. Garland,1,16,2,Made,1,86,87,173,v,Garland 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,294
+22400631,416,PT04M20.00S,3,1610612755,PHI,202331,George,P. George,11,3,1,Made,1,88,87,175,h,George 1' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,295
+22400631,418,PT04M10.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-161,216,27,Missed,1,88,87,175,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,296
+22400631,419,PT04M09.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,88,87,175,h,Edwards REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,297
+22400631,420,PT03M57.00S,3,1610612755,PHI,202331,George,P. George,234,71,24,Missed,1,88,87,175,h,MISS George 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,298
+22400631,421,PT03M53.00S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,88,87,175,v,Niang REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,299
+22400631,422,PT03M43.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-132,254,29,Made,1,88,90,178,v,Garland 29' 3PT Pullup Jump Shot (23 PTS) (Jerome 2 AST),Made Shot,Pullup Jump shot,1,3,300
+22400631,424,PT03M30.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,13,26,3,Missed,1,88,90,178,h,MISS Maxey 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,301
+22400631,425,PT03M28.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,88,90,178,h,Oubre Jr. REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,302
+22400631,426,PT03M26.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,Made,1,90,90,180,h,Oubre Jr. Tip Layup Shot (18 PTS),Made Shot,Tip Layup Shot,1,2,303
+22400631,427,PT03M15.00S,3,1610612739,CLE,1627777,Niang,G. Niang,-232,26,0,Missed,1,90,90,180,v,MISS Niang 3PT Jump Shot,Missed Shot,Jump Shot,1,3,304
+22400631,428,PT03M13.00S,3,0,,1610612755,,,0,0,0,,0,90,90,180,h,76ERS Rebound,Rebound,Unknown,1,0,305
+22400631,429,PT03M12.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,90,90,180,v,Garland L.B.FOUL (P1.T3) (J.Orr),Foul,Loose Ball,1,0,306
+22400631,431,PT03M12.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,90,90,180,v,SUB: Allen FOR Garland,Substitution,,0,0,307
+22400631,432,PT03M12.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,90,90,180,v,SUB: Mitchell FOR Wade,Substitution,,0,0,308
+22400631,435,PT03M00.00S,3,1610612755,PHI,202331,George,P. George,233,47,24,Made,1,93,90,183,h,George 24' 3PT Jump Shot (23 PTS) (Maxey 5 AST),Made Shot,Jump Shot,1,3,309
+22400631,437,PT02M48.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,-170,184,25,Missed,1,93,90,183,v,MISS Mitchell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+22400631,438,PT02M46.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,93,90,183,v,Allen REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,311
+22400631,439,PT02M46.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,Missed,1,93,90,183,v,MISS Allen Putback Layup,Missed Shot,Putback Layup Shot,1,2,312
+22400631,439,PT02M46.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,93,90,183,h,Edwards BLOCK (1 BLK),,,1,2,313
+22400631,440,PT02M45.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,93,90,183,h,George REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,314
+22400631,441,PT02M36.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,93,90,183,v,Mitchell S.FOUL (P1.T4) (M.Ervin),Foul,Shooting,1,0,315
+22400631,443,PT02M36.00S,3,1610612755,PHI,201569,Gordon,E. Gordon,0,0,0,,0,94,90,184,h,Gordon Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,316
+22400631,444,PT02M36.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,94,90,184,h,SUB: Bona FOR Maxey,Substitution,,0,0,317
+22400631,446,PT02M36.00S,3,1610612755,PHI,201569,Gordon,E. Gordon,0,0,0,,0,94,90,184,h,MISS Gordon Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,318
+22400631,447,PT02M34.00S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,94,90,184,v,Niang REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,319
+22400631,449,PT02M12.00S,3,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,94,90,184,v,Jerome Traveling Turnover (P2.T12),Turnover,Traveling,1,0,320
+22400631,450,PT01M55.00S,3,1610612755,PHI,1641737,Bona,A. Bona,0,0,0,,0,94,90,184,h,Bona Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0,321
+22400631,450,PT01M55.00S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,94,90,184,v,Niang STEAL (1 STL),,,1,0,322
+22400631,452,PT01M47.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,94,90,184,h,Oubre Jr. S.FOUL (P2.T1) (M.Ervin),Foul,Shooting,1,0,323
+22400631,454,PT01M47.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,94,91,185,v,Mitchell Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,324
+22400631,456,PT01M47.00S,3,1610612755,PHI,201569,Gordon,E. Gordon,0,0,0,,0,94,91,185,h,SUB: Dowtin Jr. FOR Gordon,Substitution,,0,0,325
+22400631,458,PT01M47.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,94,91,185,v,MISS Mitchell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,326
+22400631,459,PT01M45.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,94,91,185,h,George REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,327
+22400631,460,PT01M23.00S,3,1610612755,PHI,1642348,Edwards,J. Edwards,-78,248,26,Missed,1,94,91,185,h,MISS Edwards 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,328
+22400631,461,PT01M21.00S,3,0,,1610612739,,,0,0,0,,0,94,91,185,v,Cavaliers Rebound,Rebound,Unknown,0,0,329
+22400631,463,PT01M13.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-114,253,28,Missed,1,94,91,185,v,MISS Merrill 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+22400631,464,PT01M12.00S,3,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,94,91,185,h,Dowtin Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,331
+22400631,465,PT01M03.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,94,91,185,h,George Lost Ball Turnover (P6.T14),Turnover,Lost Ball,1,0,332
+22400631,465,PT01M03.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,94,91,185,v,Mitchell STEAL (3 STL),,,1,0,333
+22400631,467,PT00M58.70S,3,1610612739,CLE,1629660,Jerome,T. Jerome,1,20,2,Missed,1,94,91,185,v,MISS Jerome 2' Running Layup,Missed Shot,Running Layup Shot,1,2,334
+22400631,468,PT00M57.10S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,94,91,185,v,Merrill REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,335
+22400631,469,PT00M51.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,94,91,185,v,Merrill Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,336
+22400631,469,PT00M51.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,94,91,185,h,Oubre Jr. STEAL (2 STL),,,1,0,337
+22400631,471,PT00M34.30S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-2,57,6,Missed,1,94,91,185,h,MISS Oubre Jr. 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,338
+22400631,472,PT00M33.40S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,94,91,185,h,Oubre Jr. REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,339
+22400631,473,PT00M33.40S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,Made,1,96,91,187,h,Oubre Jr. Putback Layup (20 PTS),Made Shot,Putback Layup Shot,1,2,340
+22400631,474,PT00M28.10S,3,1610612739,CLE,1629660,Jerome,T. Jerome,2,23,2,Made,1,96,93,189,v,Jerome 2' Driving Finger Roll Layup (18 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,341
+22400631,475,PT00M08.80S,3,1610612755,PHI,1642348,Edwards,J. Edwards,9,13,2,Made,1,98,93,191,h,Edwards 2' Driving Finger Roll Layup (9 PTS) (Dowtin Jr. 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,342
+22400631,477,PT00M00.30S,3,1610612739,CLE,1629660,Jerome,T. Jerome,82,275,29,Made,1,98,96,194,v,Jerome 29' 3PT Jump Shot (21 PTS) (Mitchell 5 AST),Made Shot,Jump Shot,1,3,343
+22400631,480,PT00M00.00S,3,0,,477,,,0,0,0,,0,98,96,194,,Instant Replay3rd Period (8:49 PM EST),Instant Replay,Support Ruling,0,0,344
+22400631,479,PT00M00.00S,3,0,,0,,,0,0,0,,0,98,96,194,,End of 3rd Period (8:49 PM EST),period,end,1,0,345
+22400631,491,PT12M00.00S,4,0,,0,,,0,0,0,,0,98,96,194,,Start of 4th Period (8:52 PM EST),period,start,0,0,346
+22400631,492,PT11M46.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,-6,104,10,Made,1,98,98,196,v,Jerome 10' Driving Floating Jump Shot (23 PTS) (Thompson 1 AST),Made Shot,Driving Floating Jump Shot,1,2,347
+22400631,494,PT11M22.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,98,98,196,v,Merrill S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,1,0,348
+22400631,496,PT11M22.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,99,98,197,h,Maxey Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,349
+22400631,497,PT11M22.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,100,98,198,h,Maxey Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,350
+22400631,498,PT11M03.00S,4,1610612739,CLE,1642281,Tyson,J. Tyson,219,92,24,Made,1,100,101,201,v,Tyson 24' 3PT Jump Shot (3 PTS) (Merrill 1 AST),Made Shot,Jump Shot,1,3,351
+22400631,500,PT10M48.00S,4,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,18,156,16,Made,1,102,101,203,h,Dowtin Jr. 16' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,352
+22400631,501,PT10M32.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-5,26,3,Made,1,102,103,205,v,Mitchell 3' Driving Finger Roll Layup (24 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,353
+22400631,503,PT10M11.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,239,88,25,Made,1,105,103,208,h,Edwards 25' 3PT Jump Shot (12 PTS) (Gordon 3 AST),Made Shot,Jump Shot,1,3,354
+22400631,505,PT09M58.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-12,43,4,Missed,1,105,103,208,v,MISS Mitchell 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,355
+22400631,505,PT09M58.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,105,103,208,h,Yabusele BLOCK (2 BLK),,,1,2,356
+22400631,507,PT09M55.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,105,103,208,v,Mitchell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,357
+22400631,508,PT09M51.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-11,18,2,Made,1,105,105,210,v,Mitchell 2' Layup (26 PTS) (Jerome 3 AST),Made Shot,Layup Shot,1,2,358
+22400631,510,PT09M34.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,-1,9,1,Made,1,107,105,212,h,Yabusele 1' Driving Layup (12 PTS) (Maxey 6 AST),Made Shot,Driving Layup Shot,1,2,359
+22400631,512,PT09M26.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,-1,21,2,Missed,1,107,105,212,v,MISS Jerome 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,360
+22400631,512,PT09M26.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,107,105,212,h,Maxey BLOCK (2 BLK),,,1,2,361
+22400631,514,PT09M23.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,107,105,212,v,Thompson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,362
+22400631,515,PT09M22.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-1,42,4,Made,1,107,107,214,v,Mitchell 4' Cutting Layup Shot (28 PTS) (Thompson 2 AST),Made Shot,Cutting Layup Shot,1,2,363
+22400631,517,PT09M03.00S,4,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,-47,245,25,Made,1,110,107,217,h,Dowtin Jr. 25' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,364
+22400631,518,PT09M01.00S,4,0,,1610612739,,,0,0,0,,0,110,107,217,v,Cavaliers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,365
+22400631,519,PT09M01.00S,4,1610612755,PHI,201569,Gordon,E. Gordon,0,0,0,,0,110,107,217,h,SUB: Oubre Jr. FOR Gordon,Substitution,,0,0,366
+22400631,520,PT09M01.00S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,110,107,217,v,SUB: Allen FOR Thompson,Substitution,,0,0,367
+22400631,523,PT08M49.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,10,12,2,Missed,1,110,107,217,v,MISS Jerome 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,368
+22400631,524,PT08M47.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,110,107,217,h,Edwards REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,369
+22400631,525,PT08M39.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,42,262,27,Missed,1,110,107,217,h,MISS Yabusele 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+22400631,526,PT08M35.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,110,107,217,v,Allen REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,371
+22400631,527,PT08M32.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,110,107,217,h,Oubre Jr. P.FOUL (P3.T1) (J.Orr),Foul,Personal,1,0,372
+22400631,529,PT08M22.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,108,256,28,Missed,1,110,107,217,v,MISS Merrill 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,373
+22400631,530,PT08M18.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,110,107,217,h,Yabusele REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,374
+22400631,531,PT08M01.00S,4,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,132,110,17,Missed,1,110,107,217,h,MISS Dowtin Jr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,375
+22400631,532,PT07M58.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,110,107,217,v,Merrill REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,376
+22400631,533,PT07M53.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,37,260,26,Made,1,110,110,220,v,Mitchell 26' 3PT Running Pull-Up Jump Shot (31 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,377
+22400631,534,PT07M24.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,-234,21,0,Missed,1,110,110,220,h,MISS Edwards 3PT Jump Shot,Missed Shot,Jump Shot,1,3,378
+22400631,535,PT07M21.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,110,110,220,h,Yabusele REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,379
+22400631,536,PT07M19.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,-2,14,1,Missed,1,110,110,220,h,MISS Yabusele 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,380
+22400631,536,PT07M19.00S,4,1610612739,CLE,1642281,Tyson,J. Tyson,0,0,0,,0,110,110,220,v,Tyson BLOCK (1 BLK),,,1,2,381
+22400631,538,PT07M16.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,110,110,220,v,Jerome REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,382
+22400631,539,PT07M11.00S,4,1610612739,CLE,1642281,Tyson,J. Tyson,-237,68,25,Missed,1,110,110,220,v,MISS Tyson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,383
+22400631,540,PT07M08.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,110,110,220,h,Oubre Jr. REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,384
+22400631,541,PT06M55.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,110,110,220,v,Allen P.FOUL (P2.T2) (M.Ervin),Foul,Personal,1,0,385
+22400631,543,PT06M55.00S,4,1610612755,PHI,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,110,110,220,h,SUB: George FOR Dowtin Jr.,Substitution,,0,0,386
+22400631,544,PT06M55.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,110,110,220,h,SUB: Gordon FOR Edwards,Substitution,,0,0,387
+22400631,545,PT06M55.00S,4,1610612739,CLE,1642281,Tyson,J. Tyson,0,0,0,,0,110,110,220,v,SUB: Garland FOR Tyson,Substitution,,0,0,388
+22400631,546,PT06M55.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,110,110,220,v,SUB: Strus FOR Mitchell,Substitution,,0,0,389
+22400631,551,PT06M49.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,87,251,27,Missed,1,110,110,220,h,MISS Yabusele 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,390
+22400631,552,PT06M45.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,110,110,220,v,Jerome REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,391
+22400631,553,PT06M38.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,-183,181,26,Made,1,110,113,223,v,Jerome 26' 3PT Jump Shot (26 PTS) (Merrill 2 AST),Made Shot,Jump Shot,1,3,392
+22400631,555,PT06M30.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,110,113,223,h,Oubre Jr. Offensive Charge Foul (P4) (J.Orr),Foul,Offensive Charge,1,0,393
+22400631,557,PT06M30.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,110,113,223,h,Oubre Jr. Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,1,0,394
+22400631,558,PT06M30.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,110,113,223,v,SUB: Niang FOR Merrill,Substitution,,0,0,395
+22400631,560,PT06M17.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,-158,235,28,Made,1,110,116,226,v,Jerome 28' 3PT Step Back Jump Shot (29 PTS) (Allen 1 AST),Made Shot,Step Back Jump shot,1,3,396
+22400631,562,PT06M02.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,110,116,226,v,Strus S.FOUL (P2.T3) (R.Hussey),Foul,Shooting,1,0,397
+22400631,564,PT06M02.00S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,111,116,227,h,George Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,398
+22400631,565,PT06M02.00S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,112,116,228,h,George Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,399
+22400631,566,PT05M54.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,112,116,228,v,Allen Lost Ball Turnover (P3.T14),Turnover,Lost Ball,1,0,400
+22400631,566,PT05M54.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,112,116,228,h,Oubre Jr. STEAL (3 STL),,,1,0,401
+22400631,568,PT05M52.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,5,3,1,Made,1,114,116,230,h,Oubre Jr. 1' Running Dunk (22 PTS),Made Shot,Running Dunk Shot,1,2,402
+22400631,569,PT05M32.00S,4,1610612739,CLE,1629636,Garland,D. Garland,238,84,25,Missed,1,114,116,230,v,MISS Garland 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+22400631,570,PT05M26.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,114,116,230,h,Oubre Jr. REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,404
+22400631,571,PT05M20.00S,4,1610612755,PHI,201569,Gordon,E. Gordon,-140,225,27,Made,1,117,116,233,h,Gordon 27' 3PT Jump Shot (12 PTS) (George 3 AST),Made Shot,Jump Shot,1,3,405
+22400631,573,PT04M55.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,117,116,233,h,Oubre Jr. S.FOUL (P5.T2) (R.Hussey),Foul,Shooting,1,0,406
+22400631,575,PT04M55.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,117,116,233,v,MISS Allen Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,407
+22400631,576,PT04M55.00S,4,0,,1610612739,,,0,0,0,,0,117,116,233,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0,408
+22400631,577,PT04M55.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,117,116,233,v,SUB: Mitchell FOR Strus,Substitution,,0,0,409
+22400631,579,PT04M55.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,117,116,233,v,MISS Allen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,410
+22400631,580,PT04M53.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,117,116,233,h,Yabusele REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,411
+22400631,581,PT04M31.00S,4,1610612755,PHI,202331,George,P. George,-180,166,24,Made,1,120,116,236,h,George 24' 3PT Pullup Jump Shot (28 PTS),Made Shot,Pullup Jump shot,1,3,412
+22400631,582,PT04M30.00S,4,0,,1610612739,,,0,0,0,,0,120,116,236,v,Cavaliers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,413
+22400631,583,PT04M19.00S,4,1610612739,CLE,1627777,Niang,G. Niang,-176,206,27,Missed,1,120,116,236,v,MISS Niang 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+22400631,584,PT04M17.00S,4,0,,1610612755,,,0,0,0,,0,120,116,236,h,76ERS Rebound,Rebound,Unknown,1,0,415
+22400631,586,PT04M00.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,13,11,2,Missed,1,120,116,236,h,MISS Yabusele 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,416
+22400631,587,PT03M59.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,120,116,236,h,Oubre Jr. REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,417
+22400631,601,PT03M57.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-11,8,1,Missed,1,120,116,236,h,MISS Oubre Jr. 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,418
+22400631,602,PT03M56.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,120,116,236,h,Oubre Jr. REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,419
+22400631,588,PT03M55.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,2,20,2,Missed,1,120,116,236,h,MISS Oubre Jr. 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,420
+22400631,589,PT03M55.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,120,116,236,h,Oubre Jr. REBOUND (Off:7 Def:5),Rebound,Unknown,1,0,421
+22400631,590,PT03M53.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,120,116,236,h,Oubre Jr. Lost Ball Turnover (P3.T16),Turnover,Lost Ball,1,0,422
+22400631,590,PT03M53.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,120,116,236,v,Allen STEAL (1 STL),,,1,0,423
+22400631,592,PT03M48.00S,4,1610612739,CLE,1629636,Garland,D. Garland,126,235,27,Missed,1,120,116,236,v,MISS Garland 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,424
+22400631,593,PT03M45.00S,4,0,,1610612739,,,0,0,0,,0,120,116,236,v,Cavaliers Rebound,Rebound,Unknown,1,0,425
+22400631,595,PT03M37.00S,4,1610612739,CLE,1627777,Niang,G. Niang,6,25,3,Missed,1,120,116,236,v,MISS Niang 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,426
+22400631,596,PT03M35.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,120,116,236,h,Yabusele REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,427
+22400631,597,PT03M19.00S,4,1610612755,PHI,201569,Gordon,E. Gordon,126,230,26,Made,1,123,116,239,h,Gordon 26' 3PT Jump Shot (15 PTS) (Maxey 7 AST),Made Shot,Jump Shot,1,3,428
+22400631,599,PT03M06.00S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,123,116,239,h,George S.FOUL (P3.T3) (M.Ervin),Foul,Shooting,1,0,429
+22400631,603,PT03M06.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,123,117,240,v,Mitchell Free Throw 1 of 2 (32 PTS),Free Throw,Free Throw 1 of 2,1,0,430
+22400631,608,PT03M06.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,123,117,240,v,SUB: Strus FOR Niang,Substitution,,0,0,431
+22400631,606,PT03M06.00S,4,0,,1610612755,,,0,0,0,,0,123,117,240,h,76ERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,432
+22400631,609,PT03M06.00S,4,0,,1610612755,,,0,0,0,,0,123,117,240,h,76ERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,433
+22400631,610,PT03M06.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,123,117,240,v,MISS Mitchell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,434
+22400631,611,PT03M03.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,123,117,240,h,Yabusele REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,435
+22400631,612,PT02M56.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,123,117,240,v,Jerome P.FOUL (P1.T4) (J.Orr),Foul,Personal,1,0,436
+22400631,614,PT02M42.00S,4,1610612755,PHI,202331,George,P. George,-225,27,0,Missed,1,123,117,240,h,MISS George 3PT Jump Shot,Missed Shot,Jump Shot,1,3,437
+22400631,615,PT02M40.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,123,117,240,h,Yabusele REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,438
+22400631,616,PT02M38.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,123,117,240,h,Yabusele Lost Ball Turnover (P3.T17),Turnover,Lost Ball,1,0,439
+22400631,616,PT02M38.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,123,117,240,v,Strus STEAL (1 STL),,,1,0,440
+22400631,618,PT02M34.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-156,231,28,Missed,1,123,117,240,v,MISS Mitchell 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,441
+22400631,619,PT02M30.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,123,117,240,h,Oubre Jr. REBOUND (Off:7 Def:6),Rebound,Unknown,1,0,442
+22400631,624,PT02M13.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,123,117,240,h,Oubre Jr. OFF.Foul (P6) (J.Orr),Foul,Offensive,1,0,443
+22400631,626,PT02M13.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,123,117,240,h,Oubre Jr. Offensive Foul Turnover (P4.T18),Turnover,Offensive Foul Turnover,1,0,444
+22400631,622,PT02M13.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,123,117,240,h,SUB: Edwards FOR Oubre Jr.,Substitution,,0,0,445
+22400631,627,PT02M03.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,123,117,240,v,Mitchell Bad Pass Turnover (P4.T15),Turnover,Bad Pass,1,0,446
+22400631,627,PT02M03.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,123,117,240,h,Edwards STEAL (2 STL),,,1,0,447
+22400631,629,PT01M49.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,123,117,240,v,Strus S.FOUL (P3.PN) (R.Hussey),Foul,Shooting,1,0,448
+22400631,631,PT01M49.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,124,117,241,h,Edwards Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,449
+22400631,632,PT01M49.00S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,125,117,242,h,Edwards Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,450
+22400631,633,PT01M41.00S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,125,117,242,h,Yabusele S.FOUL (P3.T4) (R.Hussey),Foul,Shooting,1,0,451
+22400631,635,PT01M41.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,125,118,243,v,Mitchell Free Throw 1 of 2 (33 PTS),Free Throw,Free Throw 1 of 2,1,0,452
+22400631,636,PT01M41.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,125,119,244,v,Mitchell Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,1,0,453
+22400631,637,PT01M26.00S,4,1610612755,PHI,202331,George,P. George,9,8,1,Made,1,127,119,246,h,George 1' Driving Finger Roll Layup (30 PTS) (Yabusele 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,454
+22400631,638,PT01M26.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,127,119,246,v,Mitchell S.FOUL (P2.PN) (R.Hussey),Foul,Shooting,1,0,455
+22400631,663,PT01M26.00S,4,0,,638,,,0,0,0,,0,127,119,246,,Instant Replay4th Period (9:21 PM EST),Instant Replay,Support Ruling,0,0,456
+22400631,647,PT01M26.00S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,127,119,246,h,MISS George Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,457
+22400631,648,PT01M22.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,127,119,246,v,Strus REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,458
+22400631,649,PT01M14.00S,4,1610612739,CLE,1629636,Garland,D. Garland,230,99,25,Made,1,127,122,249,v,Garland 25' 3PT Jump Shot (26 PTS) (Mitchell 6 AST),Made Shot,Jump Shot,1,3,459
+22400631,653,PT00M56.20S,4,1610612755,PHI,202331,George,P. George,-92,34,10,Missed,1,127,122,249,h,MISS George 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,460
+22400631,653,PT00M56.20S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,127,122,249,v,Strus BLOCK (2 BLK),,,1,2,461
+22400631,655,PT00M53.50S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,127,122,249,h,George REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,462
+22400631,656,PT00M52.60S,4,1610612755,PHI,202331,George,P. George,-81,9,8,Missed,1,127,122,249,h,MISS George 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,463
+22400631,657,PT00M50.30S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,127,122,249,v,Mitchell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,464
+22400631,658,PT00M45.30S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,7,275,28,Missed,1,127,122,249,v,MISS Mitchell 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,465
+22400631,659,PT00M42.00S,4,0,,1610612739,,,0,0,0,,0,127,122,249,v,Cavaliers Rebound,Rebound,Unknown,0,0,466
+22400631,661,PT00M41.00S,4,1610612755,PHI,201569,Gordon,E. Gordon,0,0,0,,0,127,122,249,h,Gordon P.FOUL (P1.PN) (M.Ervin),Foul,Personal,1,0,467
+22400631,664,PT00M41.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,127,122,249,v,MISS Jerome Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,468
+22400631,665,PT00M41.00S,4,0,,1610612739,,,0,0,0,,0,127,122,249,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0,469
+22400631,666,PT00M41.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,127,123,250,v,Jerome Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,0,470
+22400631,667,PT00M22.60S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,232,122,26,Missed,1,127,123,250,h,MISS Yabusele 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,471
+22400631,668,PT00M19.40S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,127,123,250,v,Strus REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,472
+22400631,669,PT00M12.20S,4,1610612739,CLE,1629660,Jerome,T. Jerome,-233,89,25,Made,1,127,126,253,v,Jerome 25' 3PT Jump Shot (33 PTS) (Mitchell 7 AST),Made Shot,Jump Shot,1,3,473
+22400631,671,PT00M11.50S,4,0,,1610612755,,,0,0,0,,0,127,126,253,h,76ERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,474
+22400631,672,PT00M11.50S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,127,126,253,v,SUB: Niang FOR Allen,Substitution,,0,0,475
+22400631,674,PT00M09.40S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,127,126,253,v,Garland Personal Take Foul (P2.PN) (R.Hussey),Foul,Personal Take,1,0,476
+22400631,676,PT00M09.40S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,128,126,254,h,Maxey Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,477
+22400631,677,PT00M09.40S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,128,126,254,v,SUB: Allen FOR Jerome,Substitution,,0,0,478
+22400631,678,PT00M09.40S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,128,126,254,v,SUB: Thompson FOR Garland,Substitution,,0,0,479
+22400631,681,PT00M09.40S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,129,126,255,h,Maxey Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,480
+22400631,682,PT00M09.40S,4,0,,1610612739,,,0,0,0,,0,129,126,255,v,Cavaliers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,481
+22400631,683,PT00M09.40S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,129,126,255,v,SUB: Garland FOR Allen,Substitution,,0,0,482
+22400631,684,PT00M09.40S,4,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,129,126,255,v,SUB: Jerome FOR Thompson,Substitution,,0,0,483
+22400631,687,PT00M09.40S,4,0,,1610612739,,,0,0,0,,0,129,126,255,v,Cavaliers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,484
+22400631,688,PT00M09.40S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,129,126,255,v,Jerome Out of Bounds - Bad Pass Turnover Turnover (P3.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0,485
+22400631,689,PT00M09.40S,4,0,,1610612755,,,0,0,0,,0,129,126,255,h,76ERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,486
+22400631,690,PT00M07.50S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,129,126,255,v,Garland Personal Take Foul (P3.PN) (M.Ervin),Foul,Personal Take,1,0,487
+22400631,692,PT00M07.50S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,130,126,256,h,Maxey Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,488
+22400631,693,PT00M07.50S,4,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,130,126,256,h,SUB: Dowtin Jr. FOR Yabusele,Substitution,,0,0,489
+22400631,695,PT00M07.50S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,131,126,257,h,Maxey Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,490
+22400631,696,PT00M03.50S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-107,277,30,Made,1,131,129,260,v,Mitchell 30' 3PT Jump Shot (37 PTS) (Garland 7 AST),Made Shot,Jump Shot,1,3,491
+22400631,698,PT00M01.30S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,131,129,260,v,Mitchell Personal Take Foul (P3.PN) (J.Orr),Foul,Personal Take,1,0,492
+22400631,700,PT00M01.30S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,131,129,260,h,MISS Edwards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,493
+22400631,701,PT00M01.30S,4,0,,1610612755,,,0,0,0,,0,131,129,260,h,76ERS Rebound,Rebound,Normal Rebound,0,0,494
+22400631,702,PT00M01.30S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,131,129,260,v,SUB: Allen FOR Strus,Substitution,,0,0,495
+22400631,704,PT00M01.30S,4,1610612755,PHI,1642348,Edwards,J. Edwards,0,0,0,,0,132,129,261,h,Edwards Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,496
+22400631,705,PT00M00.10S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,123,370,39,Missed,1,132,129,261,v,MISS Mitchell 39' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,497
+22400631,706,PT00M00.10S,4,0,,1610612739,,,0,0,0,,0,132,129,261,v,Cavaliers Rebound,Rebound,Unknown,0,0,498
+22400631,707,PT00M00.00S,4,0,,0,,,0,0,0,,0,132,129,261,,End of 4th Period (9:36 PM EST),period,end,1,0,499

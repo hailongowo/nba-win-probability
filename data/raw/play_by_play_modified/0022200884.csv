@@ -1,0 +1,505 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22200884,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+22200884,4,PT12M00.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Jump Ball Gobert vs. Porzingis: Tip to Conley,Jump Ball,,1,0,2
+22200884,7,PT11M50.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,0,0,0,v,Gafford P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,1,0,3
+22200884,9,PT11M42.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,18,13,2,Missed,1,0,0,0,h,MISS Edwards 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,4
+22200884,10,PT11M40.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,0,0,0,v,Gafford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+22200884,11,PT11M23.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,138,206,25,Missed,1,0,0,0,v,MISS Kuzma 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,6
+22200884,12,PT11M21.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,0,0,0,h,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+22200884,13,PT11M04.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,-5,16,2,Made,1,2,0,2,h,Gobert 2' Driving Dunk (2 PTS) (Edwards 1 AST),Made Shot,Driving Dunk Shot,1,2,8
+22200884,15,PT10M44.00S,1,1610612764,WAS,204001,Porziņģis,K. Porziņģis,96,106,14,Missed,1,2,0,2,v,MISS Porzingis 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,9
+22200884,16,PT10M42.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,2,0,2,h,Gobert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+22200884,18,PT10M36.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,2,0,2,h,McDaniels Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,11
+22200884,18,PT10M36.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,2,0,2,v,Kuzma STEAL (1 STL),,,1,0,12
+22200884,20,PT10M31.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,10,29,3,Missed,1,2,0,2,v,MISS Kuzma 3' Running Layup,Missed Shot,Running Layup Shot,1,2,13
+22200884,20,PT10M31.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,2,0,2,h,Edwards BLOCK (1 BLK),,,1,2,14
+22200884,22,PT10M29.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,2,0,2,h,Conley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+22200884,23,PT10M25.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,207,141,25,Made,1,5,0,5,h,Edwards 25' 3PT Running Jump Shot (3 PTS) (Conley 1 AST),Made Shot,Running Jump Shot,1,3,16
+22200884,25,PT10M05.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,235,64,24,Made,1,5,3,8,v,Kuzma 24' 3PT Jump Shot (3 PTS) (Gafford 1 AST),Made Shot,Jump Shot,1,3,17
+22200884,27,PT09M45.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,-234,-10,0,Made,1,8,3,11,h,McDaniels 3PT Jump Shot (3 PTS) (Gobert 1 AST),Made Shot,Jump Shot,1,3,18
+22200884,29,PT09M28.00S,1,1610612764,WAS,203078,Beal,B. Beal,-7,83,8,Missed,1,8,3,11,v,MISS Beal 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,19
+22200884,30,PT09M25.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,8,3,11,h,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,20
+22200884,31,PT09M21.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,11,86,9,Made,1,10,3,13,h,Anderson 9' Running Pull-Up Jump Shot (2 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,21
+22200884,32,PT09M08.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,54,125,14,Missed,1,10,3,13,v,MISS Kuzma 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,22
+22200884,33,PT09M05.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,10,3,13,h,Gobert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,23
+22200884,34,PT08M59.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,230,25,0,Missed,1,10,3,13,h,MISS Anderson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,24
+22200884,35,PT08M57.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,10,3,13,v,Kuzma REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+22200884,36,PT08M49.00S,1,1610612764,WAS,203078,Beal,B. Beal,-28,83,9,Missed,1,10,3,13,v,MISS Beal 9' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,26
+22200884,37,PT08M47.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,10,3,13,h,Gobert REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,27
+22200884,38,PT08M38.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,12,1,1,Made,1,12,3,15,h,Edwards 1' Driving Layup (5 PTS) (Anderson 1 AST),Made Shot,Driving Layup Shot,1,2,28
+22200884,40,PT08M38.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,12,3,15,v,Gafford S.FOUL (P2.T2) (M.Kallio),Foul,Shooting,1,0,29
+22200884,42,PT08M38.00S,1,0,,1610612764,,,0,0,0,,0,12,3,15,v,Wizards Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,30
+22200884,43,PT08M38.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,12,3,15,v,SUB: Kispert FOR Gafford,Substitution,,0,0,31
+22200884,45,PT08M38.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,13,3,16,h,Edwards Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,32
+22200884,46,PT08M21.00S,1,1610612764,WAS,204001,Porziņģis,K. Porziņģis,43,87,10,Missed,1,13,3,16,v,MISS Porzingis 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,33
+22200884,47,PT08M19.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,13,3,16,h,Gobert REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,34
+22200884,48,PT08M09.00S,1,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,13,3,16,v,Porzingis S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,1,0,35
+22200884,50,PT08M09.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,14,3,17,h,Edwards Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,36
+22200884,51,PT08M09.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,15,3,18,h,Edwards Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,37
+22200884,52,PT07M57.00S,1,1610612764,WAS,1628420,Morris,M. Morris,0,19,2,Made,1,15,5,20,v,Morris 2' Driving Bank Hook Shot (2 PTS) (Beal 1 AST),Made Shot,Driving Bank Hook Shot,1,2,38
+22200884,53,PT07M57.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,15,5,20,h,Anderson S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,1,0,39
+22200884,55,PT07M57.00S,1,1610612764,WAS,1628420,Morris,M. Morris,0,0,0,,0,15,6,21,v,Morris Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,40
+22200884,56,PT07M43.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,-211,128,25,Made,1,18,6,24,h,Edwards 25' 3PT Jump Shot (11 PTS) (Conley 2 AST),Made Shot,Jump Shot,1,3,41
+22200884,58,PT07M31.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-234,67,24,Missed,1,18,6,24,v,MISS Kuzma 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,42
+22200884,59,PT07M28.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,18,6,24,v,Beal REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,43
+22200884,60,PT07M20.00S,1,1610612764,WAS,204001,Porziņģis,K. Porziņģis,162,-13,16,Missed,1,18,6,24,v,MISS Porzingis 16' Jump Shot,Missed Shot,Jump Shot,1,2,44
+22200884,61,PT07M18.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,18,6,24,h,Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,45
+22200884,62,PT07M13.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,49,251,26,Made,1,21,6,27,h,Edwards 26' 3PT Running Pull-Up Jump Shot (14 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,46
+22200884,63,PT06M46.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,21,6,27,h,Edwards S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,1,0,47
+22200884,65,PT06M46.00S,1,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,21,7,28,v,Porzingis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,48
+22200884,66,PT06M46.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,21,7,28,h,SUB: Prince FOR Anderson,Substitution,,0,0,49
+22200884,68,PT06M46.00S,1,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,21,8,29,v,Porzingis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,50
+22200884,69,PT06M36.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,10,15,2,Made,1,23,8,31,h,Gobert 2' Alley Oop Dunk (4 PTS) (Conley 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,51
+22200884,71,PT06M14.00S,1,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,23,8,31,h,Prince P.FOUL (P1.T3) (G.Petraitis),Foul,Personal,1,0,52
+22200884,73,PT06M14.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,23,8,31,v,SUB: Avdija FOR Kuzma,Substitution,,0,0,53
+22200884,75,PT06M04.00S,1,1610612764,WAS,203078,Beal,B. Beal,-16,53,6,Missed,1,23,8,31,v,MISS Beal 6' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,54
+22200884,76,PT06M03.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,23,8,31,h,McDaniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,55
+22200884,77,PT05M58.00S,1,1610612750,MIN,1627752,Prince,T. Prince,-233,-9,0,Made,1,26,8,34,h,Prince 3PT Running Jump Shot (3 PTS) (McDaniels 1 AST),Made Shot,Running Jump Shot,1,3,56
+22200884,79,PT05M45.00S,1,1610612764,WAS,1628420,Morris,M. Morris,-67,183,19,Missed,1,26,8,34,v,MISS Morris 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,57
+22200884,80,PT05M43.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,26,8,34,h,Gobert REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,58
+22200884,81,PT05M36.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,26,8,34,v,Beal S.FOUL (P1.T4) (M.Kallio),Foul,Shooting,1,0,59
+22200884,83,PT05M36.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,27,8,35,h,Edwards Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,60
+22200884,84,PT05M36.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,27,8,35,h,SUB: Reid FOR Gobert,Substitution,,0,0,61
+22200884,86,PT05M36.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,28,8,36,h,Edwards Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,62
+22200884,87,PT05M21.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,28,8,36,v,Beal Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,63
+22200884,87,PT05M21.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,28,8,36,h,Conley STEAL (1 STL),,,1,0,64
+22200884,89,PT05M15.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,199,155,25,Missed,1,28,8,36,h,MISS Edwards 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,65
+22200884,90,PT05M13.00S,1,1610612764,WAS,1628420,Morris,M. Morris,0,0,0,,0,28,8,36,v,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,66
+22200884,91,PT05M08.00S,1,1610612764,WAS,203078,Beal,B. Beal,13,13,2,Made,1,28,10,38,v,Beal 2' Running Reverse Layup (2 PTS) (Morris 1 AST),Made Shot,Running Reverse Layup Shot,1,2,67
+22200884,93,PT04M56.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,8,1,Made,1,30,10,40,h,McDaniels 1' Cutting Dunk Shot (5 PTS) (Reid 1 AST),Made Shot,Cutting Dunk Shot,1,2,68
+22200884,95,PT04M45.00S,1,1610612764,WAS,204001,Porziņģis,K. Porziņģis,6,80,8,Missed,1,30,10,40,v,MISS Porzingis 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,69
+22200884,96,PT04M44.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,30,10,40,v,Avdija REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,70
+22200884,221,PT04M44.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,2,9,1,Missed,1,30,10,40,v,MISS Avdija 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,71
+22200884,222,PT04M44.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,30,10,40,h,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,72
+22200884,97,PT04M37.00S,1,1610612750,MIN,1627752,Prince,T. Prince,-232,2,0,Missed,1,30,10,40,h,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,73
+22200884,98,PT04M33.00S,1,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,30,10,40,v,Porzingis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+22200884,99,PT04M26.00S,1,1610612764,WAS,1628420,Morris,M. Morris,227,101,25,Missed,1,30,10,40,v,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+22200884,100,PT04M25.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,30,10,40,h,Reid REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,76
+22200884,101,PT04M25.00S,1,0,,1610612750,,,0,0,0,,0,30,10,40,h,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,77
+22200884,102,PT04M25.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,30,10,40,h,SUB: McLaughlin FOR Conley,Substitution,,0,0,78
+22200884,103,PT04M25.00S,1,1610612764,WAS,1628420,Morris,M. Morris,0,0,0,,0,30,10,40,v,SUB: Wright FOR Morris,Substitution,,0,0,79
+22200884,106,PT04M11.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,104,23,11,Missed,1,30,10,40,h,MISS McDaniels 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,80
+22200884,107,PT04M08.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,30,10,40,v,Beal REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,81
+22200884,108,PT03M48.00S,1,1610612764,WAS,203078,Beal,B. Beal,44,157,16,Made,1,30,12,42,v,Beal 16' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,82
+22200884,109,PT03M39.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,-2,1,0,Made,1,32,12,44,h,Edwards Driving Dunk (18 PTS),Made Shot,Driving Dunk Shot,1,2,83
+22200884,110,PT03M26.00S,1,1610612764,WAS,204001,Porziņģis,K. Porziņģis,47,71,9,Made,1,32,14,46,v,Porzingis 9' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,2,84
+22200884,111,PT03M26.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,32,14,46,h,McDaniels S.FOUL (P1.T4) (E.Malloy),Foul,Shooting,1,0,85
+22200884,113,PT03M26.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,32,14,46,h,SUB: Nowell FOR McDaniels,Substitution,,0,0,86
+22200884,115,PT03M26.00S,1,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,32,15,47,v,Porzingis Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,87
+22200884,116,PT03M14.00S,1,1610612750,MIN,1629675,Reid,N. Reid,-62,254,26,Missed,1,32,15,47,h,MISS Reid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+22200884,117,PT03M12.00S,1,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,32,15,47,v,Wright REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+22200884,118,PT03M00.00S,1,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,32,15,47,h,Prince S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,1,0,90
+22200884,120,PT03M00.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,32,15,47,v,MISS Avdija Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,91
+22200884,121,PT03M00.00S,1,0,,1610612764,,,0,0,0,,0,32,15,47,v,Wizards Rebound,Rebound,Normal Rebound,0,0,92
+22200884,122,PT03M00.00S,1,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,32,15,47,v,SUB: Gafford FOR Porzingis,Substitution,,0,0,93
+22200884,124,PT03M00.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,32,16,48,v,Avdija Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,94
+22200884,125,PT02M56.00S,1,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,32,16,48,h,McLaughlin Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,95
+22200884,126,PT02M38.00S,1,1610612764,WAS,1629655,Gafford,D. Gafford,6,22,2,Made,1,32,18,50,v,Gafford 2' Cutting Layup Shot (2 PTS) (Beal 2 AST),Made Shot,Cutting Layup Shot,1,2,96
+22200884,128,PT02M25.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,32,18,50,h,Reid Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,97
+22200884,128,PT02M25.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,32,18,50,v,Beal STEAL (1 STL),,,1,0,98
+22200884,130,PT02M12.00S,1,1610612764,WAS,1630557,Kispert,C. Kispert,235,61,24,Made,1,32,21,53,v,Kispert 24' 3PT Jump Shot (3 PTS) (Avdija 1 AST),Made Shot,Jump Shot,1,3,99
+22200884,132,PT01M57.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,11,16,2,Missed,1,32,21,53,h,MISS Edwards 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,100
+22200884,133,PT01M55.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,32,21,53,v,Avdija REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,101
+22200884,134,PT01M50.00S,1,1610612764,WAS,1626153,Wright,D. Wright,-212,129,25,Missed,1,32,21,53,v,MISS Wright 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,102
+22200884,135,PT01M46.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,32,21,53,h,Edwards REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,103
+22200884,136,PT01M37.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,32,21,53,h,Edwards Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,104
+22200884,136,PT01M37.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,32,21,53,v,Beal STEAL (2 STL),,,1,0,105
+22200884,138,PT01M33.00S,1,1610612764,WAS,203078,Beal,B. Beal,-224,77,24,Missed,1,32,21,53,v,MISS Beal 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,106
+22200884,139,PT01M31.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,32,21,53,h,Reid REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,107
+22200884,140,PT01M20.00S,1,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,32,21,53,v,Wright S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,1,0,108
+22200884,142,PT01M20.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,33,21,54,h,Reid Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,109
+22200884,143,PT01M20.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,33,21,54,h,SUB: Rivers FOR Edwards,Substitution,,0,0,110
+22200884,144,PT01M20.00S,1,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,33,21,54,v,SUB: Kuzma FOR Beal,Substitution,,0,0,111
+22200884,147,PT01M20.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,34,21,55,h,Reid Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,112
+22200884,148,PT01M04.00S,1,1610612764,WAS,1628398,Kuzma,K. Kuzma,-25,59,6,Missed,1,34,21,55,v,MISS Kuzma 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,113
+22200884,149,PT01M02.00S,1,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,34,21,55,h,Nowell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+22200884,150,PT00M56.80S,1,1610612750,MIN,1629669,Nowell,J. Nowell,-29,75,8,Made,1,36,21,57,h,Nowell 8' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,115
+22200884,151,PT00M39.50S,1,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,36,21,57,v,Wright Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,116
+22200884,153,PT00M39.50S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,36,21,57,h,SUB: Gobert FOR Reid,Substitution,,0,0,117
+22200884,155,PT00M28.30S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,36,21,57,h,Gobert Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,118
+22200884,155,PT00M28.30S,1,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,36,21,57,v,Wright STEAL (1 STL),,,1,0,119
+22200884,157,PT00M09.00S,1,1610612764,WAS,1630166,Avdija,D. Avdija,-1,36,4,Missed,1,36,21,57,v,MISS Avdija 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,120
+22200884,158,PT00M07.10S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,36,21,57,h,Gobert REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,121
+22200884,159,PT00M00.80S,1,1610612750,MIN,203085,Rivers,A. Rivers,-230,6,0,Missed,1,36,21,57,h,MISS Rivers 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+22200884,160,PT00M00.80S,1,0,,1610612750,,,0,0,0,,0,36,21,57,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,123
+22200884,161,PT00M00.00S,1,0,,0,,,0,0,0,,0,36,21,57,,End of 1st Period (8:37 PM EST),period,end,1,0,124
+22200884,164,PT12M00.00S,2,0,,0,,,0,0,0,,0,36,21,57,,Start of 2nd Period (8:40 PM EST),period,start,0,0,125
+22200884,165,PT11M37.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,50,80,9,Made,1,36,23,59,v,Kispert 9' Pullup Jump Shot (5 PTS) (Nunn 1 AST),Made Shot,Pullup Jump shot,1,2,126
+22200884,167,PT11M12.00S,2,1610612750,MIN,1629669,Nowell,J. Nowell,-26,25,4,Missed,1,36,23,59,h,MISS Nowell 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,127
+22200884,168,PT11M11.00S,2,0,,1610612764,,,0,0,0,,0,36,23,59,v,Wizards Rebound,Rebound,Unknown,0,0,128
+22200884,170,PT11M00.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,116,229,26,Made,1,36,26,62,v,Kispert 26' 3PT Jump Shot (8 PTS) (Gafford 2 AST),Made Shot,Jump Shot,1,3,129
+22200884,172,PT11M00.00S,2,1610612750,MIN,203085,Rivers,A. Rivers,0,0,0,,0,36,26,62,h,Rivers S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,1,0,130
+22200884,174,PT11M00.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,36,27,63,v,Kispert Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,131
+22200884,175,PT10M49.00S,2,1610612750,MIN,1629669,Nowell,J. Nowell,1,15,2,Made,1,38,27,65,h,Nowell 2' Driving Hook Shot (4 PTS),Made Shot,Driving Hook Shot,1,2,132
+22200884,176,PT10M37.00S,2,1610612764,WAS,1626153,Wright,D. Wright,109,72,13,Made,1,38,29,67,v,Wright 13' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,133
+22200884,177,PT10M31.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-31,15,3,Missed,1,38,29,67,h,MISS McLaughlin 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,134
+22200884,177,PT10M31.00S,2,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,38,29,67,v,Wright BLOCK (1 BLK),,,1,2,135
+22200884,179,PT10M30.00S,2,0,,1610612750,,,0,0,0,,0,38,29,67,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,136
+22200884,181,PT10M30.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,38,29,67,h,SUB: Alexander-Walker FOR McLaughlin,Substitution,,0,0,137
+22200884,183,PT10M22.00S,2,1610612750,MIN,1629669,Nowell,J. Nowell,-136,210,25,Missed,1,38,29,67,h,MISS Nowell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,138
+22200884,184,PT10M20.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,38,29,67,v,Kispert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,139
+22200884,185,PT10M02.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,-172,185,25,Missed,1,38,29,67,v,MISS Kispert 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+22200884,186,PT09M58.00S,2,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,38,29,67,v,Wright REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,141
+22200884,187,PT09M57.00S,2,1610612764,WAS,1626153,Wright,D. Wright,-7,25,3,Missed,1,38,29,67,v,MISS Wright 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,142
+22200884,188,PT09M57.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,38,29,67,v,Gafford REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,143
+22200884,189,PT09M50.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,48,51,7,Missed,1,38,29,67,v,MISS Kuzma 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,144
+22200884,190,PT09M48.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,38,29,67,v,Gafford REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,145
+22200884,191,PT09M48.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,Made,1,38,31,69,v,Gafford Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,1,2,146
+22200884,192,PT09M26.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,-2,22,2,Made,1,40,31,71,h,Alexander-Walker 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,147
+22200884,193,PT09M01.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-17,331,33,Missed,1,40,31,71,v,MISS Kuzma 33' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,148
+22200884,193,PT09M01.00S,2,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,40,31,71,h,Prince BLOCK (1 BLK),,,1,3,149
+22200884,195,PT09M00.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,40,31,71,v,Kuzma REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,150
+22200884,197,PT09M00.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-48,201,21,Missed,1,40,31,71,v,MISS Kuzma 21' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,151
+22200884,198,PT09M00.00S,2,0,,1610612764,,,0,0,0,,0,40,31,71,v,Wizards Rebound,Rebound,Unknown,0,0,152
+22200884,199,PT08M59.00S,2,0,,1610612764,,,0,0,0,,0,40,31,71,v,Wizards Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,0,0,153
+22200884,200,PT08M59.00S,2,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,40,31,71,h,SUB: Anderson FOR Nowell,Substitution,,0,0,154
+22200884,202,PT08M46.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,-94,63,11,Missed,1,40,31,71,h,MISS Anderson 11' Hook Shot,Missed Shot,Hook Shot,1,2,155
+22200884,203,PT08M44.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,40,31,71,v,Kuzma REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,156
+22200884,204,PT08M24.00S,2,1610612764,WAS,1629134,Nunn,K. Nunn,238,34,24,Missed,1,40,31,71,v,MISS Nunn 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,157
+22200884,205,PT08M21.00S,2,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,40,31,71,h,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,158
+22200884,206,PT08M10.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,-6,13,1,Made,1,42,31,73,h,Gobert 1' Cutting Layup Shot (6 PTS) (Anderson 2 AST),Made Shot,Cutting Layup Shot,1,2,159
+22200884,208,PT07M48.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,12,95,10,Missed,1,42,31,73,v,MISS Kuzma 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,160
+22200884,209,PT07M46.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,42,31,73,h,Gobert REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,161
+22200884,210,PT07M37.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,42,31,73,h,Alexander-Walker Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,162
+22200884,210,PT07M37.00S,2,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,42,31,73,v,Wright STEAL (2 STL),,,1,0,163
+22200884,212,PT07M32.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-2,8,1,Made,1,42,33,75,v,Kuzma 1' Running Alley Oop Layup Shot (5 PTS) (Wright 1 AST),Made Shot,Running Alley Oop Layup Shot,1,2,164
+22200884,214,PT07M11.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,7,-3,1,Made,1,44,33,77,h,Gobert 1' Dunk (8 PTS),Made Shot,Dunk Shot,1,2,165
+22200884,216,PT06M51.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,44,33,77,v,Gafford Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,166
+22200884,216,PT06M51.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,44,33,77,h,Anderson STEAL (1 STL),,,1,0,167
+22200884,218,PT06M45.00S,2,1610612750,MIN,203085,Rivers,A. Rivers,163,189,25,Made,1,47,33,80,h,Rivers 25' 3PT Running Jump Shot (3 PTS) (Anderson 3 AST),Made Shot,Running Jump Shot,1,3,168
+22200884,220,PT06M41.00S,2,0,,1610612764,,,0,0,0,,0,47,33,80,v,Wizards Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,169
+22200884,223,PT06M41.00S,2,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,47,33,80,h,SUB: Conley FOR Prince,Substitution,,0,0,170
+22200884,224,PT06M41.00S,2,1610612750,MIN,203085,Rivers,A. Rivers,0,0,0,,0,47,33,80,h,SUB: McDaniels FOR Rivers,Substitution,,0,0,171
+22200884,225,PT06M41.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,47,33,80,h,SUB: Reid FOR Gobert,Substitution,,0,0,172
+22200884,226,PT06M41.00S,2,1610612764,WAS,1629134,Nunn,K. Nunn,0,0,0,,0,47,33,80,v,SUB: Avdija FOR Nunn,Substitution,,0,0,173
+22200884,227,PT06M41.00S,2,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,47,33,80,v,SUB: Porzingis FOR Gafford,Substitution,,0,0,174
+22200884,228,PT06M41.00S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,47,33,80,v,SUB: Beal FOR Kuzma,Substitution,,0,0,175
+22200884,235,PT06M21.00S,2,1610612764,WAS,203078,Beal,B. Beal,-11,32,3,Missed,1,47,33,80,v,MISS Beal 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,176
+22200884,236,PT06M19.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,47,33,80,h,McDaniels REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,177
+22200884,238,PT06M13.00S,2,1610612750,MIN,1629675,Reid,N. Reid,13,32,3,Made,1,49,33,82,h,Reid 3' Running Layup (4 PTS) (Anderson 4 AST),Made Shot,Running Layup Shot,1,2,178
+22200884,243,PT05M57.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,49,33,82,h,SUB: Edwards FOR Alexander-Walker,Substitution,,0,0,179
+22200884,246,PT05M53.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,49,33,82,h,Edwards P.FOUL (P2.T2) (G.Petraitis),Foul,Personal,1,0,180
+22200884,248,PT05M53.00S,2,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,49,33,82,v,SUB: Morris FOR Wright,Substitution,,0,0,181
+22200884,250,PT05M46.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,49,33,82,v,Beal Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,182
+22200884,250,PT05M46.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,49,33,82,h,Edwards STEAL (1 STL),,,1,0,183
+22200884,252,PT05M42.00S,2,1610612764,WAS,1628420,Morris,M. Morris,0,0,0,,0,49,33,82,v,Morris S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,1,0,184
+22200884,254,PT05M42.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,50,33,83,h,McDaniels Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,185
+22200884,255,PT05M42.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,51,33,84,h,McDaniels Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,186
+22200884,256,PT05M23.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,-174,180,25,Made,1,51,36,87,v,Kispert 25' 3PT Jump Shot (12 PTS) (Avdija 2 AST),Made Shot,Jump Shot,1,3,187
+22200884,258,PT05M04.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,119,-8,12,Made,1,53,36,89,h,Edwards 12' Turnaround Fadeaway (20 PTS),Made Shot,Turnaround Fadeaway shot,1,2,188
+22200884,259,PT04M50.00S,2,1610612764,WAS,204001,Porziņģis,K. Porziņģis,195,162,25,Missed,1,53,36,89,v,MISS Porzingis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+22200884,260,PT04M48.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,53,36,89,h,McDaniels REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,190
+22200884,261,PT04M43.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,53,36,89,h,Edwards Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,191
+22200884,261,PT04M43.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,53,36,89,v,Beal STEAL (3 STL),,,1,0,192
+22200884,263,PT04M35.00S,2,1610612764,WAS,204001,Porziņģis,K. Porziņģis,4,5,1,Made,1,53,38,91,v,Porzingis 1' Floating Jump Shot (7 PTS) (Morris 2 AST),Made Shot,Floating Jump shot,1,2,193
+22200884,265,PT04M21.00S,2,1610612750,MIN,1629675,Reid,N. Reid,18,13,2,Missed,1,53,38,91,h,MISS Reid 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,194
+22200884,266,PT04M18.00S,2,1610612764,WAS,1628420,Morris,M. Morris,0,0,0,,0,53,38,91,v,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,195
+22200884,267,PT04M15.00S,2,1610612764,WAS,203078,Beal,B. Beal,110,247,27,Made,1,53,41,94,v,Beal 27' 3PT Running Jump Shot (7 PTS) (Porzingis 1 AST),Made Shot,Running Jump Shot,1,3,196
+22200884,269,PT03M58.00S,2,1610612750,MIN,1629675,Reid,N. Reid,26,12,3,Missed,1,53,41,94,h,MISS Reid 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,197
+22200884,270,PT03M55.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,53,41,94,h,Reid REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,198
+22200884,271,PT03M55.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,Made,1,55,41,96,h,Reid Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,199
+22200884,272,PT03M38.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,10,78,8,Missed,1,55,41,96,v,MISS Avdija 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,200
+22200884,273,PT03M35.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,55,41,96,v,Avdija REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,201
+22200884,274,PT03M35.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,Missed,1,55,41,96,v,MISS Avdija Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,202
+22200884,275,PT03M34.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,55,41,96,h,Reid REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,203
+22200884,276,PT03M30.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,-2,13,1,Made,1,57,41,98,h,Anderson 1' Running Reverse Layup (4 PTS) (Reid 2 AST),Made Shot,Running Reverse Layup Shot,1,2,204
+22200884,278,PT03M07.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,-227,8,0,Missed,1,57,41,98,v,MISS Avdija 3PT Jump Shot,Missed Shot,Jump Shot,1,3,205
+22200884,279,PT03M03.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,57,41,98,h,McDaniels REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,206
+22200884,280,PT02M57.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,-21,8,2,Missed,1,57,41,98,h,MISS McDaniels 2' Running Layup,Missed Shot,Running Layup Shot,1,2,207
+22200884,281,PT02M54.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,57,41,98,v,Beal REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,208
+22200884,282,PT02M46.00S,2,1610612764,WAS,1628420,Morris,M. Morris,1,6,1,Made,1,57,43,100,v,Morris 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,209
+22200884,283,PT02M30.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-114,236,26,Missed,1,57,43,100,h,MISS Reid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,210
+22200884,284,PT02M26.00S,2,1610612764,WAS,1628420,Morris,M. Morris,0,0,0,,0,57,43,100,v,Morris REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,211
+22200884,285,PT02M17.00S,2,1610612764,WAS,203078,Beal,B. Beal,9,119,12,Made,1,57,45,102,v,Beal 12' Pullup Jump Shot (9 PTS) (Morris 3 AST),Made Shot,Pullup Jump shot,1,2,212
+22200884,286,PT02M16.00S,2,0,,1610612750,,,0,0,0,,0,57,45,102,h,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,213
+22200884,287,PT02M16.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,57,45,102,h,SUB: Gobert FOR Anderson,Substitution,,0,0,214
+22200884,288,PT02M16.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,57,45,102,h,SUB: Prince FOR Reid,Substitution,,0,0,215
+22200884,289,PT02M16.00S,2,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,57,45,102,v,SUB: Kuzma FOR Avdija,Substitution,,0,0,216
+22200884,293,PT02M06.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,57,45,102,h,Edwards Backcourt Turnover (P3.T8),Turnover,Backcourt Turnover,1,0,217
+22200884,294,PT01M50.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,57,45,102,h,McDaniels S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,1,0,218
+22200884,296,PT01M50.00S,2,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,57,46,103,v,Porzingis Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,219
+22200884,297,PT01M50.00S,2,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,57,46,103,v,SUB: Wright FOR Kispert,Substitution,,0,0,220
+22200884,299,PT01M50.00S,2,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,57,46,103,v,MISS Porzingis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,221
+22200884,300,PT01M48.00S,2,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,57,46,103,h,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,222
+22200884,301,PT01M33.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,-141,41,15,Missed,1,57,46,103,h,MISS Edwards 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,223
+22200884,302,PT01M30.00S,2,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,57,46,103,v,Beal REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,224
+22200884,303,PT01M24.00S,2,1610612764,WAS,203078,Beal,B. Beal,-31,262,26,Made,1,57,49,106,v,Beal 26' 3PT Running Pull-Up Jump Shot (12 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,225
+22200884,306,PT01M08.00S,2,1610612750,MIN,201144,Conley,M. Conley,9,78,8,Missed,1,57,49,106,h,MISS Conley 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,226
+22200884,307,PT01M06.00S,2,1610612764,WAS,1628420,Morris,M. Morris,0,0,0,,0,57,49,106,v,Morris REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,227
+22200884,308,PT00M54.20S,2,1610612764,WAS,203078,Beal,B. Beal,-59,69,9,Missed,1,57,49,106,v,MISS Beal 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,228
+22200884,309,PT00M52.20S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,57,49,106,h,Gobert REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,229
+22200884,310,PT00M46.70S,2,1610612750,MIN,1630162,Edwards,A. Edwards,-1,12,1,Made,1,59,49,108,h,Edwards 1' Running Layup (22 PTS),Made Shot,Running Layup Shot,1,2,230
+22200884,311,PT00M38.10S,2,1610612764,WAS,1628420,Morris,M. Morris,0,0,0,,0,59,49,108,v,Morris Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,231
+22200884,312,PT00M33.80S,2,1610612750,MIN,1630162,Edwards,A. Edwards,121,222,25,Missed,1,59,49,108,h,MISS Edwards 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,232
+22200884,313,PT00M31.80S,2,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,59,49,108,v,Wright REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,233
+22200884,314,PT00M09.80S,2,1610612764,WAS,1628398,Kuzma,K. Kuzma,-221,15,0,Missed,1,59,49,108,v,MISS Kuzma 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+22200884,315,PT00M07.40S,2,0,,1610612764,,,0,0,0,,0,59,49,108,v,Wizards Rebound,Rebound,Unknown,0,0,235
+22200884,317,PT00M03.80S,2,1610612764,WAS,203078,Beal,B. Beal,0,13,1,Made,1,59,51,110,v,Beal 1' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,236
+22200884,318,PT00M02.80S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,59,51,110,h,Edwards Bad Pass Turnover (P4.T9),Turnover,Bad Pass,1,0,237
+22200884,318,PT00M02.80S,2,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,59,51,110,v,Porzingis STEAL (1 STL),,,1,0,238
+22200884,320,PT00M00.50S,2,1610612764,WAS,203078,Beal,B. Beal,-115,32,12,Missed,1,59,51,110,v,MISS Beal 12' Jump Shot,Missed Shot,Jump Shot,1,2,239
+22200884,321,PT00M00.50S,2,0,,1610612764,,,0,0,0,,0,59,51,110,v,Wizards Rebound,Rebound,Unknown,0,0,240
+22200884,322,PT00M00.00S,2,0,,0,,,0,0,0,,0,59,51,110,,End of 2nd Period (9:04 PM EST),period,end,1,0,241
+22200884,327,PT12M00.00S,3,0,,0,,,0,0,0,,0,59,51,110,,Start of 3rd Period (9:19 PM EST),period,start,0,0,242
+22200884,328,PT11M45.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,59,51,110,v,Kispert Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,243
+22200884,328,PT11M45.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,59,51,110,h,Edwards STEAL (2 STL),,,1,0,244
+22200884,330,PT11M36.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,-1,14,1,Made,1,61,51,112,h,Gobert 1' Layup (10 PTS) (Anderson 5 AST),Made Shot,Layup Shot,1,2,245
+22200884,332,PT11M29.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,61,51,112,v,Kuzma Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,246
+22200884,334,PT11M16.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,-6,11,1,Made,1,63,51,114,h,Gobert 1' Alley Oop Dunk (12 PTS) (Anderson 6 AST),Made Shot,Alley Oop Dunk Shot,1,2,247
+22200884,336,PT10M57.00S,3,1610612764,WAS,203078,Beal,B. Beal,4,18,2,Made,1,63,53,116,v,Beal 2' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,2,248
+22200884,338,PT10M36.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,15,30,3,Missed,1,63,53,116,h,MISS Gobert 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,249
+22200884,338,PT10M36.00S,3,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,63,53,116,v,Porzingis BLOCK (1 BLK),,,1,2,250
+22200884,340,PT10M34.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,63,53,116,v,Kispert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,251
+22200884,341,PT10M26.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,63,53,116,h,Gobert P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,1,0,252
+22200884,343,PT10M18.00S,3,1610612764,WAS,204001,Porziņģis,K. Porziņģis,138,202,24,Made,1,63,56,119,v,Porzingis 24' 3PT Jump Shot (11 PTS) (Beal 3 AST),Made Shot,Jump Shot,1,3,253
+22200884,345,PT09M57.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-43,98,11,Missed,1,63,56,119,h,MISS Edwards 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,254
+22200884,346,PT09M54.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,63,56,119,h,Gobert REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,255
+22200884,347,PT09M51.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-227,24,0,Made,1,66,56,122,h,McDaniels 3PT Jump Shot (10 PTS) (Edwards 2 AST),Made Shot,Jump Shot,1,3,256
+22200884,349,PT09M40.00S,3,1610612764,WAS,203078,Beal,B. Beal,-5,1,1,Made,1,66,58,124,v,Beal 1' Driving Reverse Layup (18 PTS),Made Shot,Driving Reverse Layup Shot,1,2,257
+22200884,350,PT09M23.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-32,11,3,Missed,1,66,58,124,h,MISS McDaniels 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,258
+22200884,351,PT09M22.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,66,58,124,v,Kispert REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,259
+22200884,352,PT09M18.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,66,58,124,v,Kispert Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,260
+22200884,353,PT09M07.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,-80,31,9,Missed,1,66,58,124,h,MISS Anderson 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,261
+22200884,354,PT09M04.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,66,58,124,h,Gobert REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,262
+22200884,355,PT09M04.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,-17,13,2,Missed,1,66,58,124,h,MISS Gobert 2' Layup,Missed Shot,Layup Shot,1,2,263
+22200884,356,PT09M03.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,66,58,124,h,McDaniels REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,264
+22200884,357,PT09M03.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,Made,1,68,58,126,h,McDaniels Tip Dunk Shot (12 PTS),Made Shot,Tip Dunk Shot,1,2,265
+22200884,358,PT08M40.00S,3,1610612764,WAS,203078,Beal,B. Beal,136,205,25,Missed,1,68,58,126,v,MISS Beal 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,266
+22200884,359,PT08M39.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,68,58,126,h,Anderson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,267
+22200884,360,PT08M34.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,68,58,126,h,McDaniels Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,268
+22200884,360,PT08M34.00S,3,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,68,58,126,v,Porzingis STEAL (2 STL),,,1,0,269
+22200884,362,PT08M12.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,-55,258,26,Made,1,68,61,129,v,Kuzma 26' 3PT Jump Shot (8 PTS) (Morris 4 AST),Made Shot,Jump Shot,1,3,270
+22200884,364,PT07M57.00S,3,1610612750,MIN,201144,Conley,M. Conley,-13,266,27,Missed,1,68,61,129,h,MISS Conley 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,271
+22200884,365,PT07M54.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,68,61,129,h,Edwards REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,272
+22200884,366,PT07M52.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,186,176,26,Missed,1,68,61,129,h,MISS Edwards 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,273
+22200884,367,PT07M50.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,68,61,129,h,McDaniels REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,274
+22200884,368,PT07M42.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,-21,25,3,Missed,1,68,61,129,h,MISS Gobert 3' Layup,Missed Shot,Layup Shot,1,2,275
+22200884,368,PT07M42.00S,3,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,68,61,129,v,Porzingis BLOCK (2 BLK),,,1,2,276
+22200884,370,PT07M41.00S,3,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,68,61,129,v,Porzingis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,277
+22200884,371,PT07M36.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,229,-4,0,Made,1,68,64,132,v,Kispert 3PT Running Jump Shot (15 PTS) (Morris 5 AST),Made Shot,Running Jump Shot,1,3,278
+22200884,373,PT07M08.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,7,78,8,Made,1,70,64,134,h,Anderson 8' Hook Shot (6 PTS),Made Shot,Hook Shot,1,2,279
+22200884,374,PT06M55.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,145,212,26,Missed,1,70,64,134,v,MISS Kuzma 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,280
+22200884,375,PT06M53.00S,3,0,,1610612750,,,0,0,0,,0,70,64,134,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,281
+22200884,378,PT06M53.00S,3,0,,1610612750,,,0,0,0,,0,70,64,134,h,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,282
+22200884,379,PT06M42.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-37,21,4,Missed,1,70,64,134,h,MISS Edwards 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,283
+22200884,380,PT06M41.00S,3,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,70,64,134,v,Porzingis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,284
+22200884,381,PT06M36.00S,3,1610612764,WAS,203078,Beal,B. Beal,20,8,2,Missed,1,70,64,134,v,MISS Beal 2' Running Layup,Missed Shot,Running Layup Shot,1,2,285
+22200884,381,PT06M36.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,70,64,134,h,Gobert BLOCK (1 BLK),,,1,2,286
+22200884,383,PT06M32.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,70,64,134,v,Kuzma REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,287
+22200884,384,PT06M26.00S,3,1610612764,WAS,203078,Beal,B. Beal,172,2,17,Missed,1,70,64,134,v,MISS Beal 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,288
+22200884,385,PT06M23.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,70,64,134,h,Edwards REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,289
+22200884,386,PT06M20.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,70,64,134,h,Gobert Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,290
+22200884,387,PT05M56.00S,3,1610612764,WAS,204001,Porziņģis,K. Porziņģis,44,21,5,Missed,1,70,64,134,v,MISS Porzingis 5' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,291
+22200884,388,PT05M55.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,70,64,134,h,Anderson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,292
+22200884,389,PT05M51.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,-9,29,3,Made,1,72,64,136,h,Anderson 3' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,293
+22200884,390,PT05M37.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,1,0,0,Made,1,72,66,138,v,Kuzma Driving Layup (10 PTS) (Morris 6 AST),Made Shot,Driving Layup Shot,1,2,294
+22200884,392,PT05M13.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,1,11,1,Made,1,74,66,140,h,Gobert 1' Alley Oop Dunk (14 PTS) (Conley 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,295
+22200884,394,PT04M59.00S,3,1610612764,WAS,1628420,Morris,M. Morris,29,49,6,Missed,1,74,66,140,v,MISS Morris 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,296
+22200884,395,PT04M57.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,74,66,140,h,Gobert REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,297
+22200884,396,PT04M52.00S,3,1610612750,MIN,201144,Conley,M. Conley,-27,15,3,Missed,1,74,66,140,h,MISS Conley 3' Running Layup,Missed Shot,Running Layup Shot,1,2,298
+22200884,397,PT04M49.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,74,66,140,h,Gobert REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,299
+22200884,398,PT04M49.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,4,10,1,Made,1,76,66,142,h,Gobert 1' Putback Dunk (16 PTS),Made Shot,Putback Dunk Shot,1,2,300
+22200884,399,PT04M49.00S,3,0,,1610612764,,,0,0,0,,0,76,66,142,v,Wizards Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,301
+22200884,401,PT04M49.00S,3,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,76,66,142,h,SUB: McLaughlin FOR Conley,Substitution,,0,0,302
+22200884,402,PT04M49.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,76,66,142,v,SUB: Wright FOR Kuzma,Substitution,,0,0,303
+22200884,403,PT04M49.00S,3,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,76,66,142,v,SUB: Avdija FOR Kispert,Substitution,,0,0,304
+22200884,408,PT04M49.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,76,66,142,h,SUB: Prince FOR Anderson,Substitution,,0,0,305
+22200884,409,PT04M37.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,76,66,142,v,Beal Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0,306
+22200884,409,PT04M37.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,76,66,142,h,Edwards STEAL (3 STL),,,1,0,307
+22200884,411,PT04M35.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,6,25,3,Made,1,78,66,144,h,Edwards 3' Running Layup (24 PTS),Made Shot,Running Layup Shot,1,2,308
+22200884,412,PT04M35.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,78,66,144,v,Beal S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,1,0,309
+22200884,414,PT04M35.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,79,66,145,h,Edwards Free Throw 1 of 1 (25 PTS),Free Throw,Free Throw 1 of 1,1,0,310
+22200884,415,PT04M22.00S,3,1610612764,WAS,203078,Beal,B. Beal,23,23,3,Missed,1,79,66,145,v,MISS Beal 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,311
+22200884,416,PT04M20.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,79,66,145,h,Gobert REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,312
+22200884,417,PT04M16.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,79,66,145,v,Avdija S.FOUL (P1.T2) (M.Kallio),Foul,Shooting,1,0,313
+22200884,419,PT04M16.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,80,66,146,h,Edwards Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,314
+22200884,420,PT04M16.00S,3,1610612764,WAS,1628420,Morris,M. Morris,0,0,0,,0,80,66,146,v,SUB: Nunn FOR Morris,Substitution,,0,0,315
+22200884,422,PT04M16.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,81,66,147,h,Edwards Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,316
+22200884,423,PT04M03.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,81,66,147,v,Beal Bad Pass Turnover (P4.T11),Turnover,Bad Pass,1,0,317
+22200884,423,PT04M03.00S,3,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,81,66,147,h,Prince STEAL (1 STL),,,1,0,318
+22200884,425,PT03M52.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-16,17,2,Missed,1,81,66,147,h,MISS Edwards 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,319
+22200884,426,PT03M50.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,81,66,147,v,Avdija REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,320
+22200884,427,PT03M44.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,81,66,147,h,Gobert S.FOUL (P2.T2) (M.Kallio),Foul,Shooting,1,0,321
+22200884,429,PT03M44.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,81,67,148,v,Avdija Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,322
+22200884,431,PT03M44.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,81,68,149,v,Avdija Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,323
+22200884,433,PT03M33.00S,3,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,81,68,149,v,SUB: Kuzma FOR Beal,Substitution,,0,0,324
+22200884,435,PT03M28.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,229,36,0,Missed,1,81,68,149,h,MISS McDaniels 3PT Jump Shot,Missed Shot,Jump Shot,1,3,325
+22200884,436,PT03M26.00S,3,1610612764,WAS,1629134,Nunn,K. Nunn,0,0,0,,0,81,68,149,v,Nunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,326
+22200884,437,PT03M18.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,81,68,149,h,McLaughlin S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,1,0,327
+22200884,439,PT03M18.00S,3,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,81,69,150,v,Porzingis Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,328
+22200884,440,PT03M18.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,81,69,150,h,SUB: Nowell FOR McDaniels,Substitution,,0,0,329
+22200884,442,PT03M18.00S,3,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,81,69,150,v,MISS Porzingis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,330
+22200884,443,PT03M16.00S,3,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,81,69,150,h,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,331
+22200884,444,PT03M04.00S,3,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,81,69,150,v,Porzingis S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,1,0,332
+22200884,446,PT03M04.00S,3,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,82,69,151,h,Nowell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,333
+22200884,447,PT03M04.00S,3,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,83,69,152,h,Nowell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,334
+22200884,448,PT02M48.00S,3,1610612764,WAS,204001,Porziņģis,K. Porziņģis,-83,257,27,Missed,1,83,69,152,v,MISS Porzingis 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,335
+22200884,449,PT02M45.00S,3,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,83,69,152,h,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,336
+22200884,450,PT02M35.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-64,59,9,Made,1,85,69,154,h,Edwards 9' Step Back Bank Jump Shot (29 PTS),Made Shot,Step Back Bank Jump Shot,1,2,337
+22200884,451,PT02M24.00S,3,0,,1610612764,,,0,0,0,,0,85,69,154,v,Wizards Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,338
+22200884,452,PT02M24.00S,3,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,85,69,154,v,SUB: Gafford FOR Porzingis,Substitution,,0,0,339
+22200884,454,PT02M14.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,85,69,154,v,Kuzma OFF.Foul (P1) (M.Kallio),Foul,Offensive,1,0,340
+22200884,456,PT02M14.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,85,69,154,v,Kuzma Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,0,341
+22200884,457,PT02M04.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,26,3,Made,1,87,69,156,h,Edwards 3' Driving Layup (31 PTS),Made Shot,Driving Layup Shot,1,2,342
+22200884,458,PT01M43.00S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,-72,252,26,Missed,1,87,69,156,v,MISS Kuzma 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,343
+22200884,459,PT01M40.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,87,69,156,h,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,344
+22200884,460,PT01M36.00S,3,1610612750,MIN,1629669,Nowell,J. Nowell,-219,96,24,Missed,1,87,69,156,h,MISS Nowell 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,345
+22200884,461,PT01M35.00S,3,0,,1610612750,,,0,0,0,,0,87,69,156,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,346
+22200884,462,PT01M35.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,87,69,156,v,Avdija L.B.FOUL (P2.T4) (E.Malloy),Foul,Loose Ball,1,0,347
+22200884,464,PT01M29.00S,3,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,87,69,156,h,Prince Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,348
+22200884,464,PT01M29.00S,3,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,87,69,156,v,Gafford STEAL (1 STL),,,1,0,349
+22200884,466,PT01M25.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,4,4,1,Made,1,87,71,158,v,Avdija 1' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,2,350
+22200884,467,PT01M11.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,87,71,158,h,McLaughlin Step Out of Bounds Turnover (P2.T13),Turnover,Step Out of Bounds Turnover,1,0,351
+22200884,468,PT00M54.30S,3,1610612764,WAS,1628398,Kuzma,K. Kuzma,-229,8,0,Missed,1,87,71,158,v,MISS Kuzma 3PT Jump Shot,Missed Shot,Jump Shot,1,3,352
+22200884,469,PT00M51.90S,3,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,87,71,158,h,Nowell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,353
+22200884,470,PT00M40.00S,3,1610612750,MIN,1629669,Nowell,J. Nowell,104,11,10,Missed,1,87,71,158,h,MISS Nowell 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,354
+22200884,471,PT00M36.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,87,71,158,h,Gobert REBOUND (Off:4 Def:10),Rebound,Unknown,1,0,355
+22200884,472,PT00M36.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Missed,1,87,71,158,h,MISS Gobert Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,356
+22200884,473,PT00M33.70S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,87,71,158,h,Gobert REBOUND (Off:5 Def:10),Rebound,Unknown,1,0,357
+22200884,474,PT00M33.70S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Missed,1,87,71,158,h,MISS Gobert Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,358
+22200884,475,PT00M32.30S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,87,71,158,h,McLaughlin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,359
+22200884,476,PT00M30.60S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-110,136,17,Missed,1,87,71,158,h,MISS McLaughlin 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,360
+22200884,477,PT00M30.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,87,71,158,v,Avdija REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,361
+22200884,478,PT00M12.90S,3,1610612764,WAS,1630166,Avdija,D. Avdija,-21,50,5,Made,1,87,73,160,v,Avdija 5' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,1,2,362
+22200884,479,PT00M12.90S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,87,73,160,h,Edwards S.FOUL (P3.T4) (E.Malloy),Foul,Shooting,1,0,363
+22200884,481,PT00M12.90S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,87,74,161,v,Avdija Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,364
+22200884,482,PT00M04.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,87,74,161,h,Edwards Bad Pass Turnover (P5.T14),Turnover,Bad Pass,1,0,365
+22200884,482,PT00M04.00S,3,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,87,74,161,v,Avdija STEAL (1 STL),,,1,0,366
+22200884,484,PT00M01.80S,3,1610612764,WAS,1630166,Avdija,D. Avdija,-1,6,1,Made,1,87,76,163,v,Avdija 1' Running Dunk (10 PTS) (Nunn 2 AST),Made Shot,Running Dunk Shot,1,2,367
+22200884,486,PT00M00.20S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-107,486,50,Missed,1,87,76,163,h,MISS McLaughlin 50' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,368
+22200884,487,PT00M00.10S,3,0,,1610612750,,,0,0,0,,0,87,76,163,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,369
+22200884,488,PT00M00.00S,3,0,,0,,,0,0,0,,0,87,76,163,,End of 3rd Period (9:45 PM EST),period,end,1,0,370
+22200884,495,PT12M00.00S,4,0,,0,,,0,0,0,,0,87,76,163,,Start of 4th Period (9:48 PM EST),period,start,0,0,371
+22200884,496,PT11M42.00S,4,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,87,76,163,h,Nowell Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,372
+22200884,496,PT11M42.00S,4,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,87,76,163,v,Wright STEAL (3 STL),,,1,0,373
+22200884,498,PT11M39.00S,4,1610612764,WAS,1626153,Wright,D. Wright,-4,1,0,Made,1,87,78,165,v,Wright Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,374
+22200884,499,PT11M16.00S,4,1610612750,MIN,1627752,Prince,T. Prince,11,21,2,Made,1,89,78,167,h,Prince 2' Cutting Dunk Shot (5 PTS) (Anderson 7 AST),Made Shot,Cutting Dunk Shot,1,2,375
+22200884,501,PT11M14.00S,4,0,,1610612750,,,0,0,0,,0,89,78,167,h,TIMBERWOLVES Violation: Delay of game Violation,Violation,Delay Of Game,0,0,376
+22200884,502,PT11M05.00S,4,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,89,78,167,v,Wright Out of Bounds Lost Ball Turnover (P2.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,377
+22200884,503,PT10M59.00S,4,1610612750,MIN,1627752,Prince,T. Prince,-179,174,25,Missed,1,89,78,167,h,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,378
+22200884,504,PT10M57.00S,4,1610612764,WAS,1629134,Nunn,K. Nunn,0,0,0,,0,89,78,167,v,Nunn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,379
+22200884,505,PT10M45.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,89,78,167,v,Kuzma Traveling Turnover (P3.T14),Turnover,Traveling,1,0,380
+22200884,506,PT10M33.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,89,78,167,h,Reid Bad Pass Turnover (P2.T16),Turnover,Bad Pass,1,0,381
+22200884,506,PT10M33.00S,4,1610612764,WAS,1629134,Nunn,K. Nunn,0,0,0,,0,89,78,167,v,Nunn STEAL (1 STL),,,1,0,382
+22200884,508,PT10M29.00S,4,1610612764,WAS,1629134,Nunn,K. Nunn,-168,199,26,Made,1,89,81,170,v,Nunn 26' 3PT Running Jump Shot (3 PTS) (Wright 2 AST),Made Shot,Running Jump Shot,1,3,383
+22200884,510,PT10M27.00S,4,0,,1610612750,,,0,0,0,,0,89,81,170,h,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,384
+22200884,511,PT10M11.00S,4,1610612750,MIN,1629675,Reid,N. Reid,-40,55,7,Missed,1,89,81,170,h,MISS Reid 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,385
+22200884,511,PT10M11.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,89,81,170,v,Gafford BLOCK (1 BLK),,,1,2,386
+22200884,513,PT10M09.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,89,81,170,v,Kuzma REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,387
+22200884,514,PT10M05.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,-37,254,26,Made,1,89,84,173,v,Kuzma 26' 3PT Running Jump Shot (13 PTS) (Avdija 3 AST),Made Shot,Running Jump Shot,1,3,388
+22200884,516,PT09M43.00S,4,1610612750,MIN,1629669,Nowell,J. Nowell,-26,52,6,Missed,1,89,84,173,h,MISS Nowell 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,389
+22200884,516,PT09M43.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,89,84,173,v,Gafford BLOCK (2 BLK),,,1,2,390
+22200884,518,PT09M40.00S,4,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,89,84,173,h,Nowell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,391
+22200884,519,PT09M39.00S,4,1610612750,MIN,1629669,Nowell,J. Nowell,-9,14,2,Missed,1,89,84,173,h,MISS Nowell 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,392
+22200884,519,PT09M39.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,89,84,173,v,Kuzma BLOCK (1 BLK),,,1,2,393
+22200884,521,PT09M37.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,89,84,173,v,Gafford REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,394
+22200884,522,PT09M34.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,-5,5,1,Made,1,89,86,175,v,Gafford 1' Running Dunk (6 PTS) (Wright 3 AST),Made Shot,Running Dunk Shot,1,2,395
+22200884,524,PT09M15.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,-50,61,8,Missed,1,89,86,175,h,MISS Anderson 8' Jump Shot,Missed Shot,Jump Shot,1,2,396
+22200884,525,PT09M13.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,89,86,175,h,Anderson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,397
+22200884,526,PT09M13.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,Missed,1,89,86,175,h,MISS Anderson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,398
+22200884,527,PT09M11.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,89,86,175,v,Gafford REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,399
+22200884,528,PT08M55.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,89,86,175,v,Kuzma Bad Pass Turnover (P4.T15),Turnover,Bad Pass,1,0,400
+22200884,528,PT08M55.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,89,86,175,h,Anderson STEAL (2 STL),,,1,0,401
+22200884,530,PT08M52.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,-1,4,0,Made,1,91,86,177,h,Anderson Running Layup (10 PTS),Made Shot,Running Layup Shot,1,2,402
+22200884,531,PT08M52.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,91,86,177,v,Avdija S.FOUL (P3.T1) (M.Kallio),Foul,Shooting,1,0,403
+22200884,533,PT08M52.00S,4,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,91,86,177,h,SUB: Edwards FOR Nowell,Substitution,,0,0,404
+22200884,534,PT08M52.00S,4,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,91,86,177,h,SUB: McDaniels FOR Prince,Substitution,,0,0,405
+22200884,535,PT08M52.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,91,86,177,h,SUB: Gobert FOR Reid,Substitution,,0,0,406
+22200884,536,PT08M52.00S,4,1610612764,WAS,1629134,Nunn,K. Nunn,0,0,0,,0,91,86,177,v,SUB: Beal FOR Nunn,Substitution,,0,0,407
+22200884,541,PT08M52.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,92,86,178,h,Anderson Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,408
+22200884,542,PT08M33.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,229,-5,0,Missed,1,92,86,178,v,MISS Kuzma 3PT Jump Shot,Missed Shot,Jump Shot,1,3,409
+22200884,543,PT08M31.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,92,86,178,h,Gobert REBOUND (Off:5 Def:11),Rebound,Unknown,1,0,410
+22200884,544,PT08M21.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-25,29,4,Missed,1,92,86,178,h,MISS Edwards 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,411
+22200884,545,PT08M19.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,92,86,178,h,Gobert REBOUND (Off:6 Def:11),Rebound,Unknown,1,0,412
+22200884,546,PT08M19.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Missed,1,92,86,178,h,MISS Gobert Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,413
+22200884,547,PT08M19.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,92,86,178,v,Avdija REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,414
+22200884,548,PT07M57.00S,4,1610612764,WAS,203078,Beal,B. Beal,-23,13,3,Made,1,92,88,180,v,Beal 3' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,415
+22200884,549,PT07M37.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,31,100,10,Missed,1,92,88,180,h,MISS Anderson 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,416
+22200884,550,PT07M35.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,92,88,180,v,Gafford REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,417
+22200884,551,PT07M23.00S,4,1610612764,WAS,1626153,Wright,D. Wright,16,44,5,Missed,1,92,88,180,v,MISS Wright 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,418
+22200884,552,PT07M22.00S,4,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,92,88,180,v,Wright REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,419
+22200884,553,PT07M18.00S,4,1610612764,WAS,1626153,Wright,D. Wright,26,59,6,Missed,1,92,88,180,v,MISS Wright 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,420
+22200884,553,PT07M18.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,92,88,180,h,Gobert BLOCK (2 BLK),,,1,2,421
+22200884,555,PT07M14.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,92,88,180,v,Avdija REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,422
+22200884,556,PT07M13.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,229,-14,0,Missed,1,92,88,180,v,MISS Kuzma 3PT Jump Shot,Missed Shot,Jump Shot,1,3,423
+22200884,557,PT07M09.00S,4,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,92,88,180,v,Wright REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,424
+22200884,558,PT07M08.00S,4,1610612764,WAS,203078,Beal,B. Beal,-230,4,0,Missed,1,92,88,180,v,MISS Beal 3PT Jump Shot,Missed Shot,Jump Shot,1,3,425
+22200884,559,PT07M05.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,92,88,180,h,Edwards REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,426
+22200884,560,PT07M01.00S,4,1610612750,MIN,201144,Conley,M. Conley,224,47,0,Missed,1,92,88,180,h,MISS Conley 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,427
+22200884,561,PT06M58.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,92,88,180,h,McDaniels REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,428
+22200884,562,PT06M54.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,-230,11,0,Made,1,95,88,183,h,McDaniels 3PT Step Back Jump Shot (15 PTS) (Anderson 8 AST),Made Shot,Step Back Jump shot,1,3,429
+22200884,563,PT06M40.00S,4,0,,1610612764,,,0,0,0,,0,95,88,183,v,Wizards Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,430
+22200884,565,PT06M40.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,95,88,183,v,Beal T.FOUL (P2.T1) (E.Malloy),Foul,Technical,1,0,431
+22200884,566,PT06M40.00S,4,1610612764,WAS,1629655,Gafford,D. Gafford,0,0,0,,0,95,88,183,v,SUB: Porzingis FOR Gafford,Substitution,,0,0,432
+22200884,567,PT06M40.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,95,88,183,v,SUB: Kispert FOR Kuzma,Substitution,,0,0,433
+22200884,570,PT06M40.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,96,88,184,h,Edwards Free Throw Technical (32 PTS),Free Throw,Free Throw Technical,1,0,434
+22200884,571,PT06M27.00S,4,1610612764,WAS,203078,Beal,B. Beal,221,120,25,Missed,1,96,88,184,v,MISS Beal 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,435
+22200884,572,PT06M24.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,96,88,184,h,McDaniels REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,436
+22200884,573,PT06M10.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,104,237,26,Missed,1,96,88,184,h,MISS Edwards 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,437
+22200884,574,PT06M08.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,96,88,184,v,Beal REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,438
+22200884,575,PT05M59.00S,4,1610612764,WAS,204001,Porziņģis,K. Porziņģis,-4,21,2,Made,1,96,90,186,v,Porzingis 2' Driving Finger Roll Layup (14 PTS) (Beal 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,439
+22200884,577,PT05M42.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,237,15,24,Missed,1,96,90,186,h,MISS McDaniels 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,440
+22200884,578,PT05M40.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,96,90,186,v,Avdija REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,441
+22200884,579,PT05M34.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,96,90,186,v,Avdija Lost Ball Turnover (P1.T16),Turnover,Lost Ball,1,0,442
+22200884,579,PT05M34.00S,4,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,96,90,186,h,Conley STEAL (2 STL),,,1,0,443
+22200884,581,PT05M25.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,96,90,186,h,Edwards Out of Bounds - Bad Pass Turnover Turnover (P6.T17),Turnover,Out of Bounds - Bad Pass Turnover,1,0,444
+22200884,582,PT05M25.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,96,90,186,v,Avdija T.FOUL (P3.T1) (M.Kallio),Foul,Technical,0,0,445
+22200884,583,PT05M25.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,96,90,186,h,MISS Edwards Free Throw Technical,Free Throw,Free Throw Technical,1,0,446
+22200884,584,PT05M25.00S,4,0,,1610612764,,,0,0,0,,0,96,90,186,v,Wizards Rebound,Rebound,Normal Rebound,0,0,447
+22200884,585,PT05M14.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,96,90,186,h,Gobert S.FOUL (P3.T1) (E.Malloy),Foul,Shooting,1,0,448
+22200884,587,PT05M14.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,96,91,187,v,Beal Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,449
+22200884,588,PT05M14.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,96,92,188,v,Beal Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,450
+22200884,589,PT05M03.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,96,92,188,v,Avdija S.FOUL (P4.T2) (G.Petraitis),Foul,Shooting,1,0,451
+22200884,591,PT05M03.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,97,92,189,h,Anderson Free Throw 1 of 3 (12 PTS),Free Throw,Free Throw 1 of 3,1,0,452
+22200884,592,PT05M03.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,98,92,190,h,Anderson Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,1,0,453
+22200884,593,PT05M03.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,99,92,191,h,Anderson Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,1,0,454
+22200884,594,PT04M51.00S,4,1610612764,WAS,203078,Beal,B. Beal,-159,58,17,Missed,1,99,92,191,v,MISS Beal 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,455
+22200884,595,PT04M49.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,99,92,191,h,Gobert REBOUND (Off:6 Def:12),Rebound,Unknown,1,0,456
+22200884,596,PT04M38.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,5,10,1,Missed,1,99,92,191,h,MISS Gobert 1' Dunk,Missed Shot,Dunk Shot,1,2,457
+22200884,597,PT04M36.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,99,92,191,v,Beal REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,458
+22200884,598,PT04M25.00S,4,1610612764,WAS,204001,Porziņģis,K. Porziņģis,15,8,2,Missed,1,99,92,191,v,MISS Porzingis 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,459
+22200884,598,PT04M25.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,99,92,191,h,Gobert BLOCK (3 BLK),,,1,2,460
+22200884,600,PT04M22.00S,4,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,99,92,191,v,Wright REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,461
+22200884,601,PT04M22.00S,4,1610612764,WAS,1630557,Kispert,C. Kispert,-159,202,26,Missed,1,99,92,191,v,MISS Kispert 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,462
+22200884,602,PT04M19.00S,4,1610612764,WAS,1626153,Wright,D. Wright,0,0,0,,0,99,92,191,v,Wright REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,463
+22200884,603,PT04M18.00S,4,1610612764,WAS,203078,Beal,B. Beal,232,-5,0,Made,1,99,95,194,v,Beal 3PT Jump Shot (25 PTS) (Avdija 4 AST),Made Shot,Jump Shot,1,3,464
+22200884,605,PT04M00.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,-9,26,3,Made,1,101,95,196,h,Anderson 3' Driving Layup (16 PTS) (Conley 5 AST),Made Shot,Driving Layup Shot,1,2,465
+22200884,606,PT03M53.00S,4,1610612764,WAS,1626153,Wright,D. Wright,-4,6,1,Made,1,101,97,198,v,Wright 1' Driving Layup (6 PTS) (Beal 5 AST),Made Shot,Driving Layup Shot,1,2,466
+22200884,609,PT03M52.00S,4,0,,1610612750,,,0,0,0,,0,101,97,198,h,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,467
+22200884,610,PT03M52.00S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,101,97,198,v,SUB: Kuzma FOR Avdija,Substitution,,0,0,468
+22200884,612,PT03M36.00S,4,1610612750,MIN,201144,Conley,M. Conley,62,40,7,Missed,1,101,97,198,h,MISS Conley 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,469
+22200884,613,PT03M35.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,101,97,198,h,Gobert REBOUND (Off:7 Def:12),Rebound,Unknown,1,0,470
+22200884,614,PT03M33.00S,4,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,101,97,198,v,Porzingis S.FOUL (P3.T3) (E.Malloy),Foul,Shooting,1,0,471
+22200884,616,PT03M33.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,102,97,199,h,Gobert Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,472
+22200884,617,PT03M33.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,102,97,199,h,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,473
+22200884,618,PT03M31.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,102,97,199,v,Kuzma REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,474
+22200884,619,PT03M19.00S,4,1610612764,WAS,203078,Beal,B. Beal,15,75,8,Made,1,102,99,201,v,Beal 8' Driving Floating Jump Shot (27 PTS),Made Shot,Driving Floating Jump Shot,1,2,475
+22200884,621,PT03M19.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,102,99,201,h,McDaniels S.FOUL (P3.T2) (E.Malloy),Foul,Shooting,1,0,476
+22200884,623,PT03M19.00S,4,1610612764,WAS,203078,Beal,B. Beal,0,0,0,,0,102,100,202,v,Beal Free Throw 1 of 1 (28 PTS),Free Throw,Free Throw 1 of 1,1,0,477
+22200884,624,PT02M56.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,11,9,1,Made,1,104,100,204,h,Edwards 1' Driving Layup (34 PTS) (Conley 6 AST),Made Shot,Driving Layup Shot,1,2,478
+22200884,625,PT02M39.00S,4,1610612764,WAS,203078,Beal,B. Beal,-51,112,12,Made,1,104,102,206,v,Beal 12' Pullup Jump Shot (30 PTS),Made Shot,Pullup Jump shot,1,2,479
+22200884,627,PT02M18.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,23,98,10,Made,1,106,102,208,h,Anderson 10' Floating Jump Shot (18 PTS) (Edwards 3 AST),Made Shot,Floating Jump shot,1,2,480
+22200884,629,PT02M09.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,106,102,208,h,Edwards P.FOUL (P4.T3) (E.Malloy),Foul,Personal,1,0,481
+22200884,631,PT02M04.00S,4,1610612764,WAS,203078,Beal,B. Beal,-4,17,2,Made,1,106,104,210,v,Beal 2' Driving Layup (32 PTS),Made Shot,Driving Layup Shot,1,2,482
+22200884,632,PT01M40.00S,4,1610612750,MIN,201144,Conley,M. Conley,-230,62,24,Missed,1,106,104,210,h,MISS Conley 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,483
+22200884,633,PT01M35.00S,4,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,106,104,210,v,Porzingis REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,484
+22200884,634,PT01M14.00S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,58,264,27,Made,1,106,107,213,v,Kuzma 27' 3PT Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,3,485
+22200884,635,PT00M55.10S,4,1610612750,MIN,1630162,Edwards,A. Edwards,20,108,11,Missed,1,106,107,213,h,MISS Edwards 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,486
+22200884,636,PT00M53.50S,4,1610612764,WAS,1628398,Kuzma,K. Kuzma,0,0,0,,0,106,107,213,v,Kuzma REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,487
+22200884,637,PT00M37.50S,4,1610612764,WAS,203078,Beal,B. Beal,45,264,27,Made,1,106,110,216,v,Beal 27' 3PT Pullup Jump Shot (35 PTS),Made Shot,Pullup Jump shot,1,3,488
+22200884,638,PT00M36.90S,4,0,,1610612750,,,0,0,0,,0,106,110,216,h,TIMBERWOLVES Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,489
+22200884,645,PT00M36.90S,4,1610612764,WAS,1630557,Kispert,C. Kispert,0,0,0,,0,106,110,216,v,SUB: Avdija FOR Kispert,Substitution,,0,0,490
+22200884,639,PT00M31.70S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,106,110,216,h,Anderson Bad Pass Turnover (P1.T18),Turnover,Bad Pass,1,0,491
+22200884,639,PT00M31.70S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,106,110,216,v,Avdija STEAL (2 STL),,,1,0,492
+22200884,641,PT00M26.30S,4,1610612764,WAS,1626153,Wright,D. Wright,-1,12,1,Made,1,106,112,218,v,Wright 1' Running Dunk (8 PTS) (Porzingis 2 AST),Made Shot,Running Dunk Shot,1,2,493
+22200884,647,PT00M26.30S,4,0,,1610612750,,,0,0,0,,0,106,112,218,h,TIMBERWOLVES Timeout: Coach Challenge (Full 6 Short 0),Timeout,Coach Challenge,0,0,494
+22200884,649,PT00M26.30S,4,0,,643,,,0,0,0,,0,106,112,218,,Instant Replay4th Period (10:17 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,495
+22200884,650,PT00M19.50S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-168,189,25,Missed,1,106,112,218,h,MISS Edwards 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,496
+22200884,651,PT00M16.70S,4,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,106,112,218,h,Conley REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,497
+22200884,652,PT00M15.80S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-228,82,24,Missed,1,106,112,218,h,MISS Edwards 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,498
+22200884,653,PT00M13.10S,4,1610612764,WAS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,106,112,218,v,Porzingis REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,499
+22200884,654,PT00M12.30S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,106,112,218,h,McDaniels Personal Take Foul (P4.T4) (E.Malloy),Foul,Personal Take,1,0,500
+22200884,656,PT00M10.80S,4,1610612764,WAS,1626153,Wright,D. Wright,4,13,1,Made,1,106,114,220,v,Wright 1' Running Dunk (10 PTS) (Kuzma 1 AST),Made Shot,Running Dunk Shot,1,2,501
+22200884,658,PT00M01.70S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-201,146,25,Missed,1,106,114,220,h,MISS Edwards 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,502
+22200884,659,PT00M00.20S,4,1610612764,WAS,1630166,Avdija,D. Avdija,0,0,0,,0,106,114,220,v,Avdija REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,503
+22200884,660,PT00M00.00S,4,0,,0,,,0,0,0,,0,106,114,220,,End of 4th Period (10:20 PM EST),period,end,1,0,504

@@ -1,0 +1,477 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22200601,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:12 PM EST),period,start,0,0,1
+22200601,4,PT12M00.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,0,0,0,h,Jump Ball Sengun vs. Gobert: Tip to Edwards,Jump Ball,,1,0,2
+22200601,7,PT11M47.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,6,6,1,Made,1,0,2,2,v,Gobert 1' Alley Oop Dunk (2 PTS) (Anderson 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,3
+22200601,9,PT11M26.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,-10,57,6,Made,1,2,2,4,h,Sengun 6' Turnaround Hook Shot (2 PTS) (Gordon 1 AST),Made Shot,Turnaround Hook Shot,1,2,4
+22200601,11,PT11M09.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,-82,240,25,Missed,1,2,2,4,v,MISS Anderson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+22200601,12,PT11M09.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,2,2,4,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+22200601,13,PT10M50.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,167,210,27,Made,1,5,2,7,h,Porter Jr. 27' 3PT Jump Shot (3 PTS) (Green 1 AST),Made Shot,Jump Shot,1,3,7
+22200601,15,PT10M36.00S,1,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,5,2,7,v,Russell Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,8
+22200601,15,PT10M36.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,5,2,7,h,Smith Jr. STEAL (1 STL),,,1,0,9
+22200601,17,PT10M32.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,18,22,3,Made,1,7,2,9,h,Smith Jr. 3' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,10
+22200601,18,PT10M20.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,7,2,9,v,McDaniels Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,11
+22200601,19,PT10M04.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,28,90,9,Missed,1,7,2,9,h,MISS Porter Jr. 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,12
+22200601,20,PT10M02.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,7,2,9,v,Gobert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+22200601,21,PT09M58.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,7,2,9,h,Sengun S.FOUL (P1.T1) (I.Hwang),Foul,Shooting,1,0,14
+22200601,23,PT09M58.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,7,3,10,v,Gobert Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,15
+22200601,24,PT09M58.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,7,4,11,v,Gobert Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,16
+22200601,25,PT09M44.00S,1,1610612745,HOU,1630224,Green,J. Green,125,146,19,Missed,1,7,4,11,h,MISS Green 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,17
+22200601,26,PT09M40.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,7,4,11,h,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,18
+22200601,27,PT09M40.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-5,16,2,Made,1,9,4,13,h,Smith Jr. 2' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,1,2,19
+22200601,28,PT09M30.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,-26,4,3,Made,1,9,6,15,v,Anderson 3' Driving Layup (2 PTS) (Russell 1 AST),Made Shot,Driving Layup Shot,1,2,20
+22200601,29,PT09M15.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,-4,85,9,Made,1,11,6,17,h,Sengun 9' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,1,2,21
+22200601,30,PT09M01.00S,1,1610612750,MIN,1626156,Russell,D. Russell,154,197,25,Made,1,11,9,20,v,Russell 25' 3PT Jump Shot (3 PTS) (Edwards 1 AST),Made Shot,Jump Shot,1,3,22
+22200601,32,PT08M48.00S,1,1610612745,HOU,1630224,Green,J. Green,-16,26,3,Missed,1,11,9,20,h,MISS Green 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,23
+22200601,33,PT08M47.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,11,9,20,v,Gobert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,24
+22200601,34,PT08M42.00S,1,1610612750,MIN,1626156,Russell,D. Russell,-114,234,26,Made,1,11,12,23,v,Russell 26' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,25
+22200601,35,PT08M29.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,-7,146,15,Made,1,13,12,25,h,Sengun 15' Floating Jump Shot (6 PTS) (Gordon 2 AST),Made Shot,Floating Jump shot,1,2,26
+22200601,37,PT08M11.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,15,2,Missed,1,13,12,25,v,MISS Gobert 2' Layup,Missed Shot,Layup Shot,1,2,27
+22200601,37,PT08M11.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,13,12,25,h,Smith Jr. BLOCK (1 BLK),,,1,2,28
+22200601,39,PT08M09.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,13,12,25,h,Sengun REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,29
+22200601,40,PT08M01.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,13,12,25,h,Sengun Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,30
+22200601,40,PT08M01.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,13,12,25,v,Anderson STEAL (1 STL),,,1,0,31
+22200601,42,PT07M51.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,223,26,0,Missed,1,13,12,25,v,MISS McDaniels 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,32
+22200601,43,PT07M49.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,13,12,25,h,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+22200601,44,PT07M44.00S,1,1610612745,HOU,1630224,Green,J. Green,13,20,2,Made,1,15,12,27,h,Green 2' Running Alley Oop Dunk Shot (2 PTS) (Porter Jr. 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,34
+22200601,46,PT07M28.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,15,12,27,v,Gobert Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,35
+22200601,47,PT07M07.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,142,155,21,Missed,1,15,12,27,h,MISS Smith Jr. 21' Jump Shot,Missed Shot,Jump Shot,1,2,36
+22200601,48,PT07M05.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,15,12,27,v,McDaniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,37
+22200601,49,PT06M53.00S,1,1610612750,MIN,1626156,Russell,D. Russell,-123,221,25,Missed,1,15,12,27,v,MISS Russell 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,38
+22200601,50,PT06M52.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,15,12,27,h,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,39
+22200601,51,PT06M34.00S,1,1610612745,HOU,1630224,Green,J. Green,83,277,29,Missed,1,15,12,27,h,MISS Green 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,40
+22200601,52,PT06M31.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,15,12,27,v,Anderson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+22200601,53,PT06M30.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,15,12,27,v,Anderson Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,42
+22200601,53,PT06M30.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,15,12,27,h,Green STEAL (1 STL),,,1,0,43
+22200601,55,PT06M26.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,233,12,0,Made,1,18,12,30,h,Porter Jr. 3PT Jump Shot (6 PTS) (Green 2 AST),Made Shot,Jump Shot,1,3,44
+22200601,57,PT06M07.00S,1,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,18,12,30,v,Russell Traveling Turnover (P2.T5),Turnover,Traveling,1,0,45
+22200601,58,PT06M07.00S,1,0,,1610612745,,,0,0,0,,0,18,12,30,h,ROCKETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,46
+22200601,60,PT05M53.00S,1,1610612745,HOU,201569,Gordon,E. Gordon,0,137,14,Missed,1,18,12,30,h,MISS Gordon 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,47
+22200601,61,PT05M52.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,18,12,30,v,Gobert REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,48
+22200601,62,PT05M38.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,-222,25,0,Missed,1,18,12,30,v,MISS McDaniels 3PT Jump Shot,Missed Shot,Jump Shot,1,3,49
+22200601,63,PT05M37.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,18,12,30,h,Porter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,50
+22200601,64,PT05M32.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,9,28,3,Made,1,20,12,32,h,Smith Jr. 3' Running Finger Roll Layup (6 PTS) (Porter Jr. 2 AST),Made Shot,Running Finger Roll Layup Shot,1,2,51
+22200601,66,PT05M14.00S,1,1610612750,MIN,1626156,Russell,D. Russell,113,122,17,Missed,1,20,12,32,v,MISS Russell 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,52
+22200601,67,PT05M11.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,20,12,32,h,Porter Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,53
+22200601,68,PT04M54.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,103,5,10,Made,1,22,12,34,h,Sengun 10' Floating Jump Shot (8 PTS) (Green 3 AST),Made Shot,Floating Jump shot,1,2,54
+22200601,70,PT04M31.00S,1,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,22,12,34,v,Russell Out of Bounds - Bad Pass Turnover Turnover (P3.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,55
+22200601,71,PT04M31.00S,1,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,22,12,34,h,SUB: Tate FOR Gordon,Substitution,,0,0,56
+22200601,72,PT04M31.00S,1,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,22,12,34,v,SUB: Nowell FOR Russell,Substitution,,0,0,57
+22200601,73,PT04M31.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,22,12,34,v,SUB: Prince FOR McDaniels,Substitution,,0,0,58
+22200601,74,PT04M31.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,22,12,34,v,SUB: Reid FOR Gobert,Substitution,,0,0,59
+22200601,79,PT04M17.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,22,12,34,h,Smith Jr. Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,60
+22200601,79,PT04M17.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,22,12,34,v,Reid STEAL (1 STL),,,1,0,61
+22200601,81,PT04M12.00S,1,1610612750,MIN,1629675,Reid,N. Reid,-15,8,2,Made,1,22,14,36,v,Reid 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,62
+22200601,82,PT03M54.00S,1,1610612745,HOU,1630224,Green,J. Green,-12,16,2,Missed,1,22,14,36,h,MISS Green 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,63
+22200601,83,PT03M54.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,22,14,36,h,Sengun REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,64
+22200601,84,PT03M54.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,Missed,1,22,14,36,h,MISS Sengun Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,65
+22200601,85,PT03M54.00S,1,0,,1610612745,,,0,0,0,,0,22,14,36,h,ROCKETS Rebound,Rebound,Unknown,1,0,66
+22200601,86,PT03M54.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,22,14,36,v,Reid L.B.FOUL (P1.T1) (B.Kennedy),Foul,Loose Ball,1,0,67
+22200601,88,PT03M54.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,22,14,36,h,SUB: Garuba FOR Sengun,Substitution,,0,0,68
+22200601,89,PT03M54.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,22,14,36,v,SUB: Rivers FOR Anderson,Substitution,,0,0,69
+22200601,92,PT03M46.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-109,142,18,Made,1,24,14,38,h,Porter Jr. 18' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,2,70
+22200601,93,PT03M34.00S,1,1610612750,MIN,1629669,Nowell,J. Nowell,-123,226,26,Missed,1,24,14,38,v,MISS Nowell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,71
+22200601,94,PT03M31.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,24,14,38,h,Green REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,72
+22200601,95,PT03M15.00S,1,1610612745,HOU,1630256,Tate,J. Tate,-217,154,27,Made,1,27,14,41,h,Tate 27' 3PT Jump Shot (3 PTS) (Porter Jr. 3 AST),Made Shot,Jump Shot,1,3,73
+22200601,97,PT03M07.00S,1,0,,1610612750,,,0,0,0,,0,27,14,41,v,Timberwolves Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,74
+22200601,98,PT03M07.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,27,14,41,h,SUB: Eason FOR Smith Jr.,Substitution,,0,0,75
+22200601,99,PT03M07.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,27,14,41,h,SUB: Martin Jr. FOR Green,Substitution,,0,0,76
+22200601,102,PT02M58.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,-170,180,25,Made,1,27,17,44,v,Edwards 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,77
+22200601,103,PT02M31.00S,1,1610612745,HOU,1630256,Tate,J. Tate,-195,209,29,Missed,1,27,17,44,h,MISS Tate 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,78
+22200601,104,PT02M31.00S,1,0,,1610612745,,,0,0,0,,0,27,17,44,h,ROCKETS Rebound,Rebound,Unknown,1,0,79
+22200601,105,PT02M31.00S,1,0,,1610612745,,,0,0,0,,0,27,17,44,h,ROCKETS Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,1,0,80
+22200601,106,PT02M09.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,184,179,26,Made,1,27,20,47,v,Edwards 26' 3PT Jump Shot (6 PTS) (Prince 1 AST),Made Shot,Jump Shot,1,3,81
+22200601,108,PT01M47.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,13,133,13,Made,1,29,20,49,h,Porter Jr. 13' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,1,2,82
+22200601,109,PT01M47.00S,1,1610612750,MIN,203085,Rivers,A. Rivers,0,0,0,,0,29,20,49,v,Rivers S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,1,0,83
+22200601,111,PT01M47.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,29,20,49,h,MISS Porter Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,84
+22200601,112,PT01M47.00S,1,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,29,20,49,v,Nowell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,85
+22200601,113,PT01M36.00S,1,1610612750,MIN,1627752,Prince,T. Prince,232,29,0,Missed,1,29,20,49,v,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,1,3,86
+22200601,114,PT01M34.00S,1,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,29,20,49,h,Tate REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+22200601,115,PT01M28.00S,1,1610612745,HOU,1630231,Martin,K. Martin,-6,11,1,Made,1,31,20,51,h,Martin Jr. 1' Running Alley Oop Dunk Shot (2 PTS) (Tate 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,88
+22200601,117,PT01M12.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,-55,63,8,Missed,1,31,20,51,v,MISS Edwards 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,89
+22200601,117,PT01M12.00S,1,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,31,20,51,h,Garuba BLOCK (1 BLK),,,1,2,90
+22200601,119,PT01M12.00S,1,0,,1610612750,,,0,0,0,,0,31,20,51,v,Timberwolves Rebound,Rebound,Unknown,0,0,91
+22200601,121,PT01M12.00S,1,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,31,20,51,h,SUB: Gordon FOR Porter Jr.,Substitution,,0,0,92
+22200601,123,PT01M10.00S,1,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,31,20,51,v,Nowell Traveling Turnover (P1.T7),Turnover,Traveling,1,0,93
+22200601,124,PT00M59.60S,1,1610612745,HOU,201569,Gordon,E. Gordon,15,23,3,Made,1,33,20,53,h,Gordon 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,94
+22200601,125,PT00M43.60S,1,1610612750,MIN,1627752,Prince,T. Prince,232,26,0,Missed,1,33,20,53,v,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,1,3,95
+22200601,126,PT00M41.90S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,33,20,53,v,Reid REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,96
+22200601,127,PT00M40.60S,1,1610612750,MIN,1629675,Reid,N. Reid,18,9,2,Made,1,33,22,55,v,Reid 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,97
+22200601,128,PT00M29.00S,1,1610612745,HOU,1630231,Martin,K. Martin,181,193,26,Missed,1,33,22,55,h,MISS Martin Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,98
+22200601,129,PT00M26.60S,1,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,33,22,55,h,Garuba REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,99
+22200601,130,PT00M22.90S,1,1610612745,HOU,1630256,Tate,J. Tate,-135,235,27,Missed,1,33,22,55,h,MISS Tate 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+22200601,131,PT00M20.40S,1,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,33,22,55,v,Nowell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,101
+22200601,132,PT00M00.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,114,193,22,Made,1,33,24,57,v,Edwards 22' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,2,102
+22200601,133,PT00M00.00S,1,0,,132,Morton,D. Morton,0,0,0,,0,33,24,57,,Instant Replay1st Period (7:33 PM EST),Instant Replay,Support Ruling,0,0,103
+22200601,134,PT00M00.00S,1,0,,0,,,0,0,0,,0,33,24,57,,End of 1st Period (7:34 PM EST),period,end,1,0,104
+22200601,141,PT12M00.00S,2,0,,0,,,0,0,0,,0,33,24,57,,Start of 2nd Period (7:35 PM EST),period,start,0,0,105
+22200601,142,PT11M49.00S,2,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,33,24,57,v,Prince S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,1,0,106
+22200601,144,PT11M49.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,34,24,58,h,Martin Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,107
+22200601,145,PT11M49.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,34,24,58,h,MISS Martin Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,108
+22200601,146,PT11M49.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,34,24,58,v,Reid REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,109
+22200601,147,PT11M32.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-21,1,2,Made,1,34,26,60,v,Reid 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,110
+22200601,148,PT11M20.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,218,205,30,Made,1,37,26,63,h,Gordon 30' 3PT Jump Shot (5 PTS) (Green 4 AST),Made Shot,Jump Shot,1,3,111
+22200601,150,PT11M12.00S,2,1610612750,MIN,1627752,Prince,T. Prince,-23,-8,2,Missed,1,37,26,63,v,MISS Prince 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,112
+22200601,151,PT11M10.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,37,26,63,h,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,113
+22200601,153,PT11M06.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,23,15,3,Made,1,39,26,65,h,Sengun 3' Cutting Layup Shot (10 PTS) (Green 5 AST),Made Shot,Cutting Layup Shot,1,2,114
+22200601,155,PT10M55.00S,2,1610612750,MIN,1629669,Nowell,J. Nowell,23,-6,2,Missed,1,39,26,65,v,MISS Nowell 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,115
+22200601,156,PT10M52.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,39,26,65,h,Sengun REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,116
+22200601,157,PT10M48.00S,2,1610612745,HOU,1630231,Martin,K. Martin,28,21,4,Missed,1,39,26,65,h,MISS Martin Jr. 4' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,117
+22200601,158,PT10M46.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,39,26,65,v,Reid REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,118
+22200601,159,PT10M40.00S,2,1610612750,MIN,1627752,Prince,T. Prince,-174,180,25,Made,1,39,29,68,v,Prince 25' 3PT Jump Shot (3 PTS) (Russell 2 AST),Made Shot,Jump Shot,1,3,119
+22200601,161,PT10M27.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,20,22,3,Made,1,41,29,70,h,Gordon 3' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,120
+22200601,162,PT10M27.00S,2,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,41,29,70,v,Nowell S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,1,0,121
+22200601,164,PT10M27.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,42,29,71,h,Gordon Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,122
+22200601,165,PT10M19.00S,2,1610612750,MIN,1627752,Prince,T. Prince,-1,90,9,Made,1,42,31,73,v,Prince 9' Driving Floating Jump Shot (5 PTS) (Russell 3 AST),Made Shot,Driving Floating Jump Shot,1,2,123
+22200601,167,PT10M06.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,25,20,3,Made,1,44,31,75,h,Sengun 3' Cutting Dunk Shot (12 PTS) (Gordon 3 AST),Made Shot,Cutting Dunk Shot,1,2,124
+22200601,169,PT09M55.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,44,31,75,h,Sengun S.FOUL (P2.T1) (J.DeRosa),Foul,Shooting,1,0,125
+22200601,171,PT09M55.00S,2,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,44,31,75,v,MISS Nowell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,126
+22200601,172,PT09M55.00S,2,0,,1610612750,,,0,0,0,,0,44,31,75,v,Timberwolves Rebound,Rebound,Normal Rebound,0,0,127
+22200601,173,PT09M55.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,44,31,75,v,SUB: Gobert FOR Reid,Substitution,,0,0,128
+22200601,175,PT09M55.00S,2,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,44,32,76,v,Nowell Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,129
+22200601,176,PT09M38.00S,2,1610612745,HOU,1631106,Eason,T. Eason,-15,44,5,Missed,1,44,32,76,h,MISS Eason 5' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,130
+22200601,177,PT09M37.00S,2,0,,1610612750,,,0,0,0,,0,44,32,76,v,Timberwolves Rebound,Rebound,Unknown,1,0,131
+22200601,179,PT09M26.00S,2,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,44,32,76,v,Russell Bad Pass Turnover (P4.T8),Turnover,Bad Pass,1,0,132
+22200601,179,PT09M26.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,44,32,76,h,Eason STEAL (1 STL),,,1,0,133
+22200601,181,PT09M20.00S,2,1610612745,HOU,1630231,Martin,K. Martin,-6,38,4,Made,1,46,32,78,h,Martin Jr. 4' Running Dunk (5 PTS) (Eason 1 AST),Made Shot,Running Dunk Shot,1,2,134
+22200601,183,PT09M05.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,46,32,78,h,Eason P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,1,0,135
+22200601,185,PT08M55.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,13,3,1,Made,1,46,34,80,v,Gobert 1' Cutting Layup Shot (6 PTS) (Russell 4 AST),Made Shot,Cutting Layup Shot,1,2,136
+22200601,187,PT08M43.00S,2,1610612745,HOU,1631106,Eason,T. Eason,6,33,3,Missed,1,46,34,80,h,MISS Eason 3' Layup,Missed Shot,Layup Shot,1,2,137
+22200601,188,PT08M40.00S,2,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,46,34,80,v,Nowell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,138
+22200601,190,PT08M34.00S,2,1610612750,MIN,1629669,Nowell,J. Nowell,-17,1,2,Made,1,46,36,82,v,Nowell 2' Running Layup (3 PTS),Made Shot,Running Layup Shot,1,2,139
+22200601,191,PT08M24.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,59,253,26,Missed,1,46,36,82,h,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+22200601,192,PT08M24.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,46,36,82,h,Martin Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,141
+22200601,193,PT08M18.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,Made,1,48,36,84,h,Martin Jr. Tip Dunk Shot (7 PTS),Made Shot,Tip Dunk Shot,1,2,142
+22200601,194,PT08M05.00S,2,1610612750,MIN,1629669,Nowell,J. Nowell,-138,222,26,Missed,1,48,36,84,v,MISS Nowell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,143
+22200601,195,PT08M03.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,48,36,84,h,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,144
+22200601,196,PT07M55.00S,2,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,48,36,84,v,Nowell P.FOUL (P2.T3) (J.DeRosa),Foul,Personal,1,0,145
+22200601,198,PT07M55.00S,2,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,48,36,84,v,SUB: McDaniels FOR Nowell,Substitution,,0,0,146
+22200601,199,PT07M55.00S,2,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,48,36,84,v,SUB: Anderson FOR Prince,Substitution,,0,0,147
+22200601,202,PT07M46.00S,2,1610612745,HOU,1630224,Green,J. Green,102,246,27,Missed,1,48,36,84,h,MISS Green 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,148
+22200601,203,PT07M44.00S,2,1610612750,MIN,203085,Rivers,A. Rivers,0,0,0,,0,48,36,84,v,Rivers REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,149
+22200601,204,PT07M39.00S,2,1610612750,MIN,203085,Rivers,A. Rivers,-17,6,2,Made,1,48,38,86,v,Rivers 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,150
+22200601,205,PT07M19.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,-23,94,10,Made,1,50,38,88,h,Sengun 10' Turnaround Hook Shot (14 PTS) (Eason 2 AST),Made Shot,Turnaround Hook Shot,1,2,151
+22200601,207,PT07M07.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,-22,8,2,Missed,1,50,38,88,v,MISS Gobert 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,152
+22200601,208,PT07M05.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,50,38,88,v,Gobert REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,153
+22200601,209,PT07M05.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,-27,-7,3,Missed,1,50,38,88,v,MISS Gobert 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,154
+22200601,209,PT07M05.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,50,38,88,h,Eason BLOCK (1 BLK),,,1,2,155
+22200601,211,PT07M05.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,50,38,88,h,Eason REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,156
+22200601,212,PT06M53.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,-20,8,2,Made,1,52,38,90,h,Sengun 2' Driving Floating Bank Jump Shot (16 PTS) (Martin Jr. 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,157
+22200601,213,PT06M36.00S,2,1610612750,MIN,203085,Rivers,A. Rivers,235,24,24,Missed,1,52,38,90,v,MISS Rivers 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,158
+22200601,214,PT06M34.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,52,38,90,v,McDaniels REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,159
+22200601,215,PT06M30.00S,2,1610612750,MIN,1626156,Russell,D. Russell,-38,31,5,Missed,1,52,38,90,v,MISS Russell 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,160
+22200601,216,PT06M30.00S,2,0,,1610612745,,,0,0,0,,0,52,38,90,h,ROCKETS Rebound,Rebound,Unknown,1,0,161
+22200601,217,PT06M30.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,52,38,90,v,Gobert L.B.FOUL (P1.T4) (B.Kennedy),Foul,Loose Ball,1,0,162
+22200601,219,PT06M30.00S,2,0,,1610612745,,,0,0,0,,0,52,38,90,h,ROCKETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,163
+22200601,220,PT06M30.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,52,38,90,h,SUB: Mathews FOR Green,Substitution,,0,0,164
+22200601,221,PT06M30.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,52,38,90,h,SUB: Porter Jr. FOR Martin Jr.,Substitution,,0,0,165
+22200601,222,PT06M30.00S,2,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,52,38,90,h,SUB: Tate FOR Gordon,Substitution,,0,0,166
+22200601,223,PT06M30.00S,2,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,52,38,90,v,SUB: Edwards FOR Russell,Substitution,,0,0,167
+22200601,228,PT06M15.00S,2,1610612745,HOU,1630256,Tate,J. Tate,48,127,14,Missed,1,52,38,90,h,MISS Tate 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,168
+22200601,229,PT06M13.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,52,38,90,h,Tate REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,169
+22200601,230,PT06M11.00S,2,1610612745,HOU,1631106,Eason,T. Eason,-165,196,26,Made,1,55,38,93,h,Eason 26' 3PT Jump Shot (3 PTS) (Tate 2 AST),Made Shot,Jump Shot,1,3,170
+22200601,232,PT05M54.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,70,248,26,Missed,1,55,38,93,v,MISS Edwards 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+22200601,233,PT05M53.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,55,38,93,h,Porter Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,172
+22200601,234,PT05M40.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,232,55,24,Made,1,58,38,96,h,Mathews 24' 3PT Pullup Jump Shot (3 PTS) (Sengun 1 AST),Made Shot,Pullup Jump shot,1,3,173
+22200601,236,PT05M24.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,-53,113,12,Made,1,58,40,98,v,McDaniels 12' Pullup Jump Shot (2 PTS) (Anderson 2 AST),Made Shot,Pullup Jump shot,1,2,174
+22200601,238,PT05M11.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,-2,259,26,Missed,1,58,40,98,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,175
+22200601,239,PT05M10.00S,2,0,,1610612745,,,0,0,0,,0,58,40,98,h,ROCKETS Rebound,Rebound,Unknown,1,0,176
+22200601,241,PT05M10.00S,2,1610612750,MIN,203085,Rivers,A. Rivers,0,0,0,,0,58,40,98,v,SUB: Prince FOR Rivers,Substitution,,0,0,177
+22200601,243,PT05M03.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,58,40,98,h,Porter Jr. Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,178
+22200601,243,PT05M03.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,58,40,98,v,Anderson STEAL (2 STL),,,1,0,179
+22200601,245,PT04M58.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,9,0,1,Made,1,58,42,100,v,Anderson 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,180
+22200601,246,PT04M44.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,58,42,100,v,Gobert S.FOUL (P2.PN) (I.Hwang),Foul,Shooting,1,0,181
+22200601,248,PT04M44.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,59,42,101,h,Sengun Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,182
+22200601,249,PT04M44.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,59,42,101,h,SUB: Smith Jr. FOR Eason,Substitution,,0,0,183
+22200601,251,PT04M44.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,59,42,101,h,MISS Sengun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,184
+22200601,252,PT04M44.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,59,42,101,v,Anderson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,185
+22200601,253,PT04M23.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,-22,221,22,Missed,1,59,42,101,v,MISS Edwards 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,186
+22200601,254,PT04M22.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,59,42,101,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,187
+22200601,259,PT04M02.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,59,42,101,v,Anderson P.FOUL (P1.PN) (J.DeRosa),Foul,Personal,1,0,188
+22200601,261,PT04M02.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,60,42,102,h,Sengun Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,189
+22200601,262,PT04M02.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,60,42,102,h,MISS Sengun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,190
+22200601,263,PT04M02.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,60,42,102,v,McDaniels REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,191
+22200601,264,PT03M41.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,-10,26,3,Made,1,60,44,104,v,Gobert 3' Cutting Dunk Shot (8 PTS) (McDaniels 1 AST),Made Shot,Cutting Dunk Shot,1,2,192
+22200601,266,PT03M22.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,28,8,3,Missed,1,60,44,104,h,MISS Mathews 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,193
+22200601,267,PT03M19.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,60,44,104,v,Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,194
+22200601,268,PT03M17.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,60,44,104,h,Porter Jr. S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,1,0,195
+22200601,271,PT03M17.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,60,45,105,v,Edwards Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,196
+22200601,272,PT03M17.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,60,46,106,v,Edwards Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,197
+22200601,273,PT03M05.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,60,46,106,h,Porter Jr. Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,198
+22200601,274,PT02M55.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,-21,5,2,Made,1,60,48,108,v,McDaniels 2' Cutting Dunk Shot (4 PTS) (Prince 2 AST),Made Shot,Cutting Dunk Shot,1,2,199
+22200601,276,PT02M54.00S,2,0,,1610612745,,,0,0,0,,0,60,48,108,h,ROCKETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,200
+22200601,277,PT02M54.00S,2,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,60,48,108,h,SUB: Green FOR Tate,Substitution,,0,0,201
+22200601,278,PT02M54.00S,2,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,60,48,108,h,SUB: Gordon FOR Mathews,Substitution,,0,0,202
+22200601,281,PT02M41.00S,2,1610612745,HOU,1630224,Green,J. Green,-10,18,2,Missed,1,60,48,108,h,MISS Green 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,203
+22200601,282,PT02M39.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,60,48,108,v,Gobert REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,204
+22200601,283,PT02M36.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,-28,27,4,Missed,1,60,48,108,v,MISS Edwards 4' Running Layup,Missed Shot,Running Layup Shot,1,2,205
+22200601,283,PT02M36.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,60,48,108,h,Sengun BLOCK (1 BLK),,,1,2,206
+22200601,285,PT02M36.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,60,48,108,v,Anderson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,207
+22200601,286,PT02M30.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,12,6,1,Made,1,60,50,110,v,Edwards 1' Driving Reverse Layup (12 PTS) (Anderson 3 AST),Made Shot,Driving Reverse Layup Shot,1,2,208
+22200601,287,PT02M21.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,34,264,27,Missed,1,60,50,110,h,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,209
+22200601,288,PT02M18.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,60,50,110,v,McDaniels REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,210
+22200601,289,PT02M09.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,229,9,0,Made,1,60,53,113,v,McDaniels 3PT Jump Shot (7 PTS) (Prince 3 AST),Made Shot,Jump Shot,1,3,211
+22200601,291,PT01M52.00S,2,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,60,53,113,v,Prince P.FOUL (P2.PN) (B.Kennedy),Foul,Personal,1,0,212
+22200601,293,PT01M52.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,61,53,114,h,Porter Jr. Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,213
+22200601,295,PT01M52.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,62,53,115,h,Porter Jr. Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,214
+22200601,296,PT01M39.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,103,240,26,Missed,1,62,53,115,v,MISS Edwards 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,215
+22200601,297,PT01M37.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,62,53,115,h,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,216
+22200601,298,PT01M24.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,62,53,115,h,Porter Jr. Lost Ball Turnover (P3.T6),Turnover,Lost Ball,1,0,217
+22200601,298,PT01M24.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,62,53,115,v,McDaniels STEAL (1 STL),,,1,0,218
+22200601,300,PT01M22.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,33,6,3,Made,1,62,55,117,v,McDaniels 3' Running Layup (9 PTS),Made Shot,Running Layup Shot,1,2,219
+22200601,301,PT01M22.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,62,55,117,h,Green S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,1,0,220
+22200601,303,PT01M22.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,62,56,118,v,McDaniels Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,221
+22200601,304,PT01M10.00S,2,1610612745,HOU,1630224,Green,J. Green,31,13,3,Missed,1,62,56,118,h,MISS Green 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,222
+22200601,304,PT01M10.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,62,56,118,v,Gobert BLOCK (1 BLK),,,1,2,223
+22200601,306,PT01M10.00S,2,0,,1610612745,,,0,0,0,,0,62,56,118,h,ROCKETS Rebound,Rebound,Unknown,0,0,224
+22200601,308,PT01M05.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,135,34,14,Missed,1,62,56,118,h,MISS Smith Jr. 14' Jump Shot,Missed Shot,Jump Shot,1,2,225
+22200601,309,PT01M03.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,62,56,118,v,Gobert REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,226
+22200601,311,PT00M53.20S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,62,56,118,h,Sengun S.FOUL (P3.PN) (J.DeRosa),Foul,Shooting,1,0,227
+22200601,313,PT00M53.20S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,62,57,119,v,Edwards Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,228
+22200601,314,PT00M53.20S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,62,58,120,v,Edwards Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,229
+22200601,315,PT00M31.40S,2,1610612745,HOU,1630224,Green,J. Green,-71,256,27,Missed,1,62,58,120,h,MISS Green 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,230
+22200601,316,PT00M29.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,62,58,120,h,Porter Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,231
+22200601,317,PT00M17.70S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,62,58,120,h,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,232
+22200601,318,PT00M00.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,-40,30,5,Missed,1,62,58,120,v,MISS Edwards 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,233
+22200601,318,PT00M00.00S,2,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,62,58,120,h,Porter Jr. BLOCK (1 BLK),,,1,2,234
+22200601,320,PT00M00.00S,2,0,,1610612750,,,0,0,0,,0,62,58,120,v,Timberwolves Rebound,Rebound,Unknown,1,0,235
+22200601,321,PT00M00.00S,2,0,,0,,,0,0,0,,0,62,58,120,,End of 2nd Period (8:03 PM EST),period,end,1,0,236
+22200601,324,PT12M00.00S,3,0,,0,,,0,0,0,,0,62,58,120,,Start of 3rd Period (8:18 PM EST),period,start,0,0,237
+22200601,325,PT12M00.00S,3,0,,1610612745,,,0,0,0,,0,62,58,120,h,ROCKETS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,238
+22200601,326,PT11M40.00S,3,1610612745,HOU,1630224,Green,J. Green,96,246,26,Missed,1,62,58,120,h,MISS Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,239
+22200601,327,PT11M38.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,62,58,120,v,Anderson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,240
+22200601,328,PT11M35.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,62,58,120,h,Smith Jr. S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,1,0,241
+22200601,330,PT11M35.00S,3,0,,1610612745,,,0,0,0,,0,62,58,120,h,ROCKETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,242
+22200601,331,PT11M35.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,62,59,121,v,Edwards Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,243
+22200601,332,PT11M35.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,62,60,122,v,Edwards Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,244
+22200601,334,PT11M11.00S,3,0,,1610612745,,,0,0,0,,0,62,60,122,h,ROCKETS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,245
+22200601,335,PT10M47.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,27,254,26,Made,1,62,63,125,v,Edwards 26' 3PT Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,1,3,246
+22200601,336,PT10M18.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,28,253,25,Made,1,65,63,128,h,Porter Jr. 25' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,3,247
+22200601,337,PT10M08.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,-6,18,2,Made,1,65,65,130,v,Gobert 2' Cutting Dunk Shot (10 PTS) (Anderson 4 AST),Made Shot,Cutting Dunk Shot,1,2,248
+22200601,339,PT09M42.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,-2,124,12,Missed,1,65,65,130,h,MISS Sengun 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,249
+22200601,340,PT09M40.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,65,65,130,v,Edwards REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,250
+22200601,341,PT09M34.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,12,154,15,Made,1,65,67,132,v,Edwards 15' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,2,251
+22200601,342,PT09M26.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,65,67,132,h,Porter Jr. Lost Ball Turnover (P4.T9),Turnover,Lost Ball,1,0,252
+22200601,342,PT09M26.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,65,67,132,v,Edwards STEAL (1 STL),,,1,0,253
+22200601,344,PT09M19.00S,3,1610612750,MIN,1626156,Russell,D. Russell,-203,158,26,Made,1,65,70,135,v,Russell 26' 3PT Jump Shot (9 PTS) (Edwards 2 AST),Made Shot,Jump Shot,1,3,254
+22200601,346,PT09M05.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,65,70,135,v,McDaniels P.FOUL (P1.T1) (B.Kennedy),Foul,Personal,1,0,255
+22200601,348,PT08M49.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,25,3,3,Missed,1,65,70,135,h,MISS Sengun 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,256
+22200601,349,PT08M47.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,65,70,135,v,Anderson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,257
+22200601,350,PT08M38.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,234,39,24,Missed,1,65,70,135,v,MISS McDaniels 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,258
+22200601,351,PT08M36.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,65,70,135,h,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,259
+22200601,352,PT08M31.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,107,239,26,Made,1,68,70,138,h,Porter Jr. 26' 3PT Running Pull-Up Jump Shot (18 PTS) (Smith Jr. 1 AST),Made Shot,Running Pull-Up Jump Shot,1,3,260
+22200601,354,PT08M11.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,93,246,26,Missed,1,68,70,138,v,MISS Edwards 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,261
+22200601,355,PT08M09.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,68,70,138,h,Green REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,262
+22200601,356,PT08M03.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,68,70,138,h,Green Out of Bounds Lost Ball Turnover (P2.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,263
+22200601,357,PT07M48.00S,3,1610612750,MIN,1626156,Russell,D. Russell,-77,148,17,Missed,1,68,70,138,v,MISS Russell 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,264
+22200601,358,PT07M46.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,68,70,138,h,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,265
+22200601,359,PT07M26.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,18,0,2,Missed,1,68,70,138,h,MISS Porter Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,266
+22200601,360,PT07M21.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,68,70,138,h,Sengun REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,267
+22200601,361,PT07M21.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,Missed,1,68,70,138,h,MISS Sengun Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,268
+22200601,362,PT07M20.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,68,70,138,v,McDaniels REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,269
+22200601,363,PT07M18.00S,3,1610612750,MIN,1626156,Russell,D. Russell,173,194,26,Missed,1,68,70,138,v,MISS Russell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+22200601,364,PT07M16.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,68,70,138,h,Green REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,271
+22200601,365,PT07M03.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,229,95,25,Missed,1,68,70,138,h,MISS Gordon 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,272
+22200601,366,PT07M00.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,68,70,138,h,Gordon REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,273
+22200601,367,PT06M53.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,237,-4,24,Missed,1,68,70,138,h,MISS Porter Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,274
+22200601,368,PT06M50.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,68,70,138,h,Sengun REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,275
+22200601,369,PT06M48.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-109,241,26,Missed,1,68,70,138,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,276
+22200601,370,PT06M46.00S,3,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,68,70,138,v,Russell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,277
+22200601,371,PT06M30.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-2,128,13,Missed,1,68,70,138,v,MISS Edwards 13' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,278
+22200601,372,PT06M28.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,68,70,138,h,Sengun REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,279
+22200601,374,PT06M22.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,68,70,138,h,SUB: Tate FOR Gordon,Substitution,,0,0,280
+22200601,376,PT06M09.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,68,70,138,h,Sengun Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,281
+22200601,376,PT06M09.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,68,70,138,v,Anderson STEAL (3 STL),,,1,0,282
+22200601,378,PT06M06.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,68,70,138,v,Edwards Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,283
+22200601,378,PT06M06.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,68,70,138,h,Green STEAL (2 STL),,,1,0,284
+22200601,380,PT06M03.00S,3,1610612745,HOU,1630224,Green,J. Green,-23,17,3,Missed,1,68,70,138,h,MISS Green 3' Running Layup,Missed Shot,Running Layup Shot,1,2,285
+22200601,380,PT06M03.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,68,70,138,v,Edwards BLOCK (1 BLK),,,1,2,286
+22200601,382,PT06M03.00S,3,0,,1610612745,,,0,0,0,,0,68,70,138,h,ROCKETS Rebound,Rebound,Unknown,0,0,287
+22200601,384,PT06M03.00S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,68,70,138,h,SUB: Gordon FOR Porter Jr.,Substitution,,0,0,288
+22200601,386,PT06M01.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-113,156,19,Made,1,70,70,140,h,Smith Jr. 19' Jump Shot (8 PTS) (Gordon 4 AST),Made Shot,Jump Shot,1,2,289
+22200601,388,PT06M00.00S,3,0,,1610612750,,,0,0,0,,0,70,70,140,v,Timberwolves Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,290
+22200601,389,PT05M50.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,70,70,140,v,Anderson Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,291
+22200601,389,PT05M50.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,70,70,140,h,Smith Jr. STEAL (2 STL),,,1,0,292
+22200601,391,PT05M48.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,70,70,140,v,Anderson S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,1,0,293
+22200601,393,PT05M48.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,71,70,141,h,Smith Jr. Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,294
+22200601,394,PT05M48.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,71,70,141,v,SUB: Prince FOR Anderson,Substitution,,0,0,295
+22200601,396,PT05M48.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,71,70,141,h,MISS Smith Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,296
+22200601,397,PT05M48.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,71,70,141,v,Gobert REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,297
+22200601,398,PT05M30.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-25,39,5,Missed,1,71,70,141,v,MISS McDaniels 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,298
+22200601,399,PT05M28.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,71,70,141,h,Smith Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,299
+22200601,400,PT05M18.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-229,37,0,Missed,1,71,70,141,h,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,300
+22200601,401,PT05M16.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,71,70,141,v,McDaniels REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,301
+22200601,402,PT05M04.00S,3,1610612750,MIN,1626156,Russell,D. Russell,104,241,26,Made,1,71,73,144,v,Russell 26' 3PT Jump Shot (12 PTS) (McDaniels 2 AST),Made Shot,Jump Shot,1,3,302
+22200601,404,PT04M39.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,6,58,6,Missed,1,71,73,144,h,MISS Sengun 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,303
+22200601,405,PT04M37.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,71,73,144,v,McDaniels REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,304
+22200601,406,PT04M33.00S,3,1610612750,MIN,1626156,Russell,D. Russell,-13,11,2,Made,1,71,75,146,v,Russell 2' Running Layup (14 PTS) (Prince 4 AST),Made Shot,Running Layup Shot,1,2,305
+22200601,408,PT04M14.00S,3,1610612745,HOU,1630224,Green,J. Green,-18,158,16,Made,1,73,75,148,h,Green 16' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,306
+22200601,409,PT04M02.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-18,18,3,Missed,1,73,75,148,v,MISS Edwards 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,307
+22200601,410,PT04M01.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,73,75,148,v,Gobert REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,308
+22200601,411,PT03M59.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Missed,1,73,75,148,v,MISS Gobert Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,309
+22200601,412,PT03M59.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,73,75,148,h,Smith Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,310
+22200601,413,PT03M47.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,73,75,148,h,Tate Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0,311
+22200601,414,PT03M47.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,73,75,148,h,SUB: Garuba FOR Green,Substitution,,0,0,312
+22200601,415,PT03M47.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,73,75,148,h,SUB: Martin Jr. FOR Sengun,Substitution,,0,0,313
+22200601,416,PT03M47.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,73,75,148,v,SUB: Reid FOR McDaniels,Substitution,,0,0,314
+22200601,417,PT03M47.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,73,75,148,v,SUB: Rivers FOR Gobert,Substitution,,0,0,315
+22200601,422,PT03M34.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-89,146,17,Missed,1,73,75,148,v,MISS Edwards 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,316
+22200601,423,PT03M32.00S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,73,75,148,h,Martin Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,317
+22200601,424,PT03M22.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,11,1,1,Made,1,75,75,150,h,Gordon 1' Driving Finger Roll Layup (10 PTS) (Martin Jr. 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,318
+22200601,425,PT03M22.00S,3,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,75,75,150,v,Russell S.FOUL (P1.T3) (I.Hwang),Foul,Shooting,1,0,319
+22200601,427,PT03M22.00S,3,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,75,75,150,v,SUB: Nowell FOR Russell,Substitution,,0,0,320
+22200601,429,PT03M22.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,76,75,151,h,Gordon Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,321
+22200601,430,PT03M10.00S,3,1610612750,MIN,1627752,Prince,T. Prince,-65,85,11,Made,1,76,77,153,v,Prince 11' Turnaround Bank Shot (7 PTS) (Nowell 1 AST),Made Shot,Turnaround Bank shot,1,2,322
+22200601,432,PT02M58.00S,3,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,76,77,153,v,Prince P.FOUL (P3.T4) (B.Kennedy),Foul,Personal,1,0,323
+22200601,434,PT02M58.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,76,77,153,h,SUB: Eason FOR Smith Jr.,Substitution,,0,0,324
+22200601,436,PT02M48.00S,3,1610612745,HOU,1630256,Tate,J. Tate,-45,11,5,Missed,1,76,77,153,h,MISS Tate 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,325
+22200601,436,PT02M48.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,76,77,153,v,Edwards BLOCK (2 BLK),,,1,2,326
+22200601,438,PT02M45.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,76,77,153,h,Tate REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,327
+22200601,439,PT02M45.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,76,77,153,h,Tate Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,328
+22200601,440,PT02M26.00S,3,1610612750,MIN,1629669,Nowell,J. Nowell,-58,8,6,Missed,1,76,77,153,v,MISS Nowell 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,329
+22200601,440,PT02M26.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,76,77,153,h,Gordon BLOCK (1 BLK),,,1,2,330
+22200601,442,PT02M26.00S,3,0,,1610612745,,,0,0,0,,0,76,77,153,h,ROCKETS Rebound,Rebound,Unknown,1,0,331
+22200601,444,PT02M26.00S,3,1610612745,HOU,201569,Gordon,E. Gordon,0,0,0,,0,76,77,153,h,SUB: Porter Jr. FOR Gordon,Substitution,,0,0,332
+22200601,446,PT02M21.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,76,77,153,h,Tate OFF.Foul (P1) (B.Kennedy),Foul,Offensive,1,0,333
+22200601,448,PT02M21.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,76,77,153,h,Tate Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,1,0,334
+22200601,449,PT02M06.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-51,107,12,Missed,1,76,77,153,v,MISS Edwards 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,335
+22200601,451,PT02M06.00S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,76,77,153,v,Reid REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,336
+22200601,525,PT02M05.00S,3,1610612750,MIN,1629675,Reid,N. Reid,-22,25,3,Missed,1,76,77,153,v,MISS Reid 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,337
+22200601,525,PT02M05.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,76,77,153,h,Tate BLOCK (1 BLK),,,1,2,338
+22200601,527,PT02M04.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,76,77,153,h,Eason REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,339
+22200601,454,PT01M54.00S,3,1610612745,HOU,1631106,Eason,T. Eason,54,251,26,Missed,1,76,77,153,h,MISS Eason 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,340
+22200601,455,PT01M52.00S,3,0,,1610612750,,,0,0,0,,0,76,77,153,v,Timberwolves Rebound,Rebound,Unknown,0,0,341
+22200601,457,PT01M52.00S,3,0,,1610612750,,,0,0,0,,0,76,77,153,v,Timberwolves Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,342
+22200601,458,PT01M38.00S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,76,77,153,h,Martin Jr. P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,1,0,343
+22200601,460,PT01M24.00S,3,0,,1610612750,,,0,0,0,,0,76,77,153,v,Timberwolves Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,344
+22200601,462,PT01M07.00S,3,1610612745,HOU,1630256,Tate,J. Tate,241,22,24,Missed,1,76,77,153,h,MISS Tate 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+22200601,463,PT01M05.00S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,76,77,153,v,Reid REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,346
+22200601,464,PT00M56.40S,3,1610612750,MIN,1629669,Nowell,J. Nowell,70,239,25,Missed,1,76,77,153,v,MISS Nowell 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,347
+22200601,465,PT00M53.90S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,76,77,153,h,Tate REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,348
+22200601,466,PT00M51.80S,3,1610612745,HOU,1630586,Garuba,U. Garuba,12,1,1,Made,1,78,77,155,h,Garuba 1' Running Layup (2 PTS) (Tate 3 AST),Made Shot,Running Layup Shot,1,2,349
+22200601,468,PT00M51.80S,3,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,78,77,155,v,Nowell S.FOUL (P3.PN) (I.Hwang),Foul,Shooting,1,0,350
+22200601,470,PT00M51.80S,3,1610612750,MIN,1629669,Nowell,J. Nowell,0,0,0,,0,78,77,155,v,SUB: Russell FOR Nowell,Substitution,,0,0,351
+22200601,472,PT00M51.80S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,79,77,156,h,Garuba Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,352
+22200601,473,PT00M28.80S,3,1610612750,MIN,1626156,Russell,D. Russell,119,239,27,Missed,1,79,77,156,v,MISS Russell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+22200601,474,PT00M26.60S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,79,77,156,h,Martin Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,354
+22200601,477,PT00M04.90S,3,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,109,141,18,Made,1,81,77,158,h,Porter Jr. 18' Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,1,2,355
+22200601,478,PT00M01.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,81,77,158,v,Edwards Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,356
+22200601,478,PT00M01.00S,3,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,81,77,158,h,Tate STEAL (1 STL),,,1,0,357
+22200601,482,PT00M00.00S,3,0,,0,,,0,0,0,,0,81,77,158,,End of 3rd Period (8:46 PM EST),period,end,1,0,358
+22200601,489,PT12M00.00S,4,0,,0,,,0,0,0,,0,81,77,158,,Start of 4th Period (8:48 PM EST),period,start,0,0,359
+22200601,490,PT11M37.00S,4,1610612750,MIN,203085,Rivers,A. Rivers,0,0,0,,0,81,77,158,v,Rivers Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,360
+22200601,491,PT11M22.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,81,77,158,h,Martin Jr. OFF.Foul (P2) (J.DeRosa),Foul,Offensive,1,0,361
+22200601,493,PT11M22.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,81,77,158,h,Martin Jr. Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,1,0,362
+22200601,494,PT11M10.00S,4,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,81,77,158,v,Prince Offensive Charge Foul (P4) (B.Kennedy),Foul,Offensive Charge,1,0,363
+22200601,496,PT11M10.00S,4,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,81,77,158,v,Prince Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,1,0,364
+22200601,497,PT10M57.00S,4,1610612745,HOU,1631106,Eason,T. Eason,10,10,1,Missed,1,81,77,158,h,MISS Eason 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,365
+22200601,498,PT10M55.00S,4,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,81,77,158,v,Russell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,366
+22200601,499,PT10M49.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,-12,16,2,Made,1,81,79,160,v,Gobert 2' Layup (12 PTS) (Anderson 5 AST),Made Shot,Layup Shot,1,2,367
+22200601,501,PT10M27.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,235,74,25,Missed,1,81,79,160,h,MISS Mathews 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,368
+22200601,502,PT10M27.00S,4,0,,1610612750,,,0,0,0,,0,81,79,160,v,Timberwolves Rebound,Rebound,Unknown,0,0,369
+22200601,503,PT10M27.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,81,79,160,h,Garuba L.B.FOUL (P1.T1) (I.Hwang),Foul,Loose Ball,1,0,370
+22200601,505,PT10M27.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,81,79,160,h,SUB: Sengun FOR Garuba,Substitution,,0,0,371
+22200601,507,PT10M12.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,81,79,160,h,Eason S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,1,0,372
+22200601,509,PT10M12.00S,4,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,81,80,161,v,Russell Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,373
+22200601,510,PT10M12.00S,4,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,81,81,162,v,Russell Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,374
+22200601,511,PT09M55.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,207,147,25,Missed,1,81,81,162,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+22200601,512,PT09M54.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,81,81,162,h,Martin Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,376
+22200601,513,PT09M49.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-135,219,26,Missed,1,81,81,162,h,MISS Porter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+22200601,514,PT09M48.00S,4,1610612750,MIN,203085,Rivers,A. Rivers,0,0,0,,0,81,81,162,v,Rivers REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,378
+22200601,515,PT09M41.00S,4,1610612750,MIN,1627752,Prince,T. Prince,-218,115,25,Made,1,81,84,165,v,Prince 25' 3PT Running Pull-Up Jump Shot (10 PTS) (Russell 5 AST),Made Shot,Running Pull-Up Jump Shot,1,3,379
+22200601,517,PT09M25.00S,4,1610612745,HOU,1630231,Martin,K. Martin,-97,234,25,Missed,1,81,84,165,h,MISS Martin Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+22200601,518,PT09M24.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,81,84,165,v,Anderson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,381
+22200601,519,PT09M17.00S,4,1610612750,MIN,203085,Rivers,A. Rivers,-230,21,0,Missed,1,81,84,165,v,MISS Rivers 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,382
+22200601,520,PT09M14.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,81,84,165,v,Gobert REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,383
+22200601,521,PT09M13.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,10,11,1,Made,1,81,86,167,v,Gobert 1' Putback Dunk (14 PTS),Made Shot,Putback Dunk Shot,1,2,384
+22200601,522,PT09M13.00S,4,0,,1610612745,,,0,0,0,,0,81,86,167,h,ROCKETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,385
+22200601,523,PT09M13.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,81,86,167,h,SUB: Smith Jr. FOR Eason,Substitution,,0,0,386
+22200601,528,PT08M48.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,-4,51,5,Missed,1,81,86,167,h,MISS Sengun 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,387
+22200601,528,PT08M48.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,81,86,167,v,Anderson BLOCK (1 BLK),,,1,2,388
+22200601,530,PT08M45.00S,4,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,81,86,167,v,Russell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,389
+22200601,531,PT08M39.00S,4,1610612750,MIN,1627752,Prince,T. Prince,94,52,11,Made,1,81,88,169,v,Prince 11' Floating Jump Shot (12 PTS) (Russell 6 AST),Made Shot,Floating Jump shot,1,2,390
+22200601,533,PT08M24.00S,4,1610612745,HOU,1630231,Martin,K. Martin,-6,10,1,Made,1,83,88,171,h,Martin Jr. 1' Cutting Dunk Shot (9 PTS) (Sengun 2 AST),Made Shot,Cutting Dunk Shot,1,2,391
+22200601,535,PT08M13.00S,4,1610612750,MIN,1626156,Russell,D. Russell,-120,84,15,Made,1,83,90,173,v,Russell 15' Fadeaway Jumper (18 PTS),Made Shot,Fadeaway Jump Shot,1,2,392
+22200601,536,PT07M57.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,86,243,26,Missed,1,83,90,173,h,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,393
+22200601,537,PT07M55.00S,4,1610612750,MIN,203085,Rivers,A. Rivers,0,0,0,,0,83,90,173,v,Rivers REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,394
+22200601,538,PT07M39.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,83,90,173,v,Anderson Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,395
+22200601,538,PT07M39.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,83,90,173,h,Porter Jr. STEAL (1 STL),,,1,0,396
+22200601,540,PT07M39.00S,4,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,83,90,173,v,Russell Transition Take Foul (P2.T1) (J.DeRosa),Foul,Transition Take,1,0,397
+22200601,542,PT07M39.00S,4,0,,540,,,0,0,0,,0,83,90,173,,Instant Replay4th Period (8:58 PM EST),Instant Replay,Support Ruling,0,0,398
+22200601,543,PT07M39.00S,4,1610612745,HOU,1629726,Mathews,G. Mathews,0,0,0,,0,83,90,173,h,SUB: Green FOR Mathews,Substitution,,0,0,399
+22200601,544,PT07M39.00S,4,1610612750,MIN,203085,Rivers,A. Rivers,0,0,0,,0,83,90,173,v,SUB: McDaniels FOR Rivers,Substitution,,0,0,400
+22200601,547,PT07M39.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,83,90,173,h,MISS Porter Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,401
+22200601,548,PT07M39.00S,4,0,,1610612745,,,0,0,0,,0,83,90,173,h,ROCKETS Rebound,Rebound,Unknown,0,0,402
+22200601,549,PT07M29.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,14,253,25,Missed,1,83,90,173,h,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+22200601,550,PT07M17.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,83,90,173,v,Gobert REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,404
+22200601,551,PT07M02.00S,4,1610612750,MIN,1627752,Prince,T. Prince,-159,157,22,Missed,1,83,90,173,v,MISS Prince 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,405
+22200601,552,PT07M00.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,83,90,173,h,Sengun REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,406
+22200601,553,PT06M39.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,83,90,173,h,Green Bad Pass Turnover (P3.T16),Turnover,Bad Pass,1,0,407
+22200601,553,PT06M39.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,83,90,173,v,McDaniels STEAL (2 STL),,,1,0,408
+22200601,555,PT06M35.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,83,90,173,h,Sengun P.FOUL (P4.T3) (J.DeRosa),Foul,Personal,1,0,409
+22200601,557,PT06M35.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,83,90,173,h,SUB: Tate FOR Sengun,Substitution,,0,0,410
+22200601,647,PT06M35.00S,4,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,83,90,173,v,SUB: Edwards FOR Russell,Substitution,,0,0,411
+22200601,559,PT06M26.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,83,90,173,h,Smith Jr. P.FOUL (P2.T4) (B.Kennedy),Foul,Personal,1,0,412
+22200601,561,PT06M19.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,5,20,2,Made,1,83,92,175,v,Gobert 2' Cutting Dunk Shot (16 PTS) (McDaniels 3 AST),Made Shot,Cutting Dunk Shot,1,2,413
+22200601,563,PT06M19.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,83,92,175,h,Porter Jr. S.FOUL (P2.PN) (I.Hwang),Foul,Shooting,1,0,414
+22200601,565,PT06M19.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,83,92,175,v,MISS Gobert Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,415
+22200601,566,PT06M18.00S,4,0,,1610612750,,,0,0,0,,0,83,92,175,v,Timberwolves Rebound,Rebound,Unknown,0,0,416
+22200601,568,PT06M18.00S,4,0,,1610612750,,,0,0,0,,0,83,92,175,v,Timberwolves Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,417
+22200601,569,PT06M18.00S,4,0,,567,,,0,0,0,,0,83,92,175,,Instant Replay4th Period (9:04 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,418
+22200601,572,PT06M03.00S,4,1610612750,MIN,1627752,Prince,T. Prince,-50,115,13,Made,1,83,94,177,v,Prince 13' Fadeaway Jumper (14 PTS) (Edwards 3 AST),Made Shot,Fadeaway Jump Shot,1,2,419
+22200601,573,PT05M41.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-21,248,25,Missed,1,83,94,177,h,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+22200601,574,PT05M39.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,83,94,177,v,Edwards REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,421
+22200601,575,PT05M32.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,69,256,27,Missed,1,83,94,177,v,MISS Edwards 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,422
+22200601,576,PT05M31.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,83,94,177,h,Martin Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,423
+22200601,577,PT05M21.00S,4,1610612745,HOU,1630231,Martin,K. Martin,-125,220,25,Made,1,86,94,180,h,Martin Jr. 25' 3PT Jump Shot (12 PTS) (Porter Jr. 4 AST),Made Shot,Jump Shot,1,3,424
+22200601,579,PT04M56.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,86,94,180,v,Edwards Lost Ball Turnover (P3.T16),Turnover,Lost Ball,1,0,425
+22200601,579,PT04M56.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,86,94,180,h,Smith Jr. STEAL (3 STL),,,1,0,426
+22200601,581,PT04M52.00S,4,1610612745,HOU,1630224,Green,J. Green,18,9,2,Made,1,88,94,182,h,Green 2' Running Alley Oop Dunk Shot (6 PTS) (Smith Jr. 2 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,427
+22200601,583,PT04M52.00S,4,0,,1610612750,,,0,0,0,,0,88,94,182,v,Timberwolves Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,428
+22200601,584,PT04M52.00S,4,1610612750,MIN,1627752,Prince,T. Prince,0,0,0,,0,88,94,182,v,SUB: Russell FOR Prince,Substitution,,0,0,429
+22200601,586,PT04M30.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,-12,11,2,Made,1,88,96,184,v,McDaniels 2' Driving Finger Roll Layup (12 PTS) (Anderson 6 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,430
+22200601,588,PT04M19.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-131,218,25,Missed,1,88,96,184,h,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,431
+22200601,589,PT04M17.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,88,96,184,v,McDaniels REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,432
+22200601,590,PT03M55.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,88,96,184,v,Gobert OFF.Foul (P3) (B.Kennedy),Foul,Offensive,1,0,433
+22200601,592,PT03M55.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,88,96,184,v,Gobert Offensive Foul Turnover (P2.T17),Turnover,Offensive Foul Turnover,1,0,434
+22200601,594,PT03M39.00S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,58,247,25,Made,1,91,96,187,h,Porter Jr. 25' 3PT Pullup Jump Shot (23 PTS) (Tate 4 AST),Made Shot,Pullup Jump shot,1,3,435
+22200601,596,PT03M17.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,29,50,6,Missed,1,91,96,187,v,MISS Anderson 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,436
+22200601,597,PT03M13.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,91,96,187,v,Gobert REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,437
+22200601,598,PT03M13.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Made,1,91,98,189,v,Gobert Tip Dunk Shot (18 PTS),Made Shot,Tip Dunk Shot,1,2,438
+22200601,599,PT03M06.00S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-1,17,2,Missed,1,91,98,189,h,MISS Smith Jr. 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,439
+22200601,600,PT03M06.00S,4,0,,1610612750,,,0,0,0,,0,91,98,189,v,Timberwolves Rebound,Rebound,Unknown,0,0,440
+22200601,601,PT03M06.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,91,98,189,h,Tate L.B.FOUL (P2.PN) (I.Hwang),Foul,Loose Ball,1,0,441
+22200601,603,PT03M06.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,91,99,190,v,Anderson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,442
+22200601,604,PT03M06.00S,4,1610612745,HOU,1630256,Tate,J. Tate,0,0,0,,0,91,99,190,h,SUB: Sengun FOR Tate,Substitution,,0,0,443
+22200601,606,PT03M06.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,91,100,191,v,Anderson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,444
+22200601,607,PT02M48.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,91,100,191,h,Sengun Out of Bounds - Bad Pass Turnover Turnover (P3.T17),Turnover,Out of Bounds - Bad Pass Turnover,1,0,445
+22200601,608,PT02M48.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,91,100,191,h,SUB: Gordon FOR Martin Jr.,Substitution,,0,0,446
+22200601,610,PT02M41.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,91,100,191,h,Sengun S.FOUL (P5.PN) (I.Hwang),Foul,Shooting,1,0,447
+22200601,612,PT02M41.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,91,100,191,v,MISS McDaniels Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,448
+22200601,613,PT02M41.00S,4,0,,1610612750,,,0,0,0,,0,91,100,191,v,Timberwolves Rebound,Rebound,Normal Rebound,1,0,449
+22200601,614,PT02M41.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,91,100,191,v,MISS McDaniels Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,450
+22200601,615,PT02M41.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,91,100,191,h,Sengun REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,451
+22200601,616,PT02M25.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,2,122,12,Missed,1,91,100,191,h,MISS Sengun 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,452
+22200601,617,PT02M23.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,91,100,191,v,Edwards REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,453
+22200601,618,PT02M06.00S,4,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,91,100,191,h,Green S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,1,0,454
+22200601,620,PT02M06.00S,4,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,91,101,192,v,Russell Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,455
+22200601,621,PT02M06.00S,4,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,91,102,193,v,Russell Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,456
+22200601,622,PT01M50.00S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,91,102,193,h,Sengun Out of Bounds - Bad Pass Turnover Turnover (P4.T18),Turnover,Out of Bounds - Bad Pass Turnover,1,0,457
+22200601,623,PT01M35.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-137,134,19,Missed,1,91,102,193,v,MISS Edwards 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,458
+22200601,624,PT01M32.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,91,102,193,v,McDaniels REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,459
+22200601,625,PT01M28.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,91,102,193,v,McDaniels OFF.Foul (P2) (B.Kennedy),Foul,Offensive,1,0,460
+22200601,627,PT01M28.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,91,102,193,v,McDaniels Offensive Foul Turnover (P2.T18),Turnover,Offensive Foul Turnover,1,0,461
+22200601,628,PT01M23.00S,4,1610612745,HOU,1630224,Green,J. Green,-141,218,26,Made,1,94,102,196,h,Green 26' 3PT Jump Shot (9 PTS) (Porter Jr. 5 AST),Made Shot,Jump Shot,0,3,462
+22200601,630,PT01M02.00S,4,1610612750,MIN,1626156,Russell,D. Russell,-162,113,20,Missed,1,94,102,196,v,MISS Russell 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,463
+22200601,631,PT01M00.00S,4,0,,1610612745,,,0,0,0,,0,94,102,196,h,ROCKETS Rebound,Rebound,Unknown,0,0,464
+22200601,633,PT00M50.50S,4,1610612745,HOU,1630224,Green,J. Green,162,216,27,Missed,1,94,102,196,h,MISS Green 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,465
+22200601,634,PT00M48.20S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,94,102,196,h,Porter Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,466
+22200601,635,PT00M46.50S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,94,102,196,h,Porter Jr. Lost Ball Turnover (P5.T19),Turnover,Lost Ball,1,0,467
+22200601,635,PT00M46.50S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,94,102,196,v,Anderson STEAL (4 STL),,,1,0,468
+22200601,637,PT00M45.90S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,94,102,196,h,Sengun Violation:Kicked Ball (B.Kennedy),Violation,Kicked Ball,0,0,469
+22200601,638,PT00M40.90S,4,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,94,102,196,h,Smith Jr. Personal Take Foul (P3.PN) (J.DeRosa),Foul,Personal Take,1,0,470
+22200601,640,PT00M40.90S,4,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,94,103,197,v,Russell Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,471
+22200601,641,PT00M40.90S,4,1610612750,MIN,1626156,Russell,D. Russell,0,0,0,,0,94,104,198,v,Russell Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,472
+22200601,642,PT00M31.20S,4,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,94,104,198,h,Sengun Out of Bounds Lost Ball Turnover (P5.T20),Turnover,Out of Bounds Lost Ball Turnover,1,0,473
+22200601,643,PT00M07.20S,4,0,,1610612750,,,0,0,0,,0,94,104,198,v,Timberwolves Turnover: Shot Clock (T#19),Turnover,Shot Clock Turnover,1,0,474
+22200601,644,PT00M00.50S,4,1610612745,HOU,1629645,Porter Jr.,K. Porter Jr.,-2,17,2,Made,1,96,104,200,h,Porter Jr. 2' Driving Dunk (25 PTS),Made Shot,Driving Dunk Shot,1,2,475
+22200601,645,PT00M00.00S,4,0,,0,,,0,0,0,,0,96,104,200,,End of 4th Period (9:21 PM EST),period,end,1,0,476

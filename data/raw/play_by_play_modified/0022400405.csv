@@ -1,0 +1,453 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22400405,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (12:08 PM EST),period,start,0,0,1
+22400405,4,PT12M00.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,0,0,0,h,Jump Ball Towns vs. Wembanyama: Tip to Sochan,Jump Ball,,1,0,2
+22400405,7,PT11M43.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,0,0,0,v,Wembanyama Traveling Turnover (P1.T1),Turnover,Traveling,1,0,3
+22400405,8,PT11M29.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-233,77,25,Made,1,3,0,3,h,Bridges 25' 3PT Jump Shot (3 PTS) (Brunson 1 AST),Made Shot,Jump Shot,1,3,4
+22400405,10,PT11M16.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-172,197,26,Missed,1,3,0,3,v,MISS Wembanyama 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+22400405,11,PT11M14.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,3,0,3,h,Anunoby REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+22400405,12,PT11M01.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-20,26,3,Made,1,5,0,5,h,Bridges 3' Fadeaway Bank Shot (5 PTS),Made Shot,Fadeaway Bank shot,1,2,7
+22400405,13,PT10M50.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-6,320,32,Missed,1,5,0,5,v,MISS Wembanyama 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,8
+22400405,14,PT10M48.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,5,0,5,v,Barnes REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,9
+22400405,15,PT10M39.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,-36,26,4,Made,1,5,2,7,v,Barnes 4' Driving Floating Jump Shot (2 PTS) (Wembanyama 1 AST),Made Shot,Driving Floating Jump Shot,1,2,10
+22400405,17,PT10M26.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-6,8,1,Made,1,7,2,9,h,Bridges 1' Reverse Layup (7 PTS) (Hart 1 AST),Made Shot,Reverse Layup Shot,1,2,11
+22400405,19,PT10M12.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-7,28,3,Made,1,7,4,11,v,Wembanyama 3' Cutting Layup Shot (2 PTS) (Sochan 1 AST),Made Shot,Cutting Layup Shot,1,2,12
+22400405,21,PT10M00.00S,1,1610612752,NYK,1628404,Hart,J. Hart,16,9,2,Made,1,9,4,13,h,Hart 2' Driving Layup (2 PTS) (Brunson 2 AST),Made Shot,Driving Layup Shot,1,2,13
+22400405,23,PT10M00.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,9,4,13,v,Wembanyama Violation:Defensive Goaltending (S.Corbin),Violation,Defensive Goaltending,1,0,14
+22400405,24,PT09M44.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,-22,28,4,Made,1,9,6,15,v,Vassell 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,15
+22400405,25,PT09M44.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,9,6,15,h,Anunoby S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,1,0,16
+22400405,27,PT09M44.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,9,7,16,v,Vassell Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,17
+22400405,28,PT09M33.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,123,19,12,Missed,1,9,7,16,h,MISS Brunson 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,18
+22400405,29,PT09M30.00S,1,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,9,7,16,v,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+22400405,30,PT09M20.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,9,7,16,h,Towns S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,1,0,20
+22400405,32,PT09M20.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,9,8,17,v,Wembanyama Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,21
+22400405,33,PT09M20.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,9,9,18,v,Wembanyama Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,22
+22400405,34,PT09M07.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,-7,24,3,Missed,1,9,9,18,h,MISS Anunoby 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,23
+22400405,35,PT09M04.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,9,9,18,h,Anunoby REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,24
+22400405,36,PT09M03.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,2,13,1,Missed,1,9,9,18,h,MISS Anunoby 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,25
+22400405,36,PT09M03.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,9,9,18,v,Wembanyama BLOCK (1 BLK),,,1,2,26
+22400405,38,PT09M03.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,9,9,18,v,Sochan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,27
+22400405,39,PT08M58.00S,1,1610612759,SAS,101108,Paul,C. Paul,-64,252,26,Missed,1,9,9,18,v,MISS Paul 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,28
+22400405,40,PT08M58.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,9,9,18,v,Sochan REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,29
+22400405,41,PT08M54.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,Made,1,9,11,20,v,Sochan Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,30
+22400405,42,PT08M46.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,9,11,20,v,Sochan P.FOUL (P1.T1) (S.Corbin),Foul,Personal,1,0,31
+22400405,44,PT08M36.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,-230,-17,0,Missed,1,9,11,20,h,MISS Anunoby 3PT Jump Shot,Missed Shot,Jump Shot,1,3,32
+22400405,45,PT08M33.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,9,11,20,v,Wembanyama REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+22400405,46,PT08M27.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-1,263,26,Missed,1,9,11,20,v,MISS Wembanyama 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,34
+22400405,47,PT08M24.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,9,11,20,h,Brunson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,35
+22400405,48,PT08M18.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,4,0,Made,1,11,11,22,h,Towns Cutting Dunk Shot (2 PTS) (Anunoby 1 AST),Made Shot,Cutting Dunk Shot,1,2,36
+22400405,50,PT07M53.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,-224,80,24,Missed,1,11,11,22,v,MISS Barnes 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,37
+22400405,51,PT07M52.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,11,11,22,h,Anunoby REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,38
+22400405,52,PT07M45.00S,1,1610612752,NYK,1626157,Towns,K. Towns,-25,289,29,Missed,1,11,11,22,h,MISS Towns 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,39
+22400405,53,PT07M43.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,11,11,22,v,Sochan REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,40
+22400405,54,PT07M36.00S,1,1610612759,SAS,101108,Paul,C. Paul,72,253,26,Made,1,11,14,25,v,Paul 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,41
+22400405,55,PT07M14.00S,1,1610612752,NYK,1628404,Hart,J. Hart,-13,20,2,Missed,1,11,14,25,h,MISS Hart 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,42
+22400405,55,PT07M14.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,11,14,25,v,Wembanyama BLOCK (2 BLK),,,1,2,43
+22400405,57,PT07M11.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,11,14,25,h,Hart REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,44
+22400405,58,PT07M10.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,-17,26,3,Made,1,13,14,27,h,Anunoby 3' Cutting Layup Shot (2 PTS) (Hart 2 AST),Made Shot,Cutting Layup Shot,1,2,45
+22400405,60,PT06M53.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,-16,11,2,Made,1,13,16,29,v,Sochan 2' Alley Oop Layup (4 PTS) (Wembanyama 2 AST),Made Shot,Alley Oop Layup shot,1,2,46
+22400405,62,PT06M37.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,136,224,26,Missed,1,13,16,29,h,MISS Brunson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,47
+22400405,63,PT06M34.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,13,16,29,v,Wembanyama REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,48
+22400405,64,PT06M29.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,36,260,26,Missed,1,13,16,29,v,MISS Vassell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,49
+22400405,65,PT06M29.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,13,16,29,h,Hart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,50
+22400405,66,PT06M05.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,47,32,6,Made,1,15,16,31,h,Bridges 6' Floating Jump Shot (9 PTS),Made Shot,Floating Jump shot,1,2,51
+22400405,67,PT05M51.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,158,222,27,Missed,1,15,16,31,v,MISS Wembanyama 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,52
+22400405,68,PT05M49.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,15,16,31,h,Hart REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,53
+22400405,69,PT05M43.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,2,8,1,Missed,1,15,16,31,h,MISS Anunoby 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,54
+22400405,69,PT05M43.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,15,16,31,v,Vassell BLOCK (1 BLK),,,1,2,55
+22400405,71,PT05M40.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,15,16,31,v,Wembanyama REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,56
+22400405,72,PT05M35.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,6,25,3,Missed,1,15,16,31,v,MISS Barnes 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,57
+22400405,73,PT05M33.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,15,16,31,h,Hart REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,58
+22400405,74,PT05M27.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,229,11,0,Missed,1,15,16,31,h,MISS Anunoby 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,59
+22400405,75,PT05M25.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,15,16,31,h,Hart REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,60
+22400405,76,PT05M22.00S,1,1610612752,NYK,1626157,Towns,K. Towns,-1,250,25,Missed,1,15,16,31,h,MISS Towns 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+22400405,77,PT05M22.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,15,16,31,v,Wembanyama REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,62
+22400405,78,PT05M08.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,15,16,31,v,Barnes OFF.Foul (P1) (T.Brothers),Foul,Offensive,1,0,63
+22400405,80,PT05M08.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,15,16,31,v,Barnes Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,64
+22400405,81,PT05M08.00S,1,0,,1610612752,,,0,0,0,,0,15,16,31,h,KNICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,65
+22400405,82,PT05M08.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,15,16,31,h,SUB: Achiuwa FOR Hart,Substitution,,0,0,66
+22400405,83,PT05M08.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,15,16,31,h,SUB: McBride FOR Towns,Substitution,,0,0,67
+22400405,84,PT05M08.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,15,16,31,v,SUB: Champagnie FOR Barnes,Substitution,,0,0,68
+22400405,85,PT05M08.00S,1,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,15,16,31,v,SUB: Castle FOR Paul,Substitution,,0,0,69
+22400405,86,PT05M08.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,15,16,31,v,SUB: Johnson FOR Wembanyama,Substitution,,0,0,70
+22400405,92,PT04M44.00S,1,1610612752,NYK,1630540,McBride,M. McBride,-11,255,26,Missed,1,15,16,31,h,MISS McBride 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,71
+22400405,93,PT04M41.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,15,16,31,h,Anunoby REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,72
+22400405,94,PT04M38.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-80,140,16,Made,1,17,16,33,h,Brunson 16' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,73
+22400405,95,PT04M23.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,17,16,33,v,Vassell Traveling Turnover (P1.T3),Turnover,Traveling,1,0,74
+22400405,96,PT04M09.00S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,17,16,33,v,Castle S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,1,0,75
+22400405,98,PT04M09.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,18,16,34,h,Brunson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,76
+22400405,99,PT04M09.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,18,16,34,h,MISS Brunson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,77
+22400405,100,PT04M07.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,18,16,34,v,Sochan REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,78
+22400405,101,PT03M54.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,-96,57,11,Missed,1,18,16,34,v,MISS Vassell 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,79
+22400405,102,PT03M52.00S,1,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,18,16,34,h,Achiuwa REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,80
+22400405,103,PT03M39.00S,1,1610612752,NYK,1630540,McBride,M. McBride,-167,203,26,Missed,1,18,16,34,h,MISS McBride 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+22400405,104,PT03M36.00S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,18,16,34,v,Castle REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,82
+22400405,105,PT03M31.00S,1,1610612759,SAS,1642264,Castle,S. Castle,-15,22,3,Missed,1,18,16,34,v,MISS Castle 3' Running Layup,Missed Shot,Running Layup Shot,1,2,83
+22400405,106,PT03M31.00S,1,0,,1610612752,,,0,0,0,,0,18,16,34,h,KNICKS Rebound,Rebound,Unknown,1,0,84
+22400405,108,PT03M12.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,127,227,26,Missed,1,18,16,34,h,MISS Brunson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,85
+22400405,109,PT03M08.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,18,16,34,h,Anunoby REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,86
+22400405,110,PT03M05.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,18,16,34,v,Champagnie S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,1,0,87
+22400405,112,PT03M05.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,19,16,35,h,Brunson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,88
+22400405,113,PT03M05.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,20,16,36,h,Brunson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,89
+22400405,114,PT02M48.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,156,215,27,Made,1,20,19,39,v,Champagnie 27' 3PT Jump Shot (3 PTS) (Vassell 1 AST),Made Shot,Jump Shot,1,3,90
+22400405,116,PT02M29.00S,1,1610612752,NYK,1630540,McBride,M. McBride,-18,19,3,Missed,1,20,19,39,h,MISS McBride 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,91
+22400405,117,PT02M27.00S,1,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,20,19,39,h,Achiuwa REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,92
+22400405,119,PT02M27.00S,1,0,,1610612759,,,0,0,0,,0,20,19,39,v,Spurs Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,93
+22400405,120,PT02M27.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,20,19,39,v,SUB: Wembanyama FOR Sochan,Substitution,,0,0,94
+22400405,121,PT02M27.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,20,19,39,v,SUB: Jones FOR Vassell,Substitution,,0,0,95
+22400405,124,PT02M21.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,4,41,4,Made,1,22,19,41,h,Brunson 4' Driving Floating Jump Shot (7 PTS) (Achiuwa 1 AST),Made Shot,Driving Floating Jump Shot,1,2,96
+22400405,128,PT01M58.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,22,19,41,h,SUB: Towns FOR Anunoby,Substitution,,0,0,97
+22400405,129,PT01M58.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,22,19,41,h,SUB: Payne FOR Brunson,Substitution,,0,0,98
+22400405,132,PT01M58.00S,1,0,,1610612752,,,0,0,0,,0,22,19,41,h,KNICKS Timeout: Coach Challenge (Full 1 Short 0),Timeout,Coach Challenge,0,0,99
+22400405,133,PT01M58.00S,1,0,,126,,,0,0,0,,0,22,19,41,,Instant Replay1st Period (12:31 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,100
+22400405,134,PT01M53.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-153,162,22,Missed,1,22,19,41,v,MISS Wembanyama 22' Jump Shot,Missed Shot,Jump Shot,1,2,101
+22400405,135,PT01M52.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,22,19,41,h,Towns REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+22400405,136,PT01M37.00S,1,1610612752,NYK,1626157,Towns,K. Towns,124,219,25,Missed,1,22,19,41,h,MISS Towns 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+22400405,137,PT01M35.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,22,19,41,v,Champagnie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+22400405,138,PT01M29.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,241,11,24,Made,1,22,22,44,v,Wembanyama 24' 3PT Running Jump Shot (7 PTS) (Jones 1 AST),Made Shot,Running Jump Shot,1,3,105
+22400405,140,PT01M21.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,22,22,44,v,Johnson S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,1,0,106
+22400405,142,PT01M21.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,23,22,45,h,Towns Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,107
+22400405,143,PT01M21.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,24,22,46,h,Towns Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,108
+22400405,144,PT01M09.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-15,153,15,Missed,1,24,22,46,v,MISS Wembanyama 15' Jump Shot,Missed Shot,Jump Shot,1,2,109
+22400405,145,PT01M07.00S,1,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,24,22,46,h,McBride REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,110
+22400405,146,PT01M00.00S,1,1610612752,NYK,1626166,Payne,C. Payne,152,264,30,Missed,1,24,22,46,h,MISS Payne 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+22400405,147,PT00M58.10S,1,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,24,22,46,h,McBride REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,112
+22400405,148,PT00M51.90S,1,1610612752,NYK,1626157,Towns,K. Towns,5,42,4,Missed,1,24,22,46,h,MISS Towns 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,113
+22400405,149,PT00M51.70S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,24,22,46,h,Towns REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,114
+22400405,150,PT00M51.70S,1,1610612752,NYK,1626157,Towns,K. Towns,7,-1,1,Made,1,26,22,48,h,Towns 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,115
+22400405,151,PT00M42.90S,1,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,26,22,48,h,Bridges S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,1,0,116
+22400405,153,PT00M42.90S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,26,22,48,v,MISS Castle Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,117
+22400405,154,PT00M42.90S,1,0,,1610612759,,,0,0,0,,0,26,22,48,v,Spurs Rebound,Rebound,Normal Rebound,0,0,118
+22400405,155,PT00M42.90S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,26,23,49,v,Castle Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,119
+22400405,156,PT00M38.20S,1,1610612752,NYK,1626166,Payne,C. Payne,0,0,0,,0,26,23,49,h,Payne OFF.Foul (P1) (T.Brothers),Foul,Offensive,1,0,120
+22400405,158,PT00M38.20S,1,1610612752,NYK,1626166,Payne,C. Payne,0,0,0,,0,26,23,49,h,Payne Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,121
+22400405,159,PT00M33.20S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-23,319,32,Made,1,26,26,52,v,Wembanyama 32' 3PT Jump Shot (10 PTS) (Jones 2 AST),Made Shot,Jump Shot,1,3,122
+22400405,161,PT00M12.60S,1,1610612752,NYK,1626157,Towns,K. Towns,-32,5,3,Made,1,28,26,54,h,Towns 3' Fadeaway Jumper (8 PTS) (Payne 1 AST),Made Shot,Fadeaway Jump Shot,1,2,123
+22400405,163,PT00M07.70S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,28,26,54,h,Towns P.FOUL (P2.PN) (S.Corbin),Foul,Personal,1,0,124
+22400405,167,PT00M07.70S,1,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,28,26,54,h,SUB: Brunson FOR Achiuwa,Substitution,,0,0,125
+22400405,168,PT00M07.70S,1,1610612752,NYK,1626166,Payne,C. Payne,0,0,0,,0,28,26,54,h,SUB: Anunoby FOR Payne,Substitution,,0,0,126
+22400405,169,PT00M07.70S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,28,26,54,v,SUB: Sochan FOR Johnson,Substitution,,0,0,127
+22400405,165,PT00M07.70S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,28,26,54,v,MISS Castle Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,128
+22400405,166,PT00M07.70S,1,0,,1610612759,,,0,0,0,,0,28,26,54,v,Spurs Rebound,Rebound,Normal Rebound,0,0,129
+22400405,173,PT00M07.70S,1,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,28,27,55,v,Castle Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,130
+22400405,174,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,27,55,,End of 1st Period (12:39 PM EST),period,end,1,0,131
+22400405,183,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,27,55,,Start of 2nd Period (12:43 PM EST),period,start,0,0,132
+22400405,184,PT11M50.00S,2,1610612752,NYK,1626166,Payne,C. Payne,-13,63,6,Made,1,30,27,57,h,Payne 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,0,2,133
+22400405,185,PT11M32.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-85,50,10,Missed,1,30,27,57,v,MISS Wembanyama 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,134
+22400405,186,PT11M30.00S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,30,27,57,h,Towns REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,135
+22400405,187,PT11M21.00S,2,1610612752,NYK,1626166,Payne,C. Payne,200,157,25,Missed,1,30,27,57,h,MISS Payne 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+22400405,188,PT11M19.00S,2,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,30,27,57,v,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,137
+22400405,189,PT11M15.00S,2,1610612759,SAS,1630200,Jones,T. Jones,1,13,1,Made,1,30,29,59,v,Jones 1' Running Layup (2 PTS) (Paul 1 AST),Made Shot,Running Layup Shot,1,2,138
+22400405,191,PT11M01.00S,2,1610612752,NYK,1626157,Towns,K. Towns,-89,234,25,Missed,1,30,29,59,h,MISS Towns 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+22400405,192,PT10M59.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,30,29,59,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+22400405,193,PT10M56.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,47,28,5,Made,1,30,31,61,v,Wembanyama 5' Running Jump Shot (12 PTS) (Jones 3 AST),Made Shot,Running Jump Shot,1,2,141
+22400405,195,PT10M35.00S,2,1610612752,NYK,1626157,Towns,K. Towns,7,58,6,Made,1,32,31,63,h,Towns 6' Driving Hook Shot (10 PTS) (McBride 1 AST),Made Shot,Driving Hook Shot,1,2,142
+22400405,197,PT10M27.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,104,239,26,Made,1,32,34,66,v,Wembanyama 26' 3PT Jump Shot (15 PTS) (Jones 4 AST),Made Shot,Jump Shot,1,3,143
+22400405,199,PT10M09.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,-227,0,0,Missed,1,32,34,66,h,MISS Anunoby 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,144
+22400405,200,PT10M07.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,32,34,66,v,Champagnie REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,145
+22400405,201,PT10M01.00S,2,1610612759,SAS,101108,Paul,C. Paul,-119,230,26,Made,1,32,37,69,v,Paul 26' 3PT Jump Shot (6 PTS) (Jones 5 AST),Made Shot,Jump Shot,1,3,146
+22400405,203,PT09M39.00S,2,1610612752,NYK,1628404,Hart,J. Hart,-100,230,25,Missed,1,32,37,69,h,MISS Hart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+22400405,204,PT09M36.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,32,37,69,v,Wembanyama REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,148
+22400405,205,PT09M29.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,17,11,2,Made,1,32,39,71,v,Johnson 2' Driving Layup (2 PTS) (Jones 6 AST),Made Shot,Driving Layup Shot,1,2,149
+22400405,207,PT09M28.00S,2,0,,1610612752,,,0,0,0,,0,32,39,71,h,KNICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,150
+22400405,208,PT09M17.00S,2,1610612752,NYK,1626166,Payne,C. Payne,0,0,0,,0,32,39,71,h,Payne Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,151
+22400405,209,PT09M00.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,32,39,71,v,Wembanyama Traveling Turnover (P2.T4),Turnover,Traveling,1,0,152
+22400405,210,PT09M00.00S,2,1610612752,NYK,1626166,Payne,C. Payne,0,0,0,,0,32,39,71,h,SUB: Brunson FOR Payne,Substitution,,0,0,153
+22400405,212,PT08M44.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,118,141,18,Missed,1,32,39,71,h,MISS Brunson 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,154
+22400405,213,PT08M41.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,32,39,71,v,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,155
+22400405,214,PT08M36.00S,2,1610612759,SAS,101108,Paul,C. Paul,0,270,27,Missed,1,32,39,71,v,MISS Paul 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,156
+22400405,215,PT08M33.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,32,39,71,v,Wembanyama REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,157
+22400405,216,PT08M32.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-4,4,1,Made,1,32,41,73,v,Wembanyama 1' Putback Dunk (17 PTS),Made Shot,Putback Dunk Shot,1,2,158
+22400405,217,PT08M08.00S,2,1610612752,NYK,1630540,McBride,M. McBride,-228,-4,0,Made,1,35,41,76,h,McBride 3PT Jump Shot (3 PTS) (Brunson 3 AST),Made Shot,Jump Shot,1,3,159
+22400405,219,PT07M58.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,61,264,27,Missed,1,35,41,76,v,MISS Wembanyama 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+22400405,220,PT07M54.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,35,41,76,h,McBride REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,161
+22400405,221,PT07M35.00S,2,1610612752,NYK,1628404,Hart,J. Hart,6,-4,1,Made,1,37,41,78,h,Hart 1' Layup (4 PTS) (Towns 1 AST),Made Shot,Layup Shot,1,2,162
+22400405,223,PT07M15.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,37,41,78,v,Wembanyama Out of Bounds Lost Ball Turnover (P3.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,163
+22400405,224,PT07M15.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,37,41,78,h,SUB: Bridges FOR Anunoby,Substitution,,0,0,164
+22400405,225,PT07M15.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,37,41,78,v,SUB: Sochan FOR Jones,Substitution,,0,0,165
+22400405,228,PT06M56.00S,2,1610612752,NYK,1630540,McBride,M. McBride,181,178,25,Missed,1,37,41,78,h,MISS McBride 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,166
+22400405,229,PT06M52.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,37,41,78,v,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,167
+22400405,230,PT06M45.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-18,109,11,Made,1,37,43,80,v,Wembanyama 11' Fadeaway Jumper (19 PTS) (Paul 2 AST),Made Shot,Fadeaway Jump Shot,1,2,168
+22400405,232,PT06M37.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,37,43,80,v,Wembanyama S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1,0,169
+22400405,235,PT06M37.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,37,43,80,v,SUB: Barnes FOR Wembanyama,Substitution,,0,0,170
+22400405,236,PT06M37.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,37,43,80,v,SUB: Vassell FOR Johnson,Substitution,,0,0,171
+22400405,237,PT06M37.00S,2,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,37,43,80,v,SUB: Castle FOR Paul,Substitution,,0,0,172
+22400405,234,PT06M37.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,38,43,81,h,Hart Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,173
+22400405,241,PT06M37.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,39,43,82,h,Hart Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,174
+22400405,242,PT06M22.00S,2,1610612759,SAS,1642264,Castle,S. Castle,-9,11,1,Made,1,39,45,84,v,Castle 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,175
+22400405,243,PT06M11.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,100,10,Missed,1,39,45,84,h,MISS McBride 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,176
+22400405,244,PT06M10.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,39,45,84,v,Vassell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,177
+22400405,245,PT06M01.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,39,45,84,v,Vassell Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,178
+22400405,245,PT06M01.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,39,45,84,h,Hart STEAL (1 STL),,,1,0,179
+22400405,247,PT05M56.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,-1,1,0,Made,1,41,45,86,h,Bridges Running Reverse Layup (11 PTS) (Hart 3 AST),Made Shot,Running Reverse Layup Shot,1,2,180
+22400405,249,PT05M45.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,41,45,86,v,Sochan OFF.Foul (P2) (T.Brothers),Foul,Offensive,1,0,181
+22400405,253,PT05M45.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,41,45,86,v,Sochan Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,182
+22400405,251,PT05M45.00S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,41,45,86,h,SUB: Achiuwa FOR Towns,Substitution,,0,0,183
+22400405,254,PT05M25.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-232,-20,0,Made,1,44,45,89,h,Achiuwa 3PT Jump Shot (3 PTS) (Brunson 4 AST),Made Shot,Jump Shot,1,3,184
+22400405,256,PT05M22.00S,2,0,,1610612759,,,0,0,0,,0,44,45,89,v,Spurs Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,185
+22400405,257,PT05M00.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,44,45,89,v,Sochan Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,186
+22400405,257,PT05M00.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,44,45,89,h,Achiuwa STEAL (1 STL),,,1,0,187
+22400405,259,PT04M55.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,-6,8,1,Made,1,46,45,91,h,Brunson 1' Running Layup (9 PTS),Made Shot,Running Layup Shot,1,2,188
+22400405,260,PT04M44.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,-224,52,0,Missed,1,46,45,91,v,MISS Champagnie 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+22400405,261,PT04M38.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,46,45,91,v,Sochan REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,190
+22400405,262,PT04M37.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,46,45,91,v,Sochan Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,191
+22400405,262,PT04M37.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,46,45,91,h,Bridges STEAL (1 STL),,,1,0,192
+22400405,265,PT04M34.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,46,45,91,v,SUB: Paul FOR Champagnie,Substitution,,0,0,193
+22400405,266,PT04M34.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,46,45,91,v,SUB: Wembanyama FOR Barnes,Substitution,,0,0,194
+22400405,269,PT04M19.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,11,147,15,Missed,1,46,45,91,h,MISS Brunson 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,195
+22400405,270,PT04M17.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,46,45,91,v,Wembanyama REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,196
+22400405,271,PT04M09.00S,2,1610612759,SAS,1642264,Castle,S. Castle,172,195,26,Missed,1,46,45,91,v,MISS Castle 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+22400405,272,PT04M06.00S,2,0,,1610612759,,,0,0,0,,0,46,45,91,v,Spurs Rebound,Rebound,Unknown,0,0,198
+22400405,273,PT04M06.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,46,45,91,h,Hart L.B.FOUL (P1.T1) (D.Taylor),Foul,Loose Ball,1,0,199
+22400405,275,PT03M58.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,-4,5,1,Made,1,46,47,93,v,Vassell 1' Cutting Dunk Shot (5 PTS) (Wembanyama 3 AST),Made Shot,Cutting Dunk Shot,1,2,200
+22400405,277,PT03M45.00S,2,1610612752,NYK,1628404,Hart,J. Hart,96,239,26,Missed,1,46,47,93,h,MISS Hart 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,201
+22400405,278,PT03M40.00S,2,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,46,47,93,v,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,202
+22400405,279,PT03M31.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,2,8,1,Missed,1,46,47,93,v,MISS Sochan 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,203
+22400405,280,PT03M28.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,46,47,93,v,Wembanyama REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,204
+22400405,281,PT03M27.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,46,47,93,v,Wembanyama Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,0,205
+22400405,281,PT03M27.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,46,47,93,h,Brunson STEAL (1 STL),,,1,0,206
+22400405,283,PT03M22.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,223,2,0,Made,1,49,47,96,h,Bridges 3PT Running Jump Shot (14 PTS) (Hart 4 AST),Made Shot,Running Jump Shot,1,3,207
+22400405,285,PT02M58.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,-9,0,1,Made,1,49,49,98,v,Sochan 1' Alley Oop Dunk (6 PTS) (Wembanyama 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,208
+22400405,287,PT02M47.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,-16,42,4,Missed,1,49,49,98,h,MISS Brunson 4' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,209
+22400405,288,PT02M44.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,49,49,98,v,Wembanyama REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,210
+22400405,289,PT02M36.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,143,283,32,Missed,1,49,49,98,v,MISS Wembanyama 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,211
+22400405,290,PT02M33.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,49,49,98,h,Hart REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,212
+22400405,291,PT02M19.00S,2,1610612752,NYK,1630540,McBride,M. McBride,-1,17,2,Missed,1,49,49,98,h,MISS McBride 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,213
+22400405,292,PT02M17.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,49,49,98,v,Wembanyama REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,214
+22400405,293,PT02M13.00S,2,1610612759,SAS,1642264,Castle,S. Castle,-4,-9,1,Made,1,49,51,100,v,Castle 1' Running Dunk (6 PTS) (Paul 3 AST),Made Shot,Running Dunk Shot,1,2,215
+22400405,295,PT02M12.00S,2,0,,1610612752,,,0,0,0,,0,49,51,100,h,KNICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,216
+22400405,296,PT02M12.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,49,51,100,h,SUB: Towns FOR McBride,Substitution,,0,0,217
+22400405,297,PT02M12.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,49,51,100,h,SUB: Anunoby FOR Achiuwa,Substitution,,0,0,218
+22400405,300,PT01M55.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,107,17,11,Made,1,51,51,102,h,Bridges 11' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,1,2,219
+22400405,301,PT01M38.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,-20,149,15,Missed,1,51,51,102,v,MISS Vassell 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,220
+22400405,302,PT01M36.00S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,51,51,102,h,Towns REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,221
+22400405,303,PT01M22.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,107,19,11,Missed,1,51,51,102,h,MISS Bridges 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,222
+22400405,304,PT01M19.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,51,51,102,v,Wembanyama REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,223
+22400405,305,PT01M06.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-10,4,1,Made,1,51,53,104,v,Wembanyama 1' Cutting Layup Shot (21 PTS) (Paul 4 AST),Made Shot,Cutting Layup Shot,1,2,224
+22400405,307,PT00M47.30S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,51,53,104,h,Towns Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,225
+22400405,307,PT00M47.30S,2,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,51,53,104,v,Paul STEAL (1 STL),,,1,0,226
+22400405,309,PT00M43.70S,2,1610612759,SAS,1631110,Sochan,J. Sochan,-4,13,1,Made,1,51,55,106,v,Sochan 1' Running Alley Oop Dunk Shot (8 PTS) (Castle 1 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,227
+22400405,311,PT00M29.60S,2,1610612752,NYK,1628969,Bridges,M. Bridges,66,52,8,Missed,1,51,55,106,h,MISS Bridges 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,228
+22400405,312,PT00M27.50S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,51,55,106,v,Castle REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,229
+22400405,313,PT00M09.10S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-15,269,27,Made,1,51,58,109,v,Wembanyama 27' 3PT Jump Shot (24 PTS) (Paul 5 AST),Made Shot,Jump Shot,1,3,230
+22400405,315,PT00M01.10S,2,1610612752,NYK,1628973,Brunson,J. Brunson,-135,214,25,Missed,1,51,58,109,h,MISS Brunson 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,231
+22400405,316,PT00M00.90S,2,0,,1610612752,,,0,0,0,,0,51,58,109,h,KNICKS Rebound,Rebound,Unknown,1,0,232
+22400405,317,PT00M00.00S,2,0,,0,,,0,0,0,,0,51,58,109,,End of 2nd Period (1:08 PM EST),period,end,1,0,233
+22400405,320,PT12M00.00S,3,0,,0,,,0,0,0,,0,51,58,109,,Start of 3rd Period (1:25 PM EST),period,start,0,0,234
+22400405,321,PT11M41.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,151,209,26,Missed,1,51,58,109,h,MISS Brunson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,235
+22400405,321,PT11M41.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,51,58,109,v,Wembanyama BLOCK (3 BLK),,,1,3,236
+22400405,323,PT11M40.00S,3,0,,1610612759,,,0,0,0,,0,51,58,109,v,Spurs Rebound,Rebound,Unknown,0,0,237
+22400405,324,PT11M40.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,51,58,109,h,Hart L.B.FOUL (P2.T1) (T.Brothers),Foul,Loose Ball,1,0,238
+22400405,326,PT11M25.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,9,1,1,Missed,1,51,58,109,v,MISS Sochan 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,239
+22400405,327,PT11M20.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,51,58,109,h,Hart REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,240
+22400405,328,PT11M11.00S,3,1610612752,NYK,1626157,Towns,K. Towns,4,-4,1,Made,1,53,58,111,h,Towns 1' Layup (12 PTS) (Bridges 1 AST),Made Shot,Layup Shot,1,2,241
+22400405,330,PT11M00.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,53,58,111,v,Sochan Offensive Charge Foul (P3) (S.Corbin),Foul,Offensive Charge,1,0,242
+22400405,332,PT11M00.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,53,58,111,v,Sochan Offensive Foul Turnover (P4.T11),Turnover,Offensive Foul Turnover,1,0,243
+22400405,333,PT10M39.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,10,67,7,Made,1,55,58,113,h,Brunson 7' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,1,2,244
+22400405,336,PT10M19.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,115,239,27,Missed,1,55,58,113,v,MISS Vassell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,245
+22400405,337,PT10M19.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,55,58,113,h,Towns REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,246
+22400405,338,PT09M56.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,55,58,113,h,Hart Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,247
+22400405,338,PT09M56.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,55,58,113,v,Wembanyama STEAL (1 STL),,,1,0,248
+22400405,340,PT09M38.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-4,189,19,Missed,1,55,58,113,v,MISS Wembanyama 19' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,249
+22400405,341,PT09M34.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,55,58,113,h,Brunson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,250
+22400405,342,PT09M24.00S,3,1610612752,NYK,1626157,Towns,K. Towns,-7,10,1,Made,1,57,58,115,h,Towns 1' Driving Layup (14 PTS) (Brunson 5 AST),Made Shot,Driving Layup Shot,1,2,251
+22400405,344,PT09M14.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,57,58,115,h,Bridges S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,1,0,252
+22400405,346,PT09M14.00S,3,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,57,59,116,v,Barnes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,253
+22400405,347,PT09M14.00S,3,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,57,59,116,v,MISS Barnes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,254
+22400405,348,PT09M12.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,57,59,116,h,Towns REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,255
+22400405,349,PT08M54.00S,3,1610612752,NYK,1626157,Towns,K. Towns,-16,8,2,Missed,1,57,59,116,h,MISS Towns 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,256
+22400405,350,PT08M51.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,57,59,116,h,Towns REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,257
+22400405,351,PT08M51.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,Made,1,59,59,118,h,Towns Putback Layup (16 PTS),Made Shot,Putback Layup Shot,1,2,258
+22400405,352,PT08M40.00S,3,1610612759,SAS,101108,Paul,C. Paul,-11,152,15,Missed,1,59,59,118,v,MISS Paul 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,259
+22400405,353,PT08M37.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,59,59,118,h,Brunson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,260
+22400405,354,PT08M32.00S,3,1610612752,NYK,1628404,Hart,J. Hart,18,17,2,Missed,1,59,59,118,h,MISS Hart 2' Running Layup,Missed Shot,Running Layup Shot,1,2,261
+22400405,355,PT08M30.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,59,59,118,v,Wembanyama REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,262
+22400405,356,PT08M26.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,156,198,25,Missed,1,59,59,118,v,MISS Vassell 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,263
+22400405,356,PT08M26.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,59,59,118,h,Bridges BLOCK (1 BLK),,,1,3,264
+22400405,358,PT08M24.00S,3,0,,1610612752,,,0,0,0,,0,59,59,118,h,KNICKS Rebound,Rebound,Unknown,1,0,265
+22400405,360,PT08M04.00S,3,1610612752,NYK,1626157,Towns,K. Towns,22,95,10,Missed,1,59,59,118,h,MISS Towns 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,266
+22400405,361,PT08M02.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,59,59,118,v,Wembanyama REBOUND (Off:2 Def:11),Rebound,Unknown,1,0,267
+22400405,363,PT08M02.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,59,59,118,h,Hart P.FOUL (P3.T3) (T.Brothers),Foul,Personal,1,0,268
+22400405,365,PT07M47.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,230,34,0,Made,1,59,62,121,v,Sochan 3PT Jump Shot (11 PTS) (Vassell 2 AST),Made Shot,Jump Shot,1,3,269
+22400405,367,PT07M29.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,6,2,1,Made,1,61,62,123,h,Bridges 1' Driving Layup (18 PTS) (Brunson 6 AST),Made Shot,Driving Layup Shot,1,2,270
+22400405,369,PT07M22.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,61,62,123,h,Brunson S.FOUL (P1.T4) (D.Taylor),Foul,Shooting,1,0,271
+22400405,371,PT07M22.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,61,63,124,v,Sochan Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,272
+22400405,372,PT07M22.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,61,64,125,v,Sochan Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,273
+22400405,373,PT07M06.00S,3,1610612752,NYK,1626157,Towns,K. Towns,-13,6,1,Made,1,63,64,127,h,Towns 1' Driving Dunk (18 PTS) (Brunson 7 AST),Made Shot,Driving Dunk Shot,1,2,274
+22400405,375,PT06M58.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,205,150,25,Missed,1,63,64,127,v,MISS Wembanyama 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,275
+22400405,376,PT06M57.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,63,64,127,v,Vassell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,276
+22400405,504,PT06M56.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,-12,42,4,Missed,1,63,64,127,v,MISS Vassell 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,277
+22400405,505,PT06M54.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,63,64,127,h,Towns REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,278
+22400405,377,PT06M36.00S,3,1610612752,NYK,1626157,Towns,K. Towns,-136,241,28,Made,1,66,64,130,h,Towns 28' 3PT Jump Shot (21 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,279
+22400405,379,PT06M35.00S,3,0,,1610612759,,,0,0,0,,0,66,64,130,v,Spurs Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,280
+22400405,380,PT06M18.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,11,68,7,Made,1,66,66,132,v,Wembanyama 7' Jump Shot (26 PTS) (Barnes 1 AST),Made Shot,Jump Shot,1,2,281
+22400405,382,PT05M58.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,43,92,10,Made,1,68,66,134,h,Bridges 10' Turnaround Jump Shot (20 PTS),Made Shot,Turnaround Jump Shot,1,2,282
+22400405,383,PT05M38.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,165,190,25,Made,1,68,69,137,v,Sochan 25' 3PT Jump Shot (16 PTS) (Vassell 3 AST),Made Shot,Jump Shot,1,3,283
+22400405,385,PT05M23.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,38,42,6,Made,1,70,69,139,h,Brunson 6' Driving Floating Bank Jump Shot (13 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,284
+22400405,386,PT05M23.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,70,69,139,v,Vassell S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1,0,285
+22400405,388,PT05M23.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,71,69,140,h,Brunson Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,286
+22400405,389,PT05M08.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,71,69,140,h,Towns S.FOUL (P3.PN) (D.Taylor),Foul,Shooting,1,0,287
+22400405,392,PT05M08.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,71,69,140,h,SUB: McBride FOR Hart,Substitution,,0,0,288
+22400405,393,PT05M08.00S,3,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,71,69,140,v,SUB: Castle FOR Paul,Substitution,,0,0,289
+22400405,391,PT05M08.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,71,70,141,v,Wembanyama Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0,290
+22400405,396,PT05M08.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,71,71,142,v,Wembanyama Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,1,0,291
+22400405,397,PT04M50.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,-234,12,0,Made,1,74,71,145,h,Anunoby 3PT Jump Shot (5 PTS) (McBride 2 AST),Made Shot,Jump Shot,1,3,292
+22400405,399,PT04M39.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-92,245,26,Missed,1,74,71,145,v,MISS Wembanyama 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,293
+22400405,400,PT04M36.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,74,71,145,v,Vassell REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,294
+22400405,401,PT04M33.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,13,262,26,Made,1,74,74,148,v,Wembanyama 26' 3PT Jump Shot (31 PTS) (Castle 2 AST),Made Shot,Jump Shot,1,3,295
+22400405,403,PT04M12.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-23,11,3,Missed,1,74,74,148,h,MISS Brunson 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,296
+22400405,403,PT04M12.00S,3,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,74,74,148,v,Barnes BLOCK (1 BLK),,,1,2,297
+22400405,405,PT04M10.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,74,74,148,v,Sochan REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,298
+22400405,406,PT04M05.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,223,51,0,Made,1,74,77,151,v,Vassell 3PT Running Jump Shot (8 PTS) (Castle 3 AST),Made Shot,Running Jump Shot,1,3,299
+22400405,408,PT03M52.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-7,46,5,Made,1,76,77,153,h,Brunson 5' Hook Shot (16 PTS),Made Shot,Hook Shot,1,2,300
+22400405,409,PT03M41.00S,3,1610612759,SAS,1642264,Castle,S. Castle,-7,25,3,Missed,1,76,77,153,v,MISS Castle 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,301
+22400405,410,PT03M39.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,76,77,153,h,Towns REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,302
+22400405,411,PT03M36.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-6,38,4,Missed,1,76,77,153,h,MISS Brunson 4' Running Layup,Missed Shot,Running Layup Shot,1,2,303
+22400405,411,PT03M36.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,76,77,153,v,Wembanyama BLOCK (4 BLK),,,1,2,304
+22400405,415,PT03M36.00S,3,0,,1610612759,,,0,0,0,,0,76,77,153,v,Spurs Rebound,Rebound,Unknown,1,0,305
+22400405,413,PT03M36.00S,3,0,,1610612759,,,0,0,0,,0,76,77,153,v,Spurs Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,306
+22400405,414,PT03M36.00S,3,0,,389,Kukoc,T. Kukoc,0,0,0,,0,76,77,153,,Instant Replay3rd Period (1:42 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,307
+22400405,435,PT03M36.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,76,77,153,v,SUB: Johnson FOR Wembanyama,Substitution,,0,0,308
+22400405,436,PT03M36.00S,3,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,76,77,153,v,SUB: Champagnie FOR Barnes,Substitution,,0,0,309
+22400405,417,PT03M21.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,32,22,4,Made,1,76,79,155,v,Vassell 4' Driving Floating Jump Shot (10 PTS) (Sochan 2 AST),Made Shot,Driving Floating Jump Shot,1,2,310
+22400405,419,PT03M21.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,76,79,155,h,Towns S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,1,0,311
+22400405,421,PT03M21.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,76,79,155,h,SUB: Achiuwa FOR Towns,Substitution,,0,0,312
+22400405,423,PT03M21.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,76,80,156,v,Vassell Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,313
+22400405,424,PT03M07.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-61,57,8,Made,1,78,80,158,h,Brunson 8' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,1,2,314
+22400405,425,PT02M51.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,78,80,158,v,Vassell Traveling Turnover (P3.T12),Turnover,Traveling,1,0,315
+22400405,426,PT02M40.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,132,216,25,Missed,1,78,80,158,h,MISS Brunson 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,316
+22400405,427,PT02M37.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,78,80,158,h,Achiuwa REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,317
+22400405,428,PT02M36.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,9,21,2,Missed,1,78,80,158,h,MISS Achiuwa 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,318
+22400405,429,PT02M35.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,78,80,158,v,Sochan REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,319
+22400405,430,PT02M30.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,-118,218,25,Made,1,78,83,161,v,Champagnie 25' 3PT Running Jump Shot (6 PTS) (Vassell 4 AST),Made Shot,Running Jump Shot,1,3,320
+22400405,432,PT02M11.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,43,28,5,Missed,1,78,83,161,h,MISS Bridges 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,321
+22400405,433,PT02M09.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,78,83,161,h,Brunson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,322
+22400405,434,PT02M09.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,78,83,161,v,Johnson P.FOUL (P2.T2) (S.Corbin),Foul,Personal,1,0,323
+22400405,440,PT02M01.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-20,1,2,Missed,1,78,83,161,h,MISS Brunson 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,324
+22400405,441,PT01M59.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,78,83,161,h,Achiuwa REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,325
+22400405,442,PT01M55.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,78,83,161,v,Champagnie S.FOUL (P2.T3) (D.Taylor),Foul,Shooting,1,0,326
+22400405,444,PT01M55.00S,3,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,79,83,162,h,McBride Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,327
+22400405,445,PT01M55.00S,3,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,80,83,163,h,McBride Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,328
+22400405,446,PT01M41.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,-105,53,12,Missed,1,80,83,163,v,MISS Vassell 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,329
+22400405,447,PT01M38.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,80,83,163,h,Achiuwa REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,330
+22400405,448,PT01M29.00S,3,1610612752,NYK,1630540,McBride,M. McBride,123,143,19,Missed,1,80,83,163,h,MISS McBride 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,331
+22400405,449,PT01M26.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,80,83,163,h,Bridges REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,332
+22400405,450,PT01M26.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,15,20,3,Made,1,82,83,165,h,Bridges 3' Putback Layup (22 PTS),Made Shot,Putback Layup Shot,1,2,333
+22400405,451,PT01M26.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,82,83,165,v,Johnson S.FOUL (P3.PN) (T.Brothers),Foul,Shooting,1,0,334
+22400405,453,PT01M26.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,83,83,166,h,Bridges Free Throw 1 of 1 (23 PTS),Free Throw,Free Throw 1 of 1,1,0,335
+22400405,454,PT01M11.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,83,83,166,v,Sochan Bad Pass Turnover (P5.T13),Turnover,Bad Pass,1,0,336
+22400405,454,PT01M11.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,83,83,166,h,Anunoby STEAL (1 STL),,,1,0,337
+22400405,456,PT01M05.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-23,70,7,Missed,1,83,83,166,h,MISS Brunson 7' Running Jump Shot,Missed Shot,Running Jump Shot,1,2,338
+22400405,457,PT01M02.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,83,83,166,v,Sochan REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,339
+22400405,458,PT00M53.60S,3,1610612759,SAS,1642264,Castle,S. Castle,18,15,2,Missed,1,83,83,166,v,MISS Castle 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,340
+22400405,458,PT00M53.60S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,83,83,166,h,Achiuwa BLOCK (1 BLK),,,1,2,341
+22400405,460,PT00M52.10S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,83,83,166,h,Achiuwa REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,342
+22400405,461,PT00M43.40S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,83,83,166,v,Sochan S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,1,0,343
+22400405,464,PT00M43.40S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,83,83,166,h,SUB: Hart FOR Anunoby,Substitution,,0,0,344
+22400405,465,PT00M43.40S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,83,83,166,v,SUB: Wembanyama FOR Vassell,Substitution,,0,0,345
+22400405,470,PT00M43.40S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,83,83,166,v,SUB: Paul FOR Sochan,Substitution,,0,0,346
+22400405,463,PT00M43.40S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,84,83,167,h,Brunson Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,347
+22400405,471,PT00M43.40S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,85,83,168,h,Brunson Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,348
+22400405,472,PT00M35.10S,3,1610612759,SAS,1642264,Castle,S. Castle,4,20,2,Missed,1,85,83,168,v,MISS Castle 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,349
+22400405,472,PT00M35.10S,3,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,85,83,168,h,Bridges BLOCK (2 BLK),,,1,2,350
+22400405,474,PT00M32.30S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,85,83,168,h,Brunson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,351
+22400405,475,PT00M28.80S,3,1610612752,NYK,1628969,Bridges,M. Bridges,-237,90,25,Made,1,88,83,171,h,Bridges 25' 3PT Running Jump Shot (26 PTS) (Brunson 8 AST),Made Shot,Running Jump Shot,1,3,352
+22400405,477,PT00M11.10S,3,1610612759,SAS,101108,Paul,C. Paul,-65,240,25,Missed,1,88,83,171,v,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+22400405,478,PT00M07.80S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,88,83,171,h,Brunson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,354
+22400405,479,PT00M04.30S,3,1610612752,NYK,1630540,McBride,M. McBride,210,115,24,Missed,1,88,83,171,h,MISS McBride 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,355
+22400405,480,PT00M04.30S,3,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,88,83,171,v,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,356
+22400405,481,PT00M00.00S,3,0,,0,,,0,0,0,,0,88,83,171,,End of 3rd Period (1:54 PM EST),period,end,1,0,357
+22400405,484,PT12M00.00S,4,0,,0,,,0,0,0,,0,88,83,171,,Start of 4th Period (1:57 PM EST),period,start,0,0,358
+22400405,486,PT11M45.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,10,9,1,Made,1,88,85,173,v,Wembanyama 1' Alley Oop Dunk (33 PTS) (Champagnie 1 AST),Made Shot,Alley Oop Dunk Shot,0,2,359
+22400405,488,PT11M20.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-233,8,0,Missed,1,88,85,173,h,MISS Achiuwa 3PT Jump Shot,Missed Shot,Jump Shot,1,3,360
+22400405,489,PT11M16.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,88,85,173,v,Wembanyama REBOUND (Off:2 Def:12),Rebound,Unknown,1,0,361
+22400405,490,PT11M10.00S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,88,85,173,h,McBride P.FOUL (P1.T1) (T.Brothers),Foul,Personal,1,0,362
+22400405,492,PT10M59.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,224,14,0,Missed,1,88,85,173,v,MISS Champagnie 3PT Jump Shot,Missed Shot,Jump Shot,1,3,363
+22400405,493,PT10M55.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,88,85,173,h,Achiuwa REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,364
+22400405,494,PT10M34.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,17,169,17,Missed,1,88,85,173,h,MISS Brunson 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,365
+22400405,495,PT10M33.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,88,85,173,v,Wembanyama REBOUND (Off:2 Def:13),Rebound,Unknown,1,0,366
+22400405,496,PT10M20.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-22,4,2,Made,1,88,87,175,v,Wembanyama 2' Driving Finger Roll Layup (35 PTS) (Jones 7 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,367
+22400405,498,PT10M02.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,88,87,175,v,Jones P.FOUL (P1.T1) (S.Corbin),Foul,Personal,1,0,368
+22400405,500,PT09M49.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,232,-6,0,Missed,1,88,87,175,h,MISS Bridges 3PT Jump Shot,Missed Shot,Jump Shot,1,3,369
+22400405,501,PT09M47.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,88,87,175,v,Wembanyama REBOUND (Off:2 Def:14),Rebound,Unknown,1,0,370
+22400405,502,PT09M41.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,-221,-12,0,Made,1,88,90,178,v,Champagnie 3PT Jump Shot (9 PTS) (Jones 8 AST),Made Shot,Jump Shot,1,3,371
+22400405,506,PT09M33.00S,4,0,,1610612752,,,0,0,0,,0,88,90,178,h,KNICKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,372
+22400405,507,PT09M33.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,88,90,178,h,SUB: Towns FOR Achiuwa,Substitution,,0,0,373
+22400405,509,PT09M18.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,88,90,178,h,Brunson Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,374
+22400405,509,PT09M18.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,88,90,178,v,Jones STEAL (1 STL),,,0,0,375
+22400405,511,PT09M15.00S,4,1610612759,SAS,1630200,Jones,T. Jones,7,16,2,Made,1,88,92,180,v,Jones 2' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,376
+22400405,512,PT09M06.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,229,16,0,Made,1,91,92,183,h,Bridges 3PT Jump Shot (29 PTS) (Towns 2 AST),Made Shot,Jump Shot,1,3,377
+22400405,514,PT08M48.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-6,-2,1,Made,1,91,94,185,v,Wembanyama 1' Alley Oop Layup (37 PTS) (Johnson 1 AST),Made Shot,Alley Oop Layup shot,1,2,378
+22400405,516,PT08M31.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-134,70,15,Missed,1,91,94,185,h,MISS Brunson 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,379
+22400405,517,PT08M29.00S,4,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,91,94,185,v,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,380
+22400405,518,PT08M24.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-11,10,1,Missed,1,91,94,185,v,MISS Johnson 1' Running Layup,Missed Shot,Running Layup Shot,1,2,381
+22400405,519,PT08M23.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,91,94,185,v,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,382
+22400405,520,PT08M20.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,-89,241,26,Missed,1,91,94,185,v,MISS Champagnie 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,383
+22400405,521,PT08M17.00S,4,0,,1610612759,,,0,0,0,,0,91,94,185,v,Spurs Rebound,Rebound,Unknown,0,0,384
+22400405,523,PT08M17.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,91,94,185,v,SUB: Vassell FOR Johnson,Substitution,,0,0,385
+22400405,525,PT08M14.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-1,16,2,Made,1,91,96,187,v,Wembanyama 2' Alley Oop Layup (39 PTS) (Paul 6 AST),Made Shot,Alley Oop Layup shot,0,2,386
+22400405,527,PT07M55.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,125,226,26,Made,1,94,96,190,h,Bridges 26' 3PT Jump Shot (32 PTS) (Brunson 9 AST),Made Shot,Jump Shot,1,3,387
+22400405,529,PT07M44.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,134,262,29,Made,1,94,99,193,v,Wembanyama 29' 3PT Jump Shot (42 PTS) (Jones 9 AST),Made Shot,Jump Shot,1,3,388
+22400405,531,PT07M21.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,147,218,26,Missed,1,94,99,193,h,MISS Bridges 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,389
+22400405,532,PT07M19.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,94,99,193,v,Wembanyama REBOUND (Off:2 Def:15),Rebound,Unknown,1,0,390
+22400405,533,PT07M16.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,9,1,Made,1,94,101,195,v,Jones 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,391
+22400405,534,PT07M16.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,94,101,195,h,Brunson S.FOUL (P2.T2) (D.Taylor),Foul,Shooting,1,0,392
+22400405,536,PT07M16.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,94,101,195,h,SUB: Anunoby FOR Brunson,Substitution,,0,0,393
+22400405,538,PT07M16.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,94,102,196,v,Jones Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,394
+22400405,539,PT06M53.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,237,2,24,Made,1,97,102,199,h,Bridges 24' 3PT Jump Shot (35 PTS) (Hart 5 AST),Made Shot,Jump Shot,1,3,395
+22400405,542,PT06M34.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,97,102,199,h,Towns P.FOUL (P5.T3) (D.Taylor),Foul,Personal,1,0,396
+22400405,547,PT06M34.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,97,102,199,h,SUB: Achiuwa FOR Towns,Substitution,,0,0,397
+22400405,546,PT06M34.00S,4,0,,542,,,0,0,0,,0,97,102,199,,Instant Replay4th Period (2:09 PM EST),Instant Replay,Overturn Ruling,0,0,398
+22400405,549,PT06M31.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,97,102,199,h,Anunoby P.FOUL (P2.T4) (S.Corbin),Foul,Personal,1,0,399
+22400405,551,PT06M18.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-175,185,25,Missed,1,97,102,199,v,MISS Wembanyama 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,400
+22400405,552,PT06M14.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,97,102,199,h,Hart REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,401
+22400405,553,PT05M57.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-234,2,0,Missed,1,97,102,199,h,MISS Achiuwa 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+22400405,554,PT05M53.00S,4,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,97,102,199,v,Paul REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,403
+22400405,555,PT05M38.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,-60,243,25,Missed,1,97,102,199,v,MISS Champagnie 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,404
+22400405,556,PT05M36.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,97,102,199,h,Achiuwa REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,405
+22400405,557,PT05M18.00S,4,1610612752,NYK,1628404,Hart,J. Hart,-172,209,27,Made,1,100,102,202,h,Hart 27' 3PT Pullup Jump Shot (9 PTS) (Bridges 3 AST),Made Shot,Pullup Jump shot,1,3,406
+22400405,559,PT05M16.00S,4,0,,1610612759,,,0,0,0,,0,100,102,202,v,Spurs Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,407
+22400405,560,PT05M16.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,100,102,202,v,SUB: Sochan FOR Jones,Substitution,,0,0,408
+22400405,562,PT05M01.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,100,102,202,v,Vassell Bad Pass Turnover (P4.T14),Turnover,Bad Pass,1,0,409
+22400405,562,PT05M01.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,100,102,202,h,Bridges STEAL (2 STL),,,1,0,410
+22400405,564,PT04M56.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,238,29,24,Made,1,103,102,205,h,Anunoby 24' 3PT Jump Shot (8 PTS) (Hart 6 AST),Made Shot,Jump Shot,1,3,411
+22400405,566,PT04M39.00S,4,1610612759,SAS,101108,Paul,C. Paul,112,89,14,Made,1,103,104,207,v,Paul 14' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,412
+22400405,567,PT04M20.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-9,0,1,Made,1,105,104,209,h,Achiuwa 1' Cutting Layup Shot (5 PTS) (Bridges 4 AST),Made Shot,Cutting Layup Shot,1,2,413
+22400405,569,PT04M10.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,-5,4,1,Made,1,105,106,211,v,Sochan 1' Cutting Layup Shot (18 PTS) (Paul 7 AST),Made Shot,Cutting Layup Shot,1,2,414
+22400405,571,PT03M51.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,-32,148,15,Made,1,107,106,213,h,Bridges 15' Step Back Jump Shot (37 PTS),Made Shot,Step Back Jump shot,1,2,415
+22400405,572,PT03M36.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,136,257,29,Missed,1,107,106,213,v,MISS Wembanyama 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,416
+22400405,573,PT03M32.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,107,106,213,h,Achiuwa REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,417
+22400405,574,PT03M22.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,-82,115,14,Missed,1,107,106,213,h,MISS Bridges 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,418
+22400405,575,PT03M18.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,107,106,213,h,Hart REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,419
+22400405,576,PT03M18.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,Made,1,109,106,215,h,Hart Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,420
+22400405,577,PT03M04.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,-148,200,25,Made,1,109,109,218,v,Sochan 25' 3PT Jump Shot (21 PTS) (Vassell 5 AST),Made Shot,Jump Shot,1,3,421
+22400405,579,PT02M43.00S,4,1610612752,NYK,1630540,McBride,M. McBride,-110,230,25,Made,1,112,109,221,h,McBride 25' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,422
+22400405,580,PT02M30.00S,4,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,112,109,221,v,Paul Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,423
+22400405,580,PT02M30.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,112,109,221,h,Hart STEAL (2 STL),,,1,0,424
+22400405,582,PT02M25.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,16,18,2,Missed,1,112,109,221,h,MISS Bridges 2' Running Layup,Missed Shot,Running Layup Shot,1,2,425
+22400405,583,PT02M23.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,112,109,221,v,Wembanyama REBOUND (Off:2 Def:16),Rebound,Unknown,1,0,426
+22400405,584,PT02M17.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,112,109,221,h,Hart P.FOUL (P4.PN) (T.Brothers),Foul,Personal,1,0,427
+22400405,587,PT02M17.00S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,112,109,221,h,SUB: Brunson FOR McBride,Substitution,,0,0,428
+22400405,588,PT02M17.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,112,109,221,v,SUB: Jones FOR Champagnie,Substitution,,0,0,429
+22400405,586,PT02M17.00S,4,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,112,110,222,v,Paul Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,430
+22400405,591,PT02M17.00S,4,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,112,111,223,v,Paul Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,431
+22400405,592,PT01M59.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,32,101,11,Made,1,114,111,225,h,Bridges 11' Turnaround Jump Shot (39 PTS),Made Shot,Turnaround Jump Shot,1,2,432
+22400405,593,PT01M38.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,78,145,16,Missed,1,114,111,225,v,MISS Wembanyama 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,433
+22400405,594,PT01M35.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,114,111,225,h,Brunson REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,434
+22400405,595,PT01M18.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,61,69,9,Made,1,116,111,227,h,Bridges 9' Pullup Jump Shot (41 PTS),Made Shot,Pullup Jump shot,1,2,435
+22400405,596,PT01M10.00S,4,1610612759,SAS,1630200,Jones,T. Jones,-5,11,1,Missed,1,116,111,227,v,MISS Jones 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,436
+22400405,597,PT01M08.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,116,111,227,h,Hart REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,437
+22400405,598,PT01M05.00S,4,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,116,111,227,v,Paul S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,1,0,438
+22400405,600,PT01M05.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,117,111,228,h,Hart Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,439
+22400405,601,PT01M05.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,117,111,228,h,MISS Hart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,440
+22400405,602,PT01M01.00S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,117,111,228,h,Achiuwa REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,441
+22400405,603,PT00M50.90S,4,1610612752,NYK,1628969,Bridges,M. Bridges,100,252,27,Missed,1,117,111,228,h,MISS Bridges 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,442
+22400405,604,PT00M48.70S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,117,111,228,v,Sochan REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,443
+22400405,605,PT00M41.70S,4,1610612759,SAS,101108,Paul,C. Paul,34,257,26,Made,1,117,114,231,v,Paul 26' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,3,444
+22400405,606,PT00M38.60S,4,0,,1610612752,,,0,0,0,,0,117,114,231,h,KNICKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,445
+22400405,607,PT00M38.60S,4,0,,1610612752,,,0,0,0,,0,117,114,231,h,KNICKS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,446
+22400405,608,PT00M38.60S,4,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,117,114,231,h,SUB: Towns FOR Achiuwa,Substitution,,0,0,447
+22400405,610,PT00M21.50S,4,1610612752,NYK,1628973,Brunson,J. Brunson,108,106,15,Missed,1,117,114,231,h,MISS Brunson 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,448
+22400405,611,PT00M17.30S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,117,114,231,h,Hart REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,449
+22400405,612,PT00M03.90S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,-234,59,24,Missed,1,117,114,231,h,MISS Anunoby 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,450
+22400405,613,PT00M00.50S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,117,114,231,h,Hart REBOUND (Off:5 Def:7),Rebound,Unknown,1,0,451
+22400405,614,PT00M00.00S,4,0,,0,,,0,0,0,,0,117,114,231,,End of 4th Period (2:27 PM EST),period,end,1,0,452

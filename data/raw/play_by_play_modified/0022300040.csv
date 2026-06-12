@@ -1,0 +1,570 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22300040,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:36 PM EST),period,start,0,0,1
+22300040,4,PT12M00.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,0,0,0,h,Jump Ball Embiid vs. Allen: Tip to E. Mobley,Jump Ball,,1,0,2
+22300040,7,PT11M47.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-28,259,26,Missed,1,0,0,0,v,MISS Garland 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,3
+22300040,8,PT11M45.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,0,0,0,h,Embiid REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22300040,9,PT11M31.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-77,255,27,Missed,1,0,0,0,h,MISS Maxey 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+22300040,10,PT11M28.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,0,0,0,v,Strus REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+22300040,11,PT11M16.00S,1,1610612739,CLE,1629622,Strus,M. Strus,32,16,4,Missed,1,0,0,0,v,MISS Strus 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,7
+22300040,12,PT11M15.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,0,0,0,h,Embiid REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,8
+22300040,13,PT11M07.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-154,109,19,Made,1,2,0,2,h,Embiid 19' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,1,2,9
+22300040,14,PT10M51.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-82,48,10,Missed,1,2,0,2,v,MISS Allen 10' Layup,Missed Shot,Layup Shot,1,2,10
+22300040,15,PT10M47.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,2,0,2,h,Embiid REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,11
+22300040,16,PT10M44.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,2,0,2,v,E. Mobley S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,1,0,12
+22300040,18,PT10M44.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,2,0,2,h,MISS Embiid Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,13
+22300040,19,PT10M44.00S,1,0,,1610612755,,,0,0,0,,0,2,0,2,h,76ERS Rebound,Rebound,Normal Rebound,0,0,14
+22300040,20,PT10M44.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,3,0,3,h,Embiid Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,15
+22300040,21,PT10M31.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-66,95,12,Missed,1,3,0,3,v,MISS Allen 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,16
+22300040,22,PT10M25.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,3,0,3,v,Strus REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,17
+22300040,23,PT10M25.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,Made,1,3,2,5,v,Strus Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,18
+22300040,24,PT10M15.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,105,29,11,Missed,1,3,2,5,h,MISS Embiid 11' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,1,2,19
+22300040,25,PT10M15.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,3,2,5,v,E. Mobley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+22300040,26,PT10M10.00S,1,1610612739,CLE,1628386,Allen,J. Allen,2,4,0,Made,1,3,4,7,v,Allen Running Dunk (2 PTS) (E. Mobley 1 AST),Made Shot,Running Dunk Shot,1,2,21
+22300040,28,PT10M02.00S,1,1610612755,PHI,202699,Harris,T. Harris,207,189,28,Missed,1,3,4,7,h,MISS Harris 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,22
+22300040,29,PT09M59.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,3,4,7,v,Strus REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,23
+22300040,30,PT09M51.00S,1,1610612739,CLE,1629636,Garland,D. Garland,61,117,13,Missed,1,3,4,7,v,MISS Garland 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,24
+22300040,31,PT09M49.00S,1,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,3,4,7,h,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+22300040,32,PT09M47.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,3,4,7,v,E. Mobley S.FOUL (P2.T2) (N.Sago),Foul,Shooting,1,0,26
+22300040,34,PT09M47.00S,1,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,4,4,8,h,Harris Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,27
+22300040,35,PT09M47.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,4,4,8,v,SUB: Niang FOR E. Mobley,Substitution,,0,0,28
+22300040,37,PT09M47.00S,1,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,5,4,9,h,Harris Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,29
+22300040,38,PT09M36.00S,1,1610612739,CLE,1629622,Strus,M. Strus,-109,243,27,Missed,1,5,4,9,v,MISS Strus 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,30
+22300040,39,PT09M33.00S,1,0,,1610612755,,,0,0,0,,0,5,4,9,h,76ERS Rebound,Rebound,Unknown,0,0,31
+22300040,41,PT09M23.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,5,4,9,h,Embiid Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,32
+22300040,42,PT09M15.00S,1,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,5,4,9,h,Batum P.FOUL (P1.T1) (M.Myers),Foul,Personal,1,0,33
+22300040,44,PT09M07.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-31,54,6,Made,1,5,6,11,v,Garland 6' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,34
+22300040,45,PT08M50.00S,1,1610612755,PHI,1629001,Melton,D. Melton,170,205,27,Missed,1,5,6,11,h,MISS Melton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,35
+22300040,46,PT08M47.00S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,5,6,11,v,Niang REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+22300040,47,PT08M34.00S,1,1610612739,CLE,1628386,Allen,J. Allen,5,2,1,Made,1,5,8,13,v,Allen 1' Alley Oop Dunk (4 PTS) (Garland 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,37
+22300040,49,PT08M14.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,152,126,20,Missed,1,5,8,13,h,MISS Maxey 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,38
+22300040,50,PT08M11.00S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,5,8,13,v,Niang REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,39
+22300040,51,PT08M00.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,5,8,13,v,Garland Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,0,40
+22300040,52,PT07M42.00S,1,1610612755,PHI,201587,Batum,N. Batum,-11,3,1,Made,1,7,8,15,h,Batum 1' Layup (2 PTS) (Embiid 1 AST),Made Shot,Layup Shot,1,2,41
+22300040,54,PT07M24.00S,1,1610612739,CLE,1628386,Allen,J. Allen,6,1,1,Made,1,7,10,17,v,Allen 1' Alley Oop Dunk (6 PTS) (Garland 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,42
+22300040,56,PT07M07.00S,1,1610612755,PHI,201587,Batum,N. Batum,-233,34,24,Made,1,10,10,20,h,Batum 24' 3PT Jump Shot (5 PTS) (Maxey 1 AST),Made Shot,Jump Shot,1,3,43
+22300040,58,PT06M38.00S,1,1610612739,CLE,1629731,Wade,D. Wade,-230,29,0,Missed,1,10,10,20,v,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,1,3,44
+22300040,59,PT06M35.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,10,10,20,h,Embiid REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,45
+22300040,60,PT06M31.00S,1,1610612755,PHI,202699,Harris,T. Harris,25,4,3,Made,1,12,10,22,h,Harris 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,46
+22300040,62,PT06M20.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-38,18,4,Missed,1,12,10,22,v,MISS Garland 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,47
+22300040,63,PT06M18.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,12,10,22,h,Embiid REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,48
+22300040,64,PT06M14.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,9,6,1,Made,1,14,10,24,h,Embiid 1' Running Layup (5 PTS) (Batum 1 AST),Made Shot,Running Layup Shot,1,2,49
+22300040,66,PT06M14.00S,1,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,14,10,24,v,Wade S.FOUL (P1.T3) (M.Myers),Foul,Shooting,1,0,50
+22300040,68,PT06M14.00S,1,0,,1610612755,,,0,0,0,,0,14,10,24,h,76ERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,51
+22300040,69,PT06M14.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,15,10,25,h,Embiid Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,52
+22300040,70,PT06M02.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-16,21,3,Made,1,15,12,27,v,Garland 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,53
+22300040,72,PT05M49.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,15,12,27,v,Allen S.FOUL (P1.T4) (N.Sago),Foul,Shooting,1,0,54
+22300040,74,PT05M49.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,16,12,28,h,Embiid Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,55
+22300040,75,PT05M49.00S,1,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,16,12,28,v,SUB: Porter FOR Wade,Substitution,,0,0,56
+22300040,77,PT05M49.00S,1,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,16,12,28,h,SUB: Covington FOR Batum,Substitution,,0,0,57
+22300040,79,PT05M49.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,17,12,29,h,Embiid Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,58
+22300040,80,PT05M31.00S,1,1610612739,CLE,1628386,Allen,J. Allen,26,22,3,Missed,1,17,12,29,v,MISS Allen 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,59
+22300040,80,PT05M31.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,17,12,29,h,Covington BLOCK (1 BLK),,,1,2,60
+22300040,82,PT05M26.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,17,12,29,v,Allen REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,61
+22300040,83,PT05M26.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,Missed,1,17,12,29,v,MISS Allen Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,62
+22300040,84,PT05M25.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,17,12,29,h,Covington REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+22300040,85,PT05M18.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,17,12,29,h,Embiid Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,64
+22300040,85,PT05M18.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,17,12,29,v,Garland STEAL (1 STL),,,1,0,65
+22300040,87,PT05M08.00S,1,1610612739,CLE,1628386,Allen,J. Allen,21,18,3,Made,1,17,14,31,v,Allen 3' Cutting Layup Shot (8 PTS) (Strus 1 AST),Made Shot,Cutting Layup Shot,1,2,66
+22300040,89,PT04M51.00S,1,1610612755,PHI,202699,Harris,T. Harris,98,167,19,Missed,1,17,14,31,h,MISS Harris 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,67
+22300040,90,PT04M48.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,17,14,31,v,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,68
+22300040,91,PT04M41.00S,1,1610612739,CLE,1629622,Strus,M. Strus,7,262,26,Made,1,17,17,34,v,Strus 26' 3PT Jump Shot (5 PTS) (Porter 1 AST),Made Shot,Jump Shot,1,3,69
+22300040,93,PT04M18.00S,1,1610612755,PHI,1629001,Melton,D. Melton,59,282,29,Missed,1,17,17,34,h,MISS Melton 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,70
+22300040,94,PT04M15.00S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,17,17,34,v,Niang REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,71
+22300040,95,PT04M09.00S,1,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,1,13,1,Made,1,17,19,36,v,Porter 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,72
+22300040,96,PT03M54.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,17,19,36,h,Embiid Lost Ball Turnover (P3.T3),Turnover,Lost Ball,1,0,73
+22300040,96,PT03M54.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,17,19,36,v,Strus STEAL (1 STL),,,1,0,74
+22300040,98,PT03M47.00S,1,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-11,10,1,Made,1,17,21,38,v,Porter 1' Running Layup (4 PTS) (Garland 3 AST),Made Shot,Running Layup Shot,1,2,75
+22300040,100,PT03M47.00S,1,0,,1610612755,,,0,0,0,,0,17,21,38,h,76ERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,76
+22300040,101,PT03M47.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,17,21,38,h,SUB: House Jr. FOR Maxey,Substitution,,0,0,77
+22300040,102,PT03M47.00S,1,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,17,21,38,h,SUB: Beverley FOR Harris,Substitution,,0,0,78
+22300040,103,PT03M47.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,17,21,38,v,SUB: Merrill FOR Garland,Substitution,,0,0,79
+22300040,104,PT03M47.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,17,21,38,v,SUB: Thompson FOR Allen,Substitution,,0,0,80
+22300040,110,PT03M33.00S,1,1610612755,PHI,203496,Covington,R. Covington,-40,260,26,Missed,1,17,21,38,h,MISS Covington 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+22300040,111,PT03M29.00S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,17,21,38,v,Niang REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,82
+22300040,112,PT03M21.00S,1,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-131,165,21,Missed,1,17,21,38,v,MISS Porter 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,83
+22300040,113,PT03M17.00S,1,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,17,21,38,h,Beverley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+22300040,114,PT03M08.00S,1,1610612755,PHI,1627863,House Jr.,D. House Jr.,153,130,20,Missed,1,17,21,38,h,MISS House Jr. 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,85
+22300040,115,PT03M04.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,17,21,38,h,Embiid REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,86
+22300040,116,PT03M03.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,16,66,7,Missed,1,17,21,38,h,MISS Embiid 7' Putback Layup,Missed Shot,Putback Layup Shot,1,2,87
+22300040,117,PT03M01.00S,1,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,17,21,38,v,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,88
+22300040,118,PT02M55.00S,1,1610612739,CLE,1627777,Niang,G. Niang,-34,32,5,Made,1,17,23,40,v,Niang 5' Driving Floating Bank Jump Shot (2 PTS) (Porter 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,89
+22300040,120,PT02M36.00S,1,1610612755,PHI,203496,Covington,R. Covington,1,268,27,Made,1,20,23,43,h,Covington 27' 3PT Pullup Jump Shot (3 PTS) (Embiid 2 AST),Made Shot,Pullup Jump shot,1,3,90
+22300040,122,PT02M16.00S,1,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,20,23,43,v,Porter Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,91
+22300040,122,PT02M16.00S,1,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,20,23,43,h,Beverley STEAL (1 STL),,,1,0,92
+22300040,124,PT02M11.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,20,23,43,v,Strus S.FOUL (P1.PN) (M.Lindsay),Foul,Shooting,1,0,93
+22300040,126,PT02M11.00S,1,1610612755,PHI,1627863,House Jr.,D. House Jr.,0,0,0,,0,21,23,44,h,House Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,94
+22300040,127,PT02M11.00S,1,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,21,23,44,h,SUB: Batum FOR Melton,Substitution,,0,0,95
+22300040,128,PT02M11.00S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,21,23,44,v,SUB: Wade FOR Strus,Substitution,,0,0,96
+22300040,131,PT02M11.00S,1,1610612755,PHI,1627863,House Jr.,D. House Jr.,0,0,0,,0,22,23,45,h,House Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,97
+22300040,132,PT02M04.00S,1,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,22,23,45,h,Batum P.FOUL (P2.T2) (M.Lindsay),Foul,Personal,1,0,98
+22300040,134,PT01M58.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,33,265,27,Missed,1,22,23,45,v,MISS Merrill 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+22300040,135,PT01M55.00S,1,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,22,23,45,h,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,100
+22300040,136,PT01M50.00S,1,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,22,23,45,h,Beverley Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,101
+22300040,136,PT01M50.00S,1,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,22,23,45,v,Wade STEAL (1 STL),,,1,0,102
+22300040,138,PT01M40.00S,1,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,5,63,6,Made,1,22,25,47,v,Porter 6' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,2,103
+22300040,139,PT01M19.00S,1,1610612755,PHI,1627863,House Jr.,D. House Jr.,224,42,0,Missed,1,22,25,47,h,MISS House Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,104
+22300040,140,PT01M16.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,22,25,47,h,Covington REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,105
+22300040,142,PT01M11.00S,1,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,22,25,47,h,Jump Ball Covington vs. Niang: Tip to Beverley,Jump Ball,,1,0,106
+22300040,145,PT01M06.00S,1,1610612755,PHI,203496,Covington,R. Covington,-53,14,5,Missed,1,22,25,47,h,MISS Covington 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,107
+22300040,146,PT01M04.00S,1,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,22,25,47,v,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,108
+22300040,147,PT01M00.00S,1,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,25,17,3,Missed,1,22,25,47,v,MISS Porter 3' Running Layup,Missed Shot,Running Layup Shot,1,2,109
+22300040,148,PT00M58.10S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,22,25,47,v,Thompson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,110
+22300040,149,PT00M58.10S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,Made,1,22,27,49,v,Thompson Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,111
+22300040,150,PT00M37.70S,1,1610612755,PHI,203954,Embiid,J. Embiid,22,24,3,Made,1,24,27,51,h,Embiid 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,112
+22300040,151,PT00M19.60S,1,1610612739,CLE,1627777,Niang,G. Niang,-180,220,28,Missed,1,24,27,51,v,MISS Niang 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+22300040,152,PT00M17.70S,1,0,,1610612739,,,0,0,0,,0,24,27,51,v,Cavaliers Rebound,Rebound,Unknown,1,0,114
+22300040,153,PT00M17.70S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,24,27,51,h,Embiid L.B.FOUL (P1.T3) (M.Myers),Foul,Loose Ball,1,0,115
+22300040,155,PT00M17.70S,1,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,24,27,51,v,SUB: Strus FOR Thompson,Substitution,,0,0,116
+22300040,157,PT00M05.30S,1,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-11,17,2,Missed,1,24,27,51,v,MISS Porter 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,117
+22300040,157,PT00M05.30S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,24,27,51,h,Embiid BLOCK (1 BLK),,,1,2,118
+22300040,159,PT00M05.20S,1,0,,1610612739,,,0,0,0,,0,24,27,51,v,Cavaliers Rebound,Rebound,Unknown,0,0,119
+22300040,161,PT00M03.70S,1,0,,1610612739,,,0,0,0,,0,24,27,51,v,Cavaliers Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,1,0,120
+22300040,162,PT00M03.70S,1,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,24,27,51,h,SUB: Maxey FOR Beverley,Substitution,,0,0,121
+22300040,163,PT00M03.70S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,24,27,51,v,SUB: Thompson FOR Merrill,Substitution,,0,0,122
+22300040,164,PT00M03.70S,1,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,24,27,51,v,SUB: Allen FOR Strus,Substitution,,0,0,123
+22300040,168,PT00M00.30S,1,1610612755,PHI,1630178,Maxey,T. Maxey,181,235,30,Missed,1,24,27,51,h,MISS Maxey 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,124
+22300040,168,PT00M00.30S,1,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,24,27,51,v,Porter BLOCK (1 BLK),,,1,3,125
+22300040,170,PT00M00.10S,1,0,,1610612755,,,0,0,0,,0,24,27,51,h,76ERS Rebound,Rebound,Unknown,1,0,126
+22300040,171,PT00M00.00S,1,0,,0,,,0,0,0,,0,24,27,51,,End of 1st Period (8:04 PM EST),period,end,1,0,127
+22300040,182,PT12M00.00S,2,0,,0,,,0,0,0,,0,24,27,51,,Start of 2nd Period (8:08 PM EST),period,start,0,0,128
+22300040,183,PT11M38.00S,2,1610612755,PHI,202699,Harris,T. Harris,2,105,11,Made,1,26,27,53,h,Harris 11' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,129
+22300040,184,PT11M21.00S,2,1610612739,CLE,1629636,Garland,D. Garland,27,85,9,Made,1,26,29,55,v,Garland 9' Pullup Jump Shot (6 PTS) (Porter 3 AST),Made Shot,Pullup Jump shot,1,2,130
+22300040,186,PT11M09.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-13,90,9,Made,1,28,29,57,h,Maxey 9' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,131
+22300040,187,PT10M59.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-18,13,2,Made,1,28,31,59,v,Garland 2' Layup (8 PTS),Made Shot,Layup Shot,1,2,132
+22300040,189,PT10M48.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,48,-21,5,Missed,1,28,31,59,h,MISS Maxey 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,133
+22300040,190,PT10M48.00S,2,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,28,31,59,h,Reed REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,134
+22300040,191,PT10M44.00S,2,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,Missed,1,28,31,59,h,MISS Reed Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,135
+22300040,192,PT10M43.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,28,31,59,v,E. Mobley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,136
+22300040,193,PT10M38.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,65,6,7,Made,1,28,33,61,v,E. Mobley 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,137
+22300040,194,PT10M18.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,28,33,61,v,Cavaliers T.Foul (Def. 3 Sec Thompson ) (M.Lindsay),Foul,Defense 3 Second,1,0,138
+22300040,195,PT10M18.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,28,33,61,h,MISS Maxey Free Throw Technical,Free Throw,Free Throw Technical,1,0,139
+22300040,196,PT10M18.00S,2,0,,1610612755,,,0,0,0,,0,28,33,61,h,76ERS Rebound,Rebound,Normal Rebound,0,0,140
+22300040,197,PT10M03.00S,2,1610612755,PHI,1630531,Springer,J. Springer,7,74,7,Missed,1,28,33,61,h,MISS Springer 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,141
+22300040,198,PT10M00.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,28,33,61,v,Garland REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,142
+22300040,199,PT09M53.00S,2,1610612739,CLE,1627777,Niang,G. Niang,13,38,4,Made,1,28,35,63,v,Niang 4' Driving Floating Jump Shot (4 PTS) (Porter 4 AST),Made Shot,Driving Floating Jump Shot,1,2,143
+22300040,201,PT09M37.00S,2,1610612755,PHI,1630194,Reed,P. Reed,23,1,2,Made,1,30,35,65,h,Reed 2' Layup (2 PTS),Made Shot,Layup Shot,1,2,144
+22300040,202,PT09M19.00S,2,1610612739,CLE,1629636,Garland,D. Garland,107,188,22,Made,1,30,37,67,v,Garland 22' Step Back Jump Shot (10 PTS) (Thompson 1 AST),Made Shot,Step Back Jump shot,1,2,145
+22300040,203,PT09M07.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,161,220,27,Made,1,33,37,70,h,Maxey 27' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,3,146
+22300040,204,PT08M57.00S,2,1610612755,PHI,1630531,Springer,J. Springer,0,0,0,,0,33,37,70,h,Springer P.FOUL (P1.T1) (M.Myers),Foul,Personal,1,0,147
+22300040,206,PT08M46.00S,2,1610612739,CLE,1627777,Niang,G. Niang,-169,212,27,Made,1,33,40,73,v,Niang 27' 3PT Jump Shot (7 PTS) (Porter 5 AST),Made Shot,Jump Shot,1,3,148
+22300040,208,PT08M27.00S,2,1610612755,PHI,1630194,Reed,P. Reed,25,21,3,Missed,1,33,40,73,h,MISS Reed 3' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,149
+22300040,208,PT08M27.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,33,40,73,v,Thompson BLOCK (1 BLK),,,1,2,150
+22300040,210,PT08M23.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,33,40,73,v,Garland REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,151
+22300040,211,PT08M21.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,33,40,73,h,Harris S.FOUL (P1.T2) (N.Sago),Foul,Shooting,1,0,152
+22300040,213,PT08M21.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,33,41,74,v,E. Mobley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,153
+22300040,214,PT08M21.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,33,41,74,v,SUB: Strus FOR Porter,Substitution,,0,0,154
+22300040,216,PT08M21.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,33,42,75,v,E. Mobley Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,155
+22300040,217,PT08M11.00S,2,1610612755,PHI,1630531,Springer,J. Springer,0,0,0,,0,33,42,75,h,Springer Traveling Turnover (P1.T5),Turnover,Traveling,1,0,156
+22300040,218,PT07M59.00S,2,1610612739,CLE,1627777,Niang,G. Niang,158,202,26,Missed,1,33,42,75,v,MISS Niang 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,157
+22300040,219,PT07M56.00S,2,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,33,42,75,h,Reed REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,158
+22300040,220,PT07M47.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,42,109,12,Missed,1,33,42,75,h,MISS Maxey 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,159
+22300040,221,PT07M44.00S,2,1610612755,PHI,1630531,Springer,J. Springer,0,0,0,,0,33,42,75,h,Springer REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,160
+22300040,222,PT07M43.00S,2,1610612755,PHI,201587,Batum,N. Batum,-230,124,26,Missed,1,33,42,75,h,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+22300040,223,PT07M40.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,33,42,75,v,Niang REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,162
+22300040,224,PT07M30.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,33,42,75,v,Garland Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,163
+22300040,224,PT07M30.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,33,42,75,h,Maxey STEAL (1 STL),,,1,0,164
+22300040,226,PT07M20.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,21,9,2,Made,1,35,42,77,h,Maxey 2' Driving Finger Roll Layup (7 PTS) (Batum 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,165
+22300040,228,PT07M05.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,35,42,77,v,Strus Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,166
+22300040,228,PT07M05.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,35,42,77,h,Harris STEAL (1 STL),,,1,0,167
+22300040,230,PT06M52.00S,2,1610612755,PHI,202699,Harris,T. Harris,-37,116,12,Missed,1,35,42,77,h,MISS Harris 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,168
+22300040,231,PT06M47.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,35,42,77,v,Niang REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,169
+22300040,232,PT06M46.00S,2,0,,1610612739,,,0,0,0,,0,35,42,77,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,170
+22300040,234,PT06M46.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,35,42,77,v,SUB: Allen FOR Garland,Substitution,,0,0,171
+22300040,235,PT06M46.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,35,42,77,v,SUB: Merrill FOR Thompson,Substitution,,0,0,172
+22300040,236,PT06M46.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,35,42,77,v,SUB: Porter FOR Niang,Substitution,,0,0,173
+22300040,240,PT06M46.00S,2,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,35,42,77,h,SUB: Embiid FOR Batum,Substitution,,0,0,174
+22300040,241,PT06M46.00S,2,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,35,42,77,h,SUB: Melton FOR Reed,Substitution,,0,0,175
+22300040,244,PT06M30.00S,2,1610612739,CLE,1628386,Allen,J. Allen,28,15,3,Made,1,35,44,79,v,Allen 3' Layup (10 PTS),Made Shot,Layup Shot,1,2,176
+22300040,245,PT06M16.00S,2,1610612755,PHI,202699,Harris,T. Harris,183,206,28,Missed,1,35,44,79,h,MISS Harris 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,177
+22300040,246,PT06M14.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,35,44,79,v,E. Mobley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,178
+22300040,247,PT05M59.00S,2,1610612739,CLE,1628386,Allen,J. Allen,7,8,1,Made,1,35,46,81,v,Allen 1' Cutting Dunk Shot (12 PTS) (Strus 2 AST),Made Shot,Cutting Dunk Shot,1,2,179
+22300040,249,PT05M45.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,1,0,Made,1,37,46,83,h,Maxey Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,180
+22300040,250,PT05M34.00S,2,1610612739,CLE,1628386,Allen,J. Allen,27,101,10,Made,1,37,48,85,v,Allen 10' Jump Shot (14 PTS) (Strus 3 AST),Made Shot,Jump Shot,1,2,181
+22300040,252,PT05M13.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-221,143,26,Made,1,40,48,88,h,Maxey 26' 3PT Jump Shot (12 PTS) (Embiid 3 AST),Made Shot,Jump Shot,1,3,182
+22300040,254,PT05M01.00S,2,1610612755,PHI,1630531,Springer,J. Springer,0,0,0,,0,40,48,88,h,Springer S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,1,0,183
+22300040,256,PT05M01.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,40,49,89,v,Porter Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,184
+22300040,257,PT05M01.00S,2,1610612755,PHI,1630531,Springer,J. Springer,0,0,0,,0,40,49,89,h,SUB: Batum FOR Springer,Substitution,,0,0,185
+22300040,259,PT05M01.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,40,50,90,v,Porter Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,186
+22300040,260,PT04M45.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,21,21,3,Made,1,42,50,92,h,Embiid 3' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,187
+22300040,261,PT04M45.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,42,50,92,v,Allen S.FOUL (P2.T1) (M.Lindsay),Foul,Shooting,1,0,188
+22300040,263,PT04M45.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,42,50,92,v,SUB: Garland FOR Merrill,Substitution,,0,0,189
+22300040,265,PT04M45.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,42,50,92,h,MISS Embiid Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,190
+22300040,266,PT04M43.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,42,50,92,v,E. Mobley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,191
+22300040,267,PT04M29.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,-22,7,2,Made,1,42,52,94,v,E. Mobley 2' Hook Shot (6 PTS) (Porter 6 AST),Made Shot,Hook Shot,1,2,192
+22300040,269,PT04M20.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,42,52,94,v,Allen P.FOUL (P3.T2) (M.Lindsay),Foul,Personal,1,0,193
+22300040,271,PT04M20.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,42,52,94,v,SUB: Thompson FOR Allen,Substitution,,0,0,194
+22300040,273,PT04M14.00S,2,1610612755,PHI,1629001,Melton,D. Melton,85,250,26,Made,1,45,52,97,h,Melton 26' 3PT Jump Shot (3 PTS) (Maxey 2 AST),Made Shot,Jump Shot,1,3,195
+22300040,275,PT03M57.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,45,52,97,h,Embiid S.FOUL (P2.T4) (M.Myers),Foul,Shooting,1,0,196
+22300040,277,PT03M57.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,45,53,98,v,E. Mobley Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,197
+22300040,278,PT03M57.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,45,54,99,v,E. Mobley Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,198
+22300040,279,PT03M34.00S,2,1610612755,PHI,1629001,Melton,D. Melton,17,26,3,Missed,1,45,54,99,h,MISS Melton 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,199
+22300040,280,PT03M31.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,45,54,99,v,E. Mobley REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,200
+22300040,281,PT03M24.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,45,54,99,h,Maxey S.FOUL (P1.PN) (N.Sago),Foul,Shooting,1,0,201
+22300040,283,PT03M24.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,45,54,99,v,MISS Thompson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,202
+22300040,284,PT03M24.00S,2,0,,1610612739,,,0,0,0,,0,45,54,99,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0,203
+22300040,285,PT03M24.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,45,54,99,v,MISS Thompson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,204
+22300040,286,PT03M19.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,45,54,99,v,Strus REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,205
+22300040,287,PT03M17.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-17,27,3,Missed,1,45,54,99,v,MISS Garland 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,206
+22300040,288,PT03M17.00S,2,0,,1610612755,,,0,0,0,,0,45,54,99,h,76ERS Rebound,Rebound,Unknown,1,0,207
+22300040,290,PT03M06.00S,2,1610612755,PHI,201587,Batum,N. Batum,232,38,24,Missed,1,45,54,99,h,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+22300040,291,PT03M03.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,45,54,99,v,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,209
+22300040,292,PT02M54.00S,2,1610612739,CLE,1629636,Garland,D. Garland,-39,27,5,Made,1,45,56,101,v,Garland 5' Driving Floating Bank Jump Shot (12 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,210
+22300040,293,PT02M54.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,45,56,101,h,Embiid S.FOUL (P3.PN) (M.Lindsay),Foul,Shooting,1,0,211
+22300040,295,PT02M54.00S,2,0,,1610612755,,,0,0,0,,0,45,56,101,h,76ERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,212
+22300040,296,PT02M54.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,45,56,101,h,SUB: Morris Sr. FOR Embiid,Substitution,,0,0,213
+22300040,297,PT02M54.00S,2,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,45,56,101,v,SUB: Niang FOR Thompson,Substitution,,0,0,214
+22300040,300,PT02M54.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,45,56,101,v,MISS Garland Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,215
+22300040,301,PT02M52.00S,2,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,45,56,101,h,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,216
+22300040,302,PT02M37.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,58,51,8,Missed,1,45,56,101,h,MISS Maxey 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,217
+22300040,303,PT02M33.00S,2,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,45,56,101,h,Melton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,218
+22300040,304,PT02M33.00S,2,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,Made,1,47,56,103,h,Melton Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,1,2,219
+22300040,305,PT02M27.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,7,44,4,Missed,1,47,56,103,v,MISS E. Mobley 4' Hook Shot,Missed Shot,Hook Shot,1,2,220
+22300040,306,PT02M24.00S,2,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,47,56,103,h,Melton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,221
+22300040,307,PT02M05.00S,2,1610612755,PHI,1629001,Melton,D. Melton,11,15,2,Made,1,49,56,105,h,Melton 2' Driving Layup (7 PTS) (Harris 1 AST),Made Shot,Driving Layup Shot,1,2,222
+22300040,309,PT02M05.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,49,56,105,v,Garland S.FOUL (P1.T3) (M.Lindsay),Foul,Shooting,1,0,223
+22300040,311,PT02M05.00S,2,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,49,56,105,h,MISS Melton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,224
+22300040,312,PT02M02.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,49,56,105,v,E. Mobley REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,225
+22300040,313,PT01M48.00S,2,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,49,56,105,h,Melton P.FOUL (P1.PN) (M.Myers),Foul,Personal,1,0,226
+22300040,315,PT01M48.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,49,56,105,v,MISS Strus Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,227
+22300040,316,PT01M48.00S,2,0,,1610612739,,,0,0,0,,0,49,56,105,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0,228
+22300040,317,PT01M48.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,49,56,105,v,SUB: Wade FOR E. Mobley,Substitution,,0,0,229
+22300040,319,PT01M48.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,49,57,106,v,Strus Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,230
+22300040,320,PT01M35.00S,2,1610612755,PHI,1629001,Melton,D. Melton,36,13,4,Missed,1,49,57,106,h,MISS Melton 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,231
+22300040,321,PT01M32.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,49,57,106,v,Garland REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,232
+22300040,322,PT01M21.00S,2,1610612739,CLE,1627777,Niang,G. Niang,-188,180,26,Made,1,49,60,109,v,Niang 26' 3PT Jump Shot (10 PTS) (Garland 4 AST),Made Shot,Jump Shot,1,3,233
+22300040,324,PT01M07.00S,2,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,49,60,109,v,Wade S.FOUL (P2.T4) (M.Lindsay),Foul,Shooting,1,0,234
+22300040,326,PT01M07.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,50,60,110,h,Harris Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,235
+22300040,327,PT01M07.00S,2,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,51,60,111,h,Harris Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,236
+22300040,328,PT00M49.10S,2,1610612739,CLE,1629636,Garland,D. Garland,-34,284,29,Missed,1,51,60,111,v,MISS Garland 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+22300040,329,PT00M46.90S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,51,60,111,h,Maxey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,238
+22300040,330,PT00M32.00S,2,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,51,60,111,h,Batum Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,239
+22300040,330,PT00M32.00S,2,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,51,60,111,v,Strus STEAL (2 STL),,,1,0,240
+22300040,332,PT00M27.90S,2,1610612739,CLE,1629622,Strus,M. Strus,7,5,1,Made,1,51,62,113,v,Strus 1' Running Finger Roll Layup (8 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,241
+22300040,333,PT00M04.00S,2,1610612755,PHI,202699,Harris,T. Harris,50,84,10,Made,1,53,62,115,h,Harris 10' Jump Shot (10 PTS),Made Shot,Jump Shot,1,2,242
+22300040,334,PT00M00.30S,2,1610612739,CLE,1629622,Strus,M. Strus,-162,268,31,Made,1,53,65,118,v,Strus 31' 3PT Jump Shot (11 PTS) (Garland 5 AST),Made Shot,Jump Shot,1,3,243
+22300040,336,PT00M00.00S,2,0,,0,,,0,0,0,,0,53,65,118,,End of 2nd Period (8:35 PM EST),period,end,1,0,244
+22300040,343,PT12M00.00S,3,0,,0,,,0,0,0,,0,53,65,118,,Start of 3rd Period (8:56 PM EST),period,start,0,0,245
+22300040,344,PT11M47.00S,3,1610612755,PHI,1629001,Melton,D. Melton,233,69,24,Missed,1,53,65,118,h,MISS Melton 24' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,246
+22300040,345,PT11M45.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,53,65,118,v,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,247
+22300040,346,PT11M31.00S,3,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,53,65,118,h,Melton P.FOUL (P2.T1) (M.Lindsay),Foul,Personal,1,0,248
+22300040,348,PT11M13.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-32,85,9,Missed,1,53,65,118,v,MISS E. Mobley 9' Layup,Missed Shot,Layup Shot,1,2,249
+22300040,348,PT11M13.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,53,65,118,h,Embiid BLOCK (2 BLK),,,1,2,250
+22300040,350,PT11M10.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,53,65,118,v,Wade REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,251
+22300040,351,PT11M09.00S,3,1610612739,CLE,1629622,Strus,M. Strus,71,247,26,Made,1,53,68,121,v,Strus 26' 3PT Jump Shot (14 PTS) (Wade 1 AST),Made Shot,Jump Shot,1,3,252
+22300040,354,PT11M02.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,53,68,121,h,Maxey Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,253
+22300040,354,PT11M02.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,53,68,121,v,Garland STEAL (2 STL),,,1,0,254
+22300040,356,PT10M59.00S,3,1610612739,CLE,1629636,Garland,D. Garland,105,261,28,Missed,1,53,68,121,v,MISS Garland 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+22300040,357,PT10M56.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,53,68,121,h,Embiid REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,256
+22300040,358,PT10M45.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,103,68,12,Missed,1,53,68,121,h,MISS Embiid 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,257
+22300040,359,PT10M43.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,53,68,121,v,E. Mobley REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,258
+22300040,360,PT10M34.00S,3,1610612739,CLE,1629622,Strus,M. Strus,116,240,27,Made,1,53,71,124,v,Strus 27' 3PT Pullup Jump Shot (17 PTS) (E. Mobley 2 AST),Made Shot,Pullup Jump shot,1,3,259
+22300040,362,PT10M08.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,89,269,28,Made,1,56,71,127,h,Embiid 28' 3PT Jump Shot (15 PTS) (Maxey 3 AST),Made Shot,Jump Shot,1,3,260
+22300040,364,PT09M49.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,56,71,127,v,E. Mobley Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,261
+22300040,364,PT09M49.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,56,71,127,h,Embiid STEAL (1 STL),,,1,0,262
+22300040,366,PT09M44.00S,3,1610612755,PHI,202699,Harris,T. Harris,-1,10,1,Made,1,58,71,129,h,Harris 1' Running Layup (12 PTS) (Embiid 4 AST),Made Shot,Running Layup Shot,1,2,263
+22300040,368,PT09M26.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-6,-2,1,Made,1,58,73,131,v,E. Mobley 1' Alley Oop Dunk (10 PTS) (Garland 6 AST),Made Shot,Alley Oop Dunk Shot,1,2,264
+22300040,370,PT09M04.00S,3,1610612755,PHI,201587,Batum,N. Batum,151,220,27,Missed,1,58,73,131,h,MISS Batum 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,265
+22300040,371,PT09M02.00S,3,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,58,73,131,h,Melton REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,266
+22300040,372,PT08M59.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,58,73,131,h,Embiid Out of Bounds - Bad Pass Turnover Turnover (P4.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,267
+22300040,373,PT08M48.00S,3,1610612739,CLE,1629636,Garland,D. Garland,5,24,2,Missed,1,58,73,131,v,MISS Garland 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,268
+22300040,374,PT08M42.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,58,73,131,v,Allen REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,269
+22300040,375,PT08M42.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,Made,1,58,75,133,v,Allen Tip Dunk Shot (16 PTS),Made Shot,Tip Dunk Shot,1,2,270
+22300040,376,PT08M32.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,58,75,133,v,Wade S.FOUL (P3.T1) (M.Lindsay),Foul,Shooting,1,0,271
+22300040,378,PT08M32.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,59,75,134,h,Embiid Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,272
+22300040,379,PT08M32.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,60,75,135,h,Embiid Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,273
+22300040,380,PT08M19.00S,3,1610612739,CLE,1628386,Allen,J. Allen,5,13,1,Missed,1,60,75,135,v,MISS Allen 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,274
+22300040,381,PT08M16.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,60,75,135,h,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,275
+22300040,382,PT08M08.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-146,233,27,Made,1,63,75,138,h,Maxey 27' 3PT Jump Shot (15 PTS) (Harris 2 AST),Made Shot,Jump Shot,1,3,276
+22300040,384,PT07M54.00S,3,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,63,75,138,h,Batum P.FOUL (P3.T2) (M.Myers),Foul,Personal,1,0,277
+22300040,386,PT07M48.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,63,75,138,h,Harris S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,1,0,278
+22300040,388,PT07M48.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,63,76,139,v,Garland Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,279
+22300040,389,PT07M48.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,63,77,140,v,Garland Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,280
+22300040,390,PT07M39.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,63,77,140,h,Embiid Out of Bounds Lost Ball Turnover (P5.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,281
+22300040,391,PT07M25.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,63,77,140,v,Wade Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,1,0,282
+22300040,392,PT07M12.00S,3,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,63,77,140,h,Melton Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,283
+22300040,392,PT07M12.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,63,77,140,v,Garland STEAL (3 STL),,,1,0,284
+22300040,394,PT07M05.00S,3,1610612739,CLE,1629731,Wade,D. Wade,-230,50,24,Missed,1,63,77,140,v,MISS Wade 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,285
+22300040,395,PT07M02.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,63,77,140,v,Wade REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,286
+22300040,396,PT06M55.00S,3,1610612739,CLE,1629731,Wade,D. Wade,-87,232,25,Missed,1,63,77,140,v,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+22300040,397,PT06M51.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,63,77,140,v,Wade REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,288
+22300040,398,PT06M48.00S,3,1610612739,CLE,1629622,Strus,M. Strus,-40,255,26,Missed,1,63,77,140,v,MISS Strus 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,289
+22300040,399,PT06M45.00S,3,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,63,77,140,h,Batum REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,290
+22300040,400,PT06M36.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,28,147,15,Missed,1,63,77,140,h,MISS Maxey 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,291
+22300040,401,PT06M33.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,63,77,140,v,Wade REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,292
+22300040,402,PT06M28.00S,3,0,,1610612739,,,0,0,0,,0,63,77,140,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,293
+22300040,403,PT06M21.00S,3,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,63,77,140,h,Batum P.FOUL (P4.T4) (M.Lindsay),Foul,Personal,1,0,294
+22300040,405,PT06M14.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,63,77,140,v,E. Mobley Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,295
+22300040,405,PT06M14.00S,3,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,63,77,140,h,Melton STEAL (1 STL),,,1,0,296
+22300040,407,PT06M11.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,63,77,140,v,E. Mobley S.FOUL (P3.T2) (M.Myers),Foul,Shooting,1,0,297
+22300040,409,PT06M11.00S,3,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,64,77,141,h,Melton Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,298
+22300040,410,PT06M11.00S,3,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,64,77,141,h,SUB: Covington FOR Batum,Substitution,,0,0,299
+22300040,412,PT06M11.00S,3,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,65,77,142,h,Melton Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,300
+22300040,413,PT05M51.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-21,27,3,Missed,1,65,77,142,v,MISS E. Mobley 3' Hook Shot,Missed Shot,Hook Shot,1,2,301
+22300040,414,PT05M50.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,65,77,142,h,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,302
+22300040,415,PT05M44.00S,3,1610612755,PHI,202699,Harris,T. Harris,-11,15,2,Missed,1,65,77,142,h,MISS Harris 2' Running Layup,Missed Shot,Running Layup Shot,1,2,303
+22300040,416,PT05M43.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,65,77,142,v,Wade REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,304
+22300040,417,PT05M35.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-12,22,3,Missed,1,65,77,142,v,MISS Garland 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,305
+22300040,418,PT05M34.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,65,77,142,v,Allen REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,306
+22300040,419,PT05M33.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,Missed,1,65,77,142,v,MISS Allen Putback Layup,Missed Shot,Putback Layup Shot,1,2,307
+22300040,419,PT05M33.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,65,77,142,h,Embiid BLOCK (3 BLK),,,1,2,308
+22300040,421,PT05M31.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,65,77,142,h,Maxey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,309
+22300040,422,PT05M12.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-165,218,27,Missed,1,65,77,142,h,MISS Maxey 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+22300040,423,PT05M12.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,65,77,142,v,Allen REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,311
+22300040,424,PT04M52.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-6,10,1,Made,1,65,79,144,v,Garland 1' Cutting Layup Shot (16 PTS) (Allen 1 AST),Made Shot,Cutting Layup Shot,1,2,312
+22300040,426,PT04M37.00S,3,1610612755,PHI,202699,Harris,T. Harris,130,236,27,Made,1,68,79,147,h,Harris 27' 3PT Jump Shot (15 PTS) (Melton 1 AST),Made Shot,Jump Shot,1,3,313
+22300040,428,PT04M07.00S,3,1610612739,CLE,1628386,Allen,J. Allen,-22,136,14,Missed,1,68,79,147,v,MISS Allen 14' Hook Shot,Missed Shot,Hook Shot,1,2,314
+22300040,428,PT04M07.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,68,79,147,h,Covington BLOCK (2 BLK),,,1,2,315
+22300040,430,PT04M05.00S,3,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,68,79,147,h,Melton REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,316
+22300040,431,PT04M04.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,68,79,147,v,Strus S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,1,0,317
+22300040,433,PT04M04.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,69,79,148,h,Maxey Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,318
+22300040,434,PT04M04.00S,3,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,69,79,148,h,SUB: House Jr. FOR Harris,Substitution,,0,0,319
+22300040,435,PT04M04.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,69,79,148,v,SUB: Niang FOR Allen,Substitution,,0,0,320
+22300040,436,PT04M04.00S,3,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,69,79,148,v,SUB: Thompson FOR Wade,Substitution,,0,0,321
+22300040,440,PT04M04.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,70,79,149,h,Maxey Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,322
+22300040,441,PT03M47.00S,3,1610612739,CLE,1627777,Niang,G. Niang,-25,136,14,Made,1,70,81,151,v,Niang 14' Floating Jump Shot (12 PTS) (Strus 4 AST),Made Shot,Floating Jump shot,1,2,323
+22300040,443,PT03M25.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-31,264,27,Missed,1,70,81,151,h,MISS Maxey 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,324
+22300040,444,PT03M22.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,70,81,151,h,Covington REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,325
+22300040,445,PT03M20.00S,3,1610612755,PHI,1627863,House Jr.,D. House Jr.,196,185,27,Made,1,73,81,154,h,House Jr. 27' 3PT Step Back Jump Shot (5 PTS) (Covington 1 AST),Made Shot,Step Back Jump shot,1,3,326
+22300040,447,PT03M00.00S,3,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,73,81,154,h,Melton S.FOUL (P3.PN) (N.Sago),Foul,Shooting,1,0,327
+22300040,449,PT03M00.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,73,82,155,v,Garland Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,328
+22300040,450,PT03M00.00S,3,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,73,82,155,v,SUB: Porter FOR Strus,Substitution,,0,0,329
+22300040,452,PT03M00.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,73,83,156,v,Garland Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,330
+22300040,453,PT02M39.00S,3,1610612755,PHI,1627863,House Jr.,D. House Jr.,-15,95,10,Missed,1,73,83,156,h,MISS House Jr. 10' Driving Layup,Missed Shot,Driving Layup Shot,1,2,331
+22300040,454,PT02M37.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,73,83,156,v,E. Mobley REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,332
+22300040,455,PT02M29.00S,3,1610612739,CLE,1629636,Garland,D. Garland,38,260,26,Made,1,73,86,159,v,Garland 26' 3PT Pullup Jump Shot (21 PTS) (Thompson 2 AST),Made Shot,Pullup Jump shot,1,3,333
+22300040,457,PT02M28.00S,3,0,,1610612755,,,0,0,0,,0,73,86,159,h,76ERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,334
+22300040,458,PT02M28.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,73,86,159,h,SUB: Beverley FOR Maxey,Substitution,,0,0,335
+22300040,460,PT02M15.00S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,73,86,159,v,Niang P.FOUL (P1.T4) (N.Sago),Foul,Personal,0,0,336
+22300040,462,PT02M08.00S,3,1610612755,PHI,1629001,Melton,D. Melton,2,26,3,Missed,1,73,86,159,h,MISS Melton 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,337
+22300040,463,PT02M05.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,73,86,159,h,Embiid REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,338
+22300040,464,PT02M05.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,Made,1,75,86,161,h,Embiid Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,1,2,339
+22300040,465,PT01M43.00S,3,1610612739,CLE,1627777,Niang,G. Niang,4,114,11,Missed,1,75,86,161,v,MISS Niang 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,340
+22300040,466,PT01M41.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,75,86,161,h,Covington REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,341
+22300040,467,PT01M36.00S,3,1610612755,PHI,1629001,Melton,D. Melton,17,7,2,Missed,1,75,86,161,h,MISS Melton 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,342
+22300040,468,PT01M33.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,75,86,161,h,Covington REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,343
+22300040,469,PT01M32.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,75,86,161,h,Covington Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,344
+22300040,469,PT01M32.00S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,75,86,161,v,Thompson STEAL (1 STL),,,1,0,345
+22300040,471,PT01M26.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,75,86,161,v,Garland Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0,346
+22300040,471,PT01M26.00S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,75,86,161,h,Covington STEAL (1 STL),,,1,0,347
+22300040,473,PT01M21.00S,3,1610612755,PHI,1627863,House Jr.,D. House Jr.,7,16,2,Made,1,77,86,163,h,House Jr. 2' Running Layup (7 PTS) (Embiid 5 AST),Made Shot,Running Layup Shot,1,2,348
+22300040,475,PT01M11.00S,3,0,,1610612739,,,0,0,0,,0,77,86,163,v,Cavaliers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,349
+22300040,476,PT01M01.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-1,-10,1,Made,1,77,88,165,v,E. Mobley 1' Alley Oop Dunk (12 PTS) (Garland 7 AST),Made Shot,Alley Oop Dunk Shot,1,2,350
+22300040,478,PT00M39.30S,3,1610612755,PHI,203954,Embiid,J. Embiid,-89,175,20,Missed,1,77,88,165,h,MISS Embiid 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,351
+22300040,479,PT00M36.50S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,77,88,165,v,Niang REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,352
+22300040,480,PT00M35.20S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,77,88,165,v,Niang Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,353
+22300040,480,PT00M35.20S,3,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,77,88,165,h,Covington STEAL (2 STL),,,1,0,354
+22300040,482,PT00M33.10S,3,1610612755,PHI,1629001,Melton,D. Melton,6,20,2,Made,1,79,88,167,h,Melton 2' Running Layup (11 PTS),Made Shot,Running Layup Shot,1,2,355
+22300040,483,PT00M20.40S,3,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-5,131,13,Missed,1,79,88,167,v,MISS Porter 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,356
+22300040,484,PT00M18.80S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,79,88,167,h,Embiid REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,357
+22300040,485,PT00M01.70S,3,1610612755,PHI,203954,Embiid,J. Embiid,61,146,16,Missed,1,79,88,167,h,MISS Embiid 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,358
+22300040,486,PT00M01.70S,3,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,79,88,167,v,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,359
+22300040,487,PT00M00.00S,3,0,,0,,,0,0,0,,0,79,88,167,,End of 3rd Period (9:23 PM EST),period,end,1,0,360
+22300040,498,PT12M00.00S,4,0,,0,,,0,0,0,,0,79,88,167,,Start of 4th Period (9:27 PM EST),period,start,0,0,361
+22300040,499,PT11M39.00S,4,1610612739,CLE,1629622,Strus,M. Strus,-2,46,5,Missed,1,79,88,167,v,MISS Strus 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,362
+22300040,500,PT11M34.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,79,88,167,h,Covington REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,363
+22300040,503,PT11M29.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,42,54,7,Missed,1,79,88,167,h,MISS Maxey 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,364
+22300040,504,PT11M25.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,79,88,167,h,Reed REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,365
+22300040,505,PT11M25.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,Made,1,81,88,169,h,Reed Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,366
+22300040,506,PT11M16.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,81,88,169,h,Reed P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,1,0,367
+22300040,508,PT11M07.00S,4,1610612739,CLE,1629731,Wade,D. Wade,-109,226,25,Missed,1,81,88,169,v,MISS Wade 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,368
+22300040,509,PT11M04.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,81,88,169,v,Allen REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,369
+22300040,510,PT11M01.00S,4,1610612739,CLE,1627777,Niang,G. Niang,29,41,5,Missed,1,81,88,169,v,MISS Niang 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,370
+22300040,511,PT10M58.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,81,88,169,h,Covington REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,371
+22300040,512,PT10M54.00S,4,1610612755,PHI,1627863,House Jr.,D. House Jr.,0,0,0,,0,81,88,169,h,House Jr. Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,372
+22300040,512,PT10M54.00S,4,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,81,88,169,v,Wade STEAL (2 STL),,,1,0,373
+22300040,514,PT10M38.00S,4,1610612739,CLE,1628386,Allen,J. Allen,5,24,2,Made,1,81,90,171,v,Allen 2' Alley Oop Dunk (18 PTS) (Porter 7 AST),Made Shot,Alley Oop Dunk Shot,1,2,374
+22300040,516,PT10M16.00S,4,1610612755,PHI,201976,Beverley,P. Beverley,125,237,27,Missed,1,81,90,171,h,MISS Beverley 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,375
+22300040,517,PT10M13.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,81,90,171,v,Strus REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,376
+22300040,518,PT10M03.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,81,90,171,v,Allen Lost Ball Turnover (P1.T11),Turnover,Lost Ball,1,0,377
+22300040,518,PT10M03.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,81,90,171,h,Reed STEAL (1 STL),,,1,0,378
+22300040,520,PT09M46.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,38,4,Made,1,83,90,173,h,Maxey 4' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,379
+22300040,521,PT09M38.00S,4,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,83,90,173,h,Beverley P.FOUL (P1.T2) (N.Sago),Foul,Personal,1,0,380
+22300040,523,PT09M38.00S,4,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,83,90,173,h,SUB: Harris FOR Beverley,Substitution,,0,0,381
+22300040,524,PT09M38.00S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,83,90,173,h,SUB: Batum FOR Covington,Substitution,,0,0,382
+22300040,527,PT09M32.00S,4,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-45,71,8,Made,1,83,92,175,v,Porter 8' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,383
+22300040,528,PT09M07.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,83,92,175,v,Niang S.FOUL (P2.T1) (M.Lindsay),Foul,Shooting,1,0,384
+22300040,530,PT09M07.00S,4,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,84,92,176,h,Harris Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,385
+22300040,531,PT09M07.00S,4,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,85,92,177,h,Harris Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,386
+22300040,532,PT08M56.00S,4,1610612739,CLE,1629622,Strus,M. Strus,-113,225,25,Made,1,85,95,180,v,Strus 25' 3PT Jump Shot (20 PTS) (Porter 8 AST),Made Shot,Jump Shot,1,3,387
+22300040,534,PT08M43.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,-33,121,13,Made,1,87,95,182,h,Maxey 13' Driving Floating Jump Shot (21 PTS),Made Shot,Driving Floating Jump Shot,1,2,388
+22300040,535,PT08M43.00S,4,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,87,95,182,v,Wade S.FOUL (P4.T2) (M.Myers),Foul,Shooting,1,0,389
+22300040,537,PT08M43.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,87,95,182,v,SUB: E. Mobley FOR Allen,Substitution,,0,0,390
+22300040,539,PT08M43.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,87,95,182,h,MISS Maxey Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,391
+22300040,540,PT08M41.00S,4,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,87,95,182,v,Wade REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,392
+22300040,541,PT08M33.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,87,95,182,h,Maxey P.FOUL (P2.T3) (N.Sago),Foul,Personal,1,0,393
+22300040,543,PT08M33.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,87,95,182,v,SUB: Garland FOR Niang,Substitution,,0,0,394
+22300040,545,PT08M25.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,-4,1,0,Made,1,87,97,184,v,E. Mobley Dunk (14 PTS) (Strus 5 AST),Made Shot,Dunk Shot,1,2,395
+22300040,547,PT08M19.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,23,47,5,Missed,1,87,97,184,h,MISS Maxey 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,396
+22300040,547,PT08M19.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,87,97,184,v,Strus BLOCK (1 BLK),,,1,2,397
+22300040,549,PT08M19.00S,4,0,,1610612755,,,0,0,0,,0,87,97,184,h,76ERS Rebound,Rebound,Unknown,1,0,398
+22300040,551,PT08M19.00S,4,1610612755,PHI,1630194,Reed,P. Reed,0,0,0,,0,87,97,184,h,SUB: Embiid FOR Reed,Substitution,,0,0,399
+22300040,553,PT08M19.00S,4,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,87,97,184,v,SUB: Allen FOR Porter,Substitution,,0,0,400
+22300040,555,PT08M12.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,87,97,184,v,E. Mobley S.FOUL (P4.T3) (M.Lindsay),Foul,Shooting,1,0,401
+22300040,557,PT08M12.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,88,97,185,h,Embiid Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,402
+22300040,558,PT08M12.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,88,97,185,h,MISS Embiid Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,403
+22300040,559,PT08M10.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,88,97,185,v,Allen REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,404
+22300040,560,PT07M51.00S,4,1610612739,CLE,1629636,Garland,D. Garland,230,48,0,Missed,1,88,97,185,v,MISS Garland 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,405
+22300040,561,PT07M46.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,88,97,185,h,Maxey REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,406
+22300040,562,PT07M45.00S,4,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,88,97,185,v,Wade S.FOUL (P5.T4) (M.Myers),Foul,Shooting,1,0,407
+22300040,564,PT07M45.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,89,97,186,h,Embiid Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,408
+22300040,565,PT07M45.00S,4,1610612755,PHI,1627863,House Jr.,D. House Jr.,0,0,0,,0,89,97,186,h,SUB: Melton FOR House Jr.,Substitution,,0,0,409
+22300040,567,PT07M45.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,90,97,187,h,Embiid Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,410
+22300040,568,PT07M34.00S,4,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,90,97,187,h,Batum P.FOUL (P5.T4) (M.Lindsay),Foul,Personal,1,0,411
+22300040,570,PT07M34.00S,4,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,90,97,187,h,SUB: Beverley FOR Batum,Substitution,,0,0,412
+22300040,572,PT07M31.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,90,97,187,h,Embiid S.FOUL (P4.PN) (N.Sago),Foul,Shooting,1,0,413
+22300040,574,PT07M31.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,90,98,188,v,Allen Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,414
+22300040,575,PT07M31.00S,4,0,,1610612739,,,0,0,0,,0,90,98,188,v,Cavaliers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,415
+22300040,576,PT07M31.00S,4,0,,1610612755,,,0,0,0,,0,90,98,188,h,76ERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,416
+22300040,577,PT07M31.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,90,99,189,v,Allen Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,417
+22300040,578,PT07M18.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,-123,155,20,Missed,1,90,99,189,h,MISS Embiid 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,418
+22300040,579,PT07M14.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,90,99,189,v,E. Mobley REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,419
+22300040,580,PT07M02.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,8,1,Missed,1,90,99,189,v,MISS Allen 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,420
+22300040,580,PT07M02.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,90,99,189,h,Embiid BLOCK (4 BLK),,,1,2,421
+22300040,582,PT07M02.00S,4,0,,1610612755,,,0,0,0,,0,90,99,189,h,76ERS Rebound,Rebound,Unknown,1,0,422
+22300040,584,PT06M47.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,90,99,189,v,Strus P.FOUL (P3.PN) (M.Myers),Foul,Personal,1,0,423
+22300040,586,PT06M47.00S,4,0,,1610612755,,,0,0,0,,0,90,99,189,h,76ERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,424
+22300040,587,PT06M47.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,91,99,190,h,Embiid Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,425
+22300040,588,PT06M47.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,92,99,191,h,Embiid Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,426
+22300040,589,PT06M28.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,92,99,191,v,Strus Out of Bounds Lost Ball Turnover (P2.T12),Turnover,Out of Bounds Lost Ball Turnover,1,0,427
+22300040,590,PT06M20.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,-121,230,26,Missed,1,92,99,191,h,MISS Maxey 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,428
+22300040,591,PT06M17.00S,4,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,92,99,191,v,Wade REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,429
+22300040,592,PT06M09.00S,4,1610612739,CLE,1629636,Garland,D. Garland,25,50,6,Missed,1,92,99,191,v,MISS Garland 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,430
+22300040,593,PT06M07.00S,4,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,92,99,191,h,Beverley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,431
+22300040,594,PT05M57.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,26,174,18,Made,1,94,99,193,h,Embiid 18' Pullup Jump Shot (26 PTS),Made Shot,Pullup Jump shot,1,2,432
+22300040,595,PT05M36.00S,4,1610612739,CLE,1629622,Strus,M. Strus,-5,41,4,Missed,1,94,99,193,v,MISS Strus 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,433
+22300040,595,PT05M36.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,94,99,193,h,Embiid BLOCK (5 BLK),,,1,2,434
+22300040,597,PT05M36.00S,4,0,,1610612755,,,0,0,0,,0,94,99,193,h,76ERS Rebound,Rebound,Unknown,1,0,435
+22300040,603,PT05M30.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,94,99,193,h,Embiid OFF.Foul (P5) (M.Myers),Foul,Offensive,1,0,436
+22300040,605,PT05M30.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,94,99,193,h,Embiid Offensive Foul Turnover (P6.T13),Turnover,Offensive Foul Turnover,1,0,437
+22300040,606,PT05M30.00S,4,0,,1610612755,,,0,0,0,,0,94,99,193,h,76ERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,438
+22300040,607,PT05M30.00S,4,0,,603,,,0,0,0,,0,94,99,193,,Instant Replay4th Period (9:45 PM EST),Instant Replay,Coach Challenge Support Ruling,0,0,439
+22300040,608,PT05M30.00S,4,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,94,99,193,v,SUB: Porter FOR Wade,Substitution,,0,0,440
+22300040,610,PT05M07.00S,4,1610612739,CLE,1629622,Strus,M. Strus,-17,271,27,Missed,1,94,99,193,v,MISS Strus 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,441
+22300040,611,PT05M04.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,94,99,193,h,Embiid REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,442
+22300040,612,PT05M02.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,94,99,193,v,Strus FLAGRANT.FOUL.TYPE1 (P4.PN) (M.Lindsay),Foul,Flagrant Type 1,1,0,443
+22300040,614,PT05M02.00S,4,0,,612,,,0,0,0,,0,94,99,193,,Instant Replay4th Period (9:49 PM EST),Instant Replay,Support Ruling,0,0,444
+22300040,615,PT05M02.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,95,99,194,h,Maxey Free Throw Flagrant 1 of 2 (22 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,445
+22300040,616,PT05M02.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,96,99,195,h,Maxey Free Throw Flagrant 2 of 2 (23 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,446
+22300040,617,PT04M51.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,-94,238,26,Missed,1,96,99,195,h,MISS Embiid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,447
+22300040,618,PT04M46.00S,4,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,96,99,195,v,Porter REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,448
+22300040,619,PT04M32.00S,4,1610612739,CLE,1629636,Garland,D. Garland,17,25,3,Made,1,96,101,197,v,Garland 3' Driving Finger Roll Layup (23 PTS) (Allen 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,449
+22300040,621,PT04M11.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,96,101,197,v,Allen S.FOUL (P4.PN) (M.Myers),Foul,Shooting,1,0,450
+22300040,623,PT04M11.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,97,101,198,h,Embiid Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0,451
+22300040,626,PT04M11.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,98,101,199,h,Embiid Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0,452
+22300040,627,PT03M50.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,98,101,199,v,E. Mobley Lost Ball Turnover (P3.T13),Turnover,Lost Ball,1,0,453
+22300040,627,PT03M50.00S,4,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,98,101,199,h,Beverley STEAL (2 STL),,,1,0,454
+22300040,629,PT03M45.00S,4,1610612755,PHI,1629001,Melton,D. Melton,-205,159,26,Missed,1,98,101,199,h,MISS Melton 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,455
+22300040,630,PT03M42.00S,4,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,98,101,199,h,Melton REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,456
+22300040,631,PT03M38.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,-130,238,27,Missed,1,98,101,199,h,MISS Maxey 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+22300040,632,PT03M36.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,98,101,199,v,Garland REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,458
+22300040,633,PT03M17.00S,4,1610612739,CLE,1629622,Strus,M. Strus,202,161,26,Missed,1,98,101,199,v,MISS Strus 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,459
+22300040,634,PT03M13.00S,4,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,98,101,199,h,Beverley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,460
+22300040,635,PT02M54.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,91,259,27,Missed,1,98,101,199,h,MISS Embiid 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,461
+22300040,636,PT02M50.00S,4,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,98,101,199,h,Melton REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,462
+22300040,637,PT02M49.00S,4,1610612755,PHI,202699,Harris,T. Harris,-147,225,27,Made,1,101,101,202,h,Harris 27' 3PT Jump Shot (20 PTS) (Melton 2 AST),Made Shot,Jump Shot,1,3,463
+22300040,638,PT02M39.00S,4,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,101,101,202,h,Beverley P.FOUL (P2.PN) (M.Lindsay),Foul,Personal,1,0,464
+22300040,640,PT02M39.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,101,102,203,v,Garland Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,465
+22300040,641,PT02M39.00S,4,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,101,102,203,v,SUB: Wade FOR Porter,Substitution,,0,0,466
+22300040,643,PT02M39.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,101,103,204,v,Garland Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,467
+22300040,644,PT02M26.00S,4,1610612755,PHI,202699,Harris,T. Harris,-2,34,3,Missed,1,101,103,204,h,MISS Harris 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,468
+22300040,644,PT02M26.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,101,103,204,v,E. Mobley BLOCK (1 BLK),,,1,2,469
+22300040,646,PT02M24.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,101,103,204,v,E. Mobley REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,470
+22300040,647,PT02M10.00S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,101,103,204,v,Garland Bad Pass Turnover (P4.T14),Turnover,Bad Pass,1,0,471
+22300040,647,PT02M10.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,101,103,204,h,Embiid STEAL (2 STL),,,1,0,472
+22300040,649,PT02M07.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,6,37,4,Made,1,103,103,206,h,Maxey 4' Running Layup (25 PTS),Made Shot,Running Layup Shot,1,2,473
+22300040,652,PT02M07.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,103,103,206,v,E. Mobley Violation:Defensive Goaltending (M.Myers),Violation,Defensive Goaltending,1,0,474
+22300040,653,PT02M07.00S,4,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,103,103,206,v,Strus S.FOUL (P5.PN) (M.Myers),Foul,Shooting,0,0,475
+22300040,657,PT02M07.00S,4,0,,1610612739,,,0,0,0,,0,103,103,206,v,Cavaliers Timeout: Coach Challenge (Reg.3 Short 0),Timeout,Coach Challenge,0,0,476
+22300040,656,PT02M07.00S,4,0,,653,,,0,0,0,,0,103,103,206,,Instant Replay4th Period (9:59 PM EST),Instant Replay,Coach Challenge Support Ruling,1,0,477
+22300040,658,PT02M07.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,104,103,207,h,Maxey Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,1,0,478
+22300040,659,PT01M51.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-4,82,8,Missed,1,104,103,207,v,MISS Garland 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,479
+22300040,659,PT01M51.00S,4,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,104,103,207,h,Beverley BLOCK (1 BLK),,,1,2,480
+22300040,661,PT01M48.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,104,103,207,v,Allen REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,481
+22300040,662,PT01M42.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-91,253,27,Made,1,104,106,210,v,Garland 27' 3PT Jump Bank Shot (28 PTS) (Wade 2 AST),Made Shot,Jump Bank Shot,1,3,482
+22300040,664,PT01M23.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,-15,152,15,Made,1,106,106,212,h,Embiid 15' Jump Shot (30 PTS),Made Shot,Jump Shot,1,2,483
+22300040,665,PT01M10.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,-2,-1,0,Made,1,106,108,214,v,E. Mobley Cutting Dunk Shot (16 PTS) (Allen 3 AST),Made Shot,Cutting Dunk Shot,1,2,484
+22300040,667,PT01M05.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,-12,29,3,Made,1,108,108,216,h,Maxey 3' Driving Layup (28 PTS),Made Shot,Driving Layup Shot,1,2,485
+22300040,668,PT00M52.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,108,108,216,v,Allen Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0,486
+22300040,668,PT00M52.00S,4,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,108,108,216,h,Harris STEAL (2 STL),,,1,0,487
+22300040,670,PT00M29.30S,4,1610612755,PHI,203954,Embiid,J. Embiid,12,186,19,Missed,1,108,108,216,h,MISS Embiid 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,488
+22300040,671,PT00M26.00S,4,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,108,108,216,h,Beverley REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,489
+22300040,672,PT00M16.00S,4,1610612755,PHI,201976,Beverley,P. Beverley,75,122,14,Made,1,110,108,218,h,Beverley 14' Driving Floating Jump Shot (2 PTS) (Melton 3 AST),Made Shot,Driving Floating Jump Shot,1,2,490
+22300040,674,PT00M16.00S,4,0,,1610612739,,,0,0,0,,0,110,108,218,v,Cavaliers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,491
+22300040,675,PT00M16.00S,4,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,110,108,218,v,SUB: Niang FOR Wade,Substitution,,0,0,492
+22300040,677,PT00M13.50S,4,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,110,108,218,h,Beverley S.FOUL (P3.PN) (M.Lindsay),Foul,Shooting,1,0,493
+22300040,679,PT00M13.50S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,110,109,219,v,Garland Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,1,0,494
+22300040,680,PT00M13.50S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,110,109,219,v,SUB: Wade FOR Niang,Substitution,,0,0,495
+22300040,682,PT00M13.50S,4,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,110,109,219,h,SUB: Covington FOR Beverley,Substitution,,0,0,496
+22300040,684,PT00M13.50S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,110,110,220,v,Garland Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,0,497
+22300040,685,PT00M13.50S,4,0,,1610612755,,,0,0,0,,0,110,110,220,h,76ERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,498
+22300040,686,PT00M13.50S,4,1610612755,PHI,203496,Covington,R. Covington,0,0,0,,0,110,110,220,h,SUB: Batum FOR Covington,Substitution,,0,0,499
+22300040,688,PT00M13.50S,4,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,110,110,220,v,SUB: Thompson FOR Garland,Substitution,,0,0,500
+22300040,690,PT00M01.90S,4,1610612755,PHI,203954,Embiid,J. Embiid,65,184,20,Missed,1,110,110,220,h,MISS Embiid 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,501
+22300040,691,PT00M01.90S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,110,110,220,v,Allen REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,502
+22300040,692,PT00M00.00S,4,0,,0,,,0,0,0,,0,110,110,220,,End of 4th Period (10:08 PM EST),period,end,1,0,503
+22300040,697,PT05M00.00S,5,0,,0,,,0,0,0,,0,110,110,220,,Start of 1st OT (10:11 PM EST),period,start,0,0,504
+22300040,699,PT05M00.00S,5,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,110,110,220,h,Jump Ball Embiid vs. Allen: Tip to Allen,Jump Ball,,0,0,505
+22300040,702,PT04M39.00S,5,1610612739,CLE,1629636,Garland,D. Garland,-2,29,3,Missed,1,110,110,220,v,MISS Garland 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,506
+22300040,703,PT04M37.00S,5,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,110,110,220,v,Allen REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,507
+22300040,704,PT04M34.00S,5,1610612739,CLE,1629622,Strus,M. Strus,-5,267,27,Missed,1,110,110,220,v,MISS Strus 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,508
+22300040,705,PT04M32.00S,5,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,110,110,220,v,Wade REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,509
+22300040,707,PT04M27.00S,5,1610612739,CLE,1628386,Allen,J. Allen,93,137,17,Made,1,110,112,222,v,Allen 17' Floating Jump Shot (22 PTS) (Strus 6 AST),Made Shot,Floating Jump shot,1,2,510
+22300040,709,PT04M14.00S,5,1610612755,PHI,1630178,Maxey,T. Maxey,12,26,3,Made,1,112,112,224,h,Maxey 3' Driving Layup (30 PTS),Made Shot,Driving Layup Shot,1,2,511
+22300040,710,PT03M54.00S,5,1610612739,CLE,1630596,Mobley,E. Mobley,-11,47,5,Missed,1,112,112,224,v,MISS E. Mobley 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,512
+22300040,711,PT03M52.00S,5,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,112,112,224,h,Embiid REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,513
+22300040,712,PT03M38.00S,5,1610612755,PHI,1630178,Maxey,T. Maxey,-147,222,27,Missed,1,112,112,224,h,MISS Maxey 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,514
+22300040,713,PT03M35.00S,5,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,112,112,224,v,E. Mobley REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,515
+22300040,714,PT03M25.00S,5,1610612739,CLE,1628386,Allen,J. Allen,-5,3,1,Made,1,112,114,226,v,Allen 1' Alley Oop Dunk (24 PTS) (E. Mobley 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,516
+22300040,716,PT03M03.00S,5,1610612755,PHI,203954,Embiid,J. Embiid,9,32,3,Missed,1,112,114,226,h,MISS Embiid 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,517
+22300040,717,PT03M03.00S,5,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,112,114,226,v,Allen REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,518
+22300040,718,PT02M45.00S,5,1610612739,CLE,1629636,Garland,D. Garland,15,24,3,Missed,1,112,114,226,v,MISS Garland 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,519
+22300040,719,PT02M42.00S,5,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,112,114,226,h,Embiid REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,520
+22300040,720,PT02M36.00S,5,1610612755,PHI,1629001,Melton,D. Melton,77,257,27,Missed,1,112,114,226,h,MISS Melton 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,521
+22300040,721,PT02M33.00S,5,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,112,114,226,v,Allen REBOUND (Off:6 Def:7),Rebound,Unknown,1,0,522
+22300040,722,PT02M24.00S,5,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,112,114,226,v,E. Mobley Bad Pass Turnover (P4.T16),Turnover,Bad Pass,1,0,523
+22300040,722,PT02M24.00S,5,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,112,114,226,h,Melton STEAL (2 STL),,,1,0,524
+22300040,724,PT02M17.00S,5,1610612755,PHI,1629001,Melton,D. Melton,-1,11,1,Made,1,114,114,228,h,Melton 1' Running Dunk (13 PTS) (Maxey 4 AST),Made Shot,Running Dunk Shot,1,2,525
+22300040,726,PT01M54.00S,5,1610612739,CLE,1629636,Garland,D. Garland,17,166,17,Missed,1,114,114,228,v,MISS Garland 17' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,526
+22300040,727,PT01M51.00S,5,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,114,114,228,h,Maxey REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,527
+22300040,728,PT01M39.00S,5,1610612755,PHI,203954,Embiid,J. Embiid,-16,11,2,Made,1,116,114,230,h,Embiid 2' Driving Layup (32 PTS) (Maxey 5 AST),Made Shot,Driving Layup Shot,1,2,528
+22300040,730,PT01M39.00S,5,0,,1610612739,,,0,0,0,,0,116,114,230,v,Cavaliers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,529
+22300040,731,PT01M39.00S,5,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,116,114,230,v,SUB: Porter FOR Wade,Substitution,,0,0,530
+22300040,735,PT01M24.00S,5,1610612755,PHI,202699,Harris,T. Harris,0,0,0,,0,116,114,230,h,Harris S.FOUL (P3.T1) (M.Myers),Foul,Shooting,1,0,531
+22300040,737,PT01M24.00S,5,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,116,115,231,v,E. Mobley Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,532
+22300040,738,PT01M24.00S,5,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,116,116,232,v,E. Mobley Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,533
+22300040,739,PT01M08.00S,5,1610612755,PHI,1630178,Maxey,T. Maxey,113,251,28,Missed,1,116,116,232,h,MISS Maxey 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,534
+22300040,740,PT01M04.00S,5,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,116,116,232,v,E. Mobley REBOUND (Off:0 Def:12),Rebound,Unknown,1,0,535
+22300040,741,PT00M54.30S,5,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-15,8,2,Made,1,116,118,234,v,Porter 2' Driving Layup (12 PTS) (Garland 8 AST),Made Shot,Driving Layup Shot,1,2,536
+22300040,743,PT00M37.40S,5,1610612755,PHI,202699,Harris,T. Harris,-233,20,0,Made,1,119,118,237,h,Harris 3PT Jump Shot (23 PTS) (Maxey 6 AST),Made Shot,Jump Shot,1,3,537
+22300040,745,PT00M23.50S,5,1610612739,CLE,1629636,Garland,D. Garland,22,166,17,Missed,1,119,118,237,v,MISS Garland 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,538
+22300040,746,PT00M23.50S,5,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,119,118,237,v,Garland REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,539
+22300040,747,PT00M18.00S,5,1610612739,CLE,1628386,Allen,J. Allen,-81,-2,8,Made,1,119,120,239,v,Allen 8' Hook Shot (26 PTS) (Porter 9 AST),Made Shot,Hook Shot,1,2,540
+22300040,749,PT00M17.90S,5,0,,1610612755,,,0,0,0,,0,119,120,239,h,76ERS Timeout: Regular (Full 8 Short 0),Timeout,Regular,0,0,541
+22300040,750,PT00M17.90S,5,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,119,120,239,h,SUB: Batum FOR Beverley,Substitution,,0,0,542
+22300040,752,PT00M17.90S,5,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,119,120,239,v,SUB: Thompson FOR Porter,Substitution,,0,0,543
+22300040,753,PT00M17.90S,5,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,119,120,239,v,SUB: Wade FOR Garland,Substitution,,0,0,544
+22300040,756,PT00M13.50S,5,1610612755,PHI,1630178,Maxey,T. Maxey,4,32,3,Missed,1,119,120,239,h,MISS Maxey 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,545
+22300040,757,PT00M12.00S,5,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,119,120,239,h,Embiid REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,546
+22300040,774,PT00M11.50S,5,1610612755,PHI,203954,Embiid,J. Embiid,2,-8,1,Missed,1,119,120,239,h,MISS Embiid 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,547
+22300040,775,PT00M11.50S,5,0,,1610612739,,,0,0,0,,0,119,120,239,v,Cavaliers Rebound,Rebound,Unknown,1,0,548
+22300040,759,PT00M11.00S,5,0,,1610612739,,,0,0,0,,0,119,120,239,v,Cavaliers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,549
+22300040,760,PT00M11.00S,5,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,119,120,239,h,SUB: Beverley FOR Batum,Substitution,,0,0,550
+22300040,762,PT00M11.00S,5,1610612739,CLE,202684,Thompson,T. Thompson,0,0,0,,0,119,120,239,v,SUB: Porter FOR Thompson,Substitution,,0,0,551
+22300040,763,PT00M11.00S,5,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,119,120,239,v,SUB: Garland FOR Allen,Substitution,,0,0,552
+22300040,764,PT00M11.00S,5,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,119,120,239,v,SUB: Niang FOR Wade,Substitution,,0,0,553
+22300040,768,PT00M09.50S,5,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,119,120,239,h,Embiid P.FOUL (P6.PN) (N.Sago),Foul,Personal,1,0,554
+22300040,770,PT00M09.50S,5,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,119,120,239,h,SUB: Reed FOR Embiid,Substitution,,0,0,555
+22300040,776,PT00M09.50S,5,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,119,121,240,v,Garland Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,1,0,556
+22300040,786,PT00M09.50S,5,1610612755,PHI,1629001,Melton,D. Melton,0,0,0,,0,119,121,240,h,SUB: Batum FOR Melton,Substitution,,0,0,557
+22300040,779,PT00M09.50S,5,1610612739,CLE,1629622,Strus,M. Strus,0,0,0,,0,119,121,240,v,SUB: Thompson FOR Strus,Substitution,,0,0,558
+22300040,780,PT00M09.50S,5,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,119,121,240,v,SUB: Allen FOR Porter,Substitution,,0,0,559
+22300040,781,PT00M09.50S,5,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,119,121,240,v,SUB: Wade FOR Niang,Substitution,,0,0,560
+22300040,785,PT00M09.50S,5,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,119,122,241,v,Garland Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,1,0,561
+22300040,787,PT00M03.30S,5,1610612755,PHI,1630178,Maxey,T. Maxey,188,214,28,Missed,1,119,122,241,h,MISS Maxey 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,562
+22300040,788,PT00M02.00S,5,0,,1610612755,,,0,0,0,,0,119,122,241,h,76ERS Rebound,Rebound,Unknown,0,0,563
+22300040,790,PT00M02.00S,5,0,,1610612755,,,0,0,0,,0,119,122,241,h,76ERS Timeout: Regular (Full 9 Short 0),Timeout,Regular,0,0,564
+22300040,791,PT00M02.00S,5,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,119,122,241,v,SUB: Strus FOR Garland,Substitution,,0,0,565
+22300040,793,PT00M02.00S,5,1610612755,PHI,201976,Beverley,P. Beverley,0,0,0,,0,119,122,241,h,SUB: Melton FOR Beverley,Substitution,,0,0,566
+22300040,795,PT00M01.50S,5,1610612755,PHI,201587,Batum,N. Batum,0,0,0,,0,119,122,241,h,Batum Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,567
+22300040,795,PT00M01.50S,5,1610612739,CLE,1629731,Wade,D. Wade,0,0,0,,0,119,122,241,v,Wade STEAL (3 STL),,,1,0,568
+22300040,797,PT00M00.00S,5,0,,0,,,0,0,0,,0,119,122,241,,End of 1st OT (10:27 PM EST),period,end,1,0,569

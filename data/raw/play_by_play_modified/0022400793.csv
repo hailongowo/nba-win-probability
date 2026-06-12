@@ -1,0 +1,486 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22400793,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:12 PM EST),period,start,1,0,1
+22400793,4,PT12M00.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Jump Ball Lopez vs. Zubac: Tip to Antetokounmpo,Jump Ball,,1,0,2
+22400793,7,PT11M43.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,-184,185,26,Made,1,3,0,3,h,Kuzma 26' 3PT Jump Shot (3 PTS) (Antetokounmpo 1 AST),Made Shot,Jump Shot,1,3,3
+22400793,9,PT11M25.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,25,125,13,Made,1,3,2,5,v,Zubac 13' Hook Shot (2 PTS) (Leonard 1 AST),Made Shot,Hook Shot,1,2,4
+22400793,11,PT11M14.00S,1,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,3,2,5,h,Prince Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,5
+22400793,11,PT11M14.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,3,2,5,v,Harden STEAL (1 STL),,,1,0,6
+22400793,13,PT10M58.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,22,30,4,Missed,1,3,2,5,v,MISS Zubac 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,7
+22400793,13,PT10M58.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,3,2,5,h,Lopez BLOCK (1 BLK),,,1,2,8
+22400793,15,PT10M58.00S,1,0,,1610612746,,,0,0,0,,0,3,2,5,v,Clippers Rebound,Rebound,Unknown,1,0,9
+22400793,17,PT10M50.00S,1,0,,1610612746,,,0,0,0,,0,3,2,5,v,Clippers Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,10
+22400793,18,PT10M34.00S,1,1610612749,MIL,1627752,Prince,T. Prince,82,88,12,Missed,1,3,2,5,h,MISS Prince 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,11
+22400793,19,PT10M32.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,3,2,5,h,Lopez REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,12
+22400793,20,PT10M32.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,Missed,1,3,2,5,h,MISS Lopez Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,13
+22400793,21,PT10M31.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,3,2,5,v,Zubac REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,14
+22400793,22,PT10M23.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,61,56,8,Made,1,3,4,7,v,Dunn 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,15
+22400793,23,PT10M07.00S,1,1610612749,MIL,1627752,Prince,T. Prince,-186,194,27,Missed,1,3,4,7,h,MISS Prince 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,16
+22400793,24,PT10M05.00S,1,0,,1610612746,,,0,0,0,,0,3,4,7,v,Clippers Rebound,Rebound,Unknown,0,0,17
+22400793,25,PT09M50.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,3,4,7,v,Leonard Backcourt Turnover (P1.T2),Turnover,Backcourt Turnover,1,0,18
+22400793,26,PT09M48.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,3,4,7,h,Kuzma Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,19
+22400793,26,PT09M48.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,3,4,7,v,Dunn STEAL (1 STL),,,0,0,20
+22400793,28,PT09M39.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,22,150,15,Made,1,3,6,9,v,Zubac 15' Driving Floating Jump Shot (4 PTS) (Leonard 2 AST),Made Shot,Driving Floating Jump Shot,1,2,21
+22400793,30,PT09M16.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,-109,147,18,Missed,1,3,6,9,h,MISS Lillard 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,22
+22400793,31,PT09M14.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,3,6,9,v,Zubac REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,23
+22400793,32,PT09M05.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,3,6,9,h,Lillard P.FOUL (P1.T1) (E.Malloy),Foul,Personal,1,0,24
+22400793,34,PT08M57.00S,1,1610612746,LAC,201935,Harden,J. Harden,27,169,17,Missed,1,3,6,9,v,MISS Harden 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,25
+22400793,35,PT08M55.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,3,6,9,v,Dunn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,26
+22400793,36,PT08M45.00S,1,1610612746,LAC,1629599,Coffey,A. Coffey,0,195,20,Missed,1,3,6,9,v,MISS Coffey 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,27
+22400793,37,PT08M42.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,3,6,9,h,Antetokounmpo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+22400793,38,PT08M38.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,89,244,26,Missed,1,3,6,9,h,MISS Lillard 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,29
+22400793,39,PT08M35.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,3,6,9,v,Leonard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+22400793,40,PT08M29.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-109,243,27,Missed,1,3,6,9,v,MISS Leonard 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,31
+22400793,41,PT08M25.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,3,6,9,h,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+22400793,42,PT08M20.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,151,212,26,Missed,1,3,6,9,h,MISS Kuzma 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,33
+22400793,43,PT08M17.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,3,6,9,v,Harden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,34
+22400793,44,PT08M06.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,3,6,9,h,Antetokounmpo P.FOUL (P1.T2) (R.Hussey),Foul,Personal,1,0,35
+22400793,46,PT07M51.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-175,165,24,Made,1,3,9,12,v,Leonard 24' 3PT Jump Shot (3 PTS) (Harden 1 AST),Made Shot,Jump Shot,1,3,36
+22400793,48,PT07M37.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-78,148,17,Made,1,5,9,14,h,Antetokounmpo 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,37
+22400793,50,PT07M20.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-38,176,18,Missed,1,5,9,14,v,MISS Leonard 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,38
+22400793,51,PT07M16.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,5,9,14,h,Antetokounmpo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,39
+22400793,52,PT07M13.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,5,9,14,v,Zubac S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,1,0,40
+22400793,54,PT07M13.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,6,9,15,h,Antetokounmpo Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,41
+22400793,55,PT07M13.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,6,9,15,h,SUB: Trent Jr. FOR Kuzma,Substitution,,0,0,42
+22400793,57,PT07M13.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,6,9,15,h,MISS Antetokounmpo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,43
+22400793,58,PT07M10.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,6,9,15,v,Zubac REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,44
+22400793,59,PT06M56.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,40,99,11,Made,1,6,11,17,v,Leonard 11' Driving Hook Shot (5 PTS),Made Shot,Driving Hook Shot,1,2,45
+22400793,60,PT06M44.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,6,11,17,v,Leonard P.FOUL (P1.T2) (R.Hussey),Foul,Personal,1,0,46
+22400793,62,PT06M44.00S,1,0,,1610612749,,,0,0,0,,0,6,11,17,h,BUCKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,47
+22400793,63,PT06M39.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,6,11,17,h,Antetokounmpo Traveling Turnover (P1.T3),Turnover,Traveling,0,0,48
+22400793,64,PT06M39.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,6,11,17,h,SUB: Green FOR Antetokounmpo,Substitution,,0,0,49
+22400793,67,PT06M19.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,-36,78,9,Missed,1,6,11,17,v,MISS Zubac 9' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,50
+22400793,68,PT06M18.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,6,11,17,h,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,51
+22400793,69,PT06M07.00S,1,1610612749,MIL,1627752,Prince,T. Prince,2,10,1,Missed,1,6,11,17,h,MISS Prince 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,52
+22400793,69,PT06M07.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,6,11,17,v,Zubac BLOCK (1 BLK),,,1,2,53
+22400793,88,PT06M07.00S,1,0,,1610612749,,,0,0,0,,0,6,11,17,h,BUCKS Rebound,Rebound,Unknown,0,0,54
+22400793,72,PT05M58.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,-1,1,0,Made,1,8,11,19,h,Lopez Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,1,2,55
+22400793,146,PT05M41.00S,1,1610612746,LAC,201935,Harden,J. Harden,-42,46,6,Missed,1,8,11,19,v,MISS Harden 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,56
+22400793,147,PT05M41.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,8,11,19,v,Harden REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,57
+22400793,73,PT05M40.00S,1,1610612746,LAC,201935,Harden,J. Harden,-20,80,8,Made,1,8,13,21,v,Harden 8' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,58
+22400793,75,PT05M40.00S,1,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,8,13,21,h,Green S.FOUL (P1.T3) (R.Hussey),Foul,Shooting,1,0,59
+22400793,77,PT05M40.00S,1,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,8,14,22,v,Harden Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,60
+22400793,78,PT05M21.00S,1,1610612749,MIL,1627752,Prince,T. Prince,-232,5,0,Made,1,11,14,25,h,Prince 3PT Jump Shot (3 PTS) (Trent Jr. 1 AST),Made Shot,Jump Shot,1,3,61
+22400793,80,PT05M00.00S,1,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,11,14,25,v,Coffey Traveling Turnover (P1.T3),Turnover,Traveling,1,0,62
+22400793,81,PT04M50.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,28,63,7,Missed,1,11,14,25,h,MISS Lillard 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,63
+22400793,81,PT04M50.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,11,14,25,v,Dunn BLOCK (1 BLK),,,1,2,64
+22400793,83,PT04M50.00S,1,0,,1610612749,,,0,0,0,,0,11,14,25,h,BUCKS Rebound,Rebound,Unknown,0,0,65
+22400793,84,PT04M50.00S,1,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,11,14,25,v,SUB: Jones Jr. FOR Coffey,Substitution,,0,0,66
+22400793,85,PT04M50.00S,1,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,11,14,25,v,SUB: Simmons FOR Dunn,Substitution,,0,0,67
+22400793,89,PT04M50.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,11,14,25,v,SUB: Coffey FOR Leonard,Substitution,,0,0,68
+22400793,91,PT04M49.00S,1,1610612749,MIL,1627752,Prince,T. Prince,223,10,0,Made,1,14,14,28,h,Prince 3PT Jump Shot (6 PTS) (Lillard 1 AST),Made Shot,Jump Shot,1,3,69
+22400793,92,PT04M34.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,14,14,28,h,Lopez Violation:Kicked Ball (R.Hussey),Violation,Kicked Ball,0,0,70
+22400793,93,PT04M34.00S,1,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,14,14,28,v,SUB: Bogdanovic FOR Coffey,Substitution,,0,0,71
+22400793,95,PT04M30.00S,1,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,9,1,Made,1,14,16,30,v,Jones Jr. 1' Cutting Dunk Shot (2 PTS) (Bogdanovic 1 AST),Made Shot,Cutting Dunk Shot,1,2,72
+22400793,97,PT04M18.00S,1,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-123,139,19,Missed,1,14,16,30,h,MISS Trent Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,73
+22400793,98,PT04M14.00S,1,1610612746,LAC,1627732,Simmons,B. Simmons,0,0,0,,0,14,16,30,v,Simmons REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+22400793,99,PT04M11.00S,1,1610612746,LAC,203992,Bogdanović,B. Bogdanović,174,195,26,Made,1,14,19,33,v,Bogdanovic 26' 3PT Running Jump Shot (3 PTS) (Simmons 1 AST),Made Shot,Running Jump Shot,1,3,75
+22400793,101,PT04M01.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,14,19,33,h,Lillard Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,76
+22400793,101,PT04M01.00S,1,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,14,19,33,v,Bogdanovic STEAL (1 STL),,,1,0,77
+22400793,103,PT03M54.00S,1,1610612746,LAC,203992,Bogdanović,B. Bogdanović,190,185,27,Missed,1,14,19,33,v,MISS Bogdanovic 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,78
+22400793,104,PT03M51.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,14,19,33,h,Lillard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,79
+22400793,105,PT03M45.00S,1,1610612749,MIL,1631260,Green,A. Green,82,263,28,Made,1,17,19,36,h,Green 28' 3PT Pullup Jump Shot (3 PTS) (Lopez 1 AST),Made Shot,Pullup Jump shot,1,3,80
+22400793,108,PT03M19.00S,1,1610612746,LAC,201935,Harden,J. Harden,-11,143,14,Made,1,17,21,38,v,Harden 14' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,81
+22400793,109,PT03M00.00S,1,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,17,21,38,v,Jones Jr. P.FOUL (P1.T3) (B.Forte),Foul,Personal,1,0,82
+22400793,111,PT03M00.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,17,21,38,h,SUB: Sims FOR Lopez,Substitution,,0,0,83
+22400793,112,PT03M00.00S,1,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,17,21,38,h,SUB: Kuzma FOR Prince,Substitution,,0,0,84
+22400793,115,PT02M53.00S,1,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,97,248,27,Made,1,20,21,41,h,Trent Jr. 27' 3PT Jump Shot (3 PTS) (Kuzma 1 AST),Made Shot,Jump Shot,1,3,85
+22400793,117,PT02M29.00S,1,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,20,21,41,v,Jones Jr. Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,86
+22400793,117,PT02M29.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,20,21,41,h,Lillard STEAL (1 STL),,,1,0,87
+22400793,119,PT02M12.00S,1,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-66,141,16,Made,1,22,21,43,h,Trent Jr. 16' Driving Floating Jump Shot (5 PTS) (Lillard 2 AST),Made Shot,Driving Floating Jump Shot,1,2,88
+22400793,121,PT02M12.00S,1,0,,1610612746,,,0,0,0,,0,22,21,43,v,Clippers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,89
+22400793,122,PT02M12.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,22,21,43,v,SUB: Batum FOR Zubac,Substitution,,0,0,90
+22400793,124,PT01M48.00S,1,1610612746,LAC,201935,Harden,J. Harden,20,62,7,Missed,1,22,21,43,v,MISS Harden 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,91
+22400793,125,PT01M47.00S,1,1610612749,MIL,1630579,Sims,J. Sims,0,0,0,,0,22,21,43,h,Sims REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,92
+22400793,126,PT01M32.00S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,22,21,43,h,Kuzma Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,93
+22400793,126,PT01M32.00S,1,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,22,21,43,v,Bogdanovic STEAL (2 STL),,,1,0,94
+22400793,128,PT01M22.00S,1,1610612746,LAC,201935,Harden,J. Harden,20,261,26,Missed,1,22,21,43,v,MISS Harden 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,95
+22400793,129,PT01M19.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,22,21,43,h,Lillard REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,96
+22400793,130,PT01M06.00S,1,1610612749,MIL,1631260,Green,A. Green,233,8,0,Missed,1,22,21,43,h,MISS Green 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,97
+22400793,131,PT01M02.00S,1,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,22,21,43,v,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,98
+22400793,132,PT00M55.90S,1,1610612746,LAC,1627732,Simmons,B. Simmons,60,34,7,Made,1,22,23,45,v,Simmons 7' Cutting Layup Shot (2 PTS) (Bogdanovic 2 AST),Made Shot,Cutting Layup Shot,1,2,99
+22400793,134,PT00M39.50S,1,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-219,149,26,Missed,1,22,23,45,h,MISS Trent Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,100
+22400793,135,PT00M36.30S,1,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,22,23,45,v,Bogdanovic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,101
+22400793,136,PT00M33.00S,1,1610612746,LAC,201935,Harden,J. Harden,47,260,26,Made,1,22,26,48,v,Harden 26' 3PT Running Pull-Up Jump Shot (8 PTS) (Bogdanovic 3 AST),Made Shot,Running Pull-Up Jump Shot,1,3,102
+22400793,137,PT00M20.40S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,-211,204,29,Made,1,25,26,51,h,Kuzma 29' 3PT Jump Shot (6 PTS) (Lillard 3 AST),Made Shot,Jump Shot,1,3,103
+22400793,140,PT00M01.80S,1,1610612746,LAC,201587,Batum,N. Batum,184,171,25,Made,1,25,29,54,v,Batum 25' 3PT Jump Shot (3 PTS) (Simmons 2 AST),Made Shot,Jump Shot,1,3,104
+22400793,142,PT00M00.30S,1,1610612749,MIL,1628398,Kuzma,K. Kuzma,18,548,55,Made,1,28,29,57,h,Kuzma 55' 3PT Floating Jump Shot (9 PTS) (Green 1 AST),Made Shot,Floating Jump shot,1,3,105
+22400793,144,PT00M00.00S,1,0,,142,,,0,0,0,,0,28,29,57,,Instant Replay1st Period (8:38 PM EST),Instant Replay,Support Ruling,0,0,106
+22400793,145,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,29,57,,End of 1st Period (8:38 PM EST),period,end,1,0,107
+22400793,152,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,29,57,,Start of 2nd Period (8:39 PM EST),period,start,0,0,108
+22400793,153,PT11M48.00S,2,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,-5,29,3,Made,1,28,31,59,v,Jones Jr. 3' Alley Oop Dunk (4 PTS) (Simmons 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,109
+22400793,155,PT11M30.00S,2,1610612749,MIL,1631260,Green,A. Green,1,257,26,Missed,1,28,31,59,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+22400793,156,PT11M27.00S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,28,31,59,v,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,111
+22400793,157,PT11M16.00S,2,1610612746,LAC,203992,Bogdanović,B. Bogdanović,-66,271,28,Missed,1,28,31,59,v,MISS Bogdanovic 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+22400793,158,PT11M12.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,28,31,59,h,Kuzma REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,113
+22400793,159,PT11M09.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,28,31,59,v,Leonard S.FOUL (P2.T1) (B.Forte),Foul,Shooting,1,0,114
+22400793,161,PT11M09.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,29,31,60,h,Kuzma Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,115
+22400793,162,PT11M09.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,29,31,60,h,SUB: Antetokounmpo FOR Trent Jr.,Substitution,,0,0,116
+22400793,164,PT11M09.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,30,31,61,h,Kuzma Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,117
+22400793,166,PT10M52.00S,2,1610612746,LAC,203992,Bogdanović,B. Bogdanović,-6,14,2,Made,1,30,33,63,v,Bogdanovic 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,118
+22400793,167,PT10M41.00S,2,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,30,33,63,v,Jones Jr. P.FOUL (P2.T2) (E.Malloy),Foul,Personal,1,0,119
+22400793,169,PT10M35.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-110,7,11,Missed,1,30,33,63,h,MISS Antetokounmpo 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,120
+22400793,170,PT10M32.00S,2,1610612746,LAC,1627732,Simmons,B. Simmons,0,0,0,,0,30,33,63,v,Simmons REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,121
+22400793,171,PT10M24.00S,2,1610612746,LAC,203992,Bogdanović,B. Bogdanović,-4,6,1,Missed,1,30,33,63,v,MISS Bogdanovic 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,122
+22400793,172,PT10M20.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,30,33,63,h,Kuzma REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,123
+22400793,173,PT10M17.00S,2,1610612749,MIL,1631260,Green,A. Green,-216,196,29,Missed,1,30,33,63,h,MISS Green 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,124
+22400793,174,PT10M13.00S,2,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,30,33,63,v,Jones Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,125
+22400793,176,PT10M00.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,-86,258,27,Missed,1,30,33,63,v,MISS Leonard 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,126
+22400793,177,PT09M56.00S,2,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,30,33,63,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,127
+22400793,178,PT09M45.00S,2,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,-1,16,2,Made,1,32,33,65,h,Porter Jr. 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,128
+22400793,179,PT09M34.00S,2,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,32,33,65,h,Porter Jr. P.FOUL (P1.T1) (B.Forte),Foul,Personal,1,0,129
+22400793,181,PT09M34.00S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,32,33,65,v,SUB: Zubac FOR Batum,Substitution,,0,0,130
+22400793,183,PT09M23.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,-88,20,9,Made,1,32,35,67,v,Zubac 9' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,1,2,131
+22400793,184,PT09M06.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,4,8,1,Made,1,34,35,69,h,Antetokounmpo 1' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,132
+22400793,185,PT08M56.00S,2,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,-20,28,3,Missed,1,34,35,69,v,MISS Jones Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,133
+22400793,186,PT08M56.00S,2,0,,1610612749,,,0,0,0,,0,34,35,69,h,BUCKS Rebound,Rebound,Unknown,0,0,134
+22400793,188,PT08M49.00S,2,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,34,35,69,v,Bogdanovic P.FOUL (P1.T3) (E.Malloy),Foul,Personal,1,0,135
+22400793,190,PT08M46.00S,2,1610612746,LAC,1627732,Simmons,B. Simmons,0,0,0,,0,34,35,69,v,Simmons P.FOUL (P1.T4) (E.Malloy),Foul,Personal,1,0,136
+22400793,192,PT08M46.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,34,35,69,h,SUB: Prince FOR Kuzma,Substitution,,0,0,137
+22400793,194,PT08M36.00S,2,1610612749,MIL,1631260,Green,A. Green,110,233,26,Made,1,37,35,72,h,Green 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,138
+22400793,195,PT08M17.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,81,19,8,Missed,1,37,35,72,v,MISS Leonard 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,139
+22400793,196,PT08M13.00S,2,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,37,35,72,h,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+22400793,197,PT07M56.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-10,258,26,Missed,1,37,35,72,h,MISS Antetokounmpo 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+22400793,198,PT07M53.00S,2,1610612746,LAC,1627732,Simmons,B. Simmons,0,0,0,,0,37,35,72,v,Simmons REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,142
+22400793,199,PT07M50.00S,2,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,37,35,72,v,Bogdanovic Traveling Turnover (P1.T5),Turnover,Traveling,1,0,143
+22400793,200,PT07M50.00S,2,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,37,35,72,v,SUB: Dunn FOR Bogdanovic,Substitution,,0,0,144
+22400793,202,PT07M29.00S,2,1610612749,MIL,1631260,Green,A. Green,-203,162,26,Missed,1,37,35,72,h,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+22400793,202,PT07M29.00S,2,1610612746,LAC,1627732,Simmons,B. Simmons,0,0,0,,0,37,35,72,v,Simmons BLOCK (1 BLK),,,1,3,146
+22400793,204,PT07M27.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,37,35,72,v,Zubac REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,147
+22400793,289,PT07M20.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,37,35,72,v,Zubac Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,148
+22400793,289,PT07M20.00S,2,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,37,35,72,h,Porter Jr. STEAL (1 STL),,,1,0,149
+22400793,291,PT07M19.00S,2,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,37,35,72,h,Porter Jr. Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,150
+22400793,291,PT07M19.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,37,35,72,v,Leonard STEAL (1 STL),,,1,0,151
+22400793,205,PT07M18.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,-10,27,3,Made,1,37,37,74,v,Leonard 3' Dunk (7 PTS),Made Shot,Dunk Shot,1,2,152
+22400793,206,PT06M59.00S,2,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,-174,117,21,Made,1,39,37,76,h,Porter Jr. 21' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,153
+22400793,207,PT06M39.00S,2,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,225,142,27,Missed,1,39,37,76,v,MISS Jones Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,154
+22400793,208,PT06M36.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,39,37,76,h,Antetokounmpo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,155
+22400793,209,PT06M33.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-2,18,2,Made,1,41,37,78,h,Antetokounmpo 2' Driving Dunk (7 PTS),Made Shot,Driving Dunk Shot,1,2,156
+22400793,210,PT06M33.00S,2,0,,1610612746,,,0,0,0,,0,41,37,78,v,Clippers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,157
+22400793,211,PT06M33.00S,2,1610612749,MIL,1630579,Sims,J. Sims,0,0,0,,0,41,37,78,h,SUB: Trent Jr. FOR Sims,Substitution,,0,0,158
+22400793,212,PT06M33.00S,2,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,41,37,78,h,SUB: Lopez FOR Green,Substitution,,0,0,159
+22400793,213,PT06M33.00S,2,1610612746,LAC,1627732,Simmons,B. Simmons,0,0,0,,0,41,37,78,v,SUB: Harden FOR Simmons,Substitution,,0,0,160
+22400793,214,PT06M33.00S,2,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,41,37,78,v,SUB: Coffey FOR Jones Jr.,Substitution,,0,0,161
+22400793,219,PT06M17.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,124,178,22,Missed,1,41,37,78,v,MISS Leonard 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,162
+22400793,220,PT06M14.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,41,37,78,h,Antetokounmpo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,163
+22400793,221,PT06M04.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,17,8,2,Made,1,43,37,80,h,Antetokounmpo 2' Driving Layup (9 PTS) (Trent Jr. 2 AST),Made Shot,Driving Layup Shot,1,2,164
+22400793,223,PT05M48.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,50,108,12,Missed,1,43,37,80,v,MISS Leonard 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,165
+22400793,224,PT05M45.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,43,37,80,h,Antetokounmpo REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,166
+22400793,225,PT05M31.00S,2,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,228,111,25,Missed,1,43,37,80,h,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,167
+22400793,226,PT05M31.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,43,37,80,v,Leonard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,168
+22400793,227,PT05M22.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,26,257,26,Made,1,43,40,83,v,Leonard 26' 3PT Jump Shot (10 PTS) (Harden 2 AST),Made Shot,Jump Shot,1,3,169
+22400793,229,PT05M05.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,-210,154,26,Made,1,46,40,86,h,Lopez 26' 3PT Jump Shot (5 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,1,3,170
+22400793,231,PT04M39.00S,2,1610612746,LAC,201935,Harden,J. Harden,141,120,19,Missed,1,46,40,86,v,MISS Harden 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,171
+22400793,232,PT04M35.00S,2,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,46,40,86,h,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,172
+22400793,233,PT04M21.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,49,252,26,Made,1,49,40,89,h,Lopez 26' 3PT Jump Shot (8 PTS) (Porter Jr. 2 AST),Made Shot,Jump Shot,1,3,173
+22400793,235,PT04M07.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,49,40,89,h,SUB: Lillard FOR Antetokounmpo,Substitution,,0,0,174
+22400793,236,PT04M07.00S,2,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,49,40,89,h,SUB: Kuzma FOR Porter Jr.,Substitution,,0,0,175
+22400793,239,PT03M56.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,56,24,6,Missed,1,49,40,89,v,MISS Leonard 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,176
+22400793,240,PT03M53.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,49,40,89,h,Kuzma REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,177
+22400793,241,PT03M49.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,137,232,27,Missed,1,49,40,89,h,MISS Lopez 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,178
+22400793,242,PT03M46.00S,2,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,49,40,89,v,Dunn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,179
+22400793,243,PT03M38.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,-98,121,16,Made,1,49,42,91,v,Zubac 16' Floating Jump Shot (8 PTS) (Dunn 1 AST),Made Shot,Floating Jump shot,1,2,180
+22400793,245,PT03M19.00S,2,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-200,173,26,Missed,1,49,42,91,h,MISS Trent Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,181
+22400793,247,PT03M15.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,49,42,91,v,Zubac REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,182
+22400793,248,PT03M08.00S,2,1610612746,LAC,201935,Harden,J. Harden,17,264,26,Missed,1,49,42,91,v,MISS Harden 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,183
+22400793,249,PT03M04.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,49,42,91,v,Zubac REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,184
+22400793,250,PT02M57.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,72,8,7,Missed,1,49,42,91,v,MISS Zubac 7' Hook Shot,Missed Shot,Hook Shot,1,2,185
+22400793,251,PT02M57.00S,2,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,49,42,91,h,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,186
+22400793,254,PT02M57.00S,2,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,49,42,91,v,Dunn P.FOUL (P1.PN) (B.Forte),Foul,Personal,1,0,187
+22400793,256,PT02M57.00S,2,0,,1610612749,,,0,0,0,,0,49,42,91,h,BUCKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,188
+22400793,257,PT02M57.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,49,42,91,v,SUB: Simmons FOR Leonard,Substitution,,0,0,189
+22400793,259,PT02M57.00S,2,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,50,42,92,h,Prince Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,190
+22400793,260,PT02M57.00S,2,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,51,42,93,h,Prince Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,191
+22400793,261,PT02M43.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,-163,31,17,Missed,1,51,42,93,v,MISS Coffey 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,192
+22400793,262,PT02M39.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,51,42,93,h,Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,193
+22400793,263,PT02M32.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,98,258,28,Made,1,54,42,96,h,Lillard 28' 3PT Jump Shot (3 PTS) (Lopez 2 AST),Made Shot,Jump Shot,1,3,194
+22400793,265,PT02M18.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,11,96,10,Missed,1,54,42,96,v,MISS Zubac 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,195
+22400793,266,PT02M14.00S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,54,42,96,h,Kuzma REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,196
+22400793,267,PT01M53.00S,2,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,54,42,96,h,Prince Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,197
+22400793,267,PT01M53.00S,2,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,54,42,96,v,Dunn STEAL (2 STL),,,1,0,198
+22400793,269,PT01M51.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,54,42,96,h,Lopez S.FOUL (P1.T2) (B.Forte),Foul,Shooting,1,0,199
+22400793,271,PT01M51.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,54,43,97,v,Coffey Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,200
+22400793,272,PT01M51.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,54,44,98,v,Coffey Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,201
+22400793,273,PT01M24.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,93,246,26,Made,1,57,44,101,h,Lopez 26' 3PT Jump Shot (11 PTS) (Lillard 4 AST),Made Shot,Jump Shot,1,3,202
+22400793,274,PT01M08.00S,2,1610612746,LAC,1629599,Coffey,A. Coffey,-32,173,18,Made,1,57,46,103,v,Coffey 18' Jump Shot (4 PTS) (Harden 3 AST),Made Shot,Jump Shot,1,2,203
+22400793,276,PT00M54.80S,2,1610612749,MIL,203081,Lillard,D. Lillard,-178,216,28,Missed,1,57,46,103,h,MISS Lillard 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,204
+22400793,277,PT00M52.80S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,57,46,103,v,Zubac REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,205
+22400793,278,PT00M41.70S,2,1610612746,LAC,1627739,Dunn,K. Dunn,43,106,11,Missed,1,57,46,103,v,MISS Dunn 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,206
+22400793,279,PT00M39.10S,2,1610612746,LAC,1627732,Simmons,B. Simmons,0,0,0,,0,57,46,103,v,Simmons REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,207
+22400793,280,PT00M35.70S,2,1610612746,LAC,1629599,Coffey,A. Coffey,-202,146,25,Missed,1,57,46,103,v,MISS Coffey 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+22400793,281,PT00M35.70S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,57,46,103,v,Zubac REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,209
+22400793,282,PT00M35.70S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,Made,1,57,48,105,v,Zubac Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,210
+22400793,283,PT00M28.50S,2,1610612749,MIL,201572,Lopez,B. Lopez,-180,239,30,Missed,1,57,48,105,h,MISS Lopez 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,211
+22400793,284,PT00M22.80S,2,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,57,48,105,v,Coffey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,212
+22400793,285,PT00M06.10S,2,1610612746,LAC,201935,Harden,J. Harden,-40,48,6,Made,1,57,50,107,v,Harden 6' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,213
+22400793,286,PT00M00.40S,2,1610612749,MIL,1628398,Kuzma,K. Kuzma,-195,243,31,Missed,1,57,50,107,h,MISS Kuzma 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,214
+22400793,287,PT00M00.40S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,57,50,107,v,Zubac REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,215
+22400793,288,PT00M00.00S,2,0,,0,,,0,0,0,,0,57,50,107,,End of 2nd Period (9:03 PM EST),period,end,1,0,216
+22400793,297,PT12M00.00S,3,0,,0,,,0,0,0,,0,57,50,107,,Start of 3rd Period (9:18 PM EST),period,start,0,0,217
+22400793,298,PT11M46.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,-4,2,0,Made,1,57,52,109,v,Zubac Alley Oop Dunk (12 PTS) (Dunn 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,218
+22400793,300,PT11M32.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,57,52,109,h,Antetokounmpo Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,219
+22400793,300,PT11M32.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,57,52,109,v,Dunn STEAL (3 STL),,,1,0,220
+22400793,302,PT11M28.00S,3,1610612746,LAC,1629599,Coffey,A. Coffey,1,12,1,Missed,1,57,52,109,v,MISS Coffey 1' Running Dunk,Missed Shot,Running Dunk Shot,1,2,221
+22400793,302,PT11M28.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,57,52,109,h,Antetokounmpo BLOCK (1 BLK),,,1,2,222
+22400793,304,PT11M27.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,57,52,109,h,Lillard REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,223
+22400793,305,PT11M21.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,57,52,109,h,Lopez Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,224
+22400793,305,PT11M21.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,57,52,109,v,Dunn STEAL (4 STL),,,1,0,225
+22400793,307,PT11M17.00S,3,1610612746,LAC,1629599,Coffey,A. Coffey,2,16,2,Made,1,57,54,111,v,Coffey 2' Running Dunk (6 PTS) (Leonard 3 AST),Made Shot,Running Dunk Shot,1,2,226
+22400793,309,PT11M17.00S,3,0,,1610612749,,,0,0,0,,0,57,54,111,h,BUCKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,227
+22400793,310,PT10M54.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,110,225,25,Missed,1,57,54,111,h,MISS Kuzma 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,228
+22400793,311,PT10M52.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,57,54,111,v,Leonard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,229
+22400793,312,PT10M39.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,98,226,25,Missed,1,57,54,111,v,MISS Leonard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,230
+22400793,313,PT10M35.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,57,54,111,h,Antetokounmpo REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,231
+22400793,314,PT10M22.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,57,54,111,v,Leonard P.FOUL (P3.T1) (B.Forte),Foul,Personal,1,0,232
+22400793,316,PT10M14.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,5,11,1,Made,1,59,54,113,h,Antetokounmpo 1' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,233
+22400793,317,PT09M56.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,59,54,113,h,Antetokounmpo Personal Take Foul (P2.T1) (E.Malloy),Foul,Personal Take,1,0,234
+22400793,319,PT09M49.00S,3,1610612746,LAC,201935,Harden,J. Harden,23,168,17,Made,1,59,56,115,v,Harden 17' Driving Floating Jump Shot (12 PTS) (Zubac 1 AST),Made Shot,Driving Floating Jump Shot,1,2,235
+22400793,321,PT09M38.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,112,283,30,Missed,1,59,56,115,h,MISS Lillard 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,236
+22400793,322,PT09M35.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,59,56,115,v,Zubac REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,237
+22400793,323,PT09M32.00S,3,1610612746,LAC,201935,Harden,J. Harden,-123,239,27,Missed,1,59,56,115,v,MISS Harden 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,238
+22400793,324,PT09M32.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,59,56,115,v,Harden REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,239
+22400793,325,PT09M31.00S,3,1610612746,LAC,201935,Harden,J. Harden,-1,12,1,Made,1,59,58,117,v,Harden 1' Putback Layup (14 PTS),Made Shot,Putback Layup Shot,1,2,240
+22400793,326,PT09M16.00S,3,1610612749,MIL,1627752,Prince,T. Prince,-231,17,0,Made,1,62,58,120,h,Prince 3PT Jump Shot (11 PTS) (Antetokounmpo 2 AST),Made Shot,Jump Shot,1,3,241
+22400793,328,PT09M05.00S,3,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,62,58,120,h,Prince P.FOUL (P1.T2) (B.Forte),Foul,Personal,1,0,242
+22400793,330,PT09M00.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,29,17,3,Made,1,62,60,122,v,Zubac 3' Cutting Layup Shot (14 PTS) (Harden 4 AST),Made Shot,Cutting Layup Shot,1,2,243
+22400793,332,PT09M00.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,62,60,122,h,Antetokounmpo S.FOUL (P3.T3) (E.Malloy),Foul,Shooting,1,0,244
+22400793,334,PT09M00.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,62,61,123,v,Zubac Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,1,0,245
+22400793,335,PT08M55.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-98,232,25,Missed,1,62,61,123,h,MISS Antetokounmpo 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,246
+22400793,336,PT08M52.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,62,61,123,h,Lopez REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,247
+22400793,337,PT08M50.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,-7,8,1,Made,1,64,61,125,h,Lopez 1' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,1,2,248
+22400793,338,PT08M50.00S,3,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,64,61,125,v,Coffey S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,1,0,249
+22400793,340,PT08M50.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,65,61,126,h,Lopez Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,1,0,250
+22400793,341,PT08M36.00S,3,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,65,61,126,h,Prince S.FOUL (P2.T4) (R.Hussey),Foul,Shooting,1,0,251
+22400793,343,PT08M36.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,65,62,127,v,Harden Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,252
+22400793,344,PT08M36.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,65,63,128,v,Harden Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,253
+22400793,345,PT08M25.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,-6,31,3,Missed,1,65,63,128,h,MISS Lillard 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,254
+22400793,345,PT08M25.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,65,63,128,v,Zubac BLOCK (2 BLK),,,1,2,255
+22400793,347,PT08M21.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,65,63,128,v,Dunn REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,256
+22400793,348,PT08M19.00S,3,1610612746,LAC,1629599,Coffey,A. Coffey,17,31,4,Made,1,65,65,130,v,Coffey 4' Running Dunk (8 PTS) (Dunn 3 AST),Made Shot,Running Dunk Shot,1,2,257
+22400793,350,PT08M07.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,65,65,130,h,Antetokounmpo Lost Ball Turnover (P3.T10),Turnover,Lost Ball,1,0,258
+22400793,350,PT08M07.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,65,65,130,v,Dunn STEAL (5 STL),,,1,0,259
+22400793,352,PT08M00.00S,3,1610612746,LAC,201935,Harden,J. Harden,-208,160,26,Missed,1,65,65,130,v,MISS Harden 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,260
+22400793,353,PT07M56.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,65,65,130,h,Lopez REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,261
+22400793,355,PT07M52.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,65,65,130,v,Dunn P.FOUL (P2.T3) (B.Forte),Foul,Personal,1,0,262
+22400793,357,PT07M42.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-2,6,1,Made,1,67,65,132,h,Antetokounmpo 1' Driving Reverse Layup (13 PTS),Made Shot,Driving Reverse Layup Shot,1,2,263
+22400793,359,PT07M31.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,67,65,132,h,SUB: Trent Jr. FOR Kuzma,Substitution,,0,0,264
+22400793,361,PT07M16.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,121,126,17,Missed,1,67,65,132,v,MISS Leonard 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,265
+22400793,362,PT07M13.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,67,65,132,v,Dunn REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,266
+22400793,363,PT07M11.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,5,258,26,Made,1,67,68,135,v,Leonard 26' 3PT Jump Shot (13 PTS) (Dunn 4 AST),Made Shot,Jump Shot,1,3,267
+22400793,366,PT07M00.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,67,68,135,h,Lillard Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,268
+22400793,366,PT07M00.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,67,68,135,v,Zubac STEAL (1 STL),,,1,0,269
+22400793,368,PT06M54.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,67,68,135,h,Lillard P.FOUL (P2.PN) (E.Malloy),Foul,Personal,1,0,270
+22400793,370,PT06M54.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,67,69,136,v,Leonard Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,271
+22400793,371,PT06M54.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,67,70,137,v,Leonard Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,272
+22400793,473,PT06M33.00S,3,1610612749,MIL,1627752,Prince,T. Prince,224,18,0,Missed,1,67,70,137,h,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,1,3,273
+22400793,473,PT06M33.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,67,70,137,v,Harden BLOCK (1 BLK),,,1,3,274
+22400793,475,PT06M33.00S,3,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,67,70,137,h,Prince REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,275
+22400793,372,PT06M29.00S,3,0,,1610612749,,,0,0,0,,0,67,70,137,h,BUCKS Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,276
+22400793,373,PT06M11.00S,3,1610612746,LAC,201935,Harden,J. Harden,-7,82,8,Missed,1,67,70,137,v,MISS Harden 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,277
+22400793,374,PT06M11.00S,3,0,,1610612749,,,0,0,0,,0,67,70,137,h,BUCKS Rebound,Rebound,Unknown,0,0,278
+22400793,375,PT06M11.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,67,70,137,v,Harden L.B.FOUL (P1.T4) (E.Malloy),Foul,Loose Ball,1,0,279
+22400793,377,PT06M11.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,67,70,137,h,SUB: Green FOR Antetokounmpo,Substitution,,0,0,280
+22400793,379,PT05M59.00S,3,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,67,70,137,h,Trent Jr. Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0,281
+22400793,379,PT05M59.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,67,70,137,v,Leonard STEAL (2 STL),,,1,0,282
+22400793,381,PT05M55.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,5,11,1,Made,1,67,72,139,v,Leonard 1' Running Layup (17 PTS) (Harden 5 AST),Made Shot,Running Layup Shot,1,2,283
+22400793,383,PT05M55.00S,3,0,,1610612749,,,0,0,0,,0,67,72,139,h,BUCKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,284
+22400793,384,PT05M37.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,4,252,25,Missed,1,67,72,139,h,MISS Lillard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,285
+22400793,384,PT05M37.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,67,72,139,v,Zubac BLOCK (3 BLK),,,1,3,286
+22400793,386,PT05M33.00S,3,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,67,72,139,v,Coffey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,287
+22400793,387,PT05M29.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,12,18,2,Missed,1,67,72,139,v,MISS Zubac 2' Layup,Missed Shot,Layup Shot,1,2,288
+22400793,388,PT05M29.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,67,72,139,v,Zubac REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,289
+22400793,389,PT05M29.00S,3,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,67,72,139,h,Green S.FOUL (P2.PN) (B.Forte),Foul,Shooting,1,0,290
+22400793,391,PT05M29.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,67,73,140,v,Zubac Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,291
+22400793,392,PT05M29.00S,3,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,67,73,140,h,SUB: Kuzma FOR Prince,Substitution,,0,0,292
+22400793,394,PT05M29.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,67,74,141,v,Zubac Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,293
+22400793,395,PT05M11.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,-151,239,28,Missed,1,67,74,141,h,MISS Kuzma 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,294
+22400793,396,PT05M10.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,67,74,141,h,Lopez REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,295
+22400793,397,PT05M10.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,Made,1,69,74,143,h,Lopez Tip Dunk Shot (16 PTS),Made Shot,Tip Dunk Shot,1,2,296
+22400793,398,PT04M51.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,69,74,143,v,Harden Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,1,0,297
+22400793,399,PT04M34.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,69,74,143,h,Lopez Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,298
+22400793,399,PT04M34.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,69,74,143,v,Dunn STEAL (6 STL),,,1,0,299
+22400793,401,PT04M33.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,9,8,1,Made,1,69,76,145,v,Leonard 1' Running Layup (19 PTS) (Dunn 5 AST),Made Shot,Running Layup Shot,1,2,300
+22400793,403,PT04M33.00S,3,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,69,76,145,h,Trent Jr. S.FOUL (P1.PN) (R.Hussey),Foul,Shooting,1,0,301
+22400793,405,PT04M33.00S,3,0,,1610612749,,,0,0,0,,0,69,76,145,h,BUCKS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,302
+22400793,406,PT04M33.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,69,77,146,v,Leonard Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,1,0,303
+22400793,407,PT04M18.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,69,77,146,h,Kuzma Out of Bounds Lost Ball Turnover (P3.T15),Turnover,Out of Bounds Lost Ball Turnover,1,0,304
+22400793,408,PT04M18.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,69,77,146,h,SUB: Porter Jr. FOR Lillard,Substitution,,0,0,305
+22400793,409,PT04M18.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,69,77,146,v,SUB: Jones Jr. FOR Leonard,Substitution,,0,0,306
+22400793,412,PT04M02.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,-9,11,1,Made,1,69,79,148,v,Zubac 1' Dunk (19 PTS),Made Shot,Dunk Shot,1,2,307
+22400793,414,PT03M47.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,69,79,148,v,Dunn S.FOUL (P3.PN) (R.Hussey),Foul,Shooting,1,0,308
+22400793,416,PT03M47.00S,3,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,70,79,149,h,Trent Jr. Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,309
+22400793,417,PT03M47.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,70,79,149,h,SUB: Sims FOR Lopez,Substitution,,0,0,310
+22400793,418,PT03M47.00S,3,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,70,79,149,v,SUB: Bogdanovic FOR Dunn,Substitution,,0,0,311
+22400793,421,PT03M47.00S,3,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,71,79,150,h,Trent Jr. Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,312
+22400793,422,PT03M25.00S,3,1610612746,LAC,201935,Harden,J. Harden,-17,262,26,Missed,1,71,79,150,v,MISS Harden 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,313
+22400793,423,PT03M23.00S,3,0,,1610612746,,,0,0,0,,0,71,79,150,v,Clippers Rebound,Rebound,Unknown,0,0,314
+22400793,424,PT03M23.00S,3,0,,1610612746,,,0,0,0,,0,71,79,150,v,Clippers Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,315
+22400793,425,PT03M08.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,17,77,8,Missed,1,71,79,150,h,MISS Kuzma 8' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,316
+22400793,426,PT03M05.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,71,79,150,v,Zubac REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,317
+22400793,427,PT03M01.00S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,71,79,150,v,Harden Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,318
+22400793,427,PT03M01.00S,3,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,71,79,150,h,Trent Jr. STEAL (1 STL),,,1,0,319
+22400793,429,PT02M56.00S,3,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,-11,9,1,Missed,1,71,79,150,h,MISS Trent Jr. 1' Running Dunk,Missed Shot,Running Dunk Shot,1,2,320
+22400793,430,PT02M52.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,71,79,150,v,Zubac REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,321
+22400793,431,PT02M36.00S,3,1610612749,MIL,1630579,Sims,J. Sims,0,0,0,,0,71,79,150,h,Sims S.FOUL (P1.PN) (R.Hussey),Foul,Shooting,1,0,322
+22400793,433,PT02M36.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,71,79,150,v,MISS Zubac Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,323
+22400793,434,PT02M36.00S,3,0,,1610612746,,,0,0,0,,0,71,79,150,v,Clippers Rebound,Rebound,Normal Rebound,0,0,324
+22400793,435,PT02M36.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,71,80,151,v,Zubac Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,325
+22400793,436,PT02M20.00S,3,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,112,92,14,Missed,1,71,80,151,h,MISS Porter Jr. 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,326
+22400793,437,PT02M19.00S,3,0,,1610612746,,,0,0,0,,0,71,80,151,v,Clippers Rebound,Rebound,Unknown,0,0,327
+22400793,439,PT02M19.00S,3,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,71,80,151,v,SUB: Batum FOR Coffey,Substitution,,0,0,328
+22400793,440,PT02M19.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,71,80,151,v,SUB: Simmons FOR Zubac,Substitution,,0,0,329
+22400793,443,PT02M04.00S,3,1610612746,LAC,201587,Batum,N. Batum,-235,18,24,Missed,1,71,80,151,v,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+22400793,444,PT02M01.00S,3,1610612749,MIL,1630579,Sims,J. Sims,0,0,0,,0,71,80,151,h,Sims REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,331
+22400793,445,PT01M55.00S,3,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,24,2,Made,1,73,80,153,h,Porter Jr. 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,332
+22400793,446,PT01M55.00S,3,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,73,80,153,v,Jones Jr. S.FOUL (P3.PN) (R.Hussey),Foul,Shooting,1,0,333
+22400793,448,PT01M55.00S,3,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,74,80,154,h,Porter Jr. Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,334
+22400793,449,PT01M41.00S,3,1610612746,LAC,201935,Harden,J. Harden,127,238,27,Missed,1,74,80,154,v,MISS Harden 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,335
+22400793,450,PT01M37.00S,3,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,74,80,154,v,Jones Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,336
+22400793,451,PT01M30.00S,3,1610612746,LAC,201935,Harden,J. Harden,196,162,25,Made,1,74,83,157,v,Harden 25' 3PT Jump Shot (19 PTS) (Simmons 4 AST),Made Shot,Jump Shot,1,3,337
+22400793,453,PT01M14.00S,3,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,-5,9,1,Made,1,76,83,159,h,Porter Jr. 1' Driving Dunk (9 PTS) (Trent Jr. 3 AST),Made Shot,Driving Dunk Shot,1,2,338
+22400793,455,PT01M07.00S,3,1610612746,LAC,203992,Bogdanović,B. Bogdanović,-142,230,27,Made,1,76,86,162,v,Bogdanovic 27' 3PT Jump Shot (8 PTS) (Harden 6 AST),Made Shot,Jump Shot,1,3,339
+22400793,457,PT01M00.00S,3,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,22,30,4,Made,1,78,86,164,h,Porter Jr. 4' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,340
+22400793,458,PT00M45.00S,3,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,78,86,164,h,Porter Jr. P.FOUL (P2.PN) (R.Hussey),Foul,Personal,1,0,341
+22400793,460,PT00M45.00S,3,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,78,87,165,v,Bogdanovic Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,342
+22400793,461,PT00M45.00S,3,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,78,87,165,v,MISS Bogdanovic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,343
+22400793,462,PT00M42.80S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,78,87,165,h,Kuzma REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,344
+22400793,463,PT00M37.00S,3,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,78,87,165,h,Kuzma Lost Ball Turnover (P4.T16),Turnover,Lost Ball,1,0,345
+22400793,463,PT00M37.00S,3,1610612746,LAC,1627732,Simmons,B. Simmons,0,0,0,,0,78,87,165,v,Simmons STEAL (1 STL),,,1,0,346
+22400793,465,PT00M18.30S,3,1610612749,MIL,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,78,87,165,h,Trent Jr. S.FOUL (P2.PN) (B.Forte),Foul,Shooting,1,0,347
+22400793,467,PT00M18.30S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,78,88,166,v,Harden Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,348
+22400793,468,PT00M18.30S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,78,89,167,v,Harden Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,349
+22400793,469,PT00M01.10S,3,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,78,89,167,v,Harden S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,1,0,350
+22400793,471,PT00M01.10S,3,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,79,89,168,h,Porter Jr. Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,351
+22400793,472,PT00M01.10S,3,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,80,89,169,h,Porter Jr. Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,352
+22400793,476,PT00M00.00S,3,0,,0,,,0,0,0,,0,80,89,169,,End of 3rd Period (9:49 PM EST),period,end,1,0,353
+22400793,481,PT12M00.00S,4,0,,0,,,0,0,0,,0,80,89,169,,Start of 4th Period (9:52 PM EST),period,start,0,0,354
+22400793,482,PT11M42.00S,4,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,80,89,169,h,Porter Jr. Lost Ball Turnover (P2.T17),Turnover,Lost Ball,1,0,355
+22400793,482,PT11M42.00S,4,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,80,89,169,v,Batum STEAL (1 STL),,,1,0,356
+22400793,485,PT11M22.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,132,49,14,Made,1,80,91,171,v,Leonard 14' Turnaround Fadeaway (22 PTS),Made Shot,Turnaround Fadeaway shot,1,2,357
+22400793,486,PT11M08.00S,4,1610612749,MIL,1631260,Green,A. Green,96,246,26,Missed,1,80,91,171,h,MISS Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,358
+22400793,487,PT11M05.00S,4,1610612746,LAC,1627732,Simmons,B. Simmons,0,0,0,,0,80,91,171,v,Simmons REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,359
+22400793,488,PT10M55.00S,4,1610612746,LAC,1627732,Simmons,B. Simmons,13,13,2,Made,1,80,93,173,v,Simmons 2' Cutting Layup Shot (4 PTS) (Bogdanovic 4 AST),Made Shot,Cutting Layup Shot,1,2,360
+22400793,490,PT10M42.00S,4,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,80,93,173,v,Bogdanovic P.FOUL (P2.T1) (B.Forte),Foul,Personal,0,0,361
+22400793,492,PT10M39.00S,4,1610612746,LAC,1627732,Simmons,B. Simmons,0,0,0,,0,80,93,173,v,Simmons S.FOUL (P2.T2) (E.Malloy),Foul,Shooting,1,0,362
+22400793,494,PT10M39.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,81,93,174,h,Antetokounmpo Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,363
+22400793,495,PT10M39.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,82,93,175,h,Antetokounmpo Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,364
+22400793,496,PT10M15.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,110,130,17,Missed,1,82,93,175,v,MISS Leonard 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,365
+22400793,497,PT10M11.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,82,93,175,h,Kuzma REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,366
+22400793,498,PT09M54.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-10,11,1,Made,1,84,93,177,h,Antetokounmpo 1' Driving Finger Roll Layup (17 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,367
+22400793,499,PT09M36.00S,4,1610612746,LAC,1627732,Simmons,B. Simmons,6,6,1,Made,1,84,95,179,v,Simmons 1' Cutting Finger Roll Layup Shot (6 PTS) (Leonard 4 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,368
+22400793,501,PT09M25.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,10,140,14,Made,1,86,95,181,h,Antetokounmpo 14' Fadeaway Jumper (19 PTS),Made Shot,Fadeaway Jump Shot,1,2,369
+22400793,502,PT08M59.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,-69,260,27,Made,1,86,98,184,v,Leonard 27' 3PT Jump Shot (25 PTS) (Bogdanovic 5 AST),Made Shot,Jump Shot,1,3,370
+22400793,504,PT08M44.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-6,11,1,Made,1,88,98,186,h,Antetokounmpo 1' Driving Reverse Layup (21 PTS) (Green 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,371
+22400793,506,PT08M44.00S,4,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,88,98,186,v,Bogdanovic S.FOUL (P3.T3) (R.Hussey),Foul,Shooting,1,0,372
+22400793,508,PT08M44.00S,4,1610612749,MIL,1629645,Porter Jr.,K. Porter Jr.,0,0,0,,0,88,98,186,h,SUB: Lillard FOR Porter Jr.,Substitution,,0,0,373
+22400793,510,PT08M44.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,88,98,186,h,MISS Antetokounmpo Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,374
+22400793,511,PT08M42.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,88,98,186,v,Leonard REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,375
+22400793,512,PT08M26.00S,4,1610612746,LAC,201587,Batum,N. Batum,-4,1,0,Missed,1,88,98,186,v,MISS Batum Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,376
+22400793,513,PT08M23.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,88,98,186,h,Antetokounmpo REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,377
+22400793,514,PT08M14.00S,4,1610612746,LAC,1627732,Simmons,B. Simmons,0,0,0,,0,88,98,186,v,Simmons P.FOUL (P3.T4) (B.Forte),Foul,Personal,1,0,378
+22400793,516,PT08M14.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,88,98,186,v,SUB: Zubac FOR Leonard,Substitution,,0,0,379
+22400793,517,PT08M14.00S,4,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,88,98,186,v,SUB: Harden FOR Batum,Substitution,,0,0,380
+22400793,520,PT08M06.00S,4,1610612749,MIL,1631260,Green,A. Green,59,266,27,Made,1,91,98,189,h,Green 27' 3PT Pullup Jump Shot (9 PTS) (Antetokounmpo 3 AST),Made Shot,Pullup Jump shot,1,3,381
+22400793,522,PT07M45.00S,4,1610612746,LAC,203992,Bogdanović,B. Bogdanović,-195,209,29,Missed,1,91,98,189,v,MISS Bogdanovic 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,382
+22400793,523,PT07M42.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,91,98,189,h,Antetokounmpo REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,383
+22400793,524,PT07M29.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-85,29,9,Made,1,93,98,191,h,Antetokounmpo 9' Turnaround Fadeaway (23 PTS),Made Shot,Turnaround Fadeaway shot,1,2,384
+22400793,525,PT07M29.00S,4,0,,1610612746,,,0,0,0,,0,93,98,191,v,Clippers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,385
+22400793,526,PT07M29.00S,4,1610612746,LAC,1627732,Simmons,B. Simmons,0,0,0,,0,93,98,191,v,SUB: Dunn FOR Simmons,Substitution,,0,0,386
+22400793,528,PT07M12.00S,4,1610612746,LAC,201935,Harden,J. Harden,-48,163,17,Made,1,93,100,193,v,Harden 17' Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,1,2,387
+22400793,529,PT06M59.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-2,27,3,Missed,1,93,100,193,h,MISS Antetokounmpo 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,388
+22400793,530,PT06M59.00S,4,0,,1610612749,,,0,0,0,,0,93,100,193,h,BUCKS Rebound,Rebound,Unknown,0,0,389
+22400793,532,PT06M59.00S,4,0,,1610612746,,,0,0,0,,0,93,100,193,v,Clippers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,390
+22400793,533,PT06M59.00S,4,0,,531,,,0,0,0,,0,93,100,193,,Instant Replay4th Period (10:03 PM EST),Instant Replay,Coach Challenge Support Ruling,0,0,391
+22400793,534,PT06M59.00S,4,1610612749,MIL,1630579,Sims,J. Sims,0,0,0,,0,93,100,193,h,SUB: Lopez FOR Sims,Substitution,,0,0,392
+22400793,536,PT06M48.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,82,240,25,Made,1,96,100,196,h,Lillard 25' 3PT Step Back Jump Shot (6 PTS) (Antetokounmpo 4 AST),Made Shot,Step Back Jump shot,1,3,393
+22400793,537,PT06M27.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,96,100,196,h,Kuzma S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,1,0,394
+22400793,539,PT06M27.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,96,101,197,v,Harden Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,395
+22400793,540,PT06M27.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,96,101,197,h,SUB: Prince FOR Green,Substitution,,0,0,396
+22400793,541,PT06M27.00S,4,1610612746,LAC,1627884,Jones Jr.,D. Jones Jr.,0,0,0,,0,96,101,197,v,SUB: Coffey FOR Jones Jr.,Substitution,,0,0,397
+22400793,544,PT06M27.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,96,101,197,h,SUB: Green FOR Antetokounmpo,Substitution,,0,0,398
+22400793,546,PT06M27.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,96,101,197,v,MISS Harden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,399
+22400793,547,PT06M24.00S,4,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,96,101,197,h,Prince REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,400
+22400793,549,PT06M16.00S,4,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,96,101,197,v,Coffey S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,1,0,401
+22400793,551,PT06M16.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,97,101,198,h,Lillard Free Throw 1 of 3 (7 PTS),Free Throw,Free Throw 1 of 3,1,0,402
+22400793,552,PT06M16.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,98,101,199,h,Lillard Free Throw 2 of 3 (8 PTS),Free Throw,Free Throw 2 of 3,1,0,403
+22400793,553,PT06M16.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,99,101,200,h,Lillard Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,1,0,404
+22400793,554,PT06M03.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,99,101,200,v,Harden Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,405
+22400793,554,PT06M03.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,99,101,200,h,Lillard STEAL (2 STL),,,1,0,406
+22400793,556,PT06M00.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,10,1,Made,1,101,101,202,h,Kuzma 1' Running Layup (13 PTS) (Lillard 5 AST),Made Shot,Running Layup Shot,1,2,407
+22400793,558,PT06M00.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,101,101,202,v,Harden S.FOUL (P3.PN) (B.Forte),Foul,Shooting,1,0,408
+22400793,560,PT06M00.00S,4,1610612746,LAC,203992,Bogdanović,B. Bogdanović,0,0,0,,0,101,101,202,v,SUB: Leonard FOR Bogdanovic,Substitution,,0,0,409
+22400793,562,PT06M00.00S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,101,101,202,h,MISS Kuzma Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,410
+22400793,563,PT05M57.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,101,101,202,v,Harden REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,411
+22400793,596,PT05M43.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,25,22,3,Missed,1,101,101,202,v,MISS Leonard 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,412
+22400793,596,PT05M43.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,101,101,202,h,Lopez BLOCK (2 BLK),,,1,2,413
+22400793,598,PT05M42.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,101,101,202,h,Lillard REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,414
+22400793,565,PT05M35.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,118,258,28,Missed,1,101,101,202,h,MISS Lillard 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,415
+22400793,566,PT05M33.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,101,101,202,h,Green REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,416
+22400793,567,PT05M25.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,-163,200,26,Made,1,104,101,205,h,Lopez 26' 3PT Jump Shot (19 PTS) (Lillard 6 AST),Made Shot,Jump Shot,1,3,417
+22400793,569,PT05M14.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,104,101,205,v,Zubac Offensive Charge Foul (P2) (B.Forte),Foul,Offensive Charge,1,0,418
+22400793,571,PT05M14.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,104,101,205,v,Zubac Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,1,0,419
+22400793,572,PT05M01.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,-16,287,29,Missed,1,104,101,205,h,MISS Lopez 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+22400793,573,PT04M57.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,104,101,205,v,Harden REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,421
+22400793,574,PT04M51.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,89,254,27,Made,1,104,104,208,v,Dunn 27' 3PT Pullup Jump Shot (5 PTS) (Harden 7 AST),Made Shot,Pullup Jump shot,1,3,422
+22400793,576,PT04M30.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,-224,19,0,Missed,1,104,104,208,h,MISS Lillard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,423
+22400793,577,PT04M28.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,104,104,208,h,Lopez REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,424
+22400793,578,PT04M24.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,6,106,11,Missed,1,104,104,208,h,MISS Lopez 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,425
+22400793,579,PT04M21.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,104,104,208,v,Zubac REBOUND (Off:3 Def:11),Rebound,Unknown,1,0,426
+22400793,580,PT04M05.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,16,157,16,Missed,1,104,104,208,v,MISS Leonard 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,427
+22400793,581,PT04M05.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,104,104,208,v,Dunn REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,428
+22400793,582,PT04M05.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,104,104,208,h,Lillard P.FOUL (P3.T2) (B.Forte),Foul,Personal,1,0,429
+22400793,584,PT03M52.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,233,-6,0,Missed,1,104,104,208,v,MISS Leonard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,430
+22400793,585,PT03M48.00S,4,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,104,104,208,h,Prince REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,431
+22400793,586,PT03M41.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,-15,16,2,Missed,1,104,104,208,h,MISS Lopez 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,432
+22400793,587,PT03M38.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,104,104,208,v,Zubac REBOUND (Off:3 Def:12),Rebound,Unknown,1,0,433
+22400793,588,PT03M21.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,28,64,7,Missed,1,104,104,208,v,MISS Dunn 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,434
+22400793,588,PT03M21.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,104,104,208,h,Lopez BLOCK (3 BLK),,,1,2,435
+22400793,590,PT03M18.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,104,104,208,v,Dunn REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,436
+22400793,591,PT03M18.00S,4,0,,1610612746,,,0,0,0,,0,104,104,208,v,Clippers Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,437
+22400793,592,PT03M18.00S,4,0,,1610612749,,,0,0,0,,0,104,104,208,h,BUCKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,438
+22400793,599,PT03M02.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,1,0,Made,1,106,104,210,h,Lopez Driving Layup (21 PTS) (Prince 1 AST),Made Shot,Driving Layup Shot,1,2,439
+22400793,601,PT03M02.00S,4,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,106,104,210,v,Coffey S.FOUL (P3.PN) (R.Hussey),Foul,Shooting,1,0,440
+22400793,603,PT03M02.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,107,104,211,h,Lopez Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,1,0,441
+22400793,604,PT02M39.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,-67,79,10,Missed,1,107,104,211,v,MISS Dunn 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,442
+22400793,605,PT02M35.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,107,104,211,h,Lopez REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,443
+22400793,606,PT02M26.00S,4,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,107,104,211,v,Coffey S.FOUL (P4.PN) (R.Hussey),Foul,Shooting,1,0,444
+22400793,608,PT02M26.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,107,104,211,h,MISS Lillard Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,445
+22400793,609,PT02M26.00S,4,0,,1610612749,,,0,0,0,,0,107,104,211,h,BUCKS Rebound,Rebound,Normal Rebound,0,0,446
+22400793,610,PT02M26.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,108,104,212,h,Lillard Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,1,0,447
+22400793,611,PT02M26.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,109,104,213,h,Lillard Free Throw 3 of 3 (11 PTS),Free Throw,Free Throw 3 of 3,1,0,448
+22400793,612,PT02M14.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,109,104,213,h,Green P.FOUL (P3.T3) (E.Malloy),Foul,Personal,1,0,449
+22400793,616,PT02M06.00S,4,0,,1610612749,,,0,0,0,,0,109,104,213,h,BUCKS Timeout: Coach Challenge (Full 5 Short 0),Timeout,Coach Challenge,0,0,450
+22400793,617,PT02M06.00S,4,0,,614,,,0,0,0,,0,109,104,213,,Instant Replay4th Period (10:19 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,451
+22400793,625,PT02M06.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,109,104,213,v,Harden OFF.Foul (P4) (E.Malloy),Foul,Offensive,1,0,452
+22400793,626,PT02M06.00S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,109,104,213,v,Harden Offensive Foul Turnover (P4.T13),Turnover,Offensive Foul Turnover,1,0,453
+22400793,618,PT01M47.00S,4,1610612749,MIL,1627752,Prince,T. Prince,234,26,24,Missed,1,109,104,213,h,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,454
+22400793,619,PT01M44.00S,4,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,109,104,213,h,Prince REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,455
+22400793,620,PT01M44.00S,4,1610612749,MIL,1627752,Prince,T. Prince,0,0,0,,0,109,104,213,h,Prince Out of Bounds - Bad Pass Turnover Turnover (P3.T18),Turnover,Out of Bounds - Bad Pass Turnover,1,0,456
+22400793,621,PT01M18.00S,4,1610612746,LAC,201935,Harden,J. Harden,-127,267,30,Missed,1,109,104,213,v,MISS Harden 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+22400793,622,PT01M17.00S,4,0,,1610612746,,,0,0,0,,0,109,104,213,v,Clippers Rebound,Rebound,Unknown,0,0,458
+22400793,624,PT01M17.00S,4,0,,1610612746,,,0,0,0,,0,109,104,213,v,Clippers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,459
+22400793,628,PT01M17.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,109,104,213,v,SUB: Bogdanovic FOR Leonard,Substitution,,0,0,460
+22400793,630,PT01M14.00S,4,1610612746,LAC,203992,Bogdanović,B. Bogdanović,224,29,0,Made,1,109,107,216,v,Bogdanovic 3PT Jump Shot (12 PTS) (Harden 8 AST),Made Shot,Jump Shot,1,3,461
+22400793,632,PT01M14.00S,4,0,,630,,,0,0,0,,0,109,107,216,,Instant Replay4th Period (10:25 PM EST),Instant Replay,Overturn Ruling,0,0,462
+22400793,633,PT00M58.00S,4,1610612749,MIL,1627752,Prince,T. Prince,-229,22,0,Made,1,112,107,219,h,Prince 3PT Jump Shot (14 PTS) (Lillard 7 AST),Made Shot,Jump Shot,1,3,463
+22400793,635,PT00M47.60S,4,1610612746,LAC,203992,Bogdanović,B. Bogdanović,1,130,13,Missed,1,112,107,219,v,MISS Bogdanovic 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,464
+22400793,635,PT00M47.60S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,112,107,219,h,Lopez BLOCK (4 BLK),,,1,2,465
+22400793,637,PT00M43.20S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,112,107,219,h,Green REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,466
+22400793,638,PT00M31.50S,4,1610612749,MIL,203081,Lillard,D. Lillard,-22,3,2,Missed,1,112,107,219,h,MISS Lillard 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,467
+22400793,639,PT00M29.50S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,0,0,0,,0,112,107,219,h,Kuzma REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,468
+22400793,661,PT00M29.50S,4,1610612749,MIL,1628398,Kuzma,K. Kuzma,5,8,1,Missed,1,112,107,219,h,MISS Kuzma 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,2,469
+22400793,661,PT00M29.50S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,112,107,219,v,Zubac BLOCK (4 BLK),,,0,2,470
+22400793,663,PT00M29.50S,4,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,112,107,219,v,Dunn REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,471
+22400793,642,PT00M26.50S,4,0,,1610612746,,,0,0,0,,0,112,107,219,v,Clippers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,472
+22400793,643,PT00M26.50S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,112,107,219,v,SUB: Batum FOR Zubac,Substitution,,0,0,473
+22400793,645,PT00M21.60S,4,1610612746,LAC,201935,Harden,J. Harden,232,-8,0,Missed,1,112,107,219,v,MISS Harden 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,474
+22400793,646,PT00M20.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,112,107,219,h,Lillard REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,475
+22400793,647,PT00M20.00S,4,1610612746,LAC,1627739,Dunn,K. Dunn,0,0,0,,0,112,107,219,v,Dunn P.FOUL (P4.PN) (B.Forte),Foul,Personal,1,0,476
+22400793,649,PT00M20.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,113,107,220,h,Lillard Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,477
+22400793,650,PT00M20.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,114,107,221,h,Lillard Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,478
+22400793,651,PT00M17.60S,4,1610612746,LAC,201935,Harden,J. Harden,0,0,0,,0,114,107,221,v,Harden Bad Pass Turnover (P5.T14),Turnover,Bad Pass,0,0,479
+22400793,651,PT00M17.60S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,114,107,221,h,Lopez STEAL (1 STL),,,0,0,480
+22400793,653,PT00M17.40S,4,1610612746,LAC,1629599,Coffey,A. Coffey,0,0,0,,0,114,107,221,v,Coffey P.FOUL (P5.PN) (B.Forte),Foul,Personal,1,0,481
+22400793,655,PT00M17.40S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,115,107,222,h,Lillard Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,482
+22400793,656,PT00M17.40S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,116,107,223,h,Lillard Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,483
+22400793,657,PT00M11.20S,4,1610612746,LAC,203992,Bogdanović,B. Bogdanović,-161,259,30,Made,1,116,110,226,v,Bogdanovic 30' 3PT Jump Shot (15 PTS) (Batum 1 AST),Made Shot,Jump Shot,1,3,484
+22400793,659,PT00M00.00S,4,0,,0,,,0,0,0,,0,116,110,226,,End of 4th Period (10:33 PM EST),period,end,1,0,485

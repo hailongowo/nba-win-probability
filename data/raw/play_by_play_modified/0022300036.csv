@@ -1,0 +1,493 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22300036,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:12 PM EST),period,start,0,0,1
+22300036,4,PT11M55.00S,1,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,0,0,0,h,Jump Ball Ayton vs. Davis: Tip to Russell,Jump Ball,,1,0,2
+22300036,7,PT11M41.00S,1,1610612747,LAL,1627752,Prince,T. Prince,44,55,7,Made,1,0,2,2,v,Prince 7' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,3
+22300036,8,PT11M25.00S,1,1610612757,POR,1629028,Ayton,D. Ayton,67,138,15,Made,1,2,2,4,h,Ayton 15' Jump Shot (2 PTS) (Mays 1 AST),Made Shot,Jump Shot,1,2,4
+22300036,10,PT11M00.00S,1,1610612747,LAL,203076,Davis,A. Davis,124,113,17,Missed,1,2,2,4,v,MISS Davis 17' Jump Shot,Missed Shot,Jump Shot,1,2,5
+22300036,11,PT10M58.00S,1,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,2,2,4,h,Mays REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+22300036,12,PT10M48.00S,1,1610612757,POR,1629028,Ayton,D. Ayton,9,130,13,Missed,1,2,2,4,h,MISS Ayton 13' Jump Shot,Missed Shot,Jump Shot,1,2,7
+22300036,13,PT10M45.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,2,2,4,v,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+22300036,14,PT10M35.00S,1,1610612747,LAL,1626156,Russell,D. Russell,233,24,0,Made,1,2,5,7,v,Russell 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,1,3,9
+22300036,15,PT10M11.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,2,5,7,h,Sharpe Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,10
+22300036,15,PT10M11.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,2,5,7,v,Davis STEAL (1 STL),,,1,0,11
+22300036,17,PT09M55.00S,1,1610612747,LAL,2544,James,L. James,146,211,26,Made,1,2,8,10,v,James 26' 3PT Jump Shot (3 PTS) (Davis 1 AST),Made Shot,Jump Shot,1,3,12
+22300036,19,PT09M38.00S,1,1610612757,POR,203924,Grant,J. Grant,15,175,18,Missed,1,2,8,10,h,MISS Grant 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,13
+22300036,20,PT09M35.00S,1,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,2,8,10,h,Camara REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,14
+22300036,21,PT09M34.00S,1,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,2,8,10,v,Russell P.FOUL (P1.T1) (J.Tiven),Foul,Personal,1,0,15
+22300036,23,PT09M28.00S,1,1610612757,POR,1630219,Mays,S. Mays,77,104,13,Made,1,4,8,12,h,Mays 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,16
+22300036,24,PT09M16.00S,1,1610612747,LAL,1626156,Russell,D. Russell,-120,222,25,Made,1,4,11,15,v,Russell 25' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,3,17
+22300036,25,PT09M00.00S,1,1610612757,POR,203924,Grant,J. Grant,125,8,13,Missed,1,4,11,15,h,MISS Grant 13' Jump Shot,Missed Shot,Jump Shot,1,2,18
+22300036,26,PT08M57.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,4,11,15,v,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,19
+22300036,27,PT08M46.00S,1,1610612747,LAL,203076,Davis,A. Davis,-5,13,1,Made,1,4,13,17,v,Davis 1' Alley Oop Dunk (2 PTS) (James 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,20
+22300036,29,PT08M27.00S,1,1610612757,POR,1630219,Mays,S. Mays,38,146,15,Missed,1,4,13,17,h,MISS Mays 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,21
+22300036,30,PT08M24.00S,1,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,4,13,17,h,Mays REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,22
+22300036,31,PT08M21.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,4,13,17,h,Sharpe Step Out of Bounds Turnover (P2.T2),Turnover,Step Out of Bounds Turnover,1,0,23
+22300036,33,PT08M15.00S,1,1610612747,LAL,2544,James,L. James,194,157,25,Missed,1,4,13,17,v,MISS James 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,24
+22300036,34,PT08M12.00S,1,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,4,13,17,h,Camara REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,25
+22300036,35,PT08M05.00S,1,1610612757,POR,1629028,Ayton,D. Ayton,103,37,11,Made,1,6,13,19,h,Ayton 11' Jump Shot (4 PTS) (Mays 2 AST),Made Shot,Jump Shot,1,2,26
+22300036,37,PT07M52.00S,1,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,6,13,19,h,Mays S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,1,0,27
+22300036,39,PT07M52.00S,1,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,6,14,20,v,Prince Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,1,0,28
+22300036,40,PT07M52.00S,1,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,6,15,21,v,Prince Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,1,0,29
+22300036,41,PT07M52.00S,1,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,6,16,22,v,Prince Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1,0,30
+22300036,42,PT07M40.00S,1,1610612757,POR,1641739,Camara,T. Camara,134,223,26,Missed,1,6,16,22,h,MISS Camara 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+22300036,43,PT07M39.00S,1,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,6,16,22,h,Ayton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,32
+22300036,44,PT07M39.00S,1,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,Made,1,8,16,24,h,Ayton Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,1,2,33
+22300036,45,PT07M24.00S,1,1610612747,LAL,1626156,Russell,D. Russell,-23,55,6,Made,1,8,18,26,v,Russell 6' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,34
+22300036,46,PT07M11.00S,1,1610612757,POR,203924,Grant,J. Grant,153,214,26,Made,1,11,18,29,h,Grant 26' 3PT Jump Shot (3 PTS) (Mays 3 AST),Made Shot,Jump Shot,1,3,35
+22300036,48,PT06M59.00S,1,1610612747,LAL,1626156,Russell,D. Russell,170,192,26,Missed,1,11,18,29,v,MISS Russell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,36
+22300036,49,PT06M56.00S,1,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,11,18,29,h,Grant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,37
+22300036,50,PT06M48.00S,1,1610612757,POR,203924,Grant,J. Grant,-42,55,7,Missed,1,11,18,29,h,MISS Grant 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,38
+22300036,50,PT06M48.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,11,18,29,v,Davis BLOCK (1 BLK),,,1,2,39
+22300036,52,PT06M45.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,11,18,29,v,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,40
+22300036,53,PT06M42.00S,1,1610612747,LAL,2544,James,L. James,12,14,2,Made,1,11,20,31,v,James 2' Running Layup (5 PTS) (Russell 1 AST),Made Shot,Running Layup Shot,1,2,41
+22300036,54,PT06M41.00S,1,0,,1610612757,,,0,0,0,,0,11,20,31,h,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,42
+22300036,56,PT06M41.00S,1,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,11,20,31,h,SUB: Thybulle FOR Grant,Substitution,,0,0,43
+22300036,57,PT06M41.00S,1,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,11,20,31,h,SUB: Walker FOR Mays,Substitution,,0,0,44
+22300036,58,PT06M41.00S,1,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,11,20,31,v,SUB: Hachimura FOR Prince,Substitution,,0,0,45
+22300036,62,PT06M27.00S,1,1610612757,POR,1631133,Walker,J. Walker,6,21,2,Made,1,13,20,33,h,Walker 2' Driving Layup (2 PTS) (Sharpe 1 AST),Made Shot,Driving Layup Shot,1,2,46
+22300036,64,PT06M27.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,13,20,33,v,James S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,1,0,47
+22300036,66,PT06M27.00S,1,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,13,20,33,h,MISS Walker Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,48
+22300036,67,PT06M24.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,13,20,33,v,James REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+22300036,68,PT06M11.00S,1,1610612747,LAL,2544,James,L. James,12,13,2,Made,1,13,22,35,v,James 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,0,2,50
+22300036,69,PT05M50.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-13,13,2,Made,1,15,22,37,h,Sharpe 2' Cutting Dunk Shot (2 PTS) (Ayton 1 AST),Made Shot,Cutting Dunk Shot,0,2,51
+22300036,71,PT05M33.00S,1,1610612747,LAL,2544,James,L. James,31,264,27,Missed,1,15,22,37,v,MISS James 27' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,52
+22300036,72,PT05M31.00S,1,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,15,22,37,v,Reddish REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,53
+22300036,73,PT05M27.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,15,22,37,h,Sharpe P.FOUL (P1.T2) (J.Sterling),Foul,Personal,0,0,54
+22300036,75,PT05M19.00S,1,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,15,22,37,v,Russell Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,55
+22300036,75,PT05M19.00S,1,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,15,22,37,h,Camara STEAL (1 STL),,,1,0,56
+22300036,77,PT05M16.00S,1,1610612757,POR,1631133,Walker,J. Walker,-6,16,2,Missed,1,15,22,37,h,MISS Walker 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,57
+22300036,78,PT05M13.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,15,22,37,v,James REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,58
+22300036,79,PT05M11.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,6,5,1,Made,1,15,24,39,v,Hachimura 1' Running Dunk (2 PTS) (James 2 AST),Made Shot,Running Dunk Shot,1,2,59
+22300036,81,PT04M59.00S,1,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,15,24,39,h,Thybulle Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,60
+22300036,81,PT04M59.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,15,24,39,v,James STEAL (1 STL),,,1,0,61
+22300036,83,PT04M54.00S,1,1610612747,LAL,2544,James,L. James,7,13,1,Made,1,15,26,41,v,James 1' Running Dunk (9 PTS) (Russell 2 AST),Made Shot,Running Dunk Shot,1,2,62
+22300036,85,PT04M38.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-21,29,4,Missed,1,15,26,41,h,MISS Sharpe 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,63
+22300036,85,PT04M38.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,15,26,41,v,Davis BLOCK (2 BLK),,,1,2,64
+22300036,87,PT04M38.00S,1,0,,1610612747,,,0,0,0,,0,15,26,41,v,Lakers Rebound,Rebound,Unknown,0,0,65
+22300036,89,PT04M29.00S,1,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,15,26,41,h,Ayton S.FOUL (P1.T3) (J.Sterling),Foul,Shooting,1,0,66
+22300036,91,PT04M29.00S,1,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,15,27,42,v,Reddish Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,67
+22300036,92,PT04M29.00S,1,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,15,27,42,v,SUB: Wood FOR Russell,Substitution,,0,0,68
+22300036,93,PT04M29.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,15,27,42,v,SUB: Reaves FOR James,Substitution,,0,0,69
+22300036,96,PT04M29.00S,1,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,15,28,43,v,Reddish Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,70
+22300036,97,PT04M17.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,176,191,26,Missed,1,15,28,43,h,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,71
+22300036,98,PT04M13.00S,1,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,15,28,43,h,Thybulle REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,72
+22300036,99,PT04M10.00S,1,1610612757,POR,1631133,Walker,J. Walker,-232,15,0,Missed,1,15,28,43,h,MISS Walker 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+22300036,100,PT04M08.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,15,28,43,h,Sharpe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,74
+22300036,101,PT04M07.00S,1,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,15,28,43,h,Camara Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,1,0,75
+22300036,102,PT03M49.00S,1,1610612747,LAL,203076,Davis,A. Davis,31,79,8,Missed,1,15,28,43,v,MISS Davis 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,76
+22300036,103,PT03M45.00S,1,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,15,28,43,h,Ayton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,77
+22300036,104,PT03M36.00S,1,1610612757,POR,1641739,Camara,T. Camara,228,37,0,Missed,1,15,28,43,h,MISS Camara 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+22300036,105,PT03M34.00S,1,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,15,28,43,v,Wood REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+22300036,106,PT03M25.00S,1,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,15,28,43,v,Reddish Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,80
+22300036,106,PT03M25.00S,1,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,15,28,43,h,Ayton STEAL (1 STL),,,1,0,81
+22300036,108,PT03M19.00S,1,1610612757,POR,1629028,Ayton,D. Ayton,11,10,1,Made,1,17,28,45,h,Ayton 1' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,82
+22300036,110,PT03M08.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-141,188,24,Missed,1,17,28,45,v,MISS Reaves 24' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,83
+22300036,111,PT03M05.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,17,28,45,h,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,84
+22300036,113,PT02M56.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,44,193,20,Made,1,19,28,47,h,Sharpe 20' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,85
+22300036,114,PT02M39.00S,1,1610612747,LAL,203076,Davis,A. Davis,82,237,25,Missed,1,19,28,47,v,MISS Davis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,86
+22300036,115,PT02M36.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,19,28,47,h,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,87
+22300036,116,PT02M23.00S,1,1610612757,POR,1629028,Ayton,D. Ayton,1,126,13,Missed,1,19,28,47,h,MISS Ayton 13' Jump Shot,Missed Shot,Jump Shot,1,2,88
+22300036,116,PT02M23.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,19,28,47,v,Davis BLOCK (3 BLK),,,1,2,89
+22300036,118,PT02M19.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,19,28,47,v,Davis REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,90
+22300036,119,PT02M16.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,19,28,47,v,Reaves Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,91
+22300036,119,PT02M16.00S,1,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,19,28,47,h,Ayton STEAL (2 STL),,,1,0,92
+22300036,121,PT02M10.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-29,43,5,Made,1,21,28,49,h,Sharpe 5' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,93
+22300036,122,PT02M00.00S,1,0,,1610612747,,,0,0,0,,0,21,28,49,v,Lakers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,94
+22300036,123,PT02M00.00S,1,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,21,28,49,h,SUB: Grant FOR Ayton,Substitution,,0,0,95
+22300036,124,PT02M00.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,21,28,49,h,SUB: Mays FOR Sharpe,Substitution,,0,0,96
+22300036,125,PT02M00.00S,1,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,21,28,49,h,SUB: Reath FOR Camara,Substitution,,0,0,97
+22300036,126,PT02M00.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,21,28,49,v,SUB: Hayes FOR Davis,Substitution,,0,0,98
+22300036,127,PT02M00.00S,1,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,21,28,49,v,SUB: Prince FOR Reddish,Substitution,,0,0,99
+22300036,133,PT01M51.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,-118,220,25,Missed,1,21,28,49,v,MISS Hachimura 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+22300036,134,PT01M46.00S,1,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,21,28,49,h,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,101
+22300036,135,PT01M34.00S,1,1610612757,POR,1630219,Mays,S. Mays,71,26,8,Made,1,23,28,51,h,Mays 8' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,102
+22300036,136,PT01M10.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-45,115,12,Missed,1,23,28,51,v,MISS Reaves 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,103
+22300036,137,PT01M07.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,23,28,51,v,Reaves REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,104
+22300036,138,PT00M59.90S,1,1610612747,LAL,1627752,Prince,T. Prince,217,109,24,Missed,1,23,28,51,v,MISS Prince 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,105
+22300036,139,PT00M57.50S,1,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,23,28,51,h,Thybulle REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,106
+22300036,140,PT00M44.80S,1,1610612757,POR,1629680,Thybulle,M. Thybulle,169,176,24,Missed,1,23,28,51,h,MISS Thybulle 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+22300036,141,PT00M40.50S,1,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,23,28,51,h,Mays REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,108
+22300036,142,PT00M39.90S,1,1610612757,POR,1630219,Mays,S. Mays,74,246,26,Missed,1,23,28,51,h,MISS Mays 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+22300036,143,PT00M36.80S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,23,28,51,v,Hachimura REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,110
+22300036,144,PT00M20.50S,1,1610612747,LAL,1630559,Reaves,A. Reaves,16,10,2,Made,1,23,30,53,v,Reaves 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,111
+22300036,145,PT00M00.60S,1,1610612757,POR,1631133,Walker,J. Walker,224,73,24,Missed,1,23,30,53,h,MISS Walker 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+22300036,146,PT00M00.60S,1,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,23,30,53,v,Wood REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,113
+22300036,147,PT00M00.00S,1,0,,0,,,0,0,0,,0,23,30,53,,End of 1st Period (10:35 PM EST),period,end,1,0,114
+22300036,152,PT12M00.00S,2,0,,0,,,0,0,0,,0,23,30,53,,Start of 2nd Period (10:38 PM EST),period,start,0,0,115
+22300036,153,PT11M47.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,23,30,53,v,Lakers T.Foul (Def. 3 Sec Hayes ) (J.Sterling),Foul,Defense 3 Second,1,0,116
+22300036,154,PT11M47.00S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,24,30,54,h,Grant Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,1,0,117
+22300036,155,PT11M38.00S,2,1610612757,POR,203924,Grant,J. Grant,-170,210,27,Made,1,27,30,57,h,Grant 27' 3PT Jump Shot (7 PTS) (Mays 4 AST),Made Shot,Jump Shot,1,3,118
+22300036,157,PT11M24.00S,2,1610612757,POR,1631200,Murray,K. Murray,0,0,0,,0,27,30,57,h,Murray S.FOUL (P1.T1) (J.Sterling),Foul,Shooting,1,0,119
+22300036,159,PT11M24.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,27,30,57,v,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,120
+22300036,160,PT11M24.00S,2,0,,1610612747,,,0,0,0,,0,27,30,57,v,Lakers Rebound,Rebound,Normal Rebound,0,0,121
+22300036,161,PT11M24.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,27,31,58,v,James Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,122
+22300036,162,PT11M03.00S,2,1610612757,POR,1641871,Reath,D. Reath,-26,59,6,Missed,1,27,31,58,h,MISS Reath 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,123
+22300036,163,PT11M00.00S,2,1610612757,POR,1631200,Murray,K. Murray,0,0,0,,0,27,31,58,h,Murray REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,124
+22300036,164,PT10M56.00S,2,1610612757,POR,1631200,Murray,K. Murray,-230,21,0,Missed,1,27,31,58,h,MISS Murray 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+22300036,165,PT10M53.00S,2,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,27,31,58,v,Wood REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,126
+22300036,166,PT10M45.00S,2,1610612747,LAL,2544,James,L. James,-53,111,12,Missed,1,27,31,58,v,MISS James 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,127
+22300036,167,PT10M42.00S,2,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,27,31,58,v,Prince REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,128
+22300036,168,PT10M32.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,27,31,58,v,James Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,129
+22300036,168,PT10M32.00S,2,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,27,31,58,h,Mays STEAL (1 STL),,,1,0,130
+22300036,170,PT10M28.00S,2,1610612757,POR,1630219,Mays,S. Mays,10,1,1,Made,1,29,31,60,h,Mays 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,131
+22300036,171,PT10M19.00S,2,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,29,31,60,h,Mays P.FOUL (P2.T2) (S.Twardoski),Foul,Personal,1,0,132
+22300036,173,PT10M03.00S,2,1610612747,LAL,2544,James,L. James,-110,52,12,Made,1,29,33,62,v,James 12' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,1,2,133
+22300036,174,PT09M48.00S,2,1610612757,POR,1630219,Mays,S. Mays,22,116,12,Missed,1,29,33,62,h,MISS Mays 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,134
+22300036,175,PT09M45.00S,2,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,29,33,62,v,Wood REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,135
+22300036,176,PT09M39.00S,2,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,29,33,62,h,Reath S.FOUL (P1.T3) (J.Sterling),Foul,Shooting,1,0,136
+22300036,178,PT09M39.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,29,34,63,v,Reaves Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,137
+22300036,179,PT09M39.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,29,35,64,v,Reaves Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,138
+22300036,180,PT09M27.00S,2,1610612757,POR,203924,Grant,J. Grant,42,97,11,Made,1,31,35,66,h,Grant 11' Turnaround Fadeaway (9 PTS),Made Shot,Turnaround Fadeaway shot,1,2,139
+22300036,181,PT09M13.00S,2,1610612747,LAL,1626174,Wood,C. Wood,2,27,3,Made,1,31,37,68,v,Wood 3' Driving Layup (2 PTS) (Reaves 1 AST),Made Shot,Driving Layup Shot,1,2,140
+22300036,183,PT09M00.00S,2,1610612757,POR,1641871,Reath,D. Reath,-104,247,27,Missed,1,31,37,68,h,MISS Reath 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+22300036,184,PT08M57.00S,2,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,31,37,68,v,Wood REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,142
+22300036,185,PT08M40.00S,2,1610612747,LAL,1627752,Prince,T. Prince,237,43,24,Missed,1,31,37,68,v,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,143
+22300036,186,PT08M34.00S,2,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,31,37,68,v,Wood REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,144
+22300036,187,PT08M34.00S,2,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,Made,1,31,39,70,v,Wood Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,145
+22300036,188,PT08M24.00S,2,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,31,39,70,h,Thybulle Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,146
+22300036,188,PT08M24.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,31,39,70,v,Hayes STEAL (1 STL),,,1,0,147
+22300036,190,PT08M24.00S,2,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,31,39,70,h,Mays Transition Take Foul (P3.T4) (S.Twardoski),Foul,Transition Take,1,0,148
+22300036,192,PT08M24.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,31,39,70,v,MISS Hayes Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,149
+22300036,193,PT08M24.00S,2,0,,1610612747,,,0,0,0,,0,31,39,70,v,Lakers Rebound,Rebound,Unknown,0,0,150
+22300036,194,PT08M24.00S,2,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,31,39,70,h,SUB: Sharpe FOR Mays,Substitution,,0,0,151
+22300036,196,PT08M09.00S,2,1610612747,LAL,1626174,Wood,C. Wood,9,37,4,Made,1,31,41,72,v,Wood 4' Layup (6 PTS) (Prince 1 AST),Made Shot,Layup Shot,1,2,152
+22300036,198,PT07M59.00S,2,1610612757,POR,203924,Grant,J. Grant,200,146,25,Missed,1,31,41,72,h,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+22300036,199,PT07M55.00S,2,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,31,41,72,h,Reath REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,154
+22300036,200,PT07M54.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,31,41,72,h,Sharpe Traveling Turnover (P3.T6),Turnover,Traveling,1,0,155
+22300036,201,PT07M42.00S,2,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,31,41,72,h,TRAIL BLAZERS T.Foul (Def. 3 Sec Reath ) (J.Sterling),Foul,Defense 3 Second,1,0,156
+22300036,202,PT07M42.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,31,42,73,v,Reaves Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,1,0,157
+22300036,203,PT07M42.00S,2,1610612757,POR,1631200,Murray,K. Murray,0,0,0,,0,31,42,73,h,SUB: Ayton FOR Murray,Substitution,,0,0,158
+22300036,204,PT07M42.00S,2,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,31,42,73,h,SUB: Walker FOR Reath,Substitution,,0,0,159
+22300036,205,PT07M42.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,31,42,73,v,SUB: Davis FOR Hayes,Substitution,,0,0,160
+22300036,206,PT07M42.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,31,42,73,v,SUB: Russell FOR Reaves,Substitution,,0,0,161
+22300036,211,PT07M36.00S,2,1610612747,LAL,2544,James,L. James,-71,10,7,Made,1,31,44,75,v,James 7' Turnaround Fadeaway (14 PTS),Made Shot,Turnaround Fadeaway shot,1,2,162
+22300036,212,PT07M17.00S,2,1610612757,POR,1629680,Thybulle,M. Thybulle,-233,27,0,Made,1,34,44,78,h,Thybulle 3PT Jump Shot (3 PTS) (Walker 1 AST),Made Shot,Jump Shot,1,3,163
+22300036,214,PT06M58.00S,2,1610612747,LAL,203076,Davis,A. Davis,13,13,2,Missed,1,34,44,78,v,MISS Davis 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,164
+22300036,215,PT06M56.00S,2,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,34,44,78,h,Thybulle REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,165
+22300036,216,PT06M44.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,80,130,15,Missed,1,34,44,78,h,MISS Sharpe 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,166
+22300036,217,PT06M41.00S,2,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,34,44,78,v,Wood REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,167
+22300036,218,PT06M35.00S,2,1610612747,LAL,1626174,Wood,C. Wood,178,208,27,Missed,1,34,44,78,v,MISS Wood 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+22300036,219,PT06M32.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,34,44,78,v,Davis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,169
+22300036,220,PT06M28.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,34,44,78,v,Davis 3 Second Violation Turnover (P1.T5),Turnover,3 Second Violation,1,0,170
+22300036,221,PT06M28.00S,2,0,,1610612757,,,0,0,0,,0,34,44,78,h,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,171
+22300036,222,PT06M28.00S,2,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,34,44,78,h,SUB: Camara FOR Thybulle,Substitution,,0,0,172
+22300036,223,PT06M28.00S,2,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,34,44,78,v,SUB: Reddish FOR Prince,Substitution,,0,0,173
+22300036,224,PT06M28.00S,2,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,34,44,78,v,SUB: Hachimura FOR Wood,Substitution,,0,0,174
+22300036,228,PT06M15.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,34,44,78,v,James P.FOUL (P2.T1) (J.Tiven),Foul,Personal,0,0,175
+22300036,230,PT06M06.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,34,44,78,h,Sharpe Bad Pass Turnover (P4.T7),Turnover,Bad Pass,0,0,176
+22300036,230,PT06M06.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,34,44,78,v,Davis STEAL (2 STL),,,0,0,177
+22300036,232,PT06M00.00S,2,1610612747,LAL,2544,James,L. James,12,27,3,Made,1,34,46,80,v,James 3' Running Layup (16 PTS),Made Shot,Running Layup Shot,1,2,178
+22300036,234,PT05M46.00S,2,1610612757,POR,1629028,Ayton,D. Ayton,13,29,3,Missed,1,34,46,80,h,MISS Ayton 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,179
+22300036,235,PT05M43.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,34,46,80,v,Davis REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,180
+22300036,236,PT05M39.00S,2,1610612747,LAL,203076,Davis,A. Davis,1,58,6,Missed,1,34,46,80,v,MISS Davis 6' Running Layup,Missed Shot,Running Layup Shot,1,2,181
+22300036,236,PT05M39.00S,2,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,34,46,80,h,Camara BLOCK (1 BLK),,,1,2,182
+22300036,238,PT05M39.00S,2,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,34,46,80,h,Walker REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,183
+22300036,239,PT05M33.00S,2,1610612757,POR,1631133,Walker,J. Walker,-11,16,2,Made,1,36,46,82,h,Walker 2' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,1,2,184
+22300036,240,PT05M12.00S,2,1610612747,LAL,2544,James,L. James,119,19,12,Missed,1,36,46,82,v,MISS James 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,185
+22300036,241,PT05M10.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,36,46,82,h,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,186
+22300036,242,PT05M03.00S,2,1610612757,POR,203924,Grant,J. Grant,143,212,26,Missed,1,36,46,82,h,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,187
+22300036,243,PT04M59.00S,2,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,36,46,82,h,Ayton REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,188
+22300036,244,PT04M58.00S,2,1610612757,POR,1629028,Ayton,D. Ayton,2,36,4,Made,1,38,46,84,h,Ayton 4' Hook Shot (10 PTS),Made Shot,Hook Shot,1,2,189
+22300036,245,PT04M45.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,38,46,84,v,Davis Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,190
+22300036,245,PT04M45.00S,2,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,38,46,84,h,Camara STEAL (2 STL),,,1,0,191
+22300036,247,PT04M36.00S,2,1610612757,POR,1629028,Ayton,D. Ayton,44,158,16,Missed,1,38,46,84,h,MISS Ayton 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,192
+22300036,247,PT04M36.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,38,46,84,v,Davis BLOCK (4 BLK),,,1,2,193
+22300036,249,PT04M33.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,38,46,84,v,Hachimura REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,194
+22300036,250,PT04M31.00S,2,1610612747,LAL,1629629,Reddish,C. Reddish,-118,236,26,Made,1,38,49,87,v,Reddish 26' 3PT Running Jump Shot (5 PTS) (Hachimura 1 AST),Made Shot,Running Jump Shot,1,3,195
+22300036,252,PT04M13.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,92,247,26,Missed,1,38,49,87,h,MISS Sharpe 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,196
+22300036,253,PT04M10.00S,2,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,38,49,87,h,Walker REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,197
+22300036,254,PT04M07.00S,2,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,38,49,87,h,Ayton Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,198
+22300036,254,PT04M07.00S,2,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,38,49,87,v,Reddish STEAL (1 STL),,,1,0,199
+22300036,257,PT04M03.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,38,49,87,v,SUB: Prince FOR James,Substitution,,0,0,200
+22300036,259,PT03M55.00S,2,1610612747,LAL,203076,Davis,A. Davis,-45,45,6,Made,1,38,51,89,v,Davis 6' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,201
+22300036,260,PT03M42.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,38,51,89,v,Davis S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,1,0,202
+22300036,262,PT03M42.00S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,39,51,90,h,Grant Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,203
+22300036,263,PT03M42.00S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,40,51,91,h,Grant Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,204
+22300036,264,PT03M31.00S,2,1610612747,LAL,1626156,Russell,D. Russell,-127,227,26,Made,1,40,54,94,v,Russell 26' 3PT Jump Shot (11 PTS) (Hachimura 2 AST),Made Shot,Jump Shot,1,3,205
+22300036,266,PT03M15.00S,2,1610612757,POR,1641739,Camara,T. Camara,230,21,0,Missed,1,40,54,94,h,MISS Camara 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+22300036,267,PT03M11.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,40,54,94,v,Davis REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,207
+22300036,268,PT02M57.00S,2,1610612747,LAL,1626156,Russell,D. Russell,-125,225,26,Missed,1,40,54,94,v,MISS Russell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,208
+22300036,269,PT02M54.00S,2,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,40,54,94,h,Walker REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,209
+22300036,270,PT02M49.00S,2,1610612757,POR,1631133,Walker,J. Walker,42,27,5,Missed,1,40,54,94,h,MISS Walker 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,210
+22300036,270,PT02M49.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,40,54,94,v,Davis BLOCK (5 BLK),,,1,2,211
+22300036,272,PT02M46.00S,2,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,40,54,94,v,Russell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,212
+22300036,273,PT02M41.00S,2,1610612747,LAL,1629629,Reddish,C. Reddish,56,242,25,Missed,1,40,54,94,v,MISS Reddish 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,213
+22300036,274,PT02M38.00S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,40,54,94,h,Grant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,214
+22300036,276,PT02M29.00S,2,0,,1610612747,,,0,0,0,,0,40,54,94,v,Lakers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,215
+22300036,277,PT02M21.00S,2,1610612757,POR,203924,Grant,J. Grant,-36,7,4,Missed,1,40,54,94,h,MISS Grant 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,216
+22300036,278,PT02M16.00S,2,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,40,54,94,h,Ayton REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,217
+22300036,279,PT02M16.00S,2,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,Made,1,42,54,96,h,Ayton Putback Dunk (12 PTS),Made Shot,Putback Dunk Shot,1,2,218
+22300036,280,PT02M06.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,42,54,96,v,Davis OFF.Foul (P2) (J.Sterling),Foul,Offensive,1,0,219
+22300036,282,PT02M06.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,42,54,96,v,Davis Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,1,0,220
+22300036,283,PT01M52.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,42,54,96,h,Sharpe Bad Pass Turnover (P5.T9),Turnover,Bad Pass,1,0,221
+22300036,283,PT01M52.00S,2,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,42,54,96,v,Prince STEAL (1 STL),,,1,0,222
+22300036,285,PT01M47.00S,2,1610612747,LAL,203076,Davis,A. Davis,6,15,2,Made,1,42,56,98,v,Davis 2' Running Dunk (6 PTS) (Russell 3 AST),Made Shot,Running Dunk Shot,1,2,223
+22300036,287,PT01M31.00S,2,1610612757,POR,1641739,Camara,T. Camara,11,26,3,Made,1,44,56,100,h,Camara 3' Driving Finger Roll Layup (2 PTS) (Sharpe 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,224
+22300036,289,PT01M31.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,44,56,100,v,Hachimura S.FOUL (P1.T3) (J.Sterling),Foul,Shooting,1,0,225
+22300036,291,PT01M31.00S,2,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,44,56,100,h,MISS Camara Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,226
+22300036,292,PT01M28.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,44,56,100,v,Hachimura REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,227
+22300036,293,PT01M21.00S,2,1610612747,LAL,203076,Davis,A. Davis,21,19,3,Made,1,44,58,102,v,Davis 3' Layup (8 PTS) (Russell 4 AST),Made Shot,Layup Shot,1,2,228
+22300036,295,PT01M07.00S,2,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,44,58,102,h,Ayton Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,229
+22300036,295,PT01M07.00S,2,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,44,58,102,v,Prince STEAL (2 STL),,,1,0,230
+22300036,297,PT01M05.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,24,2,Made,1,44,60,104,v,Davis 2' Running Layup (10 PTS) (Prince 2 AST),Made Shot,Running Layup Shot,1,2,231
+22300036,299,PT01M05.00S,2,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,44,60,104,h,Ayton S.FOUL (P2.PN) (J.Sterling),Foul,Shooting,1,0,232
+22300036,301,PT01M05.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,44,60,104,v,MISS Davis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,233
+22300036,302,PT01M03.00S,2,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,44,60,104,h,Ayton REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,234
+22300036,304,PT00M43.80S,2,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,44,60,104,v,Prince P.FOUL (P1.PN) (S.Twardoski),Foul,Personal,1,0,235
+22300036,306,PT00M43.80S,2,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,45,60,105,h,Camara Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,236
+22300036,307,PT00M43.80S,2,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,46,60,106,h,Camara Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,237
+22300036,308,PT00M34.50S,2,1610612747,LAL,1626156,Russell,D. Russell,-115,43,12,Missed,1,46,60,106,v,MISS Russell 12' Step Back Bank Jump Shot,Missed Shot,Step Back Bank Jump Shot,1,2,238
+22300036,309,PT00M31.70S,2,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,46,60,106,h,Ayton REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,239
+22300036,310,PT00M27.20S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-12,54,6,Missed,1,46,60,106,h,MISS Sharpe 6' Running Layup,Missed Shot,Running Layup Shot,1,2,240
+22300036,311,PT00M27.20S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,46,60,106,h,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,241
+22300036,312,PT00M27.20S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-7,25,3,Made,1,48,60,108,h,Sharpe 3' Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,242
+22300036,313,PT00M27.20S,2,0,,1610612757,,,0,0,0,,0,48,60,108,h,TRAIL BLAZERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,243
+22300036,314,PT00M09.90S,2,1610612747,LAL,203076,Davis,A. Davis,13,140,14,Missed,1,48,60,108,v,MISS Davis 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,244
+22300036,315,PT00M06.60S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,48,60,108,h,Sharpe REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,245
+22300036,316,PT00M01.50S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,-13,17,2,Made,1,50,60,110,h,Sharpe 2' Running Dunk (10 PTS),Made Shot,Running Dunk Shot,1,2,246
+22300036,318,PT00M00.00S,2,1610612747,LAL,1627752,Prince,T. Prince,180,539,57,Missed,1,50,60,110,v,MISS Prince 57' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,247
+22300036,319,PT00M00.00S,2,0,,1610612747,,,0,0,0,,0,50,60,110,v,Lakers Rebound,Rebound,Unknown,1,0,248
+22300036,320,PT00M00.00S,2,0,,0,,,0,0,0,,0,50,60,110,,End of 2nd Period (11:05 PM EST),period,end,1,0,249
+22300036,325,PT12M00.00S,3,0,,0,,,0,0,0,,0,50,60,110,,Start of 3rd Period (11:20 PM EST),period,start,0,0,250
+22300036,327,PT11M43.00S,3,1610612757,POR,203924,Grant,J. Grant,-9,157,16,Missed,1,50,60,110,h,MISS Grant 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,251
+22300036,328,PT11M39.00S,3,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,50,60,110,h,Mays REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,252
+22300036,329,PT11M36.00S,3,1610612757,POR,1630219,Mays,S. Mays,-108,234,26,Made,1,53,60,113,h,Mays 26' 3PT Jump Shot (9 PTS) (Grant 1 AST),Made Shot,Jump Shot,1,3,253
+22300036,331,PT11M16.00S,3,1610612747,LAL,2544,James,L. James,-1,260,26,Made,1,53,63,116,v,James 26' 3PT Jump Shot (19 PTS) (Russell 5 AST),Made Shot,Jump Shot,1,3,254
+22300036,332,PT10M54.00S,3,1610612757,POR,1630219,Mays,S. Mays,-221,15,0,Missed,1,53,63,116,h,MISS Mays 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+22300036,333,PT10M53.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,53,63,116,v,James REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,256
+22300036,334,PT10M43.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,53,63,116,v,James Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,257
+22300036,334,PT10M43.00S,3,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,53,63,116,h,Mays STEAL (2 STL),,,1,0,258
+22300036,336,PT10M38.00S,3,1610612757,POR,203924,Grant,J. Grant,214,119,24,Made,1,56,63,119,h,Grant 24' 3PT Running Jump Shot (14 PTS) (Mays 5 AST),Made Shot,Running Jump Shot,1,3,259
+22300036,338,PT10M14.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,56,63,119,v,James Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,260
+22300036,338,PT10M14.00S,3,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,56,63,119,h,Grant STEAL (1 STL),,,1,0,261
+22300036,340,PT10M09.00S,3,1610612757,POR,203924,Grant,J. Grant,-151,218,27,Made,1,59,63,122,h,Grant 27' 3PT Running Jump Shot (17 PTS) (Mays 6 AST),Made Shot,Running Jump Shot,1,3,262
+22300036,342,PT10M09.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,59,63,122,v,Davis S.FOUL (P3.T1) (S.Twardoski),Foul,Shooting,1,0,263
+22300036,344,PT10M09.00S,3,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,60,63,123,h,Grant Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,264
+22300036,345,PT09M53.00S,3,1610612747,LAL,203076,Davis,A. Davis,-6,173,17,Missed,1,60,63,123,v,MISS Davis 17' Jump Shot,Missed Shot,Jump Shot,1,2,265
+22300036,346,PT09M49.00S,3,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,60,63,123,h,Grant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,266
+22300036,347,PT09M43.00S,3,1610612757,POR,203924,Grant,J. Grant,-69,138,15,Missed,1,60,63,123,h,MISS Grant 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,267
+22300036,348,PT09M41.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,60,63,123,v,Davis REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,268
+22300036,349,PT09M32.00S,3,1610612747,LAL,2544,James,L. James,-12,26,3,Made,1,60,65,125,v,James 3' Alley Oop Dunk (21 PTS) (Davis 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,269
+22300036,352,PT09M14.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,60,65,125,h,Sharpe Offensive Charge Foul (P2) (J.Tiven),Foul,Offensive Charge,1,0,270
+22300036,354,PT09M14.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,60,65,125,h,Sharpe Offensive Foul Turnover (P6.T11),Turnover,Offensive Foul Turnover,1,0,271
+22300036,355,PT09M05.00S,3,1610612747,LAL,1626156,Russell,D. Russell,-4,260,26,Made,1,60,68,128,v,Russell 26' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,272
+22300036,356,PT08M49.00S,3,1610612757,POR,203924,Grant,J. Grant,4,47,5,Missed,1,60,68,128,h,MISS Grant 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,273
+22300036,357,PT08M44.00S,3,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,60,68,128,h,Ayton REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,274
+22300036,358,PT08M44.00S,3,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,Made,1,62,68,130,h,Ayton Putback Dunk (14 PTS),Made Shot,Putback Dunk Shot,1,2,275
+22300036,359,PT08M32.00S,3,1610612747,LAL,1626156,Russell,D. Russell,-140,227,27,Missed,1,62,68,130,v,MISS Russell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,276
+22300036,360,PT08M30.00S,3,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,62,68,130,h,Camara REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,277
+22300036,361,PT08M20.00S,3,1610612757,POR,1629028,Ayton,D. Ayton,-16,171,17,Made,1,64,68,132,h,Ayton 17' Jump Shot (16 PTS) (Mays 7 AST),Made Shot,Jump Shot,1,2,278
+22300036,363,PT08M00.00S,3,1610612747,LAL,2544,James,L. James,72,246,26,Missed,1,64,68,132,v,MISS James 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,279
+22300036,364,PT07M57.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,64,68,132,h,Sharpe REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,280
+22300036,365,PT07M53.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,94,256,27,Missed,1,64,68,132,h,MISS Sharpe 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,281
+22300036,366,PT07M51.00S,3,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,64,68,132,h,Ayton REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,282
+22300036,367,PT07M46.00S,3,1610612757,POR,1630219,Mays,S. Mays,141,208,25,Made,1,67,68,135,h,Mays 25' 3PT Jump Shot (12 PTS) (Ayton 2 AST),Made Shot,Jump Shot,1,3,283
+22300036,369,PT07M45.00S,3,0,,1610612747,,,0,0,0,,0,67,68,135,v,Lakers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,284
+22300036,370,PT07M29.00S,3,1610612747,LAL,1629629,Reddish,C. Reddish,-27,38,5,Missed,1,67,68,135,v,MISS Reddish 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,285
+22300036,371,PT07M27.00S,3,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,67,68,135,h,Ayton REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,286
+22300036,372,PT07M08.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,67,68,135,h,Sharpe Bad Pass Turnover (P7.T12),Turnover,Bad Pass,1,0,287
+22300036,372,PT07M08.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,67,68,135,v,James STEAL (2 STL),,,1,0,288
+22300036,374,PT07M04.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,67,68,135,h,Sharpe S.FOUL (P3.T1) (J.Sterling),Foul,Shooting,1,0,289
+22300036,376,PT07M04.00S,3,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,67,68,135,v,MISS Reddish Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,290
+22300036,377,PT07M04.00S,3,0,,1610612747,,,0,0,0,,0,67,68,135,v,Lakers Rebound,Rebound,Normal Rebound,0,0,291
+22300036,378,PT07M04.00S,3,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,67,69,136,v,Reddish Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,292
+22300036,380,PT06M46.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,67,69,136,h,Sharpe Lost Ball Turnover (P8.T13),Turnover,Lost Ball,1,0,293
+22300036,380,PT06M46.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,67,69,136,v,Davis STEAL (3 STL),,,1,0,294
+22300036,382,PT06M40.00S,3,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,67,69,136,v,Russell Traveling Turnover (P2.T10),Turnover,Traveling,1,0,295
+22300036,383,PT06M27.00S,3,1610612757,POR,1630219,Mays,S. Mays,4,73,7,Missed,1,67,69,136,h,MISS Mays 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,296
+22300036,384,PT06M24.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,67,69,136,v,Davis REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,297
+22300036,385,PT06M18.00S,3,1610612747,LAL,1627752,Prince,T. Prince,-228,67,24,Missed,1,67,69,136,v,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+22300036,386,PT06M15.00S,3,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,67,69,136,h,Camara REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,299
+22300036,387,PT06M10.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,25,63,7,Missed,1,67,69,136,h,MISS Sharpe 7' Running Layup,Missed Shot,Running Layup Shot,1,2,300
+22300036,389,PT06M07.00S,3,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,67,69,136,v,Russell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,301
+22300036,390,PT06M04.00S,3,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,67,69,136,h,Camara S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,0,302
+22300036,392,PT06M04.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,67,69,136,v,MISS James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,303
+22300036,393,PT06M04.00S,3,0,,1610612747,,,0,0,0,,0,67,69,136,v,Lakers Rebound,Rebound,Normal Rebound,1,0,304
+22300036,394,PT06M04.00S,3,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,67,69,136,v,SUB: Hachimura FOR Prince,Substitution,,0,0,305
+22300036,396,PT06M04.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,67,70,137,v,James Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,306
+22300036,398,PT05M50.00S,3,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,67,70,137,v,SUB: Reaves FOR Russell,Substitution,,0,0,307
+22300036,400,PT05M45.00S,3,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,67,70,137,h,Jump Ball Ayton vs. Davis: Tip to Grant,Jump Ball,,1,0,308
+22300036,403,PT05M37.00S,3,1610612757,POR,1629028,Ayton,D. Ayton,16,104,11,Missed,1,67,70,137,h,MISS Ayton 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,309
+22300036,404,PT05M34.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,67,70,137,v,Davis REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,310
+22300036,405,PT05M28.00S,3,1610612747,LAL,2544,James,L. James,-129,262,29,Made,1,67,73,140,v,James 29' 3PT Jump Shot (25 PTS) (Reaves 2 AST),Made Shot,Jump Shot,1,3,311
+22300036,407,PT05M14.00S,3,1610612757,POR,1630219,Mays,S. Mays,-82,242,26,Missed,1,67,73,140,h,MISS Mays 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,312
+22300036,408,PT05M14.00S,3,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,67,73,140,h,Camara REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,313
+22300036,410,PT05M08.00S,3,1610612757,POR,203924,Grant,J. Grant,36,66,8,Made,1,69,73,142,h,Grant 8' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,314
+22300036,411,PT04M42.00S,3,1610612747,LAL,2544,James,L. James,-18,33,4,Missed,1,69,73,142,v,MISS James 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,315
+22300036,412,PT04M38.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,69,73,142,v,Davis REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,316
+22300036,413,PT04M38.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,Missed,1,69,73,142,v,MISS Davis Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,317
+22300036,414,PT04M37.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,69,73,142,v,Davis REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,318
+22300036,415,PT04M35.00S,3,1610612747,LAL,2544,James,L. James,-153,210,26,Made,1,69,76,145,v,James 26' 3PT Jump Shot (28 PTS) (Reddish 1 AST),Made Shot,Jump Shot,1,3,319
+22300036,417,PT04M33.00S,3,0,,1610612747,,,0,0,0,,0,69,76,145,v,Lakers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,320
+22300036,418,PT04M18.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,-202,147,25,Missed,1,69,76,145,h,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+22300036,419,PT04M15.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,69,76,145,v,James REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,322
+22300036,420,PT04M09.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,69,76,145,v,Davis Traveling Turnover (P4.T11),Turnover,Traveling,1,0,323
+22300036,421,PT04M09.00S,3,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,69,76,145,h,SUB: Walker FOR Mays,Substitution,,0,0,324
+22300036,422,PT04M09.00S,3,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,69,76,145,h,SUB: Thybulle FOR Grant,Substitution,,0,0,325
+22300036,425,PT03M53.00S,3,1610612757,POR,1641739,Camara,T. Camara,-102,240,26,Missed,1,69,76,145,h,MISS Camara 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,326
+22300036,426,PT03M50.00S,3,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,69,76,145,h,Walker REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,327
+22300036,427,PT03M45.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,69,76,145,v,James S.FOUL (P3.T2) (S.Twardoski),Foul,Shooting,1,0,328
+22300036,429,PT03M45.00S,3,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,70,76,146,h,Walker Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,329
+22300036,430,PT03M45.00S,3,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,70,76,146,v,SUB: Wood FOR Reddish,Substitution,,0,0,330
+22300036,431,PT03M45.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,70,76,146,v,SUB: Prince FOR James,Substitution,,0,0,331
+22300036,434,PT03M45.00S,3,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,70,76,146,h,MISS Walker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,332
+22300036,435,PT03M42.00S,3,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,70,76,146,v,Wood REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,333
+22300036,436,PT03M28.00S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,70,76,146,h,Thybulle S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,1,0,334
+22300036,438,PT03M28.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,70,76,146,v,MISS Reaves Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,335
+22300036,439,PT03M28.00S,3,0,,1610612747,,,0,0,0,,0,70,76,146,v,Lakers Rebound,Rebound,Normal Rebound,0,0,336
+22300036,440,PT03M28.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,70,77,147,v,Reaves Free Throw 2 of 3 (6 PTS),Free Throw,Free Throw 2 of 3,1,0,337
+22300036,441,PT03M28.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,70,78,148,v,Reaves Free Throw 3 of 3 (7 PTS),Free Throw,Free Throw 3 of 3,1,0,338
+22300036,442,PT03M14.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,70,78,148,h,Sharpe Out of Bounds - Bad Pass Turnover Turnover (P9.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,339
+22300036,443,PT02M56.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,10,70,7,Missed,1,70,78,148,v,MISS Hachimura 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,340
+22300036,444,PT02M54.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,70,78,148,h,Sharpe REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,341
+22300036,445,PT02M43.00S,3,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,70,78,148,v,Prince S.FOUL (P2.T3) (J.Tiven),Foul,Shooting,1,0,342
+22300036,447,PT02M43.00S,3,0,,1610612747,,,0,0,0,,0,70,78,148,v,Lakers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,343
+22300036,448,PT02M43.00S,3,0,,445,Person,W. Person,0,0,0,,0,70,78,148,,Instant Replay3rd Period (11:40 PM EST),Instant Replay,Coach Challenge Support Ruling,1,0,344
+22300036,450,PT02M43.00S,3,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,71,78,149,h,Walker Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,345
+22300036,451,PT02M43.00S,3,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,72,78,150,h,Walker Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,346
+22300036,457,PT02M43.00S,3,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,72,78,150,h,SUB: Reath FOR Ayton,Substitution,,0,0,347
+22300036,452,PT02M18.00S,3,1610612747,LAL,1626174,Wood,C. Wood,-119,34,12,Made,1,72,80,152,v,Wood 12' Pullup Jump Shot (8 PTS) (Reaves 3 AST),Made Shot,Pullup Jump shot,1,2,348
+22300036,454,PT01M50.00S,3,1610612757,POR,1641871,Reath,D. Reath,147,232,27,Missed,1,72,80,152,h,MISS Reath 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,349
+22300036,455,PT01M50.00S,3,0,,1610612757,,,0,0,0,,0,72,80,152,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,0,350
+22300036,456,PT01M50.00S,3,0,,1610612757,,,0,0,0,,0,72,80,152,h,TRAIL BLAZERS Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,351
+22300036,459,PT01M33.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,72,80,152,v,Reaves Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,352
+22300036,459,PT01M33.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,72,80,152,h,Sharpe STEAL (1 STL),,,1,0,353
+22300036,461,PT01M33.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,72,80,152,h,Sharpe OFF.Foul (P4) (J.Tiven),Foul,Offensive,1,0,354
+22300036,463,PT01M33.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,72,80,152,h,Sharpe Offensive Foul Turnover (P10.T16),Turnover,Offensive Foul Turnover,1,0,355
+22300036,464,PT01M33.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,72,80,152,h,SUB: Grant FOR Sharpe,Substitution,,0,0,356
+22300036,465,PT01M33.00S,3,1610612757,POR,1631133,Walker,J. Walker,0,0,0,,0,72,80,152,h,SUB: Mays FOR Walker,Substitution,,0,0,357
+22300036,468,PT01M14.00S,3,1610612747,LAL,203076,Davis,A. Davis,70,29,8,Made,1,72,82,154,v,Davis 8' Turnaround Hook Shot (12 PTS) (Prince 3 AST),Made Shot,Turnaround Hook Shot,1,2,358
+22300036,470,PT00M59.70S,3,1610612757,POR,1630219,Mays,S. Mays,145,199,25,Made,1,75,82,157,h,Mays 25' 3PT Jump Shot (15 PTS) (Grant 2 AST),Made Shot,Jump Shot,1,3,359
+22300036,472,PT00M47.40S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,75,82,157,v,Davis OFF.Foul (P4) (J.Tiven),Foul,Offensive,1,0,360
+22300036,474,PT00M47.40S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,75,82,157,v,Davis Offensive Foul Turnover (P5.T13),Turnover,Offensive Foul Turnover,1,0,361
+22300036,475,PT00M47.40S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,75,82,157,v,SUB: Hayes FOR Davis,Substitution,,0,0,362
+22300036,477,PT00M47.40S,3,0,,1610612757,,,0,0,0,,0,75,82,157,h,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,363
+22300036,478,PT00M33.40S,3,1610612757,POR,1641871,Reath,D. Reath,-31,248,25,Missed,1,75,82,157,h,MISS Reath 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,364
+22300036,479,PT00M32.00S,3,0,,1610612747,,,0,0,0,,0,75,82,157,v,Lakers Rebound,Rebound,Unknown,0,0,365
+22300036,481,PT00M13.70S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,75,82,157,v,Reaves Bad Pass Turnover (P3.T14),Turnover,Bad Pass,1,0,366
+22300036,481,PT00M13.70S,3,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,75,82,157,h,Thybulle STEAL (1 STL),,,1,0,367
+22300036,485,PT00M00.00S,3,0,,0,,,0,0,0,,0,75,82,157,,End of 3rd Period (11:50 PM EST),period,end,1,0,368
+22300036,490,PT12M00.00S,4,0,,0,,,0,0,0,,0,75,82,157,,Start of 4th Period (11:52 PM EST),period,start,0,0,369
+22300036,491,PT11M37.00S,4,1610612747,LAL,1626174,Wood,C. Wood,-17,20,3,Made,1,75,84,159,v,Wood 3' Dunk (10 PTS) (James 3 AST),Made Shot,Dunk Shot,1,2,370
+22300036,493,PT11M13.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,75,84,159,v,Hachimura Violation:Kicked Ball (S.Twardoski),Violation,Kicked Ball,0,0,371
+22300036,494,PT11M01.00S,4,1610612757,POR,1630219,Mays,S. Mays,92,93,13,Missed,1,75,84,159,h,MISS Mays 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,372
+22300036,495,PT10M58.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,75,84,159,v,Reaves REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,373
+22300036,496,PT10M42.00S,4,1610612747,LAL,2544,James,L. James,-190,236,30,Made,1,75,87,162,v,James 30' 3PT Jump Shot (31 PTS) (Reaves 4 AST),Made Shot,Jump Shot,1,3,374
+22300036,498,PT10M29.00S,4,1610612757,POR,203924,Grant,J. Grant,89,257,27,Missed,1,75,87,162,h,MISS Grant 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,375
+22300036,499,PT10M25.00S,4,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,75,87,162,v,Wood REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,376
+22300036,500,PT10M21.00S,4,1610612747,LAL,1627752,Prince,T. Prince,-18,18,3,Made,1,75,89,164,v,Prince 3' Running Layup (7 PTS) (James 4 AST),Made Shot,Running Layup Shot,1,2,377
+22300036,502,PT10M21.00S,4,0,,1610612757,,,0,0,0,,0,75,89,164,h,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,378
+22300036,503,PT10M21.00S,4,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,75,89,164,h,SUB: Minaya FOR Mays,Substitution,,0,0,379
+22300036,504,PT10M21.00S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,75,89,164,h,SUB: Sharpe FOR Camara,Substitution,,0,0,380
+22300036,507,PT10M04.00S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,13,94,9,Made,1,77,89,166,h,Thybulle 9' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,381
+22300036,508,PT09M47.00S,4,1610612747,LAL,1626174,Wood,C. Wood,-22,47,5,Missed,1,77,89,166,v,MISS Wood 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,382
+22300036,509,PT09M44.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,77,89,166,v,Hachimura REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,383
+22300036,510,PT09M33.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,-10,95,10,Missed,1,77,89,166,v,MISS Reaves 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,384
+22300036,511,PT09M33.00S,4,0,,1610612747,,,0,0,0,,0,77,89,166,v,Lakers Rebound,Rebound,Unknown,0,0,385
+22300036,512,PT09M23.00S,4,1610612747,LAL,1626174,Wood,C. Wood,62,249,26,Missed,1,77,89,166,v,MISS Wood 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,386
+22300036,513,PT09M19.00S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,77,89,166,h,Grant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,387
+22300036,514,PT09M08.00S,4,1610612757,POR,1629028,Ayton,D. Ayton,21,93,10,Missed,1,77,89,166,h,MISS Ayton 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,388
+22300036,515,PT09M06.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,77,89,166,v,Hachimura REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,389
+22300036,516,PT08M54.00S,4,1610612747,LAL,1627752,Prince,T. Prince,223,28,0,Made,1,77,92,169,v,Prince 3PT Jump Shot (10 PTS) (James 5 AST),Made Shot,Jump Shot,1,3,390
+22300036,518,PT08M38.00S,4,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,77,92,169,v,Prince P.FOUL (P3.T1) (J.Tiven),Foul,Personal,1,0,391
+22300036,520,PT08M38.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,77,92,169,v,SUB: Russell FOR Reaves,Substitution,,0,0,392
+22300036,522,PT08M25.00S,4,1610612757,POR,203924,Grant,J. Grant,-16,72,7,Made,1,79,92,171,h,Grant 7' Turnaround Hook Shot (22 PTS),Made Shot,Turnaround Hook Shot,1,2,393
+22300036,523,PT08M11.00S,4,1610612747,LAL,1626174,Wood,C. Wood,-51,260,26,Missed,1,79,92,171,v,MISS Wood 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+22300036,524,PT08M08.00S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,79,92,171,h,Thybulle REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,395
+22300036,525,PT08M05.00S,4,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,79,92,171,v,Wood S.FOUL (P1.T2) (J.Sterling),Foul,Shooting,1,0,396
+22300036,527,PT08M05.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,80,92,172,h,Sharpe Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,397
+22300036,528,PT08M05.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,81,92,173,h,Sharpe Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,398
+22300036,529,PT07M53.00S,4,1610612747,LAL,2544,James,L. James,-1,264,26,Missed,1,81,92,173,v,MISS James 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,399
+22300036,530,PT07M50.00S,4,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,81,92,173,v,Wood REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,400
+22300036,531,PT07M47.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,-5,26,3,Made,1,81,94,175,v,Hachimura 3' Dunk (4 PTS) (James 6 AST),Made Shot,Dunk Shot,1,2,401
+22300036,533,PT07M33.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-34,150,15,Made,1,83,94,177,h,Sharpe 15' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,402
+22300036,534,PT07M14.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,-224,21,0,Made,1,83,97,180,v,Hachimura 3PT Jump Shot (7 PTS) (James 7 AST),Made Shot,Jump Shot,1,3,403
+22300036,536,PT07M03.00S,4,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,83,97,180,v,Prince P.FOUL (P4.T3) (J.Sterling),Foul,Personal,1,0,404
+22300036,538,PT07M03.00S,4,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,83,97,180,v,SUB: Reddish FOR Prince,Substitution,,0,0,405
+22300036,539,PT07M03.00S,4,1610612747,LAL,1626174,Wood,C. Wood,0,0,0,,0,83,97,180,v,SUB: Davis FOR Wood,Substitution,,0,0,406
+22300036,542,PT07M00.00S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,83,97,180,h,Grant Bad Pass Turnover (P1.T17),Turnover,Bad Pass,1,0,407
+22300036,542,PT07M00.00S,4,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,83,97,180,v,Reddish STEAL (2 STL),,,1,0,408
+22300036,544,PT06M56.00S,4,1610612747,LAL,1629629,Reddish,C. Reddish,6,15,2,Made,1,83,99,182,v,Reddish 2' Running Reverse Layup (8 PTS),Made Shot,Running Reverse Layup Shot,1,2,409
+22300036,545,PT06M56.00S,4,0,,1610612757,,,0,0,0,,0,83,99,182,h,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,410
+22300036,546,PT06M56.00S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,83,99,182,h,SUB: Camara FOR Thybulle,Substitution,,0,0,411
+22300036,547,PT06M56.00S,4,1610612757,POR,1631303,Minaya,J. Minaya,0,0,0,,0,83,99,182,h,SUB: Mays FOR Minaya,Substitution,,0,0,412
+22300036,550,PT06M39.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,5,22,2,Missed,1,83,99,182,h,MISS Sharpe 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,413
+22300036,551,PT06M39.00S,4,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,83,99,182,h,Ayton REBOUND (Off:6 Def:4),Rebound,Unknown,1,0,414
+22300036,552,PT06M39.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,83,99,182,v,Davis S.FOUL (P5.T4) (J.Tiven),Foul,Shooting,1,0,415
+22300036,554,PT06M39.00S,4,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,83,99,182,h,MISS Ayton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,416
+22300036,555,PT06M39.00S,4,0,,1610612757,,,0,0,0,,0,83,99,182,h,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,0,0,417
+22300036,556,PT06M39.00S,4,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,84,99,183,h,Ayton Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,418
+22300036,557,PT06M19.00S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,84,99,183,h,TRAIL BLAZERS T.Foul (Def. 3 Sec Camara ) (S.Twardoski),Foul,Defense 3 Second,1,0,419
+22300036,558,PT06M19.00S,4,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,84,99,183,v,MISS Russell Free Throw Technical,Free Throw,Free Throw Technical,1,0,420
+22300036,559,PT06M19.00S,4,0,,1610612747,,,0,0,0,,0,84,99,183,v,Lakers Rebound,Rebound,Normal Rebound,0,0,421
+22300036,560,PT06M09.00S,4,1610612747,LAL,1626156,Russell,D. Russell,-34,102,11,Missed,1,84,99,183,v,MISS Russell 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,422
+22300036,561,PT06M09.00S,4,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,84,99,183,v,Russell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,423
+22300036,562,PT06M09.00S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,84,99,183,h,Camara P.FOUL (P2.T1) (J.Sterling),Foul,Personal,1,0,424
+22300036,564,PT06M02.00S,4,1610612747,LAL,2544,James,L. James,62,144,16,Missed,1,84,99,183,v,MISS James 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,425
+22300036,565,PT05M57.00S,4,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,84,99,183,h,Mays REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,426
+22300036,566,PT05M54.00S,4,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,84,99,183,h,Ayton Lost Ball Turnover (P3.T18),Turnover,Lost Ball,1,0,427
+22300036,566,PT05M54.00S,4,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,84,99,183,v,Reddish STEAL (3 STL),,,1,0,428
+22300036,568,PT05M51.00S,4,1610612747,LAL,2544,James,L. James,5,29,3,Made,1,84,101,185,v,James 3' Cutting Layup Shot (33 PTS) (Russell 6 AST),Made Shot,Cutting Layup Shot,1,2,429
+22300036,570,PT05M32.00S,4,1610612757,POR,1641739,Camara,T. Camara,-69,255,26,Made,1,87,101,188,h,Camara 26' 3PT Jump Shot (7 PTS) (Mays 8 AST),Made Shot,Jump Shot,1,3,430
+22300036,572,PT05M13.00S,4,1610612747,LAL,203076,Davis,A. Davis,48,48,7,Missed,1,87,101,188,v,MISS Davis 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,431
+22300036,572,PT05M13.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,87,101,188,h,Sharpe BLOCK (1 BLK),,,1,2,432
+22300036,574,PT05M11.00S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,87,101,188,h,Camara REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,433
+22300036,575,PT05M07.00S,4,1610612757,POR,203924,Grant,J. Grant,235,90,25,Missed,1,87,101,188,h,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,434
+22300036,576,PT05M04.00S,4,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,87,101,188,h,Ayton REBOUND (Off:7 Def:4),Rebound,Unknown,1,0,435
+22300036,577,PT05M04.00S,4,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,87,101,188,h,Ayton Step Out of Bounds Turnover (P4.T19),Turnover,Step Out of Bounds Turnover,1,0,436
+22300036,578,PT04M52.00S,4,1610612747,LAL,203076,Davis,A. Davis,34,122,13,Missed,1,87,101,188,v,MISS Davis 13' Jump Shot,Missed Shot,Jump Shot,1,2,437
+22300036,579,PT04M50.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,87,101,188,h,Sharpe REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,438
+22300036,580,PT04M44.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,87,101,188,v,Hachimura Violation:Kicked Ball (J.Sterling),Violation,Kicked Ball,0,0,439
+22300036,581,PT04M44.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,87,101,188,v,SUB: Prince FOR Hachimura,Substitution,,0,0,440
+22300036,583,PT04M37.00S,4,1610612757,POR,1641739,Camara,T. Camara,-75,253,26,Missed,1,87,101,188,h,MISS Camara 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,441
+22300036,584,PT04M33.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,87,101,188,v,Davis REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,442
+22300036,585,PT04M18.00S,4,1610612747,LAL,2544,James,L. James,-91,100,14,Missed,1,87,101,188,v,MISS James 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,443
+22300036,586,PT04M14.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,87,101,188,v,Davis REBOUND (Off:4 Def:10),Rebound,Unknown,1,0,444
+22300036,587,PT04M14.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,Missed,1,87,101,188,v,MISS Davis Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,445
+22300036,588,PT04M13.00S,4,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,87,101,188,h,Ayton REBOUND (Off:7 Def:5),Rebound,Unknown,1,0,446
+22300036,589,PT04M13.00S,4,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,87,101,188,v,Prince P.FOUL (P5.PN) (J.Tiven),Foul,Personal,1,0,447
+22300036,591,PT04M13.00S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,87,101,188,h,MISS Camara Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,448
+22300036,592,PT04M13.00S,4,0,,1610612757,,,0,0,0,,0,87,101,188,h,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,0,0,449
+22300036,593,PT04M13.00S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,88,101,189,h,Camara Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,450
+22300036,594,PT03M59.00S,4,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,88,101,189,v,Russell Step Out of Bounds Turnover (P3.T15),Turnover,Step Out of Bounds Turnover,1,0,451
+22300036,595,PT03M51.00S,4,1610612757,POR,1630219,Mays,S. Mays,-71,234,24,Missed,1,88,101,189,h,MISS Mays 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,452
+22300036,596,PT03M48.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,88,101,189,v,James REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,453
+22300036,597,PT03M41.00S,4,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,88,101,189,h,Ayton S.FOUL (P3.T2) (S.Twardoski),Foul,Shooting,1,0,454
+22300036,599,PT03M41.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,88,102,190,v,James Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,1,0,455
+22300036,600,PT03M41.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,88,103,191,v,James Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,1,0,456
+22300036,601,PT03M31.00S,4,1610612757,POR,203924,Grant,J. Grant,77,155,17,Made,1,90,103,193,h,Grant 17' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,1,2,457
+22300036,602,PT03M23.00S,4,0,,1610612747,,,0,0,0,,0,90,103,193,v,Lakers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,458
+22300036,603,PT03M23.00S,4,1610612757,POR,1630219,Mays,S. Mays,0,0,0,,0,90,103,193,h,SUB: Thybulle FOR Mays,Substitution,,0,0,459
+22300036,605,PT03M16.00S,4,1610612747,LAL,203076,Davis,A. Davis,49,128,14,Made,1,90,105,195,v,Davis 14' Jump Shot (14 PTS) (James 8 AST),Made Shot,Jump Shot,1,2,460
+22300036,607,PT03M04.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,223,99,24,Made,1,93,105,198,h,Sharpe 24' 3PT Jump Shot (17 PTS) (Grant 3 AST),Made Shot,Jump Shot,1,3,461
+22300036,609,PT02M41.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,93,105,198,v,Davis Bad Pass Turnover (P6.T16),Turnover,Bad Pass,1,0,462
+22300036,609,PT02M41.00S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,93,105,198,h,Thybulle STEAL (2 STL),,,1,0,463
+22300036,611,PT02M36.00S,4,1610612757,POR,1641739,Camara,T. Camara,5,15,2,Made,1,95,105,200,h,Camara 2' Running Finger Roll Layup (10 PTS) (Thybulle 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,464
+22300036,613,PT02M17.00S,4,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,95,105,200,v,Russell Out of Bounds - Bad Pass Turnover Turnover (P4.T17),Turnover,Out of Bounds - Bad Pass Turnover,1,0,465
+22300036,614,PT02M02.00S,4,1610612757,POR,203924,Grant,J. Grant,-36,247,25,Missed,1,95,105,200,h,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,466
+22300036,615,PT02M01.00S,4,0,,1610612747,,,0,0,0,,0,95,105,200,v,Lakers Rebound,Rebound,Unknown,1,0,467
+22300036,616,PT02M01.00S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,95,105,200,h,Camara L.B.FOUL (P3.T3) (S.Twardoski),Foul,Loose Ball,1,0,468
+22300036,618,PT01M42.00S,4,1610612747,LAL,203076,Davis,A. Davis,1,218,22,Made,1,95,107,202,v,Davis 22' Jump Shot (16 PTS) (James 9 AST),Made Shot,Jump Shot,1,2,469
+22300036,620,PT01M30.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,-53,93,11,Missed,1,95,107,202,h,MISS Sharpe 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,470
+22300036,620,PT01M30.00S,4,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,95,107,202,v,Reddish BLOCK (1 BLK),,,1,2,471
+22300036,622,PT01M26.00S,4,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,95,107,202,v,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,472
+22300036,623,PT01M11.00S,4,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,95,107,202,h,Ayton P.FOUL (P4.T4) (S.Twardoski),Foul,Personal,1,0,473
+22300036,625,PT01M11.00S,4,1610612757,POR,1629028,Ayton,D. Ayton,0,0,0,,0,95,107,202,h,SUB: Reath FOR Ayton,Substitution,,0,0,474
+22300036,626,PT01M11.00S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,95,107,202,h,SUB: Minaya FOR Grant,Substitution,,0,0,475
+22300036,627,PT01M11.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,95,107,202,h,SUB: Murray FOR Sharpe,Substitution,,0,0,476
+22300036,628,PT01M11.00S,4,1610612757,POR,1641739,Camara,T. Camara,0,0,0,,0,95,107,202,h,SUB: Bouyea FOR Camara,Substitution,,0,0,477
+22300036,629,PT01M11.00S,4,1610612757,POR,1629680,Thybulle,M. Thybulle,0,0,0,,0,95,107,202,h,SUB: Walker FOR Thybulle,Substitution,,0,0,478
+22300036,630,PT01M11.00S,4,1610612747,LAL,1626156,Russell,D. Russell,0,0,0,,0,95,107,202,v,SUB: Hayes FOR Russell,Substitution,,0,0,479
+22300036,631,PT01M11.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,95,107,202,v,SUB: Christie FOR Davis,Substitution,,0,0,480
+22300036,632,PT01M11.00S,4,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,95,107,202,v,SUB: Wood FOR Reddish,Substitution,,0,0,481
+22300036,633,PT01M11.00S,4,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,95,107,202,v,SUB: Lewis FOR Prince,Substitution,,0,0,482
+22300036,634,PT01M11.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,95,107,202,v,SUB: Hachimura FOR James,Substitution,,0,0,483
+22300036,645,PT01M00.00S,4,1610612747,LAL,1631108,Christie,M. Christie,22,44,5,Missed,1,95,107,202,v,MISS Christie 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,484
+22300036,646,PT00M57.10S,4,1610612757,POR,1641871,Reath,D. Reath,0,0,0,,0,95,107,202,h,Reath REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,485
+22300036,647,PT00M49.70S,4,1610612757,POR,1631200,Murray,K. Murray,158,215,27,Missed,1,95,107,202,h,MISS Murray 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,486
+22300036,648,PT00M46.90S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,95,107,202,v,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,487
+22300036,649,PT00M35.40S,4,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,95,107,202,v,Christie Bad Pass Turnover (P1.T18),Turnover,Bad Pass,1,0,488
+22300036,649,PT00M35.40S,4,1610612757,POR,1631200,Murray,K. Murray,0,0,0,,0,95,107,202,h,Murray STEAL (1 STL),,,1,0,489
+22300036,652,PT00M24.50S,4,1610612757,POR,1641871,Reath,D. Reath,190,161,25,Missed,1,95,107,202,h,MISS Reath 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,490
+22300036,653,PT00M22.00S,4,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,95,107,202,v,Christie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,491
+22300036,654,PT00M00.00S,4,0,,0,,,0,0,0,,0,95,107,202,,End of 4th Period (12:21 AM EST),period,end,1,0,492

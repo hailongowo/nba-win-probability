@@ -1,0 +1,491 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22400175,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+22400175,4,PT12M00.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,0,0,0,h,Jump Ball Missi vs. Allen: Tip to Mobley,Jump Ball,,1,0,2
+22400175,7,PT11M43.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-126,231,26,Made,1,0,3,3,v,Garland 26' 3PT Jump Shot (3 PTS) (Mobley 1 AST),Made Shot,Jump Shot,1,3,3
+22400175,9,PT11M21.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-93,-2,9,Missed,1,0,3,3,h,MISS Ingram 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,4
+22400175,9,PT11M21.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,0,3,3,v,Mobley BLOCK (1 BLK),,,1,2,5
+22400175,11,PT11M21.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,0,3,3,v,Okoro REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+22400175,12,PT11M13.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,-157,202,26,Made,1,0,6,6,v,Mitchell 26' 3PT Running Jump Shot (3 PTS) (Okoro 1 AST),Made Shot,Running Jump Shot,1,3,7
+22400175,14,PT10M55.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,22,5,2,Missed,1,0,6,6,h,MISS Missi 2' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,1,2,8
+22400175,15,PT10M53.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,0,6,6,v,Allen REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+22400175,16,PT10M49.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-16,6,2,Made,1,0,8,8,v,Allen 2' Running Layup (2 PTS) (Garland 1 AST),Made Shot,Running Layup Shot,1,2,10
+22400175,18,PT10M28.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,0,8,8,v,Allen S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,1,0,11
+22400175,20,PT10M28.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,1,8,9,h,Williamson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,12
+22400175,21,PT10M28.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,2,8,10,h,Williamson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,13
+22400175,22,PT10M20.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,2,8,10,v,Garland Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,14
+22400175,22,PT10M20.00S,1,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,2,8,10,h,Alvarado STEAL (1 STL),,,1,0,15
+22400175,24,PT10M15.00S,1,1610612740,NOP,1630527,Boston,B. Boston,-5,-5,1,Made,1,4,8,12,h,Boston Jr. 1' Running Dunk (2 PTS) (Alvarado 1 AST),Made Shot,Running Dunk Shot,1,2,16
+22400175,26,PT10M01.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,4,8,12,h,Missi S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,1,0,17
+22400175,28,PT10M01.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,4,9,13,v,Mobley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,18
+22400175,29,PT10M01.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,4,9,13,v,MISS Mobley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,19
+22400175,30,PT09M57.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,4,9,13,h,Williamson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+22400175,31,PT09M48.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,-15,0,2,Made,1,6,9,15,h,Williamson 2' Driving Layup (4 PTS) (Alvarado 2 AST),Made Shot,Driving Layup Shot,1,2,21
+22400175,33,PT09M37.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,6,9,15,v,Mobley Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,22
+22400175,33,PT09M37.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,6,9,15,h,Ingram STEAL (1 STL),,,1,0,23
+22400175,35,PT09M27.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-115,229,26,Missed,1,6,9,15,h,MISS Ingram 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,24
+22400175,36,PT09M25.00S,1,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,6,9,15,h,Boston Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,25
+22400175,37,PT09M24.00S,1,1610612740,NOP,1630527,Boston,B. Boston,20,9,2,Missed,1,6,9,15,h,MISS Boston Jr. 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,26
+22400175,38,PT09M23.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,6,9,15,h,Missi REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,27
+22400175,40,PT09M09.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-38,290,29,Missed,1,6,9,15,h,MISS Ingram 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,28
+22400175,41,PT09M07.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,6,9,15,v,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,29
+22400175,42,PT09M03.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,13,6,1,Made,1,6,11,17,v,Mitchell 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,30
+22400175,43,PT08M44.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,6,11,17,v,Allen S.FOUL (P2.T2) (S.Twardoski),Foul,Shooting,1,0,31
+22400175,45,PT08M44.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,7,11,18,h,Missi Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,32
+22400175,46,PT08M44.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,8,11,19,h,Missi Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,33
+22400175,47,PT08M34.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,12,263,26,Missed,1,8,11,19,v,MISS Mitchell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,34
+22400175,48,PT08M31.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,8,11,19,h,Ingram REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,35
+22400175,50,PT08M29.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,8,11,19,v,SUB: Niang FOR Allen,Substitution,,0,0,36
+22400175,52,PT08M22.00S,1,1610612740,NOP,1630631,Alvarado,J. Alvarado,146,221,26,Made,1,11,11,22,h,Alvarado 26' 3PT Jump Shot (3 PTS) (Ingram 1 AST),Made Shot,Jump Shot,1,3,37
+22400175,54,PT08M08.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,77,236,25,Made,1,11,14,25,v,Okoro 25' 3PT Jump Shot (3 PTS) (Garland 2 AST),Made Shot,Jump Shot,1,3,38
+22400175,56,PT07M53.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,-16,0,2,Made,1,13,14,27,h,Missi 2' Cutting Layup Shot (4 PTS) (Williamson 1 AST),Made Shot,Cutting Layup Shot,1,2,39
+22400175,58,PT07M42.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,4,34,3,Missed,1,13,14,27,v,MISS Mobley 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,40
+22400175,58,PT07M42.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,13,14,27,h,Missi BLOCK (1 BLK),,,1,2,41
+22400175,60,PT07M40.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,13,14,27,h,Ingram REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,42
+22400175,61,PT07M20.00S,1,1610612740,NOP,1630631,Alvarado,J. Alvarado,-85,225,24,Made,1,16,14,30,h,Alvarado 24' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,43
+22400175,62,PT07M19.00S,1,0,,1610612739,,,0,0,0,,0,16,14,30,v,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,44
+22400175,63,PT07M19.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,16,14,30,h,SUB: Robinson-Earl FOR Williamson,Substitution,,0,0,45
+22400175,64,PT07M19.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,16,14,30,v,SUB: LeVert FOR Mitchell,Substitution,,0,0,46
+22400175,67,PT07M06.00S,1,1610612739,CLE,1627777,Niang,G. Niang,167,180,25,Made,1,16,17,33,v,Niang 25' 3PT Jump Shot (3 PTS) (Mobley 2 AST),Made Shot,Jump Shot,1,3,47
+22400175,69,PT06M47.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,-2,13,1,Missed,1,16,17,33,h,MISS Missi 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,48
+22400175,69,PT06M47.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,16,17,33,v,Mobley BLOCK (2 BLK),,,1,2,49
+22400175,71,PT06M45.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,16,17,33,h,Missi REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,50
+22400175,72,PT06M44.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,-6,26,3,Made,1,18,17,35,h,Missi 3' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,51
+22400175,73,PT06M28.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,-12,16,2,Made,1,18,19,37,v,Mobley 2' Driving Layup (3 PTS),Made Shot,Driving Layup Shot,1,2,52
+22400175,74,PT06M10.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,105,120,16,Made,1,20,19,39,h,Ingram 16' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,53
+22400175,75,PT05M58.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,13,20,2,Missed,1,20,19,39,v,MISS Mobley 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,54
+22400175,75,PT05M58.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,20,19,39,h,Missi BLOCK (2 BLK),,,1,2,55
+22400175,77,PT05M55.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,20,19,39,h,Ingram REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,56
+22400175,78,PT05M47.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,-16,80,8,Made,1,22,19,41,h,Ingram 8' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,2,57
+22400175,79,PT05M32.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-4,267,27,Missed,1,22,19,41,v,MISS Garland 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,58
+22400175,80,PT05M30.00S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,22,19,41,h,Robinson-Earl REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+22400175,81,PT05M19.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,18,-6,2,Made,1,24,19,43,h,Missi 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,60
+22400175,82,PT05M19.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,24,19,43,v,Mobley S.FOUL (P1.T3) (I.Hwang),Foul,Shooting,1,0,61
+22400175,84,PT05M19.00S,1,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,24,19,43,h,SUB: Green FOR Boston Jr.,Substitution,,0,0,62
+22400175,85,PT05M19.00S,1,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,24,19,43,v,SUB: Allen FOR Mobley,Substitution,,0,0,63
+22400175,92,PT05M19.00S,1,0,,1610612740,,,0,0,0,,0,24,19,43,h,PELICANS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,64
+22400175,88,PT05M19.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,24,19,43,h,MISS Missi Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,65
+22400175,89,PT05M17.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,24,19,43,v,Okoro REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,66
+22400175,90,PT05M09.00S,1,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,24,19,43,h,Alvarado P.FOUL (P1.T2) (S.Twardoski),Foul,Personal,1,0,67
+22400175,93,PT04M56.00S,1,1610612739,CLE,1628386,Allen,J. Allen,-39,73,8,Missed,1,24,19,43,v,MISS Allen 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,68
+22400175,94,PT04M54.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,24,19,43,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+22400175,95,PT04M36.00S,1,1610612740,NOP,1630631,Alvarado,J. Alvarado,53,8,5,Made,1,26,19,45,h,Alvarado 5' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,70
+22400175,96,PT04M24.00S,1,1610612739,CLE,1629636,Garland,D. Garland,-15,5,2,Missed,1,26,19,45,v,MISS Garland 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,71
+22400175,97,PT04M22.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,26,19,45,v,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,72
+22400175,98,PT04M21.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,Missed,1,26,19,45,v,MISS Allen Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,73
+22400175,99,PT04M20.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,26,19,45,h,Missi REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,74
+22400175,100,PT04M12.00S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,26,19,45,v,Niang P.FOUL (P1.T4) (I.Hwang),Foul,Personal,1,0,75
+22400175,102,PT04M12.00S,1,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,26,19,45,h,SUB: Williamson FOR Missi,Substitution,,0,0,76
+22400175,103,PT04M12.00S,1,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,26,19,45,v,SUB: Merrill FOR Okoro,Substitution,,0,0,77
+22400175,106,PT04M05.00S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,10,19,2,Missed,1,26,19,45,h,MISS Robinson-Earl 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,78
+22400175,107,PT04M03.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,26,19,45,v,LeVert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+22400175,108,PT03M55.00S,1,1610612739,CLE,1629636,Garland,D. Garland,141,2,14,Missed,1,26,19,45,v,MISS Garland 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,80
+22400175,109,PT03M52.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,26,19,45,h,Williamson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,81
+22400175,110,PT03M44.00S,1,1610612740,NOP,1630631,Alvarado,J. Alvarado,24,33,4,Missed,1,26,19,45,h,MISS Alvarado 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,82
+22400175,111,PT03M41.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,26,19,45,v,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,83
+22400175,112,PT03M32.00S,1,1610612739,CLE,1627777,Niang,G. Niang,31,10,3,Made,1,26,21,47,v,Niang 3' Driving Layup (5 PTS) (Garland 3 AST),Made Shot,Driving Layup Shot,1,2,84
+22400175,113,PT03M21.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,11,4,1,Missed,1,26,21,47,h,MISS Williamson 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,85
+22400175,114,PT03M19.00S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,26,21,47,v,Allen REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,86
+22400175,115,PT03M08.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,26,21,47,v,Merrill Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,87
+22400175,115,PT03M08.00S,1,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,26,21,47,h,Green STEAL (1 STL),,,1,0,88
+22400175,117,PT03M04.00S,1,1610612740,NOP,1629750,Green,J. Green,-4,-1,0,Made,1,28,21,49,h,Green Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,89
+22400175,118,PT02M41.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,-12,15,2,Missed,1,28,21,49,v,MISS LeVert 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,90
+22400175,119,PT02M38.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,28,21,49,h,Ingram REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,91
+22400175,120,PT02M33.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,104,239,26,Missed,1,28,21,49,h,MISS Ingram 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,92
+22400175,121,PT02M32.00S,1,0,,1610612740,,,0,0,0,,0,28,21,49,h,PELICANS Rebound,Rebound,Unknown,1,0,93
+22400175,122,PT02M32.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,28,21,49,v,Merrill L.B.FOUL (P1.PN) (J.Tiven),Foul,Loose Ball,1,0,94
+22400175,124,PT02M32.00S,1,0,,1610612740,,,0,0,0,,0,28,21,49,h,PELICANS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,95
+22400175,126,PT02M32.00S,1,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,28,21,49,h,SUB: Hawkins FOR Ingram,Substitution,,0,0,96
+22400175,127,PT02M32.00S,1,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,28,21,49,h,SUB: Boston Jr. FOR Alvarado,Substitution,,0,0,97
+22400175,128,PT02M32.00S,1,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,28,21,49,v,SUB: Mitchell FOR Garland,Substitution,,0,0,98
+22400175,132,PT02M32.00S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,29,21,50,h,Robinson-Earl Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,99
+22400175,133,PT02M32.00S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,30,21,51,h,Robinson-Earl Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,100
+22400175,134,PT02M20.00S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,218,133,26,Missed,1,30,21,51,v,MISS Mitchell 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+22400175,135,PT02M18.00S,1,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,30,21,51,h,Hawkins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+22400175,136,PT02M09.00S,1,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,229,6,0,Missed,1,30,21,51,h,MISS Robinson-Earl 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+22400175,137,PT02M07.00S,1,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,30,21,51,v,Niang REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+22400175,138,PT01M48.00S,1,1610612739,CLE,1630241,Merrill,S. Merrill,-199,176,27,Missed,1,30,21,51,v,MISS Merrill 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,105
+22400175,139,PT01M46.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,30,21,51,h,Williamson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,106
+22400175,140,PT01M39.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,21,0,2,Made,1,32,21,53,h,Williamson 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,107
+22400175,141,PT01M22.00S,1,1610612739,CLE,1628386,Allen,J. Allen,7,5,1,Made,1,32,23,55,v,Allen 1' Cutting Dunk Shot (4 PTS) (LeVert 1 AST),Made Shot,Cutting Dunk Shot,1,2,108
+22400175,143,PT01M06.00S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,32,23,55,h,Williamson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,109
+22400175,143,PT01M06.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,32,23,55,v,LeVert STEAL (1 STL),,,1,0,110
+22400175,145,PT01M00.00S,1,1610612739,CLE,1627747,LeVert,C. LeVert,-7,27,3,Made,1,32,25,57,v,LeVert 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,111
+22400175,146,PT00M42.50S,1,1610612740,NOP,1629750,Green,J. Green,7,95,10,Made,1,34,25,59,h,Green 10' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,112
+22400175,148,PT00M31.80S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,-67,211,22,Made,1,34,27,61,v,Mitchell 22' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,2,113
+22400175,149,PT00M06.80S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,21,120,12,Missed,1,34,27,61,h,MISS Williamson 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,114
+22400175,150,PT00M05.80S,1,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,34,27,61,v,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,115
+22400175,151,PT00M01.40S,1,1610612739,CLE,1627747,LeVert,C. LeVert,11,6,1,Made,1,34,29,63,v,LeVert 1' Reverse Layup (4 PTS) (Mitchell 1 AST),Made Shot,Reverse Layup Shot,1,2,116
+22400175,153,PT00M01.20S,1,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,34,29,63,h,Williamson Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,117
+22400175,153,PT00M01.20S,1,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,34,29,63,v,Allen STEAL (1 STL),,,1,0,118
+22400175,155,PT00M00.30S,1,1610612739,CLE,1628386,Allen,J. Allen,78,84,11,Missed,1,34,29,63,v,MISS Allen 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,119
+22400175,156,PT00M00.10S,1,0,,1610612739,,,0,0,0,,0,34,29,63,v,Cavaliers Rebound,Rebound,Unknown,1,0,120
+22400175,157,PT00M00.00S,1,0,,0,,,0,0,0,,0,34,29,63,,End of 1st Period (8:35 PM EST),period,end,1,0,121
+22400175,165,PT12M00.00S,2,0,,0,,,0,0,0,,0,34,29,63,,Start of 2nd Period (8:37 PM EST),period,start,0,0,122
+22400175,166,PT11M45.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,142,126,19,Missed,1,34,29,63,h,MISS Hawkins 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,123
+22400175,167,PT11M41.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,34,29,63,v,Merrill REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,124
+22400175,168,PT11M37.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,-4,29,3,Missed,1,34,29,63,v,MISS Mobley 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,125
+22400175,168,PT11M37.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,34,29,63,h,Hawkins BLOCK (1 BLK),,,1,2,126
+22400175,170,PT11M35.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,34,29,63,h,Robinson-Earl REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,127
+22400175,171,PT11M25.00S,2,1610612740,NOP,1629750,Green,J. Green,229,13,0,Made,1,37,29,66,h,Green 3PT Jump Shot (7 PTS) (Hawkins 1 AST),Made Shot,Jump Shot,1,3,128
+22400175,173,PT11M13.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,37,29,66,h,Williamson P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,1,0,129
+22400175,175,PT11M13.00S,2,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,37,29,66,h,SUB: Ingram FOR Williamson,Substitution,,0,0,130
+22400175,177,PT11M07.00S,2,1610612739,CLE,1627777,Niang,G. Niang,228,-10,0,Missed,1,37,29,66,v,MISS Niang 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+22400175,178,PT11M04.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,37,29,66,h,Robinson-Earl REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,132
+22400175,179,PT10M52.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,37,29,66,v,Jerome P.FOUL (P1.T1) (J.Tiven),Foul,Personal,1,0,133
+22400175,181,PT10M41.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,102,124,16,Missed,1,37,29,66,h,MISS Ingram 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,134
+22400175,182,PT10M38.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,37,29,66,v,Mitchell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,135
+22400175,183,PT10M34.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,54,256,26,Missed,1,37,29,66,v,MISS Merrill 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+22400175,184,PT10M32.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,37,29,66,v,Mobley REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,137
+22400175,185,PT10M30.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,Missed,1,37,29,66,v,MISS Mobley Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,138
+22400175,186,PT10M29.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,37,29,66,h,Alvarado REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,139
+22400175,188,PT10M24.00S,2,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,37,29,66,v,SUB: Porter Jr. FOR Merrill,Substitution,,0,0,140
+22400175,213,PT10M13.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,-34,43,5,Missed,1,37,29,66,h,MISS Hawkins 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,141
+22400175,213,PT10M13.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,37,29,66,v,Porter Jr. BLOCK (1 BLK),,,1,2,142
+22400175,215,PT10M11.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,37,29,66,v,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,143
+22400175,192,PT10M06.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,21,16,3,Missed,1,37,29,66,v,MISS Porter Jr. 3' Running Layup,Missed Shot,Running Layup Shot,1,2,144
+22400175,192,PT10M06.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,37,29,66,h,Ingram BLOCK (1 BLK),,,1,2,145
+22400175,194,PT10M05.00S,2,0,,1610612740,,,0,0,0,,0,37,29,66,h,PELICANS Rebound,Rebound,Unknown,0,0,146
+22400175,196,PT09M42.00S,2,1610612740,NOP,1629750,Green,J. Green,234,8,0,Missed,1,37,29,66,h,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,3,147
+22400175,197,PT09M40.00S,2,0,,1610612740,,,0,0,0,,0,37,29,66,h,PELICANS Rebound,Rebound,Unknown,1,0,148
+22400175,198,PT09M40.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,37,29,66,v,Porter Jr. L.B.FOUL (P1.T2) (J.Tiven),Foul,Loose Ball,1,0,149
+22400175,200,PT09M29.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-76,162,18,Missed,1,37,29,66,h,MISS Ingram 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,150
+22400175,201,PT09M26.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,37,29,66,v,Mobley REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,151
+22400175,202,PT09M20.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,5,10,1,Made,1,37,31,68,v,Mobley 1' Alley Oop Dunk (5 PTS) (Niang 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,152
+22400175,204,PT09M07.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,145,210,26,Missed,1,37,31,68,h,MISS Hawkins 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,153
+22400175,205,PT09M04.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,37,31,68,v,Mobley REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,154
+22400175,206,PT08M49.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,-37,17,4,Missed,1,37,31,68,v,MISS Mobley 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,155
+22400175,207,PT08M46.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,37,31,68,h,Hawkins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,156
+22400175,208,PT08M42.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,37,31,68,h,Hawkins Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,157
+22400175,208,PT08M42.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,37,31,68,v,Mitchell STEAL (1 STL),,,1,0,158
+22400175,210,PT08M36.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-17,8,2,Made,1,37,33,70,v,Porter Jr. 2' Reverse Layup (2 PTS) (Jerome 1 AST),Made Shot,Reverse Layup Shot,1,2,159
+22400175,212,PT08M36.00S,2,0,,1610612740,,,0,0,0,,0,37,33,70,h,PELICANS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,160
+22400175,216,PT08M36.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,37,33,70,h,SUB: Theis FOR Hawkins,Substitution,,0,0,161
+22400175,217,PT08M36.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,37,33,70,h,SUB: Boston Jr. FOR Robinson-Earl,Substitution,,0,0,162
+22400175,218,PT08M36.00S,2,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,37,33,70,v,SUB: Okoro FOR Niang,Substitution,,0,0,163
+22400175,222,PT08M24.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-17,4,2,Made,1,39,33,72,h,Ingram 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,164
+22400175,223,PT08M15.00S,2,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,39,33,72,h,Theis S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,1,0,165
+22400175,225,PT08M15.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,39,34,73,v,Mitchell Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,166
+22400175,226,PT08M15.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,39,35,74,v,Mitchell Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,167
+22400175,227,PT07M53.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,39,35,74,h,Alvarado Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,168
+22400175,227,PT07M53.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,39,35,74,v,Jerome STEAL (1 STL),,,1,0,169
+22400175,229,PT07M50.00S,2,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,39,35,74,h,Green S.FOUL (P1.T3) (I.Hwang),Foul,Shooting,1,0,170
+22400175,231,PT07M50.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,39,35,74,v,MISS Jerome Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,171
+22400175,232,PT07M50.00S,2,0,,1610612739,,,0,0,0,,0,39,35,74,v,Cavaliers Rebound,Rebound,Normal Rebound,0,0,172
+22400175,233,PT07M50.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,39,36,75,v,Jerome Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,173
+22400175,234,PT07M26.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,-18,1,2,Made,1,41,36,77,h,Alvarado 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,174
+22400175,235,PT07M12.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,41,36,77,v,Mitchell Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,175
+22400175,235,PT07M12.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,41,36,77,h,Alvarado STEAL (2 STL),,,1,0,176
+22400175,237,PT06M56.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,141,42,15,Made,1,43,36,79,h,Ingram 15' Turnaround Jump Shot (8 PTS) (Alvarado 3 AST),Made Shot,Turnaround Jump Shot,1,2,177
+22400175,240,PT06M47.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,43,36,79,v,SUB: Garland FOR Mitchell,Substitution,,0,0,178
+22400175,242,PT06M39.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,43,36,79,v,Porter Jr. Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,179
+22400175,242,PT06M39.00S,2,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,43,36,79,h,Green STEAL (2 STL),,,1,0,180
+22400175,244,PT06M35.00S,2,1610612740,NOP,1629750,Green,J. Green,4,14,1,Made,1,45,36,81,h,Green 1' Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,181
+22400175,245,PT06M32.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,45,36,81,v,Jerome Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,182
+22400175,245,PT06M32.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,45,36,81,h,Alvarado STEAL (3 STL),,,1,0,183
+22400175,247,PT06M29.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,4,253,25,Made,1,48,36,84,h,Alvarado 25' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,3,184
+22400175,248,PT06M11.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,-2,256,26,Made,1,48,39,87,v,Porter Jr. 26' 3PT Jump Shot (5 PTS) (Garland 4 AST),Made Shot,Jump Shot,1,3,185
+22400175,250,PT05M52.00S,2,1610612740,NOP,1628464,Theis,D. Theis,39,143,15,Missed,1,48,39,87,h,MISS Theis 15' Jump Shot,Missed Shot,Jump Shot,1,2,186
+22400175,251,PT05M49.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,48,39,87,v,Mobley REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,187
+22400175,252,PT05M43.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,39,269,27,Made,1,48,42,90,v,Jerome 27' 3PT Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,3,188
+22400175,282,PT05M22.00S,2,1610612740,NOP,1630527,Boston,B. Boston,-9,40,4,Missed,1,48,42,90,h,MISS Boston Jr. 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,189
+22400175,282,PT05M22.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,48,42,90,v,Porter Jr. BLOCK (2 BLK),,,1,2,190
+22400175,284,PT05M22.00S,2,0,,1610612739,,,0,0,0,,0,48,42,90,v,Cavaliers Rebound,Rebound,Unknown,1,0,191
+22400175,255,PT05M22.00S,2,0,,1610612739,,,0,0,0,,0,48,42,90,v,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,192
+22400175,256,PT05M22.00S,2,0,,253,,,0,0,0,,0,48,42,90,,Instant Replay2nd Period (8:53 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,193
+22400175,257,PT05M22.00S,2,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,48,42,90,h,SUB: Hawkins FOR Green,Substitution,,0,0,194
+22400175,258,PT05M22.00S,2,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,48,42,90,h,SUB: Robinson-Earl FOR Alvarado,Substitution,,0,0,195
+22400175,259,PT05M22.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,48,42,90,v,SUB: Allen FOR Mobley,Substitution,,0,0,196
+22400175,263,PT05M11.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,48,42,90,h,Robinson-Earl S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,1,0,197
+22400175,265,PT05M11.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,48,43,91,v,Allen Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,198
+22400175,266,PT05M11.00S,2,1610612739,CLE,1641854,Porter Jr.,C. Porter Jr.,0,0,0,,0,48,43,91,v,SUB: LeVert FOR Porter Jr.,Substitution,,0,0,199
+22400175,268,PT05M11.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,48,44,92,v,Allen Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,200
+22400175,269,PT04M57.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,-232,105,25,Missed,1,48,44,92,h,MISS Hawkins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,201
+22400175,270,PT04M54.00S,2,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,48,44,92,v,Allen REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,202
+22400175,271,PT04M38.00S,2,1610612739,CLE,1628386,Allen,J. Allen,31,63,7,Made,1,48,46,94,v,Allen 7' Hook Shot (8 PTS) (Jerome 2 AST),Made Shot,Hook Shot,1,2,203
+22400175,273,PT04M24.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,26,15,3,Made,1,50,46,96,h,Robinson-Earl 3' Driving Layup (4 PTS) (Ingram 2 AST),Made Shot,Driving Layup Shot,1,2,204
+22400175,275,PT04M11.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,-5,37,4,Made,1,50,48,98,v,Jerome 4' Driving Floating Jump Shot (6 PTS) (Allen 1 AST),Made Shot,Driving Floating Jump Shot,1,2,205
+22400175,276,PT03M42.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,228,4,0,Missed,1,50,48,98,h,MISS Ingram 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+22400175,277,PT03M42.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,50,48,98,v,LeVert REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,207
+22400175,278,PT03M36.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,-173,252,31,Made,1,50,51,101,v,Jerome 31' 3PT Running Jump Shot (9 PTS) (LeVert 2 AST),Made Shot,Running Jump Shot,1,3,208
+22400175,280,PT03M19.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,-86,141,17,Missed,1,50,51,101,h,MISS Hawkins 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,209
+22400175,281,PT03M17.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,50,51,101,v,Jerome REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,210
+22400175,285,PT03M05.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,-37,4,4,Made,1,50,53,103,v,Jerome 4' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,211
+22400175,286,PT02M46.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,50,53,103,v,Garland S.FOUL (P1.T3) (I.Hwang),Foul,Shooting,1,0,212
+22400175,288,PT02M46.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,51,53,104,h,Hawkins Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,213
+22400175,296,PT02M46.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,52,53,105,h,Hawkins Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,214
+22400175,290,PT02M46.00S,2,1610612740,NOP,1628464,Theis,D. Theis,0,0,0,,0,52,53,105,h,SUB: Alvarado FOR Theis,Substitution,,0,0,215
+22400175,291,PT02M46.00S,2,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,52,53,105,h,SUB: Missi FOR Robinson-Earl,Substitution,,0,0,216
+22400175,292,PT02M46.00S,2,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,52,53,105,v,SUB: Mitchell FOR Okoro,Substitution,,0,0,217
+22400175,297,PT02M35.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,-218,133,26,Missed,1,52,53,105,v,MISS LeVert 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+22400175,298,PT02M33.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,52,53,105,v,Jerome REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,219
+22400175,299,PT02M30.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,Missed,1,52,53,105,v,MISS Jerome Putback Layup,Missed Shot,Putback Layup Shot,1,2,220
+22400175,300,PT02M30.00S,2,0,,1610612740,,,0,0,0,,0,52,53,105,h,PELICANS Rebound,Rebound,Unknown,1,0,221
+22400175,302,PT02M30.00S,2,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,52,53,105,v,SUB: Mobley FOR Jerome,Substitution,,0,0,222
+22400175,304,PT02M15.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,52,53,105,v,Mobley S.FOUL (P2.T4) (I.Hwang),Foul,Shooting,1,0,223
+22400175,306,PT02M15.00S,2,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,53,53,106,h,Boston Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,224
+22400175,307,PT02M15.00S,2,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,54,53,107,h,Boston Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,225
+22400175,308,PT02M05.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,10,8,1,Made,1,54,55,109,v,Mobley 1' Cutting Layup Shot (7 PTS) (Garland 5 AST),Made Shot,Cutting Layup Shot,1,2,226
+22400175,310,PT02M05.00S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,54,55,109,h,Ingram S.FOUL (P1.PN) (I.Hwang),Foul,Shooting,1,0,227
+22400175,312,PT02M05.00S,2,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,54,55,109,v,MISS Mobley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,228
+22400175,313,PT02M02.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,54,55,109,h,Hawkins REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,229
+22400175,314,PT01M56.00S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,151,225,27,Made,1,57,55,112,h,Hawkins 27' 3PT Jump Shot (5 PTS) (Boston Jr. 1 AST),Made Shot,Jump Shot,1,3,230
+22400175,315,PT01M39.00S,2,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,57,55,112,v,Garland Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,231
+22400175,317,PT01M24.00S,2,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,57,55,112,h,Missi Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,1,0,232
+22400175,318,PT01M12.00S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,-153,230,28,Missed,1,57,55,112,v,MISS Mitchell 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,233
+22400175,319,PT01M09.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,57,55,112,v,LeVert REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,234
+22400175,320,PT01M07.00S,2,1610612739,CLE,1627747,LeVert,C. LeVert,-2,75,8,Made,1,57,57,114,v,LeVert 8' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,1,2,235
+22400175,321,PT00M50.40S,2,1610612740,NOP,1627742,Ingram,B. Ingram,-4,93,9,Made,1,59,57,116,h,Ingram 9' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,1,2,236
+22400175,322,PT00M33.20S,2,1610612739,CLE,1627747,LeVert,C. LeVert,-2,21,2,Made,1,59,59,118,v,LeVert 2' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,237
+22400175,323,PT00M13.90S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,59,59,118,h,Ingram OFF.Foul (P2) (J.Tiven),Foul,Offensive,1,0,238
+22400175,325,PT00M13.90S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,59,59,118,h,Ingram Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,239
+22400175,326,PT00M13.90S,2,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,59,59,118,h,SUB: Green FOR Ingram,Substitution,,0,0,240
+22400175,327,PT00M13.90S,2,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,59,59,118,h,SUB: Robinson-Earl FOR Hawkins,Substitution,,0,0,241
+22400175,330,PT00M01.50S,2,1610612739,CLE,1628378,Mitchell,D. Mitchell,99,137,17,Missed,1,59,59,118,v,MISS Mitchell 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,242
+22400175,331,PT00M01.10S,2,0,,1610612739,,,0,0,0,,0,59,59,118,v,Cavaliers Rebound,Rebound,Unknown,1,0,243
+22400175,332,PT00M00.00S,2,0,,0,,,0,0,0,,0,59,59,118,,End of 2nd Period (9:05 PM EST),period,end,1,0,244
+22400175,339,PT12M00.00S,3,0,,0,,,0,0,0,,0,59,59,118,,Start of 3rd Period (9:21 PM EST),period,start,0,0,245
+22400175,340,PT11M37.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,59,59,118,v,Mobley S.FOUL (P3.T1) (J.Tiven),Foul,Shooting,1,0,246
+22400175,342,PT11M37.00S,3,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,60,59,119,h,Boston Jr. Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,247
+22400175,343,PT11M37.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,60,59,119,v,SUB: Garland FOR LeVert,Substitution,,0,0,248
+22400175,345,PT11M37.00S,3,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,61,59,120,h,Boston Jr. Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,249
+22400175,346,PT11M27.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,5,82,8,Missed,1,61,59,120,v,MISS Mitchell 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,250
+22400175,347,PT11M24.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,61,59,120,v,Allen REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,251
+22400175,348,PT11M23.00S,3,1610612739,CLE,1628386,Allen,J. Allen,-4,-1,0,Made,1,61,61,122,v,Allen Putback Dunk (10 PTS),Made Shot,Putback Dunk Shot,1,2,252
+22400175,349,PT11M08.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-13,7,1,Made,1,63,61,124,h,Williamson 1' Driving Layup (8 PTS) (Alvarado 4 AST),Made Shot,Driving Layup Shot,1,2,253
+22400175,351,PT10M53.00S,3,1610612739,CLE,1629636,Garland,D. Garland,150,205,25,Missed,1,63,61,124,v,MISS Garland 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,254
+22400175,352,PT10M49.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,63,61,124,h,Ingram REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,255
+22400175,353,PT10M45.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,134,222,26,Missed,1,63,61,124,h,MISS Ingram 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,256
+22400175,354,PT10M44.00S,3,0,,1610612740,,,0,0,0,,0,63,61,124,h,PELICANS Rebound,Rebound,Unknown,1,0,257
+22400175,355,PT10M44.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,63,61,124,v,Mitchell L.B.FOUL (P1.T2) (I.Hwang),Foul,Loose Ball,1,0,258
+22400175,357,PT10M38.00S,3,1610612740,NOP,1642274,Missi,Y. Missi,-13,16,2,Missed,1,63,61,124,h,MISS Missi 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,259
+22400175,357,PT10M38.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,63,61,124,v,Allen BLOCK (1 BLK),,,1,2,260
+22400175,359,PT10M36.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,63,61,124,v,Mobley REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,261
+22400175,360,PT10M30.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,17,8,2,Made,1,63,63,126,v,Okoro 2' Running Layup (5 PTS) (Mobley 3 AST),Made Shot,Running Layup Shot,1,2,262
+22400175,362,PT10M15.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-20,17,3,Missed,1,63,63,126,h,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,263
+22400175,362,PT10M15.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,63,63,126,v,Allen BLOCK (2 BLK),,,1,2,264
+22400175,363,PT10M12.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,63,63,126,v,Allen REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,265
+22400175,364,PT10M09.00S,3,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,63,63,126,h,Jump Ball Missi vs. Allen: Tip to Okoro,Jump Ball,,0,0,266
+22400175,367,PT10M00.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,4,0,Made,1,63,65,128,v,Allen Cutting Dunk Shot (12 PTS) (Garland 6 AST),Made Shot,Cutting Dunk Shot,1,2,267
+22400175,369,PT09M47.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,63,65,128,h,Williamson Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,268
+22400175,369,PT09M47.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,63,65,128,v,Garland STEAL (1 STL),,,1,0,269
+22400175,371,PT09M44.00S,3,1610612739,CLE,1629636,Garland,D. Garland,132,222,26,Made,1,63,68,131,v,Garland 26' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,270
+22400175,372,PT09M24.00S,3,1610612740,NOP,1642274,Missi,Y. Missi,-6,30,3,Missed,1,63,68,131,h,MISS Missi 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,271
+22400175,372,PT09M24.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,63,68,131,v,Mobley BLOCK (3 BLK),,,1,2,272
+22400175,373,PT09M22.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,63,68,131,v,Allen REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,273
+22400175,374,PT09M12.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-1,1,0,Made,1,63,70,133,v,Mobley Cutting Dunk Shot (9 PTS) (Garland 7 AST),Made Shot,Cutting Dunk Shot,1,2,274
+22400175,376,PT09M12.00S,3,0,,1610612740,,,0,0,0,,0,63,70,133,h,PELICANS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,275
+22400175,378,PT09M12.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,63,70,133,v,SUB: LeVert FOR Garland,Substitution,,0,0,276
+22400175,380,PT08M52.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-86,154,18,Missed,1,63,70,133,h,MISS Ingram 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,277
+22400175,381,PT08M50.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,63,70,133,v,LeVert REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,278
+22400175,382,PT08M42.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,20,29,4,Missed,1,63,70,133,v,MISS Mobley 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,279
+22400175,383,PT08M40.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,63,70,133,v,Mobley REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,280
+22400175,384,PT08M38.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,16,29,3,Missed,1,63,70,133,v,MISS Mobley 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,281
+22400175,386,PT08M36.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,63,70,133,v,Mobley REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,282
+22400175,387,PT08M35.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-7,29,3,Missed,1,63,70,133,v,MISS Mobley 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,283
+22400175,389,PT08M34.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,63,70,133,v,Mobley REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,284
+22400175,390,PT08M34.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,Made,1,63,72,135,v,Mobley Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,285
+22400175,391,PT08M17.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,11,10,1,Missed,1,63,72,135,h,MISS Williamson 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,286
+22400175,392,PT08M15.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,63,72,135,v,Okoro REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,287
+22400175,393,PT08M13.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,-143,205,25,Made,1,63,75,138,v,Mitchell 25' 3PT Running Jump Shot (12 PTS) (Okoro 2 AST),Made Shot,Running Jump Shot,1,3,288
+22400175,395,PT07M56.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,4,2,0,Made,1,65,75,140,h,Williamson Alley Oop Dunk (10 PTS) (Alvarado 5 AST),Made Shot,Alley Oop Dunk Shot,1,2,289
+22400175,397,PT07M42.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,4,-8,1,Made,1,65,77,142,v,Mitchell 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,290
+22400175,398,PT07M36.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-192,165,25,Made,1,68,77,145,h,Ingram 25' 3PT Jump Shot (13 PTS) (Boston Jr. 2 AST),Made Shot,Jump Shot,1,3,291
+22400175,400,PT07M18.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,195,167,26,Made,1,68,80,148,v,LeVert 26' 3PT Jump Shot (11 PTS) (Allen 2 AST),Made Shot,Jump Shot,1,3,292
+22400175,402,PT07M08.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,-67,268,28,Made,1,71,80,151,h,Ingram 28' 3PT Jump Shot (16 PTS) (Boston Jr. 3 AST),Made Shot,Jump Shot,1,3,293
+22400175,404,PT06M51.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-146,203,25,Missed,1,71,80,151,v,MISS Mobley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,294
+22400175,405,PT06M46.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,71,80,151,v,Okoro REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,295
+22400175,406,PT06M37.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,-165,201,26,Missed,1,71,80,151,v,MISS Mitchell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,296
+22400175,407,PT06M35.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,71,80,151,h,Williamson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,297
+22400175,408,PT06M25.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,71,80,151,v,Mobley S.FOUL (P4.T3) (S.Twardoski),Foul,Shooting,1,0,298
+22400175,410,PT06M25.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,72,80,152,h,Williamson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,299
+22400175,411,PT06M25.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,72,80,152,v,SUB: Niang FOR Mobley,Substitution,,0,0,300
+22400175,412,PT06M25.00S,3,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,72,80,152,v,SUB: Merrill FOR Okoro,Substitution,,0,0,301
+22400175,413,PT06M25.00S,3,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,72,80,152,v,SUB: Garland FOR Mitchell,Substitution,,0,0,302
+22400175,417,PT06M25.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,73,80,153,h,Williamson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,303
+22400175,418,PT06M17.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,-13,-1,1,Missed,1,73,80,153,v,MISS LeVert 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,304
+22400175,418,PT06M17.00S,3,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,73,80,153,h,Boston Jr. BLOCK (1 BLK),,,1,2,305
+22400175,420,PT06M15.00S,3,0,,1610612739,,,0,0,0,,0,73,80,153,v,Cavaliers Rebound,Rebound,Unknown,1,0,306
+22400175,422,PT06M15.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,73,80,153,h,SUB: Robinson-Earl FOR Williamson,Substitution,,0,0,307
+22400175,424,PT06M15.00S,3,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,73,80,153,h,SUB: Green FOR Boston Jr.,Substitution,,0,0,308
+22400175,426,PT06M11.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-23,-2,2,Made,1,73,82,155,v,Garland 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,309
+22400175,427,PT06M00.00S,3,1610612740,NOP,1630631,Alvarado,J. Alvarado,-55,47,7,Missed,1,73,82,155,h,MISS Alvarado 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,310
+22400175,428,PT05M58.00S,3,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,73,82,155,h,Missi REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,311
+22400175,429,PT05M56.00S,3,1610612740,NOP,1642274,Missi,Y. Missi,21,15,3,Made,1,75,82,157,h,Missi 3' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,1,2,312
+22400175,430,PT05M39.00S,3,1610612739,CLE,1629636,Garland,D. Garland,-137,204,25,Made,1,75,85,160,v,Garland 25' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,3,313
+22400175,431,PT05M26.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,9,280,28,Missed,1,75,85,160,h,MISS Ingram 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,314
+22400175,432,PT05M23.00S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,75,85,160,v,Niang REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,315
+22400175,433,PT05M05.00S,3,1610612739,CLE,1627777,Niang,G. Niang,56,0,6,Made,1,75,87,162,v,Niang 6' Turnaround Bank Shot (7 PTS),Made Shot,Turnaround Bank shot,1,2,316
+22400175,434,PT04M52.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,97,7,10,Made,1,77,87,164,h,Ingram 10' Turnaround Fadeaway (18 PTS),Made Shot,Turnaround Fadeaway shot,1,2,317
+22400175,435,PT04M41.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,-26,6,3,Missed,1,77,87,164,v,MISS LeVert 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,318
+22400175,435,PT04M41.00S,3,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,77,87,164,h,Missi BLOCK (3 BLK),,,1,2,319
+22400175,437,PT04M39.00S,3,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,77,87,164,h,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,320
+22400175,438,PT04M36.00S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,77,87,164,v,Niang S.FOUL (P2.T4) (S.Twardoski),Foul,Shooting,1,0,321
+22400175,440,PT04M36.00S,3,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,78,87,165,h,Green Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,322
+22400175,441,PT04M36.00S,3,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,78,87,165,h,SUB: Williamson FOR Alvarado,Substitution,,0,0,323
+22400175,442,PT04M36.00S,3,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,78,87,165,h,SUB: Hawkins FOR Missi,Substitution,,0,0,324
+22400175,445,PT04M36.00S,3,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,79,87,166,h,Green Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,325
+22400175,446,PT04M18.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,15,0,2,Made,1,79,89,168,v,LeVert 2' Cutting Layup Shot (13 PTS) (Niang 2 AST),Made Shot,Cutting Layup Shot,1,2,326
+22400175,448,PT04M11.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,79,89,168,v,Allen S.FOUL (P3.PN) (J.Tiven),Foul,Shooting,1,0,327
+22400175,450,PT04M11.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,80,89,169,h,Williamson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,328
+22400175,451,PT04M11.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,81,89,170,h,Williamson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,329
+22400175,452,PT04M03.00S,3,1610612739,CLE,1627777,Niang,G. Niang,145,210,26,Missed,1,81,89,170,v,MISS Niang 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+22400175,453,PT04M01.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,81,89,170,v,Merrill REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,331
+22400175,454,PT03M57.00S,3,1610612739,CLE,1629636,Garland,D. Garland,140,218,26,Made,1,81,92,173,v,Garland 26' 3PT Jump Shot (14 PTS) (LeVert 3 AST),Made Shot,Jump Shot,1,3,332
+22400175,456,PT03M38.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,113,8,11,Missed,1,81,92,173,h,MISS Ingram 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,333
+22400175,457,PT03M36.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,81,92,173,v,Garland REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,334
+22400175,458,PT03M25.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,-92,226,24,Made,1,81,95,176,v,Merrill 24' 3PT Jump Shot (3 PTS) (LeVert 4 AST),Made Shot,Jump Shot,1,3,335
+22400175,460,PT03M13.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,10,33,3,Missed,1,81,95,176,h,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,336
+22400175,461,PT03M11.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,81,95,176,h,Williamson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,337
+22400175,462,PT03M10.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,Missed,1,81,95,176,h,MISS Williamson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,338
+22400175,463,PT03M08.00S,3,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,81,95,176,h,Robinson-Earl REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,339
+22400175,464,PT03M04.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,228,59,24,Missed,1,81,95,176,h,MISS Hawkins 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,340
+22400175,465,PT03M02.00S,3,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,81,95,176,v,LeVert REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,341
+22400175,466,PT02M53.00S,3,1610612739,CLE,1628386,Allen,J. Allen,9,13,2,Made,1,81,97,178,v,Allen 2' Running Layup (14 PTS) (LeVert 5 AST),Made Shot,Running Layup Shot,1,2,342
+22400175,468,PT02M49.00S,3,0,,1610612740,,,0,0,0,,0,81,97,178,h,PELICANS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,343
+22400175,469,PT02M49.00S,3,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,81,97,178,h,SUB: Boston Jr. FOR Ingram,Substitution,,0,0,344
+22400175,470,PT02M49.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,81,97,178,v,SUB: Mobley FOR Garland,Substitution,,0,0,345
+22400175,473,PT02M49.00S,3,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,81,97,178,v,SUB: Garland FOR Allen,Substitution,,0,0,346
+22400175,475,PT02M40.00S,3,1610612740,NOP,1630527,Boston,B. Boston,-167,216,27,Made,1,84,97,181,h,Boston Jr. 27' 3PT Jump Shot (9 PTS) (Williamson 2 AST),Made Shot,Jump Shot,1,3,347
+22400175,477,PT02M26.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,84,97,181,v,Garland Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,348
+22400175,478,PT02M09.00S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,84,97,181,v,Garland P.FOUL (P2.PN) (J.Tiven),Foul,Personal,1,0,349
+22400175,480,PT02M09.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,85,97,182,h,Hawkins Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,350
+22400175,481,PT02M09.00S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,86,97,183,h,Hawkins Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,351
+22400175,482,PT01M53.00S,3,1610612739,CLE,1630241,Merrill,S. Merrill,147,204,25,Missed,1,86,97,183,v,MISS Merrill 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,352
+22400175,483,PT01M51.00S,3,0,,1610612740,,,0,0,0,,0,86,97,183,h,PELICANS Rebound,Rebound,Unknown,1,0,353
+22400175,485,PT01M35.00S,3,1610612740,NOP,1630527,Boston,B. Boston,-199,179,27,Missed,1,86,97,183,h,MISS Boston Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+22400175,486,PT01M33.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,86,97,183,h,Williamson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,355
+22400175,487,PT01M30.00S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,-21,16,3,Made,1,88,97,185,h,Williamson 3' Putback Layup (16 PTS),Made Shot,Putback Layup Shot,1,2,356
+22400175,488,PT01M17.00S,3,1610612739,CLE,1630596,Mobley,E. Mobley,-1,1,0,Made,1,88,99,187,v,Mobley Alley Oop Layup (13 PTS) (Garland 8 AST),Made Shot,Alley Oop Layup shot,1,2,357
+22400175,494,PT00M58.30S,3,1610612740,NOP,1630527,Boston,B. Boston,-173,101,20,Missed,1,88,99,187,h,MISS Boston Jr. 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,358
+22400175,494,PT00M58.30S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,88,99,187,v,Garland BLOCK (1 BLK),,,1,2,359
+22400175,496,PT00M56.30S,3,0,,1610612739,,,0,0,0,,0,88,99,187,v,Cavaliers Rebound,Rebound,Unknown,0,0,360
+22400175,492,PT00M56.30S,3,0,,1610612739,,,0,0,0,,0,88,99,187,v,Cavaliers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,361
+22400175,493,PT00M56.30S,3,0,,490,,,0,0,0,,0,88,99,187,,Instant Replay3rd Period (9:45 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,362
+22400175,497,PT00M56.30S,3,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,88,99,187,h,Jump Ball (CC) Robinson-Earl vs. Mobley: Tip to Niang,Jump Ball,Coach Challenge,0,0,363
+22400175,508,PT00M56.30S,3,1610612739,CLE,1629636,Garland,D. Garland,0,0,0,,0,88,99,187,v,SUB: Mitchell FOR Garland,Substitution,,0,0,364
+22400175,500,PT00M34.30S,3,1610612739,CLE,1627747,LeVert,C. LeVert,-80,85,12,Missed,1,88,99,187,v,MISS LeVert 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,365
+22400175,501,PT00M31.60S,3,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,88,99,187,h,Williamson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,366
+22400175,502,PT00M07.80S,3,0,,1610612740,,,0,0,0,,0,88,99,187,h,PELICANS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,367
+22400175,503,PT00M07.80S,3,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,88,99,187,h,SUB: Cain FOR Hawkins,Substitution,,0,0,368
+22400175,510,PT00M07.80S,3,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,88,99,187,v,SUB: Garland FOR Niang,Substitution,,0,0,369
+22400175,505,PT00M01.40S,3,1610612739,CLE,1627747,LeVert,C. LeVert,-225,95,24,Missed,1,88,99,187,v,MISS LeVert 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+22400175,506,PT00M00.10S,3,0,,1610612739,,,0,0,0,,0,88,99,187,v,Cavaliers Rebound,Rebound,Unknown,1,0,371
+22400175,507,PT00M00.00S,3,0,,0,,,0,0,0,,0,88,99,187,,End of 3rd Period (9:49 PM EST),period,end,1,0,372
+22400175,518,PT12M00.00S,4,0,,0,,,0,0,0,,0,88,99,187,,Start of 4th Period (9:52 PM EST),period,start,0,0,373
+22400175,520,PT11M48.00S,4,1610612739,CLE,1627777,Niang,G. Niang,-230,-11,0,Missed,1,88,99,187,v,MISS Niang 3PT Jump Shot,Missed Shot,Jump Shot,1,3,374
+22400175,521,PT11M44.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,88,99,187,v,Mobley REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,375
+22400175,522,PT11M42.00S,4,1610612739,CLE,1627777,Niang,G. Niang,-15,-4,2,Made,1,88,101,189,v,Niang 2' Cutting Layup Shot (9 PTS) (Jerome 3 AST),Made Shot,Cutting Layup Shot,1,2,376
+22400175,524,PT11M29.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,32,31,4,Missed,1,88,101,189,h,MISS Williamson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,377
+22400175,524,PT11M29.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,88,101,189,v,Niang BLOCK (1 BLK),,,1,2,378
+22400175,526,PT11M27.00S,4,0,,1610612740,,,0,0,0,,0,88,101,189,h,PELICANS Rebound,Rebound,Unknown,1,0,379
+22400175,528,PT11M25.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,-16,11,2,Made,1,90,101,191,h,Williamson 2' Driving Reverse Layup (18 PTS) (Boston Jr. 4 AST),Made Shot,Driving Reverse Layup Shot,1,2,380
+22400175,530,PT11M25.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,90,101,191,v,Mobley S.FOUL (P5.T1) (I.Hwang),Foul,Shooting,1,0,381
+22400175,532,PT11M25.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,90,101,191,v,SUB: Allen FOR Mobley,Substitution,,0,0,382
+22400175,534,PT11M25.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,91,101,192,h,Williamson Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0,383
+22400175,535,PT11M16.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,26,6,3,Missed,1,91,101,192,v,MISS Mitchell 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,384
+22400175,536,PT11M14.00S,4,0,,1610612739,,,0,0,0,,0,91,101,192,v,Cavaliers Rebound,Rebound,Unknown,1,0,385
+22400175,538,PT11M09.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,91,101,192,v,Merrill Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,386
+22400175,538,PT11M09.00S,4,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,91,101,192,h,Green STEAL (3 STL),,,1,0,387
+22400175,540,PT11M06.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,-17,6,2,Made,1,93,101,194,h,Williamson 2' Running Layup (21 PTS) (Robinson-Earl 1 AST),Made Shot,Running Layup Shot,1,2,388
+22400175,542,PT11M06.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,93,101,194,v,Merrill S.FOUL (P2.T2) (S.Twardoski),Foul,Shooting,1,0,389
+22400175,544,PT11M06.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,94,101,195,h,Williamson Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,1,0,390
+22400175,548,PT10M41.00S,4,0,,1610612739,,,0,0,0,,0,94,101,195,v,Cavaliers Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,391
+22400175,549,PT10M29.00S,4,1610612740,NOP,1630527,Boston,B. Boston,119,237,27,Missed,1,94,101,195,h,MISS Boston Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,392
+22400175,550,PT10M25.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,94,101,195,v,Mitchell REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,393
+22400175,551,PT10M19.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,-202,136,24,Made,1,94,104,198,v,Merrill 24' 3PT Running Jump Shot (6 PTS) (Mitchell 2 AST),Made Shot,Running Jump Shot,1,3,394
+22400175,558,PT09M59.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,23,54,6,Missed,1,94,104,198,h,MISS Williamson 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,395
+22400175,558,PT09M59.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,94,104,198,v,Mitchell BLOCK (1 BLK),,,1,2,396
+22400175,560,PT09M57.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,94,104,198,v,Jerome REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,397
+22400175,555,PT09M52.00S,4,1610612739,CLE,1627777,Niang,G. Niang,-205,147,25,Missed,1,94,104,198,v,MISS Niang 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,398
+22400175,556,PT09M50.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,94,104,198,h,Hawkins REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,399
+22400175,557,PT09M33.00S,4,1610612740,NOP,1630527,Boston,B. Boston,-17,254,25,Made,1,97,104,201,h,Boston Jr. 25' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,1,3,400
+22400175,561,PT09M14.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-186,176,26,Missed,1,97,104,201,v,MISS Mitchell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,401
+22400175,561,PT09M14.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,97,104,201,h,Williamson BLOCK (1 BLK),,,1,3,402
+22400175,563,PT09M11.00S,4,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,97,104,201,h,Green REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,403
+22400175,564,PT09M03.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,97,104,201,v,Merrill P.FOUL (P3.T3) (I.Hwang),Foul,Personal,1,0,404
+22400175,567,PT09M03.00S,4,1610612740,NOP,1641722,Hawkins,J. Hawkins,0,0,0,,0,97,104,201,h,SUB: Alvarado FOR Hawkins,Substitution,,0,0,405
+22400175,568,PT09M03.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,97,104,201,h,SUB: Ingram FOR Robinson-Earl,Substitution,,0,0,406
+22400175,569,PT09M03.00S,4,1610612739,CLE,1627777,Niang,G. Niang,0,0,0,,0,97,104,201,v,SUB: Okoro FOR Niang,Substitution,,0,0,407
+22400175,573,PT08M46.00S,4,1610612740,NOP,1629750,Green,J. Green,-7,183,18,Missed,1,97,104,201,h,MISS Green 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,408
+22400175,574,PT08M44.00S,4,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,97,104,201,h,Boston Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,409
+22400175,575,PT08M39.00S,4,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,Made,1,99,104,203,h,Boston Jr. Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,1,2,410
+22400175,576,PT08M23.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,16,9,2,Made,1,99,106,205,v,Okoro 2' Cutting Layup Shot (7 PTS) (Jerome 4 AST),Made Shot,Cutting Layup Shot,1,2,411
+22400175,578,PT08M11.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,99,106,205,v,Allen S.FOUL (P4.T4) (S.Twardoski),Foul,Shooting,1,0,412
+22400175,580,PT08M11.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,100,106,206,h,Williamson Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,413
+22400175,581,PT08M11.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,100,106,206,h,MISS Williamson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,414
+22400175,582,PT08M06.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,100,106,206,v,Allen REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,415
+22400175,583,PT07M52.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,21,-1,2,Missed,1,100,106,206,v,MISS Jerome 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,416
+22400175,584,PT07M50.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,100,106,206,h,Williamson REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,417
+22400175,585,PT07M42.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,100,106,206,h,Williamson Offensive Charge Foul (P2) (I.Hwang),Foul,Offensive Charge,1,0,418
+22400175,587,PT07M42.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,100,106,206,h,Williamson Offensive Foul Turnover (P4.T9),Turnover,Offensive Foul Turnover,1,0,419
+22400175,588,PT07M42.00S,4,0,,1610612740,,,0,0,0,,0,100,106,206,h,PELICANS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,420
+22400175,589,PT07M42.00S,4,0,,585,,,0,0,0,,0,100,106,206,,Instant Replay4th Period (10:01 PM EST),Instant Replay,Coach Challenge Support Ruling,1,0,421
+22400175,592,PT07M42.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,100,106,206,h,SUB: Robinson-Earl FOR Williamson,Substitution,,0,0,422
+22400175,594,PT07M31.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,154,66,17,Missed,1,100,106,206,v,MISS Mitchell 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,423
+22400175,595,PT07M29.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,100,106,206,h,Robinson-Earl REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,424
+22400175,596,PT07M09.00S,4,1610612740,NOP,1630527,Boston,B. Boston,189,163,25,Missed,1,100,106,206,h,MISS Boston Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,425
+22400175,597,PT07M07.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,100,106,206,v,Allen REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,426
+22400175,598,PT06M58.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,234,8,0,Made,1,100,109,209,v,Merrill 3PT Jump Shot (9 PTS) (Jerome 5 AST),Made Shot,Jump Shot,1,3,427
+22400175,600,PT06M37.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,0,0,0,,0,100,109,209,h,Ingram Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,428
+22400175,600,PT06M37.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,100,109,209,v,Jerome STEAL (2 STL),,,1,0,429
+22400175,602,PT06M30.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-170,178,25,Made,1,100,112,212,v,Mitchell 25' 3PT Jump Shot (17 PTS) (Okoro 3 AST),Made Shot,Jump Shot,1,3,430
+22400175,604,PT06M04.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,191,179,26,Made,1,103,112,215,h,Alvarado 26' 3PT Jump Shot (16 PTS) (Ingram 3 AST),Made Shot,Jump Shot,1,3,431
+22400175,606,PT05M50.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,-43,4,4,Missed,1,103,112,215,v,MISS Jerome 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,432
+22400175,606,PT05M50.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,103,112,215,h,Robinson-Earl BLOCK (1 BLK),,,1,2,433
+22400175,608,PT05M48.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,103,112,215,h,Alvarado REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,434
+22400175,609,PT05M42.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,-21,264,26,Made,1,106,112,218,h,Alvarado 26' 3PT Running Pull-Up Jump Shot (19 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,435
+22400175,610,PT05M42.00S,4,0,,1610612739,,,0,0,0,,0,106,112,218,v,Cavaliers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,436
+22400175,611,PT05M42.00S,4,1610612740,NOP,1629750,Green,J. Green,0,0,0,,0,106,112,218,h,SUB: Missi FOR Green,Substitution,,0,0,437
+22400175,612,PT05M42.00S,4,1610612739,CLE,1629660,Jerome,T. Jerome,0,0,0,,0,106,112,218,v,SUB: LeVert FOR Jerome,Substitution,,0,0,438
+22400175,613,PT05M42.00S,4,1610612739,CLE,1630241,Merrill,S. Merrill,0,0,0,,0,106,112,218,v,SUB: Garland FOR Merrill,Substitution,,0,0,439
+22400175,617,PT05M30.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,93,250,27,Missed,1,106,112,218,v,MISS Mitchell 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,440
+22400175,618,PT05M28.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,106,112,218,v,LeVert REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,441
+22400175,619,PT05M20.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-7,53,5,Made,1,106,114,220,v,Mitchell 5' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,1,2,442
+22400175,620,PT05M01.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,29,52,6,Missed,1,106,114,220,h,MISS Alvarado 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,443
+22400175,621,PT04M59.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,106,114,220,v,Allen REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,444
+22400175,622,PT04M53.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,106,114,220,v,Mitchell Traveling Turnover (P2.T11),Turnover,Traveling,1,0,445
+22400175,623,PT04M53.00S,4,1610612740,NOP,1630526,Robinson-Earl,J. Robinson-Earl,0,0,0,,0,106,114,220,h,SUB: Williamson FOR Robinson-Earl,Substitution,,0,0,446
+22400175,624,PT04M53.00S,4,1610612740,NOP,1642274,Missi,Y. Missi,0,0,0,,0,106,114,220,h,SUB: Green FOR Missi,Substitution,,0,0,447
+22400175,625,PT04M53.00S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,106,114,220,v,SUB: Mobley FOR Okoro,Substitution,,0,0,448
+22400175,629,PT04M35.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,-23,15,3,Missed,1,106,114,220,h,MISS Williamson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,449
+22400175,630,PT04M33.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,106,114,220,v,Allen REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,450
+22400175,632,PT04M24.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,106,114,220,h,Alvarado P.FOUL (P2.T1) (J.Tiven),Foul,Personal,1,0,451
+22400175,634,PT04M24.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,106,114,220,h,Alvarado P.FOUL (P3.T2) (S.Twardoski),Foul,Personal,1,0,452
+22400175,636,PT04M11.00S,4,1610612739,CLE,1628386,Allen,J. Allen,1,0,0,Made,1,106,116,222,v,Allen Cutting Dunk Shot (16 PTS) (LeVert 6 AST),Made Shot,Cutting Dunk Shot,1,2,453
+22400175,638,PT03M51.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,5,31,3,Made,1,108,116,224,h,Alvarado 3' Driving Floating Jump Shot (21 PTS) (Ingram 4 AST),Made Shot,Driving Floating Jump Shot,1,2,454
+22400175,640,PT03M30.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,0,0,0,,0,108,116,224,v,LeVert Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,455
+22400175,640,PT03M30.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,108,116,224,h,Williamson STEAL (1 STL),,,1,0,456
+22400175,642,PT03M14.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,-22,10,2,Made,1,110,116,226,h,Williamson 2' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,2,457
+22400175,644,PT03M08.00S,4,1610612739,CLE,1627747,LeVert,C. LeVert,232,14,0,Made,1,110,119,229,v,LeVert 3PT Jump Shot (16 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,1,3,458
+22400175,646,PT02M47.00S,4,1610612740,NOP,1627742,Ingram,B. Ingram,55,158,17,Made,1,112,119,231,h,Ingram 17' Pullup Jump Shot (20 PTS) (Williamson 3 AST),Made Shot,Pullup Jump shot,1,2,459
+22400175,648,PT02M19.00S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-159,103,19,Made,1,112,121,233,v,Mitchell 19' Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,1,2,460
+22400175,649,PT01M57.00S,4,1610612740,NOP,1630527,Boston,B. Boston,40,81,9,Missed,1,112,121,233,h,MISS Boston Jr. 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,461
+22400175,650,PT01M55.00S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,112,121,233,v,Allen REBOUND (Off:2 Def:11),Rebound,Unknown,1,0,462
+22400175,651,PT01M49.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,4,-2,0,Made,1,112,123,235,v,Mobley Cutting Dunk Shot (15 PTS) (Garland 9 AST),Made Shot,Cutting Dunk Shot,1,2,463
+22400175,653,PT01M42.00S,4,0,,1610612740,,,0,0,0,,0,112,123,235,h,PELICANS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,464
+22400175,654,PT01M40.00S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,229,-9,0,Made,1,115,123,238,h,Alvarado 3PT Turnaround Jump Shot (24 PTS) (Boston Jr. 5 AST),Made Shot,Turnaround Jump Shot,1,3,465
+22400175,656,PT01M17.00S,4,1610612739,CLE,1629636,Garland,D. Garland,-138,-20,14,Missed,1,115,123,238,v,MISS Garland 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,466
+22400175,657,PT01M15.00S,4,0,,1610612739,,,0,0,0,,0,115,123,238,v,Cavaliers Rebound,Rebound,Unknown,1,0,467
+22400175,658,PT01M15.00S,4,0,,1610612739,,,0,0,0,,0,115,123,238,v,Cavaliers Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,468
+22400175,659,PT01M10.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,115,123,238,v,Mobley S.FOUL (P6.PN) (I.Hwang),Foul,Shooting,1,0,469
+22400175,661,PT01M10.00S,4,1610612739,CLE,1630596,Mobley,E. Mobley,0,0,0,,0,115,123,238,v,SUB: Okoro FOR Mobley,Substitution,,0,0,470
+22400175,663,PT01M10.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,115,123,238,h,MISS Williamson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,471
+22400175,664,PT01M10.00S,4,0,,1610612740,,,0,0,0,,0,115,123,238,h,PELICANS Rebound,Rebound,Normal Rebound,1,0,472
+22400175,665,PT01M10.00S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,116,123,239,h,Williamson Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,473
+22400175,666,PT00M55.50S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-110,96,15,Made,1,116,125,241,v,Mitchell 15' Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,1,2,474
+22400175,667,PT00M55.50S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,116,125,241,h,Williamson S.FOUL (P3.T3) (J.Tiven),Foul,Shooting,1,0,475
+22400175,669,PT00M55.50S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,116,126,242,v,Mitchell Free Throw 1 of 1 (24 PTS),Free Throw,Free Throw 1 of 1,1,0,476
+22400175,670,PT00M41.60S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,13,41,4,Made,1,118,126,244,h,Williamson 4' Driving Layup (28 PTS) (Ingram 5 AST),Made Shot,Driving Layup Shot,1,2,477
+22400175,672,PT00M41.60S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,118,126,244,v,Allen S.FOUL (P5.PN) (J.Tiven),Foul,Shooting,1,0,478
+22400175,674,PT00M41.60S,4,1610612739,CLE,1630171,Okoro,I. Okoro,0,0,0,,0,118,126,244,v,SUB: Merrill FOR Okoro,Substitution,,0,0,479
+22400175,676,PT00M41.60S,4,1610612740,NOP,1629627,Williamson,Z. Williamson,0,0,0,,0,119,126,245,h,Williamson Free Throw 1 of 1 (29 PTS),Free Throw,Free Throw 1 of 1,1,0,480
+22400175,678,PT00M28.70S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,-25,-1,3,Made,1,119,128,247,v,Mitchell 3' Driving Floating Bank Jump Shot (26 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,481
+22400175,679,PT00M28.70S,4,1610612740,NOP,1630527,Boston,B. Boston,0,0,0,,0,119,128,247,h,Boston Jr. S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,1,0,482
+22400175,681,PT00M28.70S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,119,129,248,v,Mitchell Free Throw 1 of 1 (27 PTS),Free Throw,Free Throw 1 of 1,1,0,483
+22400175,682,PT00M22.80S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,183,195,27,Made,1,122,129,251,h,Alvarado 27' 3PT Jump Shot (27 PTS) (Williamson 4 AST),Made Shot,Jump Shot,1,3,484
+22400175,684,PT00M10.70S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,0,0,0,,0,122,129,251,h,Alvarado Personal Take Foul (P4.PN) (J.Tiven),Foul,Personal Take,1,0,485
+22400175,686,PT00M10.70S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,122,130,252,v,Mitchell Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,486
+22400175,687,PT00M10.70S,4,1610612739,CLE,1628378,Mitchell,D. Mitchell,0,0,0,,0,122,131,253,v,Mitchell Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,487
+22400175,688,PT00M06.50S,4,1610612740,NOP,1630631,Alvarado,J. Alvarado,-69,138,15,Missed,1,122,131,253,h,MISS Alvarado 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,488
+22400175,689,PT00M04.60S,4,1610612739,CLE,1628386,Allen,J. Allen,0,0,0,,0,122,131,253,v,Allen REBOUND (Off:2 Def:12),Rebound,Unknown,1,0,489
+22400175,690,PT00M00.00S,4,0,,0,,,0,0,0,,0,122,131,253,,End of 4th Period (10:23 PM EST),period,end,1,0,490

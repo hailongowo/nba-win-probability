@@ -1,0 +1,516 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22400498,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+22400498,4,PT12M00.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,h,Jump Ball Vucevic vs. Wembanyama: Tip to Sochan,Jump Ball,,1,0,2
+22400498,7,PT11M43.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,0,0,0,v,Wembanyama Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,3
+22400498,7,PT11M43.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,0,0,0,h,White STEAL (1 STL),,,1,0,4
+22400498,9,PT11M27.00S,1,1610612741,CHI,1629632,White,C. White,9,-3,1,Missed,1,0,0,0,h,MISS White 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,5
+22400498,10,PT11M26.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,0,0,0,v,Wembanyama REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+22400498,11,PT11M11.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,163,114,20,Made,1,0,2,2,v,Vassell 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,7
+22400498,12,PT10M49.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,5,16,2,Missed,1,0,2,2,h,MISS Vucevic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,8
+22400498,12,PT10M49.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,0,2,2,v,Wembanyama BLOCK (1 BLK),,,1,2,9
+22400498,14,PT10M49.00S,1,0,,1610612741,,,0,0,0,,0,0,2,2,h,BULLS Rebound,Rebound,Unknown,1,0,10
+22400498,16,PT10M47.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-164,200,26,Missed,1,0,2,2,h,MISS Vucevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,3,11
+22400498,17,PT10M44.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,0,2,2,v,Sochan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,12
+22400498,18,PT10M29.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,163,194,25,Made,1,0,5,5,v,Sochan 25' 3PT Jump Shot (3 PTS) (Wembanyama 1 AST),Made Shot,Jump Shot,1,3,13
+22400498,20,PT10M12.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,-6,176,18,Missed,1,0,5,5,h,MISS LaVine 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,14
+22400498,21,PT10M10.00S,1,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,0,5,5,v,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+22400498,22,PT10M01.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,13,61,6,Missed,1,0,5,5,v,MISS Wembanyama 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,16
+22400498,22,PT10M01.00S,1,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,0,5,5,h,Williams BLOCK (1 BLK),,,1,2,17
+22400498,24,PT10M01.00S,1,0,,1610612759,,,0,0,0,,0,0,5,5,v,Spurs Rebound,Rebound,Unknown,1,0,18
+22400498,26,PT09M57.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,4,14,1,Made,1,0,7,7,v,Sochan 1' Cutting Layup Shot (5 PTS) (Paul 1 AST),Made Shot,Cutting Layup Shot,1,2,19
+22400498,28,PT09M42.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,233,-3,0,Missed,1,0,7,7,h,MISS Giddey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+22400498,29,PT09M40.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,0,7,7,v,Wembanyama REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,21
+22400498,30,PT09M35.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-157,197,25,Missed,1,0,7,7,v,MISS Wembanyama 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,22
+22400498,31,PT09M32.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,0,7,7,h,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,23
+22400498,32,PT09M26.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,6,258,26,Missed,1,0,7,7,h,MISS Vucevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,24
+22400498,33,PT09M23.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,0,7,7,v,Vassell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+22400498,34,PT09M13.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,0,7,7,v,Wembanyama Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,26
+22400498,35,PT09M04.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-12,176,18,Missed,1,0,7,7,h,MISS Vucevic 18' Jump Shot,Missed Shot,Jump Shot,1,2,27
+22400498,36,PT09M01.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,0,7,7,v,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+22400498,37,PT08M48.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,0,7,7,h,Jump Ball White vs. Vassell: Tip to LaVine,Jump Ball,,0,0,29
+22400498,40,PT08M48.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,0,7,7,v,Vassell Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,30
+22400498,40,PT08M48.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,0,7,7,h,White STEAL (2 STL),,,1,0,31
+22400498,42,PT08M31.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,10,60,6,Missed,1,0,7,7,h,MISS Vucevic 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,32
+22400498,42,PT08M31.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,0,7,7,v,Wembanyama BLOCK (2 BLK),,,1,2,33
+22400498,44,PT08M28.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,0,7,7,v,Wembanyama REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,34
+22400498,45,PT08M22.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,0,7,7,v,Wembanyama Bad Pass Turnover (P3.T4),Turnover,Bad Pass,1,0,35
+22400498,45,PT08M22.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,0,7,7,h,White STEAL (3 STL),,,1,0,36
+22400498,47,PT08M18.00S,1,1610612741,CHI,1629632,White,C. White,-1,8,1,Made,1,2,7,9,h,White 1' Driving Layup (2 PTS) (LaVine 1 AST),Made Shot,Driving Layup Shot,1,2,37
+22400498,49,PT08M18.00S,1,0,,1610612759,,,0,0,0,,0,2,7,9,v,Spurs Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,38
+22400498,50,PT08M03.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,233,8,0,Made,1,2,10,12,v,Vassell 3PT Jump Shot (5 PTS) (Barnes 1 AST),Made Shot,Jump Shot,1,3,39
+22400498,52,PT07M50.00S,1,1610612741,CHI,1630172,Williams,P. Williams,-167,230,28,Made,1,5,10,15,h,Williams 28' 3PT Jump Shot (3 PTS) (LaVine 2 AST),Made Shot,Jump Shot,1,3,40
+22400498,55,PT07M43.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,5,10,15,h,SUB: Ball FOR White,Substitution,,0,0,41
+22400498,57,PT07M38.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,-129,218,25,Missed,1,5,10,15,v,MISS Vassell 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,42
+22400498,58,PT07M34.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,5,10,15,h,Giddey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,43
+22400498,59,PT07M16.00S,1,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,5,10,15,h,Williams Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,44
+22400498,59,PT07M16.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,5,10,15,v,Vassell STEAL (1 STL),,,1,0,45
+22400498,61,PT07M05.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,39,201,20,Made,1,5,12,17,v,Vassell 20' Pullup Jump Shot (7 PTS) (Paul 2 AST),Made Shot,Pullup Jump shot,1,2,46
+22400498,63,PT06M56.00S,1,1610612741,CHI,1630172,Williams,P. Williams,-11,280,28,Made,1,8,12,20,h,Williams 28' 3PT Jump Shot (6 PTS) (Giddey 1 AST),Made Shot,Jump Shot,1,3,47
+22400498,65,PT06M45.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,6,264,26,Made,1,8,15,23,v,Wembanyama 26' 3PT Jump Shot (3 PTS) (Paul 3 AST),Made Shot,Jump Shot,1,3,48
+22400498,67,PT06M33.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,25,256,26,Missed,1,8,15,23,h,MISS LaVine 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,49
+22400498,68,PT06M31.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,8,15,23,v,Wembanyama REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,50
+22400498,69,PT06M26.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,110,255,28,Missed,1,8,15,23,v,MISS Wembanyama 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,51
+22400498,70,PT06M21.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,8,15,23,h,Giddey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,52
+22400498,71,PT06M14.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,-11,5,1,Missed,1,8,15,23,h,MISS LaVine 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,53
+22400498,72,PT06M11.00S,1,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,8,15,23,h,Ball REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,54
+22400498,73,PT06M04.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-232,-5,0,Missed,1,8,15,23,h,MISS Vucevic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,55
+22400498,74,PT06M03.00S,1,0,,1610612741,,,0,0,0,,0,8,15,23,h,BULLS Rebound,Rebound,Unknown,0,0,56
+22400498,75,PT06M03.00S,1,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,8,15,23,v,Paul L.B.FOUL (P1.T1) (B.Taylor),Foul,Loose Ball,1,0,57
+22400498,77,PT06M03.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,8,15,23,v,SUB: Bassey FOR Wembanyama,Substitution,,0,0,58
+22400498,79,PT05M51.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,55,16,6,Made,1,10,15,25,h,Vucevic 6' Turnaround Hook Shot (2 PTS) (LaVine 3 AST),Made Shot,Turnaround Hook Shot,1,2,59
+22400498,81,PT05M40.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,240,41,24,Missed,1,10,15,25,v,MISS Sochan 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,60
+22400498,82,PT05M36.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,10,15,25,h,LaVine REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,61
+22400498,83,PT05M26.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,9,16,2,Missed,1,10,15,25,h,MISS Vucevic 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,62
+22400498,84,PT05M25.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,10,15,25,v,Vassell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,63
+22400498,85,PT05M21.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,138,221,26,Missed,1,10,15,25,v,MISS Vassell 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,64
+22400498,86,PT05M17.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,10,15,25,h,Vucevic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+22400498,87,PT05M11.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,25,15,3,Made,1,12,15,27,h,Giddey 3' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,66
+22400498,88,PT04M41.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,-230,6,0,Made,1,12,18,30,v,Barnes 3PT Jump Shot (3 PTS) (Paul 4 AST),Made Shot,Jump Shot,1,3,67
+22400498,90,PT04M24.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,-178,183,26,Missed,1,12,18,30,h,MISS Giddey 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,68
+22400498,91,PT04M21.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,12,18,30,v,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+22400498,92,PT04M15.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,9,10,1,Made,1,12,20,32,v,Barnes 1' Driving Layup (5 PTS) (Paul 5 AST),Made Shot,Driving Layup Shot,1,2,70
+22400498,94,PT04M00.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,58,6,Missed,1,12,20,32,h,MISS Vucevic 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,71
+22400498,95,PT03M58.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,12,20,32,v,Bassey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,72
+22400498,96,PT03M53.00S,1,1610612759,SAS,101108,Paul,C. Paul,26,260,26,Missed,1,12,20,32,v,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,73
+22400498,97,PT03M50.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,12,20,32,h,Giddey REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,74
+22400498,98,PT03M47.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,1,11,1,Made,1,14,20,34,h,LaVine 1' Running Dunk (2 PTS) (Giddey 2 AST),Made Shot,Running Dunk Shot,1,2,75
+22400498,100,PT03M21.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,14,20,34,v,Vassell Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,76
+22400498,100,PT03M21.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,14,20,34,h,Giddey STEAL (1 STL),,,1,0,77
+22400498,105,PT03M18.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,6,16,2,Missed,1,14,20,34,h,MISS LaVine 2' Running Dunk,Missed Shot,Running Dunk Shot,1,2,78
+22400498,105,PT03M18.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,14,20,34,v,Vassell BLOCK (1 BLK),,,1,2,79
+22400498,106,PT03M18.00S,1,0,,1610612741,,,0,0,0,,0,14,20,34,h,BULLS Rebound,Rebound,Unknown,0,0,80
+22400498,108,PT03M18.00S,1,0,,1610612741,,,0,0,0,,0,14,20,34,h,BULLS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,81
+22400498,109,PT03M18.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,14,20,34,h,SUB: White FOR Giddey,Substitution,,0,0,82
+22400498,110,PT03M18.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,14,20,34,h,SUB: Smith FOR LaVine,Substitution,,0,0,83
+22400498,111,PT03M18.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,14,20,34,h,SUB: Terry FOR Vucevic,Substitution,,0,0,84
+22400498,112,PT03M18.00S,1,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,14,20,34,h,SUB: Phillips FOR Williams,Substitution,,0,0,85
+22400498,113,PT03M18.00S,1,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,14,20,34,v,SUB: Champagnie FOR Paul,Substitution,,0,0,86
+22400498,114,PT03M18.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,14,20,34,v,SUB: Johnson FOR Sochan,Substitution,,0,0,87
+22400498,115,PT03M18.00S,1,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,14,20,34,v,SUB: Castle FOR Barnes,Substitution,,0,0,88
+22400498,124,PT03M12.00S,1,1610612741,CHI,1630188,Smith,J. Smith,-47,253,26,Missed,1,14,20,34,h,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+22400498,125,PT03M09.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,14,20,34,v,Vassell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,90
+22400498,126,PT02M54.00S,1,1610612759,SAS,1642264,Castle,S. Castle,42,75,9,Made,1,14,22,36,v,Castle 9' Driving Floating Jump Shot (2 PTS) (Vassell 1 AST),Made Shot,Driving Floating Jump Shot,1,2,91
+22400498,128,PT02M37.00S,1,1610612741,CHI,1630188,Smith,J. Smith,-67,252,26,Made,1,17,22,39,h,Smith 26' 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,1,3,92
+22400498,131,PT02M16.00S,1,0,,1610612741,,,0,0,0,,0,17,22,39,h,BULLS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,93
+22400498,132,PT02M16.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,17,22,39,v,SUB: Jones FOR Vassell,Substitution,,0,0,94
+22400498,133,PT02M16.00S,1,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,17,22,39,v,SUB: Wembanyama FOR Bassey,Substitution,,0,0,95
+22400498,136,PT02M09.00S,1,1610612759,SAS,1630200,Jones,T. Jones,1,3,0,Made,1,17,24,41,v,Jones Reverse Layup (2 PTS) (Wembanyama 2 AST),Made Shot,Reverse Layup Shot,1,2,96
+22400498,138,PT01M54.00S,1,1610612741,CHI,1630188,Smith,J. Smith,-180,176,25,Missed,1,17,24,41,h,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,97
+22400498,139,PT01M50.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,17,24,41,v,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,98
+22400498,140,PT01M47.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,-181,188,26,Made,1,17,27,44,v,Champagnie 26' 3PT Running Jump Shot (3 PTS) (Castle 1 AST),Made Shot,Running Jump Shot,1,3,99
+22400498,142,PT01M33.00S,1,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,17,27,44,h,Ball Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,100
+22400498,142,PT01M33.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,17,27,44,v,Jones STEAL (1 STL),,,1,0,101
+22400498,144,PT01M28.00S,1,1610612759,SAS,1642264,Castle,S. Castle,-2,5,1,Made,1,17,29,46,v,Castle 1' Running Dunk (4 PTS) (Jones 1 AST),Made Shot,Running Dunk Shot,1,2,102
+22400498,146,PT01M07.00S,1,1610612741,CHI,1630188,Smith,J. Smith,-234,-3,0,Missed,1,17,29,46,h,MISS Smith 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+22400498,147,PT01M05.00S,1,0,,1610612741,,,0,0,0,,0,17,29,46,h,BULLS Rebound,Rebound,Unknown,0,0,104
+22400498,149,PT00M59.40S,1,1610612741,CHI,1628366,Ball,L. Ball,-229,55,24,Made,1,20,29,49,h,Ball 24' 3PT Jump Shot (3 PTS) (Smith 1 AST),Made Shot,Jump Shot,1,3,105
+22400498,151,PT00M40.70S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,-53,257,26,Missed,1,20,29,49,v,MISS Champagnie 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,106
+22400498,152,PT00M37.50S,1,1610612741,CHI,1641763,Phillips,J. Phillips,0,0,0,,0,20,29,49,h,Phillips REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+22400498,153,PT00M28.70S,1,1610612741,CHI,1629632,White,C. White,10,272,27,Missed,1,20,29,49,h,MISS White 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,108
+22400498,154,PT00M26.80S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,20,29,49,v,Champagnie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+22400498,155,PT00M01.60S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-27,53,6,Missed,1,20,29,49,v,MISS Wembanyama 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,110
+22400498,156,PT00M01.60S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,20,29,49,v,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,111
+22400498,157,PT00M00.00S,1,0,,0,,,0,0,0,,0,20,29,49,,End of 1st Period (8:32 PM EST),period,end,1,0,112
+22400498,160,PT12M00.00S,2,0,,0,,,0,0,0,,0,20,29,49,,Start of 2nd Period (8:35 PM EST),period,start,0,0,113
+22400498,161,PT11M43.00S,2,1610612741,CHI,1630172,Williams,P. Williams,170,185,25,Missed,1,20,29,49,h,MISS Williams 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,114
+22400498,162,PT11M40.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,20,29,49,v,Wembanyama REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,115
+22400498,163,PT11M22.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,234,14,0,Missed,1,20,29,49,v,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,116
+22400498,164,PT11M18.00S,2,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,20,29,49,h,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+22400498,165,PT11M13.00S,2,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,20,29,49,h,Terry Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,118
+22400498,166,PT11M01.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,20,29,49,h,White P.FOUL (P1.T1) (J.Butler),Foul,Personal,1,0,119
+22400498,168,PT10M51.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-7,3,1,Made,1,20,31,51,v,Wembanyama 1' Alley Oop Dunk (5 PTS) (Castle 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,120
+22400498,170,PT10M32.00S,2,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,20,31,51,h,Terry Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,121
+22400498,170,PT10M32.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,20,31,51,v,Johnson STEAL (1 STL),,,1,0,122
+22400498,172,PT10M25.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,-72,247,26,Made,1,20,34,54,v,Johnson 26' 3PT Jump Shot (3 PTS) (Castle 3 AST),Made Shot,Jump Shot,1,3,123
+22400498,174,PT10M23.00S,2,0,,1610612741,,,0,0,0,,0,20,34,54,h,BULLS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,124
+22400498,175,PT10M13.00S,2,1610612741,CHI,1630188,Smith,J. Smith,-123,253,28,Missed,1,20,34,54,h,MISS Smith 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+22400498,176,PT10M08.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,20,34,54,v,Wembanyama REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,126
+22400498,177,PT10M03.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,244,35,25,Missed,1,20,34,54,v,MISS Champagnie 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+22400498,178,PT09M58.00S,2,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,20,34,54,h,Terry REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,128
+22400498,180,PT09M51.00S,2,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,20,34,54,h,SUB: Giddey FOR Terry,Substitution,,0,0,129
+22400498,182,PT09M44.00S,2,1610612741,CHI,1630188,Smith,J. Smith,-12,195,20,Made,1,22,34,56,h,Smith 20' Pullup Jump Shot (5 PTS) (Williams 1 AST),Made Shot,Pullup Jump shot,1,2,130
+22400498,184,PT09M24.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,4,255,26,Made,1,22,37,59,v,Champagnie 26' 3PT Jump Shot (6 PTS) (Johnson 1 AST),Made Shot,Jump Shot,1,3,131
+22400498,186,PT09M14.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,22,37,59,v,Johnson P.FOUL (P1.T1) (J.Sterling),Foul,Personal,1,0,132
+22400498,188,PT09M14.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,22,37,59,h,SUB: LaVine FOR White,Substitution,,0,0,133
+22400498,189,PT09M14.00S,2,1610612741,CHI,1641763,Phillips,J. Phillips,0,0,0,,0,22,37,59,h,SUB: Buzelis FOR Phillips,Substitution,,0,0,134
+22400498,192,PT09M02.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,58,8,6,Missed,1,22,37,59,h,MISS Giddey 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,135
+22400498,193,PT08M59.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,22,37,59,h,Giddey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,136
+22400498,194,PT08M59.00S,2,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,Missed,1,22,37,59,h,MISS Buzelis Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,137
+22400498,194,PT08M59.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,22,37,59,v,Wembanyama BLOCK (3 BLK),,,1,2,138
+22400498,196,PT08M59.00S,2,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,22,37,59,h,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,139
+22400498,197,PT08M59.00S,2,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,Missed,1,22,37,59,h,MISS Smith Putback Layup,Missed Shot,Putback Layup Shot,1,2,140
+22400498,197,PT08M59.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,22,37,59,v,Wembanyama BLOCK (4 BLK),,,1,2,141
+22400498,199,PT08M59.00S,2,0,,1610612741,,,0,0,0,,0,22,37,59,h,BULLS Rebound,Rebound,Unknown,0,0,142
+22400498,200,PT08M51.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,158,48,17,Missed,1,22,37,59,h,MISS LaVine 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,143
+22400498,201,PT08M49.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,22,37,59,v,Wembanyama REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,144
+22400498,202,PT08M43.00S,2,1610612759,SAS,1642264,Castle,S. Castle,5,32,3,Missed,1,22,37,59,v,MISS Castle 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,145
+22400498,202,PT08M43.00S,2,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,22,37,59,h,Buzelis BLOCK (1 BLK),,,1,2,146
+22400498,204,PT08M39.00S,2,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,22,37,59,h,Smith REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,147
+22400498,205,PT08M33.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,-60,223,23,Missed,1,22,37,59,h,MISS Giddey 23' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,148
+22400498,206,PT08M31.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,22,37,59,v,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,149
+22400498,207,PT08M27.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,-4,9,1,Made,1,22,39,61,v,Johnson 1' Running Layup (5 PTS) (Jones 2 AST),Made Shot,Running Layup Shot,1,2,150
+22400498,209,PT08M19.00S,2,1610612741,CHI,1641824,Buzelis,M. Buzelis,230,42,0,Missed,1,22,39,61,h,MISS Buzelis 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+22400498,210,PT08M17.00S,2,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,22,39,61,h,Smith REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,152
+22400498,211,PT08M14.00S,2,1610612741,CHI,1630188,Smith,J. Smith,-241,5,24,Missed,1,22,39,61,h,MISS Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+22400498,212,PT08M10.00S,2,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,22,39,61,h,Buzelis REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,154
+22400498,213,PT08M08.00S,2,1610612741,CHI,1630172,Williams,P. Williams,6,254,25,Made,1,25,39,64,h,Williams 25' 3PT Pullup Jump Shot (9 PTS) (Buzelis 1 AST),Made Shot,Pullup Jump shot,1,3,155
+22400498,215,PT08M08.00S,2,0,,1610612759,,,0,0,0,,0,25,39,64,v,Spurs Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,156
+22400498,216,PT08M08.00S,2,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,25,39,64,h,SUB: Vucevic FOR Smith,Substitution,,0,0,157
+22400498,217,PT08M08.00S,2,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,25,39,64,h,SUB: Ball FOR Williams,Substitution,,0,0,158
+22400498,218,PT08M08.00S,2,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,25,39,64,v,SUB: Paul FOR Champagnie,Substitution,,0,0,159
+22400498,219,PT08M08.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,25,39,64,v,SUB: Barnes FOR Jones,Substitution,,0,0,160
+22400498,224,PT07M55.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,92,243,26,Missed,1,25,39,64,v,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+22400498,225,PT07M52.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,25,39,64,v,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,162
+22400498,226,PT07M45.00S,2,1610612759,SAS,1642264,Castle,S. Castle,-11,6,1,Missed,1,25,39,64,v,MISS Castle 1' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,163
+22400498,227,PT07M42.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,25,39,64,v,Barnes REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,164
+22400498,228,PT07M42.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,Made,1,25,41,66,v,Barnes Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,1,2,165
+22400498,229,PT07M31.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,25,41,66,h,Giddey Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,166
+22400498,229,PT07M31.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,25,41,66,v,Castle STEAL (1 STL),,,1,0,167
+22400498,231,PT07M26.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,25,41,66,v,Castle Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,168
+22400498,231,PT07M26.00S,2,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,25,41,66,h,Ball STEAL (1 STL),,,1,0,169
+22400498,233,PT07M22.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,2,10,1,Made,1,27,41,68,h,LaVine 1' Running Layup (4 PTS) (Giddey 3 AST),Made Shot,Running Layup Shot,1,2,170
+22400498,235,PT07M11.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,1,9,1,Made,1,27,43,70,v,Johnson 1' Cutting Layup Shot (7 PTS) (Castle 4 AST),Made Shot,Cutting Layup Shot,1,2,171
+22400498,237,PT06M55.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,9,8,1,Made,1,29,43,72,h,Giddey 1' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,172
+22400498,238,PT06M33.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-131,61,14,Made,1,29,45,74,v,Wembanyama 14' Turnaround Fadeaway (7 PTS) (Paul 6 AST),Made Shot,Turnaround Fadeaway shot,1,2,173
+22400498,240,PT06M24.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,-33,253,26,Made,1,32,45,77,h,Vucevic 26' 3PT Jump Shot (5 PTS) (LaVine 4 AST),Made Shot,Jump Shot,1,3,174
+22400498,243,PT06M15.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,32,45,77,v,SUB: Bassey FOR Wembanyama,Substitution,,0,0,175
+22400498,244,PT06M15.00S,2,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,32,45,77,v,SUB: Vassell FOR Castle,Substitution,,0,0,176
+22400498,247,PT06M07.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,-229,-5,0,Missed,1,32,45,77,v,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,1,3,177
+22400498,248,PT06M03.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,32,45,77,h,Vucevic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,178
+22400498,249,PT06M03.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,32,45,77,v,Barnes P.FOUL (P1.T2) (J.Sterling),Foul,Personal,1,0,179
+22400498,251,PT06M03.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,32,45,77,v,SUB: Sochan FOR Johnson,Substitution,,0,0,180
+22400498,253,PT05M54.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,32,45,77,h,LaVine Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,181
+22400498,253,PT05M54.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,32,45,77,v,Barnes STEAL (1 STL),,,1,0,182
+22400498,255,PT05M44.00S,2,1610612759,SAS,101108,Paul,C. Paul,-38,182,19,Made,1,32,47,79,v,Paul 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,183
+22400498,256,PT05M24.00S,2,1610612741,CHI,1628366,Ball,L. Ball,22,254,25,Missed,1,32,47,79,h,MISS Ball 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,184
+22400498,257,PT05M21.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,32,47,79,h,Vucevic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,185
+22400498,258,PT05M20.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,-98,43,11,Made,1,34,47,81,h,Vucevic 11' Turnaround Hook Shot (7 PTS),Made Shot,Turnaround Hook Shot,1,2,186
+22400498,259,PT05M02.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,4,105,11,Missed,1,34,47,81,v,MISS Barnes 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,187
+22400498,260,PT04M59.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,34,47,81,v,Bassey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,188
+22400498,261,PT04M59.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,Missed,1,34,47,81,v,MISS Bassey Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,189
+22400498,262,PT04M58.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,34,47,81,h,Vucevic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,190
+22400498,263,PT04M55.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,-17,15,2,Missed,1,34,47,81,h,MISS Giddey 2' Running Layup,Missed Shot,Running Layup Shot,1,2,191
+22400498,264,PT04M52.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,34,47,81,h,Vucevic REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,192
+22400498,265,PT04M52.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,Made,1,36,47,83,h,Vucevic Tip Dunk Shot (9 PTS),Made Shot,Tip Dunk Shot,1,2,193
+22400498,266,PT04M46.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,202,114,23,Made,1,36,49,85,v,Vassell 23' Pullup Jump Shot (9 PTS) (Sochan 1 AST),Made Shot,Pullup Jump shot,1,2,194
+22400498,268,PT04M30.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,11,1,Made,1,38,49,87,h,LaVine 1' Driving Layup (6 PTS) (Vucevic 1 AST),Made Shot,Driving Layup Shot,1,2,195
+22400498,269,PT04M19.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,88,51,10,Made,1,38,51,89,v,Bassey 10' Floating Jump Shot (2 PTS) (Paul 7 AST),Made Shot,Floating Jump shot,1,2,196
+22400498,271,PT04M11.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,38,51,89,h,Giddey Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,197
+22400498,271,PT04M11.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,38,51,89,v,Sochan STEAL (1 STL),,,1,0,198
+22400498,273,PT04M06.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,249,15,25,Missed,1,38,51,89,v,MISS Vassell 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,199
+22400498,274,PT04M04.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,38,51,89,v,Sochan REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,200
+22400498,275,PT04M04.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,Made,1,38,53,91,v,Sochan Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,201
+22400498,276,PT04M04.00S,2,0,,1610612741,,,0,0,0,,0,38,53,91,h,BULLS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,202
+22400498,278,PT04M04.00S,2,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,38,53,91,h,SUB: White FOR Ball,Substitution,,0,0,203
+22400498,279,PT04M04.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,38,53,91,h,SUB: Williams FOR Giddey,Substitution,,0,0,204
+22400498,282,PT03M56.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,38,53,91,v,Sochan P.FOUL (P1.T3) (J.Butler),Foul,Personal,1,0,205
+22400498,284,PT03M48.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,22,122,12,Made,1,40,53,93,h,LaVine 12' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,206
+22400498,285,PT03M35.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,-230,-13,0,Missed,1,40,53,93,v,MISS Vassell 3PT Jump Shot,Missed Shot,Jump Shot,1,3,207
+22400498,286,PT03M32.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,40,53,93,v,Sochan REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,208
+22400498,287,PT03M29.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,40,53,93,h,White S.FOUL (P2.T2) (J.Butler),Foul,Shooting,1,0,209
+22400498,289,PT03M29.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,40,53,93,v,MISS Barnes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,210
+22400498,290,PT03M29.00S,2,0,,1610612759,,,0,0,0,,0,40,53,93,v,Spurs Rebound,Rebound,Normal Rebound,0,0,211
+22400498,291,PT03M29.00S,2,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,40,54,94,v,Barnes Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,212
+22400498,292,PT03M15.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,13,0,1,Made,1,42,54,96,h,LaVine 1' Reverse Layup (10 PTS) (Vucevic 2 AST),Made Shot,Reverse Layup Shot,1,2,213
+22400498,294,PT03M01.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,-7,13,1,Made,1,42,56,98,v,Vassell 1' Driving Layup (11 PTS) (Paul 8 AST),Made Shot,Driving Layup Shot,1,2,214
+22400498,296,PT02M52.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,-4,62,6,Made,1,44,56,100,h,LaVine 6' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,1,2,215
+22400498,297,PT02M52.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,44,56,100,v,Bassey S.FOUL (P1.T4) (J.Sterling),Foul,Shooting,1,0,216
+22400498,299,PT02M52.00S,2,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,44,56,100,v,SUB: Wembanyama FOR Bassey,Substitution,,0,0,217
+22400498,301,PT02M52.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,45,56,101,h,LaVine Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,218
+22400498,302,PT02M41.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-6,15,2,Missed,1,45,56,101,v,MISS Wembanyama 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,219
+22400498,303,PT02M38.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,45,56,101,h,LaVine REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,220
+22400498,304,PT02M29.00S,2,1610612741,CHI,1629632,White,C. White,-136,237,27,Made,1,48,56,104,h,White 27' 3PT Jump Shot (5 PTS) (Williams 2 AST),Made Shot,Jump Shot,1,3,221
+22400498,306,PT01M59.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,213,147,26,Made,1,48,59,107,v,Wembanyama 26' 3PT Step Back Jump Shot (10 PTS) (Sochan 2 AST),Made Shot,Step Back Jump shot,1,3,222
+22400498,307,PT01M46.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,48,59,107,h,White Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,223
+22400498,307,PT01M46.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,48,59,107,v,Vassell STEAL (2 STL),,,1,0,224
+22400498,309,PT01M41.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,5,9,1,Made,1,48,61,109,v,Wembanyama 1' Running Dunk (12 PTS) (Vassell 2 AST),Made Shot,Running Dunk Shot,1,2,225
+22400498,311,PT01M26.00S,2,1610612741,CHI,1629632,White,C. White,85,277,29,Missed,1,48,61,109,h,MISS White 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,226
+22400498,312,PT01M25.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,48,61,109,v,Wembanyama REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,227
+22400498,314,PT01M17.00S,2,1610612759,SAS,101108,Paul,C. Paul,-76,167,18,Made,1,48,63,111,v,Paul 18' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,228
+22400498,315,PT00M56.90S,2,1610612741,CHI,1641824,Buzelis,M. Buzelis,230,16,0,Missed,1,48,63,111,h,MISS Buzelis 3PT Jump Shot,Missed Shot,Jump Shot,1,3,229
+22400498,316,PT00M56.50S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,48,63,111,h,Vucevic REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,230
+22400498,317,PT00M56.50S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,Made,1,50,63,113,h,Vucevic Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,231
+22400498,318,PT00M34.50S,2,1610612759,SAS,1631110,Sochan,J. Sochan,-7,-8,1,Made,1,50,65,115,v,Sochan 1' Alley Oop Dunk (9 PTS) (Wembanyama 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,232
+22400498,320,PT00M28.40S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,50,65,115,h,LaVine Double Dribble Turnover (P2.T9),Turnover,Double Dribble,1,0,233
+22400498,321,PT00M28.40S,2,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,50,65,115,h,SUB: Giddey FOR Buzelis,Substitution,,0,0,234
+22400498,323,PT00M08.20S,2,1610612759,SAS,203084,Barnes,H. Barnes,-235,-10,24,Missed,1,50,65,115,v,MISS Barnes 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,235
+22400498,324,PT00M05.90S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,50,65,115,v,Wembanyama REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,236
+22400498,325,PT00M05.90S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,50,65,115,v,Wembanyama Out of Bounds - Bad Pass Turnover Turnover (P4.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,237
+22400498,326,PT00M00.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,-18,59,6,Missed,1,50,65,115,h,MISS LaVine 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,238
+22400498,327,PT00M00.00S,2,0,,1610612741,,,0,0,0,,0,50,65,115,h,BULLS Rebound,Rebound,Unknown,0,0,239
+22400498,328,PT00M00.00S,2,0,,0,,,0,0,0,,0,50,65,115,,End of 2nd Period (9:00 PM EST),period,end,1,0,240
+22400498,329,PT12M00.00S,3,0,,0,,,0,0,0,,0,50,65,115,,Start of 3rd Period (9:16 PM EST),period,start,0,0,241
+22400498,330,PT11M39.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,-244,-16,24,Missed,1,50,65,115,h,MISS LaVine 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,242
+22400498,331,PT11M37.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,50,65,115,v,Wembanyama REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,243
+22400498,332,PT11M24.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-13,106,11,Made,1,50,67,117,v,Wembanyama 11' Pullup Jump Shot (14 PTS) (Paul 9 AST),Made Shot,Pullup Jump shot,1,2,244
+22400498,334,PT11M11.00S,3,1610612741,CHI,1630581,Giddey,J. Giddey,20,20,3,Missed,1,50,67,117,h,MISS Giddey 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,245
+22400498,335,PT11M09.00S,3,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,50,67,117,v,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,246
+22400498,336,PT11M02.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,50,67,117,h,LaVine S.FOUL (P1.T1) (J.Butler),Foul,Shooting,1,0,247
+22400498,338,PT11M02.00S,3,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,50,68,118,v,Barnes Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,248
+22400498,339,PT11M02.00S,3,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,50,69,119,v,Barnes Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,249
+22400498,340,PT10M48.00S,3,1610612741,CHI,1629632,White,C. White,9,4,1,Made,1,52,69,121,h,White 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,250
+22400498,341,PT10M35.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,12,-1,1,Made,1,52,71,123,v,Sochan 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,251
+22400498,342,PT10M20.00S,3,1610612741,CHI,1629632,White,C. White,-4,30,3,Made,1,54,71,125,h,White 3' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,252
+22400498,343,PT10M00.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,176,191,26,Missed,1,54,71,125,v,MISS Wembanyama 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,253
+22400498,344,PT09M57.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,54,71,125,h,LaVine REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,254
+22400498,345,PT09M51.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-6,257,26,Missed,1,54,71,125,h,MISS Vucevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+22400498,346,PT09M48.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,54,71,125,v,Wembanyama REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,256
+22400498,347,PT09M42.00S,3,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,54,71,125,v,Paul Bad Pass Turnover (P1.T8),Turnover,Bad Pass,1,0,257
+22400498,347,PT09M42.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,54,71,125,h,Vucevic STEAL (1 STL),,,1,0,258
+22400498,349,PT09M34.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,184,116,22,Made,1,56,71,127,h,LaVine 22' Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,2,259
+22400498,350,PT09M13.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-114,232,26,Made,1,56,74,130,v,Wembanyama 26' 3PT Jump Shot (17 PTS) (Vassell 3 AST),Made Shot,Jump Shot,1,3,260
+22400498,352,PT09M01.00S,3,1610612741,CHI,1630581,Giddey,J. Giddey,-12,10,2,Missed,1,56,74,130,h,MISS Giddey 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,261
+22400498,352,PT09M01.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,56,74,130,v,Vassell BLOCK (2 BLK),,,1,2,262
+22400498,354,PT08M58.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,56,74,130,v,Wembanyama REBOUND (Off:1 Def:11),Rebound,Unknown,1,0,263
+22400498,355,PT08M57.00S,3,1610612759,SAS,101108,Paul,C. Paul,80,241,25,Missed,1,56,74,130,v,MISS Paul 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,264
+22400498,356,PT08M57.00S,3,0,,1610612741,,,0,0,0,,0,56,74,130,h,BULLS Rebound,Rebound,Unknown,0,0,265
+22400498,357,PT08M57.00S,3,0,,1610612741,,,0,0,0,,0,56,74,130,h,BULLS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,266
+22400498,358,PT08M45.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-61,248,26,Missed,1,56,74,130,h,MISS Vucevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,267
+22400498,359,PT08M42.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,56,74,130,h,LaVine REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,268
+22400498,360,PT08M41.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,-5,4,1,Made,1,58,74,132,h,LaVine 1' Driving Reverse Layup (17 PTS),Made Shot,Driving Reverse Layup Shot,1,2,269
+22400498,361,PT08M17.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,88,244,26,Made,1,58,77,135,v,Wembanyama 26' 3PT Step Back Jump Shot (20 PTS) (Barnes 2 AST),Made Shot,Step Back Jump shot,1,3,270
+22400498,363,PT08M07.00S,3,1610612741,CHI,1629632,White,C. White,11,5,1,Missed,1,58,77,135,h,MISS White 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,271
+22400498,363,PT08M07.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,58,77,135,v,Wembanyama BLOCK (5 BLK),,,1,2,272
+22400498,365,PT08M07.00S,3,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,58,77,135,v,Barnes REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,273
+22400498,366,PT08M03.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,58,77,135,v,Sochan Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,274
+22400498,366,PT08M03.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,58,77,135,h,LaVine STEAL (1 STL),,,1,0,275
+22400498,368,PT07M55.00S,3,1610612741,CHI,1629632,White,C. White,-7,4,1,Made,1,60,77,137,h,White 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,276
+22400498,369,PT07M37.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,-233,8,0,Missed,1,60,77,137,v,MISS Vassell 3PT Jump Shot,Missed Shot,Jump Shot,1,3,277
+22400498,370,PT07M33.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,60,77,137,v,Wembanyama REBOUND (Off:2 Def:11),Rebound,Unknown,1,0,278
+22400498,371,PT07M33.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,Made,1,60,79,139,v,Wembanyama Tip Dunk Shot (22 PTS),Made Shot,Tip Dunk Shot,1,2,279
+22400498,372,PT07M20.00S,3,1610612741,CHI,1629632,White,C. White,-232,-22,0,Made,1,63,79,142,h,White 3PT Jump Shot (14 PTS) (Vucevic 3 AST),Made Shot,Jump Shot,1,3,280
+22400498,374,PT07M09.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,-161,211,27,Missed,1,63,79,142,v,MISS Vassell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,281
+22400498,375,PT07M06.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,63,79,142,v,Sochan REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,282
+22400498,376,PT07M03.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,63,79,142,v,Sochan Lost Ball Turnover (P2.T10),Turnover,Lost Ball,1,0,283
+22400498,376,PT07M03.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,63,79,142,h,White STEAL (4 STL),,,1,0,284
+22400498,378,PT06M57.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-6,4,1,Made,1,65,79,144,h,Vucevic 1' Cutting Finger Roll Layup Shot (13 PTS) (LaVine 5 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,285
+22400498,380,PT06M45.00S,3,1610612759,SAS,101108,Paul,C. Paul,-37,115,12,Missed,1,65,79,144,v,MISS Paul 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,286
+22400498,381,PT06M41.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,65,79,144,h,Vucevic REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,287
+22400498,382,PT06M32.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-120,167,21,Made,1,67,79,146,h,Vucevic 21' Pullup Jump Shot (15 PTS) (White 2 AST),Made Shot,Pullup Jump shot,1,2,288
+22400498,383,PT06M32.00S,3,0,,1610612759,,,0,0,0,,0,67,79,146,v,Spurs Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,289
+22400498,385,PT06M32.00S,3,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,67,79,146,h,SUB: Ball FOR Giddey,Substitution,,0,0,290
+22400498,386,PT06M32.00S,3,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,67,79,146,v,SUB: Johnson FOR Barnes,Substitution,,0,0,291
+22400498,389,PT06M16.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-1,149,15,Missed,1,67,79,146,v,MISS Wembanyama 15' Jump Shot,Missed Shot,Jump Shot,1,2,292
+22400498,390,PT06M14.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,67,79,146,h,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,293
+22400498,391,PT06M11.00S,3,1610612741,CHI,1630172,Williams,P. Williams,5,11,1,Made,1,69,79,148,h,Williams 1' Running Layup (11 PTS) (White 3 AST),Made Shot,Running Layup Shot,1,2,294
+22400498,392,PT05M59.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-9,260,26,Missed,1,69,79,148,v,MISS Wembanyama 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,295
+22400498,393,PT05M56.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,69,79,148,h,LaVine REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,296
+22400498,394,PT05M46.00S,3,1610612741,CHI,1629632,White,C. White,6,19,2,Missed,1,69,79,148,h,MISS White 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,297
+22400498,396,PT05M44.00S,3,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,69,79,148,v,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,298
+22400498,397,PT05M39.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,28,0,3,Missed,1,69,79,148,v,MISS Vassell 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,299
+22400498,398,PT05M37.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,69,79,148,h,Vucevic REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,300
+22400498,399,PT05M24.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,4,24,2,Made,1,71,79,150,h,Vucevic 2' Hook Shot (17 PTS) (LaVine 6 AST),Made Shot,Hook Shot,1,2,301
+22400498,401,PT05M08.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,71,79,150,h,Vucevic S.FOUL (P1.T2) (J.Butler),Foul,Shooting,1,0,302
+22400498,403,PT05M08.00S,3,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,71,80,151,v,Paul Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,303
+22400498,404,PT05M08.00S,3,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,71,80,151,h,SUB: Buzelis FOR Williams,Substitution,,0,0,304
+22400498,405,PT05M08.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,71,80,151,v,SUB: Castle FOR Wembanyama,Substitution,,0,0,305
+22400498,406,PT05M08.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,71,80,151,v,SUB: Bassey FOR Sochan,Substitution,,0,0,306
+22400498,410,PT05M08.00S,3,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,71,81,152,v,Paul Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,307
+22400498,411,PT04M53.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,6,19,2,Made,1,73,81,154,h,Vucevic 2' Driving Layup (19 PTS) (White 4 AST),Made Shot,Driving Layup Shot,1,2,308
+22400498,413,PT04M37.00S,3,1610612759,SAS,101108,Paul,C. Paul,58,176,19,Made,1,73,83,156,v,Paul 19' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,309
+22400498,415,PT04M24.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-72,241,25,Missed,1,73,83,156,h,MISS Vucevic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+22400498,416,PT04M20.00S,3,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,73,83,156,v,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,311
+22400498,417,PT04M18.00S,3,1610612759,SAS,101108,Paul,C. Paul,-161,201,26,Made,1,73,86,159,v,Paul 26' 3PT Running Pull-Up Jump Shot (11 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,312
+22400498,418,PT04M09.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,73,86,159,v,Johnson P.FOUL (P2.T1) (B.Taylor),Foul,Personal,1,0,313
+22400498,420,PT04M09.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,73,86,159,v,SUB: Champagnie FOR Johnson,Substitution,,0,0,314
+22400498,422,PT03M59.00S,3,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,73,86,159,v,Castle S.FOUL (P1.T2) (J.Butler),Foul,Shooting,1,0,315
+22400498,424,PT03M59.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,74,86,160,h,LaVine Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,316
+22400498,425,PT03M59.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,74,86,160,h,SUB: Giddey FOR White,Substitution,,0,0,317
+22400498,427,PT03M59.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,75,86,161,h,LaVine Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,318
+22400498,428,PT03M49.00S,3,1610612759,SAS,1642264,Castle,S. Castle,-5,12,1,Missed,1,75,86,161,v,MISS Castle 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,319
+22400498,428,PT03M49.00S,3,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,75,86,161,h,Buzelis BLOCK (2 BLK),,,1,2,320
+22400498,430,PT03M46.00S,3,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,75,86,161,v,Castle REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,321
+22400498,431,PT03M34.00S,3,1610612759,SAS,1642264,Castle,S. Castle,-175,190,26,Missed,1,75,86,161,v,MISS Castle 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,322
+22400498,432,PT03M30.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,75,86,161,h,LaVine REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,323
+22400498,433,PT03M28.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,-11,9,1,Missed,1,75,86,161,h,MISS LaVine 1' Running Layup,Missed Shot,Running Layup Shot,1,2,324
+22400498,434,PT03M28.00S,3,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,75,86,161,h,Giddey REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,325
+22400498,435,PT03M28.00S,3,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,Missed,1,75,86,161,h,MISS Giddey Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,326
+22400498,436,PT03M28.00S,3,0,,1610612759,,,0,0,0,,0,75,86,161,v,Spurs Rebound,Rebound,Unknown,1,0,327
+22400498,437,PT03M28.00S,3,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,75,86,161,v,SUB: Johnson FOR Paul,Substitution,,0,0,328
+22400498,439,PT03M18.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,75,86,161,h,Vucevic P.FOUL (P2.T3) (J.Butler),Foul,Personal,1,0,329
+22400498,441,PT03M03.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,7,16,2,Missed,1,75,86,161,v,MISS Vassell 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,330
+22400498,442,PT03M01.00S,3,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,75,86,161,h,Ball REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,331
+22400498,444,PT02M48.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,9,19,2,Missed,1,75,86,161,h,MISS LaVine 2' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,332
+22400498,445,PT02M47.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,75,86,161,v,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,333
+22400498,446,PT02M43.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,75,86,161,v,Johnson Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,334
+22400498,446,PT02M43.00S,3,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,75,86,161,h,Ball STEAL (2 STL),,,1,0,335
+22400498,448,PT02M38.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,11,3,1,Made,1,77,86,163,h,LaVine 1' Running Dunk (21 PTS) (Ball 1 AST),Made Shot,Running Dunk Shot,1,2,336
+22400498,450,PT02M23.00S,3,1610612759,SAS,1642264,Castle,S. Castle,-178,249,31,Made,1,77,89,166,v,Castle 31' 3PT Jump Shot (7 PTS) (Vassell 4 AST),Made Shot,Jump Shot,1,3,337
+22400498,452,PT02M14.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,31,255,26,Missed,1,77,89,166,h,MISS Vucevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,338
+22400498,453,PT02M12.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,77,89,166,v,Vassell REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,339
+22400498,454,PT02M07.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,-164,222,28,Made,1,77,92,169,v,Champagnie 28' 3PT Running Jump Shot (9 PTS) (Vassell 5 AST),Made Shot,Running Jump Shot,1,3,340
+22400498,456,PT01M54.00S,3,1610612741,CHI,1628366,Ball,L. Ball,-12,11,2,Made,1,79,92,171,h,Ball 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,341
+22400498,457,PT01M43.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,-232,-10,0,Missed,1,79,92,171,v,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,342
+22400498,458,PT01M41.00S,3,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,79,92,171,h,Ball REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,343
+22400498,459,PT01M41.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,79,92,171,v,Champagnie P.FOUL (P1.T3) (B.Taylor),Foul,Personal,1,0,344
+22400498,461,PT01M41.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,79,92,171,h,SUB: Williams FOR LaVine,Substitution,,0,0,345
+22400498,462,PT01M41.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,79,92,171,h,SUB: Smith FOR Vucevic,Substitution,,0,0,346
+22400498,463,PT01M41.00S,3,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,79,92,171,h,SUB: White FOR Buzelis,Substitution,,0,0,347
+22400498,464,PT01M41.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,79,92,171,v,SUB: Wembanyama FOR Vassell,Substitution,,0,0,348
+22400498,465,PT01M41.00S,3,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,79,92,171,v,SUB: Jones FOR Bassey,Substitution,,0,0,349
+22400498,477,PT01M34.00S,3,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,79,92,171,h,Ball Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,350
+22400498,472,PT01M34.00S,3,0,,1610612759,,,0,0,0,,0,79,92,171,v,Spurs Timeout: Coach Challenge (Reg.3 Short 0),Timeout,Coach Challenge,0,0,351
+22400498,473,PT01M34.00S,3,0,,471,,,0,0,0,,0,79,92,171,,Instant Replay3rd Period (9:37 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,352
+22400498,474,PT01M23.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,146,215,26,Missed,1,79,92,171,v,MISS Wembanyama 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+22400498,475,PT01M21.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,79,92,171,v,Jones REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,354
+22400498,476,PT01M09.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,-13,69,7,Missed,1,79,92,171,v,MISS Johnson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,355
+22400498,478,PT01M07.00S,3,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,79,92,171,h,Smith REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,356
+22400498,479,PT01M04.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,79,92,171,v,Wembanyama S.FOUL (P1.PN) (J.Butler),Foul,Shooting,1,0,357
+22400498,481,PT01M04.00S,3,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,80,92,172,h,Williams Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,358
+22400498,482,PT01M04.00S,3,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,80,92,172,h,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,359
+22400498,483,PT01M00.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,80,92,172,v,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,360
+22400498,484,PT00M50.30S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,87,235,25,Missed,1,80,92,172,v,MISS Champagnie 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,361
+22400498,485,PT00M46.50S,3,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,80,92,172,h,Giddey REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,362
+22400498,486,PT00M39.00S,3,1610612741,CHI,1628366,Ball,L. Ball,200,168,26,Missed,1,80,92,172,h,MISS Ball 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,363
+22400498,487,PT00M35.70S,3,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,80,92,172,h,Smith REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,364
+22400498,488,PT00M35.70S,3,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,Made,1,82,92,174,h,Smith Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,365
+22400498,489,PT00M16.50S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,-175,200,27,Made,1,82,95,177,v,Champagnie 27' 3PT Jump Shot (12 PTS) (Castle 5 AST),Made Shot,Jump Shot,1,3,366
+22400498,491,PT00M00.00S,3,1610612741,CHI,1629632,White,C. White,88,38,10,Missed,1,82,95,177,h,MISS White 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,367
+22400498,492,PT00M00.00S,3,0,,1610612741,,,0,0,0,,0,82,95,177,h,BULLS Rebound,Rebound,Unknown,0,0,368
+22400498,493,PT00M00.00S,3,0,,0,,,0,0,0,,0,82,95,177,,End of 3rd Period (9:42 PM EST),period,end,1,0,369
+22400498,494,PT12M00.00S,4,0,,0,,,0,0,0,,0,82,95,177,,Start of 4th Period (9:44 PM EST),period,start,0,0,370
+22400498,495,PT11M47.00S,4,1610612759,SAS,1642264,Castle,S. Castle,2,8,1,Made,1,82,97,179,v,Castle 1' Alley Oop Dunk (9 PTS) (Wembanyama 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,371
+22400498,497,PT11M32.00S,4,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,82,97,179,h,Ball Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,372
+22400498,498,PT11M23.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,82,97,179,v,Wembanyama Bad Pass Turnover (P5.T12),Turnover,Bad Pass,1,0,373
+22400498,498,PT11M23.00S,4,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,82,97,179,h,Ball STEAL (3 STL),,,1,0,374
+22400498,500,PT11M20.00S,4,1610612741,CHI,1630581,Giddey,J. Giddey,-7,4,1,Made,1,84,97,181,h,Giddey 1' Running Layup (6 PTS) (Ball 2 AST),Made Shot,Running Layup Shot,1,2,375
+22400498,502,PT11M20.00S,4,0,,1610612759,,,0,0,0,,0,84,97,181,v,Spurs Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,376
+22400498,503,PT11M20.00S,4,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,84,97,181,h,SUB: LaVine FOR Ball,Substitution,,0,0,377
+22400498,505,PT11M04.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-234,-15,0,Missed,1,84,97,181,v,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,378
+22400498,506,PT11M01.00S,4,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,84,97,181,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,379
+22400498,508,PT10M47.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,-201,147,25,Made,1,87,97,184,h,LaVine 25' 3PT Jump Shot (24 PTS) (Williams 3 AST),Made Shot,Jump Shot,1,3,380
+22400498,510,PT10M22.00S,4,1610612759,SAS,1642264,Castle,S. Castle,-22,210,21,Missed,1,87,97,184,v,MISS Castle 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,381
+22400498,511,PT10M19.00S,4,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,87,97,184,h,Smith REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,382
+22400498,512,PT10M08.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,83,250,26,Made,1,90,97,187,h,LaVine 26' 3PT Step Back Jump Shot (27 PTS),Made Shot,Step Back Jump shot,1,3,383
+22400498,513,PT09M42.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,-7,43,4,Made,1,90,99,189,v,Johnson 4' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,384
+22400498,514,PT09M32.00S,4,1610612741,CHI,1629632,White,C. White,12,14,2,Missed,1,90,99,189,h,MISS White 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,385
+22400498,514,PT09M32.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,90,99,189,v,Wembanyama BLOCK (6 BLK),,,1,2,386
+22400498,516,PT09M30.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,90,99,189,v,Champagnie REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,387
+22400498,517,PT09M25.00S,4,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,90,99,189,h,Williams S.FOUL (P1.T1) (J.Butler),Foul,Shooting,1,0,388
+22400498,519,PT09M25.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,90,99,189,v,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,389
+22400498,520,PT09M25.00S,4,0,,1610612759,,,0,0,0,,0,90,99,189,v,Spurs Rebound,Rebound,Normal Rebound,0,0,390
+22400498,521,PT09M25.00S,4,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,90,99,189,h,SUB: Phillips FOR Williams,Substitution,,0,0,391
+22400498,523,PT09M25.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,90,99,189,v,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,392
+22400498,524,PT09M23.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,90,99,189,v,Champagnie REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,393
+22400498,525,PT09M15.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,90,99,189,h,White S.FOUL (P3.T2) (B.Taylor),Foul,Shooting,1,0,394
+22400498,527,PT09M15.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,90,99,189,v,MISS Castle Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,395
+22400498,528,PT09M15.00S,4,0,,1610612759,,,0,0,0,,0,90,99,189,v,Spurs Rebound,Rebound,Normal Rebound,0,0,396
+22400498,529,PT09M15.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,90,100,190,v,Castle Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,397
+22400498,530,PT08M57.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,9,9,1,Made,1,92,100,192,h,LaVine 1' Driving Reverse Layup (29 PTS),Made Shot,Driving Reverse Layup Shot,1,2,398
+22400498,532,PT08M53.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,92,100,192,v,Castle Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,399
+22400498,532,PT08M53.00S,4,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,92,100,192,h,Giddey STEAL (2 STL),,,1,0,400
+22400498,534,PT08M53.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,92,100,192,v,Wembanyama P.FOUL (P2.T1) (B.Taylor),Foul,Personal,1,0,401
+22400498,536,PT08M46.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,92,100,192,h,White Lost Ball Turnover (P2.T12),Turnover,Lost Ball,1,0,402
+22400498,536,PT08M46.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,92,100,192,v,Jones STEAL (2 STL),,,1,0,403
+22400498,538,PT08M43.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,92,100,192,v,Jones OFF.Foul (P1) (J.Sterling),Foul,Offensive,1,0,404
+22400498,540,PT08M43.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,92,100,192,v,Jones Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,1,0,405
+22400498,541,PT08M35.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,92,100,192,v,Castle P.FOUL (P2.T2) (B.Taylor),Foul,Personal,1,0,406
+22400498,543,PT08M22.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,156,204,26,Missed,1,92,100,192,h,MISS LaVine 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,407
+22400498,544,PT08M20.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,92,100,192,v,Champagnie REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,408
+22400498,545,PT08M04.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,148,210,26,Missed,1,92,100,192,v,MISS Champagnie 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,409
+22400498,546,PT08M04.00S,4,0,,1610612741,,,0,0,0,,0,92,100,192,h,BULLS Rebound,Rebound,Unknown,1,0,410
+22400498,550,PT07M49.00S,4,1610612741,CHI,1630188,Smith,J. Smith,2,9,1,Missed,1,92,100,192,h,MISS Smith 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,411
+22400498,550,PT07M49.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,92,100,192,v,Wembanyama BLOCK (7 BLK),,,1,2,412
+22400498,552,PT07M48.00S,4,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,92,100,192,h,Smith REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,413
+22400498,553,PT07M48.00S,4,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,Missed,1,92,100,192,h,MISS Smith Putback Layup,Missed Shot,Putback Layup Shot,1,2,414
+22400498,553,PT07M48.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,92,100,192,v,Wembanyama BLOCK (8 BLK),,,1,2,415
+22400498,555,PT07M48.00S,4,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,92,100,192,h,Smith REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,416
+22400498,556,PT07M48.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,92,100,192,v,Wembanyama S.FOUL (P3.T3) (J.Sterling),Foul,Shooting,1,0,417
+22400498,558,PT07M48.00S,4,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,93,100,193,h,Smith Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,418
+22400498,559,PT07M48.00S,4,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,93,100,193,h,SUB: Ball FOR Giddey,Substitution,,0,0,419
+22400498,561,PT07M48.00S,4,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,94,100,194,h,Smith Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,420
+22400498,562,PT07M33.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,1,6,1,Made,1,94,102,196,v,Johnson 1' Cutting Dunk Shot (11 PTS) (Castle 6 AST),Made Shot,Cutting Dunk Shot,1,2,421
+22400498,564,PT07M20.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,94,102,196,v,Castle S.FOUL (P3.T4) (J.Butler),Foul,Shooting,1,0,422
+22400498,566,PT07M20.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,95,102,197,h,LaVine Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,1,0,423
+22400498,567,PT07M20.00S,4,1610612759,SAS,1642264,Castle,S. Castle,0,0,0,,0,95,102,197,v,SUB: Vassell FOR Castle,Substitution,,0,0,424
+22400498,568,PT07M20.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,95,102,197,v,SUB: Barnes FOR Champagnie,Substitution,,0,0,425
+22400498,569,PT07M20.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,95,102,197,v,SUB: Paul FOR Jones,Substitution,,0,0,426
+22400498,573,PT07M20.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,96,102,198,h,LaVine Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,1,0,427
+22400498,574,PT07M00.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-208,44,21,Missed,1,96,102,198,v,MISS Wembanyama 21' Jump Shot,Missed Shot,Jump Shot,1,2,428
+22400498,575,PT06M58.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,96,102,198,h,White REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,429
+22400498,576,PT06M53.00S,4,1610612741,CHI,1629632,White,C. White,-172,194,26,Made,1,99,102,201,h,White 26' 3PT Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,3,430
+22400498,577,PT06M32.00S,4,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,99,102,201,h,Ball S.FOUL (P1.T3) (J.Butler),Foul,Shooting,1,0,431
+22400498,579,PT06M32.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,99,102,201,v,MISS Wembanyama Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,432
+22400498,580,PT06M32.00S,4,0,,1610612759,,,0,0,0,,0,99,102,201,v,Spurs Rebound,Rebound,Normal Rebound,0,0,433
+22400498,581,PT06M32.00S,4,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,99,102,201,h,SUB: Vucevic FOR Smith,Substitution,,0,0,434
+22400498,582,PT06M32.00S,4,1610612741,CHI,1641763,Phillips,J. Phillips,0,0,0,,0,99,102,201,h,SUB: Williams FOR Phillips,Substitution,,0,0,435
+22400498,585,PT06M32.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,99,103,202,v,Wembanyama Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,436
+22400498,586,PT06M24.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,-9,5,1,Missed,1,99,103,202,h,MISS LaVine 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,437
+22400498,587,PT06M22.00S,4,1610612759,SAS,203084,Barnes,H. Barnes,0,0,0,,0,99,103,202,v,Barnes REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,438
+22400498,588,PT06M12.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,99,103,202,v,Vassell Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,439
+22400498,588,PT06M12.00S,4,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,99,103,202,h,Williams STEAL (1 STL),,,1,0,440
+22400498,598,PT06M09.00S,4,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,99,103,202,h,Williams Out of Bounds Lost Ball Turnover (P2.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,441
+22400498,594,PT06M09.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,99,103,202,v,SUB: Bassey FOR Wembanyama,Substitution,,0,0,442
+22400498,596,PT06M09.00S,4,0,,1610612759,,,0,0,0,,0,99,103,202,v,Spurs Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,443
+22400498,597,PT06M09.00S,4,0,,593,,,0,0,0,,0,99,103,202,,Instant Replay4th Period (10:00 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,444
+22400498,599,PT06M00.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,21,152,15,Missed,1,99,103,202,v,MISS Vassell 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,445
+22400498,600,PT05M59.00S,4,0,,1610612759,,,0,0,0,,0,99,103,202,v,Spurs Rebound,Rebound,Unknown,0,0,446
+22400498,601,PT05M59.00S,4,1610612741,CHI,1630172,Williams,P. Williams,0,0,0,,0,99,103,202,h,Williams L.B.FOUL (P2.T4) (J.Butler),Foul,Loose Ball,1,0,447
+22400498,603,PT05M59.00S,4,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,99,103,202,h,SUB: Giddey FOR Ball,Substitution,,0,0,448
+22400498,605,PT05M49.00S,4,1610612759,SAS,203084,Barnes,H. Barnes,33,18,4,Missed,1,99,103,202,v,MISS Barnes 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,449
+22400498,605,PT05M49.00S,4,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,99,103,202,h,Giddey BLOCK (1 BLK),,,1,2,450
+22400498,607,PT05M46.00S,4,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,99,103,202,h,Giddey REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,451
+22400498,608,PT05M43.00S,4,1610612741,CHI,1630581,Giddey,J. Giddey,6,9,1,Missed,1,99,103,202,h,MISS Giddey 1' Running Layup,Missed Shot,Running Layup Shot,1,2,452
+22400498,608,PT05M43.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,99,103,202,v,Vassell BLOCK (3 BLK),,,1,2,453
+22400498,610,PT05M41.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,99,103,202,v,Bassey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,454
+22400498,611,PT05M29.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,6,84,8,Missed,1,99,103,202,v,MISS Johnson 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,455
+22400498,612,PT05M25.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,99,103,202,h,Vucevic REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,456
+22400498,613,PT05M19.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,99,103,202,v,Bassey S.FOUL (P2.PN) (J.Butler),Foul,Shooting,1,0,457
+22400498,615,PT05M19.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,100,103,203,h,White Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,458
+22400498,616,PT05M19.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,100,103,203,v,SUB: Sochan FOR Johnson,Substitution,,0,0,459
+22400498,618,PT05M19.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,101,103,204,h,White Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,460
+22400498,619,PT05M05.00S,4,1610612759,SAS,101108,Paul,C. Paul,70,100,12,Made,1,101,105,206,v,Paul 12' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,461
+22400498,620,PT04M42.00S,4,1610612741,CHI,1629632,White,C. White,-22,11,2,Missed,1,101,105,206,h,MISS White 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,462
+22400498,620,PT04M42.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,101,105,206,v,Sochan BLOCK (1 BLK),,,1,2,463
+22400498,622,PT04M41.00S,4,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,101,105,206,v,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,464
+22400498,624,PT04M26.00S,4,1610612759,SAS,101108,Paul,C. Paul,141,54,15,Made,1,101,107,208,v,Paul 15' Fadeaway Jumper (15 PTS),Made Shot,Fadeaway Jump Shot,1,2,465
+22400498,625,PT04M25.00S,4,0,,1610612741,,,0,0,0,,0,101,107,208,h,BULLS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,466
+22400498,626,PT04M10.00S,4,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,101,107,208,v,Paul P.FOUL (P2.PN) (J.Sterling),Foul,Personal,1,0,467
+22400498,628,PT04M10.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,102,107,209,h,Vucevic Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,468
+22400498,629,PT04M10.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,103,107,210,h,Vucevic Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,469
+22400498,630,PT03M53.00S,4,1610612759,SAS,101108,Paul,C. Paul,-136,231,27,Made,1,103,110,213,v,Paul 27' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,3,470
+22400498,631,PT03M34.00S,4,1610612741,CHI,1629632,White,C. White,56,246,25,Missed,1,103,110,213,h,MISS White 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,471
+22400498,632,PT03M34.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,103,110,213,h,Vucevic REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,472
+22400498,633,PT03M29.00S,4,1610612741,CHI,1630172,Williams,P. Williams,16,19,2,Missed,1,103,110,213,h,MISS Williams 2' Layup,Missed Shot,Layup Shot,1,2,473
+22400498,634,PT03M29.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,103,110,213,v,Bassey REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,474
+22400498,635,PT03M19.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,103,110,213,v,Bassey OFF.Foul (P3) (B.Taylor),Foul,Offensive,1,0,475
+22400498,637,PT03M19.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,103,110,213,v,Bassey Offensive Foul Turnover (P1.T16),Turnover,Offensive Foul Turnover,1,0,476
+22400498,638,PT03M19.00S,4,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,103,110,213,h,SUB: Ball FOR Giddey,Substitution,,0,0,477
+22400498,639,PT03M19.00S,4,1610612759,SAS,1629646,Bassey,C. Bassey,0,0,0,,0,103,110,213,v,SUB: Wembanyama FOR Bassey,Substitution,,0,0,478
+22400498,642,PT03M08.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,-232,-13,0,Made,1,106,110,216,h,Vucevic 3PT Jump Shot (24 PTS) (LaVine 7 AST),Made Shot,Jump Shot,1,3,479
+22400498,644,PT02M45.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,-241,-4,24,Missed,1,106,110,216,v,MISS Sochan 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,480
+22400498,645,PT02M45.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,106,110,216,h,Vucevic REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,481
+22400498,646,PT02M38.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,-82,243,26,Made,1,109,110,219,h,LaVine 26' 3PT Running Pull-Up Jump Shot (34 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,482
+22400498,647,PT02M20.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,13,258,26,Missed,1,109,110,219,v,MISS Wembanyama 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,483
+22400498,648,PT02M17.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,109,110,219,h,LaVine REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,484
+22400498,649,PT02M06.00S,4,1610612741,CHI,1630172,Williams,P. Williams,132,236,27,Missed,1,109,110,219,h,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,485
+22400498,650,PT02M05.00S,4,0,,1610612759,,,0,0,0,,0,109,110,219,v,Spurs Rebound,Rebound,Unknown,0,0,486
+22400498,654,PT01M47.00S,4,1610612759,SAS,101108,Paul,C. Paul,-137,214,25,Missed,1,109,110,219,v,MISS Paul 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,487
+22400498,655,PT01M43.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,109,110,219,h,LaVine REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,488
+22400498,656,PT01M32.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,-59,195,20,Missed,1,109,110,219,h,MISS LaVine 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,489
+22400498,657,PT01M31.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,109,110,219,v,Wembanyama REBOUND (Off:2 Def:12),Rebound,Unknown,1,0,490
+22400498,658,PT01M10.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,141,162,21,Missed,1,109,110,219,v,MISS Wembanyama 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,491
+22400498,659,PT01M08.00S,4,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,109,110,219,v,Paul REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,492
+22400498,660,PT01M02.00S,4,1610612759,SAS,101108,Paul,C. Paul,-17,133,13,Missed,1,109,110,219,v,MISS Paul 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,493
+22400498,661,PT00M56.90S,4,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,109,110,219,h,Ball REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,494
+22400498,662,PT00M47.10S,4,1610612741,CHI,1629632,White,C. White,-10,6,1,Made,1,111,110,221,h,White 1' Driving Finger Roll Layup (21 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,495
+22400498,663,PT00M32.90S,4,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,111,110,221,v,Vassell Out of Bounds - Bad Pass Turnover Turnover (P4.T17),Turnover,Out of Bounds - Bad Pass Turnover,1,0,496
+22400498,664,PT00M32.90S,4,0,,1610612741,,,0,0,0,,0,111,110,221,h,BULLS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,497
+22400498,665,PT00M15.90S,4,1610612741,CHI,1629632,White,C. White,6,1,1,Made,1,113,110,223,h,White 1' Driving Dunk (23 PTS) (LaVine 8 AST),Made Shot,Driving Dunk Shot,1,2,498
+22400498,667,PT00M15.90S,4,0,,1610612759,,,0,0,0,,0,113,110,223,v,Spurs Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,499
+22400498,668,PT00M15.90S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,113,110,223,v,SUB: Champagnie FOR Sochan,Substitution,,0,0,500
+22400498,670,PT00M08.60S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,12,277,28,Missed,1,113,110,223,v,MISS Wembanyama 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,501
+22400498,671,PT00M05.80S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,113,110,223,h,LaVine REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,502
+22400498,672,PT00M05.80S,4,1610612759,SAS,101108,Paul,C. Paul,0,0,0,,0,113,110,223,v,Paul P.FOUL (P3.PN) (J.Butler),Foul,Personal,1,0,503
+22400498,674,PT00M05.80S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,113,110,223,h,MISS LaVine Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,504
+22400498,675,PT00M05.80S,4,0,,1610612741,,,0,0,0,,0,113,110,223,h,BULLS Rebound,Rebound,Normal Rebound,1,0,505
+22400498,676,PT00M05.80S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,114,110,224,h,LaVine Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,1,0,506
+22400498,677,PT00M05.80S,4,0,,1610612759,,,0,0,0,,0,114,110,224,v,Spurs Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,507
+22400498,689,PT00M05.80S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,213,142,26,Missed,1,114,110,224,v,MISS Champagnie 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,508
+22400498,690,PT00M04.40S,4,0,,1610612759,,,0,0,0,,0,114,110,224,v,Spurs Rebound,Rebound,Unknown,0,0,509
+22400498,680,PT00M04.40S,4,0,,1610612741,,,0,0,0,,0,114,110,224,h,BULLS Timeout: Coach Challenge (Full 6 Short 0),Timeout,Coach Challenge,0,0,510
+22400498,681,PT00M04.40S,4,0,,678,Zidek,G. Zidek,0,0,0,,0,114,110,224,,Instant Replay4th Period (10:21 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,511
+22400498,682,PT00M04.40S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,114,110,224,h,Jump Ball (CC) Vucevic vs. Wembanyama: Tip to Paul,Jump Ball,Coach Challenge,0,0,512
+22400498,685,PT00M00.50S,4,1610612759,SAS,101108,Paul,C. Paul,77,277,29,Missed,1,114,110,224,v,MISS Paul 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,513
+22400498,686,PT00M00.50S,4,0,,1610612759,,,0,0,0,,0,114,110,224,v,Spurs Rebound,Rebound,Unknown,0,0,514
+22400498,687,PT00M00.00S,4,0,,0,,,0,0,0,,0,114,110,224,,End of 4th Period (10:23 PM EST),period,end,1,0,515

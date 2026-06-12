@@ -1,0 +1,522 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22200430,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:42 PM EST),period,start,1,0,1
+22200430,4,PT12M00.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,0,0,0,h,Jump Ball Horford vs. Bol: Tip to White,Jump Ball,,1,0,2
+22200430,7,PT11M45.00S,1,1610612738,BOS,201143,Horford,A. Horford,-228,55,0,Made,1,3,0,3,h,Horford 3PT Jump Shot (3 PTS) (Smart 1 AST),Made Shot,Jump Shot,1,3,3
+22200430,9,PT11M32.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,3,0,3,v,Fultz Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,4
+22200430,10,PT11M17.00S,1,1610612738,BOS,1627759,Brown,J. Brown,183,185,26,Missed,1,3,0,3,h,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+22200430,11,PT11M13.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,3,0,3,v,Bol REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+22200430,13,PT10M52.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,145,260,30,Missed,1,3,0,3,v,MISS F. Wagner 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+22200430,14,PT10M50.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,3,0,3,h,Horford REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+22200430,15,PT10M34.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-70,153,17,Missed,1,3,0,3,h,MISS Tatum 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,9
+22200430,16,PT10M32.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,3,0,3,v,M. Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+22200430,17,PT10M25.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,-36,30,5,Missed,1,3,0,3,v,MISS M. Wagner 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,11
+22200430,18,PT10M25.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,3,0,3,v,Bol REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,12
+22200430,19,PT10M22.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,Made,1,3,2,5,v,Bol Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,13
+22200430,20,PT10M17.00S,1,1610612738,BOS,201143,Horford,A. Horford,9,253,25,Made,1,6,2,8,h,Horford 25' 3PT Jump Shot (6 PTS) (Smart 2 AST),Made Shot,Jump Shot,1,3,14
+22200430,22,PT10M05.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,26,41,5,Missed,1,6,2,8,v,MISS Fultz 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,15
+22200430,24,PT10M01.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,6,2,8,h,Horford REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,16
+22200430,25,PT09M54.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,6,2,8,h,White Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,17
+22200430,25,PT09M54.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,6,2,8,v,Fultz STEAL (1 STL),,,1,0,18
+22200430,27,PT09M49.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,-54,58,8,Made,1,6,4,10,v,Banchero 8' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,19
+22200430,28,PT09M32.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-69,279,29,Missed,1,6,4,10,h,MISS Brown 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,20
+22200430,29,PT09M29.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,6,4,10,h,White REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,21
+22200430,30,PT09M28.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,137,227,27,Made,1,9,4,13,h,Tatum 27' 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,1,3,22
+22200430,32,PT09M11.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,-16,278,28,Missed,1,9,4,13,v,MISS Banchero 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,23
+22200430,33,PT09M10.00S,1,0,,1610612738,,,0,0,0,,0,9,4,13,h,CELTICS Rebound,Rebound,Unknown,1,0,24
+22200430,35,PT09M03.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,9,4,13,h,Smart Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,25
+22200430,35,PT09M03.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,9,4,13,v,Banchero STEAL (1 STL),,,1,0,26
+22200430,37,PT08M59.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,10,48,5,Missed,1,9,4,13,v,MISS Banchero 5' Layup,Missed Shot,Layup Shot,1,2,27
+22200430,37,PT08M59.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,9,4,13,h,Smart BLOCK (1 BLK),,,1,2,28
+22200430,39,PT08M56.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,9,4,13,v,M. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,29
+22200430,40,PT08M55.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,-28,36,5,Missed,1,9,4,13,v,MISS M. Wagner 5' Putback Layup,Missed Shot,Putback Layup Shot,1,2,30
+22200430,40,PT08M55.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,9,4,13,h,White BLOCK (1 BLK),,,1,2,31
+22200430,42,PT08M54.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,9,4,13,v,M. Wagner REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,32
+22200430,43,PT08M54.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,9,4,13,v,M. Wagner Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,33
+22200430,44,PT08M43.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,121,223,25,Made,1,12,4,16,h,Tatum 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,34
+22200430,45,PT08M19.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,-60,272,28,Missed,1,12,4,16,v,MISS M. Wagner 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,35
+22200430,46,PT08M16.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,12,4,16,h,Tatum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+22200430,47,PT08M04.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,2,-10,1,Made,1,14,4,18,h,Tatum 1' Driving Reverse Layup (8 PTS) (Smart 3 AST),Made Shot,Driving Reverse Layup Shot,1,2,37
+22200430,49,PT08M03.00S,1,0,,1610612753,,,0,0,0,,0,14,4,18,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,38
+22200430,50,PT07M54.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,-72,67,10,Missed,1,14,4,18,v,MISS F. Wagner 10' Driving Layup,Missed Shot,Driving Layup Shot,1,2,39
+22200430,50,PT07M54.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,14,4,18,h,Horford BLOCK (1 BLK),,,1,2,40
+22200430,52,PT07M53.00S,1,0,,1610612753,,,0,0,0,,0,14,4,18,v,Magic Rebound,Rebound,Unknown,1,0,41
+22200430,54,PT07M50.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,-2,30,3,Made,1,14,6,20,v,M. Wagner 3' Dunk (2 PTS) (Fultz 1 AST),Made Shot,Dunk Shot,1,2,42
+22200430,56,PT07M50.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,14,6,20,h,White S.FOUL (P1.T1) (J.Williams),Foul,Shooting,1,0,43
+22200430,58,PT07M50.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,14,7,21,v,M. Wagner Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,44
+22200430,59,PT07M41.00S,1,1610612738,BOS,1627759,Brown,J. Brown,67,15,7,Missed,1,14,7,21,h,MISS Brown 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,45
+22200430,60,PT07M38.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,14,7,21,v,Bol REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,46
+22200430,61,PT07M30.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,-237,104,26,Missed,1,14,7,21,v,MISS Fultz 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,47
+22200430,62,PT07M28.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,14,7,21,h,Horford REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,48
+22200430,63,PT07M20.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-243,44,25,Made,1,17,7,24,h,Brown 25' 3PT Jump Shot (3 PTS) (Tatum 1 AST),Made Shot,Jump Shot,1,3,49
+22200430,65,PT07M03.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,17,7,24,h,Brown P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,1,0,50
+22200430,67,PT07M03.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,17,7,24,h,SUB: Williams III FOR White,Substitution,,0,0,51
+22200430,69,PT06M52.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,165,199,26,Made,1,17,10,27,v,M. Wagner 26' 3PT Jump Shot (6 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,1,3,52
+22200430,71,PT06M29.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-54,85,10,Missed,1,17,10,27,h,MISS Tatum 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,53
+22200430,72,PT06M26.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,17,10,27,v,Bol REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,54
+22200430,73,PT06M25.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,17,10,27,v,Bol Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,55
+22200430,74,PT06M17.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,17,10,27,h,Williams III OFF.Foul (P1) (T.Mirkovich),Foul,Offensive,1,0,56
+22200430,76,PT06M17.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,17,10,27,h,Williams III Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,57
+22200430,77,PT06M17.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,17,10,27,v,SUB: Ross FOR F. Wagner,Substitution,,0,0,58
+22200430,79,PT06M05.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,25,283,28,Missed,1,17,10,27,v,MISS Banchero 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,59
+22200430,80,PT06M00.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,17,10,27,v,Fultz REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,60
+22200430,81,PT05M58.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,17,10,27,h,Horford S.FOUL (P1.T3) (T.Mirkovich),Foul,Shooting,1,0,61
+22200430,83,PT05M58.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,17,11,28,v,Banchero Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,62
+22200430,86,PT05M58.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,17,11,28,v,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,63
+22200430,87,PT05M58.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,17,11,28,h,Williams III REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+22200430,84,PT05M58.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,17,11,28,h,SUB: Brogdon FOR Tatum,Substitution,,0,0,65
+22200430,88,PT05M40.00S,1,1610612738,BOS,201143,Horford,A. Horford,210,131,25,Missed,1,17,11,28,h,MISS Horford 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,66
+22200430,89,PT05M38.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,17,11,28,v,Banchero REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,67
+22200430,90,PT05M30.00S,1,1610612753,ORL,203082,Ross,T. Ross,229,109,25,Missed,1,17,11,28,v,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,68
+22200430,91,PT05M29.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,17,11,28,h,Horford REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,69
+22200430,92,PT05M19.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,10,10,1,Made,1,19,11,30,h,Williams III 1' Alley Oop Dunk (2 PTS) (Smart 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,70
+22200430,95,PT05M01.00S,1,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,19,11,30,h,SUB: Williams FOR Horford,Substitution,,0,0,71
+22200430,97,PT04M56.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,19,11,30,h,Williams III S.FOUL (P2.T4) (J.DeRosa),Foul,Shooting,1,0,72
+22200430,99,PT04M56.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,19,12,31,v,Bol Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,73
+22200430,100,PT04M56.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,19,12,31,v,MISS Bol Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,74
+22200430,101,PT04M56.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,19,12,31,h,Williams III REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,75
+22200430,102,PT04M41.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,19,12,31,h,Brown Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,76
+22200430,102,PT04M41.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,19,12,31,v,M. Wagner STEAL (1 STL),,,1,0,77
+22200430,104,PT04M37.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,4,25,3,Made,1,19,14,33,v,M. Wagner 3' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,78
+22200430,105,PT04M21.00S,1,1610612738,BOS,1629684,Williams,G. Williams,-164,197,26,Missed,1,19,14,33,h,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,79
+22200430,106,PT04M18.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,19,14,33,v,Banchero REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,80
+22200430,107,PT04M13.00S,1,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,19,14,33,h,Brogdon P.FOUL (P1.PN) (J.DeRosa),Foul,Personal,1,0,81
+22200430,109,PT04M13.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,19,15,34,v,Banchero Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,82
+22200430,110,PT04M13.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,19,15,34,v,SUB: Anthony FOR Bol,Substitution,,0,0,83
+22200430,112,PT04M13.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,19,16,35,v,Banchero Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,84
+22200430,114,PT03M57.00S,1,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,19,16,35,h,SUB: Hauser FOR Smart,Substitution,,0,0,85
+22200430,116,PT03M50.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,19,16,35,h,Brown Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,86
+22200430,116,PT03M50.00S,1,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,19,16,35,v,Ross STEAL (1 STL),,,1,0,87
+22200430,118,PT03M43.00S,1,1610612753,ORL,1630175,Anthony,C. Anthony,-47,32,6,Missed,1,19,16,35,v,MISS Anthony 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,88
+22200430,119,PT03M40.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,19,16,35,v,Fultz REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,89
+22200430,120,PT03M38.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,19,16,35,v,Fultz OFF.Foul (P1) (J.Williams),Foul,Offensive,1,0,90
+22200430,122,PT03M38.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,19,16,35,v,Fultz Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,1,0,91
+22200430,123,PT03M27.00S,1,1610612738,BOS,1627763,Brogdon,M. Brogdon,-29,47,6,Missed,1,19,16,35,h,MISS Brogdon 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,92
+22200430,123,PT03M27.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,19,16,35,v,Fultz BLOCK (1 BLK),,,1,2,93
+22200430,125,PT03M27.00S,1,0,,1610612738,,,0,0,0,,0,19,16,35,h,CELTICS Rebound,Rebound,Unknown,1,0,94
+22200430,127,PT03M24.00S,1,1610612738,BOS,1629684,Williams,G. Williams,235,-8,24,Made,1,22,16,38,h,Williams 24' 3PT Jump Shot (3 PTS) (Brown 1 AST),Made Shot,Jump Shot,1,3,95
+22200430,129,PT03M05.00S,1,1610612753,ORL,203082,Ross,T. Ross,109,251,27,Missed,1,22,16,38,v,MISS Ross 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,96
+22200430,130,PT03M02.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,22,16,38,v,M. Wagner REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,97
+22200430,131,PT02M56.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,22,16,38,h,Williams III S.FOUL (P3.PN) (T.Mirkovich),Foul,Shooting,1,0,98
+22200430,133,PT02M56.00S,1,0,,1610612738,,,0,0,0,,0,22,16,38,h,CELTICS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,99
+22200430,134,PT02M56.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,22,16,38,h,SUB: Kornet FOR Brown,Substitution,,0,0,100
+22200430,135,PT02M56.00S,1,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,22,16,38,h,SUB: Tatum FOR Williams III,Substitution,,0,0,101
+22200430,136,PT02M56.00S,1,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,22,16,38,v,SUB: Bamba FOR M. Wagner,Substitution,,0,0,102
+22200430,140,PT02M56.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,22,17,39,v,Fultz Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,103
+22200430,141,PT02M56.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,22,18,40,v,Fultz Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,104
+22200430,142,PT02M43.00S,1,1610612738,BOS,1627763,Brogdon,M. Brogdon,-47,112,12,Made,1,24,18,42,h,Brogdon 12' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,105
+22200430,143,PT02M20.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,48,47,7,Made,1,24,20,44,v,Fultz 7' Driving Bank Hook Shot (4 PTS),Made Shot,Driving Bank Hook Shot,1,2,106
+22200430,144,PT02M09.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-152,207,26,Missed,1,24,20,44,h,MISS Tatum 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,107
+22200430,145,PT02M06.00S,1,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,24,20,44,v,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,108
+22200430,146,PT01M58.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,188,183,26,Made,1,24,23,47,v,Banchero 26' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,1,3,109
+22200430,147,PT01M46.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,24,23,47,v,Banchero P.FOUL (P1.T1) (J.DeRosa),Foul,Personal,1,0,110
+22200430,149,PT01M46.00S,1,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,24,23,47,v,SUB: F. Wagner FOR Fultz,Substitution,,0,0,111
+22200430,151,PT01M41.00S,1,1610612738,BOS,1627763,Brogdon,M. Brogdon,-65,76,10,Made,1,26,23,49,h,Brogdon 10' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,112
+22200430,152,PT01M29.00S,1,1610612753,ORL,1630175,Anthony,C. Anthony,-172,88,19,Made,1,26,25,51,v,Anthony 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,113
+22200430,153,PT01M14.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,234,27,24,Missed,1,26,25,51,h,MISS Tatum 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+22200430,154,PT01M12.00S,1,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,26,25,51,v,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,115
+22200430,155,PT01M03.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,-93,62,11,Made,1,26,27,53,v,F. Wagner 11' Driving Bank Hook Shot (2 PTS) (Anthony 1 AST),Made Shot,Driving Bank Hook Shot,1,2,116
+22200430,156,PT00M47.60S,1,1610612738,BOS,1627763,Brogdon,M. Brogdon,107,243,27,Missed,1,26,27,53,h,MISS Brogdon 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,117
+22200430,157,PT00M42.80S,1,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,26,27,53,v,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,118
+22200430,159,PT00M33.10S,1,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,26,27,53,h,Kornet S.FOUL (P1.PN) (J.Williams),Foul,Shooting,1,0,119
+22200430,161,PT00M33.10S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,26,28,54,v,Banchero Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,120
+22200430,162,PT00M33.10S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,26,29,55,v,Banchero Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,121
+22200430,163,PT00M16.30S,1,1610612738,BOS,1628369,Tatum,J. Tatum,11,88,9,Made,1,28,29,57,h,Tatum 9' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,122
+22200430,164,PT00M00.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,142,227,27,Made,1,28,32,60,v,Banchero 27' 3PT Jump Shot (13 PTS) (Ross 1 AST),Made Shot,Jump Shot,1,3,123
+22200430,166,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,32,60,,End of 1st Period (8:08 PM EST),period,end,1,0,124
+22200430,167,PT00M00.00S,1,0,,164,Childs,C. Childs,0,0,0,,0,28,32,60,,Instant Replay1st Period (8:08 PM EST),Instant Replay,Support Ruling,0,0,125
+22200430,174,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,32,60,,Start of 2nd Period (8:11 PM EST),period,start,0,0,126
+22200430,175,PT11M45.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,88,61,11,Missed,1,28,32,60,v,MISS Bamba 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,127
+22200430,175,PT11M45.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,28,32,60,h,Williams III BLOCK (1 BLK),,,1,2,128
+22200430,177,PT11M45.00S,2,0,,1610612753,,,0,0,0,,0,28,32,60,v,Magic Rebound,Rebound,Unknown,1,0,129
+22200430,179,PT11M34.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,28,32,60,v,F. Wagner Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,130
+22200430,179,PT11M34.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,28,32,60,h,Williams III STEAL (1 STL),,,1,0,131
+22200430,181,PT11M31.00S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,28,32,60,h,Brogdon Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,132
+22200430,181,PT11M31.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,28,32,60,v,Bamba STEAL (1 STL),,,1,0,133
+22200430,183,PT11M27.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,-227,132,26,Missed,1,28,32,60,v,MISS F. Wagner 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,134
+22200430,184,PT11M25.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,28,32,60,h,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,135
+22200430,185,PT11M15.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,233,-1,0,Missed,1,28,32,60,h,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+22200430,186,PT11M12.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,28,32,60,v,Anthony REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,137
+22200430,187,PT11M05.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,60,64,9,Made,1,28,34,62,v,Anthony 9' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,138
+22200430,188,PT10M44.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-234,83,25,Missed,1,28,34,62,h,MISS Tatum 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+22200430,189,PT10M42.00S,2,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,28,34,62,v,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,140
+22200430,190,PT10M35.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,28,34,62,h,Hauser P.FOUL (P1.T1) (J.DeRosa),Foul,Personal,1,0,141
+22200430,192,PT10M20.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,39,101,11,Missed,1,28,34,62,v,MISS Bamba 11' Hook Shot,Missed Shot,Hook Shot,1,2,142
+22200430,192,PT10M20.00S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,28,34,62,h,Brogdon BLOCK (1 BLK),,,1,2,143
+22200430,193,PT10M18.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,28,34,62,h,White REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,144
+22200430,194,PT10M15.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,28,34,62,v,Bamba S.FOUL (P1.T1) (T.Mirkovich),Foul,Shooting,1,0,145
+22200430,196,PT10M15.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,29,34,63,h,White Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,146
+22200430,198,PT10M15.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,29,34,63,h,MISS White Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,147
+22200430,199,PT10M15.00S,2,1610612753,ORL,1629678,Schofield,A. Schofield,0,0,0,,0,29,34,63,v,Schofield REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,148
+22200430,200,PT09M58.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,-15,27,3,Missed,1,29,34,63,v,MISS F. Wagner 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,149
+22200430,201,PT09M56.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,29,34,63,h,Tatum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,150
+22200430,202,PT09M50.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,199,153,25,Missed,1,29,34,63,h,MISS Hauser 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+22200430,203,PT09M47.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,29,34,63,v,Anthony REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,152
+22200430,204,PT09M27.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,29,34,63,v,Anthony Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,153
+22200430,204,PT09M27.00S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,29,34,63,h,Brogdon STEAL (1 STL),,,1,0,154
+22200430,206,PT09M16.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,7,8,1,Made,1,31,34,65,h,Tatum 1' Driving Dunk (12 PTS),Made Shot,Driving Dunk Shot,1,2,155
+22200430,207,PT09M16.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,31,34,65,v,Bamba S.FOUL (P2.T2) (J.Williams),Foul,Shooting,1,0,156
+22200430,209,PT09M16.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,31,34,65,h,SUB: Smart FOR Hauser,Substitution,,0,0,157
+22200430,211,PT09M16.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,32,34,66,h,Tatum Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,158
+22200430,212,PT09M02.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,86,183,20,Made,1,32,36,68,v,Anthony 20' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,159
+22200430,213,PT08M47.00S,2,1610612753,ORL,1629678,Schofield,A. Schofield,0,0,0,,0,32,36,68,v,Schofield S.FOUL (P1.T3) (J.Williams),Foul,Shooting,1,0,160
+22200430,215,PT08M47.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,33,36,69,h,Tatum Free Throw 1 of 3 (14 PTS),Free Throw,Free Throw 1 of 3,1,0,161
+22200430,216,PT08M47.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,34,36,70,h,Tatum Free Throw 2 of 3 (15 PTS),Free Throw,Free Throw 2 of 3,1,0,162
+22200430,217,PT08M47.00S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,34,36,70,h,SUB: Brown FOR Brogdon,Substitution,,0,0,163
+22200430,219,PT08M47.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,35,36,71,h,Tatum Free Throw 3 of 3 (16 PTS),Free Throw,Free Throw 3 of 3,1,0,164
+22200430,220,PT08M32.00S,2,1610612753,ORL,1629678,Schofield,A. Schofield,-238,57,24,Missed,1,35,36,71,v,MISS Schofield 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+22200430,221,PT08M28.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,35,36,71,v,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,166
+22200430,222,PT08M28.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,Made,1,35,38,73,v,Bamba Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,167
+22200430,223,PT08M19.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-61,260,27,Missed,1,35,38,73,h,MISS Tatum 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,168
+22200430,224,PT08M17.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,35,38,73,h,Tatum REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,169
+22200430,225,PT08M15.00S,2,1610612738,BOS,203935,Smart,M. Smart,-222,131,26,Missed,1,35,38,73,h,MISS Smart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,170
+22200430,226,PT08M15.00S,2,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,35,38,73,v,Ross REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,171
+22200430,227,PT07M58.00S,2,1610612753,ORL,1629678,Schofield,A. Schofield,-33,268,27,Made,1,35,41,76,v,Schofield 27' 3PT Jump Shot (3 PTS) (Ross 2 AST),Made Shot,Jump Shot,1,3,172
+22200430,229,PT07M41.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-54,158,17,Missed,1,35,41,76,h,MISS Brown 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,173
+22200430,230,PT07M38.00S,2,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,35,41,76,v,Ross REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,174
+22200430,231,PT07M33.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,85,58,10,Made,1,35,43,78,v,F. Wagner 10' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,175
+22200430,232,PT07M33.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,35,43,78,h,White S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,1,0,176
+22200430,234,PT07M33.00S,2,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,35,43,78,h,SUB: Horford FOR Williams III,Substitution,,0,0,177
+22200430,236,PT07M33.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,35,44,79,v,F. Wagner Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,178
+22200430,237,PT07M17.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-4,16,2,Made,1,37,44,81,h,Tatum 2' Driving Finger Roll Layup (18 PTS) (Smart 5 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,179
+22200430,239,PT07M13.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,37,44,81,v,Anthony Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,180
+22200430,240,PT07M06.00S,2,1610612753,ORL,1629678,Schofield,A. Schofield,0,0,0,,0,37,44,81,v,Schofield S.FOUL (P2.T4) (J.Williams),Foul,Shooting,1,0,181
+22200430,242,PT07M06.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,38,44,82,h,Tatum Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,182
+22200430,243,PT07M06.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,39,44,83,h,Tatum Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,183
+22200430,244,PT06M48.00S,2,1610612753,ORL,203082,Ross,T. Ross,-20,152,15,Made,1,39,46,85,v,Ross 15' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,2,184
+22200430,254,PT06M33.00S,2,1610612738,BOS,1628401,White,D. White,205,152,26,Missed,1,39,46,85,h,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,185
+22200430,255,PT06M31.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,39,46,85,v,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,186
+22200430,249,PT06M23.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,103,247,27,Missed,1,39,46,85,v,MISS Bamba 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,187
+22200430,250,PT06M23.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,39,46,85,v,F. Wagner REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,188
+22200430,251,PT06M15.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,-130,232,27,Made,1,39,49,88,v,F. Wagner 27' 3PT Jump Shot (8 PTS) (Schofield 1 AST),Made Shot,Jump Shot,1,3,189
+22200430,253,PT06M13.00S,2,0,,1610612738,,,0,0,0,,0,39,49,88,h,CELTICS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,190
+22200430,256,PT06M13.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,39,49,88,h,SUB: Williams FOR Tatum,Substitution,,0,0,191
+22200430,257,PT06M13.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,39,49,88,h,SUB: Brogdon FOR White,Substitution,,0,0,192
+22200430,258,PT06M13.00S,2,1610612753,ORL,1629678,Schofield,A. Schofield,0,0,0,,0,39,49,88,v,SUB: Banchero FOR Schofield,Substitution,,0,0,193
+22200430,262,PT05M51.00S,2,1610612738,BOS,203935,Smart,M. Smart,233,33,24,Missed,1,39,49,88,h,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,194
+22200430,263,PT05M46.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,39,49,88,v,F. Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,195
+22200430,264,PT05M25.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,-116,243,27,Missed,1,39,49,88,v,MISS F. Wagner 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,196
+22200430,265,PT05M24.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,39,49,88,v,Bamba REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,197
+22200430,311,PT05M23.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,-29,13,3,Missed,1,39,49,88,v,MISS F. Wagner 3' Layup,Missed Shot,Layup Shot,1,2,198
+22200430,312,PT05M21.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,39,49,88,v,Bamba REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,199
+22200430,283,PT05M21.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,-11,27,3,Missed,1,39,49,88,v,MISS Bamba 3' Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,200
+22200430,284,PT05M20.00S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,39,49,88,h,Brogdon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,201
+22200430,268,PT05M14.00S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,-23,15,3,Made,1,41,49,90,h,Brogdon 3' Running Layup (6 PTS) (Smart 6 AST),Made Shot,Running Layup Shot,1,2,202
+22200430,271,PT04M56.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,41,49,90,v,SUB: Bol FOR Bamba,Substitution,,0,0,203
+22200430,272,PT04M56.00S,2,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,41,49,90,v,SUB: M. Wagner FOR Ross,Substitution,,0,0,204
+22200430,275,PT04M49.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,-228,78,24,Missed,1,41,49,90,v,MISS Anthony 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,205
+22200430,276,PT04M45.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,41,49,90,h,Horford REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,206
+22200430,277,PT04M38.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-31,159,16,Made,1,43,49,92,h,Brown 16' Pullup Jump Shot (5 PTS) (Horford 1 AST),Made Shot,Pullup Jump shot,1,2,207
+22200430,279,PT04M21.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,43,49,92,h,Smart P.FOUL (P1.T3) (T.Mirkovich),Foul,Personal,1,0,208
+22200430,281,PT04M21.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,43,49,92,v,SUB: Harris FOR F. Wagner,Substitution,,0,0,209
+22200430,285,PT04M21.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,43,49,92,v,SUB: Fultz FOR Anthony,Substitution,,0,0,210
+22200430,287,PT04M11.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,58,40,7,Made,1,43,51,94,v,M. Wagner 7' Driving Layup (10 PTS) (Banchero 1 AST),Made Shot,Driving Layup Shot,1,2,211
+22200430,288,PT04M11.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,43,51,94,h,Smart S.FOUL (P2.T4) (J.DeRosa),Foul,Shooting,1,0,212
+22200430,290,PT04M11.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,43,52,95,v,M. Wagner Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,213
+22200430,291,PT03M59.00S,2,1610612738,BOS,203935,Smart,M. Smart,125,211,25,Missed,1,43,52,95,h,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,214
+22200430,292,PT03M55.00S,2,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,43,52,95,v,Bol REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,215
+22200430,293,PT03M38.00S,2,1610612753,ORL,1629626,Bol,B. Bol,-126,63,14,Missed,1,43,52,95,v,MISS Bol 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,216
+22200430,294,PT03M35.00S,2,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,43,52,95,h,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,217
+22200430,295,PT03M32.00S,2,1610612753,ORL,1630284,Harris,K. Harris,0,0,0,,0,43,52,95,v,Harris P.FOUL (P1.PN) (J.DeRosa),Foul,Personal,1,0,218
+22200430,297,PT03M32.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,44,52,96,h,Smart Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,219
+22200430,299,PT03M32.00S,2,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,44,52,96,h,SUB: Tatum FOR Williams,Substitution,,0,0,220
+22200430,301,PT03M32.00S,2,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,45,52,97,h,Smart Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,221
+22200430,302,PT03M14.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,66,110,13,Missed,1,45,52,97,v,MISS Banchero 13' Driving Layup,Missed Shot,Driving Layup Shot,1,2,222
+22200430,302,PT03M14.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,45,52,97,h,Horford BLOCK (2 BLK),,,1,2,223
+22200430,304,PT03M12.00S,2,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,45,52,97,h,Horford REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,224
+22200430,305,PT03M10.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,45,52,97,v,M. Wagner L.B.FOUL (P1.PN) (J.Williams),Foul,Loose Ball,1,0,225
+22200430,307,PT03M10.00S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,46,52,98,h,Brogdon Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,226
+22200430,308,PT03M10.00S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,47,52,99,h,Brogdon Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,227
+22200430,310,PT02M58.00S,2,0,,1610612753,,,0,0,0,,0,47,52,99,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,228
+22200430,313,PT02M52.00S,2,1610612753,ORL,1630284,Harris,K. Harris,-5,30,3,Made,1,47,54,101,v,Harris 3' Cutting Dunk Shot (2 PTS) (M. Wagner 1 AST),Made Shot,Cutting Dunk Shot,1,2,229
+22200430,314,PT02M35.00S,2,1610612738,BOS,1627759,Brown,J. Brown,100,227,25,Made,1,50,54,104,h,Brown 25' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,3,230
+22200430,315,PT02M19.00S,2,1610612753,ORL,1629626,Bol,B. Bol,-169,203,26,Missed,1,50,54,104,v,MISS Bol 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+22200430,316,PT02M15.00S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,50,54,104,h,Brogdon REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,232
+22200430,317,PT02M11.00S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,9,2,1,Made,1,52,54,106,h,Brogdon 1' Running Layup (10 PTS) (Smart 7 AST),Made Shot,Running Layup Shot,1,2,233
+22200430,319,PT01M55.00S,2,1610612753,ORL,1630284,Harris,K. Harris,-235,42,24,Made,1,52,57,109,v,Harris 24' 3PT Jump Shot (5 PTS) (Fultz 2 AST),Made Shot,Jump Shot,1,3,234
+22200430,321,PT01M41.00S,2,1610612738,BOS,203935,Smart,M. Smart,-229,43,0,Missed,1,52,57,109,h,MISS Smart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,235
+22200430,322,PT01M38.00S,2,1610612753,ORL,1630284,Harris,K. Harris,0,0,0,,0,52,57,109,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,236
+22200430,323,PT01M34.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,52,57,109,h,Brown S.FOUL (P2.PN) (J.Williams),Foul,Shooting,1,0,237
+22200430,325,PT01M34.00S,2,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,52,58,110,v,Bol Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,238
+22200430,327,PT01M34.00S,2,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,52,58,110,v,MISS Bol Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,239
+22200430,328,PT01M34.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,52,58,110,h,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,240
+22200430,329,PT01M18.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,22,270,27,Missed,1,52,58,110,h,MISS Tatum 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,241
+22200430,330,PT01M16.00S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,52,58,110,v,M. Wagner REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,242
+22200430,331,PT01M05.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,-18,82,8,Made,1,52,60,112,v,Banchero 8' Driving Floating Bank Jump Shot (15 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,243
+22200430,332,PT00M55.00S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,-28,39,5,Made,1,54,60,114,h,Brogdon 5' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,244
+22200430,333,PT00M43.30S,2,1610612753,ORL,1628365,Fultz,M. Fultz,-94,63,11,Missed,1,54,60,114,v,MISS Fultz 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,245
+22200430,334,PT00M41.10S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,54,60,114,h,Brogdon REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,246
+22200430,335,PT00M37.20S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,54,60,114,h,Brown Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,247
+22200430,335,PT00M37.20S,2,1610612753,ORL,1630284,Harris,K. Harris,0,0,0,,0,54,60,114,v,Harris STEAL (1 STL),,,1,0,248
+22200430,337,PT00M31.60S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,38,4,Made,1,54,62,116,v,M. Wagner 4' Cutting Dunk Shot (13 PTS) (Banchero 2 AST),Made Shot,Cutting Dunk Shot,1,2,249
+22200430,339,PT00M17.80S,2,1610612738,BOS,1627763,Brogdon,M. Brogdon,47,265,27,Missed,1,54,62,116,h,MISS Brogdon 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,250
+22200430,340,PT00M15.50S,2,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,54,62,116,v,M. Wagner REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,251
+22200430,341,PT00M00.40S,2,1610612753,ORL,1631094,Banchero,P. Banchero,134,229,27,Missed,1,54,62,116,v,MISS Banchero 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,252
+22200430,342,PT00M00.40S,2,0,,1610612753,,,0,0,0,,0,54,62,116,v,Magic Rebound,Rebound,Unknown,1,0,253
+22200430,343,PT00M00.00S,2,0,,0,,,0,0,0,,0,54,62,116,,End of 2nd Period (8:38 PM EST),period,end,1,0,254
+22200430,348,PT12M00.00S,3,0,,0,,,0,0,0,,0,54,62,116,,Start of 3rd Period (8:53 PM EST),period,start,0,0,255
+22200430,349,PT11M44.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,5,5,1,Made,1,54,64,118,v,M. Wagner 1' Cutting Dunk Shot (15 PTS) (F. Wagner 2 AST),Made Shot,Cutting Dunk Shot,1,2,256
+22200430,351,PT11M26.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,54,64,118,v,F. Wagner S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,1,0,257
+22200430,353,PT11M26.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,54,64,118,h,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,258
+22200430,354,PT11M26.00S,3,0,,1610612738,,,0,0,0,,0,54,64,118,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,259
+22200430,355,PT11M26.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,55,64,119,h,Brown Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,260
+22200430,356,PT11M16.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,-49,34,6,Missed,1,55,64,119,v,MISS F. Wagner 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,261
+22200430,356,PT11M16.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,55,64,119,h,Horford BLOCK (3 BLK),,,1,2,262
+22200430,358,PT11M14.00S,3,0,,1610612753,,,0,0,0,,0,55,64,119,v,Magic Rebound,Rebound,Unknown,0,0,263
+22200430,360,PT11M08.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,65,91,11,Made,1,55,66,121,v,F. Wagner 11' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,264
+22200430,361,PT10M55.00S,3,1610612738,BOS,201143,Horford,A. Horford,87,242,26,Missed,1,55,66,121,h,MISS Horford 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,265
+22200430,362,PT10M52.00S,3,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,55,66,121,v,Bol REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,266
+22200430,363,PT10M43.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,194,162,25,Missed,1,55,66,121,v,MISS F. Wagner 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,267
+22200430,364,PT10M41.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,55,66,121,h,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,268
+22200430,367,PT10M39.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,55,66,121,v,Fultz P.FOUL (P2.T2) (J.Williams),Foul,Personal,1,0,269
+22200430,369,PT10M39.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,55,66,121,v,M. Wagner AWAY.FROM.PLAY.FOUL (P2.T3) (J.DeRosa),Foul,Away From Play,1,0,270
+22200430,382,PT10M39.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,56,66,122,h,Tatum Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,1,0,271
+22200430,371,PT10M39.00S,3,0,,369,Ward,C. Ward,0,0,0,,0,56,66,122,,Instant Replay3rd Period (8:57 PM EST),Instant Replay,Overturn Ruling,0,0,272
+22200430,372,PT10M39.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,56,66,122,h,Horford FLAGRANT.FOUL.TYPE2 (P2.T1) (J.DeRosa),Foul,Flagrant Type 2,1,0,273
+22200430,374,PT10M39.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,56,66,122,h,Horford Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,1,0,274
+22200430,392,PT10M39.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,56,66,122,h,Horford Ejection:Other,Ejection,Other,1,0,275
+22200430,375,PT10M39.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,56,67,123,v,M. Wagner Free Throw Flagrant 1 of 2 (16 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,276
+22200430,376,PT10M39.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,56,68,124,v,M. Wagner Free Throw Flagrant 2 of 2 (17 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,277
+22200430,377,PT10M39.00S,3,1610612738,BOS,201143,Horford,A. Horford,0,0,0,,0,56,68,124,h,SUB: Kornet FOR Horford,Substitution,,0,0,278
+22200430,379,PT10M29.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,37,4,4,Made,1,56,70,126,v,F. Wagner 4' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,279
+22200430,380,PT10M16.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,56,70,126,h,Tatum Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,280
+22200430,383,PT10M16.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,56,70,126,h,Tatum L.B.FOUL (P1.T2) (J.Williams),Foul,Loose Ball,1,0,281
+22200430,385,PT10M07.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,51,27,6,Missed,1,56,70,126,v,MISS Fultz 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,282
+22200430,386,PT10M05.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,56,70,126,h,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,283
+22200430,387,PT10M02.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,56,70,126,h,Brown Lost Ball Turnover (P4.T10),Turnover,Lost Ball,1,0,284
+22200430,387,PT10M02.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,56,70,126,v,Fultz STEAL (2 STL),,,1,0,285
+22200430,389,PT09M46.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,56,70,126,h,Kornet S.FOUL (P2.T3) (J.DeRosa),Foul,Shooting,1,0,286
+22200430,391,PT09M46.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,56,71,127,v,M. Wagner Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,287
+22200430,393,PT09M46.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,56,71,127,h,Tatum T.FOUL (P1.T3) (J.Williams),Foul,Technical,1,0,288
+22200430,394,PT09M46.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,56,72,128,v,F. Wagner Free Throw Technical (13 PTS),Free Throw,Free Throw Technical,1,0,289
+22200430,395,PT09M46.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,56,73,129,v,M. Wagner Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,290
+22200430,396,PT09M33.00S,3,1610612738,BOS,1628401,White,D. White,61,84,10,Missed,1,56,73,129,h,MISS White 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,291
+22200430,397,PT09M30.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,56,73,129,v,Fultz REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,292
+22200430,419,PT09M28.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,102,1,10,Missed,1,56,73,129,v,MISS Fultz 10' Layup,Missed Shot,Layup Shot,1,2,293
+22200430,419,PT09M28.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,56,73,129,h,Brown BLOCK (1 BLK),,,1,2,294
+22200430,421,PT09M28.00S,3,0,,1610612738,,,0,0,0,,0,56,73,129,h,CELTICS Rebound,Rebound,Unknown,0,0,295
+22200430,399,PT09M18.00S,3,1610612738,BOS,1628401,White,D. White,-232,72,24,Missed,1,56,73,129,h,MISS White 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,296
+22200430,400,PT09M16.00S,3,0,,1610612753,,,0,0,0,,0,56,73,129,v,Magic Rebound,Rebound,Unknown,0,0,297
+22200430,402,PT09M08.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,-21,142,14,Made,1,56,75,131,v,Fultz 14' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,298
+22200430,403,PT09M05.00S,3,0,,1610612753,,,0,0,0,,0,56,75,131,v,Magic Violation: Delay of game Violation,Violation,Delay Of Game,0,0,299
+22200430,404,PT08M45.00S,3,1610612738,BOS,203935,Smart,M. Smart,-22,26,3,Made,1,58,75,133,h,Smart 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,300
+22200430,405,PT08M35.00S,3,1610612753,ORL,1629626,Bol,B. Bol,-2,57,6,Missed,1,58,75,133,v,MISS Bol 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,301
+22200430,406,PT08M33.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,58,75,133,h,Kornet REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,302
+22200430,407,PT08M23.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-238,45,24,Missed,1,58,75,133,h,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,303
+22200430,408,PT08M20.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,58,75,133,h,Smart REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,304
+22200430,409,PT08M18.00S,3,1610612738,BOS,203935,Smart,M. Smart,173,178,25,Missed,1,58,75,133,h,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,305
+22200430,410,PT08M15.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,58,75,133,h,Kornet REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,306
+22200430,411,PT08M15.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,Made,1,60,75,135,h,Kornet Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,307
+22200430,412,PT08M15.00S,3,0,,1610612753,,,0,0,0,,0,60,75,135,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,308
+22200430,413,PT08M03.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,-22,32,4,Missed,1,60,75,135,v,MISS F. Wagner 4' Layup,Missed Shot,Layup Shot,1,2,309
+22200430,413,PT08M03.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,60,75,135,h,White BLOCK (2 BLK),,,1,2,310
+22200430,415,PT08M03.00S,3,0,,1610612738,,,0,0,0,,0,60,75,135,h,CELTICS Rebound,Rebound,Unknown,0,0,311
+22200430,417,PT07M50.00S,3,1610612738,BOS,203935,Smart,M. Smart,233,64,24,Made,1,63,75,138,h,Smart 24' 3PT Jump Shot (7 PTS) (Tatum 2 AST),Made Shot,Jump Shot,1,3,312
+22200430,422,PT07M27.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,67,32,7,Missed,1,63,75,138,v,MISS Banchero 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,313
+22200430,422,PT07M27.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,63,75,138,h,Brown BLOCK (2 BLK),,,1,2,314
+22200430,424,PT07M27.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,63,75,138,h,Brown REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,315
+22200430,425,PT07M23.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,63,75,138,h,Brown Traveling Turnover (P5.T11),Turnover,Traveling,1,0,316
+22200430,426,PT07M10.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,63,75,138,v,Fultz Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,317
+22200430,426,PT07M10.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,63,75,138,h,Brown STEAL (1 STL),,,1,0,318
+22200430,428,PT07M05.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,25,31,4,Missed,1,63,75,138,h,MISS Tatum 4' Layup,Missed Shot,Layup Shot,1,2,319
+22200430,429,PT07M04.00S,3,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,63,75,138,v,Bol REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,320
+22200430,430,PT06M58.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,223,137,26,Missed,1,63,75,138,v,MISS F. Wagner 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,321
+22200430,431,PT06M55.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,63,75,138,v,M. Wagner REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,322
+22200430,432,PT06M54.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,-5,8,1,Made,1,63,77,140,v,M. Wagner 1' Putback Layup (21 PTS),Made Shot,Putback Layup Shot,1,2,323
+22200430,433,PT06M44.00S,3,1610612738,BOS,203935,Smart,M. Smart,91,255,27,Missed,1,63,77,140,h,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,324
+22200430,434,PT06M41.00S,3,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,63,77,140,v,Bol REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,325
+22200430,435,PT06M32.00S,3,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,63,77,140,v,Bol Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,326
+22200430,435,PT06M32.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,63,77,140,h,Smart STEAL (1 STL),,,1,0,327
+22200430,437,PT06M27.00S,3,1610612738,BOS,1628401,White,D. White,92,248,26,Missed,1,63,77,140,h,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+22200430,438,PT06M24.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,63,77,140,v,M. Wagner REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,329
+22200430,439,PT06M16.00S,3,1610612753,ORL,1629626,Bol,B. Bol,-232,54,24,Missed,1,63,77,140,v,MISS Bol 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,330
+22200430,440,PT06M15.00S,3,0,,1610612738,,,0,0,0,,0,63,77,140,h,CELTICS Rebound,Rebound,Unknown,1,0,331
+22200430,441,PT06M15.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,63,77,140,v,Banchero L.B.FOUL (P2.T4) (J.Williams),Foul,Loose Ball,1,0,332
+22200430,443,PT06M15.00S,3,1610612738,BOS,1628401,White,D. White,0,0,0,,0,63,77,140,h,SUB: Brogdon FOR White,Substitution,,0,0,333
+22200430,444,PT06M15.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,63,77,140,h,SUB: Williams III FOR Kornet,Substitution,,0,0,334
+22200430,445,PT06M15.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,63,77,140,v,SUB: Ross FOR F. Wagner,Substitution,,0,0,335
+22200430,449,PT06M09.00S,3,1610612738,BOS,1627759,Brown,J. Brown,10,20,2,Made,1,65,77,142,h,Brown 2' Driving Dunk (11 PTS),Made Shot,Driving Dunk Shot,1,2,336
+22200430,450,PT05M51.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,65,77,142,v,M. Wagner Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,337
+22200430,450,PT05M51.00S,3,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,65,77,142,h,Brogdon STEAL (2 STL),,,1,0,338
+22200430,452,PT05M38.00S,3,1610612738,BOS,1627759,Brown,J. Brown,12,24,3,Missed,1,65,77,142,h,MISS Brown 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,339
+22200430,453,PT05M37.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,65,77,142,h,Williams III REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,340
+22200430,454,PT05M37.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,Made,1,67,77,144,h,Williams III Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,341
+22200430,455,PT05M37.00S,3,0,,1610612753,,,0,0,0,,0,67,77,144,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,342
+22200430,456,PT05M37.00S,3,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,67,77,144,v,SUB: Anthony FOR Bol,Substitution,,0,0,343
+22200430,458,PT05M21.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,67,77,144,v,Banchero Offensive Charge Foul (P3) (J.Williams),Foul,Offensive Charge,1,0,344
+22200430,460,PT05M21.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,67,77,144,v,Banchero Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,1,0,345
+22200430,461,PT05M10.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,67,77,144,h,Brown Traveling Turnover (P6.T12),Turnover,Traveling,1,0,346
+22200430,462,PT05M02.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,67,77,144,h,Brown S.FOUL (P3.T4) (J.DeRosa),Foul,Shooting,1,0,347
+22200430,464,PT05M02.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,67,78,145,v,Banchero Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,348
+22200430,465,PT05M02.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,67,79,146,v,Banchero Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,349
+22200430,466,PT04M52.00S,3,1610612738,BOS,1627763,Brogdon,M. Brogdon,-237,68,25,Missed,1,67,79,146,h,MISS Brogdon 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+22200430,467,PT04M51.00S,3,0,,1610612738,,,0,0,0,,0,67,79,146,h,CELTICS Rebound,Rebound,Unknown,1,0,351
+22200430,468,PT04M51.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,67,79,146,v,Fultz L.B.FOUL (P3.PN) (J.Williams),Foul,Loose Ball,1,0,352
+22200430,470,PT04M51.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,67,79,146,h,MISS Williams III Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,353
+22200430,471,PT04M51.00S,3,0,,1610612738,,,0,0,0,,0,67,79,146,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,354
+22200430,472,PT04M51.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,68,79,147,h,Williams III Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,355
+22200430,473,PT04M44.00S,3,1610612753,ORL,203082,Ross,T. Ross,-137,228,27,Missed,1,68,79,147,v,MISS Ross 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,356
+22200430,474,PT04M42.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,68,79,147,h,Tatum REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,357
+22200430,475,PT04M36.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,-2,25,3,Made,1,70,79,149,h,Williams III 3' Running Alley Oop Dunk Shot (7 PTS) (Tatum 3 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,358
+22200430,477,PT04M15.00S,3,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,70,79,149,v,Ross Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,359
+22200430,477,PT04M15.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,70,79,149,h,Tatum STEAL (1 STL),,,1,0,360
+22200430,479,PT04M14.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,70,79,149,v,Fultz P.FOUL (P4.PN) (J.DeRosa),Foul,Personal,1,0,361
+22200430,481,PT04M14.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,71,79,150,h,Smart Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,362
+22200430,482,PT04M14.00S,3,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,71,79,150,h,SUB: Williams FOR Tatum,Substitution,,0,0,363
+22200430,483,PT04M14.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,71,79,150,v,SUB: F. Wagner FOR Fultz,Substitution,,0,0,364
+22200430,484,PT04M14.00S,3,1610612753,ORL,1629021,Wagner,M. Wagner,0,0,0,,0,71,79,150,v,SUB: Bamba FOR M. Wagner,Substitution,,0,0,365
+22200430,488,PT04M14.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,71,79,150,h,MISS Smart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,366
+22200430,489,PT04M14.00S,3,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,71,79,150,v,Bamba REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,367
+22200430,490,PT03M59.00S,3,1610612753,ORL,1628964,Bamba,M. Bamba,-1,5,1,Made,1,71,81,152,v,Bamba 1' Cutting Dunk Shot (4 PTS) (Anthony 2 AST),Made Shot,Cutting Dunk Shot,1,2,368
+22200430,492,PT03M50.00S,3,1610612738,BOS,1627759,Brown,J. Brown,-81,267,28,Missed,1,71,81,152,h,MISS Brown 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,369
+22200430,493,PT03M47.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,71,81,152,h,Williams III REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,370
+22200430,494,PT03M45.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,71,81,152,v,F. Wagner S.FOUL (P2.PN) (J.Williams),Foul,Shooting,1,0,371
+22200430,496,PT03M45.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,72,81,153,h,Brown Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,372
+22200430,499,PT03M45.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,73,81,154,h,Brown Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,373
+22200430,497,PT03M45.00S,3,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,73,81,154,h,SUB: Hauser FOR Smart,Substitution,,0,0,374
+22200430,500,PT03M27.00S,3,1610612753,ORL,203082,Ross,T. Ross,80,252,26,Made,1,73,84,157,v,Ross 26' 3PT Jump Shot (5 PTS) (Banchero 3 AST),Made Shot,Jump Shot,1,3,375
+22200430,502,PT03M11.00S,3,1610612738,BOS,1629684,Williams,G. Williams,-237,119,27,Missed,1,73,84,157,h,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,376
+22200430,503,PT03M07.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,73,84,157,v,F. Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,377
+22200430,504,PT02M57.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,73,84,157,v,Banchero Traveling Turnover (P2.T13),Turnover,Traveling,1,0,378
+22200430,505,PT02M44.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,-5,22,2,Made,1,75,84,159,h,Williams III 2' Cutting Dunk Shot (9 PTS) (Brown 2 AST),Made Shot,Cutting Dunk Shot,1,2,379
+22200430,507,PT02M31.00S,3,1610612753,ORL,1630175,Anthony,C. Anthony,150,207,26,Missed,1,75,84,159,v,MISS Anthony 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+22200430,508,PT02M28.00S,3,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,75,84,159,h,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,381
+22200430,509,PT02M28.00S,3,0,,1610612738,,,0,0,0,,0,75,84,159,h,CELTICS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,382
+22200430,510,PT02M19.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,75,84,159,h,Brown Step Out of Bounds Turnover (P7.T13),Turnover,Step Out of Bounds Turnover,1,0,383
+22200430,511,PT02M05.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,75,84,159,v,F. Wagner Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,384
+22200430,511,PT02M05.00S,3,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,75,84,159,h,Williams STEAL (1 STL),,,1,0,385
+22200430,513,PT02M02.00S,3,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,75,84,159,v,Anthony S.FOUL (P1.PN) (T.Mirkovich),Foul,Shooting,1,0,386
+22200430,515,PT02M02.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,76,84,160,h,Brown Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,387
+22200430,516,PT02M02.00S,3,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,76,84,160,h,SUB: Griffin FOR Williams III,Substitution,,0,0,388
+22200430,518,PT02M02.00S,3,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,77,84,161,h,Brown Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,389
+22200430,519,PT01M43.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,18,-5,2,Made,1,77,86,163,v,F. Wagner 2' Cutting Layup Shot (15 PTS) (Banchero 4 AST),Made Shot,Cutting Layup Shot,1,2,390
+22200430,521,PT01M24.00S,3,1610612738,BOS,1629684,Williams,G. Williams,13,79,8,Missed,1,77,86,163,h,MISS Williams 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,391
+22200430,522,PT01M21.00S,3,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,77,86,163,h,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,392
+22200430,523,PT01M21.00S,3,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,Made,1,79,86,165,h,Williams Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,393
+22200430,524,PT01M05.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,26,44,5,Missed,1,79,86,165,v,MISS F. Wagner 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,394
+22200430,525,PT01M00.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,79,86,165,h,Hauser REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,395
+22200430,526,PT00M49.10S,3,1610612738,BOS,1627759,Brown,J. Brown,32,161,16,Missed,1,79,86,165,h,MISS Brown 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,396
+22200430,527,PT00M47.20S,3,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,79,86,165,v,Anthony REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,397
+22200430,528,PT00M33.30S,3,1610612753,ORL,1630175,Anthony,C. Anthony,76,169,19,Made,1,79,88,167,v,Anthony 19' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,398
+22200430,529,PT00M11.20S,3,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,79,88,167,v,Bamba FLAGRANT.FOUL.TYPE1 (P3.PN) (J.Williams),Foul,Flagrant Type 1,1,0,399
+22200430,531,PT00M11.20S,3,0,,529,,,0,0,0,,0,79,88,167,,Instant Replay3rd Period (9:30 PM EST),Instant Replay,Overturn Ruling,0,0,400
+22200430,691,PT00M11.20S,3,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,79,88,167,h,SUB: Smart FOR Hauser,Substitution,,0,0,401
+22200430,532,PT00M11.20S,3,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,80,88,168,h,Williams Free Throw Flagrant 1 of 2 (6 PTS),Free Throw,Free Throw Flagrant 1 of 2,1,0,402
+22200430,533,PT00M11.20S,3,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,81,88,169,h,Williams Free Throw Flagrant 2 of 2 (7 PTS),Free Throw,Free Throw Flagrant 2 of 2,1,0,403
+22200430,534,PT00M06.30S,3,1610612738,BOS,1627763,Brogdon,M. Brogdon,-67,163,18,Missed,1,81,88,169,h,MISS Brogdon 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,404
+22200430,535,PT00M03.20S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,81,88,169,v,F. Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,405
+22200430,536,PT00M00.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,158,218,27,Missed,1,81,88,169,v,MISS F. Wagner 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,406
+22200430,537,PT00M00.00S,3,0,,1610612753,,,0,0,0,,0,81,88,169,v,Magic Rebound,Rebound,Unknown,1,0,407
+22200430,538,PT00M00.00S,3,0,,0,,,0,0,0,,0,81,88,169,,End of 3rd Period (9:34 PM EST),period,end,1,0,408
+22200430,545,PT12M00.00S,4,0,,0,,,0,0,0,,0,81,88,169,,Start of 4th Period (9:37 PM EST),period,start,0,0,409
+22200430,546,PT11M46.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,40,215,22,Missed,1,81,88,169,h,MISS Tatum 22' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,410
+22200430,547,PT11M43.00S,4,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,81,88,169,v,Ross REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,411
+22200430,548,PT11M21.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,77,60,10,Made,1,81,90,171,v,Anthony 10' Turnaround Bank Shot (10 PTS),Made Shot,Turnaround Bank shot,1,2,412
+22200430,549,PT10M59.00S,4,1610612738,BOS,1629684,Williams,G. Williams,223,119,25,Missed,1,81,90,171,h,MISS Williams 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,413
+22200430,550,PT10M56.00S,4,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,81,90,171,v,Bamba REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,414
+22200430,552,PT10M40.00S,4,1610612738,BOS,201933,Griffin,B. Griffin,0,0,0,,0,81,90,171,h,Griffin S.FOUL (P1.T1) (T.Mirkovich),Foul,Shooting,1,0,415
+22200430,554,PT10M40.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,81,91,172,v,F. Wagner Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,416
+22200430,555,PT10M40.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,81,92,173,v,F. Wagner Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,417
+22200430,556,PT10M31.00S,4,1610612753,ORL,1629678,Schofield,A. Schofield,0,0,0,,0,81,92,173,v,Schofield P.FOUL (P3.T1) (J.Williams),Foul,Personal,1,0,418
+22200430,558,PT10M26.00S,4,1610612738,BOS,1627763,Brogdon,M. Brogdon,97,268,29,Missed,1,81,92,173,h,MISS Brogdon 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,419
+22200430,559,PT10M24.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,81,92,173,h,Tatum REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,420
+22200430,560,PT10M23.00S,4,1610612753,ORL,1629678,Schofield,A. Schofield,0,0,0,,0,81,92,173,v,Schofield S.FOUL (P4.T2) (J.Williams),Foul,Shooting,1,0,421
+22200430,562,PT10M23.00S,4,0,,560,,,0,0,0,,0,81,92,173,,Instant Replay4th Period (9:40 PM EST),Instant Replay,Support Ruling,0,0,422
+22200430,563,PT10M23.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,82,92,174,h,Tatum Free Throw 1 of 3 (22 PTS),Free Throw,Free Throw 1 of 3,1,0,423
+22200430,564,PT10M23.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,83,92,175,h,Tatum Free Throw 2 of 3 (23 PTS),Free Throw,Free Throw 2 of 3,1,0,424
+22200430,565,PT10M23.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,84,92,176,h,Tatum Free Throw 3 of 3 (24 PTS),Free Throw,Free Throw 3 of 3,1,0,425
+22200430,566,PT10M02.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,152,199,25,Missed,1,84,92,176,v,MISS Anthony 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,426
+22200430,567,PT10M00.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,84,92,176,h,Tatum REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,427
+22200430,568,PT09M56.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,84,92,176,h,Tatum Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,428
+22200430,569,PT09M43.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,97,148,18,Made,1,84,94,178,v,Anthony 18' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,429
+22200430,570,PT09M21.00S,4,1610612738,BOS,1628401,White,D. White,54,58,8,Made,1,86,94,180,h,White 8' Driving Layup (3 PTS),Made Shot,Driving Layup Shot,1,2,430
+22200430,571,PT09M01.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,25,5,3,Made,1,86,96,182,v,Anthony 3' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,431
+22200430,572,PT08M43.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-33,258,26,Missed,1,86,96,182,h,MISS Tatum 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,432
+22200430,573,PT08M41.00S,4,0,,1610612753,,,0,0,0,,0,86,96,182,v,Magic Rebound,Rebound,Unknown,1,0,433
+22200430,574,PT08M41.00S,4,1610612738,BOS,201933,Griffin,B. Griffin,0,0,0,,0,86,96,182,h,Griffin L.B.FOUL (P2.T2) (J.DeRosa),Foul,Loose Ball,1,0,434
+22200430,576,PT08M41.00S,4,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,86,96,182,h,SUB: Smart FOR Williams,Substitution,,0,0,435
+22200430,577,PT08M41.00S,4,1610612738,BOS,201933,Griffin,B. Griffin,0,0,0,,0,86,96,182,h,SUB: Williams III FOR Griffin,Substitution,,0,0,436
+22200430,580,PT08M26.00S,4,1610612753,ORL,203082,Ross,T. Ross,-59,81,10,Made,1,86,98,184,v,Ross 10' Driving Floating Jump Shot (7 PTS) (Bamba 1 AST),Made Shot,Driving Floating Jump Shot,1,2,437
+22200430,581,PT08M16.00S,4,1610612738,BOS,1627763,Brogdon,M. Brogdon,67,135,15,Missed,1,86,98,184,h,MISS Brogdon 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,438
+22200430,582,PT08M16.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,86,98,184,v,Anthony REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,439
+22200430,584,PT08M03.00S,4,1610612738,BOS,203935,Smart,M. Smart,0,0,0,,0,86,98,184,h,Smart S.FOUL (P3.T3) (J.Williams),Foul,Shooting,1,0,440
+22200430,586,PT08M03.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,86,99,185,v,F. Wagner Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,441
+22200430,587,PT08M03.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,86,100,186,v,F. Wagner Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,442
+22200430,588,PT07M49.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,-45,35,6,Made,1,88,100,188,h,Tatum 6' Driving Layup (26 PTS),Made Shot,Driving Layup Shot,1,2,443
+22200430,589,PT07M27.00S,4,1610612753,ORL,203082,Ross,T. Ross,-16,128,13,Missed,1,88,100,188,v,MISS Ross 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,444
+22200430,589,PT07M27.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,88,100,188,h,White BLOCK (3 BLK),,,1,2,445
+22200430,591,PT07M24.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,88,100,188,h,White REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,446
+22200430,592,PT07M11.00S,4,1610612738,BOS,1627763,Brogdon,M. Brogdon,230,100,25,Made,1,91,100,191,h,Brogdon 25' 3PT Jump Shot (15 PTS) (Williams III 1 AST),Made Shot,Jump Shot,1,3,447
+22200430,594,PT06M47.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,-29,16,3,Missed,1,91,100,191,v,MISS F. Wagner 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,448
+22200430,595,PT06M47.00S,4,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,91,100,191,v,Bamba REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,449
+22200430,596,PT06M47.00S,4,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,91,100,191,h,Brogdon S.FOUL (P2.T4) (J.DeRosa),Foul,Shooting,1,0,450
+22200430,598,PT06M47.00S,4,0,,1610612738,,,0,0,0,,0,91,100,191,h,CELTICS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,451
+22200430,599,PT06M47.00S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,91,100,191,h,SUB: Brown FOR White,Substitution,,0,0,452
+22200430,600,PT06M47.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,91,100,191,v,SUB: Banchero FOR F. Wagner,Substitution,,0,0,453
+22200430,601,PT06M47.00S,4,1610612753,ORL,1629678,Schofield,A. Schofield,0,0,0,,0,91,100,191,v,SUB: Fultz FOR Schofield,Substitution,,0,0,454
+22200430,605,PT06M47.00S,4,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,91,100,191,v,MISS Bamba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,455
+22200430,606,PT06M47.00S,4,0,,1610612753,,,0,0,0,,0,91,100,191,v,Magic Rebound,Rebound,Normal Rebound,0,0,456
+22200430,607,PT06M47.00S,4,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,91,101,192,v,Bamba Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,457
+22200430,608,PT06M33.00S,4,1610612738,BOS,203935,Smart,M. Smart,33,92,10,Made,1,93,101,194,h,Smart 10' Driving Hook Shot (10 PTS),Made Shot,Driving Hook Shot,1,2,458
+22200430,609,PT06M14.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,178,88,20,Missed,1,93,101,194,v,MISS Banchero 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,459
+22200430,609,PT06M14.00S,4,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,93,101,194,h,Brogdon BLOCK (2 BLK),,,1,2,460
+22200430,611,PT06M12.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,93,101,194,v,Banchero REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,461
+22200430,612,PT06M11.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,9,160,16,Missed,1,93,101,194,v,MISS Banchero 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,462
+22200430,613,PT06M07.00S,4,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,93,101,194,v,Bamba REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,463
+22200430,614,PT06M06.00S,4,1610612753,ORL,203082,Ross,T. Ross,47,249,25,Missed,1,93,101,194,v,MISS Ross 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,464
+22200430,615,PT06M01.00S,4,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,93,101,194,h,Williams III REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,465
+22200430,616,PT05M45.00S,4,1610612738,BOS,1627763,Brogdon,M. Brogdon,140,243,28,Missed,1,93,101,194,h,MISS Brogdon 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,466
+22200430,617,PT05M42.00S,4,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,93,101,194,v,Bamba REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,467
+22200430,618,PT05M28.00S,4,1610612753,ORL,1628964,Bamba,M. Bamba,-93,275,29,Made,1,93,104,197,v,Bamba 29' 3PT Jump Shot (8 PTS) (Fultz 3 AST),Made Shot,Jump Shot,1,3,468
+22200430,620,PT05M09.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-173,205,27,Made,1,96,104,200,h,Brown 27' 3PT Jump Shot (18 PTS) (Smart 8 AST),Made Shot,Jump Shot,1,3,469
+22200430,622,PT04M40.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,-121,289,31,Missed,1,96,104,200,v,MISS Anthony 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,470
+22200430,623,PT04M36.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,96,104,200,v,Fultz REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,471
+22200430,624,PT04M31.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,80,96,12,Made,1,96,106,202,v,Fultz 12' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,472
+22200430,625,PT04M11.00S,4,1610612738,BOS,1627763,Brogdon,M. Brogdon,44,269,27,Missed,1,96,106,202,h,MISS Brogdon 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,473
+22200430,626,PT04M09.00S,4,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,96,106,202,v,Bamba REBOUND (Off:5 Def:6),Rebound,Unknown,1,0,474
+22200430,627,PT03M55.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,98,116,15,Made,1,96,108,204,v,Fultz 15' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,2,475
+22200430,628,PT03M54.00S,4,0,,1610612738,,,0,0,0,,0,96,108,204,h,CELTICS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,476
+22200430,629,PT03M54.00S,4,1610612738,BOS,1627763,Brogdon,M. Brogdon,0,0,0,,0,96,108,204,h,SUB: White FOR Brogdon,Substitution,,0,0,477
+22200430,630,PT03M54.00S,4,1610612738,BOS,1629057,Williams III,R. Williams III,0,0,0,,0,96,108,204,h,SUB: Williams FOR Williams III,Substitution,,0,0,478
+22200430,631,PT03M54.00S,4,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,96,108,204,v,SUB: F. Wagner FOR Ross,Substitution,,0,0,479
+22200430,635,PT03M45.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,96,108,204,v,Anthony P.FOUL (P2.T3) (J.DeRosa),Foul,Personal,1,0,480
+22200430,637,PT03M39.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,25,36,4,Missed,1,96,108,204,h,MISS Tatum 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,481
+22200430,639,PT03M35.00S,4,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,96,108,204,v,Bamba REBOUND (Off:5 Def:7),Rebound,Unknown,1,0,482
+22200430,640,PT03M22.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,50,15,5,Made,1,96,110,206,v,Fultz 5' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,483
+22200430,641,PT03M10.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,96,110,206,v,Fultz P.FOUL (P5.T4) (J.DeRosa),Foul,Personal,1,0,484
+22200430,643,PT03M01.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-53,273,28,Made,1,99,110,209,h,Brown 28' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,3,485
+22200430,644,PT03M01.00S,4,0,,1610612753,,,0,0,0,,0,99,110,209,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,486
+22200430,645,PT02M44.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,232,33,0,Made,1,99,113,212,v,Banchero 3PT Jump Shot (20 PTS) (Fultz 4 AST),Made Shot,Jump Shot,1,3,487
+22200430,647,PT02M30.00S,4,1610612738,BOS,1629684,Williams,G. Williams,235,35,24,Missed,1,99,113,212,h,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,488
+22200430,648,PT02M25.00S,4,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,99,113,212,h,Williams REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,489
+22200430,649,PT02M24.00S,4,1610612738,BOS,1627759,Brown,J. Brown,-239,92,26,Missed,1,99,113,212,h,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,490
+22200430,650,PT02M22.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,99,113,212,v,Banchero REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,491
+22200430,651,PT02M04.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,-174,202,27,Missed,1,99,113,212,v,MISS Anthony 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,492
+22200430,652,PT02M01.00S,4,1610612738,BOS,1629684,Williams,G. Williams,0,0,0,,0,99,113,212,h,Williams REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,493
+22200430,653,PT01M54.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,32,78,8,Made,1,101,113,214,h,Tatum 8' Turnaround Bank Shot (28 PTS) (Brown 3 AST),Made Shot,Turnaround Bank shot,1,2,494
+22200430,655,PT01M33.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,101,113,214,v,Fultz Bad Pass Turnover (P4.T15),Turnover,Bad Pass,1,0,495
+22200430,655,PT01M33.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,101,113,214,h,Tatum STEAL (2 STL),,,1,0,496
+22200430,657,PT01M31.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,101,113,214,v,Banchero P.FOUL (P4.PN) (J.DeRosa),Foul,Personal,1,0,497
+22200430,659,PT01M31.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,102,113,215,h,Tatum Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,1,0,498
+22200430,660,PT01M31.00S,4,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,102,113,215,v,SUB: M. Wagner FOR Bamba,Substitution,,0,0,499
+22200430,662,PT01M31.00S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,102,113,215,h,MISS Tatum Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,500
+22200430,663,PT01M31.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,102,113,215,v,Banchero REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,501
+22200430,664,PT01M20.00S,4,1610612753,ORL,1629021,Wagner,M. Wagner,5,12,1,Made,1,102,115,217,v,M. Wagner 1' Cutting Dunk Shot (23 PTS) (Banchero 5 AST),Made Shot,Cutting Dunk Shot,1,2,502
+22200430,666,PT01M09.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,102,115,217,v,Banchero S.FOUL (P5.PN) (J.Williams),Foul,Shooting,1,0,503
+22200430,668,PT01M09.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,103,115,218,h,Brown Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,504
+22200430,669,PT01M09.00S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,104,115,219,h,Brown Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,505
+22200430,670,PT00M57.90S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,104,115,219,v,Fultz OFF.Foul (P6) (J.DeRosa),Foul,Offensive,1,0,506
+22200430,672,PT00M57.90S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,104,115,219,v,Fultz Offensive Foul Turnover (P5.T16),Turnover,Offensive Foul Turnover,1,0,507
+22200430,673,PT00M57.90S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,104,115,219,v,SUB: Harris FOR Fultz,Substitution,,0,0,508
+22200430,675,PT00M53.90S,4,1610612738,BOS,1627759,Brown,J. Brown,-11,29,3,Made,1,106,115,221,h,Brown 3' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,2,509
+22200430,676,PT00M44.20S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,106,115,221,v,Banchero Bad Pass Turnover (P3.T17),Turnover,Bad Pass,1,0,510
+22200430,676,PT00M44.20S,4,1610612738,BOS,1628401,White,D. White,0,0,0,,0,106,115,221,h,White STEAL (1 STL),,,1,0,511
+22200430,678,PT00M40.50S,4,1610612738,BOS,1627759,Brown,J. Brown,-169,210,27,Missed,1,106,115,221,h,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,512
+22200430,679,PT00M37.50S,4,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,106,115,221,h,Tatum REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,513
+22200430,680,PT00M36.10S,4,1610612738,BOS,1628369,Tatum,J. Tatum,12,21,2,Made,1,108,115,223,h,Tatum 2' Layup (31 PTS),Made Shot,Layup Shot,1,2,514
+22200430,681,PT00M26.60S,4,1610612753,ORL,1629021,Wagner,M. Wagner,-4,5,1,Made,1,108,117,225,v,M. Wagner 1' Driving Dunk (25 PTS) (Anthony 3 AST),Made Shot,Driving Dunk Shot,1,2,515
+22200430,683,PT00M25.70S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,108,117,225,v,F. Wagner P.FOUL (P3.PN) (J.Williams),Foul,Personal,1,0,516
+22200430,685,PT00M25.70S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,108,117,225,h,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,517
+22200430,686,PT00M25.70S,4,0,,1610612738,,,0,0,0,,0,108,117,225,h,CELTICS Rebound,Rebound,Normal Rebound,0,0,518
+22200430,687,PT00M25.70S,4,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,109,117,226,h,Brown Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,519
+22200430,688,PT00M01.10S,4,0,,1610612753,,,0,0,0,,0,109,117,226,v,Magic Turnover: Shot Clock (T#18),Turnover,Shot Clock Turnover,1,0,520
+22200430,689,PT00M00.00S,4,0,,0,,,0,0,0,,0,109,117,226,,End of 4th Period (10:07 PM EST),period,end,1,0,521

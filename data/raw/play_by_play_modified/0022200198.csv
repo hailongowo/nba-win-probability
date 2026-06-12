@@ -1,0 +1,478 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22200198,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:41 PM EST),period,start,0,0,1
+22200198,4,PT12M00.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Jump Ball Davis vs. Claxton: Tip to Reaves,Jump Ball,,1,0,2
+22200198,7,PT11M40.00S,1,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,223,43,0,Missed,1,0,0,0,h,MISS Brown Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+22200198,8,PT11M38.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Davis REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,4
+22200198,9,PT11M37.00S,1,1610612747,LAL,203076,Davis,A. Davis,54,52,7,Missed,1,0,0,0,h,MISS Davis 7' Putback Layup,Missed Shot,Putback Layup Shot,1,2,5
+22200198,9,PT11M37.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,0,0,0,v,Durant BLOCK (1 BLK),,,1,2,6
+22200198,11,PT11M37.00S,1,0,,1610612747,,,0,0,0,,0,0,0,0,h,LAKERS Rebound,Rebound,Unknown,0,0,7
+22200198,12,PT11M34.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,0,0,0,v,O'Neale S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,1,0,8
+22200198,14,PT11M34.00S,1,1610612747,LAL,1629022,Walker IV,L. Walker IV,0,0,0,,0,1,0,1,h,Walker IV Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,9
+22200198,15,PT11M34.00S,1,1610612747,LAL,1629022,Walker IV,L. Walker IV,0,0,0,,0,2,0,2,h,Walker IV Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,10
+22200198,16,PT11M17.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,-4,70,7,Made,1,2,2,4,v,Claxton 7' Floating Jump Shot (2 PTS) (O'Neale 1 AST),Made Shot,Floating Jump shot,1,2,11
+22200198,19,PT10M51.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-118,15,12,Missed,1,2,2,4,h,MISS Reaves 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,12
+22200198,20,PT10M49.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,2,2,4,v,Durant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+22200198,21,PT10M36.00S,1,1610612751,BKN,1628410,Sumner,E. Sumner,-229,13,0,Missed,1,2,2,4,v,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+22200198,22,PT10M35.00S,1,0,,1610612747,,,0,0,0,,0,2,2,4,h,LAKERS Rebound,Rebound,Unknown,1,0,15
+22200198,24,PT10M16.00S,1,1610612747,LAL,203076,Davis,A. Davis,-6,52,5,Made,1,4,2,6,h,Davis 5' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,16
+22200198,25,PT10M02.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,4,2,6,h,LAKERS T.Foul (Def. 3 Sec Davis ) (D.Guthrie),Foul,Defense 3 Second,1,0,17
+22200198,26,PT10M02.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,4,3,7,v,Durant Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,1,0,18
+22200198,27,PT09M56.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,-205,134,24,Missed,1,4,3,7,v,MISS O'Neale 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+22200198,28,PT09M52.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,4,3,7,h,Davis REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,20
+22200198,29,PT09M47.00S,1,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,4,3,7,h,Beverley Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,21
+22200198,29,PT09M47.00S,1,1610612751,BKN,1628410,Sumner,E. Sumner,0,0,0,,0,4,3,7,v,Sumner STEAL (1 STL),,,1,0,22
+22200198,31,PT09M33.00S,1,1610612751,BKN,1628410,Sumner,E. Sumner,-20,11,2,Missed,1,4,3,7,v,MISS Sumner 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,23
+22200198,32,PT09M30.00S,1,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,4,3,7,h,Beverley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,24
+22200198,33,PT09M18.00S,1,1610612747,LAL,203076,Davis,A. Davis,-71,4,7,Missed,1,4,3,7,h,MISS Davis 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,25
+22200198,34,PT09M16.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,4,3,7,v,Durant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,26
+22200198,35,PT09M14.00S,1,1610612751,BKN,1628410,Sumner,E. Sumner,0,0,0,,0,4,3,7,v,Sumner Offensive Charge Foul (P1) (D.Guthrie),Foul,Offensive Charge,1,0,27
+22200198,37,PT09M14.00S,1,1610612751,BKN,1628410,Sumner,E. Sumner,0,0,0,,0,4,3,7,v,Sumner Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,28
+22200198,38,PT08M54.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,4,3,7,v,Nets T.Foul (Def. 3 Sec Durant ) (D.Guthrie),Foul,Defense 3 Second,1,0,29
+22200198,39,PT08M54.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,5,3,8,h,Reaves Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,1,0,30
+22200198,40,PT08M45.00S,1,1610612747,LAL,201976,Beverley,P. Beverley,-120,227,26,Missed,1,5,3,8,h,MISS Beverley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+22200198,41,PT08M42.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,5,3,8,v,O'Neale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+22200198,42,PT08M33.00S,1,1610612751,BKN,1628410,Sumner,E. Sumner,223,16,0,Missed,1,5,3,8,v,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,1,3,33
+22200198,43,PT08M31.00S,1,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,5,3,8,h,Beverley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,34
+22200198,44,PT08M22.00S,1,1610612747,LAL,203076,Davis,A. Davis,45,61,8,Made,1,7,3,10,h,Davis 8' Driving Bank Hook Shot (4 PTS),Made Shot,Driving Bank Hook Shot,1,2,35
+22200198,45,PT08M06.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,28,104,11,Made,1,7,5,12,v,O'Neale 11' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,36
+22200198,46,PT07M51.00S,1,1610612747,LAL,1629022,Walker IV,L. Walker IV,131,219,26,Made,1,10,5,15,h,Walker IV 26' 3PT Jump Shot (5 PTS) (Beverley 1 AST),Made Shot,Jump Shot,1,3,37
+22200198,48,PT07M37.00S,1,1610612751,BKN,201142,Durant,K. Durant,22,17,3,Missed,1,10,5,15,v,MISS Durant 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,38
+22200198,48,PT07M37.00S,1,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,10,5,15,h,Beverley BLOCK (1 BLK),,,1,2,39
+22200198,50,PT07M37.00S,1,0,,1610612751,,,0,0,0,,0,10,5,15,v,Nets Rebound,Rebound,Unknown,0,0,40
+22200198,52,PT07M37.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,10,5,15,h,SUB: Westbrook FOR Reaves,Substitution,,0,0,41
+22200198,54,PT07M33.00S,1,1610612751,BKN,203925,Harris,J. Harris,42,138,14,Missed,1,10,5,15,v,MISS Harris 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,42
+22200198,55,PT07M31.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,10,5,15,h,Davis REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,43
+22200198,56,PT07M18.00S,1,1610612747,LAL,1629022,Walker IV,L. Walker IV,222,19,0,Made,1,13,5,18,h,Walker IV 3PT Jump Shot (8 PTS) (Beverley 2 AST),Made Shot,Jump Shot,1,3,44
+22200198,58,PT07M03.00S,1,1610612751,BKN,203925,Harris,J. Harris,-224,42,0,Made,1,13,8,21,v,Harris 3PT Jump Shot (3 PTS) (O'Neale 2 AST),Made Shot,Jump Shot,1,3,45
+22200198,60,PT06M45.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,13,8,21,v,Durant Violation:Kicked Ball (D.Guthrie),Violation,Kicked Ball,0,0,46
+22200198,61,PT06M45.00S,1,0,,1610612747,,,0,0,0,,0,13,8,21,h,LAKERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,47
+22200198,62,PT06M45.00S,1,1610612751,BKN,1628410,Sumner,E. Sumner,0,0,0,,0,13,8,21,v,SUB: Thomas FOR Sumner,Substitution,,0,0,48
+22200198,63,PT06M45.00S,1,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,13,8,21,v,SUB: Morris FOR Harris,Substitution,,0,0,49
+22200198,66,PT06M36.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,13,8,21,v,Claxton S.FOUL (P1.T2) (J.Schroeder),Foul,Shooting,1,0,50
+22200198,68,PT06M36.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,14,8,22,h,Davis Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,51
+22200198,69,PT06M36.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,15,8,23,h,Davis Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,52
+22200198,70,PT06M22.00S,1,1610612751,BKN,201142,Durant,K. Durant,105,62,12,Missed,1,15,8,23,v,MISS Durant 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,53
+22200198,71,PT06M20.00S,1,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,15,8,23,h,Westbrook REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,54
+22200198,72,PT06M16.00S,1,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,15,8,23,h,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,55
+22200198,73,PT06M00.00S,1,1610612747,LAL,1629022,Walker IV,L. Walker IV,0,0,0,,0,15,8,23,h,Walker IV S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,1,0,56
+22200198,75,PT06M00.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,15,9,24,v,Thomas Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,57
+22200198,76,PT06M00.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,15,10,25,v,Thomas Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,58
+22200198,77,PT05M51.00S,1,1610612747,LAL,201566,Westbrook,R. Westbrook,4,16,2,Made,1,17,10,27,h,Westbrook 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,59
+22200198,78,PT05M34.00S,1,1610612751,BKN,201142,Durant,K. Durant,58,55,8,Made,1,17,12,29,v,Durant 8' Pullup Jump Shot (3 PTS) (Morris 1 AST),Made Shot,Pullup Jump shot,1,2,60
+22200198,80,PT05M16.00S,1,1610612747,LAL,1629022,Walker IV,L. Walker IV,20,9,2,Made,1,19,12,31,h,Walker IV 2' Driving Layup (10 PTS) (Westbrook 1 AST),Made Shot,Driving Layup Shot,1,2,61
+22200198,82,PT05M16.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,19,12,31,v,Claxton S.FOUL (P2.T3) (J.Schroeder),Foul,Shooting,1,0,62
+22200198,84,PT05M16.00S,1,1610612747,LAL,1629022,Walker IV,L. Walker IV,0,0,0,,0,20,12,32,h,Walker IV Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,63
+22200198,85,PT05M03.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,-12,11,2,Made,1,20,14,34,v,Claxton 2' Alley Oop Layup (4 PTS) (Durant 1 AST),Made Shot,Alley Oop Layup shot,1,2,64
+22200198,87,PT04M51.00S,1,1610612747,LAL,201976,Beverley,P. Beverley,232,30,0,Missed,1,20,14,34,h,MISS Beverley 3PT Jump Shot,Missed Shot,Jump Shot,1,3,65
+22200198,88,PT04M48.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,20,14,34,h,Davis REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,66
+22200198,89,PT04M48.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,Made,1,22,14,36,h,Davis Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,1,2,67
+22200198,90,PT04M48.00S,1,0,,1610612751,,,0,0,0,,0,22,14,36,v,Nets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,68
+22200198,91,PT04M48.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,22,14,36,v,SUB: Watanabe FOR Claxton,Substitution,,0,0,69
+22200198,93,PT04M37.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,87,94,13,Made,1,22,16,38,v,Thomas 13' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,70
+22200198,94,PT04M18.00S,1,1610612747,LAL,203076,Davis,A. Davis,15,14,2,Missed,1,22,16,38,h,MISS Davis 2' Layup,Missed Shot,Layup Shot,1,2,71
+22200198,95,PT04M15.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,22,16,38,v,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,72
+22200198,96,PT04M12.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,-2,206,21,Missed,1,22,16,38,v,MISS Thomas 21' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,73
+22200198,97,PT04M06.00S,1,1610612751,BKN,1629139,Watanabe,Y. Watanabe,0,0,0,,0,22,16,38,v,Watanabe REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,74
+22200198,98,PT04M06.00S,1,1610612751,BKN,1629139,Watanabe,Y. Watanabe,0,0,0,Made,1,22,18,40,v,Watanabe Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,75
+22200198,99,PT03M53.00S,1,1610612747,LAL,201566,Westbrook,R. Westbrook,26,94,10,Missed,1,22,18,40,h,MISS Westbrook 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,76
+22200198,100,PT03M51.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,22,18,40,v,Durant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,77
+22200198,101,PT03M38.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,16,1,2,Made,1,22,20,42,v,Thomas 2' Driving Layup (6 PTS) (Watanabe 1 AST),Made Shot,Driving Layup Shot,1,2,78
+22200198,103,PT03M20.00S,1,1610612747,LAL,201976,Beverley,P. Beverley,-188,157,24,Missed,1,22,20,42,h,MISS Beverley 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,79
+22200198,104,PT03M18.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,22,20,42,v,O'Neale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,80
+22200198,105,PT03M12.00S,1,1610612751,BKN,1629139,Watanabe,Y. Watanabe,138,199,24,Missed,1,22,20,42,v,MISS Watanabe 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,81
+22200198,106,PT03M08.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,22,20,42,h,Davis REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,82
+22200198,107,PT02M57.00S,1,1610612747,LAL,201566,Westbrook,R. Westbrook,225,43,0,Made,1,25,20,45,h,Westbrook 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,83
+22200198,108,PT02M36.00S,1,1610612747,LAL,1629022,Walker IV,L. Walker IV,0,0,0,,0,25,20,45,h,Walker IV S.FOUL (P2.T2) (D.Guthrie),Foul,Shooting,1,0,84
+22200198,110,PT02M36.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,25,21,46,v,Durant Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,85
+22200198,111,PT02M36.00S,1,1610612747,LAL,1629022,Walker IV,L. Walker IV,0,0,0,,0,25,21,46,h,SUB: Reaves FOR Walker IV,Substitution,,0,0,86
+22200198,112,PT02M36.00S,1,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,0,0,0,,0,25,21,46,h,SUB: Nunn FOR Brown Jr.,Substitution,,0,0,87
+22200198,113,PT02M36.00S,1,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,25,21,46,h,SUB: Christie FOR Beverley,Substitution,,0,0,88
+22200198,114,PT02M36.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,25,21,46,v,SUB: Duke Jr. FOR O'Neale,Substitution,,0,0,89
+22200198,119,PT02M36.00S,1,0,,1610612747,,,0,0,0,,0,25,21,46,h,LAKERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,90
+22200198,120,PT02M36.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,25,21,46,v,MISS Durant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,91
+22200198,121,PT02M34.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,25,21,46,h,Davis REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,92
+22200198,122,PT02M12.00S,1,1610612747,LAL,1631108,Christie,M. Christie,65,190,20,Missed,1,25,21,46,h,MISS Christie 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,93
+22200198,123,PT02M10.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,25,21,46,h,Davis REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,94
+22200198,124,PT02M00.00S,1,1610612747,LAL,1629134,Nunn,K. Nunn,225,84,24,Missed,1,25,21,46,h,MISS Nunn 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,95
+22200198,125,PT01M57.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,25,21,46,h,Davis REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,96
+22200198,126,PT01M56.00S,1,1610612747,LAL,203076,Davis,A. Davis,7,16,2,Missed,1,25,21,46,h,MISS Davis 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,97
+22200198,127,PT01M54.00S,1,1610612751,BKN,1629139,Watanabe,Y. Watanabe,0,0,0,,0,25,21,46,v,Watanabe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,98
+22200198,128,PT01M50.00S,1,1610612747,LAL,1629134,Nunn,K. Nunn,0,0,0,,0,25,21,46,h,Nunn S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,1,0,99
+22200198,130,PT01M50.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,25,22,47,v,Thomas Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,100
+22200198,131,PT01M50.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,25,22,47,h,SUB: Gabriel FOR Davis,Substitution,,0,0,101
+22200198,133,PT01M50.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,25,22,47,v,MISS Thomas Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,102
+22200198,134,PT01M47.00S,1,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,25,22,47,h,Christie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,103
+22200198,135,PT01M29.00S,1,1610612747,LAL,201566,Westbrook,R. Westbrook,-1,48,5,Missed,1,25,22,47,h,MISS Westbrook 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,104
+22200198,135,PT01M29.00S,1,1610612751,BKN,1630561,Duke Jr.,D. Duke Jr.,0,0,0,,0,25,22,47,v,Duke Jr. BLOCK (1 BLK),,,1,2,105
+22200198,137,PT01M25.00S,1,1610612751,BKN,1629139,Watanabe,Y. Watanabe,0,0,0,,0,25,22,47,v,Watanabe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,106
+22200198,138,PT01M18.00S,1,1610612751,BKN,1630561,Duke Jr.,D. Duke Jr.,16,23,3,Missed,1,25,22,47,v,MISS Duke Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,107
+22200198,139,PT01M15.00S,1,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,25,22,47,h,Christie REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,108
+22200198,140,PT01M08.00S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,25,22,47,v,Thomas S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,1,0,109
+22200198,142,PT01M08.00S,1,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,25,22,47,h,MISS Westbrook Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,110
+22200198,143,PT01M08.00S,1,0,,1610612747,,,0,0,0,,0,25,22,47,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,111
+22200198,144,PT01M08.00S,1,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,25,22,47,v,SUB: Harris FOR Morris,Substitution,,0,0,112
+22200198,146,PT01M08.00S,1,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,26,22,48,h,Westbrook Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,113
+22200198,147,PT00M55.30S,1,1610612751,BKN,1629139,Watanabe,Y. Watanabe,-96,231,25,Missed,1,26,22,48,v,MISS Watanabe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+22200198,148,PT00M53.20S,1,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,26,22,48,h,Christie REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,115
+22200198,149,PT00M40.20S,1,1610612747,LAL,1629134,Nunn,K. Nunn,-80,241,25,Missed,1,26,22,48,h,MISS Nunn 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,116
+22200198,150,PT00M37.50S,1,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,26,22,48,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,117
+22200198,151,PT00M30.40S,1,1610612751,BKN,1630560,Thomas,C. Thomas,-72,65,10,Missed,1,26,22,48,v,MISS Thomas 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,118
+22200198,152,PT00M28.10S,1,1610612751,BKN,1629139,Watanabe,Y. Watanabe,0,0,0,,0,26,22,48,v,Watanabe REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,119
+22200198,153,PT00M20.40S,1,1610612751,BKN,201142,Durant,K. Durant,98,34,10,Missed,1,26,22,48,v,MISS Durant 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,120
+22200198,153,PT00M20.40S,1,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,26,22,48,h,Westbrook BLOCK (1 BLK),,,1,2,121
+22200198,155,PT00M17.50S,1,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,26,22,48,h,Christie REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,122
+22200198,156,PT00M13.00S,1,1610612747,LAL,1629134,Nunn,K. Nunn,206,143,25,Missed,1,26,22,48,h,MISS Nunn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+22200198,157,PT00M09.90S,1,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,26,22,48,v,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,124
+22200198,158,PT00M04.70S,1,1610612751,BKN,1629139,Watanabe,Y. Watanabe,6,0,1,Missed,1,26,22,48,v,MISS Watanabe 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,125
+22200198,159,PT00M03.30S,1,1610612747,LAL,1629134,Nunn,K. Nunn,0,0,0,,0,26,22,48,h,Nunn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+22200198,160,PT00M00.00S,1,0,,0,,,0,0,0,,0,26,22,48,,End of 1st Period (10:09 PM EST),period,end,1,0,127
+22200198,167,PT12M00.00S,2,0,,0,,,0,0,0,,0,26,22,48,,Start of 2nd Period (10:12 PM EST),period,start,0,0,128
+22200198,168,PT11M42.00S,2,1610612747,LAL,1630346,Ryan,M. Ryan,0,0,0,,0,26,22,48,h,Ryan S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,1,0,129
+22200198,170,PT11M42.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,26,22,48,v,MISS O'Neale Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,130
+22200198,171,PT11M42.00S,2,0,,1610612751,,,0,0,0,,0,26,22,48,v,Nets Rebound,Rebound,Normal Rebound,0,0,131
+22200198,172,PT11M42.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,26,23,49,v,O'Neale Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,132
+22200198,174,PT11M29.00S,2,1610612747,LAL,1629117,Gabriel,W. Gabriel,37,21,4,Made,1,28,23,51,h,Gabriel 4' Turnaround Bank Hook Shot (2 PTS) (Westbrook 2 AST),Made Shot,Turnaround Bank Hook Shot,1,2,133
+22200198,177,PT11M18.00S,2,1610612751,BKN,203925,Harris,J. Harris,-12,-4,1,Made,1,28,25,53,v,Harris 1' Cutting Layup Shot (5 PTS) (Watanabe 2 AST),Made Shot,Cutting Layup Shot,1,2,134
+22200198,179,PT11M07.00S,2,1610612747,LAL,201566,Westbrook,R. Westbrook,-151,200,25,Missed,1,28,25,53,h,MISS Westbrook 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+22200198,180,PT11M04.00S,2,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,28,25,53,v,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,136
+22200198,181,PT10M56.00S,2,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,28,25,53,v,Harris Traveling Turnover (P1.T2),Turnover,Traveling,1,0,137
+22200198,182,PT10M45.00S,2,1610612747,LAL,201566,Westbrook,R. Westbrook,-22,4,2,Made,1,30,25,55,h,Westbrook 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,138
+22200198,183,PT10M32.00S,2,1610612751,BKN,1629139,Watanabe,Y. Watanabe,-5,11,1,Made,1,30,27,57,v,Watanabe 1' Driving Finger Roll Layup (4 PTS) (Mills 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,139
+22200198,185,PT10M23.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,138,211,25,Made,1,33,27,60,h,Reaves 25' 3PT Jump Shot (4 PTS) (Westbrook 3 AST),Made Shot,Jump Shot,1,3,140
+22200198,187,PT10M02.00S,2,1610612751,BKN,203925,Harris,J. Harris,132,210,25,Missed,1,33,27,60,v,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+22200198,188,PT09M59.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,33,27,60,h,Reaves REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,142
+22200198,189,PT09M50.00S,2,1610612747,LAL,1629117,Gabriel,W. Gabriel,31,26,4,Missed,1,33,27,60,h,MISS Gabriel 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,143
+22200198,190,PT09M47.00S,2,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,33,27,60,v,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,144
+22200198,191,PT09M42.00S,2,1610612751,BKN,203925,Harris,J. Harris,-200,158,25,Missed,1,33,27,60,v,MISS Harris 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,145
+22200198,192,PT09M39.00S,2,1610612747,LAL,1630346,Ryan,M. Ryan,0,0,0,,0,33,27,60,h,Ryan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,146
+22200198,193,PT09M29.00S,2,1610612747,LAL,1629117,Gabriel,W. Gabriel,1,11,1,Made,1,35,27,62,h,Gabriel 1' Cutting Dunk Shot (4 PTS) (Westbrook 4 AST),Made Shot,Cutting Dunk Shot,1,2,147
+22200198,195,PT09M29.00S,2,0,,1610612751,,,0,0,0,,0,35,27,62,v,Nets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,148
+22200198,196,PT09M29.00S,2,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,35,27,62,v,SUB: Claxton FOR Harris,Substitution,,0,0,149
+22200198,197,PT09M29.00S,2,1610612751,BKN,1629139,Watanabe,Y. Watanabe,0,0,0,,0,35,27,62,v,SUB: Sumner FOR Watanabe,Substitution,,0,0,150
+22200198,200,PT09M20.00S,2,1610612751,BKN,201988,Mills,P. Mills,71,233,24,Missed,1,35,27,62,v,MISS Mills 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,151
+22200198,201,PT09M15.00S,2,1610612751,BKN,1628410,Sumner,E. Sumner,0,0,0,,0,35,27,62,v,Sumner REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,152
+22200198,202,PT09M11.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,-42,252,26,Missed,1,35,27,62,v,MISS Thomas 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,153
+22200198,203,PT09M08.00S,2,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,35,27,62,h,Christie REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,154
+22200198,204,PT08M48.00S,2,1610612747,LAL,1629117,Gabriel,W. Gabriel,28,51,6,Missed,1,35,27,62,h,MISS Gabriel 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,155
+22200198,205,PT08M44.00S,2,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,35,27,62,h,Westbrook REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,156
+22200198,206,PT08M44.00S,2,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,Missed,1,35,27,62,h,MISS Westbrook Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,157
+22200198,207,PT08M43.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,35,27,62,v,O'Neale REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,158
+22200198,208,PT08M37.00S,2,1610612751,BKN,201988,Mills,P. Mills,118,218,25,Missed,1,35,27,62,v,MISS Mills 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,159
+22200198,209,PT08M37.00S,2,0,,1610612747,,,0,0,0,,0,35,27,62,h,LAKERS Rebound,Rebound,Unknown,0,0,160
+22200198,211,PT08M22.00S,2,1610612747,LAL,1630346,Ryan,M. Ryan,1,201,20,Missed,1,35,27,62,h,MISS Ryan 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,161
+22200198,212,PT08M20.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,35,27,62,v,Claxton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,162
+22200198,213,PT08M14.00S,2,1610612751,BKN,201988,Mills,P. Mills,13,12,2,Made,1,35,29,64,v,Mills 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,163
+22200198,214,PT07M51.00S,2,1610612747,LAL,1629117,Gabriel,W. Gabriel,-225,15,0,Made,1,38,29,67,h,Gabriel 3PT Jump Shot (7 PTS) (Westbrook 5 AST),Made Shot,Jump Shot,1,3,164
+22200198,216,PT07M38.00S,2,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,38,29,67,h,Westbrook P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,1,0,165
+22200198,218,PT07M38.00S,2,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,38,29,67,h,SUB: Davis FOR Westbrook,Substitution,,0,0,166
+22200198,219,PT07M38.00S,2,1610612747,LAL,1629117,Gabriel,W. Gabriel,0,0,0,,0,38,29,67,h,SUB: Brown Jr. FOR Gabriel,Substitution,,0,0,167
+22200198,220,PT07M38.00S,2,1610612747,LAL,1630346,Ryan,M. Ryan,0,0,0,,0,38,29,67,h,SUB: Walker IV FOR Ryan,Substitution,,0,0,168
+22200198,221,PT07M38.00S,2,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,38,29,67,v,SUB: Harris FOR Thomas,Substitution,,0,0,169
+22200198,226,PT07M26.00S,2,1610612751,BKN,201988,Mills,P. Mills,51,147,16,Missed,1,38,29,67,v,MISS Mills 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,170
+22200198,227,PT07M24.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,38,29,67,h,Davis REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,171
+22200198,228,PT06M59.00S,2,1610612747,LAL,1629022,Walker IV,L. Walker IV,5,53,5,Missed,1,38,29,67,h,MISS Walker IV 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,172
+22200198,229,PT06M56.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,38,29,67,v,Claxton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,173
+22200198,230,PT06M53.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,38,29,67,h,Davis S.FOUL (P1.T3) (J.Schroeder),Foul,Shooting,1,0,174
+22200198,234,PT06M53.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,38,29,67,v,SUB: Watanabe FOR O'Neale,Substitution,,0,0,175
+22200198,232,PT06M53.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,38,29,67,v,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,176
+22200198,233,PT06M53.00S,2,0,,1610612751,,,0,0,0,,0,38,29,67,v,Nets Rebound,Rebound,Normal Rebound,0,0,177
+22200198,236,PT06M53.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,38,29,67,v,MISS Claxton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,178
+22200198,237,PT06M50.00S,2,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,0,0,0,,0,38,29,67,h,Brown Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,179
+22200198,238,PT06M37.00S,2,1610612747,LAL,203076,Davis,A. Davis,-21,34,4,Missed,1,38,29,67,h,MISS Davis 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,180
+22200198,238,PT06M37.00S,2,1610612751,BKN,1629139,Watanabe,Y. Watanabe,0,0,0,,0,38,29,67,v,Watanabe BLOCK (1 BLK),,,1,2,181
+22200198,240,PT06M36.00S,2,0,,1610612747,,,0,0,0,,0,38,29,67,h,LAKERS Rebound,Rebound,Unknown,0,0,182
+22200198,242,PT06M31.00S,2,1610612747,LAL,203076,Davis,A. Davis,-53,15,6,Missed,1,38,29,67,h,MISS Davis 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,183
+22200198,243,PT06M28.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,38,29,67,v,Claxton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,184
+22200198,244,PT06M11.00S,2,1610612751,BKN,201988,Mills,P. Mills,-211,125,25,Missed,1,38,29,67,v,MISS Mills 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,185
+22200198,245,PT06M08.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,38,29,67,v,Claxton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,186
+22200198,246,PT06M07.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,4,15,2,Made,1,38,31,69,v,Claxton 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,187
+22200198,247,PT06M05.00S,2,0,,1610612751,,,0,0,0,,0,38,31,69,v,Nets Violation: Delay of game Violation,Violation,Delay Of Game,0,0,188
+22200198,248,PT05M51.00S,2,1610612747,LAL,1629022,Walker IV,L. Walker IV,45,92,10,Missed,1,38,31,69,h,MISS Walker IV 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,189
+22200198,249,PT05M48.00S,2,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,38,31,69,v,Harris REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,190
+22200198,250,PT05M42.00S,2,1610612751,BKN,1628410,Sumner,E. Sumner,-227,28,0,Missed,1,38,31,69,v,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,1,3,191
+22200198,251,PT05M39.00S,2,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,38,31,69,h,Christie REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,192
+22200198,252,PT05M29.00S,2,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,38,31,69,v,Harris P.FOUL (P1.T1) (J.DeRosa),Foul,Personal,1,0,193
+22200198,254,PT05M29.00S,2,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,38,31,69,h,SUB: Beverley FOR Christie,Substitution,,0,0,194
+22200198,255,PT05M29.00S,2,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,38,31,69,v,SUB: Durant FOR Mills,Substitution,,0,0,195
+22200198,259,PT05M17.00S,2,1610612747,LAL,203076,Davis,A. Davis,-10,30,3,Made,1,40,31,71,h,Davis 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,196
+22200198,260,PT05M02.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,40,31,71,v,Claxton Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,197
+22200198,261,PT04M47.00S,2,1610612747,LAL,203076,Davis,A. Davis,-1,1,0,Made,1,42,31,73,h,Davis Dunk (12 PTS) (Beverley 3 AST),Made Shot,Dunk Shot,1,2,198
+22200198,263,PT04M26.00S,2,1610612751,BKN,1628410,Sumner,E. Sumner,0,0,0,,0,42,31,73,v,Sumner Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,199
+22200198,264,PT04M19.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,-94,104,14,Made,1,44,31,75,h,Reaves 14' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,200
+22200198,265,PT04M18.00S,2,0,,1610612751,,,0,0,0,,0,44,31,75,v,Nets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,201
+22200198,266,PT04M18.00S,2,1610612747,LAL,1629022,Walker IV,L. Walker IV,0,0,0,,0,44,31,75,h,SUB: Westbrook FOR Walker IV,Substitution,,0,0,202
+22200198,267,PT04M18.00S,2,1610612751,BKN,1629139,Watanabe,Y. Watanabe,0,0,0,,0,44,31,75,v,SUB: Morris FOR Watanabe,Substitution,,0,0,203
+22200198,268,PT04M18.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,44,31,75,v,SUB: O'Neale FOR Claxton,Substitution,,0,0,204
+22200198,272,PT04M09.00S,2,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,44,31,75,h,Beverley P.FOUL (P1.T4) (J.DeRosa),Foul,Personal,1,0,205
+22200198,274,PT03M56.00S,2,1610612751,BKN,202693,Morris,M. Morris,110,226,25,Missed,1,44,31,75,v,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+22200198,275,PT03M51.00S,2,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,44,31,75,v,Morris REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,207
+22200198,276,PT03M48.00S,2,1610612751,BKN,1628410,Sumner,E. Sumner,-2,8,1,Made,1,44,33,77,v,Sumner 1' Driving Layup (2 PTS) (Morris 2 AST),Made Shot,Driving Layup Shot,1,2,208
+22200198,278,PT03M28.00S,2,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,18,8,2,Made,1,46,33,79,h,Brown Jr. 2' Driving Layup (2 PTS) (Beverley 4 AST),Made Shot,Driving Layup Shot,1,2,209
+22200198,280,PT03M19.00S,2,1610612751,BKN,201142,Durant,K. Durant,-1,7,1,Made,1,46,35,81,v,Durant 1' Cutting Layup Shot (6 PTS) (O'Neale 3 AST),Made Shot,Cutting Layup Shot,1,2,210
+22200198,282,PT02M56.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,227,25,0,Made,1,49,35,84,h,Reaves 3PT Jump Shot (9 PTS) (Davis 1 AST),Made Shot,Jump Shot,1,3,211
+22200198,284,PT02M43.00S,2,1610612751,BKN,202693,Morris,M. Morris,-200,83,22,Made,1,49,37,86,v,Morris 22' Jump Shot (2 PTS) (Durant 2 AST),Made Shot,Jump Shot,1,2,212
+22200198,286,PT02M28.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,40,21,5,Missed,1,49,37,86,h,MISS Reaves 5' Layup,Missed Shot,Layup Shot,1,2,213
+22200198,288,PT02M23.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,49,37,86,h,Davis REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,214
+22200198,289,PT02M23.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,Made,1,51,37,88,h,Davis Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,1,2,215
+22200198,290,PT02M14.00S,2,1610612751,BKN,201142,Durant,K. Durant,18,11,2,Made,1,51,39,90,v,Durant 2' Layup (8 PTS) (Morris 3 AST),Made Shot,Layup Shot,1,2,216
+22200198,292,PT01M54.00S,2,1610612747,LAL,201566,Westbrook,R. Westbrook,-228,16,0,Missed,1,51,39,90,h,MISS Westbrook 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,217
+22200198,293,PT01M51.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,51,39,90,h,Davis REBOUND (Off:6 Def:5),Rebound,Unknown,1,0,218
+22200198,294,PT01M49.00S,2,1610612747,LAL,201976,Beverley,P. Beverley,-23,17,3,Made,1,53,39,92,h,Beverley 3' Cutting Layup Shot (2 PTS) (Davis 2 AST),Made Shot,Cutting Layup Shot,1,2,219
+22200198,296,PT01M49.00S,2,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,53,39,92,v,Harris S.FOUL (P2.T2) (J.Schroeder),Foul,Shooting,1,0,220
+22200198,298,PT01M49.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,53,39,92,h,SUB: Walker IV FOR Reaves,Substitution,,0,0,221
+22200198,300,PT01M49.00S,2,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,53,39,92,h,MISS Beverley Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,222
+22200198,301,PT01M47.00S,2,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,53,39,92,v,Morris REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,223
+22200198,302,PT01M44.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,53,39,92,h,Davis S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,1,0,224
+22200198,304,PT01M44.00S,2,1610612751,BKN,1628410,Sumner,E. Sumner,0,0,0,,0,53,40,93,v,Sumner Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,225
+22200198,305,PT01M44.00S,2,1610612751,BKN,1628410,Sumner,E. Sumner,0,0,0,,0,53,41,94,v,Sumner Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,226
+22200198,306,PT01M33.00S,2,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,53,41,94,h,Westbrook Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,227
+22200198,306,PT01M33.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,53,41,94,v,O'Neale STEAL (1 STL),,,1,0,228
+22200198,308,PT01M29.00S,2,1610612751,BKN,1628410,Sumner,E. Sumner,0,6,1,Made,1,53,43,96,v,Sumner 1' Running Layup (6 PTS) (Durant 3 AST),Made Shot,Running Layup Shot,1,2,229
+22200198,310,PT01M19.00S,2,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,53,43,96,v,Morris S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,1,0,230
+22200198,312,PT01M19.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,54,43,97,h,Davis Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,231
+22200198,313,PT01M19.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,55,43,98,h,Davis Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,232
+22200198,314,PT01M08.00S,2,1610612751,BKN,1628410,Sumner,E. Sumner,-165,184,25,Made,1,55,46,101,v,Sumner 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,233
+22200198,315,PT00M55.70S,2,1610612747,LAL,201566,Westbrook,R. Westbrook,18,4,2,Missed,1,55,46,101,h,MISS Westbrook 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,234
+22200198,315,PT00M55.70S,2,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,55,46,101,v,Morris BLOCK (1 BLK),,,1,2,235
+22200198,317,PT00M55.40S,2,0,,1610612747,,,0,0,0,,0,55,46,101,h,LAKERS Rebound,Rebound,Unknown,0,0,236
+22200198,320,PT00M53.40S,2,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,55,46,101,h,Westbrook Step Out of Bounds Turnover (P3.T4),Turnover,Step Out of Bounds Turnover,1,0,237
+22200198,321,PT00M37.00S,2,1610612751,BKN,202693,Morris,M. Morris,222,25,0,Missed,1,55,46,101,v,MISS Morris 3PT Jump Shot,Missed Shot,Jump Shot,1,3,238
+22200198,322,PT00M33.90S,2,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,55,46,101,h,Beverley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,239
+22200198,323,PT00M29.50S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,55,46,101,h,Davis OFF.Foul (P3) (J.DeRosa),Foul,Offensive,1,0,240
+22200198,325,PT00M29.50S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,55,46,101,h,Davis Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,241
+22200198,326,PT00M29.50S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,55,46,101,h,SUB: Gabriel FOR Davis,Substitution,,0,0,242
+22200198,328,PT00M20.90S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,55,46,101,v,Durant Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,243
+22200198,328,PT00M20.90S,2,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,0,0,0,,0,55,46,101,h,Brown Jr. STEAL (1 STL),,,1,0,244
+22200198,330,PT00M02.50S,2,1610612747,LAL,201566,Westbrook,R. Westbrook,1,52,5,Missed,1,55,46,101,h,MISS Westbrook 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,245
+22200198,331,PT00M00.70S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,55,46,101,v,Durant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,246
+22200198,332,PT00M00.00S,2,0,,0,,,0,0,0,,0,55,46,101,,End of 2nd Period (10:38 PM EST),period,end,1,0,247
+22200198,339,PT12M00.00S,3,0,,0,,,0,0,0,,0,55,46,101,,Start of 3rd Period (10:53 PM EST),period,start,0,0,248
+22200198,340,PT11M42.00S,3,1610612751,BKN,1628410,Sumner,E. Sumner,-59,151,16,Missed,1,55,46,101,v,MISS Sumner 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,249
+22200198,341,PT11M39.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,55,46,101,h,Davis REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,250
+22200198,342,PT11M21.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,55,46,101,v,Durant P.FOUL (P1.T1) (J.DeRosa),Foul,Personal,1,0,251
+22200198,344,PT11M08.00S,3,1610612747,LAL,1629022,Walker IV,L. Walker IV,127,225,26,Missed,1,55,46,101,h,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,252
+22200198,345,PT11M04.00S,3,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,0,0,0,,0,55,46,101,h,Brown Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,253
+22200198,346,PT10M57.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,55,46,101,v,O'Neale S.FOUL (P2.T2) (D.Guthrie),Foul,Shooting,1,0,254
+22200198,348,PT10M57.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,55,46,101,h,MISS Reaves Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,255
+22200198,349,PT10M57.00S,3,0,,1610612747,,,0,0,0,,0,55,46,101,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,256
+22200198,350,PT10M57.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,56,46,102,h,Reaves Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,257
+22200198,351,PT10M45.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,15,37,4,Missed,1,56,46,102,v,MISS O'Neale 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,258
+22200198,352,PT10M43.00S,3,0,,1610612751,,,0,0,0,,0,56,46,102,v,Nets Rebound,Rebound,Unknown,1,0,259
+22200198,353,PT10M43.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,56,46,102,v,O'Neale Traveling Turnover (P1.T6),Turnover,Traveling,1,0,260
+22200198,354,PT10M33.00S,3,1610612751,BKN,1628410,Sumner,E. Sumner,0,0,0,,0,56,46,102,v,Sumner P.FOUL (P2.T3) (D.Guthrie),Foul,Personal,1,0,261
+22200198,356,PT10M25.00S,3,1610612747,LAL,203076,Davis,A. Davis,-4,-1,0,Made,1,58,46,104,h,Davis Alley Oop Dunk (18 PTS) (Reaves 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,262
+22200198,358,PT10M12.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,6,3,1,Made,1,58,48,106,v,Claxton 1' Alley Oop Layup (8 PTS) (Durant 4 AST),Made Shot,Alley Oop Layup shot,1,2,263
+22200198,360,PT09M55.00S,3,1610612747,LAL,203076,Davis,A. Davis,1,0,0,Made,1,60,48,108,h,Davis Cutting Layup Shot (20 PTS) (Beverley 5 AST),Made Shot,Cutting Layup Shot,1,2,264
+22200198,362,PT09M49.00S,3,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,60,48,108,h,Beverley P.FOUL (P2.T1) (J.Schroeder),Foul,Personal,1,0,265
+22200198,364,PT09M34.00S,3,1610612751,BKN,1628410,Sumner,E. Sumner,-222,0,0,Missed,1,60,48,108,v,MISS Sumner 3PT Jump Shot,Missed Shot,Jump Shot,1,3,266
+22200198,365,PT09M27.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,60,48,108,v,Claxton REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,267
+22200198,366,PT09M26.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,158,192,25,Missed,1,60,48,108,v,MISS O'Neale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,268
+22200198,367,PT09M23.00S,3,1610612747,LAL,1629022,Walker IV,L. Walker IV,0,0,0,,0,60,48,108,h,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,269
+22200198,368,PT09M12.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,72,243,25,Missed,1,60,48,108,h,MISS Reaves 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,270
+22200198,369,PT09M10.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,60,48,108,v,Durant REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,271
+22200198,370,PT09M05.00S,3,1610612751,BKN,201142,Durant,K. Durant,16,8,2,Made,1,60,50,110,v,Durant 2' Cutting Layup Shot (10 PTS) (O'Neale 4 AST),Made Shot,Cutting Layup Shot,1,2,272
+22200198,372,PT08M41.00S,3,1610612747,LAL,203076,Davis,A. Davis,-92,83,12,Made,1,62,50,112,h,Davis 12' Jump Shot (22 PTS),Made Shot,Jump Shot,1,2,273
+22200198,373,PT08M32.00S,3,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,62,50,112,h,Beverley P.FOUL (P3.T2) (J.DeRosa),Foul,Personal,1,0,274
+22200198,375,PT08M32.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,62,50,112,v,SUB: Morris FOR Claxton,Substitution,,0,0,275
+22200198,377,PT08M24.00S,3,1610612751,BKN,201142,Durant,K. Durant,-115,47,12,Made,1,62,52,114,v,Durant 12' Jump Shot (12 PTS) (Sumner 1 AST),Made Shot,Jump Shot,1,2,276
+22200198,380,PT07M59.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,62,52,114,h,SUB: Westbrook FOR Reaves,Substitution,,0,0,277
+22200198,382,PT07M57.00S,3,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,7,104,10,Made,1,64,52,116,h,Brown Jr. 10' Jump Shot (4 PTS) (Westbrook 6 AST),Made Shot,Jump Shot,1,2,278
+22200198,384,PT07M41.00S,3,1610612751,BKN,1628410,Sumner,E. Sumner,22,15,3,Made,1,64,54,118,v,Sumner 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,279
+22200198,386,PT07M34.00S,3,1610612747,LAL,1629022,Walker IV,L. Walker IV,-13,20,2,Made,1,66,54,120,h,Walker IV 2' Driving Finger Roll Layup (13 PTS) (Westbrook 7 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,280
+22200198,388,PT07M24.00S,3,1610612751,BKN,1628410,Sumner,E. Sumner,11,30,3,Missed,1,66,54,120,v,MISS Sumner 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,281
+22200198,389,PT07M23.00S,3,0,,1610612751,,,0,0,0,,0,66,54,120,v,Nets Rebound,Rebound,Unknown,1,0,282
+22200198,391,PT07M18.00S,3,1610612751,BKN,203925,Harris,J. Harris,20,218,22,Made,1,66,56,122,v,Harris 22' Pullup Jump Shot (7 PTS) (Morris 4 AST),Made Shot,Pullup Jump shot,1,2,283
+22200198,393,PT06M59.00S,3,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,17,7,2,Made,1,68,56,124,h,Brown Jr. 2' Cutting Finger Roll Layup Shot (6 PTS) (Westbrook 8 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,284
+22200198,395,PT06M42.00S,3,1610612751,BKN,202693,Morris,M. Morris,-9,252,25,Made,1,68,59,127,v,Morris 25' 3PT Jump Shot (5 PTS) (Durant 5 AST),Made Shot,Jump Shot,1,3,285
+22200198,397,PT06M21.00S,3,1610612747,LAL,201566,Westbrook,R. Westbrook,-137,225,26,Missed,1,68,59,127,h,MISS Westbrook 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,286
+22200198,398,PT06M18.00S,3,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,68,59,127,v,Harris REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,287
+22200198,400,PT06M12.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,-221,10,0,Missed,1,68,59,127,v,MISS O'Neale 3PT Jump Shot,Missed Shot,Jump Shot,1,3,288
+22200198,401,PT06M08.00S,3,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,68,59,127,h,Westbrook REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,289
+22200198,402,PT06M05.00S,3,1610612747,LAL,201976,Beverley,P. Beverley,-165,185,25,Missed,1,68,59,127,h,MISS Beverley 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,290
+22200198,403,PT06M03.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,68,59,127,v,Durant REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,291
+22200198,404,PT05M58.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,-22,11,2,Missed,1,68,59,127,v,MISS O'Neale 2' Running Layup,Missed Shot,Running Layup Shot,1,2,292
+22200198,405,PT05M56.00S,3,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,68,59,127,h,Westbrook REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,293
+22200198,406,PT05M54.00S,3,1610612747,LAL,203076,Davis,A. Davis,-1,0,0,Made,1,70,59,129,h,Davis Running Dunk (24 PTS) (Westbrook 9 AST),Made Shot,Running Dunk Shot,1,2,294
+22200198,408,PT05M52.00S,3,0,,1610612751,,,0,0,0,,0,70,59,129,v,Nets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,295
+22200198,410,PT05M52.00S,3,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,70,59,129,v,SUB: Thomas FOR Harris,Substitution,,0,0,296
+22200198,412,PT05M29.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,156,295,33,Missed,1,70,59,129,v,MISS Thomas 33' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,297
+22200198,413,PT05M28.00S,3,0,,1610612751,,,0,0,0,,0,70,59,129,v,Nets Rebound,Rebound,Unknown,1,0,298
+22200198,414,PT05M28.00S,3,0,,1610612751,,,0,0,0,,0,70,59,129,v,Nets Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,299
+22200198,415,PT05M14.00S,3,1610612747,LAL,203076,Davis,A. Davis,-36,109,11,Made,1,72,59,131,h,Davis 11' Turnaround Fadeaway (26 PTS),Made Shot,Turnaround Fadeaway shot,1,2,300
+22200198,416,PT04M59.00S,3,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,72,59,131,h,Westbrook S.FOUL (P2.T3) (J.DeRosa),Foul,Shooting,1,0,301
+22200198,418,PT04M59.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,72,60,132,v,Thomas Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,302
+22200198,419,PT04M59.00S,3,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,72,61,133,v,Thomas Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,303
+22200198,420,PT04M48.00S,3,1610612747,LAL,203076,Davis,A. Davis,-11,15,2,Made,1,74,61,135,h,Davis 2' Dunk (28 PTS) (Westbrook 10 AST),Made Shot,Dunk Shot,1,2,304
+22200198,422,PT04M30.00S,3,1610612751,BKN,1628410,Sumner,E. Sumner,0,0,0,,0,74,61,135,v,Sumner Traveling Turnover (P3.T8),Turnover,Traveling,1,0,305
+22200198,423,PT04M30.00S,3,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,74,61,135,h,SUB: Nunn FOR Beverley,Substitution,,0,0,306
+22200198,424,PT04M30.00S,3,1610612751,BKN,1628410,Sumner,E. Sumner,0,0,0,,0,74,61,135,v,SUB: Watanabe FOR Sumner,Substitution,,0,0,307
+22200198,427,PT04M21.00S,3,1610612747,LAL,203076,Davis,A. Davis,-7,2,1,Missed,1,74,61,135,h,MISS Davis 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,308
+22200198,428,PT04M18.00S,3,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,74,61,135,v,Morris REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,309
+22200198,429,PT04M06.00S,3,1610612751,BKN,201142,Durant,K. Durant,-140,205,25,Missed,1,74,61,135,v,MISS Durant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,310
+22200198,430,PT04M03.00S,3,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,74,61,135,h,Westbrook REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,311
+22200198,431,PT03M56.00S,3,1610612747,LAL,1629022,Walker IV,L. Walker IV,-154,211,26,Made,1,77,61,138,h,Walker IV 26' 3PT Jump Shot (16 PTS) (Nunn 1 AST),Made Shot,Jump Shot,1,3,312
+22200198,433,PT03M31.00S,3,1610612751,BKN,202693,Morris,M. Morris,-96,0,10,Missed,1,77,61,138,v,MISS Morris 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,313
+22200198,434,PT03M28.00S,3,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,77,61,138,h,Westbrook REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,314
+22200198,435,PT03M22.00S,3,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,77,61,138,h,Westbrook Bad Pass Turnover (P4.T6),Turnover,Bad Pass,1,0,315
+22200198,435,PT03M22.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,77,61,138,v,O'Neale STEAL (2 STL),,,1,0,316
+22200198,437,PT03M19.00S,3,1610612751,BKN,1629139,Watanabe,Y. Watanabe,1,0,0,Made,1,77,63,140,v,Watanabe Running Dunk (6 PTS) (Durant 6 AST),Made Shot,Running Dunk Shot,1,2,317
+22200198,439,PT03M04.00S,3,1610612751,BKN,1629139,Watanabe,Y. Watanabe,0,0,0,,0,77,63,140,v,Watanabe P.FOUL (P1.T4) (J.DeRosa),Foul,Personal,1,0,318
+22200198,441,PT03M04.00S,3,1610612747,LAL,1629022,Walker IV,L. Walker IV,0,0,0,,0,77,63,140,h,SUB: Christie FOR Walker IV,Substitution,,0,0,319
+22200198,442,PT03M04.00S,3,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,0,0,0,,0,77,63,140,h,SUB: Reaves FOR Brown Jr.,Substitution,,0,0,320
+22200198,445,PT02M56.00S,3,1610612747,LAL,201566,Westbrook,R. Westbrook,214,123,25,Missed,1,77,63,140,h,MISS Westbrook 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+22200198,446,PT02M52.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,77,63,140,v,O'Neale REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,322
+22200198,447,PT02M45.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,77,63,140,h,Reaves S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,1,0,323
+22200198,449,PT02M45.00S,3,0,,1610612747,,,0,0,0,,0,77,63,140,h,LAKERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,324
+22200198,450,PT02M45.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,77,63,140,h,SUB: Gabriel FOR Davis,Substitution,,0,0,325
+22200198,452,PT02M45.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,77,64,141,v,Durant Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,326
+22200198,453,PT02M45.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,77,65,142,v,Durant Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,327
+22200198,454,PT02M25.00S,3,1610612747,LAL,201566,Westbrook,R. Westbrook,-7,64,6,Missed,1,77,65,142,h,MISS Westbrook 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,328
+22200198,454,PT02M25.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,77,65,142,v,Durant BLOCK (2 BLK),,,1,2,329
+22200198,456,PT02M23.00S,3,1610612751,BKN,1629139,Watanabe,Y. Watanabe,0,0,0,,0,77,65,142,v,Watanabe REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,330
+22200198,457,PT02M15.00S,3,1610612751,BKN,201142,Durant,K. Durant,-77,241,25,Made,1,77,68,145,v,Durant 25' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,3,331
+22200198,458,PT02M15.00S,3,1610612747,LAL,1629134,Nunn,K. Nunn,0,0,0,,0,77,68,145,h,Nunn S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,1,0,332
+22200198,460,PT02M15.00S,3,1610612747,LAL,1629117,Gabriel,W. Gabriel,0,0,0,,0,77,68,145,h,SUB: Davis FOR Gabriel,Substitution,,0,0,333
+22200198,462,PT02M15.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,77,69,146,v,Durant Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,1,0,334
+22200198,463,PT01M52.00S,3,1610612747,LAL,201566,Westbrook,R. Westbrook,-16,268,27,Missed,1,77,69,146,h,MISS Westbrook 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,335
+22200198,464,PT01M48.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,77,69,146,v,Durant REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,336
+22200198,465,PT01M42.00S,3,1610612751,BKN,201142,Durant,K. Durant,140,218,26,Made,1,77,72,149,v,Durant 26' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,3,337
+22200198,466,PT01M20.00S,3,1610612747,LAL,203076,Davis,A. Davis,-141,123,19,Made,1,79,72,151,h,Davis 19' Jump Shot (30 PTS),Made Shot,Jump Shot,1,2,338
+22200198,467,PT00M59.70S,3,1610612751,BKN,1630560,Thomas,C. Thomas,-12,8,1,Missed,1,79,72,151,v,MISS Thomas 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,339
+22200198,468,PT00M57.80S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,79,72,151,h,Davis REBOUND (Off:6 Def:7),Rebound,Unknown,1,0,340
+22200198,469,PT00M45.90S,3,1610612747,LAL,203076,Davis,A. Davis,21,1,2,Missed,1,79,72,151,h,MISS Davis 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,341
+22200198,470,PT00M44.50S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,79,72,151,v,Durant REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,342
+22200198,471,PT00M39.00S,3,1610612751,BKN,1629139,Watanabe,Y. Watanabe,-17,4,2,Made,1,79,74,153,v,Watanabe 2' Cutting Layup Shot (8 PTS) (Thomas 1 AST),Made Shot,Cutting Layup Shot,1,2,343
+22200198,473,PT00M19.50S,3,1610612747,LAL,1629134,Nunn,K. Nunn,54,86,10,Missed,1,79,74,153,h,MISS Nunn 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,344
+22200198,474,PT00M13.80S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,79,74,153,h,Davis REBOUND (Off:7 Def:7),Rebound,Unknown,1,0,345
+22200198,475,PT00M13.20S,3,1610612747,LAL,203076,Davis,A. Davis,21,62,7,Missed,1,79,74,153,h,MISS Davis 7' Putback Layup,Missed Shot,Putback Layup Shot,1,2,346
+22200198,476,PT00M11.60S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,79,74,153,v,Durant REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,347
+22200198,479,PT00M09.80S,3,0,,1610612751,,,0,0,0,,0,79,74,153,v,Nets Delay,Foul,Delay Technical,0,0,348
+22200198,480,PT00M09.80S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,80,74,154,h,Davis Free Throw Technical (31 PTS),Free Throw,Free Throw Technical,1,0,349
+22200198,481,PT00M09.80S,3,1610612747,LAL,1629134,Nunn,K. Nunn,0,0,0,,0,80,74,154,h,SUB: Beverley FOR Nunn,Substitution,,0,0,350
+22200198,483,PT00M03.90S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,-138,220,26,Made,1,80,77,157,v,O'Neale 26' 3PT Jump Shot (6 PTS) (Morris 5 AST),Made Shot,Jump Shot,1,3,351
+22200198,486,PT00M00.00S,3,0,,0,,,0,0,0,,0,80,77,157,,Instant Replay3rd Period (11:19 PM EST),Instant Replay,Support Ruling,0,0,352
+22200198,487,PT00M00.00S,3,0,,0,,,0,0,0,,0,80,77,157,,End of 3rd Period (11:20 PM EST),period,end,1,0,353
+22200198,494,PT12M00.00S,4,0,,0,,,0,0,0,,0,80,77,157,,Start of 4th Period (11:22 PM EST),period,start,0,0,354
+22200198,495,PT12M00.00S,4,0,,1610612747,,,0,0,0,,0,80,77,157,h,LAKERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,355
+22200198,496,PT11M43.00S,4,1610612747,LAL,1629117,Gabriel,W. Gabriel,6,10,1,Made,1,82,77,159,h,Gabriel 1' Layup (9 PTS) (Westbrook 11 AST),Made Shot,Layup Shot,1,2,356
+22200198,498,PT11M23.00S,4,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,82,77,159,v,Morris OFF.Foul (P2) (J.Schroeder),Foul,Offensive,1,0,357
+22200198,500,PT11M23.00S,4,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,82,77,159,v,Morris Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,1,0,358
+22200198,501,PT11M06.00S,4,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,-65,81,10,Missed,1,82,77,159,h,MISS Brown Jr. 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,359
+22200198,502,PT11M05.00S,4,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,82,77,159,v,Morris REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,360
+22200198,503,PT10M55.00S,4,1610612751,BKN,202693,Morris,M. Morris,-177,-8,18,Missed,1,82,77,159,v,MISS Morris 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,361
+22200198,504,PT10M50.00S,4,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,82,77,159,h,Beverley REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,362
+22200198,505,PT10M36.00S,4,1610612747,LAL,201566,Westbrook,R. Westbrook,-4,15,2,Made,1,84,77,161,h,Westbrook 2' Driving Dunk (10 PTS) (Reaves 2 AST),Made Shot,Driving Dunk Shot,1,2,363
+22200198,507,PT10M16.00S,4,1610612751,BKN,203925,Harris,J. Harris,224,37,0,Made,1,84,80,164,v,Harris 3PT Jump Shot (10 PTS) (Thomas 2 AST),Made Shot,Jump Shot,1,3,364
+22200198,509,PT10M04.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,84,80,164,v,Durant P.FOUL (P2.T1) (D.Guthrie),Foul,Personal,1,0,365
+22200198,511,PT10M04.00S,4,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,84,80,164,v,SUB: Mills FOR Morris,Substitution,,0,0,366
+22200198,512,PT10M04.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,84,80,164,v,SUB: O'Neale FOR Thomas,Substitution,,0,0,367
+22200198,515,PT09M51.00S,4,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,217,106,24,Made,1,87,80,167,h,Brown Jr. 24' 3PT Jump Shot (9 PTS) (Westbrook 12 AST),Made Shot,Jump Shot,1,3,368
+22200198,517,PT09M34.00S,4,1610612751,BKN,1629139,Watanabe,Y. Watanabe,-20,14,2,Made,1,87,82,169,v,Watanabe 2' Cutting Finger Roll Layup Shot (10 PTS) (Durant 7 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,369
+22200198,519,PT09M34.00S,4,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,87,82,169,h,Westbrook S.FOUL (P3.T1) (D.Guthrie),Foul,Shooting,1,0,370
+22200198,521,PT09M34.00S,4,1610612751,BKN,1629139,Watanabe,Y. Watanabe,0,0,0,,0,87,83,170,v,Watanabe Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,371
+22200198,523,PT09M13.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,87,83,170,v,O'Neale S.FOUL (P3.T2) (J.DeRosa),Foul,Shooting,1,0,372
+22200198,525,PT09M13.00S,4,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,88,83,171,h,Westbrook Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,373
+22200198,526,PT09M13.00S,4,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,89,83,172,h,Westbrook Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,374
+22200198,527,PT09M02.00S,4,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,89,83,172,h,Beverley P.FOUL (P4.T2) (D.Guthrie),Foul,Personal,1,0,375
+22200198,529,PT09M00.00S,4,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,89,83,172,h,Beverley S.FOUL (P5.T3) (J.Schroeder),Foul,Shooting,0,0,376
+22200198,531,PT09M00.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,89,84,173,v,Durant Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,377
+22200198,532,PT09M00.00S,4,1610612747,LAL,201976,Beverley,P. Beverley,0,0,0,,0,89,84,173,h,SUB: Walker IV FOR Beverley,Substitution,,0,0,378
+22200198,534,PT09M00.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,89,85,174,v,Durant Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,379
+22200198,535,PT08M53.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,89,85,174,v,O'Neale S.FOUL (P4.T3) (D.Guthrie),Foul,Shooting,1,0,380
+22200198,537,PT08M53.00S,4,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,90,85,175,h,Westbrook Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,381
+22200198,538,PT08M53.00S,4,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,91,85,176,h,Westbrook Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,382
+22200198,539,PT08M40.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,91,85,176,v,Durant Traveling Turnover (P2.T10),Turnover,Traveling,1,0,383
+22200198,540,PT08M30.00S,4,1610612747,LAL,1629117,Gabriel,W. Gabriel,0,0,0,,0,91,85,176,h,Gabriel Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,384
+22200198,540,PT08M30.00S,4,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,91,85,176,v,Mills STEAL (1 STL),,,1,0,385
+22200198,542,PT08M28.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,91,85,176,h,Reaves S.FOUL (P2.T4) (J.DeRosa),Foul,Shooting,1,0,386
+22200198,544,PT08M28.00S,4,0,,1610612747,,,0,0,0,,0,91,85,176,h,LAKERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,387
+22200198,545,PT08M28.00S,4,1610612747,LAL,201566,Westbrook,R. Westbrook,0,0,0,,0,91,85,176,h,SUB: Christie FOR Westbrook,Substitution,,0,0,388
+22200198,546,PT08M28.00S,4,1610612747,LAL,1629117,Gabriel,W. Gabriel,0,0,0,,0,91,85,176,h,SUB: Davis FOR Gabriel,Substitution,,0,0,389
+22200198,549,PT08M28.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,91,86,177,v,Durant Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0,390
+22200198,550,PT08M28.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,91,87,178,v,Durant Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0,391
+22200198,551,PT08M06.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,-40,111,12,Made,1,93,87,180,h,Reaves 12' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,2,392
+22200198,552,PT07M46.00S,4,1610612751,BKN,201142,Durant,K. Durant,-16,6,2,Missed,1,93,87,180,v,MISS Durant 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,393
+22200198,553,PT07M42.00S,4,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,93,87,180,v,Mills REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,394
+22200198,554,PT07M35.00S,4,1610612751,BKN,201988,Mills,P. Mills,-135,214,25,Missed,1,93,87,180,v,MISS Mills 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,395
+22200198,555,PT07M33.00S,4,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,0,0,0,,0,93,87,180,h,Brown Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,396
+22200198,556,PT07M19.00S,4,1610612747,LAL,1629022,Walker IV,L. Walker IV,148,197,25,Made,1,96,87,183,h,Walker IV 25' 3PT Jump Shot (19 PTS) (Reaves 3 AST),Made Shot,Jump Shot,1,3,397
+22200198,558,PT06M59.00S,4,1610612751,BKN,201142,Durant,K. Durant,-76,46,9,Missed,1,96,87,183,v,MISS Durant 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,398
+22200198,559,PT06M56.00S,4,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,96,87,183,h,Christie REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,399
+22200198,560,PT06M43.00S,4,1610612747,LAL,1629022,Walker IV,L. Walker IV,7,-4,1,Missed,1,96,87,183,h,MISS Walker IV 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,400
+22200198,561,PT06M41.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,96,87,183,h,Davis REBOUND (Off:8 Def:7),Rebound,Unknown,1,0,401
+22200198,562,PT06M41.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,Made,1,98,87,185,h,Davis Tip Dunk Shot (33 PTS),Made Shot,Tip Dunk Shot,1,2,402
+22200198,563,PT06M41.00S,4,0,,1610612751,,,0,0,0,,0,98,87,185,v,Nets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,403
+22200198,564,PT06M28.00S,4,1610612751,BKN,201142,Durant,K. Durant,-71,82,11,Missed,1,98,87,185,v,MISS Durant 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,404
+22200198,565,PT06M24.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,98,87,185,h,Davis REBOUND (Off:8 Def:8),Rebound,Unknown,1,0,405
+22200198,566,PT06M14.00S,4,1610612747,LAL,1629022,Walker IV,L. Walker IV,-15,189,19,Made,1,100,87,187,h,Walker IV 19' Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,1,2,406
+22200198,567,PT05M57.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,100,87,187,v,Durant Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,407
+22200198,568,PT05M46.00S,4,1610612747,LAL,1629022,Walker IV,L. Walker IV,2,23,2,Made,1,102,87,189,h,Walker IV 2' Driving Finger Roll Layup (23 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,408
+22200198,569,PT05M31.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,23,37,4,Missed,1,102,87,189,v,MISS O'Neale 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,409
+22200198,570,PT05M31.00S,4,0,,1610612747,,,0,0,0,,0,102,87,189,h,LAKERS Rebound,Rebound,Unknown,1,0,410
+22200198,572,PT05M21.00S,4,1610612747,LAL,1629022,Walker IV,L. Walker IV,-1,164,16,Missed,1,102,87,189,h,MISS Walker IV 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,411
+22200198,573,PT05M18.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,102,87,189,h,Davis REBOUND (Off:9 Def:8),Rebound,Unknown,1,0,412
+22200198,574,PT05M18.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,Made,1,104,87,191,h,Davis Tip Dunk Shot (35 PTS),Made Shot,Tip Dunk Shot,1,2,413
+22200198,575,PT05M18.00S,4,0,,1610612751,,,0,0,0,,0,104,87,191,v,Nets Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,414
+22200198,576,PT05M13.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,104,87,191,h,Davis P.FOUL (P4.PN) (J.Schroeder),Foul,Personal,1,0,415
+22200198,578,PT05M13.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,104,88,192,v,Durant Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,416
+22200198,579,PT05M13.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,104,89,193,v,Durant Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,417
+22200198,580,PT04M59.00S,4,1610612747,LAL,203076,Davis,A. Davis,-75,73,10,Missed,1,104,89,193,h,MISS Davis 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,418
+22200198,581,PT04M59.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,104,89,193,h,Davis REBOUND (Off:10 Def:8),Rebound,Unknown,1,0,419
+22200198,582,PT04M59.00S,4,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,104,89,193,v,Harris S.FOUL (P3.T4) (J.DeRosa),Foul,Shooting,1,0,420
+22200198,584,PT04M59.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,105,89,194,h,Davis Free Throw 1 of 2 (36 PTS),Free Throw,Free Throw 1 of 2,1,0,421
+22200198,585,PT04M59.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,106,89,195,h,Davis Free Throw 2 of 2 (37 PTS),Free Throw,Free Throw 2 of 2,1,0,422
+22200198,586,PT04M54.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,106,89,195,h,Davis P.FOUL (P5.PN) (D.Guthrie),Foul,Personal,1,0,423
+22200198,588,PT04M54.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,106,90,196,v,Durant Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,424
+22200198,589,PT04M54.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,106,91,197,v,Durant Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,425
+22200198,590,PT04M37.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,106,91,197,h,Reaves Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,426
+22200198,591,PT04M30.00S,4,1610612751,BKN,201142,Durant,K. Durant,13,0,1,Missed,1,106,91,197,v,MISS Durant 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,427
+22200198,592,PT04M28.00S,4,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,0,0,0,,0,106,91,197,h,Brown Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,428
+22200198,593,PT04M11.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,-167,188,25,Made,1,109,91,200,h,Reaves 25' 3PT Jump Shot (15 PTS) (Brown Jr. 1 AST),Made Shot,Jump Shot,1,3,429
+22200198,595,PT03M57.00S,4,1610612751,BKN,201142,Durant,K. Durant,-27,82,9,Made,1,109,93,202,v,Durant 9' Turnaround Fadeaway (31 PTS),Made Shot,Turnaround Fadeaway shot,1,2,430
+22200198,596,PT03M39.00S,4,1610612747,LAL,1629022,Walker IV,L. Walker IV,-119,85,15,Made,1,111,93,204,h,Walker IV 15' Driving Floating Jump Shot (25 PTS),Made Shot,Driving Floating Jump Shot,1,2,431
+22200198,597,PT03M39.00S,4,0,,1610612751,,,0,0,0,,0,111,93,204,v,Nets Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,432
+22200198,598,PT03M39.00S,4,0,,1610612747,,,0,0,0,,0,111,93,204,h,LAKERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,433
+22200198,599,PT03M39.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,111,93,204,h,SUB: Nunn FOR Reaves,Substitution,,0,0,434
+22200198,601,PT03M39.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,111,93,204,v,SUB: Thomas FOR O'Neale,Substitution,,0,0,435
+22200198,603,PT03M39.00S,4,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,111,93,204,v,SUB: Sumner FOR Mills,Substitution,,0,0,436
+22200198,604,PT03M39.00S,4,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,111,93,204,v,SUB: Edwards FOR Harris,Substitution,,0,0,437
+22200198,605,PT03M39.00S,4,1610612751,BKN,1629139,Watanabe,Y. Watanabe,0,0,0,,0,111,93,204,v,SUB: Sharpe FOR Watanabe,Substitution,,0,0,438
+22200198,614,PT03M39.00S,4,0,,1610612747,,,0,0,0,,0,111,93,204,h,LAKERS Delay,Foul,Delay Technical,1,0,439
+22200198,619,PT03M39.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,111,93,204,v,MISS Durant Free Throw Technical,Free Throw,Free Throw Technical,1,0,440
+22200198,620,PT03M39.00S,4,0,,1610612751,,,0,0,0,,0,111,93,204,v,Nets Rebound,Rebound,Normal Rebound,0,0,441
+22200198,621,PT03M39.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,111,93,204,h,SUB: Gabriel FOR Davis,Substitution,,0,0,442
+22200198,622,PT03M39.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,111,93,204,v,SUB: Duke Jr. FOR Durant,Substitution,,0,0,443
+22200198,625,PT03M20.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,111,93,204,v,Sharpe Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,444
+22200198,625,PT03M20.00S,4,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,0,0,0,,0,111,93,204,h,Brown Jr. STEAL (2 STL),,,1,0,445
+22200198,627,PT02M57.00S,4,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,60,71,9,Missed,1,111,93,204,h,MISS Brown Jr. 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,446
+22200198,628,PT02M54.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,111,93,204,v,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,447
+22200198,629,PT02M41.00S,4,1610612751,BKN,1628410,Sumner,E. Sumner,-94,52,11,Made,1,111,95,206,v,Sumner 11' Driving Floating Bank Jump Shot (13 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,448
+22200198,630,PT02M20.00S,4,1610612747,LAL,1629022,Walker IV,L. Walker IV,18,17,2,Missed,1,111,95,206,h,MISS Walker IV 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,449
+22200198,631,PT02M18.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,111,95,206,v,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,450
+22200198,632,PT02M07.00S,4,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,0,0,0,,0,111,95,206,h,Brown Jr. Violation:Kicked Ball (J.Schroeder),Violation,Kicked Ball,0,0,451
+22200198,633,PT02M07.00S,4,1610612747,LAL,1629022,Walker IV,L. Walker IV,0,0,0,,0,111,95,206,h,SUB: Toscano-Anderson FOR Walker IV,Substitution,,0,0,452
+22200198,634,PT02M07.00S,4,1610612747,LAL,1628972,Brown Jr.,T. Brown Jr.,0,0,0,,0,111,95,206,h,SUB: Ryan FOR Brown Jr.,Substitution,,0,0,453
+22200198,637,PT02M00.00S,4,1610612751,BKN,1630561,Duke Jr.,D. Duke Jr.,27,40,5,Made,1,111,97,208,v,Duke Jr. 5' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,454
+22200198,638,PT01M48.00S,4,1610612747,LAL,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,111,97,208,h,Toscano-Anderson Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,455
+22200198,638,PT01M48.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,111,97,208,v,Thomas STEAL (1 STL),,,1,0,456
+22200198,640,PT01M46.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,1,8,1,Made,1,111,99,210,v,Thomas 1' Running Layup (11 PTS),Made Shot,Running Layup Shot,1,2,457
+22200198,641,PT01M35.00S,4,1610612747,LAL,1630346,Ryan,M. Ryan,-227,32,0,Made,1,114,99,213,h,Ryan 3PT Jump Shot (3 PTS) (Nunn 2 AST),Made Shot,Jump Shot,1,3,458
+22200198,643,PT01M28.00S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,114,99,213,v,Thomas Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0,459
+22200198,643,PT01M28.00S,4,1610612747,LAL,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,114,99,213,h,Toscano-Anderson STEAL (1 STL),,,1,0,460
+22200198,645,PT01M26.00S,4,1610612747,LAL,1629308,Toscano-Anderson,J. Toscano-Anderson,1,-4,0,Made,1,116,99,215,h,Toscano-Anderson Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,461
+22200198,646,PT01M07.00S,4,1610612751,BKN,1630561,Duke Jr.,D. Duke Jr.,5,46,5,Missed,1,116,99,215,v,MISS Duke Jr. 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,462
+22200198,647,PT01M03.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,116,99,215,v,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,463
+22200198,648,PT01M03.00S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,Missed,1,116,99,215,v,MISS Sharpe Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,464
+22200198,649,PT01M02.00S,4,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,116,99,215,h,Christie REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,465
+22200198,650,PT00M43.70S,4,1610612747,LAL,1629117,Gabriel,W. Gabriel,12,2,1,Missed,1,116,99,215,h,MISS Gabriel 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,466
+22200198,651,PT00M41.90S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,116,99,215,v,Thomas REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,467
+22200198,652,PT00M38.30S,4,1610612751,BKN,1630560,Thomas,C. Thomas,12,35,4,Made,1,116,101,217,v,Thomas 4' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,2,468
+22200198,653,PT00M38.30S,4,1610612747,LAL,1629308,Toscano-Anderson,J. Toscano-Anderson,0,0,0,,0,116,101,217,h,Toscano-Anderson S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,1,0,469
+22200198,655,PT00M38.30S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,116,101,217,v,MISS Thomas Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,470
+22200198,656,PT00M36.50S,4,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,116,101,217,h,Christie REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,471
+22200198,657,PT00M28.60S,4,1610612747,LAL,1630346,Ryan,M. Ryan,185,165,25,Missed,1,116,101,217,h,MISS Ryan 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,472
+22200198,658,PT00M25.70S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,116,101,217,v,Sharpe REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,473
+22200198,659,PT00M20.50S,4,1610612747,LAL,1629117,Gabriel,W. Gabriel,0,0,0,,0,116,101,217,h,Gabriel S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,1,0,474
+22200198,661,PT00M20.50S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,116,102,218,v,Thomas Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,475
+22200198,662,PT00M20.50S,4,1610612751,BKN,1630560,Thomas,C. Thomas,0,0,0,,0,116,103,219,v,Thomas Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,476
+22200198,663,PT00M00.00S,4,0,,0,,,0,0,0,,0,116,103,219,,End of 4th Period (11:56 PM EST),period,end,1,0,477

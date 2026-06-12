@@ -1,0 +1,461 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22200531,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:41 PM EST),period,start,0,0,1
+22200531,4,PT12M00.00S,1,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,0,0,0,h,Jump Ball Koloko vs. Ayton: Tip to Craig,Jump Ball,,1,0,2
+22200531,7,PT11M36.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,-44,84,9,Missed,1,0,0,0,v,MISS Ayton 9' Hook Shot,Missed Shot,Hook Shot,1,2,3
+22200531,7,PT11M36.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,0,0,0,h,Barnes BLOCK (1 BLK),,,1,2,4
+22200531,9,PT11M35.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,0,0,0,v,Ayton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,5
+22200531,10,PT11M35.00S,1,0,,1610612756,,,0,0,0,,0,0,0,0,v,Suns Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,6
+22200531,11,PT11M11.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,29,61,7,Missed,1,0,0,0,h,MISS Barnes 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,7
+22200531,12,PT11M08.00S,1,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,0,0,0,v,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+22200531,13,PT11M03.00S,1,1610612756,PHX,1629006,Okogie,J. Okogie,10,10,1,Made,1,0,2,2,v,Okogie 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,9
+22200531,14,PT10M48.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,-50,251,26,Made,1,3,2,5,h,Siakam 26' 3PT Jump Shot (3 PTS) (Trent Jr. 1 AST),Made Shot,Jump Shot,1,3,10
+22200531,16,PT10M30.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,3,2,5,v,Bridges Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,11
+22200531,17,PT10M14.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,-22,104,11,Made,1,5,2,7,h,Siakam 11' Floating Jump Shot (5 PTS),Made Shot,Floating Jump shot,1,2,12
+22200531,18,PT09M53.00S,1,1610612756,PHX,1628470,Craig,T. Craig,-165,225,28,Made,1,5,5,10,v,Craig 28' 3PT Jump Shot (3 PTS) (Paul 1 AST),Made Shot,Jump Shot,1,3,13
+22200531,20,PT09M42.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-170,210,27,Missed,1,5,5,10,h,MISS Trent Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+22200531,21,PT09M39.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,5,5,10,h,Siakam REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,15
+22200531,22,PT09M37.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,143,224,27,Made,1,8,5,13,h,Anunoby 27' 3PT Jump Shot (3 PTS) (Siakam 1 AST),Made Shot,Jump Shot,1,3,16
+22200531,24,PT09M26.00S,1,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,8,5,13,v,Paul Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,17
+22200531,24,PT09M26.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,8,5,13,h,Anunoby STEAL (1 STL),,,1,0,18
+22200531,26,PT09M25.00S,1,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,8,5,13,v,Okogie S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,1,0,19
+22200531,28,PT09M25.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,9,5,14,h,Trent Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,20
+22200531,29,PT09M25.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,10,5,15,h,Trent Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,21
+22200531,30,PT09M09.00S,1,1610612756,PHX,1629006,Okogie,J. Okogie,170,27,17,Made,1,10,7,17,v,Okogie 17' Step Back Jump Shot (4 PTS) (Paul 2 AST),Made Shot,Step Back Jump shot,1,2,22
+22200531,32,PT08M47.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,154,127,20,Missed,1,10,7,17,h,MISS Siakam 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,23
+22200531,33,PT08M43.00S,1,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,10,7,17,v,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,24
+22200531,34,PT08M34.00S,1,1610612756,PHX,1628470,Craig,T. Craig,-7,8,1,Made,1,10,9,19,v,Craig 1' Layup (5 PTS) (Ayton 1 AST),Made Shot,Layup Shot,1,2,25
+22200531,36,PT08M16.00S,1,1610612761,TOR,1631132,Koloko,C. Koloko,-18,17,2,Made,1,12,9,21,h,Koloko 2' Cutting Finger Roll Layup Shot (2 PTS) (Anunoby 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,26
+22200531,38,PT07M50.00S,1,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,12,9,21,v,Paul Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,27
+22200531,38,PT07M50.00S,1,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,12,9,21,h,Koloko STEAL (1 STL),,,1,0,28
+22200531,40,PT07M45.00S,1,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,12,9,21,v,Craig P.FOUL (P1.T2) (J.Tiven),Foul,Personal,1,0,29
+22200531,42,PT07M38.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-123,219,25,Missed,1,12,9,21,h,MISS Trent Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,30
+22200531,43,PT07M35.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,12,9,21,v,Ayton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,31
+22200531,44,PT07M25.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,44,48,7,Missed,1,12,9,21,v,MISS Ayton 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,32
+22200531,45,PT07M22.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,12,9,21,h,Trent Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,33
+22200531,50,PT07M11.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,-2,11,1,Made,1,14,9,23,h,Anunoby 1' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,1,2,34
+22200531,51,PT07M05.00S,1,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,14,9,23,h,Koloko S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,1,0,35
+22200531,53,PT07M05.00S,1,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,14,9,23,v,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,36
+22200531,54,PT07M05.00S,1,0,,1610612756,,,0,0,0,,0,14,9,23,v,Suns Rebound,Rebound,Normal Rebound,1,0,37
+22200531,55,PT07M05.00S,1,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,14,10,24,v,Okogie Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,38
+22200531,56,PT06M47.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,-29,253,25,Missed,1,14,10,24,h,MISS Siakam 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,39
+22200531,57,PT06M41.00S,1,0,,1610612756,,,0,0,0,,0,14,10,24,v,Suns Rebound,Rebound,Unknown,0,0,40
+22200531,59,PT06M41.00S,1,0,,1610612761,,,0,0,0,,0,14,10,24,h,RAPTORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,41
+22200531,61,PT06M21.00S,1,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,14,10,24,v,Paul Lost Ball Turnover (P3.T5),Turnover,Lost Ball,1,0,42
+22200531,61,PT06M21.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,14,10,24,h,Barnes STEAL (1 STL),,,1,0,43
+22200531,63,PT06M11.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-142,99,17,Missed,1,14,10,24,h,MISS Trent Jr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,44
+22200531,64,PT06M09.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,14,10,24,v,Ayton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,45
+22200531,65,PT06M04.00S,1,1610612756,PHX,1629006,Okogie,J. Okogie,-239,-6,24,Missed,1,14,10,24,v,MISS Okogie 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,46
+22200531,66,PT06M00.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,14,10,24,h,Trent Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,47
+22200531,67,PT05M45.00S,1,1610612761,TOR,1631132,Koloko,C. Koloko,1,38,4,Made,1,16,10,26,h,Koloko 4' Cutting Finger Roll Layup Shot (4 PTS) (Anunoby 2 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,48
+22200531,69,PT05M22.00S,1,1610612756,PHX,1628470,Craig,T. Craig,-173,193,26,Made,1,16,13,29,v,Craig 26' 3PT Jump Shot (8 PTS) (Okogie 1 AST),Made Shot,Jump Shot,1,3,49
+22200531,71,PT05M09.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-82,247,26,Made,1,19,13,32,h,Trent Jr. 26' 3PT Jump Shot (5 PTS) (Siakam 2 AST),Made Shot,Jump Shot,1,3,50
+22200531,73,PT04M45.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,-145,23,15,Made,1,19,15,34,v,Ayton 15' Turnaround Fadeaway (2 PTS) (Bridges 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,51
+22200531,75,PT04M37.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,19,15,34,v,Ayton S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,1,0,52
+22200531,77,PT04M37.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,20,15,35,h,Anunoby Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,53
+22200531,78,PT04M37.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,20,15,35,h,SUB: Boucher FOR Trent Jr.,Substitution,,0,0,54
+22200531,79,PT04M37.00S,1,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,20,15,35,h,SUB: Young FOR Koloko,Substitution,,0,0,55
+22200531,80,PT04M37.00S,1,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,20,15,35,v,SUB: Washington Jr. FOR Okogie,Substitution,,0,0,56
+22200531,81,PT04M37.00S,1,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,20,15,35,v,SUB: Lee FOR Paul,Substitution,,0,0,57
+22200531,86,PT04M37.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,21,15,36,h,Anunoby Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,58
+22200531,87,PT04M23.00S,1,1610612756,PHX,1627814,Lee,D. Lee,-31,268,27,Made,1,21,18,39,v,Lee 27' 3PT Jump Shot (3 PTS) (Washington Jr. 1 AST),Made Shot,Jump Shot,1,3,59
+22200531,89,PT04M08.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,-202,156,26,Missed,1,21,18,39,h,MISS Anunoby 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,60
+22200531,90,PT04M05.00S,1,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,0,0,0,,0,21,18,39,v,Washington Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,61
+22200531,91,PT03M57.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,-51,21,6,Missed,1,21,18,39,v,MISS Ayton 6' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,62
+22200531,92,PT03M55.00S,1,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,21,18,39,h,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+22200531,93,PT03M42.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,66,250,26,Missed,1,21,18,39,h,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,64
+22200531,94,PT03M39.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,21,18,39,v,Ayton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,65
+22200531,95,PT03M27.00S,1,1610612756,PHX,1628470,Craig,T. Craig,-48,62,8,Made,1,21,20,41,v,Craig 8' Fadeaway Jumper (10 PTS) (Ayton 2 AST),Made Shot,Fadeaway Jump Shot,1,2,66
+22200531,97,PT03M05.00S,1,1610612761,TOR,201152,Young,T. Young,-17,27,3,Made,1,23,20,43,h,Young 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,67
+22200531,98,PT02M54.00S,1,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,23,20,43,v,Lee Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,68
+22200531,99,PT02M54.00S,1,0,,1610612756,,,0,0,0,,0,23,20,43,v,Suns Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,69
+22200531,100,PT02M54.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,23,20,43,h,SUB: Flynn FOR Anunoby,Substitution,,0,0,70
+22200531,101,PT02M54.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,23,20,43,h,SUB: Trent Jr. FOR Barnes,Substitution,,0,0,71
+22200531,102,PT02M54.00S,1,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,23,20,43,v,SUB: Landale FOR Craig,Substitution,,0,0,72
+22200531,103,PT02M54.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,23,20,43,v,SUB: Wainright FOR Ayton,Substitution,,0,0,73
+22200531,108,PT02M42.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,102,22,10,Missed,1,23,20,43,h,MISS Siakam 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,74
+22200531,109,PT02M40.00S,1,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,23,20,43,v,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,75
+22200531,110,PT02M29.00S,1,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,0,0,0,,0,23,20,43,v,Washington Jr. Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,76
+22200531,110,PT02M29.00S,1,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,23,20,43,h,Young STEAL (1 STL),,,1,0,77
+22200531,112,PT02M23.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-185,177,26,Missed,1,23,20,43,h,MISS Flynn 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,78
+22200531,113,PT02M18.00S,1,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,23,20,43,h,Young REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,79
+22200531,114,PT02M11.00S,1,1610612761,TOR,1630201,Flynn,M. Flynn,-216,135,25,Missed,1,23,20,43,h,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,80
+22200531,115,PT02M08.00S,1,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,23,20,43,v,Landale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,81
+22200531,116,PT01M57.00S,1,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,-51,33,6,Made,1,23,22,45,v,Washington Jr. 6' Driving Bank Hook Shot (2 PTS) (Landale 1 AST),Made Shot,Driving Bank Hook Shot,1,2,82
+22200531,118,PT01M36.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-181,176,25,Made,1,26,22,48,h,Trent Jr. 25' 3PT Jump Shot (8 PTS) (Young 1 AST),Made Shot,Jump Shot,1,3,83
+22200531,120,PT01M21.00S,1,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,26,22,48,v,Lee Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,84
+22200531,120,PT01M21.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,26,22,48,h,Boucher STEAL (1 STL),,,1,0,85
+22200531,122,PT01M18.00S,1,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,26,22,48,v,Wainright S.FOUL (P1.T4) (R.Hussey),Foul,Shooting,1,0,86
+22200531,124,PT01M18.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,27,22,49,h,Siakam Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,87
+22200531,125,PT01M18.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,27,22,49,v,SUB: Saric FOR Bridges,Substitution,,0,0,88
+22200531,127,PT01M18.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,28,22,50,h,Siakam Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,89
+22200531,128,PT00M59.30S,1,1610612756,PHX,1629111,Landale,J. Landale,-96,27,10,Made,1,28,24,52,v,Landale 10' Floating Jump Shot (2 PTS) (Saric 1 AST),Made Shot,Floating Jump shot,1,2,90
+22200531,130,PT00M38.80S,1,1610612761,TOR,1628449,Boucher,C. Boucher,-232,1,0,Made,1,31,24,55,h,Boucher 3PT Jump Shot (3 PTS) (Siakam 3 AST),Made Shot,Jump Shot,1,3,91
+22200531,132,PT00M33.20S,1,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,0,0,0,,0,31,24,55,v,Washington Jr. Lost Ball Turnover (P2.T9),Turnover,Lost Ball,1,0,92
+22200531,132,PT00M33.20S,1,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,31,24,55,h,Young STEAL (2 STL),,,1,0,93
+22200531,134,PT00M29.00S,1,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,31,24,55,h,Young Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,94
+22200531,134,PT00M29.00S,1,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,31,24,55,v,Wainright STEAL (1 STL),,,1,0,95
+22200531,136,PT00M13.50S,1,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,10,270,27,Missed,1,31,24,55,v,MISS Washington Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+22200531,137,PT00M09.90S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,31,24,55,h,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,97
+22200531,138,PT00M03.30S,1,1610612761,TOR,1627783,Siakam,P. Siakam,38,71,8,Missed,1,31,24,55,h,MISS Siakam 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,98
+22200531,139,PT00M01.90S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,31,24,55,h,Siakam REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,99
+22200531,140,PT00M00.90S,1,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,31,24,55,v,Wainright S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,1,0,100
+22200531,142,PT00M00.90S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,32,24,56,h,Siakam Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,101
+22200531,143,PT00M00.90S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,33,24,57,h,Siakam Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,102
+22200531,144,PT00M00.00S,1,0,,0,,,0,0,0,,0,33,24,57,,End of 1st Period (8:05 PM EST),period,end,1,0,103
+22200531,147,PT12M00.00S,2,0,,0,,,0,0,0,,0,33,24,57,,Start of 2nd Period (8:08 PM EST),period,start,0,0,104
+22200531,148,PT11M35.00S,2,1610612761,TOR,201152,Young,T. Young,-99,35,11,Missed,1,33,24,57,h,MISS Young 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,105
+22200531,149,PT11M32.00S,2,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,33,24,57,v,Lee REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,106
+22200531,150,PT11M20.00S,2,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,0,0,0,,0,33,24,57,v,Washington Jr. Out of Bounds Lost Ball Turnover (P3.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,107
+22200531,151,PT11M04.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,33,24,57,h,Trent Jr. OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,1,0,108
+22200531,153,PT11M04.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,33,24,57,h,Trent Jr. Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,109
+22200531,154,PT11M04.00S,2,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,0,0,0,,0,33,24,57,v,SUB: Paul FOR Washington Jr.,Substitution,,0,0,110
+22200531,156,PT10M48.00S,2,1610612756,PHX,203967,Šarić,D. Šarić,0,0,0,,0,33,24,57,v,Saric Backcourt Turnover (P1.T11),Turnover,Backcourt Turnover,1,0,111
+22200531,157,PT10M39.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,239,64,25,Missed,1,33,24,57,h,MISS Boucher 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,112
+22200531,158,PT10M37.00S,2,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,33,24,57,v,Landale REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,113
+22200531,159,PT10M27.00S,2,1610612756,PHX,101108,Paul,C. Paul,-28,115,12,Made,1,33,26,59,v,Paul 12' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1,2,114
+22200531,160,PT10M10.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-51,29,6,Missed,1,33,26,59,h,MISS Trent Jr. 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,115
+22200531,161,PT10M06.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,33,26,59,v,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,116
+22200531,164,PT09M59.00S,2,1610612756,PHX,1627814,Lee,D. Lee,-232,26,0,Made,1,33,29,62,v,Lee 3PT Running Jump Shot (6 PTS) (Paul 3 AST),Made Shot,Running Jump Shot,1,3,117
+22200531,166,PT09M39.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,2,116,12,Missed,1,33,29,62,h,MISS Anunoby 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,118
+22200531,167,PT09M37.00S,2,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,33,29,62,v,Landale REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,119
+22200531,168,PT09M28.00S,2,1610612756,PHX,203967,Šarić,D. Šarić,238,6,24,Made,1,33,32,65,v,Saric 24' 3PT Jump Shot (3 PTS) (Paul 4 AST),Made Shot,Jump Shot,1,3,120
+22200531,170,PT09M27.00S,2,0,,1610612761,,,0,0,0,,0,33,32,65,h,RAPTORS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,121
+22200531,171,PT09M27.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,33,32,65,h,SUB: Barnes FOR Boucher,Substitution,,0,0,122
+22200531,172,PT09M27.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,33,32,65,h,SUB: Hernangomez FOR Trent Jr.,Substitution,,0,0,123
+22200531,175,PT09M21.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,18,266,27,Missed,1,33,32,65,h,MISS Flynn 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,124
+22200531,176,PT09M17.00S,2,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,33,32,65,v,Landale REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,125
+22200531,177,PT09M00.00S,2,1610612756,PHX,101108,Paul,C. Paul,23,70,7,Made,1,33,34,67,v,Paul 7' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,2,126
+22200531,178,PT08M44.00S,2,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,33,34,67,h,Young Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,127
+22200531,178,PT08M44.00S,2,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,33,34,67,v,Wainright STEAL (2 STL),,,1,0,128
+22200531,180,PT08M23.00S,2,1610612756,PHX,203967,Šarić,D. Šarić,0,0,0,,0,33,34,67,v,Saric Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,129
+22200531,180,PT08M23.00S,2,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,33,34,67,h,Young STEAL (3 STL),,,1,0,130
+22200531,182,PT08M03.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,-4,17,2,Made,1,35,34,69,h,Anunoby 2' Driving Dunk (9 PTS) (Flynn 1 AST),Made Shot,Driving Dunk Shot,1,2,131
+22200531,184,PT07M48.00S,2,1610612756,PHX,1630688,Wainright,I. Wainright,123,230,26,Made,1,35,37,72,v,Wainright 26' 3PT Jump Shot (3 PTS) (Paul 5 AST),Made Shot,Jump Shot,1,3,132
+22200531,187,PT07M19.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,53,263,27,Missed,1,35,37,72,h,MISS Anunoby 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,133
+22200531,188,PT07M16.00S,2,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,35,37,72,v,Landale REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,134
+22200531,189,PT07M03.00S,2,1610612756,PHX,203967,Šarić,D. Šarić,-165,204,26,Missed,1,35,37,72,v,MISS Saric 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+22200531,190,PT07M00.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,35,37,72,h,Anunoby REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,136
+22200531,191,PT06M55.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,35,37,72,h,Anunoby Offensive Charge Foul (P1) (J.Van Duyne),Foul,Offensive Charge,1,0,137
+22200531,193,PT06M55.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,35,37,72,h,Anunoby Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,138
+22200531,194,PT06M55.00S,2,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,35,37,72,v,SUB: Ayton FOR Landale,Substitution,,0,0,139
+22200531,195,PT06M55.00S,2,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,35,37,72,v,SUB: Bridges FOR Wainright,Substitution,,0,0,140
+22200531,200,PT06M55.00S,2,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,35,37,72,v,SUB: Craig FOR Lee,Substitution,,0,0,141
+22200531,201,PT06M55.00S,2,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,35,37,72,h,SUB: Siakam FOR Young,Substitution,,0,0,142
+22200531,202,PT06M55.00S,2,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,35,37,72,h,SUB: Trent Jr. FOR Flynn,Substitution,,0,0,143
+22200531,205,PT06M45.00S,2,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,35,37,72,v,Craig Backcourt Turnover (P1.T13),Turnover,Backcourt Turnover,1,0,144
+22200531,206,PT06M33.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,-118,234,26,Missed,1,35,37,72,h,MISS Siakam 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,145
+22200531,207,PT06M28.00S,2,1610612756,PHX,203967,Šarić,D. Šarić,0,0,0,,0,35,37,72,v,Saric REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,146
+22200531,230,PT06M18.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,66,48,8,Missed,1,35,37,72,v,MISS Ayton 8' Jump Shot,Missed Shot,Jump Shot,1,2,147
+22200531,230,PT06M18.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,35,37,72,h,Trent Jr. BLOCK (1 BLK),,,1,2,148
+22200531,232,PT06M18.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,35,37,72,h,Trent Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,149
+22200531,211,PT06M07.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,-82,178,20,Made,1,37,37,74,h,Barnes 20' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,2,150
+22200531,213,PT06M07.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,37,37,74,h,Anunoby L.B.FOUL (P2.T1) (J.Van Duyne),Foul,Loose Ball,1,0,151
+22200531,215,PT05M59.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,37,37,74,v,Paul Out of Bounds - Bad Pass Turnover Turnover (P4.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,152
+22200531,216,PT05M47.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-142,16,14,Missed,1,37,37,74,h,MISS Trent Jr. 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,153
+22200531,217,PT05M44.00S,2,1610612756,PHX,203967,Šarić,D. Šarić,0,0,0,,0,37,37,74,v,Saric REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,154
+22200531,218,PT05M32.00S,2,1610612756,PHX,101108,Paul,C. Paul,-28,160,16,Made,1,37,39,76,v,Paul 16' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,2,155
+22200531,219,PT05M12.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-207,153,26,Made,1,40,39,79,h,Trent Jr. 26' 3PT Jump Shot (11 PTS) (Siakam 4 AST),Made Shot,Jump Shot,1,3,156
+22200531,221,PT04M59.00S,2,1610612756,PHX,203967,Šarić,D. Šarić,2,12,1,Missed,1,40,39,79,v,MISS Saric 1' Layup,Missed Shot,Layup Shot,1,2,157
+22200531,222,PT04M58.00S,2,1610612761,TOR,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,40,39,79,h,Hernangomez REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,158
+22200531,223,PT04M52.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,40,39,79,v,Bridges S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,1,0,159
+22200531,225,PT04M52.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,41,39,80,h,Siakam Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,160
+22200531,226,PT04M52.00S,2,1610612761,TOR,1627823,Hernangomez,J. Hernangomez,0,0,0,,0,41,39,80,h,SUB: Koloko FOR Hernangomez,Substitution,,0,0,161
+22200531,228,PT04M52.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,42,39,81,h,Siakam Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,162
+22200531,233,PT04M33.00S,2,1610612756,PHX,1628470,Craig,T. Craig,-137,2,14,Missed,1,42,39,81,v,MISS Craig 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,163
+22200531,234,PT04M33.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,42,39,81,h,Anunoby REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,164
+22200531,235,PT04M23.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,-28,260,26,Made,1,45,39,84,h,Anunoby 26' 3PT Jump Shot (12 PTS) (Barnes 1 AST),Made Shot,Jump Shot,1,3,165
+22200531,237,PT04M22.00S,2,0,,1610612756,,,0,0,0,,0,45,39,84,v,Suns Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,166
+22200531,238,PT04M22.00S,2,1610612756,PHX,203967,Šarić,D. Šarić,0,0,0,,0,45,39,84,v,SUB: Okogie FOR Saric,Substitution,,0,0,167
+22200531,240,PT04M04.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,45,39,84,h,Anunoby P.FOUL (P3.T2) (J.Tiven),Foul,Personal,1,0,168
+22200531,242,PT03M58.00S,2,1610612756,PHX,1628470,Craig,T. Craig,-183,190,26,Missed,1,45,39,84,v,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,169
+22200531,243,PT03M55.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,45,39,84,h,Anunoby REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,170
+22200531,244,PT03M52.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,15,26,3,Made,1,47,39,86,h,Siakam 3' Running Finger Roll Layup (13 PTS) (Anunoby 3 AST),Made Shot,Running Finger Roll Layup Shot,1,2,171
+22200531,246,PT03M52.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,47,39,86,v,Bridges Violation:Defensive Goaltending (R.Hussey),Violation,Defensive Goaltending,1,0,172
+22200531,247,PT03M38.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,-6,71,7,Missed,1,47,39,86,v,MISS Ayton 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,173
+22200531,248,PT03M38.00S,2,0,,1610612756,,,0,0,0,,0,47,39,86,v,Suns Rebound,Rebound,Unknown,1,0,174
+22200531,249,PT03M38.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,47,39,86,h,Anunoby L.B.FOUL (P4.T3) (R.Hussey),Foul,Loose Ball,1,0,175
+22200531,251,PT03M38.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,47,39,86,h,SUB: Boucher FOR Anunoby,Substitution,,0,0,176
+22200531,253,PT03M32.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,47,39,86,v,Bridges Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0,177
+22200531,253,PT03M32.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,47,39,86,h,Trent Jr. STEAL (1 STL),,,1,0,178
+22200531,255,PT03M23.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,2,19,2,Made,1,49,39,88,h,Boucher 2' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,179
+22200531,256,PT03M00.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,169,180,25,Missed,1,49,39,88,v,MISS Bridges 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+22200531,257,PT02M57.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,49,39,88,v,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,181
+22200531,258,PT02M53.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,-21,46,5,Made,1,49,41,90,v,Bridges 5' Driving Floating Jump Shot (2 PTS) (Paul 6 AST),Made Shot,Driving Floating Jump Shot,1,2,182
+22200531,260,PT02M53.00S,2,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,49,41,90,h,Koloko S.FOUL (P2.T4) (J.Van Duyne),Foul,Shooting,1,0,183
+22200531,262,PT02M53.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,49,41,90,v,SUB: Lee FOR Okogie,Substitution,,0,0,184
+22200531,264,PT02M53.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,49,42,91,v,Bridges Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,185
+22200531,265,PT02M36.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,-216,104,24,Missed,1,49,42,91,h,MISS Barnes 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,186
+22200531,266,PT02M33.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,49,42,91,v,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,187
+22200531,267,PT02M28.00S,2,1610612756,PHX,101108,Paul,C. Paul,-72,267,28,Made,1,49,45,94,v,Paul 28' 3PT Running Pull-Up Jump Shot (9 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,188
+22200531,268,PT02M28.00S,2,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,49,45,94,h,Koloko S.FOUL (P3.PN) (J.Tiven),Foul,Shooting,1,0,189
+22200531,270,PT02M28.00S,2,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,49,45,94,h,SUB: Young FOR Koloko,Substitution,,0,0,190
+22200531,272,PT02M28.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,49,46,95,v,Paul Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,191
+22200531,273,PT02M09.00S,2,1610612761,TOR,201152,Young,T. Young,13,82,8,Missed,1,49,46,95,h,MISS Young 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,192
+22200531,274,PT02M06.00S,2,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,49,46,95,v,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,193
+22200531,275,PT01M55.00S,2,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,49,46,95,h,Young P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,1,0,194
+22200531,277,PT01M55.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,49,46,95,v,MISS Paul Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,195
+22200531,278,PT01M55.00S,2,0,,1610612756,,,0,0,0,,0,49,46,95,v,Suns Rebound,Rebound,Normal Rebound,0,0,196
+22200531,279,PT01M55.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,49,47,96,v,Paul Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,197
+22200531,280,PT01M42.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,1,17,2,Made,1,51,47,98,h,Boucher 2' Cutting Dunk Shot (7 PTS) (Young 2 AST),Made Shot,Cutting Dunk Shot,1,2,198
+22200531,282,PT01M20.00S,2,1610612756,PHX,101108,Paul,C. Paul,-126,221,25,Missed,1,51,47,98,v,MISS Paul 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,199
+22200531,283,PT01M18.00S,2,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,51,47,98,h,Young REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,200
+22200531,284,PT00M59.80S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,67,7,Missed,1,51,47,98,h,MISS Barnes 7' Hook Shot,Missed Shot,Hook Shot,1,2,201
+22200531,285,PT00M58.50S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,51,47,98,h,Barnes REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,202
+22200531,286,PT00M56.70S,2,1610612761,TOR,1628449,Boucher,C. Boucher,203,157,26,Missed,1,51,47,98,h,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,203
+22200531,287,PT00M53.60S,2,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,51,47,98,v,Ayton REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,204
+22200531,288,PT00M49.40S,2,1610612756,PHX,1628969,Bridges,M. Bridges,-7,10,1,Made,1,51,49,100,v,Bridges 1' Running Reverse Layup (5 PTS) (Paul 7 AST),Made Shot,Running Reverse Layup Shot,1,2,205
+22200531,290,PT00M34.70S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,45,252,26,Missed,1,51,49,100,h,MISS Trent Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,206
+22200531,291,PT00M32.40S,2,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,51,49,100,v,Craig REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,207
+22200531,292,PT00M28.90S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,51,49,100,h,Siakam S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,1,0,208
+22200531,294,PT00M28.90S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,51,50,101,v,Bridges Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,209
+22200531,295,PT00M28.90S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,51,51,102,v,Bridges Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,210
+22200531,296,PT00M11.60S,2,1610612761,TOR,1627783,Siakam,P. Siakam,60,71,9,Made,1,53,51,104,h,Siakam 9' Driving Floating Bank Jump Shot (15 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,211
+22200531,297,PT00M00.30S,2,1610612756,PHX,1628470,Craig,T. Craig,233,58,24,Missed,1,53,51,104,v,MISS Craig 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,212
+22200531,298,PT00M00.10S,2,0,,1610612756,,,0,0,0,,0,53,51,104,v,Suns Rebound,Rebound,Unknown,1,0,213
+22200531,299,PT00M00.00S,2,0,,0,,,0,0,0,,0,53,51,104,,End of 2nd Period (8:36 PM EST),period,end,1,0,214
+22200531,306,PT12M00.00S,3,0,,0,,,0,0,0,,0,53,51,104,,Start of 3rd Period (8:51 PM EST),period,start,0,0,215
+22200531,307,PT11M42.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,25,109,11,Made,1,55,51,106,h,Trent Jr. 11' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,1,2,216
+22200531,308,PT11M22.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,55,51,106,v,Ayton Lost Ball Turnover (P1.T16),Turnover,Lost Ball,1,0,217
+22200531,308,PT11M22.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,55,51,106,h,Barnes STEAL (2 STL),,,1,0,218
+22200531,310,PT11M15.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,55,51,106,h,Anunoby Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,219
+22200531,310,PT11M15.00S,3,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,55,51,106,v,Okogie STEAL (1 STL),,,1,0,220
+22200531,312,PT11M12.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,55,51,106,v,Ayton Bad Pass Turnover (P2.T17),Turnover,Bad Pass,1,0,221
+22200531,312,PT11M12.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,55,51,106,h,Trent Jr. STEAL (2 STL),,,1,0,222
+22200531,314,PT10M57.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-189,176,26,Made,1,58,51,109,h,Trent Jr. 26' 3PT Jump Shot (16 PTS) (Siakam 5 AST),Made Shot,Jump Shot,1,3,223
+22200531,316,PT10M57.00S,3,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,58,51,109,v,Okogie S.FOUL (P2.T1) (J.Tiven),Foul,Shooting,1,0,224
+22200531,318,PT10M57.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,59,51,110,h,Trent Jr. Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,225
+22200531,319,PT10M45.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,40,246,25,Made,1,59,54,113,v,Bridges 25' 3PT Jump Shot (10 PTS) (Okogie 2 AST),Made Shot,Jump Shot,1,3,226
+22200531,321,PT10M19.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,-31,270,27,Missed,1,59,54,113,h,MISS Siakam 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,227
+22200531,322,PT10M16.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,59,54,113,h,Barnes REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,228
+22200531,323,PT10M04.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,-240,-11,24,Missed,1,59,54,113,h,MISS Anunoby 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,229
+22200531,324,PT10M01.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,59,54,113,v,Bridges REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,230
+22200531,325,PT09M56.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,59,54,113,h,Siakam P.FOUL (P2.T1) (J.Tiven),Foul,Personal,1,0,231
+22200531,327,PT09M54.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,59,54,113,v,Paul Bad Pass Turnover (P5.T18),Turnover,Bad Pass,1,0,232
+22200531,327,PT09M54.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,59,54,113,h,Anunoby STEAL (2 STL),,,1,0,233
+22200531,329,PT09M51.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,13,1,Made,1,61,54,115,h,Anunoby 1' Running Dunk (14 PTS),Made Shot,Running Dunk Shot,1,2,234
+22200531,330,PT09M32.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,61,54,115,v,Craig Bad Pass Turnover (P2.T19),Turnover,Bad Pass,1,0,235
+22200531,330,PT09M32.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,61,54,115,h,Trent Jr. STEAL (3 STL),,,1,0,236
+22200531,332,PT09M29.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-2,8,1,Made,1,63,54,117,h,Trent Jr. 1' Running Dunk (19 PTS),Made Shot,Running Dunk Shot,1,2,237
+22200531,333,PT09M29.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,63,54,117,h,Trent Jr. T.FOUL (P1.T1) (J.Tiven),Foul,Technical,1,0,238
+22200531,334,PT09M29.00S,3,0,,1610612756,,,0,0,0,,0,63,54,117,v,Suns Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,239
+22200531,335,PT09M29.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,63,55,118,v,Paul Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,0,0,240
+22200531,336,PT09M19.00S,3,1610612756,PHX,1629006,Okogie,J. Okogie,239,64,25,Missed,1,63,55,118,v,MISS Okogie 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,241
+22200531,337,PT09M16.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,63,55,118,v,Craig REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,242
+22200531,338,PT09M13.00S,3,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,63,55,118,h,Koloko Violation:Kicked Ball (R.Hussey),Violation,Kicked Ball,0,0,243
+22200531,339,PT09M09.00S,3,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,63,55,118,v,Okogie Bad Pass Turnover (P1.T20),Turnover,Bad Pass,1,0,244
+22200531,339,PT09M09.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,63,55,118,h,Barnes STEAL (3 STL),,,1,0,245
+22200531,341,PT08M57.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,102,228,25,Made,1,66,55,121,h,Siakam 25' 3PT Jump Shot (18 PTS) (Anunoby 4 AST),Made Shot,Jump Shot,1,3,246
+22200531,343,PT08M37.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,67,84,11,Missed,1,66,55,121,v,MISS Ayton 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,247
+22200531,344,PT08M36.00S,3,0,,1610612756,,,0,0,0,,0,66,55,121,v,Suns Rebound,Rebound,Unknown,1,0,248
+22200531,345,PT08M36.00S,3,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,66,55,121,h,Koloko L.B.FOUL (P4.T2) (J.Van Duyne),Foul,Loose Ball,1,0,249
+22200531,347,PT08M36.00S,3,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,66,55,121,v,SUB: Saric FOR Okogie,Substitution,,0,0,250
+22200531,349,PT08M24.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,66,55,121,h,Siakam S.FOUL (P3.T3) (J.Tiven),Foul,Shooting,1,0,251
+22200531,351,PT08M24.00S,3,1610612756,PHX,203967,Šarić,D. Šarić,0,0,0,,0,66,56,122,v,Saric Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,252
+22200531,352,PT08M24.00S,3,1610612756,PHX,203967,Šarić,D. Šarić,0,0,0,,0,66,57,123,v,Saric Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,253
+22200531,353,PT08M19.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,-2,10,1,Made,1,68,57,125,h,Barnes 1' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,254
+22200531,355,PT07M55.00S,3,1610612756,PHX,101108,Paul,C. Paul,-54,267,27,Made,1,68,60,128,v,Paul 27' 3PT Pullup Jump Shot (15 PTS) (Craig 1 AST),Made Shot,Pullup Jump shot,1,3,255
+22200531,356,PT07M35.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-11,257,26,Missed,1,68,60,128,h,MISS Trent Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,256
+22200531,357,PT07M33.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,68,60,128,h,Anunoby REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,257
+22200531,358,PT07M32.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,Made,1,70,60,130,h,Anunoby Tip Dunk Shot (16 PTS),Made Shot,Tip Dunk Shot,1,2,258
+22200531,359,PT07M15.00S,3,1610612756,PHX,203967,Šarić,D. Šarić,-27,105,11,Made,1,70,62,132,v,Saric 11' Jump Shot (7 PTS) (Paul 8 AST),Made Shot,Jump Shot,1,2,259
+22200531,361,PT07M08.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,70,62,132,v,Craig S.FOUL (P2.T2) (J.Tiven),Foul,Shooting,1,0,260
+22200531,363,PT07M08.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,71,62,133,h,Barnes Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,261
+22200531,364,PT07M08.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,72,62,134,h,Barnes Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,262
+22200531,365,PT06M59.00S,3,1610612756,PHX,101108,Paul,C. Paul,112,115,16,Missed,1,72,62,134,v,MISS Paul 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,263
+22200531,366,PT06M58.00S,3,0,,1610612756,,,0,0,0,,0,72,62,134,v,Suns Rebound,Rebound,Unknown,0,0,264
+22200531,368,PT06M49.00S,3,1610612756,PHX,1628470,Craig,T. Craig,4,17,2,Made,1,72,64,136,v,Craig 2' Cutting Dunk Shot (12 PTS) (Ayton 3 AST),Made Shot,Cutting Dunk Shot,1,2,265
+22200531,370,PT06M25.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,-127,31,13,Made,1,74,64,138,h,Siakam 13' Turnaround Fadeaway Bank Jump Shot (20 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,2,266
+22200531,371,PT06M13.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,16,117,12,Made,1,74,66,140,v,Ayton 12' Driving Floating Jump Shot (4 PTS) (Paul 9 AST),Made Shot,Driving Floating Jump Shot,1,2,267
+22200531,373,PT06M11.00S,3,0,,1610612756,,,0,0,0,,0,74,66,140,v,Suns Violation: Delay of game Violation,Violation,Delay Of Game,0,0,268
+22200531,374,PT06M04.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,74,66,140,h,Siakam Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,269
+22200531,374,PT06M04.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,74,66,140,v,Craig STEAL (1 STL),,,0,0,270
+22200531,377,PT06M00.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,11,1,Made,1,74,68,142,v,Bridges 1' Running Dunk (12 PTS) (Paul 10 AST),Made Shot,Running Dunk Shot,1,2,271
+22200531,380,PT05M55.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,74,68,142,h,Anunoby Offensive Charge Foul (P5) (J.Tiven),Foul,Offensive Charge,1,0,272
+22200531,404,PT05M55.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,74,68,142,h,Anunoby Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,0,0,273
+22200531,382,PT05M55.00S,3,0,,1610612756,,,0,0,0,,0,74,68,142,v,Suns Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,274
+22200531,384,PT05M55.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,74,68,142,h,SUB: Flynn FOR Anunoby,Substitution,,0,0,275
+22200531,383,PT05M55.00S,3,0,,380,Smith,T. Smith,0,0,0,,0,74,68,142,,Instant Replay3rd Period (9:05 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,276
+22200531,386,PT05M38.00S,3,1610612756,PHX,203967,Šarić,D. Šarić,12,61,6,Missed,1,74,68,142,v,MISS Saric 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,277
+22200531,387,PT05M35.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,74,68,142,h,Trent Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,278
+22200531,388,PT05M27.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,-23,173,17,Missed,1,74,68,142,h,MISS Barnes 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,279
+22200531,389,PT05M24.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,74,68,142,v,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,280
+22200531,390,PT05M11.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,74,68,142,v,Paul Traveling Turnover (P6.T21),Turnover,Traveling,1,0,281
+22200531,391,PT05M11.00S,3,0,,1610612756,,,0,0,0,,0,74,68,142,v,Suns Delay,Foul,Delay Technical,0,0,282
+22200531,392,PT05M11.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,75,68,143,h,Trent Jr. Free Throw Technical (20 PTS),Free Throw,Free Throw Technical,1,0,283
+22200531,393,PT05M11.00S,3,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,75,68,143,h,SUB: Young FOR Koloko,Substitution,,0,0,284
+22200531,395,PT05M11.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,75,68,143,v,Paul T.FOUL (P0.T2) (J.Van Duyne),Foul,Technical,0,0,285
+22200531,396,PT05M11.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,76,68,144,h,Trent Jr. Free Throw Technical (21 PTS),Free Throw,Free Throw Technical,1,0,286
+22200531,397,PT05M02.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-12,181,18,Made,1,78,68,146,h,Trent Jr. 18' Pullup Jump Shot (23 PTS) (Barnes 2 AST),Made Shot,Pullup Jump shot,1,2,287
+22200531,399,PT04M51.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,78,68,146,h,Flynn P.FOUL (P1.T4) (J.Van Duyne),Foul,Personal,1,0,288
+22200531,402,PT04M51.00S,3,1610612756,PHX,203967,Šarić,D. Šarić,0,0,0,,0,78,68,146,v,SUB: Wainright FOR Saric,Substitution,,0,0,289
+22200531,405,PT04M37.00S,3,1610612756,PHX,101108,Paul,C. Paul,47,219,22,Missed,1,78,68,146,v,MISS Paul 22' Jump Shot,Missed Shot,Jump Shot,1,2,290
+22200531,406,PT04M33.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,78,68,146,h,Barnes REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,291
+22200531,407,PT04M28.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-126,262,29,Missed,1,78,68,146,h,MISS Trent Jr. 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,292
+22200531,408,PT04M24.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,78,68,146,v,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,293
+22200531,409,PT04M12.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,89,35,10,Missed,1,78,68,146,v,MISS Ayton 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,294
+22200531,410,PT04M10.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,78,68,146,h,Flynn REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,295
+22200531,411,PT04M03.00S,3,1610612761,TOR,201152,Young,T. Young,-37,26,5,Missed,1,78,68,146,h,MISS Young 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,296
+22200531,412,PT04M02.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,78,68,146,v,Craig REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,297
+22200531,413,PT03M52.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,78,68,146,h,Flynn P.FOUL (P2.PN) (R.Hussey),Foul,Personal,1,0,298
+22200531,415,PT03M52.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,78,69,147,v,Paul Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,299
+22200531,416,PT03M52.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,78,69,147,v,SUB: Lee FOR Craig,Substitution,,0,0,300
+22200531,417,PT03M52.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,78,69,147,v,SUB: Landale FOR Ayton,Substitution,,0,0,301
+22200531,420,PT03M52.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,78,70,148,v,Paul Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,302
+22200531,421,PT03M30.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,-184,111,21,Missed,1,78,70,148,h,MISS Barnes 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,303
+22200531,422,PT03M26.00S,3,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,78,70,148,v,Lee REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,304
+22200531,423,PT03M15.00S,3,1610612756,PHX,1630688,Wainright,I. Wainright,-39,253,26,Made,1,78,73,151,v,Wainright 26' 3PT Jump Shot (6 PTS) (Paul 11 AST),Made Shot,Jump Shot,1,3,305
+22200531,425,PT02M57.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,-192,165,25,Missed,1,78,73,151,h,MISS Flynn 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,306
+22200531,426,PT02M52.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,78,73,151,v,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,307
+22200531,427,PT02M35.00S,3,1610612756,PHX,101108,Paul,C. Paul,223,125,26,Missed,1,78,73,151,v,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,308
+22200531,428,PT02M32.00S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,78,73,151,h,Flynn REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,309
+22200531,429,PT02M24.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,74,197,21,Made,1,80,73,153,h,Trent Jr. 21' Step Back Jump Shot (25 PTS) (Barnes 3 AST),Made Shot,Step Back Jump shot,1,2,310
+22200531,431,PT02M07.00S,3,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,80,73,153,v,Lee Out of Bounds Lost Ball Turnover (P3.T22),Turnover,Out of Bounds Lost Ball Turnover,1,0,311
+22200531,432,PT02M07.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,80,73,153,v,SUB: Washington Jr. FOR Paul,Substitution,,0,0,312
+22200531,434,PT02M07.00S,3,0,,1610612761,,,0,0,0,,0,80,73,153,h,RAPTORS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,313
+22200531,435,PT02M07.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,80,73,153,h,SUB: Boucher FOR Siakam,Substitution,,0,0,314
+22200531,437,PT01M52.00S,3,1610612761,TOR,201152,Young,T. Young,-1,15,2,Made,1,82,73,155,h,Young 2' Driving Hook Shot (4 PTS) (Flynn 2 AST),Made Shot,Driving Hook Shot,1,2,315
+22200531,439,PT01M52.00S,3,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,0,0,0,,0,82,73,155,v,Washington Jr. S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,1,0,316
+22200531,441,PT01M52.00S,3,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,82,73,155,h,MISS Young Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,317
+22200531,442,PT01M50.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,82,73,155,v,Bridges REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,318
+22200531,443,PT01M31.00S,3,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,-27,63,7,Made,1,82,75,157,v,Washington Jr. 7' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,319
+22200531,444,PT01M10.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,38,112,12,Made,1,84,75,159,h,Trent Jr. 12' Step Back Jump Shot (27 PTS),Made Shot,Step Back Jump shot,1,2,320
+22200531,445,PT01M00.00S,3,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,6,10,1,Made,1,84,77,161,v,Washington Jr. 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,321
+22200531,446,PT00M54.10S,3,1610612761,TOR,1630567,Barnes,S. Barnes,33,53,6,Missed,1,84,77,161,h,MISS Barnes 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,322
+22200531,446,PT00M54.10S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,84,77,161,v,Bridges BLOCK (1 BLK),,,1,2,323
+22200531,447,PT00M52.50S,3,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,84,77,161,v,Landale REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,324
+22200531,448,PT00M45.00S,3,1610612756,PHX,1630688,Wainright,I. Wainright,-233,3,0,Missed,1,84,77,161,v,MISS Wainright 3PT Jump Shot,Missed Shot,Jump Shot,1,3,325
+22200531,449,PT00M42.00S,3,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,84,77,161,h,Young REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,326
+22200531,450,PT00M38.80S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,84,77,161,h,Flynn Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,327
+22200531,451,PT00M32.90S,3,1610612756,PHX,1628969,Bridges,M. Bridges,-16,3,2,Missed,1,84,77,161,v,MISS Bridges 2' Running Layup,Missed Shot,Running Layup Shot,1,2,328
+22200531,452,PT00M30.60S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,84,77,161,h,Barnes REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,329
+22200531,453,PT00M29.10S,3,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,84,77,161,v,Wainright S.FOUL (P3.PN) (R.Hussey),Foul,Shooting,1,0,330
+22200531,455,PT00M29.10S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,85,77,162,h,Trent Jr. Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,331
+22200531,456,PT00M29.10S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,86,77,163,h,Trent Jr. Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,332
+22200531,457,PT00M04.10S,3,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,-147,210,26,Missed,1,86,77,163,v,MISS Washington Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,333
+22200531,458,PT00M02.30S,3,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,86,77,163,v,Lee REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,334
+22200531,459,PT00M02.20S,3,1610612756,PHX,1627814,Lee,D. Lee,-17,11,2,Missed,1,86,77,163,v,MISS Lee 2' Layup,Missed Shot,Layup Shot,1,2,335
+22200531,459,PT00M02.20S,3,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,86,77,163,h,Flynn BLOCK (1 BLK),,,1,2,336
+22200531,461,PT00M01.40S,3,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,86,77,163,v,Wainright REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,337
+22200531,462,PT00M01.20S,3,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,Missed,1,86,77,163,v,MISS Wainright Putback Layup,Missed Shot,Putback Layup Shot,1,2,338
+22200531,463,PT00M00.20S,3,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,86,77,163,v,Landale REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,339
+22200531,466,PT00M00.20S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,86,77,163,h,Boucher S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,1,0,340
+22200531,472,PT00M00.20S,3,0,,466,,,0,0,0,,0,86,77,163,,Instant Replay3rd Period (9:24 PM EST),Instant Replay,Support Ruling,0,0,341
+22200531,468,PT00M00.20S,3,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,86,78,164,v,Landale Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,342
+22200531,469,PT00M00.20S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,86,78,164,v,SUB: Saric FOR Bridges,Substitution,,0,0,343
+22200531,471,PT00M00.20S,3,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,86,79,165,v,Landale Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,344
+22200531,473,PT00M00.00S,3,0,,0,,,0,0,0,,0,86,79,165,,End of 3rd Period (9:26 PM EST),period,end,1,0,345
+22200531,479,PT12M00.00S,4,0,,0,,,0,0,0,,0,86,79,165,,Start of 4th Period (9:28 PM EST),period,start,0,0,346
+22200531,480,PT11M43.00S,4,1610612756,PHX,1629111,Landale,J. Landale,2,10,1,Made,1,86,81,167,v,Landale 1' Cutting Dunk Shot (6 PTS) (Washington Jr. 2 AST),Made Shot,Cutting Dunk Shot,1,2,347
+22200531,482,PT11M21.00S,4,1610612761,TOR,201152,Young,T. Young,-15,59,6,Made,1,88,81,169,h,Young 6' Driving Hook Shot (6 PTS),Made Shot,Driving Hook Shot,1,2,348
+22200531,483,PT11M13.00S,4,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,23,260,26,Made,1,88,84,172,v,Washington Jr. 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,349
+22200531,484,PT10M51.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,-36,110,12,Missed,1,88,84,172,h,MISS Siakam 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,350
+22200531,485,PT10M48.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,88,84,172,v,Landale REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,351
+22200531,486,PT10M42.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,88,84,172,h,Siakam Violation:Kicked Ball (J.Tiven),Violation,Kicked Ball,0,0,352
+22200531,487,PT10M32.00S,4,1610612756,PHX,1630688,Wainright,I. Wainright,-235,11,24,Made,1,88,87,175,v,Wainright 24' 3PT Jump Shot (9 PTS) (Saric 2 AST),Made Shot,Jump Shot,1,3,353
+22200531,489,PT10M07.00S,4,1610612761,TOR,201152,Young,T. Young,1,7,1,Made,1,90,87,177,h,Young 1' Cutting Dunk Shot (8 PTS) (Dowtin Jr. 1 AST),Made Shot,Cutting Dunk Shot,1,2,354
+22200531,491,PT09M54.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,90,87,177,v,Lee Bad Pass Turnover (P4.T23),Turnover,Bad Pass,1,0,355
+22200531,491,PT09M54.00S,4,1610612761,TOR,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,90,87,177,h,Dowtin Jr. STEAL (1 STL),,,1,0,356
+22200531,493,PT09M50.00S,4,1610612761,TOR,1630288,Dowtin Jr.,J. Dowtin Jr.,-1,6,1,Made,1,92,87,179,h,Dowtin Jr. 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,357
+22200531,494,PT09M50.00S,4,0,,1610612756,,,0,0,0,,0,92,87,179,v,Suns Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,358
+22200531,495,PT09M32.00S,4,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,-40,125,13,Missed,1,92,87,179,v,MISS Washington Jr. 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,359
+22200531,496,PT09M29.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,92,87,179,h,Flynn REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,360
+22200531,497,PT09M14.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,5,199,20,Missed,1,92,87,179,h,MISS Siakam 20' Jump Shot,Missed Shot,Jump Shot,1,2,361
+22200531,498,PT09M11.00S,4,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,92,87,179,v,Wainright REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,362
+22200531,499,PT09M04.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,92,87,179,h,Boucher S.FOUL (P2.T1) (J.Van Duyne),Foul,Shooting,1,0,363
+22200531,501,PT09M04.00S,4,1610612756,PHX,203967,Šarić,D. Šarić,0,0,0,,0,92,88,180,v,Saric Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,364
+22200531,502,PT09M04.00S,4,1610612756,PHX,203967,Šarić,D. Šarić,0,0,0,,0,92,89,181,v,Saric Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,365
+22200531,503,PT08M47.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,92,89,181,h,Flynn Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,366
+22200531,503,PT08M47.00S,4,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,92,89,181,v,Wainright STEAL (3 STL),,,1,0,367
+22200531,505,PT08M38.00S,4,1610612756,PHX,203967,Šarić,D. Šarić,-225,6,0,Missed,1,92,89,181,v,MISS Saric 3PT Jump Shot,Missed Shot,Jump Shot,1,3,368
+22200531,506,PT08M35.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,92,89,181,v,Landale REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,369
+22200531,507,PT08M33.00S,4,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,189,184,26,Missed,1,92,89,181,v,MISS Washington Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,370
+22200531,508,PT08M31.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,92,89,181,v,Landale REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,371
+22200531,509,PT08M29.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,92,89,181,v,Lee Out of Bounds - Bad Pass Turnover Turnover (P5.T24),Turnover,Out of Bounds - Bad Pass Turnover,1,0,372
+22200531,510,PT08M12.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,36,11,4,Made,1,94,89,183,h,Siakam 4' Driving Hook Shot (22 PTS),Made Shot,Driving Hook Shot,1,2,373
+22200531,511,PT08M01.00S,4,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,-18,10,2,Made,1,94,91,185,v,Washington Jr. 2' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,374
+22200531,512,PT07M40.00S,4,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,94,91,185,v,Wainright S.FOUL (P4.T1) (J.Tiven),Foul,Shooting,1,0,375
+22200531,514,PT07M40.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,94,91,185,h,MISS Siakam Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,376
+22200531,515,PT07M40.00S,4,0,,1610612761,,,0,0,0,,0,94,91,185,h,RAPTORS Rebound,Rebound,Normal Rebound,0,0,377
+22200531,516,PT07M40.00S,4,1610612761,TOR,1630201,Flynn,M. Flynn,0,0,0,,0,94,91,185,h,SUB: Trent Jr. FOR Flynn,Substitution,,0,0,378
+22200531,517,PT07M40.00S,4,1610612761,TOR,1630288,Dowtin Jr.,J. Dowtin Jr.,0,0,0,,0,94,91,185,h,SUB: Barnes FOR Dowtin Jr.,Substitution,,0,0,379
+22200531,518,PT07M40.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,94,91,185,v,SUB: Bridges FOR Lee,Substitution,,0,0,380
+22200531,522,PT07M40.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,95,91,186,h,Siakam Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,381
+22200531,523,PT07M25.00S,4,1610612756,PHX,203967,Šarić,D. Šarić,22,22,3,Missed,1,95,91,186,v,MISS Saric 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,382
+22200531,524,PT07M23.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,95,91,186,h,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,383
+22200531,526,PT07M03.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,96,79,12,Missed,1,95,91,186,h,MISS Siakam 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,384
+22200531,527,PT07M00.00S,4,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,0,0,0,,0,95,91,186,v,Washington Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,385
+22200531,528,PT06M51.00S,4,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,0,0,0,,0,95,91,186,v,Washington Jr. Bad Pass Turnover (P4.T25),Turnover,Bad Pass,1,0,386
+22200531,528,PT06M51.00S,4,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,95,91,186,h,Young STEAL (4 STL),,,1,0,387
+22200531,530,PT06M49.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,95,91,186,h,Siakam Offensive Charge Foul (P4) (R.Hussey),Foul,Offensive Charge,1,0,388
+22200531,532,PT06M49.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,95,91,186,h,Siakam Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,1,0,389
+22200531,533,PT06M49.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,95,91,186,v,SUB: Ayton FOR Landale,Substitution,,0,0,390
+22200531,535,PT06M49.00S,4,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,0,0,0,,0,95,91,186,v,SUB: Paul FOR Washington Jr.,Substitution,,0,0,391
+22200531,537,PT06M33.00S,4,1610612756,PHX,101108,Paul,C. Paul,-167,195,26,Made,1,95,94,189,v,Paul 26' 3PT Jump Shot (20 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,392
+22200531,539,PT06M14.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,22,188,19,Missed,1,95,94,189,h,MISS Trent Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,393
+22200531,540,PT06M09.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,95,94,189,v,Ayton REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,394
+22200531,541,PT05M52.00S,4,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,95,94,189,v,Wainright Offensive Charge Foul (P5) (J.Tiven),Foul,Offensive Charge,1,0,395
+22200531,543,PT05M52.00S,4,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,95,94,189,v,Wainright Offensive Foul Turnover (P1.T26),Turnover,Offensive Foul Turnover,1,0,396
+22200531,544,PT05M52.00S,4,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,95,94,189,h,SUB: Anunoby FOR Young,Substitution,,0,0,397
+22200531,546,PT05M52.00S,4,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,95,94,189,v,SUB: Craig FOR Wainright,Substitution,,0,0,398
+22200531,548,PT05M37.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-137,154,21,Made,1,97,94,191,h,Trent Jr. 21' Pullup Jump Shot (31 PTS),Made Shot,Pullup Jump shot,1,2,399
+22200531,549,PT05M10.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,-233,42,24,Made,1,97,97,194,v,Bridges 24' 3PT Jump Shot (15 PTS) (Saric 3 AST),Made Shot,Jump Shot,1,3,400
+22200531,551,PT04M44.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,97,97,194,h,Trent Jr. Lost Ball Turnover (P2.T11),Turnover,Lost Ball,1,0,401
+22200531,551,PT04M44.00S,4,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,97,97,194,v,Paul STEAL (1 STL),,,1,0,402
+22200531,553,PT04M41.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,-5,9,1,Made,1,97,99,196,v,Bridges 1' Running Alley Oop Layup Shot (17 PTS) (Paul 12 AST),Made Shot,Running Alley Oop Layup Shot,1,2,403
+22200531,555,PT04M41.00S,4,0,,1610612761,,,0,0,0,,0,97,99,196,h,RAPTORS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,404
+22200531,556,PT04M41.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,97,99,196,h,SUB: Koloko FOR Boucher,Substitution,,0,0,405
+22200531,557,PT04M41.00S,4,1610612756,PHX,203967,Šarić,D. Šarić,0,0,0,,0,97,99,196,v,SUB: Wainright FOR Saric,Substitution,,0,0,406
+22200531,560,PT04M28.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,15,22,3,Made,1,99,99,198,h,Siakam 3' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,1,2,407
+22200531,561,PT04M13.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,99,99,198,h,Siakam S.FOUL (P5.T2) (J.Van Duyne),Foul,Shooting,1,0,408
+22200531,563,PT04M13.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,99,100,199,v,Bridges Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,409
+22200531,564,PT04M13.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,99,101,200,v,Bridges Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,410
+22200531,565,PT03M59.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,55,71,9,Made,1,101,101,202,h,Trent Jr. 9' Turnaround Fadeaway (33 PTS),Made Shot,Turnaround Fadeaway shot,1,2,411
+22200531,566,PT03M37.00S,4,1610612756,PHX,101108,Paul,C. Paul,67,114,13,Missed,1,101,101,202,v,MISS Paul 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,412
+22200531,567,PT03M36.00S,4,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,101,101,202,h,Koloko REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,413
+22200531,568,PT03M36.00S,4,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,101,101,202,v,Craig P.FOUL (P3.T2) (R.Hussey),Foul,Personal,1,0,414
+22200531,570,PT03M16.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,234,109,26,Made,1,104,101,205,h,Barnes 26' 3PT Step Back Jump Shot (9 PTS) (Siakam 6 AST),Made Shot,Step Back Jump shot,1,3,415
+22200531,572,PT02M47.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,-27,62,7,Missed,1,104,101,205,v,MISS Ayton 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,416
+22200531,573,PT02M44.00S,4,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,104,101,205,h,Koloko REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,417
+22200531,574,PT02M29.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,125,222,25,Missed,1,104,101,205,h,MISS Trent Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,418
+22200531,575,PT02M27.00S,4,0,,1610612761,,,0,0,0,,0,104,101,205,h,RAPTORS Rebound,Rebound,Unknown,0,0,419
+22200531,576,PT02M27.00S,4,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,104,101,205,v,Craig L.B.FOUL (P4.T3) (R.Hussey),Foul,Loose Ball,1,0,420
+22200531,578,PT02M13.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,-228,15,0,Missed,1,104,101,205,h,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,1,3,421
+22200531,579,PT02M09.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,104,101,205,v,Ayton REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,422
+22200531,581,PT02M03.00S,4,0,,1610612756,,,0,0,0,,0,104,101,205,v,Suns Turnover: 8 Second Violation (T#27),Turnover,8 Second Violation,1,0,423
+22200531,582,PT01M49.00S,4,1610612761,TOR,1631132,Koloko,C. Koloko,230,13,0,Made,1,107,101,208,h,Koloko 3PT Jump Shot (7 PTS) (Trent Jr. 2 AST),Made Shot,Jump Shot,1,3,424
+22200531,584,PT01M48.00S,4,0,,1610612756,,,0,0,0,,0,107,101,208,v,Suns Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,425
+22200531,585,PT01M40.00S,4,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,107,101,208,h,Koloko S.FOUL (P5.T3) (R.Hussey),Foul,Shooting,1,0,426
+22200531,587,PT01M40.00S,4,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,107,102,209,v,Craig Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,427
+22200531,588,PT01M40.00S,4,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,107,102,209,v,MISS Craig Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,428
+22200531,589,PT01M38.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,107,102,209,h,Anunoby REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,429
+22200531,590,PT01M22.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,121,223,25,Missed,1,107,102,209,h,MISS Trent Jr. 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,430
+22200531,591,PT01M20.00S,4,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,107,102,209,h,Koloko REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,431
+22200531,592,PT01M20.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,107,102,209,v,Bridges S.FOUL (P2.T4) (R.Hussey),Foul,Shooting,1,0,432
+22200531,594,PT01M20.00S,4,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,107,102,209,h,MISS Koloko Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,433
+22200531,595,PT01M20.00S,4,0,,1610612761,,,0,0,0,,0,107,102,209,h,RAPTORS Rebound,Rebound,Normal Rebound,0,0,434
+22200531,596,PT01M20.00S,4,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,108,102,210,h,Koloko Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,435
+22200531,597,PT01M08.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,108,102,210,h,Trent Jr. P.FOUL (P2.PN) (J.Tiven),Foul,Personal,1,0,436
+22200531,599,PT01M08.00S,4,0,,1610612761,,,0,0,0,,0,108,102,210,h,RAPTORS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,437
+22200531,600,PT01M08.00S,4,0,,597,,,0,0,0,,0,108,102,210,,Instant Replay4th Period (9:54 PM EST),Instant Replay,Coach Challenge Support Ruling,1,0,438
+22200531,601,PT01M08.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,108,103,211,v,Bridges Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,439
+22200531,602,PT01M08.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,108,104,212,v,Bridges Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,440
+22200531,603,PT00M51.90S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,108,104,212,v,Ayton P.FOUL (P2.PN) (J.Van Duyne),Foul,Personal,1,0,441
+22200531,605,PT00M51.90S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,109,104,213,h,Siakam Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,442
+22200531,606,PT00M51.90S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,109,104,213,h,MISS Siakam Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,443
+22200531,607,PT00M49.70S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,109,104,213,h,Barnes REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,444
+22200531,608,PT00M49.50S,4,1610612761,TOR,1630567,Barnes,S. Barnes,-50,27,6,Made,1,111,104,215,h,Barnes 6' Turnaround Bank Hook Shot (11 PTS),Made Shot,Turnaround Bank Hook Shot,1,2,445
+22200531,609,PT00M37.00S,4,1610612756,PHX,101108,Paul,C. Paul,-109,243,27,Missed,1,111,104,215,v,MISS Paul 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,446
+22200531,610,PT00M37.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,111,104,215,h,Trent Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,447
+22200531,611,PT00M24.50S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,111,104,215,h,Barnes Lost Ball Turnover (P1.T12),Turnover,Lost Ball,1,0,448
+22200531,611,PT00M24.50S,4,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,111,104,215,v,Wainright STEAL (4 STL),,,1,0,449
+22200531,613,PT00M20.40S,4,1610612756,PHX,1628969,Bridges,M. Bridges,127,219,25,Missed,1,111,104,215,v,MISS Bridges 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,450
+22200531,614,PT00M15.60S,4,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,111,104,215,v,Craig REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,451
+22200531,615,PT00M15.60S,4,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,Missed,1,111,104,215,v,MISS Craig Putback Layup,Missed Shot,Putback Layup Shot,1,2,452
+22200531,616,PT00M14.70S,4,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,111,104,215,h,Koloko REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,453
+22200531,617,PT00M12.70S,4,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,111,104,215,v,Wainright P.FOUL (P6.PN) (J.Van Duyne),Foul,Personal,1,0,454
+22200531,619,PT00M12.70S,4,1610612756,PHX,1630688,Wainright,I. Wainright,0,0,0,,0,111,104,215,v,SUB: Washington Jr. FOR Wainright,Substitution,,0,0,455
+22200531,621,PT00M12.70S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,112,104,216,h,Trent Jr. Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,1,0,456
+22200531,622,PT00M12.70S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,113,104,217,h,Trent Jr. Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,1,0,457
+22200531,623,PT00M05.50S,4,1610612756,PHX,1630613,Washington Jr.,D. Washington Jr.,-202,159,26,Missed,1,113,104,217,v,MISS Washington Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,458
+22200531,624,PT00M02.20S,4,0,,1610612761,,,0,0,0,,0,113,104,217,h,RAPTORS Rebound,Rebound,Unknown,0,0,459
+22200531,626,PT00M00.00S,4,0,,0,,,0,0,0,,0,113,104,217,,End of 4th Period (10:00 PM EST),period,end,1,0,460

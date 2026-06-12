@@ -1,0 +1,460 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22300557,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (3:12 PM EST),period,start,0,0,1
+22300557,4,PT12M00.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,0,0,0,h,Jump Ball Hartenstein vs. Bitadze: Tip to Suggs,Jump Ball,,1,0,2
+22300557,7,PT11M46.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,0,0,0,h,Hartenstein P.FOUL (P1.T1) (D.Richardson),Foul,Personal,1,0,3
+22300557,9,PT11M38.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,162,222,27,Missed,1,0,0,0,v,MISS Suggs 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,4
+22300557,10,PT11M34.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,0,0,0,h,Randle REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+22300557,11,PT11M16.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-126,244,27,Missed,1,0,0,0,h,MISS DiVincenzo 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,6
+22300557,12,PT11M14.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,0,0,0,v,Banchero REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,7
+22300557,14,PT11M01.00S,1,1610612753,ORL,1629643,Okeke,C. Okeke,1,19,2,Made,1,0,2,2,v,Okeke 2' Driving Layup (2 PTS) (Banchero 1 AST),Made Shot,Driving Layup Shot,1,2,8
+22300557,16,PT11M01.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,0,2,2,h,Anunoby S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,1,0,9
+22300557,18,PT11M01.00S,1,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,0,3,3,v,Okeke Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,10
+22300557,19,PT10M45.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,0,3,3,v,Bitadze S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,1,0,11
+22300557,21,PT10M45.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,1,3,4,h,Anunoby Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,12
+22300557,22,PT10M45.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,2,3,5,h,Anunoby Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,13
+22300557,23,PT10M33.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,-104,231,25,Missed,1,2,3,5,v,MISS Banchero 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,14
+22300557,24,PT10M30.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,2,3,5,h,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+22300557,25,PT10M24.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,-13,2,1,Made,1,4,3,7,h,Hartenstein 1' Cutting Layup Shot (2 PTS) (Anunoby 1 AST),Made Shot,Cutting Layup Shot,1,2,16
+22300557,27,PT10M24.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,4,3,7,v,Bitadze S.FOUL (P2.T2) (D.Richardson),Foul,Shooting,1,0,17
+22300557,29,PT10M24.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,5,3,8,h,Hartenstein Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,18
+22300557,30,PT10M10.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,-72,159,17,Missed,1,5,3,8,v,MISS Suggs 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,19
+22300557,31,PT10M07.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,5,3,8,h,DiVincenzo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,20
+22300557,32,PT09M48.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,5,60,6,Made,1,7,3,10,h,DiVincenzo 6' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,21
+22300557,33,PT09M34.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,-1,13,1,Made,1,7,5,12,v,Banchero 1' Driving Layup (2 PTS) (Suggs 1 AST),Made Shot,Driving Layup Shot,1,2,22
+22300557,35,PT09M11.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,-130,-3,13,Made,1,9,5,14,h,Anunoby 13' Step Back Jump Shot (4 PTS) (McBride 1 AST),Made Shot,Step Back Jump shot,1,2,23
+22300557,39,PT08M52.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,-12,31,3,Missed,1,9,5,14,v,MISS Bitadze 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,24
+22300557,39,PT08M52.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,9,5,14,h,DiVincenzo BLOCK (1 BLK),,,1,2,25
+22300557,41,PT08M51.00S,1,0,,1610612753,,,0,0,0,,0,9,5,14,v,Magic Rebound,Rebound,Unknown,1,0,26
+22300557,43,PT08M45.00S,1,1610612753,ORL,1629643,Okeke,C. Okeke,192,150,24,Made,1,9,8,17,v,Okeke 24' 3PT Jump Shot (6 PTS) (Banchero 2 AST),Made Shot,Jump Shot,1,3,27
+22300557,45,PT08M35.00S,1,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,9,8,17,v,Houstan P.FOUL (P1.T3) (D.Richardson),Foul,Personal,1,0,28
+22300557,47,PT08M25.00S,1,1610612752,NYK,1630540,McBride,M. McBride,152,195,25,Made,1,12,8,20,h,McBride 25' 3PT Jump Shot (3 PTS) (Anunoby 2 AST),Made Shot,Jump Shot,1,3,29
+22300557,49,PT08M08.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,87,74,11,Missed,1,12,8,20,v,MISS Banchero 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,30
+22300557,50,PT08M05.00S,1,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,12,8,20,v,Okeke REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,31
+22300557,51,PT08M03.00S,1,1610612753,ORL,1629643,Okeke,C. Okeke,-4,31,3,Missed,1,12,8,20,v,MISS Okeke 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,32
+22300557,52,PT08M02.00S,1,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,12,8,20,v,Okeke REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,33
+22300557,53,PT07M53.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,12,8,20,v,Suggs Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,34
+22300557,54,PT07M30.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,-228,6,0,Made,1,15,8,23,h,Anunoby 3PT Jump Shot (7 PTS) (DiVincenzo 1 AST),Made Shot,Jump Shot,1,3,35
+22300557,56,PT07M29.00S,1,0,,1610612753,,,0,0,0,,0,15,8,23,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,36
+22300557,57,PT07M19.00S,1,1610612753,ORL,1631216,Houstan,C. Houstan,-100,225,25,Missed,1,15,8,23,v,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,37
+22300557,58,PT07M15.00S,1,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,15,8,23,v,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,38
+22300557,59,PT07M12.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,233,-11,0,Missed,1,15,8,23,v,MISS Suggs 3PT Jump Shot,Missed Shot,Jump Shot,1,3,39
+22300557,60,PT07M10.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,15,8,23,v,Banchero REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,40
+22300557,61,PT07M08.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,15,8,23,v,Banchero Offensive Charge Foul (P1) (D.Richardson),Foul,Offensive Charge,1,0,41
+22300557,63,PT07M08.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,15,8,23,v,Banchero Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,42
+22300557,64,PT06M57.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-191,185,27,Missed,1,15,8,23,h,MISS DiVincenzo 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,43
+22300557,65,PT06M55.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,15,8,23,h,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,44
+22300557,66,PT06M53.00S,1,1610612752,NYK,203944,Randle,J. Randle,-67,243,25,Missed,1,15,8,23,h,MISS Randle 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,45
+22300557,67,PT06M50.00S,1,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,15,8,23,v,Okeke REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,46
+22300557,68,PT06M41.00S,1,1610612753,ORL,1631216,Houstan,C. Houstan,233,-1,0,Missed,1,15,8,23,v,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,1,3,47
+22300557,69,PT06M38.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,15,8,23,h,Hartenstein REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,48
+22300557,70,PT06M28.00S,1,1610612752,NYK,1630540,McBride,M. McBride,-181,176,25,Made,1,18,8,26,h,McBride 25' 3PT Step Back Jump Shot (6 PTS) (Hartenstein 1 AST),Made Shot,Step Back Jump shot,1,3,49
+22300557,72,PT06M11.00S,1,1610612753,ORL,1629643,Okeke,C. Okeke,-151,199,25,Made,1,18,11,29,v,Okeke 25' 3PT Jump Shot (9 PTS) (Bitadze 1 AST),Made Shot,Jump Shot,1,3,50
+22300557,74,PT05M56.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,213,125,25,Missed,1,18,11,29,h,MISS DiVincenzo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,51
+22300557,75,PT05M53.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,18,11,29,v,Suggs REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,52
+22300557,76,PT05M43.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,45,120,13,Made,1,18,13,31,v,Banchero 13' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,53
+22300557,78,PT05M23.00S,1,1610612752,NYK,1630540,McBride,M. McBride,-20,256,26,Missed,1,18,13,31,h,MISS McBride 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,54
+22300557,79,PT05M20.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,18,13,31,v,Suggs REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,55
+22300557,80,PT05M14.00S,1,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,18,13,31,h,McBride L.B.FOUL (P1.T3) (M.Ervin),Foul,Loose Ball,1,0,56
+22300557,82,PT05M14.00S,1,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,18,13,31,h,SUB: Hart FOR DiVincenzo,Substitution,,0,0,57
+22300557,84,PT04M55.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,-87,59,11,Missed,1,18,13,31,v,MISS Banchero 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,58
+22300557,85,PT04M51.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,18,13,31,h,Randle REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,59
+22300557,86,PT04M43.00S,1,1610612752,NYK,1628404,Hart,J. Hart,-167,199,26,Missed,1,18,13,31,h,MISS Hart 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,60
+22300557,87,PT04M40.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,18,13,31,v,Bitadze REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,61
+22300557,88,PT04M21.00S,1,1610612753,ORL,1631216,Houstan,C. Houstan,230,-1,0,Made,1,18,16,34,v,Houstan 3PT Jump Shot (3 PTS) (Suggs 2 AST),Made Shot,Jump Shot,1,3,62
+22300557,90,PT03M57.00S,1,1610612752,NYK,203944,Randle,J. Randle,-36,7,4,Missed,1,18,16,34,h,MISS Randle 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,63
+22300557,91,PT03M55.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,18,16,34,v,Banchero REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,64
+22300557,92,PT03M42.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,31,108,11,Missed,1,18,16,34,v,MISS Banchero 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,65
+22300557,93,PT03M41.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,18,16,34,v,Bitadze REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,66
+22300557,107,PT03M40.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,-11,3,1,Missed,1,18,16,34,v,MISS Bitadze 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,67
+22300557,108,PT03M38.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,18,16,34,h,Hart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,68
+22300557,94,PT03M30.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,18,16,34,v,Magic T.Foul (Def. 3 Sec Bitadze ) (D.Richardson),Foul,Defense 3 Second,1,0,69
+22300557,96,PT03M30.00S,1,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,18,16,34,v,SUB: Ingles FOR Houstan,Substitution,,0,0,70
+22300557,97,PT03M30.00S,1,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,18,16,34,v,SUB: Fultz FOR Okeke,Substitution,,0,0,71
+22300557,98,PT03M30.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,18,16,34,v,SUB: Carter Jr. FOR Bitadze,Substitution,,0,0,72
+22300557,95,PT03M30.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,19,16,35,h,Randle Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,1,0,73
+22300557,102,PT03M17.00S,1,1610612752,NYK,203944,Randle,J. Randle,197,147,25,Missed,1,19,16,35,h,MISS Randle 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,74
+22300557,103,PT03M14.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,19,16,35,v,Suggs REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,75
+22300557,104,PT03M10.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,-1,14,1,Made,1,19,18,37,v,Banchero 1' Running Layup (6 PTS) (Suggs 3 AST),Made Shot,Running Layup Shot,1,2,76
+22300557,106,PT03M04.00S,1,0,,1610612752,,,0,0,0,,0,19,18,37,h,KNICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,77
+22300557,109,PT03M04.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,19,18,37,v,SUB: Anthony FOR Suggs,Substitution,,0,0,78
+22300557,111,PT02M58.00S,1,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,19,18,37,v,Ingles S.FOUL (P1.T4) (D.Richardson),Foul,Shooting,1,0,79
+22300557,113,PT02M58.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,20,18,38,h,Anunoby Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,80
+22300557,114,PT02M58.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,21,18,39,h,Anunoby Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,81
+22300557,115,PT02M46.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,50,141,15,Made,1,21,20,41,v,Carter Jr. 15' Jump Shot (2 PTS) (Ingles 1 AST),Made Shot,Jump Shot,1,2,82
+22300557,117,PT02M26.00S,1,1610612752,NYK,203944,Randle,J. Randle,-15,-5,2,Missed,1,21,20,41,h,MISS Randle 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,83
+22300557,118,PT02M25.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,21,20,41,h,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,84
+22300557,119,PT02M23.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,-25,-6,3,Missed,1,21,20,41,h,MISS Hartenstein 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,85
+22300557,120,PT02M23.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,21,20,41,h,Randle REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,86
+22300557,121,PT02M20.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,Made,1,23,20,43,h,Randle Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,1,2,87
+22300557,122,PT02M10.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,227,-5,0,Missed,1,23,20,43,v,MISS Carter Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+22300557,123,PT02M08.00S,1,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,23,20,43,h,McBride REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,89
+22300557,124,PT01M57.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,23,20,43,v,Magic T.Foul (Def. 3 Sec Carter Jr. ) (M.Ervin),Foul,Defense 3 Second,1,0,90
+22300557,126,PT01M57.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,23,20,43,h,SUB: Grimes FOR Anunoby,Substitution,,0,0,91
+22300557,125,PT01M57.00S,1,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,24,20,44,h,Randle Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,1,0,92
+22300557,128,PT01M45.00S,1,1610612752,NYK,203944,Randle,J. Randle,-55,170,18,Missed,1,24,20,44,h,MISS Randle 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,93
+22300557,129,PT01M42.00S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,24,20,44,h,Hartenstein REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,94
+22300557,130,PT01M31.00S,1,1610612752,NYK,1630540,McBride,M. McBride,7,162,16,Missed,1,24,20,44,h,MISS McBride 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,95
+22300557,131,PT01M27.00S,1,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,24,20,44,v,Ingles REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,96
+22300557,132,PT01M22.00S,1,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,24,20,44,h,McBride P.FOUL (P2.T4) (M.Ervin),Foul,Personal,1,0,97
+22300557,136,PT01M22.00S,1,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,24,20,44,h,SUB: Flynn FOR McBride,Substitution,,0,0,98
+22300557,142,PT01M22.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,24,20,44,v,SUB: Isaac FOR Banchero,Substitution,,0,0,99
+22300557,139,PT01M15.00S,1,1610612753,ORL,204060,Ingles,J. Ingles,-15,1,2,Made,1,24,22,46,v,Ingles 2' Driving Layup (2 PTS) (Anthony 1 AST),Made Shot,Driving Layup Shot,1,2,100
+22300557,143,PT00M59.80S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,24,22,46,h,Hartenstein OFF.Foul (P2) (D.Richardson),Foul,Offensive,1,0,101
+22300557,145,PT00M59.80S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,24,22,46,h,Hartenstein Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,1,0,102
+22300557,146,PT00M59.80S,1,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,24,22,46,h,SUB: Achiuwa FOR Hartenstein,Substitution,,0,0,103
+22300557,148,PT00M41.00S,1,1610612753,ORL,1630175,Anthony,C. Anthony,-7,4,1,Made,1,24,24,48,v,Anthony 1' Driving Layup (2 PTS) (Ingles 2 AST),Made Shot,Driving Layup Shot,1,2,104
+22300557,150,PT00M26.60S,1,1610612752,NYK,203944,Randle,J. Randle,-18,-9,2,Missed,1,24,24,48,h,MISS Randle 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,105
+22300557,151,PT00M26.20S,1,0,,1610612753,,,0,0,0,,0,24,24,48,v,Magic Rebound,Rebound,Unknown,0,0,106
+22300557,153,PT00M04.20S,1,1610612753,ORL,1630175,Anthony,C. Anthony,5,143,14,Missed,1,24,24,48,v,MISS Anthony 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,107
+22300557,154,PT00M01.40S,1,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,24,24,48,h,Grimes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,108
+22300557,157,PT00M00.00S,1,0,,0,,,0,0,0,,0,24,24,48,,End of 1st Period (3:39 PM EST),period,end,1,0,109
+22300557,160,PT12M00.00S,2,0,,0,,,0,0,0,,0,24,24,48,,Start of 2nd Period (3:41 PM EST),period,start,0,0,110
+22300557,161,PT11M46.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-71,246,26,Missed,1,24,24,48,h,MISS Flynn 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,111
+22300557,162,PT11M43.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,24,24,48,v,Anthony REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,112
+22300557,163,PT11M41.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,24,24,48,h,Hart S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,1,0,113
+22300557,165,PT11M41.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,24,24,48,v,MISS Anthony Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,114
+22300557,166,PT11M41.00S,2,0,,1610612753,,,0,0,0,,0,24,24,48,v,Magic Rebound,Rebound,Normal Rebound,1,0,115
+22300557,167,PT11M41.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,24,25,49,v,Anthony Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,116
+22300557,168,PT11M26.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,24,25,49,h,Grimes Traveling Turnover (P1.T2),Turnover,Traveling,1,0,117
+22300557,169,PT11M08.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,9,16,2,Missed,1,24,25,49,v,MISS Isaac 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,118
+22300557,170,PT11M06.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,24,25,49,h,Achiuwa REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+22300557,171,PT11M01.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,-233,10,0,Made,1,27,25,52,h,Grimes 3PT Running Jump Shot (3 PTS) (Hart 1 AST),Made Shot,Running Jump Shot,1,3,120
+22300557,173,PT10M48.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,147,210,26,Made,1,27,28,55,v,Isaac 26' 3PT Jump Shot (3 PTS) (Ingles 3 AST),Made Shot,Jump Shot,1,3,121
+22300557,175,PT10M28.00S,2,1610612752,NYK,1628404,Hart,J. Hart,232,78,24,Missed,1,27,28,55,h,MISS Hart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+22300557,176,PT10M26.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,27,28,55,v,Isaac REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,123
+22300557,177,PT10M14.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,-10,6,1,Made,1,27,30,57,v,Fultz 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,124
+22300557,178,PT09M55.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,-174,-16,17,Made,1,29,30,59,h,Grimes 17' Jump Shot (5 PTS),Made Shot,Jump Shot,1,2,125
+22300557,179,PT09M39.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,29,30,59,h,Hart P.FOUL (P2.T2) (M.Ervin),Foul,Personal,1,0,126
+22300557,181,PT09M32.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,8,1,Made,1,29,32,61,v,Carter Jr. 1' Alley Oop Dunk (4 PTS) (Anthony 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,127
+22300557,183,PT09M17.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,29,32,61,h,Jump Ball Achiuwa vs. Carter Jr.: Tip to Anthony,Jump Ball,,1,0,128
+22300557,186,PT09M17.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,29,32,61,h,Grimes Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,129
+22300557,188,PT09M04.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,-6,8,1,Missed,1,29,32,61,v,MISS Anthony 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,130
+22300557,189,PT09M00.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,29,32,61,v,Isaac REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,131
+22300557,190,PT09M00.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,Made,1,29,34,63,v,Isaac Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,132
+22300557,191,PT08M51.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-165,181,24,Missed,1,29,34,63,h,MISS Flynn 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,133
+22300557,192,PT08M48.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,29,34,63,h,Hart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,134
+22300557,193,PT08M44.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,91,69,11,Missed,1,29,34,63,h,MISS Anunoby 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,135
+22300557,194,PT08M42.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,29,34,63,h,Achiuwa REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,136
+22300557,195,PT08M41.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,29,34,63,v,Fultz S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,1,0,137
+22300557,197,PT08M41.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,30,34,64,h,Achiuwa Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,138
+22300557,198,PT08M41.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,31,34,65,h,Achiuwa Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,139
+22300557,199,PT08M28.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,31,34,65,h,Anunoby P.FOUL (P2.T3) (M.Ervin),Foul,Personal,1,0,140
+22300557,201,PT08M25.00S,2,1610612753,ORL,204060,Ingles,J. Ingles,-6,20,2,Made,1,31,36,67,v,Ingles 2' Cutting Layup Shot (4 PTS) (Fultz 1 AST),Made Shot,Cutting Layup Shot,1,2,141
+22300557,203,PT08M09.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,-10,10,1,Missed,1,31,36,67,h,MISS Anunoby 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,142
+22300557,203,PT08M09.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,31,36,67,v,Carter Jr. BLOCK (1 BLK),,,1,2,143
+22300557,205,PT08M06.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,31,36,67,h,Achiuwa REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,144
+22300557,206,PT08M05.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-15,15,2,Missed,1,31,36,67,h,MISS Achiuwa 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,145
+22300557,207,PT08M03.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,31,36,67,v,Anthony REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,146
+22300557,208,PT08M02.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,31,36,67,v,Anthony Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,147
+22300557,208,PT08M02.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,31,36,67,h,Grimes STEAL (1 STL),,,1,0,148
+22300557,210,PT08M00.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,1,-3,0,Missed,1,31,36,67,h,MISS Anunoby Driving Layup,Missed Shot,Driving Layup Shot,1,2,149
+22300557,210,PT08M00.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,31,36,67,v,Isaac BLOCK (1 BLK),,,1,2,150
+22300557,212,PT08M00.00S,2,0,,1610612752,,,0,0,0,,0,31,36,67,h,KNICKS Rebound,Rebound,Unknown,1,0,151
+22300557,214,PT07M48.00S,2,1610612752,NYK,1628404,Hart,J. Hart,4,-3,1,Made,1,33,36,69,h,Hart 1' Driving Finger Roll Layup (2 PTS) (Grimes 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,152
+22300557,216,PT07M37.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-148,203,25,Made,1,33,39,72,v,Carter Jr. 25' 3PT Jump Shot (7 PTS) (Anthony 3 AST),Made Shot,Jump Shot,1,3,153
+22300557,218,PT07M12.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,28,76,8,Made,1,35,39,74,h,Achiuwa 8' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,154
+22300557,219,PT06M50.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,20,50,5,Made,1,35,41,76,v,Carter Jr. 5' Turnaround Hook Shot (9 PTS) (Fultz 2 AST),Made Shot,Turnaround Hook Shot,1,2,155
+22300557,221,PT06M45.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,35,41,76,v,Anthony P.FOUL (P1.T2) (D.Richardson),Foul,Personal,1,0,156
+22300557,223,PT06M45.00S,2,0,,1610612752,,,0,0,0,,0,35,41,76,h,KNICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,157
+22300557,224,PT06M45.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,35,41,76,v,SUB: Banchero FOR Isaac,Substitution,,0,0,158
+22300557,225,PT06M45.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,35,41,76,v,SUB: Bitadze FOR Carter Jr.,Substitution,,0,0,159
+22300557,228,PT06M37.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,35,41,76,v,Anthony S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,0,0,160
+22300557,231,PT06M37.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,35,41,76,h,SUB: Hartenstein FOR Achiuwa,Substitution,,0,0,161
+22300557,232,PT06M37.00S,2,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,35,41,76,h,SUB: Randle FOR Grimes,Substitution,,0,0,162
+22300557,230,PT06M37.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,36,41,77,h,Flynn Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,163
+22300557,235,PT06M37.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,36,41,77,h,MISS Flynn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,164
+22300557,236,PT06M35.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,36,41,77,v,Bitadze REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,165
+22300557,237,PT06M22.00S,2,1610612753,ORL,204060,Ingles,J. Ingles,-15,43,5,Missed,1,36,41,77,v,MISS Ingles 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,2,166
+22300557,238,PT06M21.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,36,41,77,h,Hart REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,167
+22300557,239,PT06M07.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,-5,-8,1,Made,1,38,41,79,h,Anunoby 1' Cutting Dunk Shot (11 PTS) (Hartenstein 2 AST),Made Shot,Cutting Dunk Shot,1,2,168
+22300557,241,PT05M42.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,72,104,13,Missed,1,38,41,79,v,MISS Fultz 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,169
+22300557,242,PT05M40.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,38,41,79,h,Hart REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,170
+22300557,243,PT05M35.00S,2,1610612752,NYK,1628404,Hart,J. Hart,-11,1,1,Made,1,40,41,81,h,Hart 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,171
+22300557,244,PT05M18.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,28,31,4,Missed,1,40,41,81,v,MISS Fultz 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,172
+22300557,245,PT05M15.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,40,41,81,h,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,173
+22300557,246,PT05M03.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,-154,206,26,Missed,1,40,41,81,h,MISS Flynn 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,174
+22300557,247,PT05M00.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,40,41,81,v,Bitadze REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,175
+22300557,248,PT04M52.00S,2,1610612753,ORL,204060,Ingles,J. Ingles,-4,29,3,Missed,1,40,41,81,v,MISS Ingles 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,176
+22300557,249,PT04M50.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,40,41,81,h,Hartenstein REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,177
+22300557,250,PT04M38.00S,2,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,40,41,81,v,Ingles P.FOUL (P2.T4) (S.Corbin),Foul,Personal,1,0,178
+22300557,252,PT04M38.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,40,41,81,h,SUB: McBride FOR Hart,Substitution,,0,0,179
+22300557,253,PT04M38.00S,2,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,40,41,81,h,SUB: DiVincenzo FOR Flynn,Substitution,,0,0,180
+22300557,254,PT04M38.00S,2,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,40,41,81,v,SUB: Houstan FOR Ingles,Substitution,,0,0,181
+22300557,255,PT04M38.00S,2,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,40,41,81,v,SUB: Suggs FOR Fultz,Substitution,,0,0,182
+22300557,256,PT04M38.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,40,41,81,v,SUB: Okeke FOR Anthony,Substitution,,0,0,183
+22300557,262,PT04M33.00S,2,1610612752,NYK,203944,Randle,J. Randle,-199,149,25,Missed,1,40,41,81,h,MISS Randle 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,184
+22300557,263,PT04M30.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,40,41,81,v,Suggs REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,185
+22300557,264,PT04M08.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,40,41,81,h,Hartenstein S.FOUL (P3.T4) (D.Richardson),Foul,Shooting,1,0,186
+22300557,268,PT04M08.00S,2,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,40,41,81,h,SUB: Achiuwa FOR Hartenstein,Substitution,,0,0,187
+22300557,266,PT04M08.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,40,41,81,v,MISS Suggs Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,188
+22300557,267,PT04M08.00S,2,0,,1610612753,,,0,0,0,,0,40,41,81,v,Magic Rebound,Rebound,Normal Rebound,1,0,189
+22300557,270,PT04M08.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,40,42,82,v,Suggs Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,190
+22300557,271,PT03M51.00S,2,1610612752,NYK,1630540,McBride,M. McBride,164,189,25,Missed,1,40,42,82,h,MISS McBride 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,191
+22300557,272,PT03M49.00S,2,0,,1610612753,,,0,0,0,,0,40,42,82,v,Magic Rebound,Rebound,Unknown,1,0,192
+22300557,274,PT03M35.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,138,234,27,Missed,1,40,42,82,v,MISS Suggs 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,193
+22300557,275,PT03M29.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,40,42,82,h,Achiuwa REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,194
+22300557,276,PT03M22.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,146,206,25,Made,1,43,42,85,h,Anunoby 25' 3PT Jump Shot (14 PTS) (Randle 1 AST),Made Shot,Jump Shot,1,3,195
+22300557,278,PT03M06.00S,2,1610612753,ORL,1629643,Okeke,C. Okeke,224,95,24,Made,1,43,45,88,v,Okeke 24' 3PT Jump Shot (12 PTS) (Suggs 4 AST),Made Shot,Jump Shot,1,3,196
+22300557,281,PT02M55.00S,2,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-1,-3,0,Made,1,45,45,90,h,Achiuwa Cutting Dunk Shot (6 PTS) (DiVincenzo 2 AST),Made Shot,Cutting Dunk Shot,1,2,197
+22300557,283,PT02M41.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,45,45,90,h,DiVincenzo P.FOUL (P1.PN) (S.Corbin),Foul,Personal,1,0,198
+22300557,285,PT02M41.00S,2,0,,1610612753,,,0,0,0,,0,45,45,90,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,199
+22300557,286,PT02M41.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,45,46,91,v,Banchero Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,200
+22300557,287,PT02M41.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,45,46,91,v,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,201
+22300557,288,PT02M39.00S,2,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,45,46,91,h,Randle REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,202
+22300557,290,PT02M28.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,45,46,91,v,Houstan P.FOUL (P2.PN) (S.Corbin),Foul,Personal,1,0,203
+22300557,292,PT02M28.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,45,46,91,h,MISS DiVincenzo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,204
+22300557,293,PT02M28.00S,2,0,,1610612752,,,0,0,0,,0,45,46,91,h,KNICKS Rebound,Rebound,Normal Rebound,0,0,205
+22300557,294,PT02M28.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,46,46,92,h,DiVincenzo Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,206
+22300557,295,PT02M14.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,-230,-22,0,Missed,1,46,46,92,v,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,1,3,207
+22300557,296,PT02M11.00S,2,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,46,46,92,h,Randle REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,208
+22300557,297,PT01M59.00S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,2,-3,0,Made,1,48,46,94,h,DiVincenzo Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,209
+22300557,298,PT01M42.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,67,126,14,Missed,1,48,46,94,v,MISS Banchero 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,210
+22300557,299,PT01M41.00S,2,0,,1610612752,,,0,0,0,,0,48,46,94,h,KNICKS Rebound,Rebound,Unknown,0,0,211
+22300557,301,PT01M26.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,-28,133,14,Missed,1,48,46,94,h,MISS Anunoby 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,212
+22300557,301,PT01M26.00S,2,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,48,46,94,v,Okeke BLOCK (1 BLK),,,1,2,213
+22300557,303,PT01M23.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,48,46,94,h,Anunoby REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,214
+22300557,304,PT01M21.00S,2,1610612752,NYK,1630540,McBride,M. McBride,2,4,0,Made,1,50,46,96,h,McBride Driving Layup (8 PTS) (Anunoby 3 AST),Made Shot,Driving Layup Shot,1,2,215
+22300557,305,PT01M07.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,23,78,8,Made,1,50,48,98,v,Banchero 8' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,216
+22300557,306,PT00M56.60S,2,1610612752,NYK,1630540,McBride,M. McBride,-1,79,8,Made,1,52,48,100,h,McBride 8' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,1,2,217
+22300557,308,PT00M45.10S,2,1610612753,ORL,1631216,Houstan,C. Houstan,-125,213,25,Missed,1,52,48,100,v,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+22300557,309,PT00M43.90S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,52,48,100,h,McBride REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,219
+22300557,310,PT00M33.40S,2,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,17,252,25,Missed,1,52,48,100,h,MISS DiVincenzo 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,220
+22300557,311,PT00M27.30S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,52,48,100,v,Bitadze REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,221
+22300557,313,PT00M06.40S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,52,48,100,h,McBride S.FOUL (P3.PN) (D.Richardson),Foul,Shooting,1,0,222
+22300557,315,PT00M06.40S,2,0,,1610612752,,,0,0,0,,0,52,48,100,h,KNICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,223
+22300557,317,PT00M06.40S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,52,48,100,v,SUB: Isaac FOR Bitadze,Substitution,,0,0,224
+22300557,316,PT00M06.40S,2,0,,313,Fleming,V. Fleming,0,0,0,,0,52,48,100,,Instant Replay2nd Period (4:08 PM EST),Instant Replay,Coach Challenge Support Ruling,1,0,225
+22300557,319,PT00M06.40S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,52,48,100,v,MISS Houstan Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,226
+22300557,320,PT00M06.40S,2,0,,1610612753,,,0,0,0,,0,52,48,100,v,Magic Rebound,Rebound,Normal Rebound,0,0,227
+22300557,321,PT00M06.40S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,52,49,101,v,Houstan Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,1,0,228
+22300557,322,PT00M06.40S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,52,50,102,v,Houstan Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1,0,229
+22300557,323,PT00M01.30S,2,1610612752,NYK,1630540,McBride,M. McBride,-229,105,25,Missed,1,52,50,102,h,MISS McBride 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,230
+22300557,324,PT00M00.10S,2,0,,1610612752,,,0,0,0,,0,52,50,102,h,KNICKS Rebound,Rebound,Unknown,0,0,231
+22300557,325,PT00M00.00S,2,0,,0,,,0,0,0,,0,52,50,102,,End of 2nd Period (4:13 PM EST),period,end,1,0,232
+22300557,330,PT12M00.00S,3,0,,0,,,0,0,0,,0,52,50,102,,Start of 3rd Period (4:27 PM EST),period,start,0,0,233
+22300557,331,PT11M37.00S,3,1610612752,NYK,203944,Randle,J. Randle,232,9,0,Made,1,55,50,105,h,Randle 3PT Jump Shot (7 PTS) (Hartenstein 3 AST),Made Shot,Jump Shot,1,3,234
+22300557,333,PT11M16.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,-239,-13,24,Missed,1,55,50,105,v,MISS Houstan 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,235
+22300557,334,PT11M16.00S,3,0,,1610612753,,,0,0,0,,0,55,50,105,v,Magic Rebound,Rebound,Unknown,0,0,236
+22300557,335,PT11M16.00S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,55,50,105,h,Randle L.B.FOUL (P1.T1) (M.Ervin),Foul,Loose Ball,1,0,237
+22300557,337,PT11M11.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-1,-4,0,Made,1,55,52,107,v,Banchero Cutting Layup Shot (11 PTS) (Bitadze 2 AST),Made Shot,Cutting Layup Shot,1,2,238
+22300557,339,PT11M11.00S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,55,52,107,h,Randle S.FOUL (P2.T2) (S.Corbin),Foul,Shooting,1,0,239
+22300557,341,PT11M11.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,55,52,107,v,MISS Banchero Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,240
+22300557,342,PT11M07.00S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,55,52,107,h,Randle REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,241
+22300557,343,PT10M57.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-22,40,5,Missed,1,55,52,107,h,MISS DiVincenzo 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,242
+22300557,344,PT10M55.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,55,52,107,h,Hartenstein REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,243
+22300557,345,PT10M52.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,180,22,18,Missed,1,55,52,107,h,MISS Anunoby 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,244
+22300557,346,PT10M49.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,55,52,107,v,Banchero REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,245
+22300557,347,PT10M40.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-2,164,16,Made,1,55,54,109,v,Banchero 16' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,246
+22300557,348,PT10M22.00S,3,1610612752,NYK,203944,Randle,J. Randle,-141,215,26,Made,1,58,54,112,h,Randle 26' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,3,247
+22300557,349,PT10M07.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,-225,-5,0,Missed,1,58,54,112,v,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,1,3,248
+22300557,350,PT10M03.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,58,54,112,h,Hartenstein REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,249
+22300557,351,PT09M51.00S,3,1610612752,NYK,203944,Randle,J. Randle,48,245,25,Missed,1,58,54,112,h,MISS Randle 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,250
+22300557,352,PT09M49.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,58,54,112,v,Suggs REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,251
+22300557,353,PT09M46.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,-15,20,3,Missed,1,58,54,112,v,MISS Suggs 3' Running Layup,Missed Shot,Running Layup Shot,1,2,252
+22300557,353,PT09M46.00S,3,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,58,54,112,h,McBride BLOCK (1 BLK),,,1,2,253
+22300557,355,PT09M45.00S,3,0,,1610612752,,,0,0,0,,0,58,54,112,h,KNICKS Rebound,Rebound,Unknown,0,0,254
+22300557,357,PT09M26.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,28,88,9,Made,1,60,54,114,h,Hartenstein 9' Floating Jump Shot (5 PTS) (DiVincenzo 3 AST),Made Shot,Floating Jump shot,1,2,255
+22300557,359,PT09M08.00S,3,1610612753,ORL,1629643,Okeke,C. Okeke,172,184,25,Missed,1,60,54,114,v,MISS Okeke 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,256
+22300557,360,PT09M06.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,60,54,114,h,Hartenstein REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,257
+22300557,361,PT09M00.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,60,54,114,h,Hartenstein OFF.Foul (P4) (D.Richardson),Foul,Offensive,1,0,258
+22300557,363,PT09M00.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,60,54,114,h,Hartenstein Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,1,0,259
+22300557,364,PT09M00.00S,3,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,60,54,114,h,SUB: Achiuwa FOR Hartenstein,Substitution,,0,0,260
+22300557,366,PT08M46.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-92,63,11,Missed,1,60,54,114,v,MISS Banchero 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,261
+22300557,367,PT08M43.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,60,54,114,h,Anunoby REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,262
+22300557,368,PT08M36.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,60,54,114,h,Achiuwa Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,263
+22300557,369,PT08M21.00S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,60,54,114,h,Randle P.FOUL (P3.T3) (M.Ervin),Foul,Personal,1,0,264
+22300557,371,PT08M17.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,60,54,114,v,Banchero Traveling Turnover (P2.T4),Turnover,Traveling,1,0,265
+22300557,372,PT08M06.00S,3,1610612752,NYK,203944,Randle,J. Randle,5,253,25,Missed,1,60,54,114,h,MISS Randle 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,266
+22300557,373,PT08M02.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,60,54,114,h,Achiuwa REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,267
+22300557,374,PT08M00.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,255,26,Made,1,63,54,117,h,DiVincenzo 26' 3PT Jump Shot (8 PTS) (Anunoby 4 AST),Made Shot,Jump Shot,1,3,268
+22300557,376,PT07M58.00S,3,0,,1610612753,,,0,0,0,,0,63,54,117,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,269
+22300557,377,PT07M34.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,129,235,27,Made,1,63,57,120,v,Suggs 27' 3PT Pullup Jump Shot (4 PTS) (Bitadze 3 AST),Made Shot,Pullup Jump shot,1,3,270
+22300557,379,PT07M15.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-229,-13,0,Made,1,66,57,123,h,DiVincenzo 3PT Jump Shot (11 PTS) (Randle 2 AST),Made Shot,Jump Shot,1,3,271
+22300557,381,PT07M04.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,66,57,123,h,DiVincenzo S.FOUL (P2.T4) (M.Ervin),Foul,Shooting,1,0,272
+22300557,383,PT07M04.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,66,58,124,v,Houstan Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,273
+22300557,384,PT07M04.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,66,59,125,v,Houstan Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,274
+22300557,385,PT06M54.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,66,59,125,v,Houstan P.FOUL (P3.T1) (S.Corbin),Foul,Personal,1,0,275
+22300557,387,PT06M39.00S,3,1610612752,NYK,1630540,McBride,M. McBride,206,171,27,Made,1,69,59,128,h,McBride 27' 3PT Jump Shot (13 PTS) (Randle 3 AST),Made Shot,Jump Shot,1,3,276
+22300557,389,PT06M23.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-33,6,3,Missed,1,69,59,128,v,MISS Banchero 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,277
+22300557,390,PT06M22.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,69,59,128,v,Bitadze REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,278
+22300557,391,PT06M15.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,70,247,26,Missed,1,69,59,128,v,MISS Suggs 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,279
+22300557,392,PT06M13.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,69,59,128,h,DiVincenzo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,280
+22300557,393,PT06M11.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,69,59,128,v,Houstan P.FOUL (P4.T2) (M.Ervin),Foul,Personal,1,0,281
+22300557,395,PT05M58.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,69,59,128,h,Anunoby Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,1,0,282
+22300557,396,PT05M58.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,69,59,128,v,SUB: Fultz FOR Houstan,Substitution,,0,0,283
+22300557,398,PT05M49.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,21,12,2,Missed,1,69,59,128,v,MISS Fultz 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,284
+22300557,398,PT05M49.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,69,59,128,h,Achiuwa BLOCK (1 BLK),,,1,2,285
+22300557,400,PT05M44.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,69,59,128,v,Bitadze REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,286
+22300557,401,PT05M37.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,-12,-6,1,Made,1,69,61,130,v,Bitadze 1' Reverse Layup (2 PTS) (Banchero 3 AST),Made Shot,Reverse Layup Shot,1,2,287
+22300557,403,PT05M23.00S,3,1610612752,NYK,203944,Randle,J. Randle,-20,19,3,Missed,1,69,61,130,h,MISS Randle 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,288
+22300557,404,PT05M23.00S,3,0,,1610612752,,,0,0,0,,0,69,61,130,h,KNICKS Rebound,Rebound,Unknown,1,0,289
+22300557,405,PT05M23.00S,3,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,69,61,130,v,Okeke L.B.FOUL (P1.T3) (M.Ervin),Foul,Loose Ball,1,0,290
+22300557,407,PT05M23.00S,3,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,69,61,130,v,SUB: Ingles FOR Okeke,Substitution,,0,0,291
+22300557,409,PT05M17.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,17,2,Made,1,71,61,132,h,DiVincenzo 2' Driving Finger Roll Layup (13 PTS) (Achiuwa 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,292
+22300557,410,PT05M17.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,71,61,132,v,Bitadze Violation:Defensive Goaltending (S.Corbin),Violation,Defensive Goaltending,1,0,293
+22300557,411,PT04M53.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,158,-24,16,Missed,1,71,61,132,v,MISS Banchero 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,294
+22300557,412,PT04M53.00S,3,0,,1610612753,,,0,0,0,,0,71,61,132,v,Magic Rebound,Rebound,Unknown,0,0,295
+22300557,413,PT04M53.00S,3,0,,1610612753,,,0,0,0,,0,71,61,132,v,Magic Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,0,0,296
+22300557,414,PT04M53.00S,3,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,71,61,132,h,SUB: Hart FOR DiVincenzo,Substitution,,0,0,297
+22300557,417,PT04M33.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,71,61,132,h,Anunoby Traveling Turnover (P2.T7),Turnover,Traveling,1,0,298
+22300557,418,PT04M21.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-33,138,14,Made,1,71,63,134,v,Banchero 14' Pullup Jump Shot (15 PTS) (Fultz 3 AST),Made Shot,Pullup Jump shot,1,2,299
+22300557,420,PT04M05.00S,3,1610612752,NYK,203944,Randle,J. Randle,13,104,10,Made,1,73,63,136,h,Randle 10' Driving Floating Bank Jump Shot (12 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,300
+22300557,421,PT04M05.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,73,63,136,v,Bitadze S.FOUL (P3.T4) (S.Corbin),Foul,Shooting,1,0,301
+22300557,423,PT04M05.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,73,63,136,v,SUB: Anthony FOR Suggs,Substitution,,0,0,302
+22300557,425,PT04M05.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,73,63,136,v,SUB: Carter Jr. FOR Bitadze,Substitution,,0,0,303
+22300557,427,PT04M05.00S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,74,63,137,h,Randle Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,1,0,304
+22300557,428,PT03M52.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-134,121,18,Missed,1,74,63,137,v,MISS Carter Jr. 18' Jump Shot,Missed Shot,Jump Shot,1,2,305
+22300557,429,PT03M50.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,74,63,137,h,Hart REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,306
+22300557,430,PT03M35.00S,3,1610612752,NYK,1630173,Achiuwa,P. Achiuwa,-5,6,1,Missed,1,74,63,137,h,MISS Achiuwa 1' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,307
+22300557,431,PT03M32.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,74,63,137,v,Banchero REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,308
+22300557,432,PT03M19.00S,3,1610612753,ORL,1630175,Anthony,C. Anthony,-183,184,26,Missed,1,74,63,137,v,MISS Anthony 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,309
+22300557,433,PT03M18.00S,3,0,,1610612752,,,0,0,0,,0,74,63,137,h,KNICKS Rebound,Rebound,Unknown,1,0,310
+22300557,435,PT03M06.00S,3,1610612752,NYK,203944,Randle,J. Randle,108,230,25,Missed,1,74,63,137,h,MISS Randle 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,311
+22300557,436,PT03M00.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,74,63,137,v,Fultz REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,312
+22300557,437,PT02M58.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,-6,-4,1,Made,1,74,65,139,v,Fultz 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,2,313
+22300557,438,PT02M34.00S,3,1610612752,NYK,1628404,Hart,J. Hart,83,198,21,Missed,1,74,65,139,h,MISS Hart 21' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,314
+22300557,439,PT02M33.00S,3,0,,1610612752,,,0,0,0,,0,74,65,139,h,KNICKS Rebound,Rebound,Unknown,0,0,315
+22300557,440,PT02M33.00S,3,0,,1610612752,,,0,0,0,,0,74,65,139,h,KNICKS Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,0,0,316
+22300557,441,PT02M33.00S,3,0,,1610612752,,,0,0,0,,0,74,65,139,h,KNICKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,317
+22300557,442,PT02M33.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,74,65,139,h,SUB: Grimes FOR Anunoby,Substitution,,0,0,318
+22300557,443,PT02M33.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,74,65,139,v,SUB: Isaac FOR Banchero,Substitution,,0,0,319
+22300557,446,PT02M14.00S,3,1610612753,ORL,1628365,Fultz,M. Fultz,-4,4,1,Made,1,74,67,141,v,Fultz 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,320
+22300557,448,PT01M54.00S,3,1610612752,NYK,1630540,McBride,M. McBride,-11,5,1,Missed,1,74,67,141,h,MISS McBride 1' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,321
+22300557,449,PT01M51.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,74,67,141,v,Carter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,322
+22300557,450,PT01M34.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-9,8,1,Missed,1,74,67,141,v,MISS Carter Jr. 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,323
+22300557,451,PT01M34.00S,3,0,,1610612752,,,0,0,0,,0,74,67,141,h,KNICKS Rebound,Rebound,Unknown,0,0,324
+22300557,453,PT01M34.00S,3,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,74,67,141,h,SUB: Flynn FOR McBride,Substitution,,0,0,325
+22300557,456,PT01M16.00S,3,1610612752,NYK,1628404,Hart,J. Hart,-75,22,8,Missed,1,74,67,141,h,MISS Hart 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,326
+22300557,457,PT01M13.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,74,67,141,v,Carter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,327
+22300557,458,PT01M07.00S,3,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,74,67,141,h,Grimes S.FOUL (P1.PN) (S.Corbin),Foul,Shooting,1,0,328
+22300557,460,PT01M07.00S,3,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,74,68,142,v,Anthony Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,329
+22300557,461,PT01M07.00S,3,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,74,69,143,v,Anthony Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,330
+22300557,462,PT00M45.60S,3,1610612752,NYK,1629656,Grimes,Q. Grimes,-228,42,0,Made,1,77,69,146,h,Grimes 3PT Jump Shot (8 PTS) (Randle 4 AST),Made Shot,Jump Shot,1,3,331
+22300557,464,PT00M33.20S,3,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,77,69,146,h,Grimes P.FOUL (P2.PN) (M.Ervin),Foul,Personal,1,0,332
+22300557,466,PT00M33.20S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,77,70,147,v,Carter Jr. Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,333
+22300557,467,PT00M33.20S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,77,71,148,v,Carter Jr. Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,334
+22300557,469,PT00M14.70S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,77,71,148,v,Carter Jr. P.FOUL (P1.PN) (S.Corbin),Foul,Personal,1,0,335
+22300557,472,PT00M14.70S,3,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,77,71,148,h,SUB: Anunoby FOR Randle,Substitution,,0,0,336
+22300557,471,PT00M14.70S,3,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,78,71,149,h,Flynn Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,337
+22300557,474,PT00M14.70S,3,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,78,71,149,h,MISS Flynn Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,338
+22300557,475,PT00M12.40S,3,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,78,71,149,v,Isaac REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,339
+22300557,476,PT00M00.30S,3,1610612753,ORL,204060,Ingles,J. Ingles,-13,13,2,Made,1,78,73,151,v,Ingles 2' Driving Layup (6 PTS) (Fultz 4 AST),Made Shot,Driving Layup Shot,1,2,340
+22300557,478,PT00M00.00S,3,0,,0,,,0,0,0,,0,78,73,151,,End of 3rd Period (4:56 PM EST),period,end,1,0,341
+22300557,481,PT12M00.00S,4,0,,0,,,0,0,0,,0,78,73,151,,Start of 4th Period (4:59 PM EST),period,start,0,0,342
+22300557,482,PT11M51.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,10,4,1,Missed,1,78,73,151,v,MISS Fultz 1' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,343
+22300557,483,PT11M51.00S,4,0,,1610612752,,,0,0,0,,0,78,73,151,h,KNICKS Rebound,Rebound,Unknown,1,0,344
+22300557,485,PT11M27.00S,4,1610612752,NYK,1630201,Flynn,M. Flynn,125,227,26,Missed,1,78,73,151,h,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+22300557,486,PT11M23.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,78,73,151,v,Fultz REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,346
+22300557,487,PT11M16.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,-190,179,26,Missed,1,78,73,151,v,MISS Anthony 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,347
+22300557,488,PT11M15.00S,4,0,,1610612752,,,0,0,0,,0,78,73,151,h,KNICKS Rebound,Rebound,Unknown,1,0,348
+22300557,490,PT10M56.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,-7,10,1,Made,1,80,73,153,h,Hartenstein 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,349
+22300557,492,PT10M40.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,1,-9,1,Made,1,80,75,155,v,Anthony 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,350
+22300557,493,PT10M23.00S,4,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,80,75,155,v,Isaac P.FOUL (P1.T1) (M.Ervin),Foul,Personal,1,0,351
+22300557,495,PT10M23.00S,4,1610612752,NYK,1630201,Flynn,M. Flynn,0,0,0,,0,80,75,155,h,SUB: McBride FOR Flynn,Substitution,,0,0,352
+22300557,497,PT10M11.00S,4,1610612752,NYK,1630540,McBride,M. McBride,-22,135,14,Made,1,82,75,157,h,McBride 14' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,1,2,353
+22300557,498,PT09M57.00S,4,1610612753,ORL,1628371,Isaac,J. Isaac,125,220,25,Missed,1,82,75,157,v,MISS Isaac 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+22300557,499,PT09M53.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,82,75,157,v,Carter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,355
+22300557,500,PT09M49.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,65,253,26,Missed,1,82,75,157,v,MISS Carter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,356
+22300557,501,PT09M46.00S,4,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,82,75,157,h,Grimes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,357
+22300557,502,PT09M42.00S,4,1610612752,NYK,1629656,Grimes,Q. Grimes,-162,193,25,Missed,1,82,75,157,h,MISS Grimes 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,358
+22300557,503,PT09M38.00S,4,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,82,75,157,v,Isaac REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,359
+22300557,504,PT09M21.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-36,92,10,Made,1,82,77,159,v,Carter Jr. 10' Floating Jump Shot (13 PTS) (Ingles 4 AST),Made Shot,Floating Jump shot,1,2,360
+22300557,506,PT08M59.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,9,47,5,Missed,1,82,77,159,h,MISS Hartenstein 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,361
+22300557,507,PT08M57.00S,4,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,82,77,159,v,Isaac REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,362
+22300557,508,PT08M50.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,-55,26,6,Made,1,82,79,161,v,Anthony 6' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,363
+22300557,509,PT08M50.00S,4,0,,1610612752,,,0,0,0,,0,82,79,161,h,KNICKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,364
+22300557,510,PT08M38.00S,4,1610612752,NYK,1630540,McBride,M. McBride,-130,214,25,Made,1,85,79,164,h,McBride 25' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,3,365
+22300557,511,PT08M21.00S,4,1610612753,ORL,204060,Ingles,J. Ingles,136,211,25,Missed,1,85,79,164,v,MISS Ingles 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+22300557,512,PT08M19.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,85,79,164,h,Hart REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,367
+22300557,514,PT08M18.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,85,79,164,h,Hart Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,368
+22300557,514,PT08M18.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,85,79,164,v,Anthony STEAL (1 STL),,,1,0,369
+22300557,517,PT08M10.00S,4,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,85,79,164,v,Ingles Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,370
+22300557,517,PT08M10.00S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,85,79,164,h,McBride STEAL (1 STL),,,1,0,371
+22300557,519,PT08M02.00S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,85,79,164,h,McBride Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,372
+22300557,519,PT08M02.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,85,79,164,v,Anthony STEAL (2 STL),,,1,0,373
+22300557,522,PT07M59.00S,4,1610612752,NYK,1629656,Grimes,Q. Grimes,0,0,0,,0,85,79,164,h,SUB: Randle FOR Grimes,Substitution,,0,0,374
+22300557,524,PT07M59.00S,4,1610612753,ORL,204060,Ingles,J. Ingles,0,0,0,,0,85,79,164,v,SUB: Houstan FOR Ingles,Substitution,,0,0,375
+22300557,525,PT07M59.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,85,79,164,v,SUB: Suggs FOR Fultz,Substitution,,0,0,376
+22300557,528,PT07M53.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,21,58,6,Made,1,85,81,166,v,Carter Jr. 6' Driving Floating Jump Shot (15 PTS) (Anthony 4 AST),Made Shot,Driving Floating Jump Shot,1,2,377
+22300557,530,PT07M38.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,232,29,0,Made,1,88,81,169,h,Anunoby 3PT Jump Shot (17 PTS) (Randle 5 AST),Made Shot,Jump Shot,1,3,378
+22300557,532,PT07M22.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,88,81,169,v,Suggs Traveling Turnover (P2.T7),Turnover,Traveling,1,0,379
+22300557,533,PT07M12.00S,4,1610612752,NYK,1630540,McBride,M. McBride,-142,205,25,Missed,1,88,81,169,h,MISS McBride 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,380
+22300557,534,PT07M10.00S,4,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,88,81,169,v,Isaac REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,381
+22300557,542,PT07M02.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,88,81,169,v,SUB: Bitadze FOR Carter Jr.,Substitution,,0,0,382
+22300557,537,PT07M02.00S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,88,81,169,h,Jump Ball McBride vs. Anthony: Tip to Hartenstein,Jump Ball,,1,0,383
+22300557,540,PT07M02.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,88,81,169,v,Anthony Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,384
+22300557,540,PT07M02.00S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,88,81,169,h,McBride STEAL (2 STL),,,1,0,385
+22300557,544,PT06M44.00S,4,1610612752,NYK,1628404,Hart,J. Hart,70,67,10,Missed,1,88,81,169,h,MISS Hart 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,386
+22300557,545,PT06M42.00S,4,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,88,81,169,v,Isaac REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,387
+22300557,546,PT06M30.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,-115,84,14,Made,1,88,83,171,v,Anthony 14' Fadeaway Jumper (11 PTS),Made Shot,Fadeaway Jump Shot,1,2,388
+22300557,547,PT05M56.00S,4,1610612752,NYK,203944,Randle,J. Randle,86,71,11,Missed,1,88,83,171,h,MISS Randle 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,389
+22300557,548,PT05M53.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,88,83,171,v,Bitadze REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,390
+22300557,549,PT05M47.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,9,7,1,Made,1,88,85,173,v,Anthony 1' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,2,391
+22300557,550,PT05M46.00S,4,0,,1610612752,,,0,0,0,,0,88,85,173,h,KNICKS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,392
+22300557,551,PT05M46.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,88,85,173,h,SUB: DiVincenzo FOR Hart,Substitution,,0,0,393
+22300557,552,PT05M46.00S,4,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,88,85,173,v,SUB: Banchero FOR Isaac,Substitution,,0,0,394
+22300557,553,PT05M46.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,88,85,173,v,SUB: Okeke FOR Houstan,Substitution,,0,0,395
+22300557,557,PT05M35.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,88,85,173,v,Suggs S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,1,0,396
+22300557,559,PT05M35.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,88,85,173,h,MISS DiVincenzo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,397
+22300557,560,PT05M35.00S,4,0,,1610612752,,,0,0,0,,0,88,85,173,h,KNICKS Rebound,Rebound,Normal Rebound,0,0,398
+22300557,561,PT05M35.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,89,85,174,h,DiVincenzo Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,399
+22300557,562,PT05M13.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,137,211,25,Missed,1,89,85,174,v,MISS Banchero 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,400
+22300557,563,PT05M10.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,89,85,174,h,DiVincenzo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,401
+22300557,564,PT04M53.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,-235,-10,24,Missed,1,89,85,174,h,MISS DiVincenzo 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+22300557,565,PT04M49.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,89,85,174,v,Banchero REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,403
+22300557,566,PT04M27.00S,4,1610612753,ORL,1629643,Okeke,C. Okeke,225,-6,0,Made,1,89,88,177,v,Okeke 3PT Jump Shot (15 PTS) (Anthony 5 AST),Made Shot,Jump Shot,1,3,404
+22300557,568,PT04M10.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,89,88,177,v,Suggs P.FOUL (P2.T3) (M.Ervin),Foul,Personal,1,0,405
+22300557,570,PT04M02.00S,4,1610612752,NYK,1630540,McBride,M. McBride,183,174,25,Missed,1,89,88,177,h,MISS McBride 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,406
+22300557,571,PT03M59.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,89,88,177,h,DiVincenzo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,407
+22300557,572,PT03M55.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,-5,6,1,Missed,1,89,88,177,h,MISS Hartenstein 1' Layup,Missed Shot,Layup Shot,1,2,408
+22300557,573,PT03M52.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,89,88,177,v,Bitadze REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,409
+22300557,574,PT03M46.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,-232,25,0,Missed,1,89,88,177,v,MISS Suggs 3PT Jump Shot,Missed Shot,Jump Shot,1,3,410
+22300557,575,PT03M42.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,89,88,177,v,Anthony REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,411
+22300557,576,PT03M42.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,Made,1,89,90,179,v,Anthony Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,1,2,412
+22300557,577,PT03M23.00S,4,1610612752,NYK,1630540,McBride,M. McBride,4,26,3,Missed,1,89,90,179,h,MISS McBride 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,413
+22300557,578,PT03M22.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,89,90,179,v,Bitadze REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,414
+22300557,579,PT03M16.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,18,32,4,Missed,1,89,90,179,v,MISS Anthony 4' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,415
+22300557,580,PT03M14.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,89,90,179,v,Bitadze REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,416
+22300557,581,PT02M58.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,222,-27,0,Missed,1,89,90,179,v,MISS Anthony 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,417
+22300557,582,PT02M55.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,89,90,179,h,DiVincenzo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,418
+22300557,583,PT02M37.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,89,90,179,v,Suggs S.FOUL (P3.T4) (S.Corbin),Foul,Shooting,1,0,419
+22300557,587,PT02M37.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,89,90,179,v,SUB: Fultz FOR Suggs,Substitution,,0,0,420
+22300557,585,PT02M37.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,89,90,179,h,MISS Randle Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,421
+22300557,586,PT02M37.00S,4,0,,1610612752,,,0,0,0,,0,89,90,179,h,KNICKS Rebound,Rebound,Normal Rebound,1,0,422
+22300557,589,PT02M37.00S,4,1610612752,NYK,203944,Randle,J. Randle,0,0,0,,0,89,90,179,h,MISS Randle Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,423
+22300557,590,PT02M34.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,89,90,179,v,Fultz REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,424
+22300557,591,PT02M22.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,44,63,8,Missed,1,89,90,179,v,MISS Banchero 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,425
+22300557,592,PT02M18.00S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,89,90,179,v,Anthony REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,426
+22300557,593,PT02M16.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,5,-1,1,Missed,1,89,90,179,v,MISS Fultz 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,427
+22300557,594,PT02M14.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,89,90,179,v,Fultz REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,428
+22300557,595,PT02M11.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,100,122,16,Made,1,89,92,181,v,Banchero 16' Pullup Jump Shot (17 PTS) (Fultz 5 AST),Made Shot,Pullup Jump shot,1,2,429
+22300557,597,PT01M44.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,233,25,0,Missed,1,89,92,181,h,MISS Anunoby 3PT Jump Shot,Missed Shot,Jump Shot,1,3,430
+22300557,598,PT01M42.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,89,92,181,v,Fultz REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,431
+22300557,599,PT01M37.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,-50,138,15,Made,1,89,94,183,v,Banchero 15' Running Pull-Up Jump Shot (19 PTS) (Fultz 6 AST),Made Shot,Running Pull-Up Jump Shot,1,2,432
+22300557,602,PT01M30.00S,4,1610612752,NYK,1630540,McBride,M. McBride,-28,19,3,Made,1,91,94,185,h,McBride 3' Driving Finger Roll Layup (20 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,433
+22300557,603,PT01M30.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,91,94,185,v,Bitadze Violation:Defensive Goaltending (M.Ervin),Violation,Defensive Goaltending,1,0,434
+22300557,604,PT01M30.00S,4,0,,603,,,0,0,0,,0,91,94,185,,Instant Replay4th Period (5:21 PM EST),Instant Replay,Support Ruling,0,0,435
+22300557,605,PT01M14.00S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,91,94,185,h,Hartenstein S.FOUL (P5.T1) (M.Ervin),Foul,Shooting,1,0,436
+22300557,607,PT01M14.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,91,94,185,v,MISS Bitadze Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,437
+22300557,608,PT01M14.00S,4,0,,1610612753,,,0,0,0,,0,91,94,185,v,Magic Rebound,Rebound,Normal Rebound,1,0,438
+22300557,609,PT01M14.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,91,95,186,v,Bitadze Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,439
+22300557,610,PT01M05.00S,4,1610612753,ORL,1628365,Fultz,M. Fultz,0,0,0,,0,91,95,186,v,Fultz S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,1,0,440
+22300557,614,PT01M05.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,91,95,186,v,SUB: Carter Jr. FOR Bitadze,Substitution,,0,0,441
+22300557,612,PT01M05.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,91,95,186,h,MISS DiVincenzo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,442
+22300557,613,PT01M05.00S,4,0,,1610612752,,,0,0,0,,0,91,95,186,h,KNICKS Rebound,Rebound,Normal Rebound,0,0,443
+22300557,616,PT01M05.00S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,92,95,187,h,DiVincenzo Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,444
+22300557,617,PT00M44.10S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-37,85,9,Made,1,92,97,189,v,Carter Jr. 9' Turnaround Hook Shot (17 PTS) (Fultz 7 AST),Made Shot,Turnaround Hook Shot,1,2,445
+22300557,619,PT00M29.60S,4,1610612752,NYK,203944,Randle,J. Randle,89,237,25,Missed,1,92,97,189,h,MISS Randle 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,446
+22300557,620,PT00M25.60S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,92,97,189,h,Hartenstein REBOUND (Off:5 Def:6),Rebound,Unknown,1,0,447
+22300557,621,PT00M24.10S,4,0,,1610612752,,,0,0,0,,0,92,97,189,h,KNICKS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,448
+22300557,622,PT00M24.10S,4,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,92,97,189,v,SUB: Isaac FOR Anthony,Substitution,,0,0,449
+22300557,624,PT00M20.80S,4,1610612752,NYK,203944,Randle,J. Randle,1,10,1,Made,1,94,97,191,h,Randle 1' Driving Layup (15 PTS) (DiVincenzo 4 AST),Made Shot,Driving Layup Shot,1,2,450
+22300557,626,PT00M16.20S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,94,97,191,h,McBride Personal Take Foul (P4.PN) (M.Ervin),Foul,Personal Take,1,0,451
+22300557,628,PT00M16.20S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,94,98,192,v,Banchero Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,452
+22300557,629,PT00M16.20S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,94,98,192,v,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,453
+22300557,630,PT00M13.20S,4,1610612752,NYK,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,94,98,192,h,Hartenstein REBOUND (Off:5 Def:7),Rebound,Unknown,1,0,454
+22300557,631,PT00M08.00S,4,1610612752,NYK,1630540,McBride,M. McBride,-126,220,25,Missed,1,94,98,192,h,MISS McBride 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,455
+22300557,632,PT00M01.10S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,0,0,0,,0,94,98,192,h,DiVincenzo REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,456
+22300557,633,PT00M01.10S,4,1610612752,NYK,1628978,DiVincenzo,D. DiVincenzo,170,195,26,Missed,1,94,98,192,h,MISS DiVincenzo 26' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,457
+22300557,634,PT00M00.10S,4,0,,1610612752,,,0,0,0,,0,94,98,192,h,KNICKS Rebound,Rebound,Unknown,1,0,458
+22300557,635,PT00M00.00S,4,0,,0,,,0,0,0,,0,94,98,192,,End of 4th Period (5:29 PM EST),period,end,1,0,459

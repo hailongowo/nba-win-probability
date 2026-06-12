@@ -1,0 +1,465 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22200991,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:11 PM EST),period,start,0,0,1
+22200991,4,PT12M00.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,0,0,0,h,Jump Ball Zubac vs. Poeltl: Tip to VanVleet,Jump Ball,,1,0,2
+22200991,7,PT11M41.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,-27,44,5,Made,1,0,2,2,v,Barnes 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,3
+22200991,8,PT11M15.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-1,5,1,Made,1,2,2,4,h,Leonard 1' Driving Dunk (2 PTS) (Zubac 1 AST),Made Shot,Driving Dunk Shot,1,2,4
+22200991,11,PT10M49.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,-114,137,18,Missed,1,2,2,4,v,MISS Barnes 18' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,5
+22200991,12,PT10M46.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,2,2,4,h,Zubac REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+22200991,13,PT10M37.00S,1,1610612746,LAC,202331,George,P. George,0,0,0,,0,2,2,4,h,George Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,7
+22200991,13,PT10M37.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,2,2,4,v,VanVleet STEAL (1 STL),,,1,0,8
+22200991,15,PT10M33.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,2,0,Made,1,2,4,6,v,Siakam Running Dunk (2 PTS) (VanVleet 1 AST),Made Shot,Running Dunk Shot,1,2,9
+22200991,17,PT10M19.00S,1,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,2,4,6,h,Westbrook Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,10
+22200991,17,PT10M19.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,2,4,6,v,VanVleet STEAL (2 STL),,,1,0,11
+22200991,19,PT10M11.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,110,116,16,Missed,1,2,4,6,v,MISS Siakam 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,12
+22200991,20,PT10M08.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,2,4,6,h,Zubac REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,13
+22200991,22,PT09M46.00S,1,1610612746,LAC,201566,Westbrook,R. Westbrook,-235,14,24,Missed,1,2,4,6,h,MISS Westbrook 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+22200991,23,PT09M44.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,2,4,6,v,VanVleet REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+22200991,24,PT09M30.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,-5,59,6,Made,1,2,6,8,v,Siakam 6' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,2,16
+22200991,25,PT09M10.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-31,22,4,Missed,1,2,6,8,h,MISS Leonard 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,17
+22200991,26,PT09M09.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,2,6,8,v,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,18
+22200991,27,PT09M05.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,-173,186,25,Missed,1,2,6,8,v,MISS VanVleet 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+22200991,28,PT09M02.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,2,6,8,v,Siakam REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,20
+22200991,29,PT09M02.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,Missed,1,2,6,8,v,MISS Siakam Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,21
+22200991,29,PT09M02.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,2,6,8,h,Zubac BLOCK (1 BLK),,,1,2,22
+22200991,31,PT09M02.00S,1,0,,1610612746,,,0,0,0,,0,2,6,8,h,CLIPPERS Rebound,Rebound,Unknown,0,0,23
+22200991,33,PT08M43.00S,1,1610612746,LAC,201566,Westbrook,R. Westbrook,-227,26,0,Missed,1,2,6,8,h,MISS Westbrook 3PT Jump Shot,Missed Shot,Jump Shot,1,3,24
+22200991,34,PT08M39.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,2,6,8,v,Poeltl REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+22200991,35,PT08M28.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,-83,247,26,Missed,1,2,6,8,v,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,26
+22200991,36,PT08M27.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,2,6,8,h,Zubac REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,27
+22200991,37,PT08M06.00S,1,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,26,16,3,Made,1,4,6,10,h,Morris Sr. 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,28
+22200991,38,PT07M45.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,9,92,9,Missed,1,4,6,10,v,MISS Poeltl 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,29
+22200991,39,PT07M42.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,4,6,10,v,Barnes REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,30
+22200991,40,PT07M42.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,Missed,1,4,6,10,v,MISS Barnes Tip Dunk Shot,Missed Shot,Tip Dunk Shot,1,2,31
+22200991,41,PT07M42.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,4,6,10,v,Poeltl REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,32
+22200991,42,PT07M39.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,2,58,6,Made,1,4,8,12,v,Poeltl 6' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,33
+22200991,43,PT07M28.00S,1,1610612746,LAC,202331,George,P. George,0,0,0,,0,4,8,12,h,George Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,34
+22200991,44,PT07M10.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,-230,32,0,Made,1,4,11,15,v,VanVleet 3PT Jump Shot (3 PTS) (Poeltl 1 AST),Made Shot,Jump Shot,1,3,35
+22200991,46,PT07M09.00S,1,0,,1610612746,,,0,0,0,,0,4,11,15,h,CLIPPERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,36
+22200991,47,PT07M04.00S,1,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,4,11,15,h,Westbrook Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,37
+22200991,47,PT07M04.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,4,11,15,v,VanVleet STEAL (3 STL),,,1,0,38
+22200991,49,PT06M48.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,39,118,12,Missed,1,4,11,15,v,MISS Siakam 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,39
+22200991,50,PT06M46.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,4,11,15,h,Leonard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,40
+22200991,51,PT06M32.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-10,101,10,Made,1,6,11,17,h,Leonard 10' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,41
+22200991,52,PT06M15.00S,1,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,6,11,17,h,Westbrook P.FOUL (P1.T1) (D.Richardson),Foul,Personal,1,0,42
+22200991,54,PT06M15.00S,1,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,6,11,17,h,SUB: Gordon FOR Westbrook,Substitution,,0,0,43
+22200991,56,PT06M03.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,-58,74,9,Missed,1,6,11,17,v,MISS Poeltl 9' Hook Shot,Missed Shot,Hook Shot,1,2,44
+22200991,57,PT06M01.00S,1,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,6,11,17,h,Morris Sr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,45
+22200991,58,PT05M56.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,6,11,17,h,Leonard Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,46
+22200991,58,PT05M56.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,6,11,17,v,Anunoby STEAL (1 STL),,,1,0,47
+22200991,60,PT05M46.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,-78,31,8,Missed,1,6,11,17,v,MISS VanVleet 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,48
+22200991,61,PT05M44.00S,1,1610612746,LAC,201569,Gordon,E. Gordon,0,0,0,,0,6,11,17,h,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+22200991,62,PT05M34.00S,1,1610612746,LAC,202331,George,P. George,86,56,10,Missed,1,6,11,17,h,MISS George 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,50
+22200991,63,PT05M31.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,6,11,17,v,VanVleet REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,51
+22200991,64,PT05M22.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,6,11,17,v,Barnes Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,52
+22200991,65,PT05M09.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,4,0,Made,1,8,11,19,h,Zubac Dunk (2 PTS) (Leonard 1 AST),Made Shot,Dunk Shot,1,2,53
+22200991,67,PT04M54.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,-137,227,27,Missed,1,8,11,19,v,MISS VanVleet 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,54
+22200991,68,PT04M51.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,8,11,19,h,Leonard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,55
+22200991,69,PT04M44.00S,1,1610612746,LAC,201569,Gordon,E. Gordon,0,0,0,,0,8,11,19,h,Gordon Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,56
+22200991,69,PT04M44.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,8,11,19,v,Siakam STEAL (1 STL),,,1,0,57
+22200991,71,PT04M40.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,10,7,1,Made,1,8,13,21,v,Barnes 1' Running Layup (4 PTS) (Siakam 1 AST),Made Shot,Running Layup Shot,1,2,58
+22200991,73,PT04M39.00S,1,0,,1610612746,,,0,0,0,,0,8,13,21,h,CLIPPERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,59
+22200991,74,PT04M39.00S,1,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,8,13,21,h,SUB: Plumlee FOR Zubac,Substitution,,0,0,60
+22200991,75,PT04M39.00S,1,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,8,13,21,v,SUB: Achiuwa FOR Poeltl,Substitution,,0,0,61
+22200991,76,PT04M39.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,8,13,21,v,SUB: Trent Jr. FOR Siakam,Substitution,,0,0,62
+22200991,80,PT04M25.00S,1,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,20,30,4,Missed,1,8,13,21,h,MISS Morris Sr. 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,63
+22200991,81,PT04M25.00S,1,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,8,13,21,h,Plumlee REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,64
+22200991,82,PT04M25.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,8,13,21,v,Achiuwa S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,1,0,65
+22200991,84,PT04M25.00S,1,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,9,13,22,h,Plumlee Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,66
+22200991,85,PT04M25.00S,1,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,9,13,22,h,SUB: Batum FOR Morris Sr.,Substitution,,0,0,67
+22200991,86,PT04M25.00S,1,1610612746,LAC,202331,George,P. George,0,0,0,,0,9,13,22,h,SUB: Mann FOR George,Substitution,,0,0,68
+22200991,89,PT04M25.00S,1,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,9,13,22,h,MISS Plumlee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,69
+22200991,90,PT04M22.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,9,13,22,v,Achiuwa REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,70
+22200991,91,PT04M10.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,9,13,22,v,Achiuwa Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,71
+22200991,91,PT04M10.00S,1,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,9,13,22,h,Plumlee STEAL (1 STL),,,1,0,72
+22200991,93,PT04M03.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,9,13,22,v,VanVleet P.FOUL (P1.T2) (D.Richardson),Foul,Personal,1,0,73
+22200991,95,PT04M03.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,9,13,22,v,SUB: Boucher FOR Barnes,Substitution,,0,0,74
+22200991,97,PT03M47.00S,1,1610612746,LAC,1629611,Mann,T. Mann,123,243,27,Missed,1,9,13,22,h,MISS Mann 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,75
+22200991,98,PT03M45.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,9,13,22,v,Achiuwa REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,76
+22200991,99,PT03M37.00S,1,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,9,13,22,h,Plumlee S.FOUL (P1.T2) (D.Richardson),Foul,Shooting,1,0,77
+22200991,101,PT03M37.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,9,14,23,v,Boucher Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,78
+22200991,102,PT03M37.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,9,15,24,v,Boucher Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,79
+22200991,103,PT03M15.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-11,11,2,Made,1,11,15,26,h,Leonard 2' Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,1,2,80
+22200991,104,PT02M49.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,2,94,9,Missed,1,11,15,26,v,MISS Achiuwa 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,81
+22200991,105,PT02M49.00S,1,0,,1610612746,,,0,0,0,,0,11,15,26,h,CLIPPERS Rebound,Rebound,Unknown,0,0,82
+22200991,107,PT02M37.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,-58,116,13,Missed,1,11,15,26,h,MISS Leonard 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,83
+22200991,108,PT02M34.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,11,15,26,v,Boucher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+22200991,109,PT02M19.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,-227,34,0,Made,1,11,18,29,v,Boucher 3PT Jump Shot (5 PTS) (VanVleet 2 AST),Made Shot,Jump Shot,1,3,85
+22200991,111,PT02M05.00S,1,1610612746,LAC,201569,Gordon,E. Gordon,0,0,0,,0,11,18,29,h,Gordon Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,86
+22200991,111,PT02M05.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,11,18,29,v,Anunoby STEAL (2 STL),,,1,0,87
+22200991,113,PT02M02.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,4,0,0,Made,1,11,20,31,v,Anunoby Running Reverse Dunk Shot (2 PTS) (Trent Jr. 1 AST),Made Shot,Running Reverse Dunk Shot,1,2,88
+22200991,115,PT01M49.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,11,20,31,v,Achiuwa S.FOUL (P2.T3) (D.Richardson),Foul,Shooting,1,0,89
+22200991,117,PT01M49.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,12,20,32,h,Leonard Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,90
+22200991,118,PT01M49.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,13,20,33,h,Leonard Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,91
+22200991,119,PT01M38.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,121,243,27,Made,1,13,23,36,v,Anunoby 27' 3PT Pullup Jump Shot (5 PTS) (VanVleet 3 AST),Made Shot,Pullup Jump shot,1,3,92
+22200991,121,PT01M25.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,13,23,36,v,Achiuwa P.FOUL (P3.PN) (B.Taylor),Foul,Personal,1,0,93
+22200991,123,PT01M25.00S,1,1610612746,LAC,201569,Gordon,E. Gordon,0,0,0,,0,14,23,37,h,Gordon Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,94
+22200991,124,PT01M25.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,14,23,37,v,SUB: Young FOR Achiuwa,Substitution,,0,0,95
+22200991,126,PT01M25.00S,1,1610612746,LAC,201569,Gordon,E. Gordon,0,0,0,,0,14,23,37,h,MISS Gordon Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,96
+22200991,127,PT01M23.00S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,14,23,37,v,Boucher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,97
+22200991,128,PT01M09.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,121,125,17,Missed,1,14,23,37,v,MISS Trent Jr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,98
+22200991,129,PT01M08.00S,1,0,,1610612746,,,0,0,0,,0,14,23,37,h,CLIPPERS Rebound,Rebound,Unknown,0,0,99
+22200991,131,PT00M54.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,14,23,37,v,VanVleet P.FOUL (P2.PN) (B.Taylor),Foul,Personal,1,0,100
+22200991,133,PT00M54.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,15,23,38,h,Leonard Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,101
+22200991,134,PT00M54.00S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,15,23,38,h,MISS Leonard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,102
+22200991,135,PT00M52.50S,1,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,15,23,38,v,Boucher REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,103
+22200991,136,PT00M35.50S,1,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,15,23,38,h,Batum S.FOUL (P1.T3) (D.Richardson),Foul,Shooting,1,0,104
+22200991,138,PT00M35.50S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,15,24,39,v,VanVleet Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,105
+22200991,139,PT00M35.50S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,15,25,40,v,VanVleet Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,106
+22200991,140,PT00M23.50S,1,1610612746,LAC,203486,Plumlee,M. Plumlee,-2,4,0,Made,1,17,25,42,h,Plumlee Cutting Dunk Shot (3 PTS) (Gordon 1 AST),Made Shot,Cutting Dunk Shot,1,2,107
+22200991,142,PT00M02.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,127,239,27,Missed,1,17,25,42,v,MISS Trent Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+22200991,143,PT00M00.10S,1,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,17,25,42,h,Leonard REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,109
+22200991,144,PT00M00.00S,1,0,,0,,,0,0,0,,0,17,25,42,,End of 1st Period (10:37 PM EST),period,end,1,0,110
+22200991,151,PT12M00.00S,2,0,,0,,,0,0,0,,0,17,25,42,,Start of 2nd Period (10:41 PM EST),period,start,0,0,111
+22200991,152,PT11M40.00S,2,1610612746,LAC,1629611,Mann,T. Mann,-7,5,1,Made,1,19,25,44,h,Mann 1' Cutting Layup Shot (2 PTS) (Westbrook 1 AST),Made Shot,Cutting Layup Shot,1,2,112
+22200991,154,PT11M26.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,29,68,7,Missed,1,19,25,44,v,MISS Trent Jr. 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,113
+22200991,155,PT11M22.00S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,19,25,44,h,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+22200991,156,PT11M16.00S,2,1610612746,LAC,201566,Westbrook,R. Westbrook,16,19,2,Made,1,21,25,46,h,Westbrook 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,115
+22200991,157,PT10M58.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,-54,83,10,Missed,1,21,25,46,v,MISS Siakam 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,116
+22200991,158,PT10M56.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,21,25,46,v,Boucher REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,117
+22200991,215,PT10M56.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,2,16,2,Missed,1,21,25,46,v,MISS Boucher 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,118
+22200991,216,PT10M54.00S,2,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,21,25,46,h,Plumlee REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,119
+22200991,159,PT10M48.00S,2,1610612746,LAC,201587,Batum,N. Batum,-102,250,27,Missed,1,21,25,46,h,MISS Batum 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,120
+22200991,160,PT10M48.00S,2,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,21,25,46,h,Mann REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,121
+22200991,161,PT10M44.00S,2,1610612746,LAC,201569,Gordon,E. Gordon,125,240,27,Made,1,24,25,49,h,Gordon 27' 3PT Jump Shot (4 PTS) (Mann 1 AST),Made Shot,Jump Shot,1,3,122
+22200991,163,PT10M17.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,-28,28,4,Made,1,24,27,51,v,Boucher 4' Layup (7 PTS) (Barnes 1 AST),Made Shot,Layup Shot,1,2,123
+22200991,165,PT10M02.00S,2,1610612746,LAC,201569,Gordon,E. Gordon,-102,250,27,Missed,1,24,27,51,h,MISS Gordon 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,124
+22200991,166,PT09M59.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,24,27,51,v,Boucher REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,125
+22200991,167,PT09M50.00S,2,1610612761,TOR,201152,Young,T. Young,15,79,8,Missed,1,24,27,51,v,MISS Young 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,126
+22200991,168,PT09M46.00S,2,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,24,27,51,v,Young REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,127
+22200991,169,PT09M45.00S,2,1610612761,TOR,201152,Young,T. Young,6,48,5,Missed,1,24,27,51,v,MISS Young 5' Putback Layup,Missed Shot,Putback Layup Shot,1,2,128
+22200991,170,PT09M43.00S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,24,27,51,h,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,129
+22200991,171,PT09M38.00S,2,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,24,27,51,h,Plumlee Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,130
+22200991,171,PT09M38.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,24,27,51,v,Trent Jr. STEAL (1 STL),,,1,0,131
+22200991,173,PT09M34.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,31,3,Missed,1,24,27,51,v,MISS Trent Jr. 3' Running Layup,Missed Shot,Running Layup Shot,1,2,132
+22200991,173,PT09M34.00S,2,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,24,27,51,h,Westbrook BLOCK (1 BLK),,,1,2,133
+22200991,175,PT09M28.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,24,27,51,v,Boucher REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,134
+22200991,176,PT09M28.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,Made,1,24,29,53,v,Boucher Putback Dunk (9 PTS),Made Shot,Putback Dunk Shot,1,2,135
+22200991,177,PT09M23.00S,2,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,24,29,53,v,Young P.FOUL (P1.T1) (B.Taylor),Foul,Personal,1,0,136
+22200991,179,PT09M23.00S,2,1610612746,LAC,201569,Gordon,E. Gordon,0,0,0,,0,24,29,53,h,SUB: George FOR Gordon,Substitution,,0,0,137
+22200991,181,PT09M20.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,24,29,53,v,Siakam S.FOUL (P1.T2) (T.Maddox),Foul,Shooting,1,0,138
+22200991,183,PT09M20.00S,2,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,24,29,53,h,MISS Plumlee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,139
+22200991,184,PT09M20.00S,2,0,,1610612746,,,0,0,0,,0,24,29,53,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0,140
+22200991,185,PT09M20.00S,2,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,25,29,54,h,Plumlee Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,141
+22200991,186,PT08M56.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,20,88,9,Missed,1,25,29,54,v,MISS Siakam 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,142
+22200991,187,PT08M55.00S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,25,29,54,h,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,143
+22200991,188,PT08M49.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,25,29,54,v,Trent Jr. P.FOUL (P1.T3) (T.Maddox),Foul,Personal,1,0,144
+22200991,190,PT08M40.00S,2,1610612746,LAC,202331,George,P. George,-1,106,11,Missed,1,25,29,54,h,MISS George 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,145
+22200991,191,PT08M38.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,25,29,54,v,Siakam REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,146
+22200991,192,PT08M34.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,25,29,54,v,Siakam Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,147
+22200991,192,PT08M34.00S,2,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,25,29,54,h,Mann STEAL (1 STL),,,1,0,148
+22200991,194,PT08M30.00S,2,1610612746,LAC,202331,George,P. George,-4,11,1,Made,1,27,29,56,h,George 1' Running Dunk (2 PTS) (Mann 2 AST),Made Shot,Running Dunk Shot,1,2,149
+22200991,196,PT08M08.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,-18,75,8,Missed,1,27,29,56,v,MISS Barnes 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,150
+22200991,197,PT08M08.00S,2,0,,1610612761,,,0,0,0,,0,27,29,56,v,Raptors Rebound,Rebound,Unknown,0,0,151
+22200991,198,PT08M08.00S,2,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,27,29,56,h,Mann L.B.FOUL (P1.T1) (T.Maddox),Foul,Loose Ball,1,0,152
+22200991,200,PT08M08.00S,2,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,27,29,56,h,SUB: Morris Sr. FOR Batum,Substitution,,0,0,153
+22200991,201,PT08M08.00S,2,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,27,29,56,v,SUB: Poeltl FOR Young,Substitution,,0,0,154
+22200991,204,PT07M59.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-230,36,0,Missed,1,27,29,56,v,MISS Trent Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,155
+22200991,205,PT07M57.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,27,29,56,v,Poeltl REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,156
+22200991,206,PT07M57.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,16,17,2,Missed,1,27,29,56,v,MISS Poeltl 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,157
+22200991,207,PT07M57.00S,2,0,,1610612746,,,0,0,0,,0,27,29,56,h,CLIPPERS Rebound,Rebound,Unknown,0,0,158
+22200991,209,PT07M51.00S,2,1610612746,LAC,201566,Westbrook,R. Westbrook,1,37,4,Missed,1,27,29,56,h,MISS Westbrook 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,159
+22200991,209,PT07M51.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,27,29,56,v,Poeltl BLOCK (1 BLK),,,1,2,160
+22200991,211,PT07M51.00S,2,0,,1610612761,,,0,0,0,,0,27,29,56,v,Raptors Rebound,Rebound,Unknown,0,0,161
+22200991,213,PT07M51.00S,2,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,27,29,56,h,SUB: Leonard FOR Plumlee,Substitution,,0,0,162
+22200991,217,PT07M32.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,54,120,13,Missed,1,27,29,56,v,MISS Trent Jr. 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,163
+22200991,218,PT07M29.00S,2,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,27,29,56,h,Westbrook REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,164
+22200991,219,PT07M25.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,27,29,56,h,Leonard Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,1,0,165
+22200991,220,PT07M25.00S,2,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,27,29,56,v,SUB: Anunoby FOR Boucher,Substitution,,0,0,166
+22200991,222,PT07M17.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,-29,20,4,Made,1,27,31,58,v,Siakam 4' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,167
+22200991,223,PT06M52.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,27,31,58,v,Barnes S.FOUL (P1.T4) (D.Richardson),Foul,Shooting,1,0,168
+22200991,225,PT06M52.00S,2,0,,1610612746,,,0,0,0,,0,27,31,58,h,CLIPPERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,169
+22200991,226,PT06M52.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,27,31,58,v,SUB: VanVleet FOR Barnes,Substitution,,0,0,170
+22200991,228,PT06M52.00S,2,1610612746,LAC,202331,George,P. George,0,0,0,,0,28,31,59,h,George Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,171
+22200991,229,PT06M52.00S,2,1610612746,LAC,202331,George,P. George,0,0,0,,0,29,31,60,h,George Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,172
+22200991,230,PT06M37.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,29,31,60,v,Poeltl Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,173
+22200991,230,PT06M37.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,29,31,60,h,Leonard STEAL (1 STL),,,1,0,174
+22200991,232,PT06M30.00S,2,1610612746,LAC,1629611,Mann,T. Mann,9,24,3,Made,1,31,31,62,h,Mann 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,175
+22200991,234,PT06M13.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,31,31,62,h,Leonard P.FOUL (P1.T2) (B.Taylor),Foul,Personal,1,0,176
+22200991,236,PT06M02.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,-208,160,26,Made,1,31,34,65,v,Siakam 26' 3PT Jump Shot (9 PTS) (VanVleet 4 AST),Made Shot,Jump Shot,1,3,177
+22200991,238,PT05M38.00S,2,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,-32,101,11,Made,1,33,34,67,h,Morris Sr. 11' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,178
+22200991,239,PT05M19.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,61,90,11,Made,1,33,36,69,v,Siakam 11' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,2,179
+22200991,240,PT04M54.00S,2,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,-232,53,24,Missed,1,33,36,69,h,MISS Morris Sr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+22200991,241,PT04M52.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,33,36,69,v,Anunoby REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,181
+22200991,242,PT04M35.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,6,18,2,Made,1,33,38,71,v,Poeltl 2' Cutting Layup Shot (4 PTS) (Siakam 2 AST),Made Shot,Cutting Layup Shot,1,2,182
+22200991,244,PT04M20.00S,2,1610612746,LAC,202331,George,P. George,25,26,4,Missed,1,33,38,71,h,MISS George 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,183
+22200991,245,PT04M18.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,33,38,71,v,VanVleet REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,184
+22200991,246,PT04M10.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,229,42,0,Missed,1,33,38,71,v,MISS Anunoby 3PT Jump Shot,Missed Shot,Jump Shot,1,3,185
+22200991,247,PT04M07.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,33,38,71,h,Leonard REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,186
+22200991,248,PT04M04.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,18,55,6,Made,1,35,38,73,h,Leonard 6' Running Pull-Up Jump Shot (11 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,187
+22200991,249,PT04M04.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,35,38,73,v,VanVleet S.FOUL (P3.PN) (T.Maddox),Foul,Shooting,1,0,188
+22200991,251,PT04M04.00S,2,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,35,38,73,h,SUB: Zubac FOR Mann,Substitution,,0,0,189
+22200991,252,PT04M04.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,35,38,73,v,SUB: Barnes FOR Trent Jr.,Substitution,,0,0,190
+22200991,255,PT04M04.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,36,38,74,h,Leonard Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,1,0,191
+22200991,256,PT03M51.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,238,29,24,Made,1,36,41,77,v,Barnes 24' 3PT Jump Shot (7 PTS) (VanVleet 5 AST),Made Shot,Jump Shot,1,3,192
+22200991,258,PT03M32.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,-2,55,6,Made,1,38,41,79,h,Zubac 6' Turnaround Hook Shot (4 PTS) (Westbrook 2 AST),Made Shot,Turnaround Hook Shot,1,2,193
+22200991,260,PT03M16.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,38,41,79,v,Anunoby Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,1,0,194
+22200991,261,PT03M06.00S,2,1610612746,LAC,202331,George,P. George,-161,204,26,Made,1,41,41,82,h,George 26' 3PT Jump Shot (7 PTS) (Westbrook 3 AST),Made Shot,Jump Shot,1,3,195
+22200991,263,PT03M05.00S,2,0,,1610612761,,,0,0,0,,0,41,41,82,v,Raptors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,196
+22200991,264,PT02M51.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,22,32,4,Missed,1,41,41,82,v,MISS Anunoby 4' Layup,Missed Shot,Layup Shot,1,2,197
+22200991,264,PT02M51.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,41,41,82,h,Zubac BLOCK (2 BLK),,,1,2,198
+22200991,266,PT02M48.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,41,41,82,h,Leonard REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,199
+22200991,267,PT02M42.00S,2,1610612746,LAC,202331,George,P. George,49,264,27,Missed,1,41,41,82,h,MISS George 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,200
+22200991,268,PT02M39.00S,2,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,41,41,82,v,Poeltl REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,201
+22200991,269,PT02M29.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,55,69,9,Missed,1,41,41,82,v,MISS Barnes 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,202
+22200991,270,PT02M26.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,41,41,82,h,Zubac REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,203
+22200991,271,PT02M10.00S,2,1610612746,LAC,202695,Leonard,K. Leonard,-2,11,1,Made,1,43,41,84,h,Leonard 1' Driving Dunk (14 PTS),Made Shot,Driving Dunk Shot,1,2,204
+22200991,272,PT01M56.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,159,206,26,Made,1,43,44,87,v,VanVleet 26' 3PT Pullup Jump Shot (8 PTS) (Poeltl 2 AST),Made Shot,Pullup Jump shot,1,3,205
+22200991,274,PT01M43.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,-6,9,1,Made,1,45,44,89,h,Zubac 1' Cutting Dunk Shot (6 PTS) (Leonard 2 AST),Made Shot,Cutting Dunk Shot,1,2,206
+22200991,276,PT01M27.00S,2,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,45,44,89,h,Westbrook P.FOUL (P2.T3) (D.Richardson),Foul,Personal,1,0,207
+22200991,278,PT01M27.00S,2,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,45,44,89,h,SUB: Gordon FOR Westbrook,Substitution,,0,0,208
+22200991,280,PT01M15.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,-146,254,29,Made,1,45,47,92,v,VanVleet 29' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,3,209
+22200991,281,PT01M05.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,45,47,92,v,Siakam S.FOUL (P2.PN) (D.Richardson),Foul,Shooting,1,0,210
+22200991,283,PT01M05.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,45,47,92,h,MISS Zubac Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,211
+22200991,284,PT01M05.00S,2,0,,1610612746,,,0,0,0,,0,45,47,92,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0,212
+22200991,285,PT01M05.00S,2,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,46,47,93,h,Zubac Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,213
+22200991,286,PT00M48.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,86,151,17,Made,1,46,49,95,v,Anunoby 17' Step Back Jump Shot (7 PTS) (Siakam 3 AST),Made Shot,Step Back Jump shot,1,2,214
+22200991,287,PT00M36.30S,2,1610612746,LAC,202331,George,P. George,0,0,0,,0,46,49,95,h,George Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,215
+22200991,287,PT00M36.30S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,46,49,95,v,Siakam STEAL (2 STL),,,1,0,216
+22200991,289,PT00M30.50S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,-131,254,29,Missed,1,46,49,95,v,MISS VanVleet 29' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,217
+22200991,290,PT00M27.50S,2,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,46,49,95,h,Morris Sr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,218
+22200991,291,PT00M22.90S,2,1610612746,LAC,202695,Leonard,K. Leonard,-232,29,0,Made,1,49,49,98,h,Leonard 3PT Running Jump Shot (17 PTS) (George 1 AST),Made Shot,Running Jump Shot,1,3,219
+22200991,294,PT00M03.50S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,49,49,98,v,Siakam Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,220
+22200991,294,PT00M03.50S,2,1610612746,LAC,202331,George,P. George,0,0,0,,0,49,49,98,h,George STEAL (1 STL),,,1,0,221
+22200991,297,PT00M03.50S,2,0,,0,,,0,0,0,,0,49,49,98,,Instant Replay2nd Period (11:07 PM EST),Instant Replay,Support Ruling,0,0,222
+22200991,296,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,49,98,,End of 2nd Period (11:07 PM EST),period,end,1,0,223
+22200991,300,PT12M00.00S,3,0,,0,,,0,0,0,,0,49,49,98,,Start of 3rd Period (11:23 PM EST),period,start,0,0,224
+22200991,301,PT11M48.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,49,49,98,v,Anunoby P.FOUL (P1.T1) (D.Richardson),Foul,Personal,1,0,225
+22200991,303,PT11M40.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,10,10,1,Made,1,51,49,100,h,Zubac 1' Cutting Dunk Shot (9 PTS) (Westbrook 4 AST),Made Shot,Cutting Dunk Shot,1,2,226
+22200991,305,PT11M21.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,51,49,100,h,Zubac S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,1,0,227
+22200991,307,PT11M21.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,51,50,101,v,Barnes Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,228
+22200991,308,PT11M21.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,51,51,102,v,Barnes Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,229
+22200991,310,PT11M07.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,37,22,4,Made,1,53,51,104,h,Westbrook 4' Driving Layup (4 PTS) (Leonard 3 AST),Made Shot,Driving Layup Shot,1,2,230
+22200991,312,PT10M55.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,18,156,16,Made,1,53,53,106,v,VanVleet 16' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,231
+22200991,313,PT10M42.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,53,53,106,v,Barnes S.FOUL (P2.T2) (D.Richardson),Foul,Shooting,1,0,232
+22200991,315,PT10M42.00S,3,1610612746,LAC,202331,George,P. George,0,0,0,,0,54,53,107,h,George Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,233
+22200991,316,PT10M42.00S,3,1610612746,LAC,202331,George,P. George,0,0,0,,0,55,53,108,h,George Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,234
+22200991,317,PT10M25.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,55,53,108,v,Barnes Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,235
+22200991,317,PT10M25.00S,3,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,55,53,108,h,Morris Sr. STEAL (1 STL),,,1,0,236
+22200991,319,PT10M17.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,-26,64,7,Missed,1,55,53,108,h,MISS Zubac 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,237
+22200991,320,PT10M16.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,55,53,108,h,Westbrook REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,238
+22200991,321,PT10M16.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,55,53,108,v,Siakam P.FOUL (P3.T3) (T.Maddox),Foul,Personal,1,0,239
+22200991,323,PT10M03.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,-130,228,26,Made,1,58,53,111,h,Westbrook 26' 3PT Jump Shot (7 PTS) (George 2 AST),Made Shot,Jump Shot,1,3,240
+22200991,325,PT09M49.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,12,99,10,Made,1,58,55,113,v,Poeltl 10' Floating Jump Shot (6 PTS) (VanVleet 6 AST),Made Shot,Floating Jump shot,1,2,241
+22200991,327,PT09M35.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,58,55,113,h,Westbrook Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,242
+22200991,327,PT09M35.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,58,55,113,v,Anunoby STEAL (3 STL),,,1,0,243
+22200991,329,PT09M27.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,28,31,4,Missed,1,58,55,113,v,MISS Poeltl 4' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,244
+22200991,330,PT09M23.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,58,55,113,h,Leonard REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,245
+22200991,331,PT09M05.00S,3,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,58,55,113,h,Morris Sr. Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,246
+22200991,331,PT09M05.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,58,55,113,v,Barnes STEAL (1 STL),,,1,0,247
+22200991,333,PT09M01.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,11,1,Made,1,58,57,115,v,Anunoby 1' Running Dunk (9 PTS) (Barnes 2 AST),Made Shot,Running Dunk Shot,1,2,248
+22200991,335,PT08M47.00S,3,1610612746,LAC,202331,George,P. George,33,160,16,Missed,1,58,57,115,h,MISS George 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,249
+22200991,336,PT08M44.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,58,57,115,v,Poeltl REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,250
+22200991,337,PT08M39.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,29,40,5,Missed,1,58,57,115,v,MISS Siakam 5' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,251
+22200991,338,PT08M37.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,58,57,115,h,Leonard REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,252
+22200991,339,PT08M23.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,15,163,16,Made,1,60,57,117,h,Zubac 16' Jump Shot (11 PTS) (Westbrook 5 AST),Made Shot,Jump Shot,1,2,253
+22200991,341,PT08M04.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,-44,80,9,Missed,1,60,57,117,v,MISS Barnes 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,254
+22200991,342,PT08M02.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,60,57,117,h,Leonard REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,255
+22200991,343,PT07M56.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,2,8,1,Made,1,62,57,119,h,Leonard 1' Driving Dunk (19 PTS),Made Shot,Driving Dunk Shot,1,2,256
+22200991,344,PT07M53.00S,3,0,,1610612761,,,0,0,0,,0,62,57,119,v,Raptors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,257
+22200991,345,PT07M41.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,62,57,119,v,Poeltl Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,258
+22200991,345,PT07M41.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,62,57,119,h,Westbrook STEAL (1 STL),,,1,0,259
+22200991,347,PT07M37.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,7,13,1,Made,1,64,57,121,h,Zubac 1' Running Dunk (13 PTS) (Westbrook 6 AST),Made Shot,Running Dunk Shot,1,2,260
+22200991,349,PT07M18.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,26,40,5,Missed,1,64,57,121,v,MISS Barnes 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,261
+22200991,350,PT07M16.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,64,57,121,h,Zubac REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,262
+22200991,351,PT07M02.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,64,57,121,v,Barnes P.FOUL (P3.T4) (T.Maddox),Foul,Personal,1,0,263
+22200991,353,PT07M02.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,64,57,121,v,VanVleet T.FOUL (P3.T4) (B.Taylor),Foul,Technical,0,0,264
+22200991,354,PT07M02.00S,3,1610612746,LAC,202331,George,P. George,0,0,0,,0,65,57,122,h,George Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,1,0,265
+22200991,355,PT06M50.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,118,36,12,Missed,1,65,57,122,h,MISS Leonard 12' Jump Shot,Missed Shot,Jump Shot,1,2,266
+22200991,356,PT06M46.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,65,57,122,v,Poeltl REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,267
+22200991,357,PT06M31.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,181,179,25,Made,1,65,60,125,v,Barnes 25' 3PT Jump Shot (12 PTS) (Siakam 4 AST),Made Shot,Jump Shot,1,3,268
+22200991,359,PT06M18.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,65,60,125,h,Zubac OFF.Foul (P2) (D.Richardson),Foul,Offensive,1,0,269
+22200991,361,PT06M18.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,65,60,125,h,Zubac Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,1,0,270
+22200991,362,PT06M02.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,114,74,14,Missed,1,65,60,125,v,MISS VanVleet 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,271
+22200991,363,PT05M59.00S,3,1610612746,LAC,202331,George,P. George,0,0,0,,0,65,60,125,h,George REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,272
+22200991,364,PT05M46.00S,3,1610612746,LAC,202331,George,P. George,167,206,27,Made,1,68,60,128,h,George 27' 3PT Jump Shot (13 PTS) (Westbrook 7 AST),Made Shot,Jump Shot,1,3,273
+22200991,366,PT05M30.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,10,99,10,Made,1,68,62,130,v,Siakam 10' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,274
+22200991,367,PT05M08.00S,3,1610612746,LAC,202331,George,P. George,28,20,3,Made,1,70,62,132,h,George 3' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,275
+22200991,368,PT05M02.00S,3,1610612746,LAC,202331,George,P. George,0,0,0,,0,70,62,132,h,George P.FOUL (P1.T2) (B.Taylor),Foul,Personal,1,0,276
+22200991,370,PT05M02.00S,3,1610612746,LAC,201566,Westbrook,R. Westbrook,0,0,0,,0,70,62,132,h,SUB: Gordon FOR Westbrook,Substitution,,0,0,277
+22200991,372,PT05M02.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,70,62,132,v,SUB: Trent Jr. FOR Barnes,Substitution,,0,0,278
+22200991,374,PT04M47.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,115,252,28,Made,1,70,65,135,v,Anunoby 28' 3PT Jump Shot (12 PTS),Made Shot,Jump Shot,1,3,279
+22200991,375,PT04M34.00S,3,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,234,22,24,Missed,1,70,65,135,h,MISS Morris Sr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,280
+22200991,376,PT04M31.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,70,65,135,v,Poeltl REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,281
+22200991,377,PT04M19.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,31,37,5,Made,1,70,67,137,v,Siakam 5' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,282
+22200991,378,PT04M19.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,70,67,137,h,Zubac S.FOUL (P3.T3) (T.Maddox),Foul,Shooting,1,0,283
+22200991,380,PT04M19.00S,3,0,,1610612746,,,0,0,0,,0,70,67,137,h,CLIPPERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,284
+22200991,381,PT04M19.00S,3,1610612746,LAC,202694,Morris Sr.,M. Morris Sr.,0,0,0,,0,70,67,137,h,SUB: Mann FOR Morris Sr.,Substitution,,0,0,285
+22200991,382,PT04M19.00S,3,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,70,67,137,h,SUB: Plumlee FOR Zubac,Substitution,,0,0,286
+22200991,385,PT04M19.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,70,68,138,v,Siakam Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,1,0,287
+22200991,386,PT04M08.00S,3,1610612746,LAC,201569,Gordon,E. Gordon,234,13,0,Made,1,73,68,141,h,Gordon 3PT Jump Shot (7 PTS) (Mann 3 AST),Made Shot,Jump Shot,1,3,288
+22200991,388,PT03M41.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,-130,243,28,Missed,1,73,68,141,v,MISS Siakam 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,289
+22200991,389,PT03M36.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,73,68,141,v,Anunoby REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,290
+22200991,390,PT03M35.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,228,85,24,Missed,1,73,68,141,v,MISS Trent Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+22200991,391,PT03M31.00S,3,1610612746,LAC,201569,Gordon,E. Gordon,0,0,0,,0,73,68,141,h,Gordon REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,292
+22200991,392,PT03M27.00S,3,1610612746,LAC,1629611,Mann,T. Mann,2,-4,0,Made,1,75,68,143,h,Mann Running Dunk (6 PTS) (Gordon 2 AST),Made Shot,Running Dunk Shot,1,2,293
+22200991,394,PT03M05.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,75,68,143,v,Anunoby Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,294
+22200991,394,PT03M05.00S,3,1610612746,LAC,201569,Gordon,E. Gordon,0,0,0,,0,75,68,143,h,Gordon STEAL (1 STL),,,1,0,295
+22200991,396,PT03M00.00S,3,1610612746,LAC,203486,Plumlee,M. Plumlee,0,17,2,Made,1,77,68,145,h,Plumlee 2' Running Layup (6 PTS) (Mann 4 AST),Made Shot,Running Layup Shot,1,2,296
+22200991,398,PT03M00.00S,3,0,,1610612761,,,0,0,0,,0,77,68,145,v,Raptors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,297
+22200991,399,PT03M00.00S,3,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,77,68,145,v,SUB: Achiuwa FOR Poeltl,Substitution,,0,0,298
+22200991,401,PT03M00.00S,3,0,,1610612746,,,0,0,0,,0,77,68,145,h,CLIPPERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,299
+22200991,402,PT02M37.00S,3,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,91,262,28,Missed,1,77,68,145,v,MISS Achiuwa 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,300
+22200991,403,PT02M33.00S,3,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,77,68,145,h,Plumlee REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,301
+22200991,404,PT02M20.00S,3,1610612746,LAC,202331,George,P. George,152,54,16,Made,1,79,68,147,h,George 16' Jump Shot (17 PTS) (Leonard 4 AST),Made Shot,Jump Shot,1,2,302
+22200991,406,PT02M06.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,-21,90,9,Made,1,79,70,149,v,Siakam 9' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,1,2,303
+22200991,407,PT02M06.00S,3,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,79,70,149,h,Mann S.FOUL (P2.T4) (T.Maddox),Foul,Shooting,1,0,304
+22200991,409,PT02M06.00S,3,1610612746,LAC,202331,George,P. George,0,0,0,,0,79,70,149,h,SUB: Batum FOR George,Substitution,,0,0,305
+22200991,410,PT02M06.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,79,70,149,v,SUB: Barnes FOR Anunoby,Substitution,,0,0,306
+22200991,413,PT02M06.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,79,70,149,v,MISS Siakam Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,307
+22200991,414,PT02M04.00S,3,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,79,70,149,h,Batum REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,308
+22200991,415,PT01M42.00S,3,1610612746,LAC,203486,Plumlee,M. Plumlee,-2,64,6,Missed,1,79,70,149,h,MISS Plumlee 6' Jump Shot,Missed Shot,Jump Shot,1,2,309
+22200991,416,PT01M40.00S,3,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,79,70,149,v,Achiuwa REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,310
+22200991,417,PT01M36.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,79,70,149,v,Barnes Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,311
+22200991,417,PT01M36.00S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,79,70,149,h,Leonard STEAL (2 STL),,,1,0,312
+22200991,419,PT01M29.00S,3,1610612746,LAC,201569,Gordon,E. Gordon,-48,90,10,Made,1,81,70,151,h,Gordon 10' Driving Floating Jump Shot (9 PTS) (Batum 1 AST),Made Shot,Driving Floating Jump Shot,1,2,313
+22200991,421,PT01M07.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-6,72,7,Missed,1,81,70,151,v,MISS Trent Jr. 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,314
+22200991,422,PT01M04.00S,3,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,81,70,151,h,Mann REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,315
+22200991,423,PT00M59.30S,3,1610612746,LAC,1629611,Mann,T. Mann,-11,20,2,Made,1,83,70,153,h,Mann 2' Running Finger Roll Layup (8 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,316
+22200991,424,PT00M45.90S,3,1610612761,TOR,1630567,Barnes,S. Barnes,238,19,24,Missed,1,83,70,153,v,MISS Barnes 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,317
+22200991,425,PT00M43.90S,3,0,,1610612761,,,0,0,0,,0,83,70,153,v,Raptors Rebound,Rebound,Unknown,1,0,318
+22200991,426,PT00M43.90S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,83,70,153,h,Leonard L.B.FOUL (P2.PN) (B.Taylor),Foul,Loose Ball,1,0,319
+22200991,429,PT00M43.90S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,83,71,154,v,Trent Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,320
+22200991,430,PT00M43.90S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,83,71,154,v,SUB: Boucher FOR Siakam,Substitution,,0,0,321
+22200991,432,PT00M43.90S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,83,72,155,v,Trent Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,322
+22200991,433,PT00M28.40S,3,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,83,72,155,h,Mann Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,323
+22200991,433,PT00M28.40S,3,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,83,72,155,v,Boucher STEAL (1 STL),,,1,0,324
+22200991,435,PT00M10.30S,3,1610612761,TOR,1628449,Boucher,C. Boucher,-11,8,1,Made,1,83,74,157,v,Boucher 1' Layup (11 PTS) (VanVleet 7 AST),Made Shot,Layup Shot,1,2,325
+22200991,437,PT00M01.10S,3,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,83,74,157,h,Leonard Traveling Turnover (P3.T15),Turnover,Traveling,1,0,326
+22200991,438,PT00M00.00S,3,0,,0,,,0,0,0,,0,83,74,157,,End of 3rd Period (11:52 PM EST),period,end,1,0,327
+22200991,443,PT12M00.00S,4,0,,0,,,0,0,0,,0,83,74,157,,Start of 4th Period (11:56 PM EST),period,start,0,0,328
+22200991,444,PT11M41.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,116,122,17,Made,1,83,76,159,v,Trent Jr. 17' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,329
+22200991,445,PT11M22.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,83,76,159,v,Barnes S.FOUL (P4.T1) (D.Richardson),Foul,Shooting,1,0,330
+22200991,447,PT11M22.00S,4,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,84,76,160,h,Plumlee Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,331
+22200991,448,PT11M22.00S,4,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,85,76,161,h,Plumlee Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,332
+22200991,449,PT11M15.00S,4,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,85,76,161,h,Batum P.FOUL (P2.T1) (B.Taylor),Foul,Personal,1,0,333
+22200991,451,PT11M08.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,232,69,24,Missed,1,85,76,161,v,MISS Boucher 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+22200991,452,PT11M04.00S,4,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,85,76,161,h,Plumlee REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,335
+22200991,453,PT10M58.00S,4,1610612746,LAC,201569,Gordon,E. Gordon,-116,256,28,Missed,1,85,76,161,h,MISS Gordon 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,336
+22200991,454,PT10M55.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,85,76,161,v,Trent Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,337
+22200991,455,PT10M47.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-147,215,26,Made,1,85,79,164,v,Trent Jr. 26' 3PT Pullup Jump Shot (7 PTS) (Siakam 5 AST),Made Shot,Pullup Jump shot,1,3,338
+22200991,457,PT10M27.00S,4,1610612746,LAC,202331,George,P. George,47,165,17,Missed,1,85,79,164,h,MISS George 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,339
+22200991,458,PT10M24.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,85,79,164,v,Siakam REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,340
+22200991,459,PT10M09.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,4,98,10,Missed,1,85,79,164,v,MISS Siakam 10' Hook Shot,Missed Shot,Hook Shot,1,2,341
+22200991,460,PT10M06.00S,4,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,85,79,164,h,Plumlee REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,342
+22200991,461,PT09M56.00S,4,1610612746,LAC,201569,Gordon,E. Gordon,237,36,24,Missed,1,85,79,164,h,MISS Gordon 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+22200991,462,PT09M54.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,85,79,164,v,Trent Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,344
+22200991,463,PT09M41.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-116,216,25,Missed,1,85,79,164,v,MISS Trent Jr. 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,345
+22200991,464,PT09M38.00S,4,0,,1610612746,,,0,0,0,,0,85,79,164,h,CLIPPERS Rebound,Rebound,Unknown,1,0,346
+22200991,466,PT09M27.00S,4,1610612746,LAC,202331,George,P. George,-25,36,4,Made,1,87,79,166,h,George 4' Driving Reverse Layup (19 PTS),Made Shot,Driving Reverse Layup Shot,1,2,347
+22200991,467,PT09M09.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,224,34,0,Made,1,87,82,169,v,Boucher 3PT Jump Shot (14 PTS) (Barnes 3 AST),Made Shot,Jump Shot,1,3,348
+22200991,469,PT08M41.00S,4,1610612746,LAC,202331,George,P. George,202,165,26,Missed,1,87,82,169,h,MISS George 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,349
+22200991,470,PT08M40.00S,4,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,87,82,169,h,Batum REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,350
+22200991,471,PT08M40.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,87,82,169,v,Boucher S.FOUL (P1.T2) (D.Richardson),Foul,Shooting,1,0,351
+22200991,473,PT08M40.00S,4,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,88,82,170,h,Batum Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,352
+22200991,474,PT08M40.00S,4,1610612746,LAC,203486,Plumlee,M. Plumlee,0,0,0,,0,88,82,170,h,SUB: Zubac FOR Plumlee,Substitution,,0,0,353
+22200991,476,PT08M40.00S,4,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,89,82,171,h,Batum Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,354
+22200991,477,PT08M27.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,89,158,18,Missed,1,89,82,171,v,MISS Barnes 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,355
+22200991,478,PT08M24.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,89,82,171,h,Zubac REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,356
+22200991,479,PT08M16.00S,4,1610612746,LAC,202331,George,P. George,36,154,16,Made,1,91,82,173,h,George 16' Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,1,2,357
+22200991,480,PT07M50.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,-142,24,14,Missed,1,91,82,173,v,MISS Barnes 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,358
+22200991,481,PT07M50.00S,4,0,,1610612761,,,0,0,0,,0,91,82,173,v,Raptors Rebound,Rebound,Unknown,1,0,359
+22200991,482,PT07M50.00S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,91,82,173,h,George L.B.FOUL (P2.T2) (B.Taylor),Foul,Loose Ball,1,0,360
+22200991,484,PT07M50.00S,4,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,91,82,173,h,SUB: Leonard FOR Batum,Substitution,,0,0,361
+22200991,486,PT07M50.00S,4,0,,1610612761,,,0,0,0,,0,91,82,173,v,Raptors Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,362
+22200991,487,PT07M50.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,91,82,173,v,SUB: VanVleet FOR Barnes,Substitution,,0,0,363
+22200991,488,PT07M50.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,91,82,173,v,SUB: Anunoby FOR Siakam,Substitution,,0,0,364
+22200991,491,PT07M37.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,118,237,26,Missed,1,91,82,173,v,MISS Boucher 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,365
+22200991,492,PT07M33.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,91,82,173,h,Zubac REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,366
+22200991,493,PT07M19.00S,4,1610612746,LAC,202331,George,P. George,-6,89,9,Missed,1,91,82,173,h,MISS George 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,367
+22200991,494,PT07M17.00S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,91,82,173,h,George REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,368
+22200991,495,PT07M17.00S,4,1610612746,LAC,202331,George,P. George,0,0,0,Missed,1,91,82,173,h,MISS George Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,369
+22200991,496,PT07M17.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,91,82,173,h,Zubac REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,370
+22200991,497,PT07M17.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,91,82,173,v,Boucher S.FOUL (P2.T3) (B.Taylor),Foul,Shooting,1,0,371
+22200991,499,PT07M17.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,92,82,174,h,Zubac Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,372
+22200991,500,PT07M17.00S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,93,82,175,h,Zubac Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,373
+22200991,501,PT07M03.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,-172,219,28,Made,1,93,85,178,v,Anunoby 28' 3PT Jump Shot (15 PTS) (VanVleet 8 AST),Made Shot,Jump Shot,1,3,374
+22200991,503,PT06M44.00S,4,1610612746,LAC,202331,George,P. George,13,6,1,Made,1,95,85,180,h,George 1' Driving Dunk (23 PTS),Made Shot,Driving Dunk Shot,1,2,375
+22200991,504,PT06M37.00S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,95,85,180,h,George P.FOUL (P3.T3) (D.Richardson),Foul,Personal,1,0,376
+22200991,506,PT06M28.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,234,-1,0,Missed,1,95,85,180,v,MISS Anunoby 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+22200991,507,PT06M22.00S,4,1610612746,LAC,201569,Gordon,E. Gordon,0,0,0,,0,95,85,180,h,Gordon REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,378
+22200991,508,PT06M19.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,95,85,180,v,Trent Jr. P.FOUL (P2.T4) (T.Maddox),Foul,Personal,1,0,379
+22200991,510,PT06M19.00S,4,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,95,85,180,v,SUB: Poeltl FOR Achiuwa,Substitution,,0,0,380
+22200991,511,PT06M19.00S,4,1610612761,TOR,1628449,Boucher,C. Boucher,0,0,0,,0,95,85,180,v,SUB: Barnes FOR Boucher,Substitution,,0,0,381
+22200991,512,PT06M19.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,95,85,180,v,SUB: Siakam FOR Trent Jr.,Substitution,,0,0,382
+22200991,516,PT06M15.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,95,85,180,h,Leonard OFF.Foul (P3) (D.Richardson),Foul,Offensive,1,0,383
+22200991,518,PT06M15.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,95,85,180,h,Leonard Offensive Foul Turnover (P4.T16),Turnover,Offensive Foul Turnover,1,0,384
+22200991,519,PT05M57.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,175,192,26,Missed,1,95,85,180,v,MISS VanVleet 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,385
+22200991,520,PT05M53.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,95,85,180,v,Poeltl REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,386
+22200991,521,PT05M53.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,95,85,180,v,Poeltl Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,0,387
+22200991,521,PT05M53.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,95,85,180,h,Leonard STEAL (3 STL),,,1,0,388
+22200991,523,PT05M51.00S,4,1610612746,LAC,1629611,Mann,T. Mann,4,1,0,Made,1,97,85,182,h,Mann Running Alley Oop Dunk Shot (10 PTS) (George 3 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,389
+22200991,525,PT05M51.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,97,85,182,v,Barnes S.FOUL (P5.PN) (T.Maddox),Foul,Shooting,1,0,390
+22200991,527,PT05M51.00S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,98,85,183,h,Mann Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,1,0,391
+22200991,528,PT05M37.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,-15,50,5,Missed,1,98,85,183,v,MISS Siakam 5' Layup,Missed Shot,Layup Shot,1,2,392
+22200991,529,PT05M37.00S,4,0,,1610612761,,,0,0,0,,0,98,85,183,v,Raptors Rebound,Rebound,Unknown,1,0,393
+22200991,531,PT05M32.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,-189,114,22,Missed,1,98,85,183,v,MISS VanVleet 22' Jump Shot,Missed Shot,Jump Shot,1,2,394
+22200991,532,PT05M30.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,98,85,183,v,Anunoby REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,395
+22200991,533,PT05M29.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,-130,3,13,Missed,1,98,85,183,v,MISS Barnes 13' Jump Shot,Missed Shot,Jump Shot,1,2,396
+22200991,534,PT05M26.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,98,85,183,h,Leonard REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,397
+22200991,535,PT05M17.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,2,10,1,Made,1,100,85,185,h,Leonard 1' Driving Dunk (21 PTS),Made Shot,Driving Dunk Shot,1,2,398
+22200991,536,PT05M16.00S,4,0,,1610612761,,,0,0,0,,0,100,85,185,v,Raptors Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,399
+22200991,537,PT05M07.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,12,25,3,Made,1,100,87,187,v,Siakam 3' Driving Layup (20 PTS) (VanVleet 9 AST),Made Shot,Driving Layup Shot,1,2,400
+22200991,539,PT04M46.00S,4,1610612746,LAC,201569,Gordon,E. Gordon,-31,272,27,Missed,1,100,87,187,h,MISS Gordon 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,401
+22200991,540,PT04M43.00S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,100,87,187,h,Mann REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,402
+22200991,541,PT04M40.00S,4,1610612746,LAC,202331,George,P. George,-238,78,25,Missed,1,100,87,187,h,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+22200991,542,PT04M36.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,100,87,187,h,Leonard REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,404
+22200991,543,PT04M35.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,100,87,187,v,Poeltl S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,1,0,405
+22200991,545,PT04M35.00S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,101,87,188,h,Mann Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,406
+22200991,546,PT04M35.00S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,101,87,188,h,MISS Mann Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,407
+22200991,547,PT04M33.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,101,87,188,v,Siakam REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,408
+22200991,548,PT04M25.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,101,87,188,v,Siakam Traveling Turnover (P3.T12),Turnover,Traveling,1,0,409
+22200991,549,PT04M15.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,49,107,12,Missed,1,101,87,188,h,MISS Leonard 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,410
+22200991,550,PT04M12.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,101,87,188,v,Poeltl REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,411
+22200991,551,PT04M06.00S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,101,87,188,h,George S.FOUL (P4.T4) (B.Taylor),Foul,Shooting,1,0,412
+22200991,553,PT04M06.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,101,88,189,v,Barnes Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,413
+22200991,554,PT04M06.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,101,89,190,v,Barnes Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,414
+22200991,555,PT03M51.00S,4,1610612746,LAC,1629611,Mann,T. Mann,22,26,3,Made,1,103,89,192,h,Mann 3' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,415
+22200991,556,PT03M36.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,5,105,11,Missed,1,103,89,192,v,MISS Barnes 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,416
+22200991,557,PT03M33.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,103,89,192,v,Poeltl REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,417
+22200991,558,PT03M32.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,16,21,3,Made,1,103,91,194,v,Poeltl 3' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,1,2,418
+22200991,559,PT03M16.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,-13,71,7,Missed,1,103,91,194,h,MISS Leonard 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,419
+22200991,560,PT03M14.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,103,91,194,v,VanVleet REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,420
+22200991,561,PT03M10.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,98,302,32,Missed,1,103,91,194,v,MISS VanVleet 32' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,421
+22200991,561,PT03M10.00S,4,1610612746,LAC,201569,Gordon,E. Gordon,0,0,0,,0,103,91,194,h,Gordon BLOCK (1 BLK),,,1,3,422
+22200991,563,PT03M06.00S,4,1610612746,LAC,1629611,Mann,T. Mann,0,0,0,,0,103,91,194,h,Mann REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,423
+22200991,564,PT03M04.00S,4,1610612746,LAC,202331,George,P. George,0,0,0,,0,103,91,194,h,George Bad Pass Turnover (P4.T17),Turnover,Bad Pass,1,0,424
+22200991,564,PT03M04.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,103,91,194,v,Barnes STEAL (2 STL),,,1,0,425
+22200991,566,PT02M54.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,1,82,8,Missed,1,103,91,194,v,MISS Barnes 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,426
+22200991,567,PT02M52.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,103,91,194,v,Barnes REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,427
+22200991,568,PT02M52.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,Made,1,103,93,196,v,Barnes Putback Layup (16 PTS),Made Shot,Putback Layup Shot,1,2,428
+22200991,569,PT02M52.00S,4,0,,1610612746,,,0,0,0,,0,103,93,196,h,CLIPPERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,429
+22200991,570,PT02M30.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,65,190,20,Missed,1,103,93,196,h,MISS Leonard 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,430
+22200991,571,PT02M27.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,103,93,196,v,Siakam REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,431
+22200991,572,PT02M06.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,-32,257,26,Missed,1,103,93,196,v,MISS Anunoby 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,432
+22200991,573,PT02M04.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,103,93,196,v,Barnes REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,433
+22200991,574,PT02M01.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,20,22,3,Made,1,103,95,198,v,Barnes 3' Putback Layup (18 PTS),Made Shot,Putback Layup Shot,1,2,434
+22200991,575,PT01M46.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,13,58,6,Missed,1,103,95,198,h,MISS Leonard 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,435
+22200991,575,PT01M46.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,103,95,198,v,Poeltl BLOCK (2 BLK),,,1,2,436
+22200991,577,PT01M46.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,103,95,198,h,Leonard REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,437
+22200991,578,PT01M46.00S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,103,95,198,v,Poeltl S.FOUL (P2.PN) (B.Taylor),Foul,Shooting,1,0,438
+22200991,580,PT01M46.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,103,95,198,h,MISS Leonard Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,439
+22200991,581,PT01M46.00S,4,0,,1610612746,,,0,0,0,,0,103,95,198,h,CLIPPERS Rebound,Rebound,Normal Rebound,0,0,440
+22200991,582,PT01M46.00S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,104,95,199,h,Leonard Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,441
+22200991,583,PT01M30.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,61,77,10,Missed,1,104,95,199,v,MISS Barnes 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,442
+22200991,584,PT01M28.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,104,95,199,v,Barnes REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,443
+22200991,585,PT01M27.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,-164,224,28,Made,1,104,98,202,v,Anunoby 28' 3PT Jump Shot (18 PTS) (Barnes 4 AST),Made Shot,Jump Shot,1,3,444
+22200991,587,PT01M03.00S,4,1610612746,LAC,202331,George,P. George,72,252,26,Missed,1,104,98,202,h,MISS George 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,445
+22200991,588,PT00M58.90S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,104,98,202,v,Poeltl REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,446
+22200991,589,PT00M54.60S,4,1610612746,LAC,201569,Gordon,E. Gordon,0,0,0,,0,104,98,202,h,Gordon S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,1,0,447
+22200991,591,PT00M54.60S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,104,99,203,v,Barnes Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,448
+22200991,592,PT00M54.60S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,104,100,204,v,Barnes Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,449
+22200991,593,PT00M42.80S,4,1610612746,LAC,1627826,Zubac,I. Zubac,-2,16,2,Made,1,106,100,206,h,Zubac 2' Alley Oop Dunk (17 PTS) (George 4 AST),Made Shot,Alley Oop Dunk Shot,1,2,450
+22200991,595,PT00M27.70S,4,1610612761,TOR,1630567,Barnes,S. Barnes,-54,27,6,Missed,1,106,100,206,v,MISS Barnes 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,451
+22200991,596,PT00M25.30S,4,0,,1610612761,,,0,0,0,,0,106,100,206,v,Raptors Rebound,Rebound,Unknown,1,0,452
+22200991,598,PT00M25.30S,4,1610612746,LAC,1627826,Zubac,I. Zubac,0,0,0,,0,106,100,206,h,SUB: Batum FOR Zubac,Substitution,,0,0,453
+22200991,600,PT00M25.30S,4,1610612761,TOR,1627751,Poeltl,J. Poeltl,0,0,0,,0,106,100,206,v,SUB: Trent Jr. FOR Poeltl,Substitution,,0,0,454
+22200991,602,PT00M18.80S,4,1610612761,TOR,1627783,Siakam,P. Siakam,42,75,9,Missed,1,106,100,206,v,MISS Siakam 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,455
+22200991,603,PT00M13.90S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,106,100,206,v,Siakam REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,456
+22200991,604,PT00M13.90S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,Missed,1,106,100,206,v,MISS Siakam Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,457
+22200991,605,PT00M12.40S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,106,100,206,h,Leonard REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,458
+22200991,606,PT00M11.80S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,106,100,206,v,VanVleet P.FOUL (P4.PN) (T.Maddox),Foul,Personal,1,0,459
+22200991,608,PT00M11.80S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,107,100,207,h,Leonard Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,460
+22200991,609,PT00M11.80S,4,1610612746,LAC,202695,Leonard,K. Leonard,0,0,0,,0,108,100,208,h,Leonard Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,461
+22200991,610,PT00M04.80S,4,1610612761,TOR,1627783,Siakam,P. Siakam,-157,219,27,Missed,1,108,100,208,v,MISS Siakam 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,462
+22200991,611,PT00M03.00S,4,1610612746,LAC,201587,Batum,N. Batum,0,0,0,,0,108,100,208,h,Batum REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,463
+22200991,612,PT00M00.00S,4,0,,0,,,0,0,0,,0,108,100,208,,End of 4th Period (12:29 AM EST),period,end,1,0,464

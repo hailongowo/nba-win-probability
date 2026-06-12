@@ -1,0 +1,496 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22300667,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (9:11 PM EST),period,start,0,0,1
+22300667,4,PT12M00.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,0,0,0,h,Jump Ball Jokic vs. B. Lopez: Tip to Gordon,Jump Ball,,1,0,2
+22300667,7,PT11M41.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,186,176,26,Missed,1,0,0,0,h,MISS Jokic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+22300667,8,PT11M37.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,v,G. Antetokounmpo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22300667,9,PT11M30.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,88,186,21,Made,1,0,2,2,v,G. Antetokounmpo 21' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,5
+22300667,10,PT11M08.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-43,27,5,Missed,1,0,2,2,h,MISS Porter Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,6
+22300667,10,PT11M08.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0,2,2,v,Middleton BLOCK (1 BLK),,,1,2,7
+22300667,12,PT11M02.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,2,2,v,G. Antetokounmpo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,8
+22300667,13,PT11M00.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,18,12,2,Made,1,0,4,4,v,G. Antetokounmpo 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,9
+22300667,14,PT10M51.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,140,119,18,Missed,1,0,4,4,h,MISS Gordon 18' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,10
+22300667,15,PT10M51.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,0,4,4,v,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+22300667,16,PT10M38.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,-229,102,25,Made,1,0,7,7,v,Middleton 25' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,1,3,12
+22300667,18,PT10M20.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-20,34,4,Made,1,2,7,9,h,Murray 4' Driving Layup (2 PTS) (Caldwell-Pope 1 AST),Made Shot,Driving Layup Shot,1,2,13
+22300667,19,PT10M20.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,2,7,9,v,B. Lopez S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,1,0,14
+22300667,21,PT10M20.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,3,7,10,h,Murray Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,15
+22300667,22,PT10M08.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,-91,242,26,Made,1,3,10,13,v,Middleton 26' 3PT Jump Shot (6 PTS) (Beasley 1 AST),Made Shot,Jump Shot,1,3,16
+22300667,24,PT09M49.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-29,68,7,Missed,1,3,10,13,h,MISS Murray 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,17
+22300667,25,PT09M46.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,3,10,13,v,G. Antetokounmpo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,18
+22300667,26,PT09M40.00S,1,1610612749,MIL,1627736,Beasley,M. Beasley,34,48,6,Made,1,3,12,15,v,Beasley 6' Driving Floating Bank Jump Shot (2 PTS) (G. Antetokounmpo 2 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,19
+22300667,28,PT09M20.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,3,12,15,v,G. Antetokounmpo S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,1,0,20
+22300667,30,PT09M20.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,3,12,15,h,MISS Gordon Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,21
+22300667,31,PT09M20.00S,1,0,,1610612743,,,0,0,0,,0,3,12,15,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0,22
+22300667,32,PT09M20.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,4,12,16,h,Gordon Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,23
+22300667,33,PT09M04.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,-56,20,6,Missed,1,4,12,16,v,MISS Lillard 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,24
+22300667,34,PT09M00.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,4,12,16,h,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,25
+22300667,35,PT08M58.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,-27,19,3,Missed,1,4,12,16,h,MISS Gordon 3' Running Layup,Missed Shot,Running Layup Shot,1,2,26
+22300667,36,PT08M57.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,4,12,16,h,Gordon REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,27
+22300667,37,PT08M57.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,Made,1,6,12,18,h,Gordon Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,1,2,28
+22300667,38,PT08M38.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,-23,10,3,Made,1,6,14,20,v,B. Lopez 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,29
+22300667,39,PT08M17.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,6,14,20,h,Jokic Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,30
+22300667,40,PT08M07.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,225,59,0,Missed,1,6,14,20,v,MISS B. Lopez 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+22300667,41,PT08M03.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,6,14,20,h,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+22300667,43,PT07M48.00S,1,1610612743,DEN,1627750,Murray,J. Murray,60,8,6,Missed,1,6,14,20,h,MISS Murray 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,33
+22300667,43,PT07M48.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,6,14,20,v,G. Antetokounmpo BLOCK (1 BLK),,,1,2,34
+22300667,45,PT07M44.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,6,14,20,v,G. Antetokounmpo REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,35
+22300667,46,PT07M40.00S,1,1610612749,MIL,1627736,Beasley,M. Beasley,221,30,0,Missed,1,6,14,20,v,MISS Beasley 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,36
+22300667,47,PT07M37.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,6,14,20,v,G. Antetokounmpo REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,37
+22300667,49,PT07M35.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,-201,174,27,Made,1,6,17,23,v,Lillard 27' 3PT Jump Shot (3 PTS) (Middleton 1 AST),Made Shot,Jump Shot,1,3,38
+22300667,51,PT07M35.00S,1,0,,1610612743,,,0,0,0,,0,6,17,23,h,NUGGETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,39
+22300667,52,PT07M22.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,96,151,18,Missed,1,6,17,23,h,MISS Jokic 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,40
+22300667,53,PT07M20.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,6,17,23,v,G. Antetokounmpo REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,41
+22300667,54,PT07M14.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-112,64,13,Missed,1,6,17,23,v,MISS G. Antetokounmpo 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,42
+22300667,55,PT07M11.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,6,17,23,h,Porter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,43
+22300667,56,PT06M52.00S,1,1610612743,DEN,1627750,Murray,J. Murray,33,3,3,Made,1,8,17,25,h,Murray 3' Reverse Layup (5 PTS) (Caldwell-Pope 2 AST),Made Shot,Reverse Layup Shot,1,2,44
+22300667,58,PT06M40.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,89,236,25,Made,1,8,20,28,v,B. Lopez 25' 3PT Jump Shot (5 PTS) (Lillard 1 AST),Made Shot,Jump Shot,1,3,45
+22300667,60,PT06M20.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,-100,239,26,Made,1,11,20,31,h,Jokic 26' 3PT Jump Shot (3 PTS) (Murray 1 AST),Made Shot,Jump Shot,1,3,46
+22300667,62,PT06M04.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-4,11,1,Made,1,11,22,33,v,G. Antetokounmpo 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,47
+22300667,63,PT05M53.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,11,22,33,h,Gordon Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,1,0,48
+22300667,64,PT05M34.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,74,159,18,Made,1,11,24,35,v,Middleton 18' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,1,2,49
+22300667,66,PT05M15.00S,1,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,11,24,35,h,SUB: Jackson FOR Murray,Substitution,,0,0,50
+22300667,67,PT05M15.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,11,24,35,v,SUB: Payne FOR G. Antetokounmpo,Substitution,,0,0,51
+22300667,68,PT05M15.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,11,24,35,v,SUB: Portis FOR Lillard,Substitution,,0,0,52
+22300667,72,PT05M09.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,127,224,26,Missed,1,11,24,35,h,MISS Jokic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,53
+22300667,73,PT05M06.00S,1,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,11,24,35,h,Jackson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,54
+22300667,74,PT05M03.00S,1,1610612743,DEN,202704,Jackson,R. Jackson,-94,157,18,Missed,1,11,24,35,h,MISS Jackson 18' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,55
+22300667,75,PT05M00.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,11,24,35,v,Portis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,56
+22300667,76,PT04M57.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,-190,201,28,Missed,1,11,24,35,v,MISS B. Lopez 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,57
+22300667,77,PT04M54.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,11,24,35,h,Caldwell-Pope REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,58
+22300667,78,PT04M42.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-131,27,13,Made,1,13,24,37,h,Caldwell-Pope 13' Pullup Jump Shot (2 PTS) (Jokic 1 AST),Made Shot,Pullup Jump shot,1,2,59
+22300667,80,PT04M25.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,-72,160,18,Made,1,13,26,39,v,Middleton 18' Turnaround Jump Shot (10 PTS),Made Shot,Turnaround Jump Shot,1,2,60
+22300667,81,PT04M10.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,290,29,Missed,1,13,26,39,h,MISS Porter Jr. 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+22300667,82,PT04M07.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,13,26,39,h,Gordon REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,62
+22300667,83,PT04M02.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,-45,246,25,Missed,1,13,26,39,h,MISS Gordon 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,63
+22300667,84,PT03M58.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,13,26,39,v,Middleton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+22300667,85,PT03M52.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,-210,160,26,Missed,1,13,26,39,v,MISS Middleton 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,65
+22300667,86,PT03M49.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,13,26,39,h,Jokic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,66
+22300667,87,PT03M42.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,102,242,26,Missed,1,13,26,39,h,MISS Caldwell-Pope 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,67
+22300667,88,PT03M38.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,13,26,39,v,Portis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,68
+22300667,89,PT03M36.00S,1,0,,1610612749,,,0,0,0,,0,13,26,39,v,Bucks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,69
+22300667,90,PT03M36.00S,1,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,13,26,39,h,SUB: Braun FOR Caldwell-Pope,Substitution,,0,0,70
+22300667,91,PT03M36.00S,1,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,13,26,39,h,SUB: Watson FOR Gordon,Substitution,,0,0,71
+22300667,92,PT03M36.00S,1,1610612749,MIL,1627736,Beasley,M. Beasley,0,0,0,,0,13,26,39,v,SUB: G. Antetokounmpo FOR Beasley,Substitution,,0,0,72
+22300667,93,PT03M36.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,13,26,39,v,SUB: Connaughton FOR B. Lopez,Substitution,,0,0,73
+22300667,94,PT03M36.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,13,26,39,v,SUB: Crowder FOR Middleton,Substitution,,0,0,74
+22300667,100,PT03M24.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,9,32,3,Missed,1,13,26,39,v,MISS G. Antetokounmpo 3' Layup,Missed Shot,Layup Shot,1,2,75
+22300667,101,PT03M22.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,13,26,39,h,Jokic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,76
+22300667,102,PT03M18.00S,1,1610612743,DEN,1631128,Braun,C. Braun,-18,27,3,Missed,1,13,26,39,h,MISS Braun 3' Running Layup,Missed Shot,Running Layup Shot,1,2,77
+22300667,103,PT03M14.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,13,26,39,h,Porter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,78
+22300667,104,PT03M12.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-16,14,2,Missed,1,13,26,39,h,MISS Porter Jr. 2' Layup,Missed Shot,Layup Shot,1,2,79
+22300667,105,PT03M11.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,13,26,39,h,Porter Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,80
+22300667,174,PT03M10.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,13,26,39,h,Porter Jr. Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,81
+22300667,174,PT03M10.00S,1,1610612749,MIL,203109,Crowder,J. Crowder,0,0,0,,0,13,26,39,v,Crowder STEAL (1 STL),,,1,0,82
+22300667,106,PT03M06.00S,1,1610612749,MIL,1626171,Portis,B. Portis,224,68,0,Missed,1,13,26,39,v,MISS Portis 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,83
+22300667,107,PT03M03.00S,1,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,13,26,39,h,Jackson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,84
+22300667,108,PT03M00.00S,1,1610612749,MIL,1626166,Payne,C. Payne,0,0,0,,0,13,26,39,v,Payne S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,1,0,85
+22300667,110,PT03M00.00S,1,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,14,26,40,h,Jackson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,86
+22300667,111,PT03M00.00S,1,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,15,26,41,h,Jackson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,87
+22300667,112,PT02M53.00S,1,1610612749,MIL,1626166,Payne,C. Payne,10,260,26,Missed,1,15,26,41,v,MISS Payne 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,88
+22300667,113,PT02M50.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,15,26,41,h,Porter Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,89
+22300667,114,PT02M41.00S,1,1610612749,MIL,1626166,Payne,C. Payne,0,0,0,,0,15,26,41,v,Payne P.FOUL (P2.T4) (T.Brothers),Foul,Personal,1,0,90
+22300667,116,PT02M28.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,-51,176,18,Made,1,17,26,43,h,Jokic 18' Jump Shot (5 PTS) (Jackson 1 AST),Made Shot,Jump Shot,1,2,91
+22300667,118,PT02M14.00S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,-36,256,26,Missed,1,17,26,43,v,MISS Connaughton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,92
+22300667,119,PT02M11.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,17,26,43,h,Jokic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,93
+22300667,120,PT02M02.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,76,285,29,Made,1,20,26,46,h,Porter Jr. 29' 3PT Jump Shot (3 PTS) (Jokic 2 AST),Made Shot,Jump Shot,1,3,94
+22300667,122,PT01M45.00S,1,1610612749,MIL,1626171,Portis,B. Portis,-42,123,13,Missed,1,20,26,46,v,MISS Portis 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,95
+22300667,123,PT01M42.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,20,26,46,h,Porter Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,96
+22300667,124,PT01M26.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,36,6,4,Missed,1,20,26,46,h,MISS Jokic 4' Jump Shot,Missed Shot,Jump Shot,1,2,97
+22300667,124,PT01M26.00S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,20,26,46,v,Connaughton BLOCK (1 BLK),,,1,2,98
+22300667,126,PT01M23.00S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,20,26,46,v,Connaughton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,99
+22300667,127,PT01M23.00S,1,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,20,26,46,v,Connaughton Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,100
+22300667,128,PT01M23.00S,1,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,20,26,46,h,SUB: Murray FOR Porter Jr.,Substitution,,0,0,101
+22300667,129,PT01M23.00S,1,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,20,26,46,h,SUB: Jordan FOR Jokic,Substitution,,0,0,102
+22300667,130,PT01M23.00S,1,1610612749,MIL,1626166,Payne,C. Payne,0,0,0,,0,20,26,46,v,SUB: Lillard FOR Payne,Substitution,,0,0,103
+22300667,202,PT01M09.00S,1,1610612743,DEN,1627750,Murray,J. Murray,-64,32,7,Missed,1,20,26,46,h,MISS Murray 7' Jump Shot,Missed Shot,Jump Shot,1,2,104
+22300667,202,PT01M09.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,20,26,46,v,Lillard BLOCK (1 BLK),,,1,2,105
+22300667,204,PT01M08.00S,1,0,,1610612743,,,0,0,0,,0,20,26,46,h,NUGGETS Rebound,Rebound,Unknown,1,0,106
+22300667,135,PT00M58.00S,1,1610612743,DEN,1627750,Murray,J. Murray,50,126,14,Made,1,22,26,48,h,Murray 14' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,1,2,107
+22300667,136,PT00M43.10S,1,1610612749,MIL,203081,Lillard,D. Lillard,-143,126,19,Missed,1,22,26,48,v,MISS Lillard 19' Jump Shot,Missed Shot,Jump Shot,1,2,108
+22300667,137,PT00M39.50S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,22,26,48,h,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+22300667,138,PT00M30.70S,1,1610612743,DEN,1627750,Murray,J. Murray,-72,78,11,Missed,1,22,26,48,h,MISS Murray 11' Jump Shot,Missed Shot,Jump Shot,1,2,110
+22300667,139,PT00M27.50S,1,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,22,26,48,h,Braun REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,111
+22300667,140,PT00M17.00S,1,1610612743,DEN,202704,Jackson,R. Jackson,216,162,27,Made,1,25,26,51,h,Jackson 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,112
+22300667,141,PT00M05.60S,1,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,25,26,51,h,Jackson P.FOUL (P1.T1) (T.Brothers),Foul,Personal,1,0,113
+22300667,143,PT00M00.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,1,41,4,Missed,1,25,26,51,v,MISS G. Antetokounmpo 4' Hook Shot,Missed Shot,Hook Shot,1,2,114
+22300667,144,PT00M00.00S,1,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,25,26,51,h,Watson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,115
+22300667,145,PT00M00.00S,1,0,,0,,,0,0,0,,0,25,26,51,,End of 1st Period (9:34 PM EST),period,end,1,0,116
+22300667,146,PT12M00.00S,2,0,,0,,,0,0,0,,0,25,26,51,,Start of 2nd Period (9:37 PM EST),period,start,0,0,117
+22300667,147,PT11M43.00S,2,1610612749,MIL,1626171,Portis,B. Portis,234,65,24,Missed,1,25,26,51,v,MISS Portis 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,118
+22300667,148,PT11M40.00S,2,0,,1610612743,,,0,0,0,,0,25,26,51,h,NUGGETS Rebound,Rebound,Unknown,0,0,119
+22300667,150,PT11M40.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,25,26,51,v,G. Antetokounmpo L.B.FOUL (P2.T1) (T.Brothers),Foul,Loose Ball,1,0,120
+22300667,152,PT11M26.00S,2,1610612743,DEN,201599,Jordan,D. Jordan,18,11,2,Made,1,27,26,53,h,Jordan 2' Layup (2 PTS) (Murray 2 AST),Made Shot,Layup Shot,1,2,121
+22300667,154,PT11M26.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,27,26,53,v,Portis S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,1,0,122
+22300667,156,PT11M26.00S,2,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,28,26,54,h,Jordan Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,123
+22300667,157,PT11M15.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,18,18,3,Missed,1,28,26,54,v,MISS G. Antetokounmpo 3' Layup,Missed Shot,Layup Shot,1,2,124
+22300667,157,PT11M15.00S,2,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,28,26,54,h,Jordan BLOCK (1 BLK),,,1,2,125
+22300667,159,PT11M15.00S,2,0,,1610612749,,,0,0,0,,0,28,26,54,v,Bucks Rebound,Rebound,Unknown,0,0,126
+22300667,160,PT11M15.00S,2,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,28,26,54,h,Jump Ball Jordan vs. G. Antetokounmpo: Tip to Connaughton,Jump Ball,,0,0,127
+22300667,163,PT11M06.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,15,23,3,Missed,1,28,26,54,v,MISS Lillard 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,128
+22300667,164,PT11M06.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,28,26,54,v,Portis REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,129
+22300667,256,PT11M06.00S,2,1610612749,MIL,1626171,Portis,B. Portis,21,23,3,Missed,1,28,26,54,v,MISS Portis 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,130
+22300667,257,PT11M06.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,28,26,54,v,Portis REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,131
+22300667,166,PT11M06.00S,2,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,28,26,54,h,Jordan S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,1,0,132
+22300667,168,PT11M06.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,28,27,55,v,Portis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,133
+22300667,169,PT11M06.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,28,27,55,v,MISS Portis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,134
+22300667,170,PT11M02.00S,2,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,28,27,55,h,Braun REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,135
+22300667,171,PT10M54.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,28,27,55,v,Portis S.FOUL (P2.T3) (D.Taylor),Foul,Shooting,1,0,136
+22300667,173,PT10M54.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,29,27,56,h,Murray Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,137
+22300667,176,PT10M54.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,30,27,57,h,Murray Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,138
+22300667,177,PT10M37.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,228,60,24,Made,1,30,30,60,v,Connaughton 24' 3PT Jump Shot (3 PTS) (Lillard 2 AST),Made Shot,Jump Shot,1,3,139
+22300667,179,PT10M16.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,-47,218,22,Made,1,32,30,62,h,Jackson 22' Pullup Jump Shot (7 PTS) (Braun 1 AST),Made Shot,Pullup Jump shot,1,2,140
+22300667,181,PT09M58.00S,2,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,32,30,62,h,Jordan P.FOUL (P2.T2) (D.Taylor),Foul,Personal,1,0,141
+22300667,183,PT09M55.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,1,39,4,Made,1,32,32,64,v,G. Antetokounmpo 4' Driving Layup (8 PTS) (Connaughton 1 AST),Made Shot,Driving Layup Shot,1,2,142
+22300667,184,PT09M55.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,32,32,64,h,Watson S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,1,0,143
+22300667,186,PT09M55.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,32,32,64,v,MISS G. Antetokounmpo Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,144
+22300667,187,PT09M50.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,32,32,64,h,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,145
+22300667,188,PT09M47.00S,2,1610612743,DEN,1627750,Murray,J. Murray,44,20,5,Made,1,34,32,66,h,Murray 5' Running Layup (11 PTS),Made Shot,Running Layup Shot,1,2,146
+22300667,189,PT09M36.00S,2,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,34,32,66,h,Braun P.FOUL (P1.T4) (D.Taylor),Foul,Personal,1,0,147
+22300667,195,PT09M30.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-31,58,7,Missed,1,34,32,66,v,MISS G. Antetokounmpo 7' Layup,Missed Shot,Layup Shot,1,2,148
+22300667,196,PT09M30.00S,2,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,34,32,66,h,Jordan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,149
+22300667,193,PT09M29.00S,2,0,,1610612743,,,0,0,0,,0,34,32,66,h,NUGGETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,150
+22300667,194,PT09M29.00S,2,0,,191,,,0,0,0,,0,34,32,66,,Instant Replay2nd Period (9:45 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,151
+22300667,208,PT09M29.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,34,32,66,h,SUB: Porter Jr. FOR Jackson,Substitution,,0,0,152
+22300667,197,PT09M16.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,29,8,3,Made,1,36,32,68,h,Porter Jr. 3' Pullup Jump Shot (5 PTS) (Watson 1 AST),Made Shot,Pullup Jump shot,1,2,153
+22300667,198,PT09M00.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,-27,0,3,Made,1,36,34,70,v,Lillard 3' Layup (5 PTS),Made Shot,Layup Shot,1,2,154
+22300667,199,PT08M43.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-82,256,27,Missed,1,36,34,70,h,MISS Murray 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,155
+22300667,200,PT08M38.00S,2,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,36,34,70,h,Braun REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,156
+22300667,201,PT08M30.00S,2,1610612743,DEN,1631212,Watson,P. Watson,22,68,7,Made,1,38,34,72,h,Watson 7' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,157
+22300667,205,PT08M17.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,-136,233,27,Made,1,38,37,75,v,Lillard 27' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,158
+22300667,206,PT07M58.00S,2,1610612743,DEN,201599,Jordan,D. Jordan,44,24,5,Missed,1,38,37,75,h,MISS Jordan 5' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,159
+22300667,207,PT07M58.00S,2,0,,1610612749,,,0,0,0,,0,38,37,75,v,Bucks Rebound,Rebound,Unknown,1,0,160
+22300667,210,PT07M58.00S,2,0,,1610612743,,,0,0,0,,0,38,37,75,h,NUGGETS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,161
+22300667,211,PT07M58.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,38,37,75,v,SUB: B. Lopez FOR Connaughton,Substitution,,0,0,162
+22300667,212,PT07M58.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,38,37,75,v,SUB: Beasley FOR G. Antetokounmpo,Substitution,,0,0,163
+22300667,215,PT07M48.00S,2,1610612749,MIL,203109,Crowder,J. Crowder,-228,43,0,Missed,1,38,37,75,v,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,1,3,164
+22300667,216,PT07M48.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,38,37,75,v,Lillard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,165
+22300667,217,PT07M34.00S,2,1610612749,MIL,203109,Crowder,J. Crowder,-244,14,24,Made,1,38,40,78,v,Crowder 24' 3PT Step Back Jump Shot (3 PTS) (Portis 1 AST),Made Shot,Step Back Jump shot,1,3,166
+22300667,218,PT07M20.00S,2,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,38,40,78,h,SUB: Jokic FOR Braun,Substitution,,0,0,167
+22300667,219,PT07M20.00S,2,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,38,40,78,h,SUB: Caldwell-Pope FOR Jordan,Substitution,,0,0,168
+22300667,220,PT07M20.00S,2,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,38,40,78,h,SUB: Jackson FOR Murray,Substitution,,0,0,169
+22300667,225,PT07M16.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,157,140,21,Missed,1,38,40,78,h,MISS Porter Jr. 21' Jump Shot,Missed Shot,Jump Shot,1,2,170
+22300667,226,PT07M14.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,38,40,78,v,Portis REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,171
+22300667,227,PT07M00.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,-47,67,8,Made,1,38,42,80,v,B. Lopez 8' Jump Shot (7 PTS) (Lillard 3 AST),Made Shot,Jump Shot,1,2,172
+22300667,229,PT06M36.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,145,78,16,Missed,1,38,42,80,h,MISS Jokic 16' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,173
+22300667,230,PT06M31.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,38,42,80,v,Portis REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,174
+22300667,231,PT06M23.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,38,42,80,v,Lillard Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,175
+22300667,231,PT06M23.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,38,42,80,h,Jokic STEAL (1 STL),,,1,0,176
+22300667,233,PT06M18.00S,2,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,26,35,4,Made,1,40,42,82,h,Caldwell-Pope 4' Running Layup (4 PTS) (Jokic 3 AST),Made Shot,Running Layup Shot,1,2,177
+22300667,235,PT05M59.00S,2,1610612749,MIL,1626171,Portis,B. Portis,-147,29,15,Missed,1,40,42,82,v,MISS Portis 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,178
+22300667,236,PT05M57.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,40,42,82,h,Jokic REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,179
+22300667,237,PT05M49.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,44,10,5,Made,1,42,42,84,h,Porter Jr. 5' Layup (7 PTS) (Jokic 4 AST),Made Shot,Layup Shot,1,2,180
+22300667,240,PT05M35.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,42,42,84,h,Porter Jr. P.FOUL (P1.PN) (T.Brothers),Foul,Personal,1,0,181
+22300667,242,PT05M35.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,42,43,85,v,Lillard Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,182
+22300667,243,PT05M35.00S,2,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,42,43,85,h,SUB: Gordon FOR Watson,Substitution,,0,0,183
+22300667,244,PT05M35.00S,2,1610612749,MIL,203109,Crowder,J. Crowder,0,0,0,,0,42,43,85,v,SUB: Middleton FOR Crowder,Substitution,,0,0,184
+22300667,247,PT05M35.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,42,44,86,v,Lillard Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,185
+22300667,248,PT05M23.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,-42,45,6,Made,1,44,44,88,h,Jokic 6' Driving Hook Shot (7 PTS) (Jackson 2 AST),Made Shot,Driving Hook Shot,1,2,186
+22300667,250,PT05M12.00S,2,1610612749,MIL,1627736,Beasley,M. Beasley,-83,239,25,Missed,1,44,44,88,v,MISS Beasley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,187
+22300667,251,PT05M10.00S,2,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,44,44,88,h,Gordon REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,188
+22300667,252,PT04M53.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,186,186,26,Missed,1,44,44,88,h,MISS Porter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+22300667,253,PT04M51.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,44,44,88,v,Middleton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,190
+22300667,254,PT04M39.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,-81,243,26,Made,1,44,47,91,v,B. Lopez 26' 3PT Jump Shot (10 PTS) (Lillard 4 AST),Made Shot,Jump Shot,1,3,191
+22300667,258,PT04M19.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,32,115,12,Missed,1,44,47,91,h,MISS Jokic 12' Jump Shot,Missed Shot,Jump Shot,1,2,192
+22300667,259,PT04M15.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,44,47,91,v,Portis REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,193
+22300667,260,PT04M10.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,77,273,28,Made,1,44,50,94,v,B. Lopez 28' 3PT Jump Shot (13 PTS) (Portis 2 AST),Made Shot,Jump Shot,1,3,194
+22300667,262,PT04M09.00S,2,0,,1610612743,,,0,0,0,,0,44,50,94,h,NUGGETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,195
+22300667,263,PT04M09.00S,2,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,44,50,94,h,SUB: Murray FOR Jackson,Substitution,,0,0,196
+22300667,265,PT03M56.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,32,164,17,Made,1,46,50,96,h,Jokic 17' Jump Shot (9 PTS) (Murray 3 AST),Made Shot,Jump Shot,1,2,197
+22300667,267,PT03M43.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,-97,170,20,Made,1,46,52,98,v,Lillard 20' Fadeaway Jumper (12 PTS),Made Shot,Fadeaway Jump Shot,1,2,198
+22300667,268,PT03M27.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,46,52,98,v,Lillard P.FOUL (P1.T4) (M.Dagher),Foul,Personal,1,0,199
+22300667,270,PT03M20.00S,2,1610612743,DEN,1627750,Murray,J. Murray,58,187,20,Made,1,48,52,100,h,Murray 20' Pullup Jump Shot (13 PTS) (Jokic 5 AST),Made Shot,Pullup Jump shot,1,2,200
+22300667,272,PT02M55.00S,2,1610612749,MIL,1627736,Beasley,M. Beasley,27,28,4,Missed,1,48,52,100,v,MISS Beasley 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,201
+22300667,273,PT02M52.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,48,52,100,h,Porter Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,202
+22300667,274,PT02M46.00S,2,1610612743,DEN,1627750,Murray,J. Murray,26,5,3,Made,1,50,52,102,h,Murray 3' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,203
+22300667,275,PT02M46.00S,2,0,,1610612749,,,0,0,0,,0,50,52,102,v,Bucks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,204
+22300667,276,PT02M46.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,50,52,102,v,SUB: Payne FOR Lillard,Substitution,,0,0,205
+22300667,277,PT02M46.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,50,52,102,v,SUB: G. Antetokounmpo FOR Portis,Substitution,,0,0,206
+22300667,280,PT02M30.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,88,50,10,Missed,1,50,52,102,v,MISS B. Lopez 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,207
+22300667,281,PT02M27.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,50,52,102,h,Jokic REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,208
+22300667,282,PT02M21.00S,2,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,37,5,4,Missed,1,50,52,102,h,MISS Porter Jr. 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,209
+22300667,283,PT02M17.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,50,52,102,v,Middleton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,210
+22300667,284,PT02M15.00S,2,1610612749,MIL,1627736,Beasley,M. Beasley,227,69,24,Missed,1,50,52,102,v,MISS Beasley 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,211
+22300667,285,PT02M12.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,50,52,102,h,Jokic REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,212
+22300667,287,PT01M57.00S,2,1610612743,DEN,1627750,Murray,J. Murray,-16,-1,2,Made,1,52,52,104,h,Murray 2' Layup (17 PTS),Made Shot,Layup Shot,1,2,213
+22300667,288,PT01M57.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,52,52,104,v,G. Antetokounmpo Violation:Defensive Goaltending (M.Dagher),Violation,Defensive Goaltending,1,0,214
+22300667,289,PT01M46.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-1,163,16,Made,1,52,54,106,v,Middleton 16' Pullup Jump Shot (12 PTS) (G. Antetokounmpo 3 AST),Made Shot,Pullup Jump shot,1,2,215
+22300667,291,PT01M22.00S,2,1610612743,DEN,203999,Jokić,N. Jokić,61,66,9,Missed,1,52,54,106,h,MISS Jokic 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,216
+22300667,292,PT01M19.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,52,54,106,v,G. Antetokounmpo REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,217
+22300667,294,PT01M10.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-227,4,0,Missed,1,52,54,106,v,MISS Middleton 3PT Jump Shot,Missed Shot,Jump Shot,0,3,218
+22300667,295,PT01M08.00S,2,0,,1610612743,,,0,0,0,,0,52,54,106,h,NUGGETS Rebound,Rebound,Unknown,0,0,219
+22300667,296,PT00M58.90S,2,1610612743,DEN,1627750,Murray,J. Murray,50,80,9,Made,1,54,54,108,h,Murray 9' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,1,2,220
+22300667,297,PT00M45.60S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-12,32,3,Made,1,54,56,110,v,G. Antetokounmpo 3' Turnaround Hook Shot (10 PTS) (B. Lopez 1 AST),Made Shot,Turnaround Hook Shot,1,2,221
+22300667,299,PT00M29.80S,2,1610612743,DEN,1627750,Murray,J. Murray,-110,151,19,Made,1,56,56,112,h,Murray 19' Jump Shot (21 PTS),Made Shot,Jump Shot,1,2,222
+22300667,300,PT00M06.80S,2,1610612749,MIL,1627736,Beasley,M. Beasley,127,239,27,Missed,1,56,56,112,v,MISS Beasley 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,223
+22300667,301,PT00M05.30S,2,0,,1610612749,,,0,0,0,,0,56,56,112,v,Bucks Rebound,Rebound,Unknown,1,0,224
+22300667,302,PT00M05.30S,2,0,,1610612749,,,0,0,0,,0,56,56,112,v,Bucks Turnover: Shot Clock (T#3),Turnover,Shot Clock Turnover,1,0,225
+22300667,305,PT00M05.30S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,56,56,112,v,SUB: Portis FOR G. Antetokounmpo,Substitution,,0,0,226
+22300667,303,PT00M01.80S,2,1610612743,DEN,1627750,Murray,J. Murray,-66,173,19,Missed,1,56,56,112,h,MISS Murray 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,227
+22300667,304,PT00M01.80S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,56,56,112,v,Portis REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,228
+22300667,307,PT00M00.00S,2,0,,0,,,0,0,0,,0,56,56,112,,End of 2nd Period (10:08 PM EST),period,end,1,0,229
+22300667,314,PT12M00.00S,3,0,,0,,,0,0,0,,0,56,56,112,,Start of 3rd Period (10:21 PM EST),period,start,0,0,230
+22300667,315,PT11M53.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,56,56,112,v,Middleton OFF.Foul (P1) (M.Dagher),Foul,Offensive,1,0,231
+22300667,317,PT11M53.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,56,56,112,v,Middleton Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,232
+22300667,318,PT11M36.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-25,163,16,Missed,1,56,56,112,h,MISS Jokic 16' Jump Shot,Missed Shot,Jump Shot,1,2,233
+22300667,319,PT11M33.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,56,56,112,v,Middleton REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,234
+22300667,320,PT11M28.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,56,56,112,v,Middleton Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,1,0,235
+22300667,321,PT11M13.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,17,164,16,Made,1,58,56,114,h,Caldwell-Pope 16' Pullup Jump Shot (6 PTS) (Jokic 6 AST),Made Shot,Pullup Jump shot,1,2,236
+22300667,323,PT10M52.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,113,281,30,Missed,1,58,56,114,v,MISS B. Lopez 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+22300667,324,PT10M49.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,58,56,114,h,Porter Jr. REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,238
+22300667,325,PT10M41.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,27,0,3,Missed,1,58,56,114,h,MISS Jokic 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,239
+22300667,325,PT10M41.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,58,56,114,v,B. Lopez BLOCK (1 BLK),,,1,2,240
+22300667,327,PT10M38.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,58,56,114,v,Middleton REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,241
+22300667,328,PT10M35.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-94,161,19,Made,1,58,58,116,v,Middleton 19' Running Pull-Up Jump Shot (14 PTS),Made Shot,Running Pull-Up Jump Shot,1,2,242
+22300667,329,PT10M16.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,58,58,116,h,Gordon OFF.Foul (P1) (D.Taylor),Foul,Offensive,1,0,243
+22300667,331,PT10M16.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,58,58,116,h,Gordon Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,1,0,244
+22300667,332,PT10M02.00S,3,1610612749,MIL,1627736,Beasley,M. Beasley,239,51,24,Made,1,58,61,119,v,Beasley 24' 3PT Jump Shot (5 PTS) (B. Lopez 2 AST),Made Shot,Jump Shot,1,3,245
+22300667,334,PT09M44.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,-27,27,4,Missed,1,58,61,119,h,MISS Gordon 4' Layup,Missed Shot,Layup Shot,1,2,246
+22300667,334,PT09M44.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,58,61,119,v,B. Lopez BLOCK (2 BLK),,,1,2,247
+22300667,336,PT09M39.00S,3,1610612749,MIL,1627736,Beasley,M. Beasley,0,0,0,,0,58,61,119,v,Beasley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,248
+22300667,337,PT09M35.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,25,30,4,Made,1,58,63,121,v,G. Antetokounmpo 4' Running Reverse Layup (12 PTS),Made Shot,Running Reverse Layup Shot,1,2,249
+22300667,338,PT09M29.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-11,29,3,Missed,1,58,63,121,h,MISS Murray 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,250
+22300667,339,PT09M26.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,58,63,121,v,G. Antetokounmpo REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,251
+22300667,435,PT09M23.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,10,22,2,Missed,1,58,63,121,v,MISS G. Antetokounmpo 2' Running Layup,Missed Shot,Running Layup Shot,1,2,252
+22300667,435,PT09M23.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,58,63,121,h,Jokic BLOCK (1 BLK),,,1,2,253
+22300667,437,PT09M23.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,58,63,121,v,G. Antetokounmpo REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,254
+22300667,340,PT09M19.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,186,179,26,Missed,1,58,63,121,v,MISS Middleton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+22300667,341,PT09M14.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,58,63,121,h,Jokic REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,256
+22300667,342,PT09M09.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,20,1,2,Made,1,60,63,123,h,Jokic 2' Running Dunk (11 PTS) (Gordon 1 AST),Made Shot,Running Dunk Shot,1,2,257
+22300667,345,PT08M49.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,60,63,123,v,Lillard Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,258
+22300667,345,PT08M49.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,60,63,123,h,Jokic STEAL (2 STL),,,1,0,259
+22300667,347,PT08M49.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,60,63,123,v,B. Lopez P.FOUL (P2.T1) (T.Brothers),Foul,Personal,1,0,260
+22300667,349,PT08M49.00S,3,0,,347,,,0,0,0,,0,60,63,123,,Instant Replay3rd Period (10:25 PM EST),Instant Replay,Support Ruling,0,0,261
+22300667,351,PT08M33.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,-235,99,26,Made,1,63,63,126,h,Gordon 26' 3PT Jump Shot (6 PTS) (Jokic 7 AST),Made Shot,Jump Shot,1,3,262
+22300667,353,PT08M17.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,63,63,126,v,Middleton Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,263
+22300667,353,PT08M17.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,63,63,126,h,Murray STEAL (1 STL),,,1,0,264
+22300667,355,PT08M12.00S,3,1610612743,DEN,1627750,Murray,J. Murray,-21,13,2,Missed,1,63,63,126,h,MISS Murray 2' Running Layup,Missed Shot,Running Layup Shot,1,2,265
+22300667,356,PT08M08.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,63,63,126,h,Murray REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,266
+22300667,357,PT08M06.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-55,213,22,Missed,1,63,63,126,h,MISS Porter Jr. 22' Jump Shot,Missed Shot,Jump Shot,1,2,267
+22300667,358,PT08M04.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,63,63,126,v,Middleton REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,268
+22300667,360,PT07M55.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,63,63,126,h,Porter Jr. P.FOUL (P2.T1) (M.Dagher),Foul,Personal,1,0,269
+22300667,362,PT07M50.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,63,63,126,h,Caldwell-Pope P.FOUL (P1.T2) (M.Dagher),Foul,Personal,1,0,270
+22300667,364,PT07M38.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-9,0,1,Made,1,63,65,128,v,G. Antetokounmpo 1' Layup (14 PTS) (Lillard 5 AST),Made Shot,Layup Shot,1,2,271
+22300667,365,PT07M27.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-6,17,2,Made,1,65,65,130,h,Caldwell-Pope 2' Reverse Layup (8 PTS) (Jokic 8 AST),Made Shot,Reverse Layup Shot,1,2,272
+22300667,367,PT07M18.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,65,65,130,v,Lillard Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,273
+22300667,367,PT07M18.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,65,65,130,h,Jokic STEAL (3 STL),,,1,0,274
+22300667,369,PT07M12.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,65,65,130,h,Jokic Lost Ball Turnover (P2.T5),Turnover,Lost Ball,1,0,275
+22300667,369,PT07M12.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,65,65,130,v,G. Antetokounmpo STEAL (1 STL),,,1,0,276
+22300667,371,PT07M09.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,65,65,130,v,G. Antetokounmpo Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,277
+22300667,371,PT07M09.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,65,65,130,h,Murray STEAL (2 STL),,,1,0,278
+22300667,373,PT07M03.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,65,65,130,v,Lillard S.FOUL (P2.T2) (D.Taylor),Foul,Shooting,1,0,279
+22300667,376,PT07M03.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,66,65,131,h,Gordon Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,280
+22300667,377,PT07M03.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,67,65,132,h,Gordon Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,281
+22300667,378,PT06M50.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,67,65,132,v,Lillard Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,0,282
+22300667,378,PT06M50.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,67,65,132,h,Caldwell-Pope STEAL (1 STL),,,1,0,283
+22300667,382,PT06M50.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,67,65,132,v,Middleton P.FOUL (P2.T3) (T.Brothers),Foul,Personal,1,0,284
+22300667,386,PT06M50.00S,3,0,,1610612743,,,0,0,0,,0,67,65,132,h,NUGGETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,285
+22300667,385,PT06M50.00S,3,0,,382,,,0,0,0,,0,67,65,132,,Instant Replay3rd Period (10:31 PM EST),Instant Replay,Support Ruling,0,0,286
+22300667,387,PT06M32.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-12,26,3,Missed,1,67,65,132,h,MISS Jokic 3' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,287
+22300667,388,PT06M30.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,67,65,132,v,G. Antetokounmpo REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,288
+22300667,390,PT06M15.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,67,65,132,h,Gordon S.FOUL (P2.T3) (M.Dagher),Foul,Shooting,1,0,289
+22300667,392,PT06M15.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,67,65,132,v,MISS G. Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,290
+22300667,393,PT06M15.00S,3,0,,1610612749,,,0,0,0,,0,67,65,132,v,Bucks Rebound,Rebound,Normal Rebound,0,0,291
+22300667,394,PT06M15.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,67,66,133,v,G. Antetokounmpo Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,292
+22300667,428,PT05M56.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-5,7,1,Missed,1,67,66,133,h,MISS Jokic 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,293
+22300667,428,PT05M56.00S,3,1610612749,MIL,1627736,Beasley,M. Beasley,0,0,0,,0,67,66,133,v,Beasley BLOCK (1 BLK),,,1,2,294
+22300667,430,PT05M56.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,67,66,133,v,G. Antetokounmpo REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,295
+22300667,397,PT05M53.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,11,8,1,Made,1,67,68,135,v,G. Antetokounmpo 1' Running Dunk (17 PTS) (Middleton 2 AST),Made Shot,Running Dunk Shot,1,2,296
+22300667,399,PT05M31.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-201,-15,20,Made,1,69,68,137,h,Porter Jr. 20' Jump Shot (9 PTS) (Murray 4 AST),Made Shot,Jump Shot,1,2,297
+22300667,400,PT05M11.00S,3,1610612749,MIL,1627736,Beasley,M. Beasley,-224,-11,0,Missed,1,69,68,137,v,MISS Beasley 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+22300667,401,PT05M10.00S,3,0,,1610612749,,,0,0,0,,0,69,68,137,v,Bucks Rebound,Rebound,Unknown,1,0,299
+22300667,402,PT05M10.00S,3,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,69,68,137,h,SUB: Jackson FOR Murray,Substitution,,0,0,300
+22300667,403,PT05M10.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,69,68,137,v,SUB: Portis FOR G. Antetokounmpo,Substitution,,0,0,301
+22300667,406,PT05M01.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,241,68,25,Missed,1,69,68,137,v,MISS Lillard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,302
+22300667,407,PT04M58.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,69,68,137,h,Jokic REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,303
+22300667,408,PT04M43.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-86,168,19,Missed,1,69,68,137,h,MISS Caldwell-Pope 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,304
+22300667,409,PT04M39.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,69,68,137,v,Portis REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,305
+22300667,585,PT04M36.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,-61,29,7,Missed,1,69,68,137,v,MISS Lillard 7' Driving Layup,Missed Shot,Driving Layup Shot,0,2,306
+22300667,585,PT04M36.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,69,68,137,h,Jokic BLOCK (2 BLK),,,0,2,307
+22300667,587,PT04M36.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,69,68,137,h,Gordon REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,308
+22300667,412,PT04M30.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,69,68,137,v,Middleton S.FOUL (P3.T4) (M.Dagher),Foul,Shooting,1,0,309
+22300667,414,PT04M30.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,69,68,137,h,MISS Jokic Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,310
+22300667,415,PT04M30.00S,3,0,,1610612743,,,0,0,0,,0,69,68,137,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0,311
+22300667,416,PT04M30.00S,3,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,0,0,0,,0,69,68,137,h,SUB: Watson FOR Porter Jr.,Substitution,,0,0,312
+22300667,417,PT04M30.00S,3,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,69,68,137,h,SUB: Braun FOR Gordon,Substitution,,0,0,313
+22300667,420,PT04M30.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,70,68,138,h,Jokic Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,314
+22300667,421,PT04M11.00S,3,1610612749,MIL,1626171,Portis,B. Portis,45,26,5,Missed,1,70,68,138,v,MISS Portis 5' Layup,Missed Shot,Layup Shot,1,2,315
+22300667,422,PT04M08.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,70,68,138,h,Jokic REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,316
+22300667,423,PT04M02.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-5,22,2,Made,1,72,68,140,h,Jokic 2' Turnaround Hook Shot (14 PTS),Made Shot,Turnaround Hook Shot,1,2,317
+22300667,424,PT03M55.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,72,68,140,h,Jokic P.FOUL (P1.T4) (D.Taylor),Foul,Personal,1,0,318
+22300667,426,PT03M55.00S,3,0,,1610612749,,,0,0,0,,0,72,68,140,v,Bucks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,319
+22300667,427,PT03M55.00S,3,0,,424,,,0,0,0,,0,72,68,140,,Instant Replay3rd Period (10:39 PM EST),Instant Replay,Support Ruling,0,0,320
+22300667,431,PT03M55.00S,3,1610612749,MIL,1627736,Beasley,M. Beasley,0,0,0,,0,72,68,140,v,SUB: Crowder FOR Beasley,Substitution,,0,0,321
+22300667,432,PT03M55.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,72,68,140,v,SUB: Connaughton FOR Middleton,Substitution,,0,0,322
+22300667,438,PT03M45.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,32,11,3,Missed,1,72,68,140,v,MISS B. Lopez 3' Layup,Missed Shot,Layup Shot,1,2,323
+22300667,439,PT03M42.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,72,68,140,h,Jokic REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,324
+22300667,440,PT03M31.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-26,170,17,Missed,1,72,68,140,h,MISS Jokic 17' Jump Shot,Missed Shot,Jump Shot,1,2,325
+22300667,441,PT03M28.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,72,68,140,v,Portis REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,326
+22300667,442,PT03M23.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,132,148,20,Made,1,72,70,142,v,Lillard 20' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,2,327
+22300667,443,PT03M05.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-26,97,10,Made,1,74,70,144,h,Jokic 10' Floating Jump Shot (16 PTS) (Jackson 3 AST),Made Shot,Floating Jump shot,1,2,328
+22300667,445,PT02M53.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,-94,245,26,Missed,1,74,70,144,v,MISS Lillard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,329
+22300667,446,PT02M51.00S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,74,70,144,h,Braun REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,330
+22300667,447,PT02M43.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,-229,100,25,Missed,1,74,70,144,h,MISS Caldwell-Pope 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,331
+22300667,448,PT02M35.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,74,70,144,v,B. Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,332
+22300667,449,PT02M26.00S,3,1610612749,MIL,1626171,Portis,B. Portis,-4,46,5,Missed,1,74,70,144,v,MISS Portis 5' Hook Shot,Missed Shot,Hook Shot,1,2,333
+22300667,450,PT02M23.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,74,70,144,h,Jokic REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,334
+22300667,451,PT02M16.00S,3,1610612743,DEN,202704,Jackson,R. Jackson,18,10,2,Made,1,76,70,146,h,Jackson 2' Running Layup (9 PTS) (Jokic 9 AST),Made Shot,Running Layup Shot,1,2,335
+22300667,453,PT01M56.00S,3,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,76,70,146,h,Jackson P.FOUL (P2.PN) (T.Brothers),Foul,Personal,1,0,336
+22300667,455,PT01M56.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,76,71,147,v,Connaughton Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,337
+22300667,456,PT01M56.00S,3,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,76,71,147,h,SUB: Murray FOR Caldwell-Pope,Substitution,,0,0,338
+22300667,457,PT01M56.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,76,71,147,v,SUB: Payne FOR Lillard,Substitution,,0,0,339
+22300667,458,PT01M56.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,76,71,147,v,SUB: G. Antetokounmpo FOR B. Lopez,Substitution,,0,0,340
+22300667,462,PT01M56.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,76,72,148,v,Connaughton Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,341
+22300667,463,PT01M40.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,-20,41,5,Made,1,78,72,150,h,Jokic 5' Turnaround Jump Shot (18 PTS) (Jackson 4 AST),Made Shot,Turnaround Jump Shot,1,2,342
+22300667,465,PT01M31.00S,3,1610612749,MIL,1626171,Portis,B. Portis,89,264,28,Missed,1,78,72,150,v,MISS Portis 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+22300667,466,PT01M28.00S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,78,72,150,h,Braun REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,344
+22300667,467,PT01M24.00S,3,1610612743,DEN,1631212,Watson,P. Watson,12,6,1,Made,1,80,72,152,h,Watson 1' Running Layup (4 PTS) (Jokic 10 AST),Made Shot,Running Layup Shot,1,2,345
+22300667,469,PT01M10.00S,3,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,80,72,152,h,Jackson P.FOUL (P3.PN) (T.Brothers),Foul,Personal,1,0,346
+22300667,471,PT01M10.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,80,73,153,v,Connaughton Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,347
+22300667,472,PT01M10.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,80,74,154,v,Connaughton Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,348
+22300667,473,PT00M49.80S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,80,74,154,v,G. Antetokounmpo P.FOUL (P3.PN) (D.Taylor),Foul,Personal,1,0,349
+22300667,475,PT00M49.80S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,81,74,155,h,Jokic Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,350
+22300667,476,PT00M49.80S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,82,74,156,h,Jokic Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,351
+22300667,477,PT00M31.40S,3,1610612749,MIL,203109,Crowder,J. Crowder,223,155,27,Missed,1,82,74,156,v,MISS Crowder 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,352
+22300667,478,PT00M29.00S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,82,74,156,h,Braun REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,353
+22300667,479,PT00M09.60S,3,1610612743,DEN,202704,Jackson,R. Jackson,-235,-10,24,Missed,1,82,74,156,h,MISS Jackson 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,354
+22300667,480,PT00M08.00S,3,0,,1610612749,,,0,0,0,,0,82,74,156,v,Bucks Rebound,Rebound,Unknown,1,0,355
+22300667,481,PT00M08.00S,3,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,82,74,156,h,SUB: Gordon FOR Jokic,Substitution,,0,0,356
+22300667,483,PT00M08.00S,3,1610612749,MIL,1626166,Payne,C. Payne,0,0,0,,0,82,74,156,v,SUB: Lillard FOR Payne,Substitution,,0,0,357
+22300667,485,PT00M08.00S,3,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,82,74,156,h,SUB: Caldwell-Pope FOR Jackson,Substitution,,0,0,358
+22300667,487,PT00M03.70S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,82,74,156,h,Braun S.FOUL (P2.PN) (D.Taylor),Foul,Shooting,1,0,359
+22300667,489,PT00M03.70S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,82,74,156,v,MISS G. Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,360
+22300667,490,PT00M03.70S,3,0,,1610612749,,,0,0,0,,0,82,74,156,v,Bucks Rebound,Rebound,Normal Rebound,1,0,361
+22300667,491,PT00M03.70S,3,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,82,74,156,h,SUB: Jokic FOR Braun,Substitution,,0,0,362
+22300667,492,PT00M03.70S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,82,74,156,v,SUB: B. Lopez FOR Lillard,Substitution,,0,0,363
+22300667,493,PT00M03.70S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,82,74,156,v,SUB: Beasley FOR Portis,Substitution,,0,0,364
+22300667,497,PT00M03.70S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,82,75,157,v,G. Antetokounmpo Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,365
+22300667,498,PT00M00.20S,3,1610612743,DEN,203999,Jokić,N. Jokić,110,320,34,Missed,1,82,75,157,h,MISS Jokic 34' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+22300667,499,PT00M00.10S,3,0,,1610612743,,,0,0,0,,0,82,75,157,h,NUGGETS Rebound,Rebound,Unknown,1,0,367
+22300667,500,PT00M00.00S,3,0,,0,,,0,0,0,,0,82,75,157,,End of 3rd Period (10:51 PM EST),period,end,1,0,368
+22300667,511,PT12M00.00S,4,0,,0,,,0,0,0,,0,82,75,157,,Start of 4th Period (10:54 PM EST),period,start,0,0,369
+22300667,512,PT11M44.00S,4,1610612743,DEN,201599,Jordan,D. Jordan,-7,15,2,Made,1,84,75,159,h,Jordan 2' Alley Oop Dunk (5 PTS) (Jackson 5 AST),Made Shot,Alley Oop Dunk Shot,1,2,370
+22300667,514,PT11M26.00S,4,1610612749,MIL,1626171,Portis,B. Portis,28,17,3,Missed,1,84,75,159,v,MISS Portis 3' Layup,Missed Shot,Layup Shot,1,2,371
+22300667,515,PT11M24.00S,4,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,84,75,159,h,Jordan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,372
+22300667,516,PT11M16.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,84,75,159,h,Murray Offensive Charge Foul (P1) (T.Brothers),Foul,Offensive Charge,1,0,373
+22300667,518,PT11M16.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,84,75,159,h,Murray Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,374
+22300667,519,PT11M06.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-6,0,1,Made,1,84,77,161,v,G. Antetokounmpo 1' Driving Dunk (20 PTS) (Payne 1 AST),Made Shot,Driving Dunk Shot,1,2,375
+22300667,520,PT10M48.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,84,77,161,h,Murray Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,376
+22300667,520,PT10M48.00S,4,1610612749,MIL,1626166,Payne,C. Payne,0,0,0,,0,84,77,161,v,Payne STEAL (1 STL),,,1,0,377
+22300667,522,PT10M44.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,84,77,161,h,Jackson S.FOUL (P4.T1) (M.Dagher),Foul,Shooting,1,0,378
+22300667,524,PT10M44.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,84,78,162,v,Portis Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,379
+22300667,525,PT10M44.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,84,79,163,v,Portis Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,380
+22300667,526,PT10M26.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,6,163,16,Missed,1,84,79,163,h,MISS Jackson 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,381
+22300667,527,PT10M24.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,84,79,163,v,Portis REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,382
+22300667,528,PT10M12.00S,4,1610612749,MIL,1626166,Payne,C. Payne,218,137,26,Made,1,84,82,166,v,Payne 26' 3PT Jump Shot (3 PTS) (Crowder 1 AST),Made Shot,Jump Shot,1,3,383
+22300667,530,PT09M55.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-11,13,2,Made,1,86,82,168,h,Murray 2' Driving Finger Roll Layup (23 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,384
+22300667,531,PT09M39.00S,4,1610612749,MIL,1626171,Portis,B. Portis,241,45,25,Made,1,86,85,171,v,Portis 25' 3PT Jump Shot (6 PTS) (Connaughton 2 AST),Made Shot,Jump Shot,1,3,385
+22300667,533,PT09M39.00S,4,0,,1610612743,,,0,0,0,,0,86,85,171,h,NUGGETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,386
+22300667,535,PT09M39.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,86,85,171,h,SUB: Jokic FOR Jackson,Substitution,,0,0,387
+22300667,536,PT09M39.00S,4,1610612743,DEN,201599,Jordan,D. Jordan,0,0,0,,0,86,85,171,h,SUB: Porter Jr. FOR Jordan,Substitution,,0,0,388
+22300667,539,PT09M13.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,61,260,27,Missed,1,86,85,171,h,MISS Jokic 27' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,389
+22300667,540,PT09M06.00S,4,1610612749,MIL,1626166,Payne,C. Payne,0,0,0,,0,86,85,171,v,Payne REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,390
+22300667,541,PT08M58.00S,4,1610612749,MIL,1626171,Portis,B. Portis,-237,79,25,Made,1,86,88,174,v,Portis 25' 3PT Jump Shot (9 PTS) (Connaughton 3 AST),Made Shot,Jump Shot,1,3,391
+22300667,543,PT08M34.00S,4,1610612743,DEN,1631212,Watson,P. Watson,10,7,1,Made,1,88,88,176,h,Watson 1' Dunk (6 PTS) (Murray 5 AST),Made Shot,Dunk Shot,1,2,392
+22300667,545,PT08M19.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-4,6,1,Made,1,88,90,178,v,G. Antetokounmpo 1' Dunk (22 PTS) (Payne 2 AST),Made Shot,Dunk Shot,1,2,393
+22300667,547,PT08M09.00S,4,1610612749,MIL,203109,Crowder,J. Crowder,0,0,0,,0,88,90,178,v,Crowder S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,1,0,394
+22300667,549,PT08M09.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,89,90,179,h,Murray Free Throw 1 of 3 (24 PTS),Free Throw,Free Throw 1 of 3,1,0,395
+22300667,550,PT08M09.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,90,90,180,h,Murray Free Throw 2 of 3 (25 PTS),Free Throw,Free Throw 2 of 3,1,0,396
+22300667,551,PT08M09.00S,4,1610612743,DEN,1631128,Braun,C. Braun,0,0,0,,0,90,90,180,h,SUB: Gordon FOR Braun,Substitution,,0,0,397
+22300667,553,PT08M09.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,91,90,181,h,Murray Free Throw 3 of 3 (26 PTS),Free Throw,Free Throw 3 of 3,1,0,398
+22300667,554,PT07M58.00S,4,1610612749,MIL,1626171,Portis,B. Portis,-232,10,0,Missed,1,91,90,181,v,MISS Portis 3PT Jump Shot,Missed Shot,Jump Shot,1,3,399
+22300667,555,PT07M55.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,91,90,181,h,Watson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,400
+22300667,556,PT07M51.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,91,90,181,v,G. Antetokounmpo P.FOUL (P4.T2) (D.Taylor),Foul,Personal,1,0,401
+22300667,558,PT07M51.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,91,90,181,h,SUB: Jackson FOR Watson,Substitution,,0,0,402
+22300667,559,PT07M51.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,91,90,181,h,SUB: Caldwell-Pope FOR Murray,Substitution,,0,0,403
+22300667,560,PT07M51.00S,4,1610612749,MIL,1626166,Payne,C. Payne,0,0,0,,0,91,90,181,v,SUB: B. Lopez FOR Payne,Substitution,,0,0,404
+22300667,561,PT07M51.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,91,90,181,v,SUB: Middleton FOR Connaughton,Substitution,,0,0,405
+22300667,562,PT07M51.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,91,90,181,v,SUB: Lillard FOR G. Antetokounmpo,Substitution,,0,0,406
+22300667,568,PT07M43.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,-18,32,4,Missed,1,91,90,181,h,MISS Porter Jr. 4' Jump Shot,Missed Shot,Jump Shot,1,2,407
+22300667,569,PT07M37.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,91,90,181,v,Portis REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,408
+22300667,570,PT07M25.00S,4,1610612749,MIL,1626171,Portis,B. Portis,22,51,6,Missed,1,91,90,181,v,MISS Portis 6' Jump Shot,Missed Shot,Jump Shot,1,2,409
+22300667,571,PT07M22.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,91,90,181,h,Jokic REBOUND (Off:0 Def:12),Rebound,Unknown,1,0,410
+22300667,572,PT07M14.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,91,90,181,v,Portis P.FOUL (P3.T3) (T.Brothers),Foul,Personal,1,0,411
+22300667,574,PT07M09.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,-147,210,26,Missed,1,91,90,181,h,MISS Jokic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,412
+22300667,575,PT07M07.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,91,90,181,v,Middleton REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,413
+22300667,576,PT06M59.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,-78,257,27,Missed,1,91,90,181,v,MISS B. Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+22300667,577,PT06M59.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,91,90,181,h,Gordon REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,415
+22300667,578,PT06M56.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,-23,10,3,Made,1,93,90,183,h,Jokic 3' Running Layup (22 PTS) (Gordon 2 AST),Made Shot,Running Layup Shot,1,2,416
+22300667,580,PT06M56.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,93,90,183,v,B. Lopez S.FOUL (P3.T4) (M.Dagher),Foul,Shooting,1,0,417
+22300667,588,PT06M56.00S,4,0,,1610612749,,,0,0,0,,0,93,90,183,v,Bucks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,418
+22300667,589,PT06M56.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,93,90,183,v,SUB: G. Antetokounmpo FOR Portis,Substitution,,0,0,419
+22300667,591,PT06M56.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,94,90,184,h,Jokic Free Throw 1 of 1 (23 PTS),Free Throw,Free Throw 1 of 1,1,0,420
+22300667,592,PT06M42.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,94,90,184,h,Gordon S.FOUL (P3.T2) (D.Taylor),Foul,Shooting,1,0,421
+22300667,594,PT06M42.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,94,91,185,v,Lillard Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,422
+22300667,595,PT06M42.00S,4,1610612749,MIL,203109,Crowder,J. Crowder,0,0,0,,0,94,91,185,v,SUB: Beasley FOR Crowder,Substitution,,0,0,423
+22300667,597,PT06M42.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,94,92,186,v,Lillard Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,424
+22300667,598,PT06M32.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,-13,21,2,Missed,1,94,92,186,h,MISS Jackson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,425
+22300667,599,PT06M30.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,94,92,186,h,Jokic REBOUND (Off:1 Def:12),Rebound,Unknown,1,0,426
+22300667,600,PT06M21.00S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,71,168,18,Made,1,96,92,188,h,Caldwell-Pope 18' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,2,427
+22300667,601,PT06M08.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,29,77,8,Missed,1,96,92,188,v,MISS G. Antetokounmpo 8' Hook Shot,Missed Shot,Hook Shot,1,2,428
+22300667,602,PT06M04.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,96,92,188,v,Lillard REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,429
+22300667,603,PT05M59.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,96,92,188,h,Gordon P.FOUL (P4.T3) (T.Brothers),Foul,Personal,1,0,430
+22300667,605,PT05M59.00S,4,1610612743,DEN,202704,Jackson,R. Jackson,0,0,0,,0,96,92,188,h,SUB: Murray FOR Jackson,Substitution,,0,0,431
+22300667,607,PT05M48.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,96,92,188,h,Gordon S.FOUL (P5.T4) (D.Taylor),Foul,Shooting,1,0,432
+22300667,609,PT05M48.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,96,93,189,v,Lillard Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,433
+22300667,610,PT05M48.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,96,94,190,v,Lillard Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,434
+22300667,611,PT05M33.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-120,144,19,Made,1,98,94,192,h,Murray 19' Fadeaway Jumper (28 PTS) (Jokic 11 AST),Made Shot,Fadeaway Jump Shot,1,2,435
+22300667,612,PT05M19.00S,4,1610612749,MIL,203081,Lillard,D. Lillard,26,-7,3,Missed,1,98,94,192,v,MISS Lillard 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,436
+22300667,613,PT05M16.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,98,94,192,h,Jokic REBOUND (Off:1 Def:13),Rebound,Unknown,1,0,437
+22300667,614,PT05M12.00S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,162,190,25,Missed,1,98,94,192,h,MISS Caldwell-Pope 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,438
+22300667,615,PT05M09.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,98,94,192,v,Middleton REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,439
+22300667,616,PT05M02.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,181,220,28,Made,1,98,97,195,v,B. Lopez 28' 3PT Jump Shot (16 PTS) (Middleton 3 AST),Made Shot,Jump Shot,1,3,440
+22300667,619,PT04M40.00S,4,1610612749,MIL,1627736,Beasley,M. Beasley,0,0,0,,0,98,97,195,v,Beasley P.FOUL (P1.PN) (D.Taylor),Foul,Personal,1,0,441
+22300667,621,PT04M40.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,99,97,196,h,Murray Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,0,0,442
+22300667,622,PT04M40.00S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,99,97,196,h,SUB: Watson FOR Gordon,Substitution,,0,0,443
+22300667,624,PT04M40.00S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,100,97,197,h,Murray Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,1,0,444
+22300667,625,PT04M26.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,100,97,197,v,Middleton Bad Pass Turnover (P4.T11),Turnover,Bad Pass,1,0,445
+22300667,625,PT04M26.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,100,97,197,h,Watson STEAL (1 STL),,,1,0,446
+22300667,627,PT04M23.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,10,5,1,Made,1,102,97,199,h,Porter Jr. 1' Running Layup (11 PTS) (Watson 2 AST),Made Shot,Running Layup Shot,1,2,447
+22300667,629,PT04M23.00S,4,0,,1610612749,,,0,0,0,,0,102,97,199,v,Bucks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,448
+22300667,631,PT04M23.00S,4,0,,1610612749,,,0,0,0,,0,102,97,199,v,Bucks Violation: Delay of game Violation,Violation,Delay Of Game,0,0,449
+22300667,632,PT04M08.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,102,97,199,v,B. Lopez OFF.Foul (P4) (D.Taylor),Foul,Offensive,1,0,450
+22300667,634,PT04M08.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,102,97,199,v,B. Lopez Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,1,0,451
+22300667,635,PT03M46.00S,4,1610612743,DEN,1629008,Porter Jr.,M. Porter Jr.,1,-1,0,Made,1,104,97,201,h,Porter Jr. Dunk (13 PTS) (Jokic 12 AST),Made Shot,Dunk Shot,1,2,452
+22300667,637,PT03M31.00S,4,1610612749,MIL,203114,Middleton,K. Middleton,-85,247,26,Missed,1,104,97,201,v,MISS Middleton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,453
+22300667,638,PT03M29.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,104,97,201,h,Watson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,454
+22300667,639,PT03M17.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-103,99,14,Made,1,106,97,203,h,Murray 14' Jump Shot (32 PTS),Made Shot,Jump Shot,1,2,455
+22300667,640,PT03M16.00S,4,0,,1610612749,,,0,0,0,,0,106,97,203,v,Bucks Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,456
+22300667,641,PT03M08.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,106,97,203,h,Watson S.FOUL (P2.PN) (D.Taylor),Foul,Shooting,1,0,457
+22300667,644,PT03M08.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,106,98,204,v,G. Antetokounmpo Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,458
+22300667,645,PT03M08.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,106,99,205,v,G. Antetokounmpo Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,459
+22300667,646,PT02M46.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,10,26,3,Made,1,108,99,207,h,Jokic 3' Turnaround Hook Shot (25 PTS),Made Shot,Turnaround Hook Shot,1,2,460
+22300667,647,PT02M36.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,199,210,29,Made,1,108,102,210,v,B. Lopez 29' 3PT Jump Shot (19 PTS) (G. Antetokounmpo 4 AST),Made Shot,Jump Shot,1,3,461
+22300667,649,PT02M09.00S,4,1610612743,DEN,1631212,Watson,P. Watson,22,3,2,Missed,1,108,102,210,h,MISS Watson 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,462
+22300667,650,PT02M09.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,108,102,210,v,G. Antetokounmpo REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,463
+22300667,651,PT02M09.00S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,108,102,210,h,Watson S.FOUL (P3.PN) (T.Brothers),Foul,Shooting,1,0,464
+22300667,654,PT02M09.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,108,102,210,v,MISS G. Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,465
+22300667,655,PT02M09.00S,4,0,,1610612749,,,0,0,0,,0,108,102,210,v,Bucks Rebound,Rebound,Normal Rebound,1,0,466
+22300667,656,PT02M09.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,108,102,210,v,MISS G. Antetokounmpo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,467
+22300667,657,PT02M04.00S,4,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,108,102,210,v,B. Lopez REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,468
+22300667,658,PT01M59.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-146,215,26,Made,1,108,105,213,v,G. Antetokounmpo 26' 3PT Jump Shot (27 PTS) (Beasley 2 AST),Made Shot,Jump Shot,1,3,469
+22300667,660,PT01M41.00S,4,1610612743,DEN,1627750,Murray,J. Murray,45,137,14,Made,1,110,105,215,h,Murray 14' Pullup Jump Shot (34 PTS),Made Shot,Pullup Jump shot,1,2,470
+22300667,661,PT01M28.00S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,38,22,4,Missed,1,110,105,215,v,MISS G. Antetokounmpo 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,471
+22300667,662,PT01M26.00S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,110,105,215,h,Jokic REBOUND (Off:1 Def:14),Rebound,Unknown,1,0,472
+22300667,663,PT01M11.00S,4,1610612743,DEN,1627750,Murray,J. Murray,-196,172,26,Missed,1,110,105,215,h,MISS Murray 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,473
+22300667,664,PT01M09.00S,4,0,,1610612749,,,0,0,0,,0,110,105,215,v,Bucks Rebound,Rebound,Unknown,0,0,474
+22300667,665,PT00M55.30S,4,1610612749,MIL,1627736,Beasley,M. Beasley,-147,208,25,Missed,1,110,105,215,v,MISS Beasley 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,475
+22300667,666,PT00M53.60S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,110,105,215,h,Jokic REBOUND (Off:1 Def:15),Rebound,Unknown,1,0,476
+22300667,667,PT00M33.90S,4,1610612743,DEN,203999,Jokić,N. Jokić,0,0,0,,0,110,105,215,h,Jokic Out of Bounds Lost Ball Turnover (P3.T8),Turnover,Out of Bounds Lost Ball Turnover,1,0,477
+22300667,676,PT00M33.90S,4,1610612743,DEN,1631212,Watson,P. Watson,0,0,0,,0,110,105,215,h,SUB: Gordon FOR Watson,Substitution,,0,0,478
+22300667,668,PT00M24.80S,4,1610612749,MIL,203081,Lillard,D. Lillard,-22,0,2,Missed,1,110,105,215,v,MISS Lillard 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,479
+22300667,668,PT00M24.80S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,110,105,215,h,Gordon BLOCK (1 BLK),,,1,2,480
+22300667,670,PT00M24.70S,4,0,,1610612743,,,0,0,0,,0,110,105,215,h,NUGGETS Rebound,Rebound,Unknown,0,0,481
+22300667,672,PT00M24.20S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,110,105,215,v,Middleton Personal Take Foul (P4.PN) (D.Taylor),Foul,Personal Take,1,0,482
+22300667,674,PT00M24.20S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,110,105,215,h,MISS Murray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,483
+22300667,675,PT00M24.20S,4,0,,1610612743,,,0,0,0,,0,110,105,215,h,NUGGETS Rebound,Rebound,Normal Rebound,0,0,484
+22300667,678,PT00M24.20S,4,1610612743,DEN,1627750,Murray,J. Murray,0,0,0,,0,111,105,216,h,Murray Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,1,0,485
+22300667,679,PT00M24.20S,4,0,,1610612749,,,0,0,0,,0,111,105,216,v,Bucks Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,486
+22300667,682,PT00M18.80S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,111,105,216,h,Gordon S.FOUL (P6.PN) (T.Brothers),Foul,Shooting,1,0,487
+22300667,684,PT00M18.80S,4,1610612743,DEN,203932,Gordon,A. Gordon,0,0,0,,0,111,105,216,h,SUB: Watson FOR Gordon,Substitution,,0,0,488
+22300667,686,PT00M18.80S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,111,106,217,v,G. Antetokounmpo Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,489
+22300667,687,PT00M18.80S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,111,107,218,v,G. Antetokounmpo Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,490
+22300667,688,PT00M11.60S,4,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,111,107,218,v,Middleton Personal Take Foul (P5.PN) (D.Taylor),Foul,Personal Take,1,0,491
+22300667,690,PT00M11.60S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,112,107,219,h,Caldwell-Pope Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,492
+22300667,691,PT00M11.60S,4,1610612743,DEN,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,113,107,220,h,Caldwell-Pope Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,493
+22300667,692,PT00M07.80S,4,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,113,107,220,v,G. Antetokounmpo Traveling Turnover (P2.T13),Turnover,Traveling,1,0,494
+22300667,693,PT00M00.00S,4,0,,0,,,0,0,0,,0,113,107,220,,End of 4th Period (11:31 PM EST),period,end,1,0,495

@@ -1,0 +1,556 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22300723,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:13 PM EST),period,start,0,0,1
+22300723,4,PT12M00.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,0,0,0,h,Jump Ball Drummond vs. Gobert: Tip to Towns,Jump Ball,,1,0,2
+22300723,7,PT11M46.00S,1,1610612750,MIN,201144,Conley,M. Conley,-154,211,26,Made,1,0,3,3,v,Conley 26' 3PT Jump Shot (3 PTS) (Towns 1 AST),Made Shot,Jump Shot,1,3,3
+22300723,9,PT11M31.00S,1,1610612741,CHI,1629632,White,C. White,142,209,25,Missed,1,0,3,3,h,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,4
+22300723,10,PT11M31.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,0,3,3,v,Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,5
+22300723,11,PT11M22.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,0,3,3,v,Edwards Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,6
+22300723,11,PT11M22.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,0,3,3,h,DeRozan STEAL (1 STL),,,1,0,7
+22300723,13,PT11M17.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,0,3,3,h,Caruso Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,8
+22300723,14,PT10M53.00S,1,1610612750,MIN,1626157,Towns,K. Towns,-72,269,28,Missed,1,0,3,3,v,MISS Towns 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,9
+22300723,14,PT10M53.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,0,3,3,h,Vucevic BLOCK (1 BLK),,,1,3,10
+22300723,16,PT10M50.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,0,3,3,h,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+22300723,17,PT10M45.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,0,3,3,v,Edwards S.FOUL (P1.T1) (C.Flores),Foul,Shooting,1,0,12
+22300723,19,PT10M45.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,1,3,4,h,DeRozan Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,13
+22300723,20,PT10M45.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,2,3,5,h,DeRozan Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,14
+22300723,21,PT10M21.00S,1,1610612750,MIN,201144,Conley,M. Conley,229,81,24,Missed,1,2,3,5,v,MISS Conley 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,15
+22300723,22,PT10M19.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,2,3,5,h,Vucevic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+22300723,23,PT09M59.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,-6,27,3,Made,1,4,3,7,h,Drummond 3' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,17
+22300723,24,PT09M42.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,-1,62,6,Missed,1,4,3,7,v,MISS Edwards 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,18
+22300723,24,PT09M42.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,4,3,7,h,Caruso BLOCK (1 BLK),,,1,2,19
+22300723,26,PT09M39.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,4,3,7,h,Drummond REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,20
+22300723,27,PT09M35.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,4,3,7,h,Drummond Traveling Turnover (P1.T2),Turnover,Traveling,1,0,21
+22300723,28,PT09M27.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,4,3,7,h,Caruso S.FOUL (P1.T1) (C.Washington),Foul,Shooting,1,0,22
+22300723,30,PT09M27.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,4,3,7,v,MISS Gobert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,23
+22300723,31,PT09M27.00S,1,0,,1610612750,,,0,0,0,,0,4,3,7,v,Timberwolves Rebound,Rebound,Normal Rebound,0,0,24
+22300723,32,PT09M27.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,4,4,8,v,Gobert Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,25
+22300723,33,PT09M11.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,6,25,3,Missed,1,4,4,8,h,MISS DeRozan 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,26
+22300723,34,PT09M08.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,4,4,8,h,DeRozan REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,27
+22300723,35,PT09M08.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,Made,1,6,4,10,h,DeRozan Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,28
+22300723,36,PT09M02.00S,1,1610612750,MIN,201144,Conley,M. Conley,-119,237,27,Made,1,6,7,13,v,Conley 27' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,3,29
+22300723,37,PT08M47.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,6,7,13,h,DeRozan Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,1,0,30
+22300723,38,PT08M34.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,4,4,1,Made,1,6,9,15,v,Gobert 1' Dunk (3 PTS),Made Shot,Dunk Shot,1,2,31
+22300723,40,PT08M28.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,6,9,15,v,Conley Violation:Kicked Ball (C.Flores),Violation,Kicked Ball,0,0,32
+22300723,41,PT08M21.00S,1,1610612741,CHI,1629632,White,C. White,-184,169,25,Missed,1,6,9,15,h,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,33
+22300723,42,PT08M18.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,6,9,15,h,DeRozan REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,34
+22300723,43,PT08M16.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,15,264,26,Missed,1,6,9,15,h,MISS DeRozan 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,35
+22300723,44,PT08M14.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,6,9,15,v,Towns REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+22300723,45,PT08M08.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,5,6,1,Made,1,6,11,17,v,McDaniels 1' Driving Finger Roll Layup (2 PTS) (Conley 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,37
+22300723,47,PT07M47.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,-2,98,10,Made,1,8,11,19,h,DeRozan 10' Driving Floating Jump Shot (6 PTS) (White 1 AST),Made Shot,Driving Floating Jump Shot,1,2,38
+22300723,55,PT07M37.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,27,12,3,Missed,1,8,11,19,v,MISS Edwards 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,39
+22300723,55,PT07M37.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,8,11,19,h,Drummond BLOCK (1 BLK),,,1,2,40
+22300723,57,PT07M37.00S,1,0,,1610612750,,,0,0,0,,0,8,11,19,v,Timberwolves Rebound,Rebound,Unknown,0,0,41
+22300723,51,PT07M37.00S,1,0,,1610612741,,,0,0,0,,0,8,11,19,h,BULLS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,42
+22300723,52,PT07M37.00S,1,0,,49,Muresan,G. Muresan,0,0,0,,0,8,11,19,,Instant Replay1st Period (8:20 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,43
+22300723,53,PT07M37.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,8,11,19,h,SUB: Dosunmu FOR Caruso,Substitution,,0,0,44
+22300723,58,PT07M25.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,53,207,21,Missed,1,8,11,19,v,MISS Edwards 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,45
+22300723,59,PT07M23.00S,1,0,,1610612741,,,0,0,0,,0,8,11,19,h,BULLS Rebound,Rebound,Unknown,1,0,46
+22300723,60,PT07M23.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,8,11,19,v,Gobert L.B.FOUL (P1.T2) (T.Brothers),Foul,Loose Ball,1,0,47
+22300723,62,PT07M13.00S,1,1610612741,CHI,1629632,White,C. White,-47,22,5,Missed,1,8,11,19,h,MISS White 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,48
+22300723,63,PT07M12.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,8,11,19,v,Edwards REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,49
+22300723,64,PT07M09.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,8,11,19,h,Dosunmu S.FOUL (P1.T2) (C.Washington),Foul,Shooting,1,0,50
+22300723,66,PT07M09.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,8,12,20,v,Edwards Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,51
+22300723,67,PT07M09.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,8,13,21,v,Edwards Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,52
+22300723,68,PT06M55.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,4,25,3,Made,1,10,13,23,h,Drummond 3' Hook Shot (4 PTS) (Vucevic 1 AST),Made Shot,Hook Shot,1,2,53
+22300723,70,PT06M41.00S,1,1610612750,MIN,1626157,Towns,K. Towns,178,193,26,Missed,1,10,13,23,v,MISS Towns 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,54
+22300723,71,PT06M39.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,10,13,23,h,Drummond REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,55
+22300723,72,PT06M31.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,12,20,2,Made,1,12,13,25,h,DeRozan 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,56
+22300723,73,PT06M09.00S,1,1610612750,MIN,1626157,Towns,K. Towns,-22,13,3,Made,1,12,15,27,v,Towns 3' Driving Layup (2 PTS) (Conley 2 AST),Made Shot,Driving Layup Shot,1,2,57
+22300723,75,PT05M49.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,145,116,19,Missed,1,12,15,27,h,MISS Vucevic 19' Jump Shot,Missed Shot,Jump Shot,1,2,58
+22300723,76,PT05M47.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,12,15,27,h,Vucevic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,59
+22300723,77,PT05M45.00S,1,1610612741,CHI,1629632,White,C. White,-175,169,24,Missed,1,12,15,27,h,MISS White 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,60
+22300723,78,PT05M42.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,12,15,27,v,Edwards REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,61
+22300723,79,PT05M35.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,123,230,26,Made,1,12,18,30,v,Edwards 26' 3PT Running Pull-Up Jump Shot (5 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,62
+22300723,80,PT05M17.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,-16,4,2,Missed,1,12,18,30,h,MISS DeRozan 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,63
+22300723,81,PT05M13.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,12,18,30,h,Drummond REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,64
+22300723,82,PT05M13.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,Made,1,14,18,32,h,Drummond Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,65
+22300723,83,PT05M03.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,14,18,32,h,DeRozan P.FOUL (P1.T3) (C.Flores),Foul,Personal,1,0,66
+22300723,85,PT05M03.00S,1,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,14,18,32,h,SUB: Craig FOR Drummond,Substitution,,0,0,67
+22300723,86,PT05M03.00S,1,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,14,18,32,h,SUB: Phillips FOR DeRozan,Substitution,,0,0,68
+22300723,87,PT05M03.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,14,18,32,v,SUB: Anderson FOR Conley,Substitution,,0,0,69
+22300723,88,PT05M03.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,14,18,32,v,SUB: Reid FOR Gobert,Substitution,,0,0,70
+22300723,93,PT04M51.00S,1,1610612750,MIN,1626157,Towns,K. Towns,21,257,26,Made,1,14,21,35,v,Towns 26' 3PT Jump Shot (5 PTS) (Edwards 1 AST),Made Shot,Jump Shot,1,3,71
+22300723,95,PT04M35.00S,1,1610612741,CHI,1641763,Phillips,J. Phillips,-205,4,21,Missed,1,14,21,35,h,MISS Phillips 21' Jump Shot,Missed Shot,Jump Shot,1,2,72
+22300723,96,PT04M33.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,14,21,35,v,Edwards REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,73
+22300723,98,PT04M24.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,14,21,35,h,Dosunmu S.FOUL (P2.T4) (C.Washington),Foul,Shooting,1,0,74
+22300723,100,PT04M24.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,14,22,36,v,Edwards Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,75
+22300723,101,PT04M24.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,14,22,36,h,SUB: Caruso FOR White,Substitution,,0,0,76
+22300723,103,PT04M24.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,14,23,37,v,Edwards Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,77
+22300723,104,PT04M08.00S,1,1610612741,CHI,1628470,Craig,T. Craig,138,235,27,Missed,1,14,23,37,h,MISS Craig 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,78
+22300723,105,PT04M06.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,14,23,37,v,Edwards REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,79
+22300723,106,PT03M57.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,14,23,37,v,McDaniels Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,80
+22300723,106,PT03M57.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,14,23,37,h,Caruso STEAL (1 STL),,,1,0,81
+22300723,108,PT03M49.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,13,-6,1,Missed,1,14,23,37,h,MISS Dosunmu 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,82
+22300723,109,PT03M47.00S,1,1610612741,CHI,1641763,Phillips,J. Phillips,0,0,0,,0,14,23,37,h,Phillips REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,83
+22300723,110,PT03M47.00S,1,1610612741,CHI,1641763,Phillips,J. Phillips,0,0,0,Made,1,16,23,39,h,Phillips Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,84
+22300723,111,PT03M43.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,2,10,1,Made,1,16,25,41,v,McDaniels 1' Driving Dunk (4 PTS) (Edwards 2 AST),Made Shot,Driving Dunk Shot,1,2,85
+22300723,113,PT03M19.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-9,69,7,Missed,1,16,25,41,h,MISS Vucevic 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,86
+22300723,114,PT03M17.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,16,25,41,v,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+22300723,115,PT03M08.00S,1,1610612741,CHI,1641763,Phillips,J. Phillips,0,0,0,,0,16,25,41,h,Phillips S.FOUL (P1.PN) (C.Flores),Foul,Shooting,1,0,88
+22300723,117,PT03M08.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,16,26,42,v,Edwards Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,89
+22300723,118,PT03M08.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,16,26,42,v,SUB: Alexander-Walker FOR McDaniels,Substitution,,0,0,90
+22300723,119,PT03M08.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,16,26,42,v,SUB: Gobert FOR Towns,Substitution,,0,0,91
+22300723,122,PT03M08.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,16,27,43,v,Edwards Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,92
+22300723,123,PT02M53.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-43,95,10,Missed,1,16,27,43,h,MISS Dosunmu 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,93
+22300723,124,PT02M51.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,16,27,43,v,Reid REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,94
+22300723,125,PT02M43.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,16,27,43,v,Edwards Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0,95
+22300723,125,PT02M43.00S,1,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,16,27,43,h,Craig STEAL (1 STL),,,1,0,96
+22300723,127,PT02M37.00S,1,1610612741,CHI,1628470,Craig,T. Craig,6,10,1,Made,1,18,27,45,h,Craig 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,97
+22300723,128,PT02M16.00S,1,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,-229,-1,0,Missed,1,18,27,45,v,MISS Alexander-Walker 3PT Jump Shot,Missed Shot,Jump Shot,1,3,98
+22300723,129,PT02M11.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,18,27,45,v,Gobert REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,99
+22300723,130,PT02M11.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Missed,1,18,27,45,v,MISS Gobert Putback Layup,Missed Shot,Putback Layup Shot,1,2,100
+22300723,131,PT02M11.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,18,27,45,h,Vucevic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,101
+22300723,132,PT02M02.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-38,41,6,Made,1,20,27,47,h,Vucevic 6' Floating Jump Shot (2 PTS) (Caruso 1 AST),Made Shot,Floating Jump shot,1,2,102
+22300723,134,PT01M39.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,234,-3,0,Missed,1,20,27,47,v,MISS Edwards 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+22300723,135,PT01M36.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,20,27,47,h,Caruso REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+22300723,136,PT01M30.00S,1,1610612741,CHI,1641763,Phillips,J. Phillips,20,16,3,Missed,1,20,27,47,h,MISS Phillips 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,105
+22300723,137,PT01M28.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,20,27,47,v,Gobert REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,106
+22300723,138,PT01M23.00S,1,1610612750,MIN,1629675,Reid,N. Reid,-9,26,3,Missed,1,20,27,47,v,MISS Reid 3' Running Layup,Missed Shot,Running Layup Shot,1,2,107
+22300723,138,PT01M23.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,20,27,47,h,Vucevic BLOCK (2 BLK),,,1,2,108
+22300723,140,PT01M18.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,20,27,47,h,Caruso REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,109
+22300723,141,PT01M18.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,20,27,47,h,Caruso Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,110
+22300723,141,PT01M18.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,20,27,47,v,Edwards STEAL (1 STL),,,1,0,111
+22300723,143,PT01M14.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,-1,23,2,Made,1,20,29,49,v,Edwards 2' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,112
+22300723,144,PT01M07.00S,1,1610612741,CHI,1627936,Caruso,A. Caruso,12,-2,1,Missed,1,20,29,49,h,MISS Caruso 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,113
+22300723,145,PT01M05.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,20,29,49,v,Gobert REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,114
+22300723,146,PT00M59.70S,1,1610612750,MIN,1629675,Reid,N. Reid,119,227,26,Missed,1,20,29,49,v,MISS Reid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,115
+22300723,147,PT00M54.80S,1,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,20,29,49,h,Caruso REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,116
+22300723,148,PT00M53.10S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,11,1,1,Made,1,22,29,51,h,Dosunmu 1' Running Layup (2 PTS) (Caruso 2 AST),Made Shot,Running Layup Shot,1,2,117
+22300723,150,PT00M53.10S,1,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,22,29,51,v,Anderson S.FOUL (P1.T3) (C.Washington),Foul,Shooting,1,0,118
+22300723,152,PT00M53.10S,1,0,,1610612750,,,0,0,0,,0,22,29,51,v,Timberwolves Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,119
+22300723,153,PT00M53.10S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,22,29,51,h,MISS Dosunmu Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,120
+22300723,154,PT00M50.50S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,22,29,51,v,Gobert REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,121
+22300723,155,PT00M39.10S,1,1610612750,MIN,1629675,Reid,N. Reid,23,10,3,Made,1,22,31,53,v,Reid 3' Driving Layup (2 PTS) (Anderson 1 AST),Made Shot,Driving Layup Shot,1,2,122
+22300723,157,PT00M33.60S,1,1610612741,CHI,1628470,Craig,T. Craig,-145,209,25,Missed,1,22,31,53,h,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+22300723,158,PT00M33.60S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,22,31,53,v,Edwards REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,124
+22300723,159,PT00M19.70S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,6,1,Made,1,22,33,55,v,Edwards 1' Driving Dunk (13 PTS),Made Shot,Driving Dunk Shot,1,2,125
+22300723,160,PT00M00.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-49,194,20,Missed,1,22,33,55,h,MISS Vucevic 20' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,126
+22300723,161,PT00M00.00S,1,0,,1610612741,,,0,0,0,,0,22,33,55,h,BULLS Rebound,Rebound,Unknown,1,0,127
+22300723,162,PT00M00.00S,1,0,,0,,,0,0,0,,0,22,33,55,,End of 1st Period (8:37 PM EST),period,end,1,0,128
+22300723,173,PT12M00.00S,2,0,,0,,,0,0,0,,0,22,33,55,,Start of 2nd Period (8:40 PM EST),period,start,0,0,129
+22300723,174,PT11M41.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,-120,46,13,Missed,1,22,33,55,h,MISS DeRozan 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,130
+22300723,175,PT11M40.00S,2,0,,1610612741,,,0,0,0,,0,22,33,55,h,BULLS Rebound,Rebound,Unknown,1,0,131
+22300723,177,PT11M30.00S,2,1610612741,CHI,1628975,Carter,J. Carter,-233,-13,0,Missed,1,22,33,55,h,MISS Carter 3PT Jump Shot,Missed Shot,Jump Shot,1,3,132
+22300723,178,PT11M28.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,22,33,55,h,Drummond REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,133
+22300723,180,PT11M20.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,16,6,2,Made,1,24,33,57,h,Drummond 2' Layup (8 PTS) (Caruso 3 AST),Made Shot,Layup Shot,1,2,134
+22300723,183,PT10M56.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,-2,17,2,Made,1,24,35,59,v,Anderson 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,135
+22300723,184,PT10M44.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,-23,85,9,Made,1,26,35,61,h,DeRozan 9' Turnaround Fadeaway (10 PTS),Made Shot,Turnaround Fadeaway shot,1,2,136
+22300723,185,PT10M27.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,65,100,12,Missed,1,26,35,61,v,MISS McLaughlin 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,137
+22300723,185,PT10M27.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,26,35,61,h,Drummond BLOCK (2 BLK),,,1,2,138
+22300723,187,PT10M27.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,26,35,61,v,Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,139
+22300723,188,PT10M20.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,233,-16,0,Made,1,26,38,64,v,McLaughlin 3PT Jump Shot (3 PTS) (Reid 1 AST),Made Shot,Jump Shot,1,3,140
+22300723,190,PT10M05.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,172,174,24,Missed,1,26,38,64,h,MISS Caruso 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,141
+22300723,191,PT10M02.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,26,38,64,v,Anderson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,142
+22300723,207,PT09M51.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-13,21,2,Missed,1,26,38,64,v,MISS Reid 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,143
+22300723,207,PT09M51.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,26,38,64,h,Caruso BLOCK (2 BLK),,,1,2,144
+22300723,209,PT09M51.00S,2,0,,1610612750,,,0,0,0,,0,26,38,64,v,Timberwolves Rebound,Rebound,Unknown,0,0,145
+22300723,193,PT09M51.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,26,38,64,h,SUB: Dosunmu FOR Caruso,Substitution,,0,0,146
+22300723,195,PT09M41.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,38,123,13,Missed,1,26,38,64,v,MISS Alexander-Walker 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,147
+22300723,196,PT09M35.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,26,38,64,v,Gobert REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,148
+22300723,197,PT09M35.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Missed,1,26,38,64,v,MISS Gobert Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,149
+22300723,198,PT09M35.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,26,38,64,h,Drummond REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,150
+22300723,199,PT09M26.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,50,92,10,Made,1,28,38,66,h,DeRozan 10' Fadeaway Jumper (12 PTS),Made Shot,Fadeaway Jump Shot,1,2,151
+22300723,200,PT09M13.00S,2,1610612750,MIN,1629675,Reid,N. Reid,123,228,26,Missed,1,28,38,66,v,MISS Reid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,152
+22300723,201,PT09M11.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,28,38,66,h,Drummond REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,153
+22300723,202,PT08M54.00S,2,1610612741,CHI,1628975,Carter,J. Carter,-227,-22,0,Missed,1,28,38,66,h,MISS Carter 3PT Jump Shot,Missed Shot,Jump Shot,1,3,154
+22300723,203,PT08M51.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,28,38,66,v,McLaughlin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,155
+22300723,204,PT08M47.00S,2,1610612750,MIN,1629675,Reid,N. Reid,6,8,1,Made,1,28,40,68,v,Reid 1' Running Layup (4 PTS) (McLaughlin 1 AST),Made Shot,Running Layup Shot,1,2,156
+22300723,206,PT08M47.00S,2,0,,1610612741,,,0,0,0,,0,28,40,68,h,BULLS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,157
+22300723,212,PT08M47.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,28,40,68,v,SUB: McDaniels FOR Anderson,Substitution,,0,0,158
+22300723,213,PT08M47.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,28,40,68,v,SUB: Towns FOR Gobert,Substitution,,0,0,159
+22300723,216,PT08M41.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,28,40,68,v,Alexander-Walker Violation:Kicked Ball (T.Brothers),Violation,Kicked Ball,0,0,160
+22300723,217,PT08M37.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,28,40,68,h,White Traveling Turnover (P1.T5),Turnover,Traveling,1,0,161
+22300723,218,PT08M23.00S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,28,40,68,v,Towns Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,162
+22300723,218,PT08M23.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,28,40,68,h,DeRozan STEAL (2 STL),,,1,0,163
+22300723,220,PT08M13.00S,2,1610612741,CHI,1628975,Carter,J. Carter,119,16,12,Made,1,30,40,70,h,Carter 12' Driving Floating Jump Shot (2 PTS) (White 2 AST),Made Shot,Driving Floating Jump Shot,1,2,164
+22300723,222,PT08M00.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,12,15,2,Made,1,30,42,72,v,McDaniels 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,165
+22300723,223,PT07M48.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,7,121,12,Missed,1,30,42,72,h,MISS DeRozan 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,166
+22300723,224,PT07M44.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,30,42,72,v,Reid REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,167
+22300723,225,PT07M41.00S,2,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,30,42,72,h,Carter Violation:Kicked Ball (C.Flores),Violation,Kicked Ball,0,0,168
+22300723,226,PT07M35.00S,2,1610612750,MIN,1626157,Towns,K. Towns,-9,10,1,Made,1,30,44,74,v,Towns 1' Cutting Layup Shot (7 PTS) (Alexander-Walker 1 AST),Made Shot,Cutting Layup Shot,1,2,169
+22300723,228,PT07M21.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,30,44,74,v,Alexander-Walker S.FOUL (P1.T1) (C.Flores),Foul,Shooting,1,0,170
+22300723,230,PT07M21.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,30,44,74,h,MISS White Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,171
+22300723,231,PT07M21.00S,2,0,,1610612741,,,0,0,0,,0,30,44,74,h,BULLS Rebound,Rebound,Normal Rebound,0,0,172
+22300723,232,PT07M21.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,30,44,74,h,SUB: Caruso FOR DeRozan,Substitution,,0,0,173
+22300723,233,PT07M21.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,30,44,74,h,SUB: Craig FOR Dosunmu,Substitution,,0,0,174
+22300723,236,PT07M21.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,31,44,75,h,White Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,175
+22300723,237,PT07M09.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,31,44,75,h,Drummond P.FOUL (P1.T1) (C.Washington),Foul,Personal,1,0,176
+22300723,239,PT07M09.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,31,44,75,v,SUB: Conley FOR McLaughlin,Substitution,,0,0,177
+22300723,241,PT07M01.00S,2,1610612750,MIN,1626157,Towns,K. Towns,-13,262,26,Made,1,31,47,78,v,Towns 26' 3PT Jump Shot (10 PTS) (Alexander-Walker 2 AST),Made Shot,Jump Shot,1,3,178
+22300723,243,PT06M41.00S,2,1610612741,CHI,1628975,Carter,J. Carter,-228,22,0,Made,1,34,47,81,h,Carter 3PT Jump Shot (5 PTS) (White 3 AST),Made Shot,Jump Shot,1,3,179
+22300723,245,PT06M26.00S,2,1610612750,MIN,201144,Conley,M. Conley,-228,2,0,Missed,1,34,47,81,v,MISS Conley 3PT Jump Shot,Missed Shot,Jump Shot,1,3,180
+22300723,246,PT06M23.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,34,47,81,h,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,181
+22300723,247,PT06M22.00S,2,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,34,47,81,h,Carter Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,1,0,182
+22300723,248,PT06M22.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,34,47,81,h,SUB: Vucevic FOR Drummond,Substitution,,0,0,183
+22300723,252,PT06M22.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,34,47,81,v,SUB: Edwards FOR Alexander-Walker,Substitution,,0,0,184
+22300723,253,PT06M00.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,34,47,81,h,BULLS T.Foul (Def. 3 Sec White ) (T.Brothers),Foul,Defense 3 Second,1,0,185
+22300723,254,PT06M00.00S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,34,47,81,v,MISS Towns Free Throw Technical,Free Throw,Free Throw Technical,1,0,186
+22300723,255,PT06M00.00S,2,0,,1610612750,,,0,0,0,,0,34,47,81,v,Timberwolves Rebound,Rebound,Normal Rebound,0,0,187
+22300723,256,PT05M55.00S,2,1610612750,MIN,1626157,Towns,K. Towns,-233,88,25,Missed,1,34,47,81,v,MISS Towns 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,188
+22300723,257,PT05M52.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,34,47,81,h,Caruso REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,189
+22300723,258,PT05M40.00S,2,1610612741,CHI,1629632,White,C. White,-21,6,2,Missed,1,34,47,81,h,MISS White 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,190
+22300723,258,PT05M40.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,34,47,81,v,Reid BLOCK (1 BLK),,,1,2,191
+22300723,260,PT05M37.00S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,34,47,81,v,Towns REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,192
+22300723,261,PT05M34.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,1,0,Made,1,34,49,83,v,McDaniels Running Dunk (8 PTS) (Conley 3 AST),Made Shot,Running Dunk Shot,1,2,193
+22300723,263,PT05M20.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,1,64,6,Made,1,36,49,85,h,Vucevic 6' Floating Jump Shot (4 PTS) (White 4 AST),Made Shot,Floating Jump shot,1,2,194
+22300723,265,PT05M04.00S,2,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,36,49,85,h,Carter P.FOUL (P1.T2) (C.Washington),Foul,Personal,1,0,195
+22300723,267,PT05M04.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,36,49,85,h,SUB: Dosunmu FOR White,Substitution,,0,0,196
+22300723,268,PT05M04.00S,2,1610612741,CHI,1628975,Carter,J. Carter,0,0,0,,0,36,49,85,h,SUB: DeRozan FOR Carter,Substitution,,0,0,197
+22300723,271,PT05M01.00S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,36,49,85,v,Towns OFF.Foul (P1) (T.Brothers),Foul,Offensive,1,0,198
+22300723,273,PT05M01.00S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,36,49,85,v,Towns Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,1,0,199
+22300723,274,PT04M41.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,65,6,7,Made,1,38,49,87,h,Vucevic 7' Floating Jump Shot (6 PTS) (Caruso 4 AST),Made Shot,Floating Jump shot,1,2,200
+22300723,276,PT04M12.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,118,152,19,Made,1,38,51,89,v,Edwards 19' Pullup Jump Shot (15 PTS) (McDaniels 1 AST),Made Shot,Pullup Jump shot,1,2,201
+22300723,278,PT04M04.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,4,16,2,Made,1,40,51,91,h,Dosunmu 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,202
+22300723,279,PT03M56.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,40,51,91,h,Vucevic P.FOUL (P1.T3) (T.Brothers),Foul,Personal,1,0,203
+22300723,281,PT03M56.00S,2,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,40,51,91,h,SUB: Drummond FOR Caruso,Substitution,,0,0,204
+22300723,282,PT03M56.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,40,51,91,v,SUB: Gobert FOR Reid,Substitution,,0,0,205
+22300723,285,PT03M45.00S,2,1610612750,MIN,1626157,Towns,K. Towns,-26,262,26,Made,1,40,54,94,v,Towns 26' 3PT Jump Shot (13 PTS) (Edwards 3 AST),Made Shot,Jump Shot,1,3,206
+22300723,287,PT03M23.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,-89,79,12,Missed,1,40,54,94,h,MISS Vucevic 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,207
+22300723,288,PT03M19.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,40,54,94,h,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,208
+22300723,294,PT03M18.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,40,54,94,h,Craig Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,209
+22300723,294,PT03M18.00S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,40,54,94,v,Towns STEAL (1 STL),,,1,0,210
+22300723,289,PT03M05.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,49,256,26,Made,1,40,57,97,v,Edwards 26' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,1,3,211
+22300723,290,PT02M50.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,58,67,9,Made,1,42,57,99,h,Dosunmu 9' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,212
+22300723,291,PT02M49.00S,2,0,,1610612750,,,0,0,0,,0,42,57,99,v,Timberwolves Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,213
+22300723,292,PT02M49.00S,2,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,42,57,99,h,SUB: White FOR Craig,Substitution,,0,0,214
+22300723,296,PT02M32.00S,2,1610612750,MIN,1626157,Towns,K. Towns,69,257,27,Made,1,42,60,102,v,Towns 27' 3PT Jump Shot (16 PTS) (Conley 4 AST),Made Shot,Jump Shot,1,3,215
+22300723,298,PT02M20.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,42,60,102,h,Dosunmu Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,216
+22300723,298,PT02M20.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,42,60,102,v,McDaniels STEAL (1 STL),,,1,0,217
+22300723,300,PT02M16.00S,2,1610612750,MIN,1626157,Towns,K. Towns,4,10,1,Made,1,42,62,104,v,Towns 1' Running Alley Oop Dunk Shot (18 PTS) (Edwards 4 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,218
+22300723,302,PT01M51.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,7,27,3,Missed,1,42,62,104,h,MISS Drummond 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,219
+22300723,303,PT01M49.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,42,62,104,v,Gobert REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,220
+22300723,304,PT01M39.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,-229,-4,0,Made,1,42,65,107,v,Edwards 3PT Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,1,3,221
+22300723,305,PT01M21.00S,2,1610612741,CHI,201942,DeRozan,D. DeRozan,-124,13,12,Missed,1,42,65,107,h,MISS DeRozan 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,222
+22300723,306,PT01M19.00S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,42,65,107,v,Towns REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,223
+22300723,307,PT01M08.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,-17,18,2,Missed,1,42,65,107,v,MISS Edwards 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,224
+22300723,307,PT01M08.00S,2,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,42,65,107,h,Drummond BLOCK (3 BLK),,,1,2,225
+22300723,309,PT01M08.00S,2,0,,1610612750,,,0,0,0,,0,42,65,107,v,Timberwolves Rebound,Rebound,Unknown,1,0,226
+22300723,311,PT01M08.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,42,65,107,h,SUB: Caruso FOR Dosunmu,Substitution,,0,0,227
+22300723,313,PT01M02.00S,2,1610612750,MIN,1626157,Towns,K. Towns,4,13,1,Missed,1,42,65,107,v,MISS Towns 1' Layup,Missed Shot,Layup Shot,1,2,228
+22300723,313,PT01M02.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,42,65,107,h,Vucevic BLOCK (3 BLK),,,1,2,229
+22300723,315,PT00M59.60S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,42,65,107,h,White REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,230
+22300723,316,PT00M58.50S,2,1610612741,CHI,1627936,Caruso,A. Caruso,154,192,25,Made,1,45,65,110,h,Caruso 25' 3PT Running Pull-Up Jump Shot (3 PTS) (White 5 AST),Made Shot,Running Pull-Up Jump Shot,1,3,231
+22300723,318,PT00M40.40S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,-103,7,10,Made,1,45,67,112,v,McDaniels 10' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,1,2,232
+22300723,319,PT00M29.90S,2,1610612741,CHI,1629632,White,C. White,-130,10,13,Made,1,47,67,114,h,White 13' Pullup Jump Shot (3 PTS) (DeRozan 1 AST),Made Shot,Pullup Jump shot,1,2,233
+22300723,321,PT00M10.60S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,47,67,114,h,White S.FOUL (P1.T4) (C.Flores),Foul,Shooting,1,0,234
+22300723,323,PT00M10.60S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,47,68,115,v,Edwards Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,235
+22300723,324,PT00M10.60S,2,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,47,68,115,v,SUB: Alexander-Walker FOR Conley,Substitution,,0,0,236
+22300723,326,PT00M10.60S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,47,69,116,v,Edwards Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,237
+22300723,327,PT00M05.70S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,47,69,116,v,Alexander-Walker P.FOUL (P2.T2) (C.Washington),Foul,Personal,1,0,238
+22300723,329,PT00M00.00S,2,1610612741,CHI,1629632,White,C. White,-26,262,26,Missed,1,47,69,116,h,MISS White 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,239
+22300723,330,PT00M00.00S,2,0,,1610612741,,,0,0,0,,0,47,69,116,h,BULLS Rebound,Rebound,Unknown,0,0,240
+22300723,331,PT00M00.00S,2,0,,0,,,0,0,0,,0,47,69,116,,End of 2nd Period (9:05 PM EST),period,end,1,0,241
+22300723,335,PT12M00.00S,3,0,,0,,,0,0,0,,0,47,69,116,,Start of 3rd Period (9:21 PM EST),period,start,0,0,242
+22300723,336,PT11M43.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-115,63,13,Made,1,49,69,118,h,Vucevic 13' Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,1,2,243
+22300723,337,PT11M22.00S,3,1610612750,MIN,201144,Conley,M. Conley,225,19,0,Missed,1,49,69,118,v,MISS Conley 3PT Jump Shot,Missed Shot,Jump Shot,1,3,244
+22300723,338,PT11M22.00S,3,0,,1610612750,,,0,0,0,,0,49,69,118,v,Timberwolves Rebound,Rebound,Unknown,0,0,245
+22300723,339,PT11M22.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,49,69,118,h,White L.B.FOUL (P2.T1) (C.Washington),Foul,Loose Ball,1,0,246
+22300723,341,PT11M17.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,49,69,118,h,Vucevic S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,1,0,247
+22300723,343,PT11M17.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,49,70,119,v,Towns Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,248
+22300723,344,PT11M17.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,49,71,120,v,Towns Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,249
+22300723,345,PT10M56.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,4,26,3,Missed,1,49,71,120,h,MISS Drummond 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,250
+22300723,345,PT10M56.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,49,71,120,v,Gobert BLOCK (1 BLK),,,1,2,251
+22300723,347,PT10M51.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,49,71,120,h,Drummond REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,252
+22300723,348,PT10M51.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,Missed,1,49,71,120,h,MISS Drummond Putback Layup,Missed Shot,Putback Layup Shot,1,2,253
+22300723,348,PT10M51.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,49,71,120,v,Towns BLOCK (1 BLK),,,1,2,254
+22300723,349,PT10M48.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,49,71,120,h,Drummond REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,255
+22300723,350,PT10M48.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,Missed,1,49,71,120,h,MISS Drummond Putback Layup,Missed Shot,Putback Layup Shot,1,2,256
+22300723,350,PT10M48.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,49,71,120,v,Towns BLOCK (2 BLK),,,1,2,257
+22300723,352,PT10M48.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,49,71,120,h,Caruso REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,258
+22300723,353,PT10M48.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,49,71,120,v,Towns S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,1,0,259
+22300723,356,PT10M48.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,50,71,121,h,Drummond Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,260
+22300723,357,PT10M48.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,51,71,122,h,Drummond Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,261
+22300723,358,PT10M32.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,109,231,26,Made,1,51,74,125,v,Edwards 26' 3PT Step Back Jump Shot (26 PTS) (McDaniels 2 AST),Made Shot,Step Back Jump shot,1,3,262
+22300723,360,PT10M12.00S,3,1610612741,CHI,1629632,White,C. White,-172,197,26,Made,1,54,74,128,h,White 26' 3PT Jump Shot (6 PTS) (Caruso 5 AST),Made Shot,Jump Shot,1,3,263
+22300723,362,PT09M59.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,54,74,128,v,Edwards Out of Bounds Lost Ball Turnover (P3.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,264
+22300723,363,PT09M52.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-17,257,26,Missed,1,54,74,128,h,MISS Vucevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,265
+22300723,364,PT09M47.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,54,74,128,v,Towns REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,266
+22300723,365,PT09M39.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,74,51,9,Missed,1,54,74,128,v,MISS McDaniels 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,267
+22300723,366,PT09M34.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,54,74,128,v,Gobert REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,268
+22300723,367,PT09M34.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Missed,1,54,74,128,v,MISS Gobert Putback Layup,Missed Shot,Putback Layup Shot,1,2,269
+22300723,367,PT09M34.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,54,74,128,h,Drummond BLOCK (4 BLK),,,1,2,270
+22300723,368,PT09M34.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,54,74,128,h,White REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,271
+22300723,369,PT09M26.00S,3,1610612741,CHI,1629632,White,C. White,-222,34,0,Made,1,57,74,131,h,White 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,3,272
+22300723,371,PT08M59.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,227,8,0,Missed,1,57,74,131,v,MISS McDaniels 3PT Jump Shot,Missed Shot,Jump Shot,1,3,273
+22300723,372,PT08M59.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,57,74,131,v,Gobert REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,274
+22300723,373,PT08M56.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-132,231,27,Missed,1,57,74,131,v,MISS Edwards 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,275
+22300723,374,PT08M56.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,57,74,131,h,DeRozan REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,276
+22300723,375,PT08M42.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-1,6,1,Made,1,59,74,133,h,Vucevic 1' Driving Layup (10 PTS) (Caruso 6 AST),Made Shot,Driving Layup Shot,1,2,277
+22300723,381,PT08M18.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-10,57,6,Missed,1,59,74,133,v,MISS Edwards 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,278
+22300723,382,PT08M16.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,59,74,133,h,Drummond REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,279
+22300723,383,PT08M07.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,59,74,133,v,Edwards S.FOUL (P2.T2) (C.Washington),Foul,Shooting,1,0,280
+22300723,385,PT08M07.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,60,74,134,h,DeRozan Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,281
+22300723,386,PT08M07.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,61,74,135,h,DeRozan Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,282
+22300723,387,PT07M49.00S,3,1610612750,MIN,1626157,Towns,K. Towns,227,27,0,Missed,1,61,74,135,v,MISS Towns 3PT Jump Shot,Missed Shot,Jump Shot,1,3,283
+22300723,388,PT07M46.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,61,74,135,h,Drummond REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,284
+22300723,389,PT07M39.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,61,74,135,v,Towns P.FOUL (P3.T3) (T.Brothers),Foul,Personal,1,0,285
+22300723,391,PT07M39.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,61,74,135,h,SUB: Dosunmu FOR Caruso,Substitution,,0,0,286
+22300723,395,PT07M33.00S,3,0,,1610612750,,,0,0,0,,0,61,74,135,v,Timberwolves Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,287
+22300723,396,PT07M33.00S,3,0,,393,Strickland,R. Strickland,0,0,0,,0,61,74,135,,Instant Replay3rd Period (9:29 PM EST),Instant Replay,Coach Challenge Support Ruling,0,0,288
+22300723,397,PT07M33.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,61,74,135,v,Edwards S.FOUL (P3.T4) (C.Flores),Foul,Shooting,0,0,289
+22300723,399,PT07M33.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,62,74,136,h,DeRozan Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,290
+22300723,400,PT07M33.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,62,74,136,h,MISS DeRozan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,291
+22300723,401,PT07M28.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,62,74,136,v,Gobert REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,292
+22300723,402,PT07M16.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,234,11,0,Made,1,62,77,139,v,McDaniels 3PT Jump Shot (13 PTS) (Conley 5 AST),Made Shot,Jump Shot,1,3,293
+22300723,404,PT07M05.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,62,77,139,v,Towns S.FOUL (P4.PN) (C.Flores),Foul,Shooting,1,0,294
+22300723,406,PT07M05.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,63,77,140,h,DeRozan Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,295
+22300723,407,PT07M05.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,63,77,140,v,SUB: Reid FOR Towns,Substitution,,0,0,296
+22300723,409,PT07M05.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,64,77,141,h,DeRozan Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,297
+22300723,410,PT06M55.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,64,77,141,v,McDaniels Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,298
+22300723,410,PT06M55.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,64,77,141,h,DeRozan STEAL (3 STL),,,1,0,299
+22300723,412,PT06M49.00S,3,1610612741,CHI,1629632,White,C. White,189,165,25,Missed,1,64,77,141,h,MISS White 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,300
+22300723,413,PT06M47.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,64,77,141,v,Gobert REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,301
+22300723,414,PT06M39.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,151,222,27,Missed,1,64,77,141,v,MISS Edwards 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,302
+22300723,415,PT06M35.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,64,77,141,h,Drummond REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,303
+22300723,416,PT06M25.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,-25,6,3,Missed,1,64,77,141,h,MISS Drummond 3' Layup,Missed Shot,Layup Shot,1,2,304
+22300723,417,PT06M24.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,64,77,141,h,Drummond REBOUND (Off:5 Def:8),Rebound,Unknown,1,0,305
+22300723,422,PT06M22.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,-1,10,1,Missed,1,64,77,141,h,MISS Drummond 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,306
+22300723,434,PT06M21.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,64,77,141,h,Drummond REBOUND (Off:6 Def:8),Rebound,Unknown,1,0,307
+22300723,418,PT06M18.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,Made,1,66,77,143,h,Drummond Putback Layup (12 PTS),Made Shot,Putback Layup Shot,1,2,308
+22300723,419,PT05M57.00S,3,1610612750,MIN,201144,Conley,M. Conley,119,226,26,Missed,1,66,77,143,v,MISS Conley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,309
+22300723,420,PT05M57.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,66,77,143,v,Gobert REBOUND (Off:5 Def:6),Rebound,Unknown,1,0,310
+22300723,421,PT05M53.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Made,1,66,79,145,v,Gobert Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,1,2,311
+22300723,424,PT05M27.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,66,79,145,h,White Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,312
+22300723,424,PT05M27.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,66,79,145,v,Gobert STEAL (1 STL),,,1,0,313
+22300723,426,PT05M23.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,66,79,145,v,McDaniels Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,314
+22300723,426,PT05M23.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,66,79,145,h,DeRozan STEAL (4 STL),,,1,0,315
+22300723,428,PT05M19.00S,3,1610612741,CHI,1629632,White,C. White,-214,123,25,Made,1,69,79,148,h,White 25' 3PT Running Jump Shot (12 PTS) (DeRozan 2 AST),Made Shot,Running Jump Shot,1,3,316
+22300723,430,PT05M00.00S,3,1610612750,MIN,1629675,Reid,N. Reid,140,206,25,Made,1,69,82,151,v,Reid 25' 3PT Jump Shot (7 PTS) (Conley 6 AST),Made Shot,Jump Shot,1,3,317
+22300723,432,PT04M47.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-11,258,26,Made,1,72,82,154,h,Vucevic 26' 3PT Jump Shot (13 PTS) (White 6 AST),Made Shot,Jump Shot,1,3,318
+22300723,435,PT04M32.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,4,78,8,Missed,1,72,82,154,v,MISS McDaniels 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,319
+22300723,435,PT04M32.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,72,82,154,h,Dosunmu BLOCK (1 BLK),,,1,2,320
+22300723,437,PT04M32.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,72,82,154,h,Drummond REBOUND (Off:6 Def:9),Rebound,Unknown,1,0,321
+22300723,438,PT04M16.00S,3,1610612741,CHI,1629632,White,C. White,-17,16,2,Missed,1,72,82,154,h,MISS White 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,322
+22300723,438,PT04M16.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,72,82,154,v,Edwards BLOCK (1 BLK),,,1,2,323
+22300723,440,PT04M13.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,72,82,154,v,Edwards REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,324
+22300723,441,PT04M09.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-7,3,1,Made,1,72,84,156,v,Edwards 1' Running Layup (28 PTS),Made Shot,Running Layup Shot,1,2,325
+22300723,442,PT04M08.00S,3,0,,1610612741,,,0,0,0,,0,72,84,156,h,BULLS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,326
+22300723,443,PT04M08.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,72,84,156,h,SUB: Craig FOR White,Substitution,,0,0,327
+22300723,444,PT04M08.00S,3,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,72,84,156,h,SUB: Phillips FOR Drummond,Substitution,,0,0,328
+22300723,445,PT04M08.00S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,72,84,156,h,SUB: Caruso FOR DeRozan,Substitution,,0,0,329
+22300723,446,PT04M08.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,72,84,156,v,SUB: Anderson FOR McDaniels,Substitution,,0,0,330
+22300723,447,PT04M08.00S,3,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,72,84,156,v,SUB: Alexander-Walker FOR Conley,Substitution,,0,0,331
+22300723,453,PT03M53.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-1,113,11,Made,1,74,84,158,h,Vucevic 11' Floating Jump Shot (15 PTS) (Dosunmu 1 AST),Made Shot,Floating Jump shot,1,2,332
+22300723,455,PT03M35.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,4,5,1,Made,1,74,86,160,v,Edwards 1' Driving Layup (30 PTS) (Anderson 2 AST),Made Shot,Driving Layup Shot,1,2,333
+22300723,456,PT03M35.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,74,86,160,h,Vucevic S.FOUL (P3.T3) (C.Flores),Foul,Shooting,1,0,334
+22300723,458,PT03M35.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,74,86,160,v,MISS Edwards Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,335
+22300723,459,PT03M31.00S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,74,86,160,h,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,336
+22300723,460,PT03M21.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-49,88,10,Made,1,76,86,162,h,Vucevic 10' Driving Floating Jump Shot (17 PTS) (Dosunmu 2 AST),Made Shot,Driving Floating Jump Shot,1,2,337
+22300723,463,PT03M04.00S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,145,211,26,Made,1,76,89,165,v,Alexander-Walker 26' 3PT Jump Shot (3 PTS) (Reid 2 AST),Made Shot,Jump Shot,1,3,338
+22300723,465,PT02M50.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-164,202,26,Missed,1,76,89,165,h,MISS Dosunmu 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+22300723,466,PT02M48.00S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,76,89,165,v,Reid REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,340
+22300723,467,PT02M32.00S,3,1610612750,MIN,1629675,Reid,N. Reid,-38,53,7,Missed,1,76,89,165,v,MISS Reid 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,341
+22300723,467,PT02M32.00S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,76,89,165,h,Craig BLOCK (1 BLK),,,1,2,342
+22300723,469,PT02M29.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,76,89,165,h,Dosunmu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,343
+22300723,470,PT02M28.00S,3,1610612741,CHI,1628470,Craig,T. Craig,-164,205,26,Made,1,79,89,168,h,Craig 26' 3PT Running Jump Shot (5 PTS) (Dosunmu 3 AST),Made Shot,Running Jump Shot,1,3,344
+22300723,472,PT02M03.00S,3,1610612750,MIN,1629675,Reid,N. Reid,-162,189,25,Made,1,79,92,171,v,Reid 25' 3PT Jump Shot (10 PTS) (Edwards 5 AST),Made Shot,Jump Shot,1,3,345
+22300723,474,PT01M50.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,79,92,171,h,Caruso Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,346
+22300723,475,PT01M50.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,79,92,171,v,SUB: McLaughlin FOR Gobert,Substitution,,0,0,347
+22300723,477,PT01M36.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,1,17,2,Missed,1,79,92,171,v,MISS McLaughlin 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,348
+22300723,477,PT01M36.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,79,92,171,h,Dosunmu BLOCK (2 BLK),,,1,2,349
+22300723,479,PT01M33.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,79,92,171,h,Vucevic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,350
+22300723,480,PT01M28.00S,3,1610612741,CHI,1628470,Craig,T. Craig,232,0,0,Missed,1,79,92,171,h,MISS Craig 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,351
+22300723,481,PT01M26.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,79,92,171,v,Edwards REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,352
+22300723,482,PT01M18.00S,3,1610612750,MIN,1629675,Reid,N. Reid,-227,-18,0,Missed,1,79,92,171,v,MISS Reid 3PT Jump Shot,Missed Shot,Jump Shot,1,3,353
+22300723,483,PT01M15.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,79,92,171,h,Vucevic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,354
+22300723,484,PT01M05.00S,3,1610612741,CHI,1641763,Phillips,J. Phillips,229,-16,0,Missed,1,79,92,171,h,MISS Phillips 3PT Jump Shot,Missed Shot,Jump Shot,1,3,355
+22300723,485,PT01M05.00S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,79,92,171,h,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,356
+22300723,486,PT01M05.00S,3,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,79,92,171,v,McLaughlin S.FOUL (P1.PN) (C.Washington),Foul,Shooting,1,0,357
+22300723,488,PT01M05.00S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,80,92,172,h,Craig Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,358
+22300723,489,PT01M05.00S,3,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,80,92,172,h,SUB: DeRozan FOR Caruso,Substitution,,0,0,359
+22300723,491,PT01M05.00S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,81,92,173,h,Craig Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,360
+22300723,492,PT00M52.70S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-47,140,15,Missed,1,81,92,173,v,MISS Edwards 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,361
+22300723,493,PT00M50.30S,3,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,81,92,173,h,Craig REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,362
+22300723,494,PT00M33.20S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,58,131,14,Missed,1,81,92,173,h,MISS DeRozan 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,363
+22300723,495,PT00M33.20S,3,0,,1610612741,,,0,0,0,,0,81,92,173,h,BULLS Rebound,Rebound,Unknown,1,0,364
+22300723,496,PT00M33.20S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,81,92,173,v,Reid L.B.FOUL (P1.PN) (C.Washington),Foul,Loose Ball,1,0,365
+22300723,498,PT00M33.20S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,82,92,174,h,Vucevic Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,366
+22300723,499,PT00M33.20S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,83,92,175,h,Vucevic Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,367
+22300723,500,PT00M20.40S,3,1610612750,MIN,1629675,Reid,N. Reid,81,234,25,Missed,1,83,92,175,v,MISS Reid 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,368
+22300723,501,PT00M17.00S,3,1610612741,CHI,1641763,Phillips,J. Phillips,0,0,0,,0,83,92,175,h,Phillips REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,369
+22300723,502,PT00M00.10S,3,1610612741,CHI,201942,DeRozan,D. DeRozan,-104,158,19,Missed,1,83,92,175,h,MISS DeRozan 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,370
+22300723,503,PT00M00.10S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,83,92,175,v,Alexander-Walker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,371
+22300723,504,PT00M00.00S,3,0,,0,,,0,0,0,,0,83,92,175,,End of 3rd Period (9:47 PM EST),period,end,1,0,372
+22300723,515,PT12M00.00S,4,0,,0,,,0,0,0,,0,83,92,175,,Start of 4th Period (9:49 PM EST),period,start,0,0,373
+22300723,516,PT11M41.00S,4,1610612750,MIN,201144,Conley,M. Conley,229,24,0,Made,1,83,95,178,v,Conley 3PT Step Back Jump Shot (9 PTS) (Anderson 3 AST),Made Shot,Step Back Jump shot,1,3,374
+22300723,517,PT11M25.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,83,95,178,h,Dosunmu Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,375
+22300723,517,PT11M25.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,83,95,178,v,Alexander-Walker STEAL (1 STL),,,1,0,376
+22300723,519,PT11M18.00S,4,1610612750,MIN,1626157,Towns,K. Towns,-11,255,26,Missed,1,83,95,178,v,MISS Towns 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+22300723,520,PT11M14.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,83,95,178,h,White REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,378
+22300723,521,PT11M05.00S,4,1610612741,CHI,1629632,White,C. White,-20,7,2,Made,1,85,95,180,h,White 2' Driving Reverse Layup (14 PTS),Made Shot,Driving Reverse Layup Shot,1,2,379
+22300723,522,PT10M48.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,85,95,180,v,Anderson Lost Ball Turnover (P1.T9),Turnover,Lost Ball,1,0,380
+22300723,522,PT10M48.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,85,95,180,h,Dosunmu STEAL (1 STL),,,1,0,381
+22300723,524,PT10M43.00S,4,1610612741,CHI,1629632,White,C. White,-148,262,30,Made,1,88,95,183,h,White 30' 3PT Running Jump Shot (17 PTS) (Craig 1 AST),Made Shot,Running Jump Shot,1,3,382
+22300723,526,PT10M23.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,88,95,183,h,White S.FOUL (P3.T1) (C.Washington),Foul,Shooting,1,0,383
+22300723,529,PT10M23.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,88,96,184,v,Gobert Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,384
+22300723,530,PT10M23.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,88,97,185,v,Gobert Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,385
+22300723,531,PT10M07.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,-116,97,15,Made,1,90,97,187,h,DeRozan 15' Fadeaway Jumper (19 PTS) (White 7 AST),Made Shot,Fadeaway Jump Shot,1,2,386
+22300723,533,PT09M42.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,13,4,1,Missed,1,90,97,187,v,MISS Anderson 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,387
+22300723,534,PT09M40.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,90,97,187,h,White REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,388
+22300723,535,PT09M36.00S,4,1610612741,CHI,1629632,White,C. White,103,236,26,Made,1,93,97,190,h,White 26' 3PT Running Pull-Up Jump Shot (20 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,389
+22300723,536,PT09M18.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,93,97,190,h,Dosunmu P.FOUL (P3.T2) (C.Flores),Foul,Personal,1,0,390
+22300723,538,PT09M18.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,93,97,190,v,SUB: McDaniels FOR Anderson,Substitution,,0,0,391
+22300723,540,PT09M11.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,93,97,190,h,DeRozan P.FOUL (P2.T3) (C.Flores),Foul,Personal,1,0,392
+22300723,542,PT09M06.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,93,97,190,h,White P.FOUL (P4.T4) (C.Washington),Foul,Personal,1,0,393
+22300723,544,PT08M58.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,228,34,0,Missed,1,93,97,190,v,MISS Alexander-Walker 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+22300723,545,PT08M55.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,93,97,190,h,Craig REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,395
+22300723,547,PT08M46.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,93,97,190,v,Timberwolves T.Foul (Def. 3 Sec Gobert ) (C.Washington),Foul,Defense 3 Second,1,0,396
+22300723,548,PT08M46.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,94,97,191,h,DeRozan Free Throw Technical (20 PTS),Free Throw,Free Throw Technical,1,0,397
+22300723,549,PT08M34.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,94,97,191,h,Craig Step Out of Bounds Turnover (P2.T12),Turnover,Step Out of Bounds Turnover,1,0,398
+22300723,550,PT08M19.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,-4,-8,1,Made,1,94,99,193,v,Gobert 1' Finger Roll Layup (9 PTS) (Towns 2 AST),Made Shot,Finger Roll Layup Shot,1,2,399
+22300723,552,PT08M11.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,94,99,193,v,McDaniels P.FOUL (P1.T1) (C.Flores),Foul,Personal,1,0,400
+22300723,554,PT08M11.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,94,99,193,v,SUB: Edwards FOR Alexander-Walker,Substitution,,0,0,401
+22300723,556,PT08M01.00S,4,1610612741,CHI,1629632,White,C. White,-22,305,31,Made,1,97,99,196,h,White 31' 3PT Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,1,3,402
+22300723,557,PT07M45.00S,4,1610612750,MIN,1626157,Towns,K. Towns,-229,41,0,Made,1,97,102,199,v,Towns 3PT Jump Shot (23 PTS) (Conley 7 AST),Made Shot,Jump Shot,1,3,403
+22300723,559,PT07M36.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,97,102,199,h,White Out of Bounds Lost Ball Turnover (P3.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,404
+22300723,560,PT07M18.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-120,-2,12,Missed,1,97,102,199,v,MISS Edwards 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,405
+22300723,561,PT07M16.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,97,102,199,v,Gobert REBOUND (Off:6 Def:6),Rebound,Unknown,1,0,406
+22300723,563,PT07M16.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,97,102,199,h,Drummond S.FOUL (P2.PN) (C.Washington),Foul,Shooting,1,0,407
+22300723,565,PT07M16.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,97,103,200,v,Gobert Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,408
+22300723,566,PT07M16.00S,4,0,,1610612741,,,0,0,0,,0,97,103,200,h,BULLS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,409
+22300723,567,PT07M16.00S,4,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,97,103,200,v,SUB: Alexander-Walker FOR Conley,Substitution,,0,0,410
+22300723,569,PT07M16.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,97,103,200,h,SUB: Caruso FOR Drummond,Substitution,,0,0,411
+22300723,570,PT07M16.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,97,103,200,h,SUB: Vucevic FOR Craig,Substitution,,0,0,412
+22300723,573,PT07M16.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,97,103,200,v,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,413
+22300723,574,PT07M13.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,97,103,200,h,Caruso REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,414
+22300723,575,PT06M53.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,-120,81,14,Missed,1,97,103,200,h,MISS DeRozan 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,0,2,415
+22300723,576,PT06M51.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,97,103,200,v,Edwards REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,416
+22300723,577,PT06M33.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,97,103,200,v,Edwards Bad Pass Turnover (P4.T10),Turnover,Bad Pass,0,0,417
+22300723,577,PT06M33.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,97,103,200,h,White STEAL (1 STL),,,0,0,418
+22300723,579,PT06M28.00S,4,1610612741,CHI,1629632,White,C. White,-16,12,2,Made,1,99,103,202,h,White 2' Running Layup (25 PTS),Made Shot,Running Layup Shot,0,2,419
+22300723,580,PT06M14.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,99,103,202,h,Vucevic S.FOUL (P4.PN) (C.Flores),Foul,Shooting,0,0,420
+22300723,582,PT06M14.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,99,103,202,v,MISS Gobert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,421
+22300723,583,PT06M14.00S,4,0,,1610612750,,,0,0,0,,0,99,103,202,v,Timberwolves Rebound,Rebound,Normal Rebound,0,0,422
+22300723,584,PT06M14.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,99,104,203,v,Gobert Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,423
+22300723,585,PT06M00.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,224,-1,0,Missed,1,99,104,203,h,MISS Caruso 3PT Jump Shot,Missed Shot,Jump Shot,0,3,424
+22300723,586,PT05M58.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,99,104,203,v,Edwards REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,425
+22300723,587,PT05M33.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-17,119,12,Missed,1,99,104,203,v,MISS Edwards 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,0,2,426
+22300723,588,PT05M31.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,99,104,203,h,Caruso REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,427
+22300723,589,PT05M28.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,99,104,203,h,Caruso Bad Pass Turnover (P4.T14),Turnover,Bad Pass,0,0,428
+22300723,589,PT05M28.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,99,104,203,v,Edwards STEAL (2 STL),,,0,0,429
+22300723,591,PT05M25.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-1,-5,1,Made,1,99,106,205,v,Edwards 1' Driving Layup (32 PTS),Made Shot,Driving Layup Shot,0,2,430
+22300723,592,PT05M19.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,99,106,205,v,McDaniels S.FOUL (P2.T2) (C.Flores),Foul,Shooting,0,0,431
+22300723,594,PT05M19.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,100,106,206,h,White Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,0,0,432
+22300723,595,PT05M19.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,100,106,206,h,SUB: Drummond FOR Dosunmu,Substitution,,0,0,433
+22300723,597,PT05M19.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,101,106,207,h,White Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,0,0,434
+22300723,598,PT05M19.00S,4,0,,1610612750,,,0,0,0,,0,101,106,207,v,Timberwolves Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,435
+22300723,599,PT05M19.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,101,106,207,v,SUB: Conley FOR Alexander-Walker,Substitution,,0,0,436
+22300723,601,PT05M04.00S,4,1610612750,MIN,1626157,Towns,K. Towns,113,214,24,Made,1,101,109,210,v,Towns 24' 3PT Jump Shot (26 PTS) (Conley 8 AST),Made Shot,Jump Shot,1,3,437
+22300723,603,PT04M42.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,-145,221,26,Made,1,104,109,213,h,Vucevic 26' 3PT Jump Shot (22 PTS) (DeRozan 3 AST),Made Shot,Jump Shot,1,3,438
+22300723,605,PT04M20.00S,4,1610612750,MIN,1626157,Towns,K. Towns,34,262,26,Missed,1,104,109,213,v,MISS Towns 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,439
+22300723,606,PT04M16.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,104,109,213,h,Caruso REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,440
+22300723,610,PT04M10.00S,4,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,104,109,213,v,Conley P.FOUL (P1.T3) (C.Washington),Foul,Personal,1,0,441
+22300723,613,PT03M56.00S,4,1610612741,CHI,1629632,White,C. White,82,241,25,Made,1,107,109,216,h,White 25' 3PT Step Back Jump Shot (30 PTS),Made Shot,Step Back Jump shot,1,3,442
+22300723,614,PT03M35.00S,4,1610612750,MIN,1626157,Towns,K. Towns,-230,67,24,Missed,1,107,109,216,v,MISS Towns 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,443
+22300723,615,PT03M34.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,107,109,216,v,Gobert REBOUND (Off:7 Def:6),Rebound,Unknown,1,0,444
+22300723,617,PT03M34.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,107,109,216,h,Drummond S.FOUL (P3.PN) (C.Washington),Foul,Shooting,1,0,445
+22300723,619,PT03M34.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,107,110,217,v,Gobert Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,446
+22300723,620,PT03M34.00S,4,0,,1610612741,,,0,0,0,,0,107,110,217,h,BULLS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,447
+22300723,621,PT03M34.00S,4,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,107,110,217,v,SUB: Anderson FOR Towns,Substitution,,0,0,448
+22300723,622,PT03M34.00S,4,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,107,110,217,v,SUB: Alexander-Walker FOR Conley,Substitution,,0,0,449
+22300723,625,PT03M34.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,107,110,217,v,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,450
+22300723,626,PT03M32.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,107,110,217,h,Drummond REBOUND (Off:6 Def:10),Rebound,Unknown,1,0,451
+22300723,627,PT03M09.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,-118,29,12,Made,1,109,110,219,h,Vucevic 12' Turnaround Fadeaway (24 PTS) (DeRozan 4 AST),Made Shot,Turnaround Fadeaway shot,1,2,452
+22300723,629,PT03M06.00S,4,0,,1610612750,,,0,0,0,,0,109,110,219,v,Timberwolves Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,453
+22300723,630,PT03M06.00S,4,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,109,110,219,h,SUB: Craig FOR Drummond,Substitution,,0,0,454
+22300723,631,PT03M06.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,109,110,219,v,SUB: Towns FOR Anderson,Substitution,,0,0,455
+22300723,632,PT03M06.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,109,110,219,v,SUB: Conley FOR Alexander-Walker,Substitution,,0,0,456
+22300723,636,PT02M41.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,165,198,26,Missed,1,109,110,219,v,MISS Edwards 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,457
+22300723,637,PT02M41.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,109,110,219,v,McDaniels REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,458
+22300723,638,PT02M41.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,Missed,1,109,110,219,v,MISS McDaniels Putback Layup,Missed Shot,Putback Layup Shot,1,2,459
+22300723,638,PT02M41.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,109,110,219,h,Caruso BLOCK (3 BLK),,,1,2,460
+22300723,640,PT02M41.00S,4,0,,1610612741,,,0,0,0,,0,109,110,219,h,BULLS Rebound,Rebound,Unknown,1,0,461
+22300723,668,PT02M41.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,109,110,219,v,Kicked Ball,Violation,Kicked Ball,0,0,462
+22300723,643,PT02M28.00S,4,1610612741,CHI,1629632,White,C. White,4,6,1,Made,1,111,110,221,h,White 1' Driving Layup (32 PTS),Made Shot,Driving Layup Shot,1,2,463
+22300723,644,PT02M28.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,111,110,221,v,McDaniels S.FOUL (P3.T4) (C.Washington),Foul,Shooting,1,0,464
+22300723,646,PT02M28.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,112,110,222,h,White Free Throw 1 of 1 (33 PTS),Free Throw,Free Throw 1 of 1,1,0,465
+22300723,647,PT02M10.00S,4,1610612750,MIN,1626157,Towns,K. Towns,-141,204,25,Missed,1,112,110,222,v,MISS Towns 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,466
+22300723,647,PT02M10.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,112,110,222,h,Craig BLOCK (2 BLK),,,1,3,467
+22300723,649,PT02M10.00S,4,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,112,110,222,h,Craig REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,468
+22300723,651,PT01M51.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,112,110,222,v,McDaniels S.FOUL (P4.PN) (C.Washington),Foul,Shooting,1,0,469
+22300723,653,PT01M51.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,113,110,223,h,DeRozan Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,470
+22300723,654,PT01M51.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,114,110,224,h,DeRozan Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,471
+22300723,655,PT01M33.00S,4,1610612750,MIN,1626157,Towns,K. Towns,-17,6,2,Made,1,114,112,226,v,Towns 2' Cutting Layup Shot (28 PTS) (Gobert 1 AST),Made Shot,Cutting Layup Shot,1,2,472
+22300723,657,PT01M26.00S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,114,112,226,v,Anderson T.FOUL (P1.PN) (C.Washington),Foul,Technical,1,0,473
+22300723,658,PT01M26.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,115,112,227,h,DeRozan Free Throw Technical (23 PTS),Free Throw,Free Throw Technical,1,0,474
+22300723,659,PT01M11.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,44,85,10,Missed,1,115,112,227,h,MISS Caruso 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,475
+22300723,660,PT01M09.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,115,112,227,v,Edwards REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,476
+22300723,661,PT00M50.50S,4,1610612750,MIN,1626157,Towns,K. Towns,-153,208,26,Made,1,115,115,230,v,Towns 26' 3PT Jump Shot (31 PTS) (McDaniels 3 AST),Made Shot,Jump Shot,1,3,477
+22300723,663,PT00M26.10S,4,1610612741,CHI,1629632,White,C. White,137,225,26,Missed,1,115,115,230,h,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,478
+22300723,664,PT00M23.80S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,115,115,230,v,Gobert REBOUND (Off:7 Def:7),Rebound,Unknown,1,0,479
+22300723,665,PT00M05.30S,4,1610612750,MIN,1626157,Towns,K. Towns,206,243,32,Missed,1,115,115,230,v,MISS Towns 32' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,480
+22300723,666,PT00M02.00S,4,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,115,115,230,h,Caruso REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,481
+22300723,667,PT00M02.00S,4,0,,1610612741,,,0,0,0,,0,115,115,230,h,BULLS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,482
+22300723,669,PT00M02.00S,4,0,,1610612741,,,0,0,0,,0,115,115,230,h,BULLS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,483
+22300723,670,PT00M02.00S,4,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,115,115,230,v,SUB: Anderson FOR Towns,Substitution,,0,0,484
+22300723,672,PT00M00.00S,4,1610612741,CHI,201942,DeRozan,D. DeRozan,39,89,10,Missed,1,115,115,230,h,MISS DeRozan 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,485
+22300723,673,PT00M00.00S,4,0,,1610612741,,,0,0,0,,0,115,115,230,h,BULLS Rebound,Rebound,Unknown,1,0,486
+22300723,674,PT00M00.00S,4,0,,0,,,0,0,0,,0,115,115,230,,End of 4th Period (10:27 PM EST),period,end,1,0,487
+22300723,679,PT05M00.00S,5,0,,0,,,0,0,0,,0,115,115,230,,Start of 1st OT (10:30 PM EST),period,start,0,0,488
+22300723,681,PT05M00.00S,5,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,115,115,230,h,Jump Ball Drummond vs. Gobert: Tip to Vucevic,Jump Ball,,0,0,489
+22300723,684,PT04M47.00S,5,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,115,115,230,v,Gobert S.FOUL (P2.T1) (C.Flores),Foul,Shooting,1,0,490
+22300723,686,PT04M47.00S,5,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,116,115,231,h,DeRozan Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,491
+22300723,687,PT04M47.00S,5,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,117,115,232,h,DeRozan Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,492
+22300723,688,PT04M23.00S,5,0,,1610612750,,,0,0,0,,0,117,115,232,v,Timberwolves Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,493
+22300723,689,PT04M08.00S,5,1610612741,CHI,201942,DeRozan,D. DeRozan,-2,102,10,Made,1,119,115,234,h,DeRozan 10' Turnaround Fadeaway (27 PTS),Made Shot,Turnaround Fadeaway shot,1,2,494
+22300723,690,PT03M47.00S,5,1610612750,MIN,1626157,Towns,K. Towns,9,11,1,Missed,1,119,115,234,v,MISS Towns 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,495
+22300723,691,PT03M47.00S,5,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,119,115,234,v,Towns REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,496
+22300723,692,PT03M47.00S,5,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,119,115,234,h,Vucevic S.FOUL (P5.T1) (C.Washington),Foul,Shooting,1,0,497
+22300723,694,PT03M47.00S,5,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,119,116,235,v,Towns Free Throw 1 of 2 (32 PTS),Free Throw,Free Throw 1 of 2,1,0,498
+22300723,695,PT03M47.00S,5,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,119,117,236,v,Towns Free Throw 2 of 2 (33 PTS),Free Throw,Free Throw 2 of 2,1,0,499
+22300723,696,PT03M24.00S,5,1610612741,CHI,1629632,White,C. White,89,29,9,Missed,1,119,117,236,h,MISS White 9' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,1,2,500
+22300723,697,PT03M22.00S,5,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,119,117,236,v,Gobert REBOUND (Off:7 Def:8),Rebound,Unknown,1,0,501
+22300723,698,PT03M08.00S,5,1610612750,MIN,1630162,Edwards,A. Edwards,12,8,1,Made,1,119,119,238,v,Edwards 1' Driving Layup (34 PTS),Made Shot,Driving Layup Shot,1,2,502
+22300723,699,PT03M08.00S,5,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,119,119,238,h,Drummond Violation:Defensive Goaltending (C.Flores),Violation,Defensive Goaltending,1,0,503
+22300723,700,PT02M57.00S,5,1610612741,CHI,201942,DeRozan,D. DeRozan,-12,10,2,Made,1,121,119,240,h,DeRozan 2' Driving Layup (29 PTS),Made Shot,Driving Layup Shot,1,2,504
+22300723,701,PT02M39.00S,5,1610612750,MIN,1630183,McDaniels,J. McDaniels,-227,-22,0,Missed,1,121,119,240,v,MISS McDaniels 3PT Jump Shot,Missed Shot,Jump Shot,1,3,505
+22300723,702,PT02M39.00S,5,0,,1610612741,,,0,0,0,,0,121,119,240,h,BULLS Rebound,Rebound,Unknown,1,0,506
+22300723,703,PT02M38.00S,5,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,121,119,240,v,Gobert P.FOUL (P3.T2) (C.Washington),Foul,Personal,1,0,507
+22300723,705,PT02M18.00S,5,1610612741,CHI,203083,Drummond,A. Drummond,0,11,1,Made,1,123,119,242,h,Drummond 1' Dunk (14 PTS) (Vucevic 2 AST),Made Shot,Dunk Shot,1,2,508
+22300723,707,PT01M53.00S,5,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,123,119,242,v,McDaniels Bad Pass Turnover (P4.T12),Turnover,Bad Pass,1,0,509
+22300723,707,PT01M53.00S,5,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,123,119,242,h,Caruso STEAL (2 STL),,,1,0,510
+22300723,709,PT01M51.00S,5,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,123,119,242,v,Edwards S.FOUL (P4.T3) (C.Flores),Foul,Shooting,1,0,511
+22300723,711,PT01M51.00S,5,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,124,119,243,h,DeRozan Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,1,0,512
+22300723,712,PT01M51.00S,5,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,125,119,244,h,DeRozan Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,1,0,513
+22300723,713,PT01M35.00S,5,1610612750,MIN,1630162,Edwards,A. Edwards,-119,226,26,Made,1,125,122,247,v,Edwards 26' 3PT Jump Shot (37 PTS) (Towns 3 AST),Made Shot,Jump Shot,1,3,514
+22300723,715,PT01M22.00S,5,1610612741,CHI,203083,Drummond,A. Drummond,-6,11,1,Made,1,127,122,249,h,Drummond 1' Layup (16 PTS) (DeRozan 5 AST),Made Shot,Layup Shot,1,2,515
+22300723,717,PT01M22.00S,5,0,,1610612750,,,0,0,0,,0,127,122,249,v,Timberwolves Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,516
+22300723,718,PT01M22.00S,5,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,127,122,249,h,SUB: Craig FOR Drummond,Substitution,,0,0,517
+22300723,720,PT01M13.00S,5,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,127,122,249,h,Craig P.FOUL (P1.T2) (C.Flores),Foul,Personal,1,0,518
+22300723,723,PT01M06.00S,5,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,127,122,249,v,Edwards Offensive Charge Foul (P5) (C.Washington),Foul,Offensive Charge,1,0,519
+22300723,725,PT01M06.00S,5,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,127,122,249,v,Edwards Offensive Foul Turnover (P5.T13),Turnover,Offensive Foul Turnover,1,0,520
+22300723,726,PT01M06.00S,5,0,,723,McDaniel,C. McDaniel,0,0,0,,0,127,122,249,,Instant Replay1st OT (10:41 PM EST),Instant Replay,Support Ruling,0,0,521
+22300723,727,PT01M06.00S,5,1610612741,CHI,1628470,Craig,T. Craig,0,0,0,,0,127,122,249,h,SUB: Drummond FOR Craig,Substitution,,0,0,522
+22300723,729,PT00M51.40S,5,1610612741,CHI,201942,DeRozan,D. DeRozan,-114,-5,11,Missed,1,127,122,249,h,MISS DeRozan 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,523
+22300723,730,PT00M51.40S,5,0,,1610612741,,,0,0,0,,0,127,122,249,h,BULLS Rebound,Rebound,Unknown,1,0,524
+22300723,731,PT00M51.40S,5,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,127,122,249,v,Gobert L.B.FOUL (P4.PN) (C.Washington),Foul,Loose Ball,1,0,525
+22300723,733,PT00M51.40S,5,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,127,122,249,h,MISS Drummond Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,526
+22300723,734,PT00M51.40S,5,0,,1610612741,,,0,0,0,,0,127,122,249,h,BULLS Rebound,Rebound,Normal Rebound,0,0,527
+22300723,735,PT00M51.40S,5,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,127,122,249,h,MISS Drummond Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,528
+22300723,736,PT00M48.10S,5,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,127,122,249,v,Gobert REBOUND (Off:7 Def:9),Rebound,Unknown,1,0,529
+22300723,737,PT00M41.60S,5,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,127,122,249,h,Drummond S.FOUL (P4.PN) (C.Washington),Foul,Shooting,1,0,530
+22300723,739,PT00M41.60S,5,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,127,122,249,v,MISS Edwards Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,531
+22300723,740,PT00M41.60S,5,0,,1610612750,,,0,0,0,,0,127,122,249,v,Timberwolves Rebound,Rebound,Normal Rebound,0,0,532
+22300723,741,PT00M41.60S,5,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,127,122,249,h,SUB: Dosunmu FOR Drummond,Substitution,,0,0,533
+22300723,742,PT00M41.60S,5,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,127,122,249,v,SUB: Anderson FOR Towns,Substitution,,0,0,534
+22300723,745,PT00M41.60S,5,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,127,123,250,v,Edwards Free Throw 2 of 2 (38 PTS),Free Throw,Free Throw 2 of 2,1,0,535
+22300723,746,PT00M23.90S,5,1610612741,CHI,202696,Vučević,N. Vučević,17,260,26,Missed,1,127,123,250,h,MISS Vucevic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,536
+22300723,747,PT00M21.60S,5,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,127,123,250,v,Edwards REBOUND (Off:0 Def:12),Rebound,Unknown,1,0,537
+22300723,777,PT00M20.90S,5,1610612750,MIN,1630162,Edwards,A. Edwards,-13,13,2,Missed,1,127,123,250,v,MISS Edwards 2' Running Layup,Missed Shot,Running Layup Shot,0,2,538
+22300723,777,PT00M20.90S,5,1610612741,CHI,1627936,Caruso,A. Caruso,0,0,0,,0,127,123,250,h,Caruso BLOCK (4 BLK),,,0,2,539
+22300723,779,PT00M20.20S,5,0,,1610612750,,,0,0,0,,0,127,123,250,v,Timberwolves Rebound,Rebound,Unknown,0,0,540
+22300723,750,PT00M20.20S,5,0,,1610612741,,,0,0,0,,0,127,123,250,h,BULLS Timeout: Regular (Full 8 Short 0),Timeout,Regular,0,0,541
+22300723,751,PT00M20.20S,5,0,,748,,,0,0,0,,0,127,123,250,,Instant Replay1st OT (10:45 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,542
+22300723,752,PT00M20.20S,5,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,127,123,250,h,SUB: Drummond FOR Dosunmu,Substitution,,0,0,543
+22300723,754,PT00M15.60S,5,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,127,123,250,v,Gobert OFF.Foul (P5) (C.Flores),Foul,Offensive,1,0,544
+22300723,756,PT00M15.60S,5,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,127,123,250,v,Gobert Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,1,0,545
+22300723,757,PT00M15.60S,5,1610612741,CHI,203083,Drummond,A. Drummond,0,0,0,,0,127,123,250,h,SUB: Dosunmu FOR Drummond,Substitution,,0,0,546
+22300723,762,PT00M14.20S,5,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,127,123,250,v,Conley Personal Take Foul (P2.PN) (C.Flores),Foul,Personal Take,1,0,547
+22300723,764,PT00M14.20S,5,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,128,123,251,h,DeRozan Free Throw 1 of 2 (32 PTS),Free Throw,Free Throw 1 of 2,1,0,548
+22300723,765,PT00M14.20S,5,1610612741,CHI,201942,DeRozan,D. DeRozan,0,0,0,,0,129,123,252,h,DeRozan Free Throw 2 of 2 (33 PTS),Free Throw,Free Throw 2 of 2,1,0,549
+22300723,766,PT00M14.20S,5,0,,1610612750,,,0,0,0,,0,129,123,252,v,Timberwolves Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,550
+22300723,767,PT00M14.20S,5,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,129,123,252,v,SUB: Towns FOR Anderson,Substitution,,0,0,551
+22300723,772,PT00M04.80S,5,1610612750,MIN,1630162,Edwards,A. Edwards,-29,22,4,Missed,1,129,123,252,v,MISS Edwards 4' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,552
+22300723,772,PT00M04.80S,5,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,129,123,252,h,Vucevic BLOCK (4 BLK),,,1,2,553
+22300723,774,PT00M02.30S,5,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,129,123,252,h,Vucevic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,554
+22300723,775,PT00M00.00S,5,0,,0,,,0,0,0,,0,129,123,252,,End of 1st OT (10:53 PM EST),period,end,1,0,555

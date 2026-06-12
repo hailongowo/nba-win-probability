@@ -1,0 +1,475 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22400347,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (1:11 PM EST),period,start,1,0,1
+22400347,4,PT12M00.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,0,0,0,h,Jump Ball Vučević vs. Embiid: Tip to Maxey,Jump Ball,,1,0,2
+22400347,7,PT11M39.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-81,244,26,Missed,1,0,0,0,v,MISS Embiid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+22400347,8,PT11M37.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,0,0,0,v,Embiid REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,4
+22400347,9,PT11M32.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,-9,4,1,Made,1,0,2,2,v,Yabusele 1' Driving Layup (2 PTS) (Embiid 1 AST),Made Shot,Driving Layup Shot,1,2,5
+22400347,11,PT11M14.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,15,6,2,Made,1,2,2,4,h,Giddey 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,6
+22400347,12,PT10M54.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-87,256,27,Missed,1,2,2,4,v,MISS Embiid 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,7
+22400347,13,PT10M50.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,2,2,4,h,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+22400347,14,PT10M32.00S,1,1610612741,CHI,1629632,White,C. White,-50,250,25,Missed,1,2,2,4,h,MISS White 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,9
+22400347,15,PT10M30.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,2,2,4,v,Oubre Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+22400347,16,PT10M18.00S,1,1610612755,PHI,202331,George,P. George,-127,39,13,Made,1,2,4,6,v,George 13' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,11
+22400347,17,PT10M10.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,16,6,2,Made,1,4,4,8,h,Dosunmu 2' Driving Reverse Layup (2 PTS) (Giddey 1 AST),Made Shot,Driving Reverse Layup Shot,1,2,12
+22400347,19,PT09M52.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,4,4,8,v,Embiid Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,13
+22400347,19,PT09M52.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,4,4,8,h,LaVine STEAL (1 STL),,,1,0,14
+22400347,21,PT09M49.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,-6,4,1,Made,1,6,4,10,h,LaVine 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,15
+22400347,22,PT09M49.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,6,4,10,v,Embiid S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,1,0,16
+22400347,24,PT09M49.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,7,4,11,h,LaVine Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,17
+22400347,25,PT09M36.00S,1,1610612755,PHI,202331,George,P. George,-112,249,27,Missed,1,7,4,11,v,MISS George 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,18
+22400347,26,PT09M33.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,7,4,11,h,Vučević REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+22400347,27,PT09M26.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,16,251,25,Missed,1,7,4,11,h,MISS LaVine 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,20
+22400347,28,PT09M24.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,7,4,11,v,Maxey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,21
+22400347,29,PT09M08.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,7,4,11,h,LaVine P.FOUL (P1.T1) (M.Smith),Foul,Personal,1,0,22
+22400347,31,PT08M57.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,1,13,1,Missed,1,7,4,11,v,MISS Embiid 1' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,23
+22400347,32,PT08M56.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,7,4,11,v,Embiid REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,24
+22400347,47,PT08M55.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,1,1,0,Missed,1,7,4,11,v,MISS Embiid Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,25
+22400347,48,PT08M53.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,7,4,11,h,Vučević REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,26
+22400347,33,PT08M51.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,-12,11,2,Made,1,9,4,13,h,LaVine 2' Running Reverse Layup (5 PTS) (Vučević 1 AST),Made Shot,Running Reverse Layup Shot,1,2,27
+22400347,35,PT08M42.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-141,222,26,Missed,1,9,4,13,v,MISS Maxey 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,28
+22400347,36,PT08M40.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,9,4,13,h,Vučević REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,29
+22400347,37,PT08M33.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,-136,219,26,Missed,1,9,4,13,h,MISS LaVine 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,30
+22400347,38,PT08M31.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,9,4,13,v,Maxey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,31
+22400347,39,PT08M25.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,9,4,13,v,Oubre Jr. Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,32
+22400347,39,PT08M25.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,9,4,13,h,Giddey STEAL (1 STL),,,1,0,33
+22400347,41,PT08M22.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,9,4,13,h,Giddey Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,34
+22400347,42,PT08M04.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,26,159,16,Missed,1,9,4,13,v,MISS Embiid 16' Jump Shot,Missed Shot,Jump Shot,1,2,35
+22400347,43,PT07M59.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,9,4,13,h,Giddey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,36
+22400347,44,PT07M55.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,44,252,26,Made,1,12,4,16,h,Vučević 26' 3PT Jump Shot (3 PTS) (Giddey 2 AST),Made Shot,Jump Shot,1,3,37
+22400347,46,PT07M51.00S,1,0,,1610612755,,,0,0,0,,0,12,4,16,v,76ers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,38
+22400347,49,PT07M35.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,12,4,16,v,George Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,39
+22400347,50,PT07M26.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-169,176,24,Missed,1,12,4,16,h,MISS Dosunmu 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,40
+22400347,51,PT07M23.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,12,4,16,v,Yabusele REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+22400347,52,PT07M13.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,-7,147,15,Missed,1,12,4,16,v,MISS Embiid 15' Jump Shot,Missed Shot,Jump Shot,1,2,42
+22400347,53,PT07M09.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,12,4,16,h,Dosunmu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,43
+22400347,54,PT07M01.00S,1,1610612741,CHI,1629632,White,C. White,-143,201,25,Missed,1,12,4,16,h,MISS White 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,44
+22400347,55,PT06M59.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,12,4,16,v,George REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,45
+22400347,56,PT06M54.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-118,237,26,Made,1,12,7,19,v,Oubre Jr. 26' 3PT Running Jump Shot (3 PTS) (Maxey 1 AST),Made Shot,Running Jump Shot,1,3,46
+22400347,58,PT06M46.00S,1,1610612741,CHI,1629632,White,C. White,18,14,2,Missed,1,12,7,19,h,MISS White 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,47
+22400347,58,PT06M46.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,12,7,19,v,Embiid BLOCK (1 BLK),,,1,2,48
+22400347,60,PT06M46.00S,1,0,,1610612741,,,0,0,0,,0,12,7,19,h,BULLS Rebound,Rebound,Unknown,0,0,49
+22400347,62,PT06M46.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,12,7,19,h,SUB: Buzelis FOR White,Substitution,,0,0,50
+22400347,63,PT06M46.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,12,7,19,h,SUB: Ball FOR Giddey,Substitution,,0,0,51
+22400347,64,PT06M46.00S,1,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,12,7,19,v,SUB: Drummond FOR Embiid,Substitution,,0,0,52
+22400347,77,PT06M46.00S,1,1610612755,PHI,202331,George,P. George,0,0,0,,0,12,7,19,v,SUB: McCain FOR George,Substitution,,0,0,53
+22400347,70,PT06M30.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,-28,100,10,Missed,1,12,7,19,h,MISS Vučević 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,54
+22400347,71,PT06M28.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,12,7,19,v,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,55
+22400347,72,PT06M17.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,12,7,19,v,Maxey Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,56
+22400347,72,PT06M17.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,12,7,19,h,Vučević STEAL (1 STL),,,1,0,57
+22400347,74,PT06M15.00S,1,1610612741,CHI,1641824,Buzelis,M. Buzelis,12,9,2,Made,1,14,7,21,h,Buzelis 2' Running Layup (2 PTS) (Dosunmu 1 AST),Made Shot,Running Layup Shot,1,2,58
+22400347,76,PT06M15.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,14,7,21,v,Oubre Jr. S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,1,0,59
+22400347,79,PT06M15.00S,1,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,15,7,22,h,Buzelis Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,60
+22400347,80,PT06M02.00S,1,1610612755,PHI,1642272,McCain,J. McCain,2,105,11,Missed,1,15,7,22,v,MISS McCain 11' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,61
+22400347,81,PT06M02.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,15,7,22,h,Vučević REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,62
+22400347,82,PT05M52.00S,1,1610612741,CHI,1628366,Ball,L. Ball,103,255,28,Missed,1,15,7,22,h,MISS Ball 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+22400347,83,PT05M49.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,15,7,22,v,Drummond REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,64
+22400347,84,PT05M41.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-163,207,26,Made,1,15,10,25,v,Maxey 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,65
+22400347,85,PT05M29.00S,1,1610612741,CHI,1641824,Buzelis,M. Buzelis,9,5,1,Made,1,17,10,27,h,Buzelis 1' Cutting Dunk Shot (5 PTS) (Vučević 2 AST),Made Shot,Cutting Dunk Shot,1,2,66
+22400347,87,PT05M16.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,9,6,1,Made,1,17,12,29,v,Yabusele 1' Cutting Layup Shot (4 PTS) (McCain 1 AST),Made Shot,Cutting Layup Shot,1,2,67
+22400347,89,PT04M57.00S,1,1610612741,CHI,1628366,Ball,L. Ball,-22,80,8,Missed,1,17,12,29,h,MISS Ball 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,68
+22400347,90,PT04M56.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,17,12,29,v,Drummond REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,69
+22400347,91,PT04M47.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,148,202,25,Missed,1,17,12,29,v,MISS Maxey 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,70
+22400347,92,PT04M44.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,17,12,29,h,Vučević REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,71
+22400347,93,PT04M34.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,17,12,29,v,Maxey S.FOUL (P1.T3) (E.Dalen),Foul,Shooting,1,0,72
+22400347,95,PT04M34.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,18,12,30,h,LaVine Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,73
+22400347,96,PT04M34.00S,1,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,18,12,30,v,SUB: C. Martin FOR Oubre Jr.,Substitution,,0,0,74
+22400347,98,PT04M34.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,19,12,31,h,LaVine Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,75
+22400347,99,PT04M11.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,233,2,0,Missed,1,19,12,31,v,MISS Maxey 3PT Jump Shot,Missed Shot,Jump Shot,1,3,76
+22400347,100,PT04M08.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,19,12,31,v,Drummond REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,77
+22400347,101,PT04M08.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,Made,1,19,14,33,v,Drummond Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,78
+22400347,102,PT04M05.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,19,14,33,h,Dosunmu Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,79
+22400347,102,PT04M05.00S,1,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,19,14,33,v,McCain STEAL (1 STL),,,1,0,80
+22400347,104,PT04M00.00S,1,1610612755,PHI,1642272,McCain,J. McCain,-93,270,29,Made,1,19,17,36,v,McCain 29' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,81
+22400347,105,PT03M40.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,-224,3,0,Made,1,22,17,39,h,LaVine 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,3,82
+22400347,106,PT03M29.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,-43,37,6,Missed,1,22,17,39,v,MISS Maxey 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,83
+22400347,107,PT03M29.00S,1,0,,1610612755,,,0,0,0,,0,22,17,39,v,76ers Rebound,Rebound,Unknown,1,0,84
+22400347,109,PT03M29.00S,1,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,22,17,39,h,SUB: Giddey FOR LaVine,Substitution,,0,0,85
+22400347,110,PT03M29.00S,1,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,22,17,39,h,SUB: White FOR Vučević,Substitution,,0,0,86
+22400347,111,PT03M29.00S,1,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,22,17,39,h,SUB: Smith FOR Dosunmu,Substitution,,0,0,87
+22400347,112,PT03M29.00S,1,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,22,17,39,v,SUB: K. Martin FOR Maxey,Substitution,,0,0,88
+22400347,113,PT03M29.00S,1,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,22,17,39,v,SUB: George FOR Yabusele,Substitution,,0,0,89
+22400347,119,PT03M29.00S,1,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,22,17,39,h,Jump Ball Buzelis vs. Drummond: Tip to McCain,Jump Ball,,1,0,90
+22400347,124,PT03M23.00S,1,1610612755,PHI,202331,George,P. George,167,86,19,Made,1,22,19,41,v,George 19' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,91
+22400347,125,PT03M14.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,112,232,26,Made,1,25,19,44,h,Giddey 26' 3PT Jump Shot (5 PTS) (White 1 AST),Made Shot,Jump Shot,1,3,92
+22400347,126,PT02M53.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,12,6,1,Missed,1,25,19,44,v,MISS Drummond 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,93
+22400347,127,PT02M50.00S,1,1610612741,CHI,1629632,White,C. White,0,0,0,,0,25,19,44,h,White REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,94
+22400347,128,PT02M39.00S,1,1610612741,CHI,1630188,Smith,J. Smith,-223,2,0,Made,1,28,19,47,h,Smith 3PT Jump Shot (3 PTS) (Giddey 3 AST),Made Shot,Jump Shot,1,3,95
+22400347,130,PT02M28.00S,1,1610612755,PHI,1642272,McCain,J. McCain,5,8,1,Missed,1,28,19,47,v,MISS McCain 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,96
+22400347,131,PT02M28.00S,1,0,,1610612741,,,0,0,0,,0,28,19,47,h,BULLS Rebound,Rebound,Unknown,0,0,97
+22400347,133,PT02M28.00S,1,0,,1610612741,,,0,0,0,,0,28,19,47,h,BULLS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,98
+22400347,135,PT02M28.00S,1,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,28,19,47,h,SUB: Terry FOR Ball,Substitution,,0,0,99
+22400347,136,PT02M28.00S,1,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,28,19,47,v,SUB: Lowry FOR McCain,Substitution,,0,0,100
+22400347,139,PT02M12.00S,1,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,28,19,47,h,Giddey Out of Bounds Lost Ball Turnover (P2.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,101
+22400347,140,PT01M55.00S,1,1610612755,PHI,202331,George,P. George,56,247,25,Missed,1,28,19,47,v,MISS George 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,102
+22400347,141,PT01M53.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,28,19,47,v,Drummond REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,103
+22400347,142,PT01M51.00S,1,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,28,19,47,v,C. Martin Traveling Turnover (P1.T5),Turnover,Traveling,1,0,104
+22400347,143,PT01M40.00S,1,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,28,19,47,v,K. Martin P.FOUL (P1.T4) (E.Dalen),Foul,Personal,1,0,105
+22400347,145,PT01M23.00S,1,1610612741,CHI,1629632,White,C. White,12,116,12,Missed,1,28,19,47,h,MISS White 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,106
+22400347,146,PT01M21.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,28,19,47,v,Drummond REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,107
+22400347,147,PT01M08.00S,1,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,28,19,47,h,Buzelis S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,1,0,108
+22400347,149,PT01M08.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,28,20,48,v,Drummond Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,109
+22400347,150,PT01M08.00S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,28,21,49,v,Drummond Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,110
+22400347,151,PT00M53.90S,1,1610612741,CHI,1641824,Buzelis,M. Buzelis,233,22,0,Missed,1,28,21,49,h,MISS Buzelis 3PT Jump Shot,Missed Shot,Jump Shot,1,3,111
+22400347,152,PT00M52.40S,1,1610612755,PHI,203083,Drummond,A. Drummond,0,0,0,,0,28,21,49,v,Drummond REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,112
+22400347,153,PT00M35.40S,1,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,28,21,49,v,Lowry Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,113
+22400347,153,PT00M35.40S,1,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,28,21,49,h,Giddey STEAL (2 STL),,,1,0,114
+22400347,155,PT00M32.20S,1,1610612741,CHI,1629632,White,C. White,18,13,2,Made,1,30,21,51,h,White 2' Running Layup (2 PTS) (Giddey 4 AST),Made Shot,Running Layup Shot,1,2,115
+22400347,157,PT00M11.20S,1,1610612755,PHI,202331,George,P. George,20,207,21,Made,1,30,23,53,v,George 21' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,116
+22400347,158,PT00M00.50S,1,1610612741,CHI,1629632,White,C. White,-135,225,26,Made,1,33,23,56,h,White 26' 3PT Jump Shot (5 PTS) (Giddey 5 AST),Made Shot,Jump Shot,1,3,117
+22400347,161,PT00M00.00S,1,0,,158,,,0,0,0,,0,33,23,56,,Instant Replay1st Period (1:35 PM EST),Instant Replay,Support Ruling,0,0,118
+22400347,160,PT00M00.00S,1,0,,0,,,0,0,0,,0,33,23,56,,End of 1st Period (1:35 PM EST),period,end,1,0,119
+22400347,168,PT12M00.00S,2,0,,0,,,0,0,0,,0,33,23,56,,Start of 2nd Period (1:37 PM EST),period,start,0,0,120
+22400347,169,PT11M49.00S,2,1610612741,CHI,1641824,Buzelis,M. Buzelis,228,31,0,Missed,1,33,23,56,h,MISS Buzelis 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+22400347,170,PT11M46.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,33,23,56,v,George REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,122
+22400347,171,PT11M39.00S,2,1610612755,PHI,200768,Lowry,K. Lowry,-11,71,7,Missed,1,33,23,56,v,MISS Lowry 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,123
+22400347,171,PT11M39.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,33,23,56,h,Giddey BLOCK (1 BLK),,,1,2,124
+22400347,173,PT11M36.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,33,23,56,h,Vučević REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,125
+22400347,175,PT11M19.00S,2,1610612741,CHI,1629632,White,C. White,-21,257,26,Missed,1,33,23,56,h,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+22400347,176,PT11M16.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,33,23,56,v,Embiid REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,127
+22400347,177,PT10M59.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,33,23,56,v,Embiid Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,128
+22400347,177,PT10M59.00S,2,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,33,23,56,h,Terry STEAL (1 STL),,,1,0,129
+22400347,179,PT10M54.00S,2,1610612741,CHI,1641824,Buzelis,M. Buzelis,-222,6,0,Missed,1,33,23,56,h,MISS Buzelis 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,130
+22400347,180,PT10M49.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,33,23,56,h,White REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,131
+22400347,181,PT10M45.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,105,236,26,Missed,1,33,23,56,h,MISS Giddey 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,132
+22400347,182,PT10M42.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,33,23,56,v,Embiid REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,133
+22400347,183,PT10M20.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,-31,263,26,Missed,1,33,23,56,v,MISS Embiid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,134
+22400347,184,PT10M17.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,33,23,56,h,Giddey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,135
+22400347,185,PT10M15.00S,2,1610612741,CHI,1629632,White,C. White,-91,123,15,Missed,1,33,23,56,h,MISS White 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,136
+22400347,186,PT10M14.00S,2,0,,1610612755,,,0,0,0,,0,33,23,56,v,76ers Rebound,Rebound,Unknown,1,0,137
+22400347,188,PT10M14.00S,2,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,33,23,56,h,SUB: Phillips FOR Buzelis,Substitution,,0,0,138
+22400347,189,PT10M14.00S,2,1610612741,CHI,1631207,Terry,D. Terry,0,0,0,,0,33,23,56,h,SUB: Horton-Tucker FOR Terry,Substitution,,0,0,139
+22400347,192,PT09M52.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,-53,83,10,Made,1,33,25,58,v,Embiid 10' Turnaround Jump Shot (2 PTS) (Maxey 2 AST),Made Shot,Turnaround Jump Shot,1,2,140
+22400347,194,PT09M38.00S,2,1610612741,CHI,1641763,Phillips,J. Phillips,239,3,24,Missed,1,33,25,58,h,MISS Phillips 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+22400347,195,PT09M36.00S,2,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,33,25,58,v,C. Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,142
+22400347,196,PT09M28.00S,2,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,33,25,58,v,C. Martin Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,143
+22400347,196,PT09M28.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,33,25,58,h,Vučević STEAL (2 STL),,,1,0,144
+22400347,199,PT09M23.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,33,25,58,h,Vučević Offensive Charge Foul (P1) (M.Smith),Foul,Offensive Charge,1,0,145
+22400347,201,PT09M23.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,33,25,58,h,Vučević Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,146
+22400347,202,PT09M23.00S,2,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,33,25,58,v,SUB: Oubre Jr. FOR C. Martin,Substitution,,0,0,147
+22400347,204,PT09M09.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,-80,25,8,Missed,1,33,25,58,v,MISS Embiid 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,148
+22400347,205,PT09M07.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,33,25,58,v,Embiid REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,149
+22400347,206,PT09M07.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,Made,1,33,27,60,v,Embiid Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,150
+22400347,207,PT09M07.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,33,27,60,h,Vučević S.FOUL (P2.T1) (E.Dalen),Foul,Shooting,1,0,151
+22400347,209,PT09M07.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,33,27,60,h,SUB: Ball FOR Giddey,Substitution,,0,0,152
+22400347,211,PT09M07.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,33,28,61,v,Embiid Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,153
+22400347,212,PT08M55.00S,2,1610612741,CHI,1628366,Ball,L. Ball,-129,208,24,Missed,1,33,28,61,h,MISS Ball 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,154
+22400347,213,PT08M53.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,33,28,61,v,Embiid REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,155
+22400347,214,PT08M46.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,17,4,2,Made,1,33,30,63,v,Maxey 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,156
+22400347,215,PT08M46.00S,2,0,,1610612741,,,0,0,0,,0,33,30,63,h,BULLS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,157
+22400347,216,PT08M46.00S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,33,30,63,h,SUB: Dosunmu FOR White,Substitution,,0,0,158
+22400347,218,PT08M35.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,33,30,63,v,Oubre Jr. P.FOUL (P2.T1) (J.Williams),Foul,Personal,1,0,159
+22400347,220,PT08M31.00S,2,1610612741,CHI,1629659,Horton-Tucker,T. Horton-Tucker,-175,184,25,Missed,1,33,30,63,h,MISS Horton-Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,160
+22400347,221,PT08M26.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,33,30,63,v,George REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,161
+22400347,222,PT08M15.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,-152,68,17,Made,1,33,32,65,v,Embiid 17' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,1,2,162
+22400347,223,PT08M06.00S,2,1610612741,CHI,1629659,Horton-Tucker,T. Horton-Tucker,161,229,28,Made,1,36,32,68,h,Horton-Tucker 28' 3PT Jump Shot (3 PTS) (Vučević 3 AST),Made Shot,Jump Shot,1,3,163
+22400347,225,PT07M49.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,36,32,68,v,Embiid Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0,164
+22400347,225,PT07M49.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,36,32,68,h,Vučević STEAL (3 STL),,,1,0,165
+22400347,227,PT07M44.00S,2,1610612741,CHI,1641763,Phillips,J. Phillips,-223,6,0,Made,1,39,32,71,h,Phillips 3PT Running Jump Shot (3 PTS) (Dosunmu 2 AST),Made Shot,Running Jump Shot,1,3,166
+22400347,229,PT07M31.00S,2,1610612755,PHI,200768,Lowry,K. Lowry,143,204,25,Made,1,39,35,74,v,Lowry 25' 3PT Jump Shot (3 PTS) (Embiid 2 AST),Made Shot,Jump Shot,0,3,167
+22400347,231,PT07M19.00S,2,1610612741,CHI,1628366,Ball,L. Ball,9,105,11,Missed,1,39,35,74,h,MISS Ball 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,168
+22400347,232,PT07M14.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,39,35,74,v,Maxey REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,169
+22400347,233,PT07M07.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,1,-1,0,Made,1,39,37,76,v,Embiid Cutting Layup Shot (9 PTS) (Maxey 3 AST),Made Shot,Cutting Layup Shot,1,2,170
+22400347,235,PT06M53.00S,2,1610612741,CHI,1641763,Phillips,J. Phillips,0,0,0,,0,39,37,76,h,Phillips Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,171
+22400347,235,PT06M53.00S,2,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,39,37,76,v,Lowry STEAL (1 STL),,,1,0,172
+22400347,237,PT06M53.00S,2,1610612741,CHI,1641763,Phillips,J. Phillips,0,0,0,,0,39,37,76,h,Phillips P.FOUL (P1.T2) (E.Dalen),Foul,Personal,1,0,173
+22400347,239,PT06M53.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,39,37,76,h,SUB: Smith FOR Vučević,Substitution,,0,0,174
+22400347,240,PT06M53.00S,2,1610612741,CHI,1641763,Phillips,J. Phillips,0,0,0,,0,39,37,76,h,SUB: LaVine FOR Phillips,Substitution,,0,0,175
+22400347,243,PT06M53.00S,2,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,39,37,76,v,SUB: McCain FOR Lowry,Substitution,,0,0,176
+22400347,245,PT06M40.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,49,120,13,Made,1,39,39,78,v,Embiid 13' Jump Shot (11 PTS) (Maxey 4 AST),Made Shot,Jump Shot,1,2,177
+22400347,247,PT06M24.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,39,39,78,h,LaVine Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,1,0,178
+22400347,248,PT06M11.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,45,150,16,Missed,1,39,39,78,v,MISS Embiid 16' Jump Shot,Missed Shot,Jump Shot,1,2,179
+22400347,249,PT06M09.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,39,39,78,h,LaVine REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,180
+22400347,250,PT06M05.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,132,256,29,Missed,1,39,39,78,h,MISS LaVine 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,181
+22400347,251,PT06M02.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,39,39,78,v,Oubre Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,182
+22400347,252,PT05M57.00S,2,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,39,39,78,h,Ball S.FOUL (P1.T3) (E.Dalen),Foul,Shooting,1,0,183
+22400347,254,PT05M57.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,39,40,79,v,Embiid Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,184
+22400347,255,PT05M57.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,39,41,80,v,Embiid Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,185
+22400347,256,PT05M49.00S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,39,41,80,h,Dosunmu Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,186
+22400347,257,PT05M49.00S,2,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,39,41,80,h,SUB: Giddey FOR Ball,Substitution,,0,0,187
+22400347,258,PT05M49.00S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,39,41,80,v,SUB: K. Martin FOR George,Substitution,,0,0,188
+22400347,261,PT05M39.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-121,247,28,Missed,1,39,41,80,v,MISS Maxey 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,189
+22400347,262,PT05M36.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,39,41,80,h,Giddey REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,190
+22400347,263,PT05M34.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,39,41,80,v,Maxey P.FOUL (P2.T2) (E.Dalen),Foul,Personal,1,0,191
+22400347,265,PT05M27.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,-168,193,26,Missed,1,39,41,80,h,MISS LaVine 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,192
+22400347,266,PT05M25.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,39,41,80,v,Maxey REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,193
+22400347,267,PT05M16.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,26,106,11,Made,1,39,43,82,v,Embiid 11' Turnaround Jump Shot (15 PTS) (Maxey 5 AST),Made Shot,Turnaround Jump Shot,1,2,194
+22400347,269,PT05M03.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,33,14,4,Missed,1,39,43,82,h,MISS Giddey 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,195
+22400347,270,PT05M02.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,39,43,82,v,Maxey REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,196
+22400347,271,PT04M53.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,-24,59,6,Made,1,39,45,84,v,Maxey 6' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,197
+22400347,272,PT04M41.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,39,45,84,h,LaVine Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,198
+22400347,272,PT04M41.00S,2,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,39,45,84,v,McCain STEAL (2 STL),,,1,0,199
+22400347,274,PT04M36.00S,2,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,Made,1,39,47,86,v,K. Martin Running Dunk (2 PTS) (McCain 2 AST),Made Shot,Running Dunk Shot,1,2,200
+22400347,276,PT04M36.00S,2,0,,1610612741,,,0,0,0,,0,39,47,86,h,BULLS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,201
+22400347,277,PT04M36.00S,2,1610612741,CHI,1629659,Horton-Tucker,T. Horton-Tucker,0,0,0,,0,39,47,86,h,SUB: White FOR Horton-Tucker,Substitution,,0,0,202
+22400347,279,PT04M19.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,11,8,1,Made,1,41,47,88,h,Giddey 1' Cutting Layup Shot (7 PTS) (LaVine 1 AST),Made Shot,Cutting Layup Shot,1,2,203
+22400347,281,PT04M03.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,18,107,11,Made,1,41,49,90,v,Embiid 11' Jump Bank Shot (17 PTS) (Maxey 6 AST),Made Shot,Jump Bank Shot,1,2,204
+22400347,283,PT03M52.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,-2,13,1,Missed,1,41,49,90,h,MISS LaVine 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,205
+22400347,284,PT03M50.00S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,41,49,90,v,Oubre Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,206
+22400347,285,PT03M47.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,41,49,90,v,Maxey Out of Bounds Lost Ball Turnover (P2.T10),Turnover,Out of Bounds Lost Ball Turnover,1,0,207
+22400347,286,PT03M47.00S,2,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,41,49,90,h,SUB: Vučević FOR Smith,Substitution,,0,0,208
+22400347,288,PT03M32.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,6,15,2,Made,1,43,49,92,h,Vučević 2' Driving Layup (5 PTS) (LaVine 2 AST),Made Shot,Driving Layup Shot,1,2,209
+22400347,289,PT03M12.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,13,121,12,Made,1,43,51,94,v,Embiid 12' Jump Shot (19 PTS) (Maxey 7 AST),Made Shot,Jump Shot,1,2,210
+22400347,292,PT03M00.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,43,51,94,h,LaVine Bad Pass Turnover (P3.T9),Turnover,Bad Pass,1,0,211
+22400347,292,PT03M00.00S,2,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,43,51,94,v,McCain STEAL (3 STL),,,1,0,212
+22400347,294,PT02M52.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,4,280,28,Missed,1,43,51,94,v,MISS Embiid 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,213
+22400347,295,PT02M50.00S,2,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,43,51,94,h,Giddey REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,214
+22400347,296,PT02M45.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,43,51,94,v,Embiid S.FOUL (P2.T3) (J.Williams),Foul,Shooting,1,0,215
+22400347,298,PT02M45.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,44,51,95,h,Vučević Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,216
+22400347,299,PT02M45.00S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,44,51,95,v,SUB: George FOR Embiid,Substitution,,0,0,217
+22400347,301,PT02M45.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,45,51,96,h,Vučević Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,218
+22400347,302,PT02M22.00S,2,1610612755,PHI,1642272,McCain,J. McCain,195,155,25,Made,1,45,54,99,v,McCain 25' 3PT Jump Shot (6 PTS) (George 1 AST),Made Shot,Jump Shot,1,3,219
+22400347,304,PT02M12.00S,2,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,45,54,99,v,K. Martin S.FOUL (P2.T4) (E.Dalen),Foul,Shooting,1,0,220
+22400347,306,PT02M12.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,45,54,99,h,MISS LaVine Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,221
+22400347,307,PT02M12.00S,2,0,,1610612741,,,0,0,0,,0,45,54,99,h,BULLS Rebound,Rebound,Normal Rebound,0,0,222
+22400347,308,PT02M12.00S,2,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,46,54,100,h,LaVine Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,223
+22400347,309,PT01M55.00S,2,1610612755,PHI,1630231,Martin,K. Martin,5,2,1,Made,1,46,56,102,v,K. Martin 1' Reverse Layup (4 PTS) (George 2 AST),Made Shot,Reverse Layup Shot,1,2,224
+22400347,311,PT01M34.00S,2,1610612741,CHI,1629632,White,C. White,72,252,26,Missed,1,46,56,102,h,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,225
+22400347,312,PT01M32.00S,2,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,46,56,102,v,K. Martin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,226
+22400347,313,PT01M16.00S,2,1610612755,PHI,202331,George,P. George,-169,28,17,Made,1,46,58,104,v,George 17' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,2,227
+22400347,314,PT01M02.00S,2,1610612741,CHI,202696,Vučević,N. Vučević,-62,58,8,Missed,1,46,58,104,h,MISS Vučević 8' Hook Shot,Missed Shot,Hook Shot,1,2,228
+22400347,315,PT01M00.00S,2,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,46,58,104,v,Maxey REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,229
+22400347,316,PT00M57.40S,2,1610612755,PHI,1642272,McCain,J. McCain,-237,8,24,Missed,1,46,58,104,v,MISS McCain 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,230
+22400347,317,PT00M57.40S,2,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,46,58,104,v,K. Martin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,231
+22400347,318,PT00M54.20S,2,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,Made,1,46,60,106,v,K. Martin Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,232
+22400347,319,PT00M45.80S,2,1610612755,PHI,202331,George,P. George,0,0,0,,0,46,60,106,v,George S.FOUL (P1.PN) (M.Smith),Foul,Shooting,1,0,233
+22400347,321,PT00M45.80S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,47,60,107,h,Dosunmu Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,234
+22400347,322,PT00M45.80S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,48,60,108,h,Dosunmu Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,235
+22400347,323,PT00M31.90S,2,1610612755,PHI,202331,George,P. George,232,-16,0,Missed,1,48,60,108,v,MISS George 3PT Jump Shot,Missed Shot,Jump Shot,1,3,236
+22400347,324,PT00M30.20S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,48,60,108,h,Dosunmu REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,237
+22400347,325,PT00M26.50S,2,1610612741,CHI,203897,LaVine,Z. LaVine,-13,17,2,Made,1,50,60,110,h,LaVine 2' Driving Floating Bank Jump Shot (13 PTS) (Dosunmu 3 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,238
+22400347,327,PT00M06.20S,2,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,50,60,110,h,Dosunmu P.FOUL (P1.T4) (E.Dalen),Foul,Personal,1,0,239
+22400347,329,PT00M06.20S,2,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,50,60,110,v,SUB: Embiid FOR K. Martin,Substitution,,0,0,240
+22400347,331,PT00M02.90S,2,1610612755,PHI,1642272,McCain,J. McCain,-234,8,0,Missed,1,50,60,110,v,MISS McCain 3PT Jump Shot,Missed Shot,Jump Shot,1,3,241
+22400347,332,PT00M01.60S,2,0,,1610612755,,,0,0,0,,0,50,60,110,v,76ers Rebound,Rebound,Unknown,0,0,242
+22400347,333,PT00M01.60S,2,1610612741,CHI,1629632,White,C. White,0,0,0,,0,50,60,110,h,White L.B.FOUL (P1.PN) (M.Smith),Foul,Loose Ball,1,0,243
+22400347,335,PT00M01.60S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,50,61,111,v,Oubre Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,244
+22400347,338,PT00M01.60S,2,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,50,62,112,v,Oubre Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,245
+22400347,336,PT00M01.60S,2,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,50,62,112,v,SUB: K. Martin FOR Embiid,Substitution,,0,0,246
+22400347,339,PT00M00.00S,2,0,,0,,,0,0,0,,0,50,62,112,,End of 2nd Period (2:05 PM EST),period,end,1,0,247
+22400347,344,PT12M00.00S,3,0,,0,,,0,0,0,,0,50,62,112,,Start of 3rd Period (2:21 PM EST),period,start,0,0,248
+22400347,345,PT11M52.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,-16,75,8,Made,1,52,62,114,h,Vučević 8' Floating Jump Shot (9 PTS) (Giddey 6 AST),Made Shot,Floating Jump shot,1,2,249
+22400347,347,PT11M30.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-58,19,6,Missed,1,52,62,114,v,MISS Oubre Jr. 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,250
+22400347,348,PT11M28.00S,3,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,52,62,114,h,Giddey REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,251
+22400347,349,PT11M19.00S,3,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,52,62,114,h,Giddey Bad Pass Turnover (P3.T10),Turnover,Bad Pass,1,0,252
+22400347,349,PT11M19.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,52,62,114,v,Oubre Jr. STEAL (1 STL),,,1,0,253
+22400347,351,PT11M09.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-143,218,26,Missed,1,52,62,114,v,MISS Maxey 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,254
+22400347,352,PT11M06.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,52,62,114,h,Vučević REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,255
+22400347,353,PT10M57.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,62,121,14,Missed,1,52,62,114,h,MISS LaVine 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,256
+22400347,354,PT10M55.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,52,62,114,v,George REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,257
+22400347,355,PT10M46.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-168,174,24,Made,1,52,65,117,v,Maxey 24' 3PT Pullup Jump Shot (10 PTS) (Embiid 3 AST),Made Shot,Pullup Jump shot,1,3,258
+22400347,357,PT10M26.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,52,65,117,v,Embiid S.FOUL (P3.T1) (M.Smith),Foul,Shooting,1,0,259
+22400347,359,PT10M26.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,53,65,118,h,Vučević Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,260
+22400347,360,PT10M26.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,54,65,119,h,Vučević Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,261
+22400347,361,PT10M17.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,9,164,16,Made,1,54,67,121,v,Embiid 16' Driving Floating Jump Shot (21 PTS) (Maxey 8 AST),Made Shot,Driving Floating Jump Shot,1,2,262
+22400347,363,PT10M17.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,54,67,121,h,Vučević S.FOUL (P3.T1) (E.Dalen),Foul,Shooting,1,0,263
+22400347,365,PT10M17.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,54,68,122,v,Embiid Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,1,0,264
+22400347,366,PT10M04.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,26,4,3,Missed,1,54,68,122,h,MISS Dosunmu 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,265
+22400347,366,PT10M04.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,54,68,122,v,George BLOCK (1 BLK),,,1,2,266
+22400347,368,PT10M02.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,54,68,122,v,Maxey REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,267
+22400347,369,PT09M56.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,4,159,16,Made,1,54,70,124,v,Embiid 16' Pullup Jump Shot (24 PTS) (Maxey 9 AST),Made Shot,Pullup Jump shot,1,2,268
+22400347,371,PT09M47.00S,3,1610612741,CHI,1629632,White,C. White,181,175,25,Made,1,57,70,127,h,White 25' 3PT Pullup Jump Shot (8 PTS) (Giddey 7 AST),Made Shot,Pullup Jump shot,1,3,269
+22400347,373,PT09M36.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,135,258,29,Missed,1,57,70,127,v,MISS Maxey 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,270
+22400347,374,PT09M33.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,57,70,127,h,Dosunmu REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,271
+22400347,375,PT09M30.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,57,70,127,h,LaVine Lost Ball Turnover (P4.T11),Turnover,Lost Ball,1,0,272
+22400347,375,PT09M30.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,57,70,127,v,Maxey STEAL (1 STL),,,1,0,273
+22400347,377,PT09M24.00S,3,1610612755,PHI,202331,George,P. George,13,16,2,Made,1,57,72,129,v,George 2' Running Layup (10 PTS) (Maxey 10 AST),Made Shot,Running Layup Shot,1,2,274
+22400347,379,PT09M11.00S,3,1610612741,CHI,1629632,White,C. White,-186,184,26,Made,1,60,72,132,h,White 26' 3PT Jump Shot (11 PTS) (Dosunmu 4 AST),Made Shot,Jump Shot,1,3,275
+22400347,381,PT08M52.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,24,136,14,Made,1,60,74,134,v,Embiid 14' Pullup Jump Shot (26 PTS) (Maxey 11 AST),Made Shot,Pullup Jump shot,1,2,276
+22400347,383,PT08M39.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,60,74,134,h,Vučević OFF.Foul (P4) (E.Dalen),Foul,Offensive,1,0,277
+22400347,385,PT08M39.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,60,74,134,h,Vučević Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,1,0,278
+22400347,386,PT08M20.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,-20,122,12,Missed,1,60,74,134,v,MISS Embiid 12' Jump Shot,Missed Shot,Jump Shot,1,2,279
+22400347,387,PT08M18.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,60,74,134,v,Oubre Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,280
+22400347,388,PT08M16.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,138,221,26,Made,1,60,77,137,v,Maxey 26' 3PT Jump Shot (13 PTS) (McCain 3 AST),Made Shot,Jump Shot,1,3,281
+22400347,390,PT08M16.00S,3,0,,1610612741,,,0,0,0,,0,60,77,137,h,BULLS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,282
+22400347,393,PT08M16.00S,3,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,60,77,137,h,SUB: Smith FOR Vučević,Substitution,,0,0,283
+22400347,395,PT08M04.00S,3,1610612741,CHI,1630188,Smith,J. Smith,64,146,16,Missed,1,60,77,137,h,MISS Smith 16' Jump Shot,Missed Shot,Jump Shot,1,2,284
+22400347,396,PT08M01.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,60,77,137,v,Oubre Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,285
+22400347,397,PT07M44.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,-10,4,1,Made,1,60,79,139,v,Maxey 1' Driving Reverse Layup (15 PTS) (McCain 4 AST),Made Shot,Driving Reverse Layup Shot,1,2,286
+22400347,399,PT07M36.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,92,243,26,Made,1,63,79,142,h,LaVine 26' 3PT Pullup Jump Shot (16 PTS) (White 2 AST),Made Shot,Pullup Jump shot,1,3,287
+22400347,401,PT07M20.00S,3,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,63,79,142,h,Smith P.FOUL (P1.T2) (J.Williams),Foul,Personal,1,0,288
+22400347,403,PT07M20.00S,3,0,,399,Rooks,S. Rooks,0,0,0,,0,63,79,142,,Instant Replay3rd Period (2:30 PM EST),Instant Replay,Replay Center,0,0,289
+22400347,404,PT07M06.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,105,159,19,Missed,1,63,79,142,v,MISS Embiid 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,290
+22400347,405,PT07M02.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,63,79,142,h,LaVine REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,291
+22400347,406,PT06M55.00S,3,1610612741,CHI,1630581,Giddey,J. Giddey,154,205,26,Missed,1,63,79,142,h,MISS Giddey 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,292
+22400347,407,PT06M53.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,63,79,142,v,George REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,293
+22400347,408,PT06M43.00S,3,1610612755,PHI,202331,George,P. George,234,24,24,Missed,1,63,79,142,v,MISS George 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,294
+22400347,409,PT06M40.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,63,79,142,v,Oubre Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,295
+22400347,410,PT06M33.00S,3,1610612755,PHI,1642272,McCain,J. McCain,-176,177,25,Missed,1,63,79,142,v,MISS McCain 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,296
+22400347,411,PT06M29.00S,3,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,63,79,142,h,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,297
+22400347,412,PT06M23.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-238,4,24,Made,1,66,79,145,h,Dosunmu 24' 3PT Jump Shot (7 PTS) (Giddey 8 AST),Made Shot,Jump Shot,1,3,298
+22400347,414,PT06M11.00S,3,1610612755,PHI,202331,George,P. George,175,218,28,Missed,1,66,79,145,v,MISS George 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,299
+22400347,415,PT06M07.00S,3,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,66,79,145,h,Giddey REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,300
+22400347,416,PT06M01.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,-232,46,24,Missed,1,66,79,145,h,MISS LaVine 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,301
+22400347,417,PT05M57.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,66,79,145,v,Oubre Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,302
+22400347,418,PT05M43.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,9,3,1,Made,1,66,81,147,v,Oubre Jr. 1' Alley Oop Dunk (7 PTS) (Maxey 12 AST),Made Shot,Alley Oop Dunk Shot,1,2,303
+22400347,420,PT05M26.00S,3,1610612741,CHI,1630188,Smith,J. Smith,163,184,25,Missed,1,66,81,147,h,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,304
+22400347,421,PT05M24.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,66,81,147,v,Maxey REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,305
+22400347,422,PT05M09.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,66,81,147,v,Embiid Offensive Charge Foul (P4) (J.Williams),Foul,Offensive Charge,1,0,306
+22400347,424,PT05M09.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,66,81,147,v,Embiid Offensive Foul Turnover (P4.T11),Turnover,Offensive Foul Turnover,1,0,307
+22400347,425,PT05M09.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,66,81,147,h,SUB: Ball FOR White,Substitution,,0,0,308
+22400347,426,PT05M09.00S,3,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,66,81,147,h,SUB: Buzelis FOR Giddey,Substitution,,0,0,309
+22400347,427,PT05M09.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,66,81,147,v,SUB: Yabusele FOR George,Substitution,,0,0,310
+22400347,428,PT05M09.00S,3,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,66,81,147,v,SUB: K. Martin FOR Embiid,Substitution,,0,0,311
+22400347,433,PT04M52.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,-229,-8,0,Made,1,69,81,150,h,LaVine 3PT Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,1,3,312
+22400347,434,PT04M33.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,184,172,25,Missed,1,69,81,150,v,MISS Maxey 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,313
+22400347,435,PT04M32.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,69,81,150,v,Oubre Jr. REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,314
+22400347,436,PT04M29.00S,3,1610612755,PHI,1642272,McCain,J. McCain,-157,192,25,Made,1,69,84,153,v,McCain 25' 3PT Jump Shot (9 PTS) (Oubre Jr. 1 AST),Made Shot,Jump Shot,1,3,315
+22400347,438,PT04M15.00S,3,1610612741,CHI,1641824,Buzelis,M. Buzelis,-180,175,25,Missed,1,69,84,153,h,MISS Buzelis 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,316
+22400347,439,PT04M13.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,69,84,153,v,Yabusele REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,317
+22400347,440,PT04M04.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,120,235,26,Missed,1,69,84,153,v,MISS Yabusele 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,318
+22400347,441,PT04M01.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,69,84,153,h,LaVine REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,319
+22400347,442,PT03M46.00S,3,1610612741,CHI,1628366,Ball,L. Ball,130,206,24,Missed,1,69,84,153,h,MISS Ball 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+22400347,443,PT03M44.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,69,84,153,v,Oubre Jr. REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,321
+22400347,444,PT03M31.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,2,19,2,Made,1,69,86,155,v,Maxey 2' Floating Jump Shot (17 PTS),Made Shot,Floating Jump shot,1,2,322
+22400347,445,PT03M13.00S,3,1610612741,CHI,1630188,Smith,J. Smith,-4,0,0,Made,1,71,86,157,h,Smith Reverse Layup (5 PTS) (LaVine 3 AST),Made Shot,Reverse Layup Shot,1,2,323
+22400347,447,PT03M12.00S,3,0,,1610612755,,,0,0,0,,0,71,86,157,v,76ers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,324
+22400347,448,PT03M12.00S,3,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,71,86,157,h,SUB: Giddey FOR LaVine,Substitution,,0,0,325
+22400347,450,PT02M50.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,71,86,157,h,Dosunmu P.FOUL (P2.T3) (J.Williams),Foul,Personal,1,0,326
+22400347,468,PT02M50.00S,3,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,71,86,157,h,SUB: White FOR Ball,Substitution,,0,0,327
+22400347,452,PT02M41.00S,3,1610612755,PHI,1642272,McCain,J. McCain,158,226,28,Missed,1,71,86,157,v,MISS McCain 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+22400347,453,PT02M37.00S,3,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,71,86,157,h,Smith REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,329
+22400347,454,PT02M31.00S,3,1610612741,CHI,1630581,Giddey,J. Giddey,7,15,2,Missed,1,71,86,157,h,MISS Giddey 2' Running Layup,Missed Shot,Running Layup Shot,1,2,330
+22400347,454,PT02M31.00S,3,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,71,86,157,v,K. Martin BLOCK (1 BLK),,,1,2,331
+22400347,456,PT02M28.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,0,0,0,,0,71,86,157,v,Yabusele REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,332
+22400347,457,PT02M19.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,9,24,3,Made,1,71,88,159,v,Maxey 3' Driving Reverse Layup (19 PTS),Made Shot,Driving Reverse Layup Shot,1,2,333
+22400347,458,PT02M05.00S,3,1610612741,CHI,1629632,White,C. White,163,184,25,Missed,1,71,88,159,h,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+22400347,459,PT02M05.00S,3,0,,1610612741,,,0,0,0,,0,71,88,159,h,BULLS Rebound,Rebound,Unknown,1,0,335
+22400347,460,PT02M05.00S,3,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,71,88,159,v,K. Martin L.B.FOUL (P3.T2) (J.Williams),Foul,Loose Ball,1,0,336
+22400347,462,PT02M05.00S,3,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,71,88,159,v,SUB: George FOR Maxey,Substitution,,0,0,337
+22400347,463,PT02M05.00S,3,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,71,88,159,v,SUB: Lowry FOR McCain,Substitution,,0,0,338
+22400347,475,PT02M05.00S,3,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,71,88,159,h,SUB: Ball FOR Dosunmu,Substitution,,0,0,339
+22400347,466,PT01M54.00S,3,1610612741,CHI,1628366,Ball,L. Ball,-232,-8,0,Made,1,74,88,162,h,Ball 3PT Jump Shot (3 PTS) (Giddey 9 AST),Made Shot,Jump Shot,1,3,340
+22400347,470,PT01M33.00S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,-154,203,25,Missed,1,74,88,162,v,MISS Yabusele 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,341
+22400347,471,PT01M28.00S,3,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,74,88,162,h,Buzelis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,342
+22400347,472,PT01M21.00S,3,1610612741,CHI,1629632,White,C. White,-135,221,26,Missed,1,74,88,162,h,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,343
+22400347,473,PT01M20.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,74,88,162,v,George REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,344
+22400347,474,PT01M20.00S,3,0,,1610612755,,,0,0,0,,0,74,88,162,v,76ers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,345
+22400347,477,PT01M20.00S,3,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,74,88,162,v,SUB: C. Martin FOR Oubre Jr.,Substitution,,0,0,346
+22400347,479,PT01M02.00S,3,1610612755,PHI,202331,George,P. George,9,83,8,Missed,1,74,88,162,v,MISS George 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,347
+22400347,479,PT01M02.00S,3,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,74,88,162,h,Buzelis BLOCK (1 BLK),,,1,2,348
+22400347,481,PT01M02.00S,3,1610612741,CHI,1629632,White,C. White,0,0,0,,0,74,88,162,h,White REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,349
+22400347,482,PT01M02.00S,3,1610612755,PHI,202331,George,P. George,0,0,0,,0,74,88,162,v,George P.FOUL (P2.T3) (M.Smith),Foul,Personal,1,0,350
+22400347,484,PT00M52.30S,3,1610612741,CHI,1641824,Buzelis,M. Buzelis,-234,20,0,Missed,1,74,88,162,h,MISS Buzelis 3PT Jump Shot,Missed Shot,Jump Shot,1,3,351
+22400347,485,PT00M50.00S,3,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,74,88,162,v,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,352
+22400347,491,PT00M38.70S,3,1610612755,PHI,1627824,Yabusele,G. Yabusele,10,14,2,Missed,1,74,88,162,v,MISS Yabusele 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,353
+22400347,491,PT00M38.70S,3,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,74,88,162,h,Smith BLOCK (1 BLK),,,1,2,354
+22400347,493,PT00M38.70S,3,0,,1610612741,,,0,0,0,,0,74,88,162,h,BULLS Rebound,Rebound,Unknown,0,0,355
+22400347,489,PT00M38.70S,3,0,,1610612741,,,0,0,0,,0,74,88,162,h,BULLS Timeout: Coach Challenge (Full 4 Short 0),Timeout,Coach Challenge,0,0,356
+22400347,490,PT00M38.70S,3,0,,487,,,0,0,0,,0,74,88,162,,Instant Replay3rd Period (2:45 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,357
+22400347,494,PT00M38.70S,3,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,74,88,162,h,Jump Ball (CC) Smith vs. K. Martin: Tip to White,Jump Ball,Coach Challenge,1,0,358
+22400347,497,PT00M27.20S,3,1610612741,CHI,1630581,Giddey,J. Giddey,20,8,2,Made,1,76,88,164,h,Giddey 2' Driving Layup (9 PTS) (White 3 AST),Made Shot,Driving Layup Shot,1,2,359
+22400347,499,PT00M04.40S,3,1610612755,PHI,200768,Lowry,K. Lowry,-169,188,25,Missed,1,76,88,164,v,MISS Lowry 25' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,3,360
+22400347,500,PT00M03.40S,3,0,,1610612755,,,0,0,0,,0,76,88,164,v,76ers Rebound,Rebound,Unknown,1,0,361
+22400347,501,PT00M03.20S,3,0,,1610612755,,,0,0,0,,0,76,88,164,v,76ers Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,0,362
+22400347,502,PT00M00.00S,3,1610612741,CHI,1630188,Smith,J. Smith,-15,425,43,Made,1,79,88,167,h,Smith 43' 3PT Jump Shot (8 PTS) (Giddey 10 AST),Made Shot,Jump Shot,1,3,363
+22400347,505,PT00M00.00S,3,0,,502,,,0,0,0,,0,79,88,167,,Instant Replay3rd Period (2:49 PM EST),Instant Replay,Support Ruling,0,0,364
+22400347,503,PT00M00.00S,3,0,,0,,,0,0,0,,0,79,88,167,,End of 3rd Period (2:49 PM EST),period,end,1,0,365
+22400347,510,PT12M00.00S,4,0,,0,,,0,0,0,,0,79,88,167,,Start of 4th Period (2:52 PM EST),period,start,0,0,366
+22400347,511,PT11M47.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,-69,252,26,Missed,1,79,88,167,v,MISS Maxey 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,367
+22400347,512,PT11M42.00S,4,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,79,88,167,h,Ball REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,368
+22400347,513,PT11M26.00S,4,1610612741,CHI,1629632,White,C. White,-34,43,5,Made,1,81,88,169,h,White 5' Driving Floating Jump Shot (13 PTS) (Giddey 11 AST),Made Shot,Driving Floating Jump Shot,1,2,369
+22400347,514,PT11M14.00S,4,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,81,88,169,h,Smith S.FOUL (P2.T1) (J.Williams),Foul,Shooting,1,0,370
+22400347,516,PT11M14.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,81,88,169,v,MISS Embiid Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,371
+22400347,517,PT11M14.00S,4,0,,1610612755,,,0,0,0,,0,81,88,169,v,76ers Rebound,Rebound,Normal Rebound,0,0,372
+22400347,519,PT11M14.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,81,89,170,v,Embiid Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,373
+22400347,520,PT10M50.00S,4,1610612741,CHI,1629632,White,C. White,-164,247,30,Missed,1,81,89,170,h,MISS White 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,374
+22400347,521,PT10M47.00S,4,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,81,89,170,v,C. Martin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,375
+22400347,522,PT10M37.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,-31,55,6,Missed,1,81,89,170,v,MISS Maxey 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,376
+22400347,523,PT10M35.00S,4,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,81,89,170,h,Smith REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,377
+22400347,524,PT10M31.00S,4,1610612741,CHI,1630188,Smith,J. Smith,-13,258,26,Made,1,84,89,173,h,Smith 26' 3PT Running Jump Shot (11 PTS) (Ball 1 AST),Made Shot,Running Jump Shot,1,3,378
+22400347,526,PT10M18.00S,4,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,84,89,173,v,Lowry OFF.Foul (P1) (M.Smith),Foul,Offensive,1,0,379
+22400347,528,PT10M18.00S,4,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,84,89,173,v,Lowry Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,1,0,380
+22400347,529,PT10M18.00S,4,1610612755,PHI,200768,Lowry,K. Lowry,0,0,0,,0,84,89,173,v,SUB: Oubre Jr. FOR Lowry,Substitution,,0,0,381
+22400347,531,PT10M06.00S,4,1610612741,CHI,1630581,Giddey,J. Giddey,-15,54,6,Missed,1,84,89,173,h,MISS Giddey 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,382
+22400347,531,PT10M06.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,84,89,173,v,Oubre Jr. BLOCK (1 BLK),,,1,2,383
+22400347,533,PT10M03.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,84,89,173,v,Embiid REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,384
+22400347,534,PT10M03.00S,4,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,84,89,173,h,Smith P.FOUL (P3.T2) (M.Smith),Foul,Personal,1,0,385
+22400347,536,PT09M51.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,9,45,5,Missed,1,84,89,173,v,MISS Oubre Jr. 5' Hook Shot,Missed Shot,Hook Shot,1,2,386
+22400347,537,PT09M49.00S,4,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,84,89,173,h,Smith REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,387
+22400347,538,PT09M39.00S,4,1610612741,CHI,1630581,Giddey,J. Giddey,33,258,26,Missed,1,84,89,173,h,MISS Giddey 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+22400347,539,PT09M38.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,84,89,173,v,Embiid REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,389
+22400347,540,PT09M31.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,84,89,173,v,Maxey Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,390
+22400347,541,PT09M14.00S,4,1610612741,CHI,1629632,White,C. White,6,8,1,Missed,1,84,89,173,h,MISS White 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,391
+22400347,541,PT09M14.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,84,89,173,v,Embiid BLOCK (2 BLK),,,1,2,392
+22400347,543,PT09M11.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,84,89,173,v,Maxey REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,393
+22400347,544,PT09M09.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,-2,25,3,Missed,1,84,89,173,v,MISS Maxey 3' Running Layup,Missed Shot,Running Layup Shot,1,2,394
+22400347,546,PT09M09.00S,4,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,84,89,173,h,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,395
+22400347,547,PT09M01.00S,4,1610612741,CHI,1630188,Smith,J. Smith,121,227,26,Missed,1,84,89,173,h,MISS Smith 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,396
+22400347,548,PT08M59.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,84,89,173,v,Embiid REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,397
+22400347,549,PT08M40.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,84,89,173,v,Embiid Bad Pass Turnover (P5.T15),Turnover,Bad Pass,1,0,398
+22400347,549,PT08M40.00S,4,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,84,89,173,h,Ball STEAL (1 STL),,,1,0,399
+22400347,551,PT08M31.00S,4,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,84,89,173,h,Giddey Lost Ball Turnover (P4.T13),Turnover,Lost Ball,1,0,400
+22400347,551,PT08M31.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,84,89,173,v,Oubre Jr. STEAL (2 STL),,,1,0,401
+22400347,553,PT08M27.00S,4,1610612755,PHI,202331,George,P. George,28,5,3,Made,1,84,91,175,v,George 3' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,2,402
+22400347,554,PT08M08.00S,4,1610612741,CHI,1628366,Ball,L. Ball,180,193,26,Missed,1,84,91,175,h,MISS Ball 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,403
+22400347,555,PT08M06.00S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,84,91,175,v,George REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,404
+22400347,556,PT07M56.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,233,10,0,Missed,1,84,91,175,v,MISS Oubre Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,405
+22400347,557,PT07M53.00S,4,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,84,91,175,h,Giddey REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,406
+22400347,558,PT07M46.00S,4,1610612741,CHI,1629632,White,C. White,232,39,24,Missed,1,84,91,175,h,MISS White 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,407
+22400347,559,PT07M43.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,84,91,175,v,Embiid REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,408
+22400347,560,PT07M40.00S,4,0,,1610612755,,,0,0,0,,0,84,91,175,v,76ers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,409
+22400347,561,PT07M40.00S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,84,91,175,h,SUB: Vučević FOR White,Substitution,,0,0,410
+22400347,562,PT07M40.00S,4,1610612741,CHI,1630581,Giddey,J. Giddey,0,0,0,,0,84,91,175,h,SUB: Dosunmu FOR Giddey,Substitution,,0,0,411
+22400347,563,PT07M40.00S,4,1610612741,CHI,1630188,Smith,J. Smith,0,0,0,,0,84,91,175,h,SUB: LaVine FOR Smith,Substitution,,0,0,412
+22400347,564,PT07M40.00S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,84,91,175,v,SUB: K. Martin FOR George,Substitution,,0,0,413
+22400347,565,PT07M40.00S,4,1610612755,PHI,1628997,Martin,C. Martin,0,0,0,,0,84,91,175,v,SUB: McCain FOR C. Martin,Substitution,,0,0,414
+22400347,571,PT07M28.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,-96,242,26,Missed,1,84,91,175,v,MISS Embiid 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,415
+22400347,572,PT07M24.00S,4,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,84,91,175,h,Buzelis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,416
+22400347,574,PT07M06.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,229,-4,0,Made,1,87,91,178,h,Dosunmu 3PT Jump Shot (10 PTS) (Ball 2 AST),Made Shot,Jump Shot,1,3,417
+22400347,576,PT06M43.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,-223,-10,0,Made,1,87,94,181,v,Oubre Jr. 3PT Jump Shot (10 PTS) (Maxey 13 AST),Made Shot,Jump Shot,1,3,418
+22400347,578,PT06M33.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,87,94,181,h,LaVine Lost Ball Turnover (P5.T14),Turnover,Lost Ball,1,0,419
+22400347,579,PT06M33.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,87,94,181,h,LaVine L.B.FOUL (P2.T3) (M.Smith),Foul,Loose Ball,1,0,420
+22400347,581,PT06M18.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,16,21,3,Made,1,87,96,183,v,Embiid 3' Driving Layup (29 PTS) (Maxey 14 AST),Made Shot,Driving Layup Shot,1,2,421
+22400347,583,PT06M18.00S,4,0,,1610612741,,,0,0,0,,0,87,96,183,h,BULLS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,422
+22400347,584,PT06M18.00S,4,1610612741,CHI,1628366,Ball,L. Ball,0,0,0,,0,87,96,183,h,SUB: White FOR Ball,Substitution,,0,0,423
+22400347,586,PT06M05.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,7,148,15,Made,1,89,96,185,h,Vučević 15' Turnaround Jump Shot (13 PTS) (Dosunmu 5 AST),Made Shot,Turnaround Jump Shot,1,2,424
+22400347,588,PT05M43.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,-57,129,14,Missed,1,89,96,185,v,MISS Embiid 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,425
+22400347,589,PT05M41.00S,4,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,89,96,185,h,Buzelis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,426
+22400347,590,PT05M24.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,205,196,28,Made,1,92,96,188,h,LaVine 28' 3PT Jump Shot (22 PTS) (White 4 AST),Made Shot,Jump Shot,1,3,427
+22400347,592,PT05M02.00S,4,1610612755,PHI,1642272,McCain,J. McCain,-47,129,14,Made,1,92,98,190,v,McCain 14' Pullup Jump Shot (11 PTS) (Embiid 4 AST),Made Shot,Pullup Jump shot,1,2,428
+22400347,593,PT04M52.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,0,0,0,,0,92,98,190,h,Dosunmu Lost Ball Turnover (P3.T15),Turnover,Lost Ball,1,0,429
+22400347,593,PT04M52.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,92,98,190,v,Oubre Jr. STEAL (3 STL),,,1,0,430
+22400347,596,PT04M38.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,148,204,25,Missed,1,92,98,190,v,MISS Maxey 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,431
+22400347,597,PT04M35.00S,4,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,92,98,190,v,K. Martin REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,432
+22400347,598,PT04M27.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,11,4,1,Made,1,92,100,192,v,Maxey 1' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,2,433
+22400347,599,PT04M14.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,-6,277,28,Made,1,95,100,195,h,LaVine 28' 3PT Pullup Jump Shot (25 PTS),Made Shot,Pullup Jump shot,1,3,434
+22400347,600,PT04M06.00S,4,0,,1610612755,,,0,0,0,,0,95,100,195,v,76ers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,435
+22400347,601,PT04M06.00S,4,1610612755,PHI,1630231,Martin,K. Martin,0,0,0,,0,95,100,195,v,SUB: George FOR K. Martin,Substitution,,0,0,436
+22400347,603,PT03M55.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,95,100,195,v,Embiid Lost Ball Turnover (P6.T16),Turnover,Lost Ball,1,0,437
+22400347,603,PT03M55.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,95,100,195,h,Vučević STEAL (4 STL),,,1,0,438
+22400347,605,PT03M31.00S,4,1610612741,CHI,1630245,Dosunmu,A. Dosunmu,-157,221,27,Missed,1,95,100,195,h,MISS Dosunmu 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,439
+22400347,606,PT03M27.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,95,100,195,h,Vučević REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,440
+22400347,607,PT03M17.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,186,176,26,Missed,1,95,100,195,h,MISS LaVine 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,441
+22400347,608,PT03M16.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,95,100,195,v,Embiid REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,442
+22400347,609,PT03M06.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,0,0,0,,0,95,100,195,h,Vučević Violation:Kicked Ball (E.Dalen),Violation,Kicked Ball,0,0,443
+22400347,610,PT02M53.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,-63,134,15,Made,1,95,102,197,v,Embiid 15' Jump Shot (31 PTS),Made Shot,Jump Shot,1,2,444
+22400347,612,PT02M35.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,-29,124,13,Missed,1,95,102,197,h,MISS LaVine 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,445
+22400347,613,PT02M35.00S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,95,102,197,v,Oubre Jr. REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,446
+22400347,614,PT02M11.00S,4,1610612755,PHI,202331,George,P. George,161,117,20,Missed,1,95,102,197,v,MISS George 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,447
+22400347,615,PT02M10.00S,4,0,,1610612741,,,0,0,0,,0,95,102,197,h,BULLS Rebound,Rebound,Unknown,1,0,448
+22400347,617,PT02M10.00S,4,1610612741,CHI,1641824,Buzelis,M. Buzelis,0,0,0,,0,95,102,197,h,SUB: Ball FOR Buzelis,Substitution,,0,0,449
+22400347,619,PT02M04.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,95,102,197,v,Maxey P.FOUL (P3.T1) (E.Dalen),Foul,Personal,1,0,450
+22400347,621,PT01M58.00S,4,1610612741,CHI,202696,Vučević,N. Vučević,-38,273,28,Missed,1,95,102,197,h,MISS Vučević 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,451
+22400347,622,PT01M55.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,95,102,197,v,Embiid REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,452
+22400347,623,PT01M37.00S,4,1610612755,PHI,1630178,Maxey,T. Maxey,17,6,2,Made,1,95,104,199,v,Maxey 2' Driving Finger Roll Layup (23 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,453
+22400347,624,PT01M29.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,9,16,2,Made,1,97,104,201,h,LaVine 2' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,1,2,454
+22400347,625,PT01M08.00S,4,1610612755,PHI,203954,Embiid,J. Embiid,12,166,17,Missed,1,97,104,201,v,MISS Embiid 17' Jump Shot,Missed Shot,Jump Shot,1,2,455
+22400347,626,PT01M04.00S,4,1610612741,CHI,203897,LaVine,Z. LaVine,0,0,0,,0,97,104,201,h,LaVine REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,456
+22400347,627,PT00M52.20S,4,1610612741,CHI,203897,LaVine,Z. LaVine,-233,17,0,Missed,1,97,104,201,h,MISS LaVine 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+22400347,628,PT00M49.90S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,97,104,201,v,Maxey REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,458
+22400347,630,PT00M33.20S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,97,104,201,h,White Personal Take Foul (P2.T4) (J.Williams),Foul,Personal Take,1,0,459
+22400347,632,PT00M32.30S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,97,104,201,h,White Personal Take Foul (P3.PN) (J.Williams),Foul,Personal Take,1,0,460
+22400347,634,PT00M32.30S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,97,105,202,v,Oubre Jr. Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,461
+22400347,635,PT00M32.30S,4,1610612755,PHI,1642272,McCain,J. McCain,0,0,0,,0,97,105,202,v,SUB: K. Martin FOR McCain,Substitution,,0,0,462
+22400347,636,PT00M32.30S,4,1610612755,PHI,203954,Embiid,J. Embiid,0,0,0,,0,97,105,202,v,SUB: C. Martin FOR Embiid,Substitution,,0,0,463
+22400347,639,PT00M32.30S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,97,106,203,v,Oubre Jr. Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,464
+22400347,640,PT00M22.30S,4,1610612741,CHI,203897,LaVine,Z. LaVine,-169,259,31,Made,1,100,106,206,h,LaVine 31' 3PT Pullup Jump Shot (30 PTS) (White 5 AST),Made Shot,Pullup Jump shot,1,3,465
+22400347,642,PT00M20.40S,4,1610612741,CHI,1629632,White,C. White,0,0,0,,0,100,106,206,h,White Personal Take Foul (P4.PN) (J.Williams),Foul,Personal Take,1,0,466
+22400347,644,PT00M20.40S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,100,107,207,v,Maxey Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,467
+22400347,645,PT00M20.40S,4,1610612755,PHI,1626162,Oubre Jr.,K. Oubre Jr.,0,0,0,,0,100,107,207,v,SUB: Lowry FOR Oubre Jr.,Substitution,,0,0,468
+22400347,647,PT00M20.40S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,100,108,208,v,Maxey Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,469
+22400347,648,PT00M20.40S,4,0,,1610612741,,,0,0,0,,0,100,108,208,h,BULLS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,470
+22400347,649,PT00M20.40S,4,1610612755,PHI,202331,George,P. George,0,0,0,,0,100,108,208,v,SUB: Oubre Jr. FOR George,Substitution,,0,0,471
+22400347,651,PT00M16.50S,4,1610612741,CHI,203897,LaVine,Z. LaVine,238,-13,24,Missed,1,100,108,208,h,MISS LaVine 24' 3PT Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,3,472
+22400347,652,PT00M14.20S,4,1610612755,PHI,1630178,Maxey,T. Maxey,0,0,0,,0,100,108,208,v,Maxey REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,473
+22400347,653,PT00M00.00S,4,0,,0,,,0,0,0,,0,100,108,208,,End of 4th Period (3:20 PM EST),period,end,1,0,474

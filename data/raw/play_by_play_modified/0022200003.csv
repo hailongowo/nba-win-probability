@@ -1,0 +1,503 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22200003,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:15 PM EST),period,start,0,0,1
+22200003,4,PT12M00.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,0,0,0,h,Jump Ball Stewart vs. Carter Jr.: Tip to Carter Jr.,Jump Ball,,1,0,2
+22200003,7,PT11M33.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,17,30,3,Made,1,0,2,2,v,Banchero 3' Turnaround Hook Shot (2 PTS) (Carter Jr. 1 AST),Made Shot,Turnaround Hook Shot,1,2,3
+22200003,9,PT11M12.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,18,6,2,Made,1,2,2,4,h,Ivey 2' Cutting Layup Shot (2 PTS) (Cunningham 1 AST),Made Shot,Cutting Layup Shot,1,2,4
+22200003,11,PT11M07.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,2,2,4,h,Cunningham P.FOUL (P1.T1) (M.Dagher),Foul,Personal,0,0,5
+22200003,13,PT10M59.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,185,200,27,Missed,1,2,2,4,v,MISS Suggs 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,6
+22200003,14,PT10M54.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,2,2,4,h,Stewart REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+22200003,15,PT10M45.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,-6,18,2,Made,1,4,2,6,h,Stewart 2' Cutting Dunk Shot (2 PTS) (Cunningham 2 AST),Made Shot,Cutting Dunk Shot,1,2,8
+22200003,17,PT10M30.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,4,2,6,v,Suggs Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,9
+22200003,17,PT10M30.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,4,2,6,h,Ivey STEAL (1 STL),,,1,0,10
+22200003,19,PT10M25.00S,1,1610612765,DET,1630180,Bey,S. Bey,18,10,2,Made,1,6,2,8,h,Bey 2' Running Reverse Layup (2 PTS) (Ivey 1 AST),Made Shot,Running Reverse Layup Shot,1,2,11
+22200003,21,PT10M08.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,1,17,2,Made,1,6,4,10,v,Banchero 2' Driving Dunk (4 PTS) (Carter Jr. 2 AST),Made Shot,Driving Dunk Shot,1,2,12
+22200003,23,PT09M53.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,6,4,10,v,Suggs P.FOUL (P1.T1) (M.Dagher),Foul,Personal,1,0,13
+22200003,25,PT09M44.00S,1,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,6,4,10,h,Bogdanovic Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,14
+22200003,26,PT09M23.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-60,29,7,Made,1,6,6,12,v,Carter Jr. 7' Jump Shot (2 PTS),Made Shot,Jump Shot,1,2,15
+22200003,27,PT09M15.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,6,6,12,v,Suggs P.FOUL (P2.T2) (S.Corbin),Foul,Personal,1,0,16
+22200003,30,PT09M06.00S,1,1610612765,DET,202711,Bogdanović,B. Bogdanović,23,1,2,Missed,1,6,6,12,h,MISS Bogdanovic 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,17
+22200003,31,PT09M04.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,6,6,12,v,Banchero REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,18
+22200003,32,PT08M58.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,10,188,19,Made,1,6,8,14,v,Banchero 19' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,19
+22200003,33,PT08M45.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,-16,264,26,Missed,1,6,8,14,h,MISS Stewart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+22200003,34,PT08M43.00S,1,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,6,8,14,v,Ross REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,21
+22200003,35,PT08M37.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-237,-2,24,Made,1,6,11,17,v,Carter Jr. 24' 3PT Running Jump Shot (5 PTS) (Ross 1 AST),Made Shot,Running Jump Shot,1,3,22
+22200003,37,PT08M23.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,6,11,17,h,Cunningham Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,23
+22200003,37,PT08M23.00S,1,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,6,11,17,v,Ross STEAL (1 STL),,,1,0,24
+22200003,39,PT08M17.00S,1,1610612753,ORL,203082,Ross,T. Ross,184,195,27,Made,1,6,14,20,v,Ross 27' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,25
+22200003,40,PT08M17.00S,1,0,,1610612765,,,0,0,0,,0,6,14,20,h,PISTONS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,26
+22200003,41,PT07M59.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,-234,-8,0,Missed,1,6,14,20,h,MISS Stewart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,27
+22200003,42,PT07M59.00S,1,0,,1610612753,,,0,0,0,,0,6,14,20,v,Magic Rebound,Rebound,Unknown,0,0,28
+22200003,44,PT07M44.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,45,89,10,Made,1,6,16,22,v,Wagner 10' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,1,2,29
+22200003,45,PT07M35.00S,1,1610612765,DET,202711,Bogdanović,B. Bogdanović,-26,-4,3,Missed,1,6,16,22,h,MISS Bogdanovic 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,30
+22200003,45,PT07M35.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,6,16,22,v,Banchero BLOCK (1 BLK),,,1,2,31
+22200003,47,PT07M32.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,6,16,22,v,Carter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+22200003,48,PT07M30.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,15,6,2,Made,1,6,18,24,v,Wagner 2' Running Finger Roll Layup (4 PTS) (Suggs 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,33
+22200003,51,PT07M09.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,6,18,24,v,Banchero P.FOUL (P1.T3) (D.Guthrie),Foul,Personal,1,0,34
+22200003,53,PT06M57.00S,1,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,6,18,24,h,Bey Traveling Turnover (P1.T3),Turnover,Traveling,1,0,35
+22200003,54,PT06M47.00S,1,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,6,18,24,h,Bey P.FOUL (P1.T2) (M.Dagher),Foul,Personal,1,0,36
+22200003,56,PT06M47.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,6,18,24,v,SUB: Houstan FOR Wagner,Substitution,,0,0,37
+22200003,58,PT06M40.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,80,140,16,Missed,1,6,18,24,v,MISS Carter Jr. 16' Jump Shot,Missed Shot,Jump Shot,1,2,38
+22200003,59,PT06M37.00S,1,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,6,18,24,h,Bey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,39
+22200003,61,PT06M20.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,-192,194,27,Missed,1,6,18,24,h,MISS Cunningham 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,40
+22200003,62,PT06M16.00S,1,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,6,18,24,v,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,41
+22200003,63,PT06M14.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,-11,1,1,Made,1,6,20,26,v,Suggs 1' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,42
+22200003,64,PT06M14.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,6,20,26,h,Ivey S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,1,0,43
+22200003,66,PT06M14.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,6,20,26,h,SUB: Hayes FOR Ivey,Substitution,,0,0,44
+22200003,67,PT06M14.00S,1,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,6,20,26,h,SUB: Duren FOR Stewart,Substitution,,0,0,45
+22200003,70,PT06M14.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,6,21,27,v,Suggs Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,46
+22200003,71,PT06M00.00S,1,1610612765,DET,1631105,Duren,J. Duren,13,36,4,Missed,1,6,21,27,h,MISS Duren 4' Hook Shot,Missed Shot,Hook Shot,1,2,47
+22200003,72,PT05M59.00S,1,0,,1610612765,,,0,0,0,,0,6,21,27,h,PISTONS Rebound,Rebound,Unknown,1,0,48
+22200003,74,PT05M59.00S,1,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,6,21,27,v,SUB: Bol FOR Ross,Substitution,,0,0,49
+22200003,76,PT05M43.00S,1,1610612765,DET,1630180,Bey,S. Bey,-38,27,5,Made,1,8,21,29,h,Bey 5' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,50
+22200003,77,PT05M23.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,8,21,29,v,Bol Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,1,0,51
+22200003,78,PT05M23.00S,1,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,8,21,29,h,SUB: Knox II FOR Bogdanovic,Substitution,,0,0,52
+22200003,80,PT05M10.00S,1,1610612765,DET,1630180,Bey,S. Bey,-221,160,27,Missed,1,8,21,29,h,MISS Bey 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,53
+22200003,81,PT05M09.00S,1,0,,1610612753,,,0,0,0,,0,8,21,29,v,Magic Rebound,Rebound,Unknown,1,0,54
+22200003,83,PT04M54.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,8,21,29,h,Cunningham S.FOUL (P2.T4) (D.Guthrie),Foul,Shooting,1,0,55
+22200003,85,PT04M54.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,8,22,30,v,Banchero Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,56
+22200003,86,PT04M54.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,8,22,30,v,MISS Banchero Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,57
+22200003,87,PT04M51.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,8,22,30,h,Duren REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,58
+22200003,88,PT04M43.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,8,22,30,v,Banchero P.FOUL (P2.T4) (S.Corbin),Foul,Personal,1,0,59
+22200003,90,PT04M43.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,8,22,30,h,SUB: Joseph FOR Cunningham,Substitution,,0,0,60
+22200003,92,PT04M28.00S,1,1610612765,DET,202709,Joseph,C. Joseph,103,100,14,Made,1,10,22,32,h,Joseph 14' Step Back Jump Shot (2 PTS) (Bey 1 AST),Made Shot,Step Back Jump shot,1,2,61
+22200003,94,PT04M11.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,10,22,32,v,Carter Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,62
+22200003,95,PT03M55.00S,1,1610612765,DET,1630180,Bey,S. Bey,233,52,24,Missed,1,10,22,32,h,MISS Bey 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+22200003,96,PT03M53.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,10,22,32,v,Carter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,64
+22200003,97,PT03M46.00S,1,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,10,22,32,h,Joseph P.FOUL (P1.PN) (D.Guthrie),Foul,Personal,1,0,65
+22200003,99,PT03M46.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,10,23,33,v,Bol Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,66
+22200003,100,PT03M46.00S,1,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,10,23,33,v,SUB: Bamba FOR Suggs,Substitution,,0,0,67
+22200003,101,PT03M46.00S,1,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,10,23,33,v,SUB: Wagner FOR Banchero,Substitution,,0,0,68
+22200003,104,PT03M46.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,10,24,34,v,Bol Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,69
+22200003,105,PT03M30.00S,1,1610612765,DET,1628995,Knox II,K. Knox II,-31,8,3,Missed,1,10,24,34,h,MISS Knox II 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,70
+22200003,105,PT03M30.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,10,24,34,v,Carter Jr. BLOCK (1 BLK),,,1,2,71
+22200003,107,PT03M26.00S,1,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,10,24,34,h,Bey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,72
+22200003,108,PT03M24.00S,1,1610612765,DET,1628995,Knox II,K. Knox II,-237,25,24,Missed,1,10,24,34,h,MISS Knox II 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+22200003,109,PT03M21.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,10,24,34,v,Carter Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,74
+22200003,110,PT03M07.00S,1,1610612753,ORL,1628964,Bamba,M. Bamba,237,100,26,Missed,1,10,24,34,v,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+22200003,111,PT03M04.00S,1,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,10,24,34,h,Joseph REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,76
+22200003,112,PT03M01.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,10,24,34,v,Carter Jr. S.FOUL (P1.PN) (S.Corbin),Foul,Shooting,1,0,77
+22200003,114,PT03M01.00S,1,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,11,24,35,h,Bey Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,78
+22200003,115,PT03M01.00S,1,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,12,24,36,h,Bey Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,79
+22200003,116,PT02M44.00S,1,1610612753,ORL,1631216,Houstan,C. Houstan,89,252,27,Missed,1,12,24,36,v,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,80
+22200003,117,PT02M42.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,12,24,36,v,Bol REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,81
+22200003,118,PT02M38.00S,1,1610612753,ORL,1629626,Bol,B. Bol,-45,41,6,Made,1,12,26,38,v,Bol 6' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,1,2,82
+22200003,119,PT02M26.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,-15,63,6,Missed,1,12,26,38,h,MISS Hayes 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,83
+22200003,120,PT02M24.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,12,26,38,v,Wagner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+22200003,121,PT02M16.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,12,26,38,v,Wagner Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,85
+22200003,121,PT02M16.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,12,26,38,h,Hayes STEAL (1 STL),,,1,0,86
+22200003,123,PT02M13.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,-9,12,2,Made,1,14,26,40,h,Hayes 2' Running Reverse Layup (2 PTS) (Duren 1 AST),Made Shot,Running Reverse Layup Shot,1,2,87
+22200003,125,PT02M12.00S,1,0,,1610612753,,,0,0,0,,0,14,26,40,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,88
+22200003,126,PT02M12.00S,1,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,14,26,40,h,SUB: Diallo FOR Bey,Substitution,,0,0,89
+22200003,127,PT02M12.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,14,26,40,v,SUB: Okeke FOR Carter Jr.,Substitution,,0,0,90
+22200003,130,PT02M03.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,14,26,40,v,Wagner Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,91
+22200003,130,PT02M03.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,14,26,40,h,Hayes STEAL (2 STL),,,0,0,92
+22200003,132,PT01M56.00S,1,1610612765,DET,1630165,Hayes,K. Hayes,-16,10,2,Missed,1,14,26,40,h,MISS Hayes 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,0,2,93
+22200003,133,PT01M56.00S,1,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,14,26,40,v,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,94
+22200003,134,PT01M56.00S,1,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,14,26,40,h,Diallo P.FOUL (P1.PN) (D.Guthrie),Foul,Personal,0,0,95
+22200003,136,PT01M56.00S,1,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,14,26,40,v,MISS Bamba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,96
+22200003,137,PT01M56.00S,1,0,,1610612753,,,0,0,0,,0,14,26,40,v,Magic Rebound,Rebound,Normal Rebound,0,0,97
+22200003,138,PT01M56.00S,1,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,14,26,40,v,MISS Bamba Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,98
+22200003,139,PT01M53.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,14,26,40,h,Duren REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,99
+22200003,140,PT01M41.00S,1,1610612765,DET,1628995,Knox II,K. Knox II,150,211,26,Missed,1,14,26,40,h,MISS Knox II 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,100
+22200003,141,PT01M37.00S,1,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,14,26,40,h,Diallo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,101
+22200003,142,PT01M33.00S,1,1610612765,DET,1631105,Duren,J. Duren,9,36,4,Made,1,16,26,42,h,Duren 4' Hook Shot (2 PTS) (Hayes 1 AST),Made Shot,Hook Shot,1,2,102
+22200003,144,PT01M33.00S,1,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,16,26,42,v,Bamba Violation:Defensive Goaltending (D.Guthrie),Violation,Defensive Goaltending,1,0,103
+22200003,145,PT01M20.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,-27,10,3,Missed,1,16,26,42,v,MISS Wagner 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,104
+22200003,145,PT01M20.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,16,26,42,h,Duren BLOCK (1 BLK),,,1,2,105
+22200003,147,PT01M16.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,16,26,42,v,Wagner REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,106
+22200003,148,PT01M14.00S,1,1610612753,ORL,1630532,Wagner,F. Wagner,-18,13,2,Made,1,16,28,44,v,Wagner 2' Reverse Layup (6 PTS),Made Shot,Reverse Layup Shot,1,2,107
+22200003,149,PT01M05.00S,1,1610612765,DET,1628995,Knox II,K. Knox II,-191,188,27,Missed,1,16,28,44,h,MISS Knox II 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,108
+22200003,150,PT01M02.00S,1,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,16,28,44,v,Bol REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,109
+22200003,151,PT00M51.40S,1,1610612753,ORL,1628964,Bamba,M. Bamba,-120,234,26,Missed,1,16,28,44,v,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,110
+22200003,152,PT00M49.40S,1,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,16,28,44,h,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,111
+22200003,153,PT00M49.40S,1,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,16,28,44,v,Wagner Transition Take Foul (P1.PN) (D.Guthrie),Foul,Transition Take,1,0,112
+22200003,155,PT00M49.40S,1,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,17,28,45,h,Hayes Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,113
+22200003,156,PT00M32.70S,1,1610612765,DET,1630165,Hayes,K. Hayes,-18,2,2,Missed,1,17,28,45,h,MISS Hayes 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,114
+22200003,157,PT00M30.40S,1,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,17,28,45,v,Okeke REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,115
+22200003,158,PT00M10.70S,1,1610612753,ORL,1631216,Houstan,C. Houstan,136,235,27,Missed,1,17,28,45,v,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,116
+22200003,159,PT00M07.50S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,17,28,45,h,Duren REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,117
+22200003,160,PT00M03.00S,1,1610612765,DET,1628995,Knox II,K. Knox II,0,0,0,,0,17,28,45,h,Knox II Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,118
+22200003,162,PT00M00.30S,1,1610612753,ORL,1630532,Wagner,F. Wagner,138,458,48,Missed,1,17,28,45,v,MISS Wagner 48' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,119
+22200003,163,PT00M00.10S,1,0,,1610612753,,,0,0,0,,0,17,28,45,v,Magic Rebound,Rebound,Unknown,0,0,120
+22200003,164,PT00M00.00S,1,0,,0,,,0,0,0,,0,17,28,45,,End of 1st Period (7:43 PM EST),period,end,1,0,121
+22200003,165,PT12M00.00S,2,0,,0,,,0,0,0,,0,17,28,45,,Start of 2nd Period (7:46 PM EST),period,start,0,0,122
+22200003,166,PT11M42.00S,2,1610612765,DET,1628995,Knox II,K. Knox II,-194,197,28,Missed,1,17,28,45,h,MISS Knox II 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,123
+22200003,167,PT11M40.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,17,28,45,v,Wagner REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,124
+22200003,168,PT11M31.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,-125,240,27,Missed,1,17,28,45,v,MISS Bamba 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,125
+22200003,169,PT11M29.00S,2,1610612765,DET,1628995,Knox II,K. Knox II,0,0,0,,0,17,28,45,h,Knox II REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,126
+22200003,170,PT11M24.00S,2,1610612765,DET,1631105,Duren,J. Duren,-22,-1,2,Made,1,19,28,47,h,Duren 2' Running Alley Oop Dunk Shot (4 PTS) (Hayes 2 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,127
+22200003,172,PT11M04.00S,2,1610612753,ORL,1629626,Bol,B. Bol,26,9,3,Missed,1,19,28,47,v,MISS Bol 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,128
+22200003,173,PT11M03.00S,2,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,19,28,47,v,Okeke REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,129
+22200003,174,PT11M03.00S,2,1610612765,DET,1628995,Knox II,K. Knox II,0,0,0,,0,19,28,47,h,Knox II S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,1,0,130
+22200003,176,PT11M03.00S,2,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,19,29,48,v,Okeke Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,131
+22200003,177,PT11M03.00S,2,1610612765,DET,1628995,Knox II,K. Knox II,0,0,0,,0,19,29,48,h,SUB: Bogdanovic FOR Knox II,Substitution,,0,0,132
+22200003,179,PT11M03.00S,2,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,19,30,49,v,Okeke Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,133
+22200003,180,PT10M48.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,56,257,26,Missed,1,19,30,49,h,MISS Hayes 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,134
+22200003,181,PT10M46.00S,2,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,19,30,49,v,Okeke REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,135
+22200003,182,PT10M41.00S,2,1610612753,ORL,1629626,Bol,B. Bol,6,31,3,Made,1,19,32,51,v,Bol 3' Driving Floating Jump Shot (6 PTS) (Okeke 1 AST),Made Shot,Driving Floating Jump Shot,1,2,136
+22200003,183,PT10M27.00S,2,1610612765,DET,202709,Joseph,C. Joseph,50,260,26,Made,1,22,32,54,h,Joseph 26' 3PT Jump Shot (5 PTS) (Hayes 3 AST),Made Shot,Jump Shot,1,3,137
+22200003,185,PT10M07.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,7,5,1,Missed,1,22,32,54,v,MISS Wagner 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,138
+22200003,186,PT10M04.00S,2,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,22,32,54,v,Bol REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,139
+22200003,187,PT10M03.00S,2,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,Made,1,22,34,56,v,Bol Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,1,2,140
+22200003,188,PT09M59.00S,2,1610612765,DET,202709,Joseph,C. Joseph,-88,258,27,Made,1,25,34,59,h,Joseph 27' 3PT Pullup Jump Shot (8 PTS) (Diallo 1 AST),Made Shot,Pullup Jump shot,1,3,141
+22200003,190,PT09M36.00S,2,1610612753,ORL,1629626,Bol,B. Bol,26,5,3,Missed,1,25,34,59,v,MISS Bol 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,142
+22200003,191,PT09M32.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,25,34,59,v,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,143
+22200003,192,PT09M31.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,-124,240,27,Missed,1,25,34,59,v,MISS Wagner 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+22200003,193,PT09M27.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,25,34,59,h,Duren REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,145
+22200003,194,PT09M23.00S,2,1610612765,DET,1631105,Duren,J. Duren,25,21,3,Made,1,27,34,61,h,Duren 3' Running Dunk (6 PTS) (Joseph 1 AST),Made Shot,Running Dunk Shot,1,2,146
+22200003,196,PT09M21.00S,2,0,,1610612753,,,0,0,0,,0,27,34,61,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,147
+22200003,197,PT09M21.00S,2,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,27,34,61,h,SUB: Ivey FOR Hayes,Substitution,,0,0,148
+22200003,198,PT09M21.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,27,34,61,v,SUB: Ross FOR Houstan,Substitution,,0,0,149
+22200003,199,PT09M21.00S,2,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,27,34,61,v,SUB: Banchero FOR Bol,Substitution,,0,0,150
+22200003,200,PT09M21.00S,2,1610612753,ORL,1628964,Bamba,M. Bamba,0,0,0,,0,27,34,61,v,SUB: Carter Jr. FOR Bamba,Substitution,,0,0,151
+22200003,201,PT09M21.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,27,34,61,v,SUB: Suggs FOR Wagner,Substitution,,0,0,152
+22200003,207,PT09M02.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,-23,22,3,Missed,1,27,34,61,v,MISS Banchero 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,153
+22200003,207,PT09M02.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,27,34,61,h,Duren BLOCK (2 BLK),,,1,2,154
+22200003,209,PT08M57.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,27,34,61,h,Duren REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,155
+22200003,210,PT08M56.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,27,34,61,h,Duren Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,156
+22200003,210,PT08M56.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,27,34,61,v,Suggs STEAL (1 STL),,,1,0,157
+22200003,212,PT08M53.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,-9,24,3,Made,1,27,36,63,v,Banchero 3' Dunk (9 PTS) (Suggs 2 AST),Made Shot,Dunk Shot,1,2,158
+22200003,214,PT08M44.00S,2,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,27,36,63,v,Okeke P.FOUL (P1.T1) (S.Corbin),Foul,Personal,1,0,159
+22200003,216,PT08M44.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,27,36,63,h,SUB: Cunningham FOR Duren,Substitution,,0,0,160
+22200003,217,PT08M44.00S,2,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,27,36,63,h,SUB: Stewart FOR Joseph,Substitution,,0,0,161
+22200003,220,PT08M37.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,83,143,17,Missed,1,27,36,63,h,MISS Cunningham 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,162
+22200003,221,PT08M34.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,27,36,63,v,Banchero REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,163
+22200003,222,PT08M24.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,7,4,1,Made,1,27,38,65,v,Carter Jr. 1' Driving Layup (7 PTS) (Banchero 1 AST),Made Shot,Driving Layup Shot,1,2,164
+22200003,224,PT08M07.00S,2,1610612765,DET,202711,Bogdanović,B. Bogdanović,-238,42,24,Made,1,30,38,68,h,Bogdanovic 24' 3PT Pullup Jump Shot (3 PTS) (Ivey 2 AST),Made Shot,Pullup Jump shot,1,3,165
+22200003,226,PT07M57.00S,2,1610612753,ORL,203082,Ross,T. Ross,237,3,24,Made,1,30,41,71,v,Ross 24' 3PT Jump Shot (6 PTS) (Banchero 2 AST),Made Shot,Jump Shot,1,3,166
+22200003,228,PT07M46.00S,2,1610612765,DET,202711,Bogdanović,B. Bogdanović,31,78,8,Made,1,32,41,73,h,Bogdanovic 8' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,167
+22200003,229,PT07M36.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,32,41,73,v,Suggs Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,168
+22200003,230,PT07M28.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,32,41,73,v,Banchero S.FOUL (P3.T2) (D.Guthrie),Foul,Shooting,1,0,169
+22200003,232,PT07M28.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,33,41,74,h,Cunningham Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,170
+22200003,233,PT07M28.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,34,41,75,h,Cunningham Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,171
+22200003,234,PT07M11.00S,2,1610612753,ORL,203082,Ross,T. Ross,-233,-4,0,Missed,1,34,41,75,v,MISS Ross 3PT Jump Shot,Missed Shot,Jump Shot,1,3,172
+22200003,235,PT07M07.00S,2,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,34,41,75,h,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,173
+22200003,236,PT06M54.00S,2,1610612765,DET,1628977,Diallo,H. Diallo,-235,12,24,Missed,1,34,41,75,h,MISS Diallo 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,174
+22200003,237,PT06M52.00S,2,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,34,41,75,v,Okeke REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,175
+22200003,238,PT06M36.00S,2,1610612753,ORL,1629643,Okeke,C. Okeke,-16,5,2,Missed,1,34,41,75,v,MISS Okeke 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,176
+22200003,239,PT06M34.00S,2,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,34,41,75,h,Bogdanovic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,177
+22200003,240,PT06M32.00S,2,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,34,41,75,v,Okeke P.FOUL (P2.T3) (M.Dagher),Foul,Personal,1,0,178
+22200003,242,PT06M27.00S,2,1610612765,DET,202711,Bogdanović,B. Bogdanović,230,13,0,Missed,1,34,41,75,h,MISS Bogdanovic 3PT Jump Shot,Missed Shot,Jump Shot,1,3,179
+22200003,243,PT06M25.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,34,41,75,v,Banchero REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,180
+22200003,244,PT06M12.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,34,41,75,v,Suggs Lost Ball Turnover (P3.T7),Turnover,Lost Ball,1,0,181
+22200003,244,PT06M12.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,34,41,75,h,Stewart STEAL (1 STL),,,1,0,182
+22200003,246,PT06M06.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,12,16,2,Made,1,36,41,77,h,Stewart 2' Running Reverse Layup (4 PTS) (Cunningham 3 AST),Made Shot,Running Reverse Layup Shot,1,2,183
+22200003,248,PT06M06.00S,2,0,,1610612753,,,0,0,0,,0,36,41,77,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,184
+22200003,249,PT06M06.00S,2,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,36,41,77,h,SUB: Bey FOR Diallo,Substitution,,0,0,185
+22200003,250,PT06M06.00S,2,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,36,41,77,v,SUB: Wagner FOR Okeke,Substitution,,0,0,186
+22200003,253,PT05M46.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,36,41,77,h,Stewart P.FOUL (P1.T2) (M.Dagher),Foul,Personal,1,0,187
+22200003,255,PT05M33.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,-25,-1,3,Missed,1,36,41,77,v,MISS Banchero 3' Layup,Missed Shot,Layup Shot,1,2,188
+22200003,256,PT05M31.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,36,41,77,h,Stewart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,189
+22200003,257,PT05M27.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,22,7,2,Missed,1,36,41,77,h,MISS Ivey 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,190
+22200003,258,PT05M24.00S,2,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,36,41,77,v,Ross REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,191
+22200003,259,PT05M19.00S,2,1610612753,ORL,203082,Ross,T. Ross,-21,3,2,Made,1,36,43,79,v,Ross 2' Cutting Layup Shot (8 PTS) (Banchero 3 AST),Made Shot,Cutting Layup Shot,1,2,192
+22200003,261,PT05M00.00S,2,1610612765,DET,202711,Bogdanović,B. Bogdanović,-12,139,14,Made,1,38,43,81,h,Bogdanovic 14' Fadeaway Jumper (7 PTS) (Cunningham 4 AST),Made Shot,Fadeaway Jump Shot,1,2,193
+22200003,263,PT04M52.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,38,43,81,v,Suggs OFF.Foul (P3) (S.Corbin),Foul,Offensive,1,0,194
+22200003,265,PT04M52.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,38,43,81,v,Suggs Offensive Foul Turnover (P4.T8),Turnover,Offensive Foul Turnover,1,0,195
+22200003,266,PT04M52.00S,2,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,38,43,81,v,SUB: Houstan FOR Suggs,Substitution,,0,0,196
+22200003,268,PT04M42.00S,2,1610612765,DET,202711,Bogdanović,B. Bogdanović,-169,200,26,Made,1,41,43,84,h,Bogdanovic 26' 3PT Step Back Jump Shot (10 PTS) (Cunningham 5 AST),Made Shot,Step Back Jump shot,1,3,197
+22200003,270,PT04M15.00S,2,1610612753,ORL,203082,Ross,T. Ross,71,268,28,Missed,1,41,43,84,v,MISS Ross 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,198
+22200003,271,PT04M12.00S,2,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,41,43,84,h,Bogdanovic REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,199
+22200003,272,PT04M00.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,146,223,27,Made,1,44,43,87,h,Cunningham 27' 3PT Jump Shot (5 PTS) (Bogdanovic 1 AST),Made Shot,Jump Shot,1,3,200
+22200003,274,PT03M37.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,-116,14,12,Missed,1,44,43,87,v,MISS Banchero 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,201
+22200003,275,PT03M37.00S,2,0,,1610612753,,,0,0,0,,0,44,43,87,v,Magic Rebound,Rebound,Unknown,0,0,202
+22200003,276,PT03M37.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,44,43,87,h,Stewart L.B.FOUL (P2.T3) (D.Guthrie),Foul,Loose Ball,1,0,203
+22200003,278,PT03M29.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-47,3,5,Made,1,44,45,89,v,Carter Jr. 5' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,204
+22200003,279,PT03M21.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,44,45,89,v,Houstan P.FOUL (P1.T4) (M.Dagher),Foul,Personal,1,0,205
+22200003,281,PT03M15.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,-18,8,2,Made,1,46,45,91,h,Ivey 2' Driving Reverse Layup (4 PTS) (Stewart 1 AST),Made Shot,Driving Reverse Layup Shot,0,2,206
+22200003,283,PT02M54.00S,2,1610612753,ORL,203082,Ross,T. Ross,-49,205,21,Missed,1,46,45,91,v,MISS Ross 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,207
+22200003,284,PT02M52.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,46,45,91,h,Stewart REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,208
+22200003,285,PT02M44.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,46,45,91,h,Ivey Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,209
+22200003,286,PT02M44.00S,2,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,46,45,91,v,SUB: Okeke FOR Banchero,Substitution,,0,0,210
+22200003,288,PT02M39.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,46,45,91,v,Wagner Out of Bounds Lost Ball Turnover (P3.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,211
+22200003,290,PT02M21.00S,2,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,46,45,91,v,Ross S.FOUL (P1.PN) (D.Guthrie),Foul,Shooting,1,0,212
+22200003,292,PT02M21.00S,2,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,47,45,92,h,Bey Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,213
+22200003,293,PT02M21.00S,2,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,48,45,93,h,Bey Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,214
+22200003,294,PT02M10.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,48,45,93,v,Wagner Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,0,215
+22200003,294,PT02M10.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,48,45,93,h,Ivey STEAL (2 STL),,,1,0,216
+22200003,296,PT02M05.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,21,5,2,Made,1,50,45,95,h,Ivey 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,2,217
+22200003,297,PT01M46.00S,2,1610612753,ORL,203082,Ross,T. Ross,10,37,4,Missed,1,50,45,95,v,MISS Ross 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,218
+22200003,298,PT01M45.00S,2,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,50,45,95,v,Ross REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,219
+22200003,299,PT01M44.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,236,-13,24,Missed,1,50,45,95,v,MISS Carter Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,220
+22200003,300,PT01M43.00S,2,0,,1610612765,,,0,0,0,,0,50,45,95,h,PISTONS Rebound,Rebound,Unknown,1,0,221
+22200003,301,PT01M43.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,50,45,95,v,Houstan L.B.FOUL (P2.PN) (D.Guthrie),Foul,Loose Ball,1,0,222
+22200003,303,PT01M43.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,51,45,96,h,Stewart Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,223
+22200003,304,PT01M43.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,52,45,97,h,Stewart Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,224
+22200003,305,PT01M25.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-2,21,2,Made,1,52,47,99,v,Carter Jr. 2' Cutting Layup Shot (11 PTS) (Wagner 1 AST),Made Shot,Cutting Layup Shot,1,2,225
+22200003,307,PT01M06.00S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,52,47,99,v,Wagner S.FOUL (P2.PN) (S.Corbin),Foul,Shooting,1,0,226
+22200003,309,PT01M06.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,53,47,100,h,Stewart Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,227
+22200003,310,PT01M06.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,53,47,100,h,MISS Stewart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,228
+22200003,311,PT01M04.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,53,47,100,v,Carter Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,229
+22200003,312,PT00M53.60S,2,1610612753,ORL,203082,Ross,T. Ross,142,229,27,Made,1,53,50,103,v,Ross 27' 3PT Jump Shot (11 PTS) (Wagner 2 AST),Made Shot,Jump Shot,1,3,230
+22200003,314,PT00M53.60S,2,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,53,50,103,h,Bogdanovic S.FOUL (P1.T4) (M.Dagher),Foul,Shooting,1,0,231
+22200003,316,PT00M53.60S,2,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,53,50,103,v,MISS Ross Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,232
+22200003,317,PT00M51.20S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,53,50,103,h,Stewart REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,233
+22200003,318,PT00M45.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,53,50,103,v,Carter Jr. S.FOUL (P2.PN) (M.Dagher),Foul,Shooting,1,0,234
+22200003,320,PT00M45.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,54,50,104,h,Stewart Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,235
+22200003,321,PT00M45.00S,2,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,55,50,105,h,Stewart Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,236
+22200003,322,PT00M35.30S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,55,50,105,h,Ivey S.FOUL (P2.PN) (D.Guthrie),Foul,Shooting,1,0,237
+22200003,324,PT00M35.30S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,55,51,106,v,Wagner Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,238
+22200003,325,PT00M35.30S,2,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,55,52,107,v,Wagner Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,239
+22200003,326,PT00M15.90S,2,1610612765,DET,202711,Bogdanović,B. Bogdanović,22,-1,2,Missed,1,55,52,107,h,MISS Bogdanovic 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,240
+22200003,326,PT00M15.90S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,55,52,107,v,Houstan BLOCK (1 BLK),,,1,2,241
+22200003,328,PT00M15.90S,2,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,55,52,107,h,Bogdanovic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,242
+22200003,330,PT00M13.70S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,102,8,10,Made,1,57,52,109,h,Cunningham 10' Turnaround Fadeaway (7 PTS) (Ivey 3 AST),Made Shot,Turnaround Fadeaway shot,1,2,243
+22200003,332,PT00M01.10S,2,1610612753,ORL,1630532,Wagner,F. Wagner,-129,237,27,Made,1,57,55,112,v,Wagner 27' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,3,244
+22200003,333,PT00M00.00S,2,0,,0,,,0,0,0,,0,57,55,112,,End of 2nd Period (8:14 PM EST),period,end,1,0,245
+22200003,339,PT12M00.00S,3,0,,0,,,0,0,0,,0,57,55,112,,Start of 3rd Period (8:30 PM EST),period,start,0,0,246
+22200003,340,PT11M41.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,109,252,27,Made,1,60,55,115,h,Ivey 27' 3PT Pullup Jump Shot (9 PTS) (Stewart 2 AST),Made Shot,Pullup Jump shot,1,3,247
+22200003,342,PT11M25.00S,3,1610612753,ORL,203082,Ross,T. Ross,127,227,26,Missed,1,60,55,115,v,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,248
+22200003,343,PT11M20.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,60,55,115,v,Suggs REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,249
+22200003,344,PT11M20.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,Made,1,60,57,117,v,Suggs Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1,2,250
+22200003,345,PT11M07.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,21,1,2,Made,1,62,57,119,h,Ivey 2' Driving Finger Roll Layup (11 PTS) (Stewart 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,251
+22200003,347,PT10M56.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,62,57,119,v,Banchero Traveling Turnover (P1.T11),Turnover,Traveling,1,0,252
+22200003,384,PT10M46.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-186,185,26,Missed,1,62,57,119,h,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,253
+22200003,385,PT10M42.00S,3,0,,1610612765,,,0,0,0,,0,62,57,119,h,PISTONS Rebound,Rebound,Unknown,0,0,254
+22200003,373,PT10M37.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,62,57,119,h,Cunningham Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,255
+22200003,373,PT10M37.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,62,57,119,v,Suggs STEAL (2 STL),,,1,0,256
+22200003,354,PT10M29.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,-7,16,2,Made,1,62,59,121,v,Suggs 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,257
+22200003,355,PT10M10.00S,3,1610612765,DET,1630180,Bey,S. Bey,17,56,6,Missed,1,62,59,121,h,MISS Bey 6' Hook Shot,Missed Shot,Hook Shot,1,2,258
+22200003,356,PT10M05.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,62,59,121,v,Carter Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,259
+22200003,357,PT10M01.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,62,59,121,v,Banchero Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,260
+22200003,357,PT10M01.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,62,59,121,h,Ivey STEAL (3 STL),,,1,0,261
+22200003,359,PT09M58.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,7,4,1,Missed,1,62,59,121,h,MISS Ivey 1' Running Layup,Missed Shot,Running Layup Shot,1,2,262
+22200003,360,PT09M57.00S,3,0,,1610612765,,,0,0,0,,0,62,59,121,h,PISTONS Rebound,Rebound,Unknown,0,0,263
+22200003,362,PT09M49.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,164,220,27,Missed,1,62,59,121,h,MISS Ivey 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,264
+22200003,363,PT09M47.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,62,59,121,v,Carter Jr. REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,265
+22200003,364,PT09M36.00S,3,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,62,59,121,h,Bogdanovic P.FOUL (P2.T1) (S.Corbin),Foul,Personal,1,0,266
+22200003,366,PT09M26.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,62,59,121,v,Wagner Bad Pass Turnover (P5.T13),Turnover,Bad Pass,1,0,267
+22200003,366,PT09M26.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,62,59,121,h,Stewart STEAL (2 STL),,,1,0,268
+22200003,368,PT09M18.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,62,59,121,h,Cunningham Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,269
+22200003,368,PT09M18.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,62,59,121,v,Carter Jr. STEAL (1 STL),,,1,0,270
+22200003,370,PT09M13.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,18,15,2,Missed,1,62,59,121,v,MISS Wagner 2' Running Layup,Missed Shot,Running Layup Shot,1,2,271
+22200003,371,PT09M12.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,62,59,121,v,Banchero REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,272
+22200003,372,PT09M11.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,4,17,2,Made,1,62,61,123,v,Banchero 2' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,273
+22200003,375,PT08M42.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,-118,143,19,Missed,1,62,61,123,h,MISS Ivey 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,274
+22200003,376,PT08M39.00S,3,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,62,61,123,v,Ross REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,275
+22200003,377,PT08M29.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,-239,7,24,Made,1,62,64,126,v,Wagner 24' 3PT Jump Shot (14 PTS) (Suggs 3 AST),Made Shot,Jump Shot,1,3,276
+22200003,379,PT08M10.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,49,171,18,Missed,1,62,64,126,h,MISS Cunningham 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,277
+22200003,380,PT08M08.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,62,64,126,v,Carter Jr. REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,278
+22200003,381,PT08M02.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,-20,5,2,Made,1,62,66,128,v,Banchero 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,279
+22200003,382,PT08M02.00S,3,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,62,66,128,h,Bey Violation:Defensive Goaltending (D.Guthrie),Violation,Defensive Goaltending,1,0,280
+22200003,383,PT08M02.00S,3,0,,1610612765,,,0,0,0,,0,62,66,128,h,PISTONS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,281
+22200003,386,PT07M46.00S,3,1610612765,DET,202711,Bogdanović,B. Bogdanović,-239,11,24,Made,1,65,66,131,h,Bogdanovic 24' 3PT Jump Shot (13 PTS) (Ivey 4 AST),Made Shot,Jump Shot,1,3,282
+22200003,388,PT07M30.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,65,66,131,v,Carter Jr. Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,283
+22200003,388,PT07M30.00S,3,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,65,66,131,h,Bogdanovic STEAL (1 STL),,,1,0,284
+22200003,390,PT07M20.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,15,11,2,Missed,1,65,66,131,h,MISS Ivey 2' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,285
+22200003,391,PT07M18.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,65,66,131,v,Banchero REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,286
+22200003,392,PT06M58.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,213,131,25,Missed,1,65,66,131,v,MISS Suggs 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+22200003,393,PT06M58.00S,3,0,,1610612765,,,0,0,0,,0,65,66,131,h,PISTONS Rebound,Rebound,Unknown,1,0,288
+22200003,395,PT06M47.00S,3,1610612765,DET,202711,Bogdanović,B. Bogdanović,-114,253,28,Made,1,68,66,134,h,Bogdanovic 28' 3PT Jump Shot (16 PTS) (Cunningham 6 AST),Made Shot,Jump Shot,1,3,289
+22200003,397,PT06M31.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,23,10,3,Made,1,68,68,136,v,Suggs 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,1,2,290
+22200003,398,PT06M21.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,-7,15,2,Made,1,70,68,138,h,Ivey 2' Driving Layup (13 PTS) (Bogdanovic 2 AST),Made Shot,Driving Layup Shot,1,2,291
+22200003,400,PT06M14.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,16,17,2,Missed,1,70,68,138,v,MISS Suggs 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,292
+22200003,402,PT06M14.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,70,68,138,h,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,293
+22200003,403,PT05M59.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,235,5,24,Missed,1,70,68,138,h,MISS Stewart 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,294
+22200003,404,PT05M57.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,70,68,138,v,Banchero REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,295
+22200003,405,PT05M42.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,22,7,2,Missed,1,70,68,138,v,MISS Banchero 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,296
+22200003,406,PT05M40.00S,3,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,70,68,138,h,Bey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,297
+22200003,407,PT05M35.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,-107,250,27,Made,1,73,68,141,h,Ivey 27' 3PT Running Pull-Up Jump Shot (16 PTS) (Cunningham 7 AST),Made Shot,Running Pull-Up Jump Shot,1,3,298
+22200003,409,PT05M35.00S,3,0,,1610612753,,,0,0,0,,0,73,68,141,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,299
+22200003,410,PT05M35.00S,3,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,73,68,141,v,SUB: Bamba FOR Wagner,Substitution,,0,0,300
+22200003,411,PT05M35.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,73,68,141,v,SUB: Houstan FOR Carter Jr.,Substitution,,0,0,301
+22200003,414,PT05M25.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,73,68,141,h,Ivey S.FOUL (P3.T2) (S.Corbin),Foul,Shooting,1,0,302
+22200003,416,PT05M25.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,73,68,141,v,MISS Banchero Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,303
+22200003,417,PT05M25.00S,3,0,,1610612753,,,0,0,0,,0,73,68,141,v,Magic Rebound,Rebound,Normal Rebound,0,0,304
+22200003,418,PT05M25.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,73,69,142,v,Banchero Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,305
+22200003,419,PT05M11.00S,3,1610612765,DET,202711,Bogdanović,B. Bogdanović,-235,5,24,Made,1,76,69,145,h,Bogdanovic 24' 3PT Jump Shot (19 PTS) (Cunningham 8 AST),Made Shot,Jump Shot,1,3,306
+22200003,421,PT05M01.00S,3,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,76,69,145,h,Bogdanovic P.FOUL (P3.T3) (M.Dagher),Foul,Personal,1,0,307
+22200003,423,PT04M47.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,20,16,3,Missed,1,76,69,145,v,MISS Houstan 3' Layup,Missed Shot,Layup Shot,1,2,308
+22200003,425,PT04M47.00S,3,0,,1610612765,,,0,0,0,,0,76,69,145,h,PISTONS Rebound,Rebound,Unknown,0,0,309
+22200003,427,PT04M37.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-75,240,25,Missed,1,76,69,145,h,MISS Cunningham 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,310
+22200003,428,PT04M36.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,76,69,145,v,Banchero REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,311
+22200003,452,PT04M33.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,76,69,145,v,Banchero Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,312
+22200003,452,PT04M33.00S,3,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,76,69,145,h,Bey STEAL (1 STL),,,1,0,313
+22200003,430,PT04M19.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-140,192,24,Made,1,79,69,148,h,Cunningham 24' 3PT Jump Shot (10 PTS) (Bey 2 AST),Made Shot,Jump Shot,1,3,314
+22200003,432,PT04M11.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,126,238,27,Made,1,79,72,151,v,Suggs 27' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,1,3,315
+22200003,433,PT03M59.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-9,16,2,Made,1,81,72,153,h,Cunningham 2' Cutting Layup Shot (12 PTS) (Bey 3 AST),Made Shot,Cutting Layup Shot,1,2,316
+22200003,435,PT03M48.00S,3,1610612753,ORL,1628964,Bamba,M. Bamba,91,249,27,Missed,1,81,72,153,v,MISS Bamba 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,317
+22200003,436,PT03M48.00S,3,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,81,72,153,h,Bey REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,318
+22200003,437,PT03M39.00S,3,1610612765,DET,202711,Bogdanović,B. Bogdanović,107,239,26,Made,1,84,72,156,h,Bogdanovic 26' 3PT Running Pull-Up Jump Shot (22 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,319
+22200003,438,PT03M18.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,105,241,26,Made,1,84,75,159,v,Suggs 26' 3PT Jump Shot (15 PTS) (Bamba 1 AST),Made Shot,Jump Shot,1,3,320
+22200003,440,PT02M54.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,-153,224,27,Missed,1,84,75,159,h,MISS Ivey 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+22200003,441,PT02M52.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,84,75,159,v,Houstan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,322
+22200003,442,PT02M43.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,-159,260,30,Made,1,84,78,162,v,Suggs 30' 3PT Jump Shot (18 PTS) (Banchero 4 AST),Made Shot,Jump Shot,1,3,323
+22200003,444,PT02M23.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,84,78,162,v,Houstan P.FOUL (P3.T1) (D.Guthrie),Foul,Personal,1,0,324
+22200003,446,PT02M23.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,84,78,162,h,SUB: Hayes FOR Ivey,Substitution,,0,0,325
+22200003,447,PT02M23.00S,3,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,84,78,162,h,SUB: Duren FOR Stewart,Substitution,,0,0,326
+22200003,448,PT02M23.00S,3,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,84,78,162,v,SUB: Bol FOR Ross,Substitution,,0,0,327
+22200003,454,PT02M11.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,16,9,2,Made,1,86,78,164,h,Cunningham 2' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,1,2,328
+22200003,455,PT01M55.00S,3,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,86,78,164,v,Bol Out of Bounds Lost Ball Turnover (P2.T16),Turnover,Out of Bounds Lost Ball Turnover,1,0,329
+22200003,456,PT01M55.00S,3,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,86,78,164,h,SUB: Knox II FOR Bogdanovic,Substitution,,0,0,330
+22200003,457,PT01M55.00S,3,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,86,78,164,v,SUB: Okeke FOR Banchero,Substitution,,0,0,331
+22200003,460,PT01M41.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,-66,258,27,Missed,1,86,78,164,h,MISS Hayes 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,332
+22200003,461,PT01M39.00S,3,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,86,78,164,h,Bey REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,333
+22200003,462,PT01M31.00S,3,1610612765,DET,1628995,Knox II,K. Knox II,235,9,24,Made,1,89,78,167,h,Knox II 24' 3PT Jump Shot (3 PTS) (Hayes 4 AST),Made Shot,Jump Shot,1,3,334
+22200003,464,PT01M27.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,89,78,167,h,Hayes P.FOUL (P1.T4) (S.Corbin),Foul,Personal,0,0,335
+22200003,466,PT01M27.00S,3,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,89,78,167,h,SUB: Diallo FOR Bey,Substitution,,0,0,336
+22200003,468,PT01M19.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,125,251,28,Made,1,89,81,170,v,Suggs 28' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,3,337
+22200003,469,PT01M11.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,89,81,170,v,Suggs S.FOUL (P4.T2) (S.Corbin),Foul,Shooting,1,0,338
+22200003,471,PT01M11.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,89,81,170,h,MISS Duren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,339
+22200003,472,PT01M11.00S,3,0,,1610612765,,,0,0,0,,0,89,81,170,h,PISTONS Rebound,Rebound,Normal Rebound,0,0,340
+22200003,473,PT01M11.00S,3,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,89,81,170,v,SUB: Hampton FOR Suggs,Substitution,,0,0,341
+22200003,475,PT01M11.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,89,81,170,h,MISS Duren Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,342
+22200003,476,PT01M08.00S,3,1610612753,ORL,1630181,Hampton,R. Hampton,0,0,0,,0,89,81,170,v,Hampton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,343
+22200003,477,PT00M48.50S,3,1610612753,ORL,1628964,Bamba,M. Bamba,27,1,3,Missed,1,89,81,170,v,MISS Bamba 3' Layup,Missed Shot,Layup Shot,1,2,344
+22200003,477,PT00M48.50S,3,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,89,81,170,h,Hayes BLOCK (1 BLK),,,1,2,345
+22200003,479,PT00M46.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,89,81,170,h,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,346
+22200003,480,PT00M42.00S,3,1610612765,DET,1630165,Hayes,K. Hayes,-20,11,2,Missed,1,89,81,170,h,MISS Hayes 2' Running Layup,Missed Shot,Running Layup Shot,1,2,347
+22200003,480,PT00M42.00S,3,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,89,81,170,v,Bol BLOCK (1 BLK),,,1,2,348
+22200003,482,PT00M39.30S,3,1610612753,ORL,1630181,Hampton,R. Hampton,0,0,0,,0,89,81,170,v,Hampton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,349
+22200003,483,PT00M31.10S,3,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,89,81,170,h,Diallo P.FOUL (P2.PN) (D.Guthrie),Foul,Personal,1,0,350
+22200003,485,PT00M31.10S,3,1610612753,ORL,1630181,Hampton,R. Hampton,0,0,0,,0,89,82,171,v,Hampton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,351
+22200003,486,PT00M31.10S,3,1610612753,ORL,1630181,Hampton,R. Hampton,0,0,0,,0,89,83,172,v,Hampton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,352
+22200003,487,PT00M09.50S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-10,26,3,Made,1,91,83,174,h,Cunningham 3' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,1,2,353
+22200003,488,PT00M00.00S,3,0,,0,,,0,0,0,,0,91,83,174,,End of 3rd Period (8:54 PM EST),period,end,1,0,354
+22200003,493,PT12M00.00S,4,0,,0,,,0,0,0,,0,91,83,174,,Start of 4th Period (8:57 PM EST),period,start,0,0,355
+22200003,494,PT11M46.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,91,83,174,v,Banchero Lost Ball Turnover (P4.T17),Turnover,Lost Ball,1,0,356
+22200003,494,PT11M46.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,91,83,174,h,Hayes STEAL (3 STL),,,1,0,357
+22200003,496,PT11M41.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,-16,27,3,Missed,1,91,83,174,h,MISS Hayes 3' Running Dunk,Missed Shot,Running Dunk Shot,1,2,358
+22200003,496,PT11M41.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,91,83,174,v,Banchero BLOCK (2 BLK),,,1,2,359
+22200003,498,PT11M37.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,91,83,174,v,Houstan REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,360
+22200003,499,PT11M35.00S,4,1610612753,ORL,1630181,Hampton,R. Hampton,-202,188,28,Made,1,91,86,177,v,Hampton 28' 3PT Running Jump Shot (5 PTS) (Banchero 5 AST),Made Shot,Running Jump Shot,1,3,361
+22200003,501,PT11M18.00S,4,1610612765,DET,1631105,Duren,J. Duren,-5,27,3,Made,1,93,86,179,h,Duren 3' Cutting Layup Shot (8 PTS) (Hayes 5 AST),Made Shot,Cutting Layup Shot,1,2,362
+22200003,503,PT11M18.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,93,86,179,v,Banchero S.FOUL (P4.T1) (M.Dagher),Foul,Shooting,1,0,363
+22200003,505,PT11M18.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,93,86,179,h,MISS Duren Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,364
+22200003,506,PT11M18.00S,4,0,,1610612753,,,0,0,0,,0,93,86,179,v,Magic Rebound,Rebound,Unknown,0,0,365
+22200003,508,PT11M00.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,21,15,3,Missed,1,93,86,179,v,MISS Banchero 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,366
+22200003,509,PT10M58.00S,4,1610612765,DET,1628995,Knox II,K. Knox II,0,0,0,,0,93,86,179,h,Knox II REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,367
+22200003,510,PT10M54.00S,4,1610612765,DET,1628995,Knox II,K. Knox II,0,0,0,,0,93,86,179,h,Knox II Traveling Turnover (P2.T9),Turnover,Traveling,1,0,368
+22200003,511,PT10M43.00S,4,1610612765,DET,1628995,Knox II,K. Knox II,0,0,0,,0,93,86,179,h,Knox II P.FOUL (P2.T1) (D.Guthrie),Foul,Personal,1,0,369
+22200003,513,PT10M35.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,77,104,13,Missed,1,93,86,179,v,MISS Banchero 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,370
+22200003,514,PT10M33.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,93,86,179,h,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,371
+22200003,515,PT10M27.00S,4,1610612765,DET,1628995,Knox II,K. Knox II,178,260,32,Missed,1,93,86,179,h,MISS Knox II 32' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,372
+22200003,516,PT10M25.00S,4,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,93,86,179,h,Diallo REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,373
+22200003,517,PT10M15.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,93,86,179,h,Duren 3 Second Violation Turnover (P2.T10),Turnover,3 Second Violation,1,0,374
+22200003,518,PT09M58.00S,4,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,93,86,179,h,Diallo P.FOUL (P3.T2) (M.Dagher),Foul,Personal,1,0,375
+22200003,520,PT09M58.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,93,86,179,v,SUB: Wagner FOR Houstan,Substitution,,0,0,376
+22200003,522,PT09M44.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,4,27,3,Made,1,93,88,181,v,Banchero 3' Dunk (16 PTS) (Wagner 3 AST),Made Shot,Dunk Shot,1,2,377
+22200003,524,PT09M31.00S,4,1610612765,DET,1628977,Diallo,H. Diallo,-20,6,2,Made,1,95,88,183,h,Diallo 2' Driving Layup (2 PTS) (Joseph 2 AST),Made Shot,Driving Layup Shot,1,2,378
+22200003,526,PT09M16.00S,4,1610612753,ORL,1629643,Okeke,C. Okeke,-239,107,26,Missed,1,95,88,183,v,MISS Okeke 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,379
+22200003,527,PT09M14.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,95,88,183,h,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,380
+22200003,528,PT09M00.00S,4,1610612765,DET,1628977,Diallo,H. Diallo,-15,17,2,Missed,1,95,88,183,h,MISS Diallo 2' Layup,Missed Shot,Layup Shot,1,2,381
+22200003,529,PT08M57.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,95,88,183,h,Duren REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,382
+22200003,530,PT08M57.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,Missed,1,95,88,183,h,MISS Duren Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,383
+22200003,531,PT08M57.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,0,0,0,,0,95,88,183,v,Wagner REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,384
+22200003,532,PT08M55.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,-22,32,4,Made,1,95,90,185,v,Banchero 4' Running Dunk (18 PTS) (Wagner 4 AST),Made Shot,Running Dunk Shot,1,2,385
+22200003,533,PT08M55.00S,4,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,95,90,185,h,Joseph S.FOUL (P2.T3) (D.Guthrie),Foul,Shooting,1,0,386
+22200003,535,PT08M55.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,95,91,186,v,Banchero Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0,387
+22200003,537,PT08M36.00S,4,1610612765,DET,1631105,Duren,J. Duren,13,36,4,Missed,1,95,91,186,h,MISS Duren 4' Dunk,Missed Shot,Dunk Shot,1,2,388
+22200003,539,PT08M30.00S,4,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,95,91,186,v,Bol REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,389
+22200003,540,PT08M24.00S,4,1610612753,ORL,1629643,Okeke,C. Okeke,-27,6,3,Missed,1,95,91,186,v,MISS Okeke 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,390
+22200003,540,PT08M24.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,95,91,186,h,Duren BLOCK (3 BLK),,,1,2,391
+22200003,542,PT08M21.00S,4,1610612765,DET,1628995,Knox II,K. Knox II,0,0,0,,0,95,91,186,h,Knox II REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,392
+22200003,545,PT08M19.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,95,91,186,h,Duren Offensive Goaltending Turnover (P3.T11),Turnover,Offensive Goaltending,1,0,393
+22200003,546,PT08M04.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,20,-3,2,Missed,1,95,91,186,v,MISS Wagner 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,394
+22200003,547,PT08M02.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,95,91,186,h,Hayes REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,395
+22200003,548,PT07M52.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,151,221,27,Missed,1,95,91,186,h,MISS Hayes 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,396
+22200003,549,PT07M50.00S,4,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,95,91,186,v,Bol REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,397
+22200003,550,PT07M43.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,-11,38,4,Made,1,95,93,188,v,Banchero 4' Driving Floating Jump Shot (21 PTS),Made Shot,Driving Floating Jump Shot,1,2,398
+22200003,551,PT07M25.00S,4,1610612765,DET,1628995,Knox II,K. Knox II,-21,4,2,Missed,1,95,93,188,h,MISS Knox II 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,399
+22200003,552,PT07M18.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,95,93,188,h,Duren REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,400
+22200003,553,PT07M18.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,Made,1,97,93,190,h,Duren Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,1,2,401
+22200003,603,PT07M05.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,-2,262,26,Missed,1,97,93,190,v,MISS Wagner 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,402
+22200003,604,PT07M05.00S,4,0,,1610612765,,,0,0,0,,0,97,93,190,h,PISTONS Rebound,Rebound,Unknown,0,0,403
+22200003,616,PT07M05.00S,4,0,,1610612765,,,0,0,0,,0,97,93,190,h,PISTONS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,404
+22200003,556,PT07M05.00S,4,0,,554,,,0,0,0,,0,97,93,190,,Instant Replay4th Period (9:05 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,405
+22200003,557,PT07M05.00S,4,1610612765,DET,1628977,Diallo,H. Diallo,0,0,0,,0,97,93,190,h,SUB: Bogdanovic FOR Diallo,Substitution,,0,0,406
+22200003,558,PT07M05.00S,4,1610612765,DET,1630165,Hayes,K. Hayes,0,0,0,,0,97,93,190,h,SUB: Cunningham FOR Hayes,Substitution,,0,0,407
+22200003,559,PT07M05.00S,4,1610612765,DET,1628995,Knox II,K. Knox II,0,0,0,,0,97,93,190,h,SUB: Ivey FOR Knox II,Substitution,,0,0,408
+22200003,560,PT07M05.00S,4,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,97,93,190,v,SUB: Carter Jr. FOR Okeke,Substitution,,0,0,409
+22200003,561,PT07M05.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,97,93,190,v,SUB: Ross FOR Banchero,Substitution,,0,0,410
+22200003,567,PT06M46.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,41,4,Missed,1,97,93,190,h,MISS Duren 4' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,411
+22200003,568,PT06M43.00S,4,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,97,93,190,v,Bol REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,412
+22200003,569,PT06M31.00S,4,1610612753,ORL,1629626,Bol,B. Bol,-20,2,2,Made,1,97,95,192,v,Bol 2' Driving Layup (10 PTS) (Wagner 5 AST),Made Shot,Driving Layup Shot,1,2,413
+22200003,570,PT06M21.00S,4,1610612765,DET,1631105,Duren,J. Duren,12,8,1,Made,1,99,95,194,h,Duren 1' Cutting Dunk Shot (12 PTS) (Cunningham 9 AST),Made Shot,Cutting Dunk Shot,1,2,414
+22200003,572,PT06M00.00S,4,1610612753,ORL,203082,Ross,T. Ross,125,141,19,Made,1,99,97,196,v,Ross 19' Pullup Jump Shot (13 PTS) (Carter Jr. 3 AST),Made Shot,Pullup Jump shot,1,2,415
+22200003,573,PT05M41.00S,4,1610612765,DET,202711,Bogdanović,B. Bogdanović,151,221,27,Missed,1,99,97,196,h,MISS Bogdanovic 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,416
+22200003,574,PT05M38.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,99,97,196,h,Duren REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,417
+22200003,575,PT05M37.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,210,168,27,Missed,1,99,97,196,h,MISS Cunningham 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,418
+22200003,576,PT05M35.00S,4,1610612753,ORL,1630181,Hampton,R. Hampton,0,0,0,,0,99,97,196,v,Hampton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,419
+22200003,577,PT05M29.00S,4,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,99,97,196,h,Joseph P.FOUL (P3.T4) (M.Dagher),Foul,Personal,1,0,420
+22200003,579,PT05M29.00S,4,1610612753,ORL,1629626,Bol,B. Bol,0,0,0,,0,99,97,196,v,SUB: Suggs FOR Bol,Substitution,,0,0,421
+22200003,580,PT05M29.00S,4,1610612753,ORL,1630181,Hampton,R. Hampton,0,0,0,,0,99,97,196,v,SUB: Banchero FOR Hampton,Substitution,,0,0,422
+22200003,583,PT05M17.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,104,26,11,Made,1,99,99,198,v,Wagner 11' Turnaround Fadeaway (16 PTS),Made Shot,Turnaround Fadeaway shot,1,2,423
+22200003,584,PT04M56.00S,4,1610612765,DET,1631105,Duren,J. Duren,-18,4,2,Made,1,101,99,200,h,Duren 2' Layup (14 PTS),Made Shot,Layup Shot,1,2,424
+22200003,585,PT04M56.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,101,99,200,v,Banchero S.FOUL (P5.T2) (D.Guthrie),Foul,Shooting,1,0,425
+22200003,587,PT04M56.00S,4,1610612765,DET,202709,Joseph,C. Joseph,0,0,0,,0,101,99,200,h,SUB: Bey FOR Joseph,Substitution,,0,0,426
+22200003,589,PT04M56.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,101,99,200,h,MISS Duren Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,427
+22200003,590,PT04M53.00S,4,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,101,99,200,h,Bey REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,428
+22200003,591,PT04M49.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,21,10,2,Missed,1,101,99,200,h,MISS Cunningham 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,429
+22200003,592,PT04M47.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,101,99,200,v,Carter Jr. REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,430
+22200003,593,PT04M35.00S,4,1610612753,ORL,203082,Ross,T. Ross,60,252,26,Missed,1,101,99,200,v,MISS Ross 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,431
+22200003,594,PT04M32.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,101,99,200,h,Ivey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,432
+22200003,595,PT04M14.00S,4,1610612765,DET,202711,Bogdanović,B. Bogdanović,-50,260,26,Missed,1,101,99,200,h,MISS Bogdanovic 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,433
+22200003,596,PT04M09.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,101,99,200,h,Duren REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,434
+22200003,597,PT04M09.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,Missed,1,101,99,200,h,MISS Duren Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,435
+22200003,598,PT04M09.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,101,99,200,v,Carter Jr. REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,436
+22200003,689,PT04M09.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,101,99,200,v,Carter Jr. Lost Ball Turnover (P3.T18),Turnover,Lost Ball,1,0,437
+22200003,689,PT04M09.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,101,99,200,h,Cunningham STEAL (1 STL),,,1,0,438
+22200003,606,PT04M09.00S,4,1610612765,DET,1631105,Duren,J. Duren,8,6,1,Missed,1,101,99,200,h,MISS Duren 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,439
+22200003,607,PT04M09.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,101,99,200,h,Ivey REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,440
+22200003,599,PT04M06.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,21,1,2,Made,1,103,99,202,h,Ivey 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,1,2,441
+22200003,600,PT04M06.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,103,99,202,v,Suggs S.FOUL (P5.T3) (S.Corbin),Foul,Shooting,1,0,442
+22200003,643,PT04M06.00S,4,0,,1610612753,,,0,0,0,,0,103,99,202,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,443
+22200003,602,PT04M06.00S,4,0,,600,,,0,0,0,,0,103,99,202,,Instant Replay4th Period (9:13 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,444
+22200003,608,PT04M06.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,104,99,203,h,Ivey Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,1,0,445
+22200003,610,PT03M47.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,-13,63,6,Missed,1,104,99,203,v,MISS Wagner 6' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,446
+22200003,611,PT03M47.00S,4,0,,1610612765,,,0,0,0,,0,104,99,203,h,PISTONS Rebound,Rebound,Unknown,0,0,447
+22200003,612,PT03M47.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,104,99,203,v,Suggs L.B.FOUL (P6.T4) (S.Corbin),Foul,Loose Ball,1,0,448
+22200003,614,PT03M47.00S,4,1610612753,ORL,1630591,Suggs,J. Suggs,0,0,0,,0,104,99,203,v,SUB: Hampton FOR Suggs,Substitution,,0,0,449
+22200003,617,PT03M25.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,104,99,203,v,Carter Jr. S.FOUL (P3.PN) (M.Dagher),Foul,Shooting,1,0,450
+22200003,619,PT03M25.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,105,99,204,h,Cunningham Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,451
+22200003,620,PT03M25.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,106,99,205,h,Cunningham Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,452
+22200003,621,PT03M09.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,20,2,2,Missed,1,106,99,205,v,MISS Banchero 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,453
+22200003,622,PT03M05.00S,4,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,106,99,205,h,Bogdanovic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,454
+22200003,624,PT03M02.00S,4,1610612765,DET,202711,Bogdanović,B. Bogdanović,7,3,1,Missed,1,106,99,205,h,MISS Bogdanovic 1' Running Layup,Missed Shot,Running Layup Shot,1,2,455
+22200003,625,PT03M00.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,106,99,205,v,Carter Jr. REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,456
+22200003,626,PT02M57.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,20,7,2,Made,1,106,101,207,v,Wagner 2' Running Dunk (18 PTS) (Hampton 1 AST),Made Shot,Running Dunk Shot,1,2,457
+22200003,628,PT02M40.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,-42,114,12,Missed,1,106,101,207,h,MISS Cunningham 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,458
+22200003,629,PT02M40.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,106,101,207,v,Carter Jr. REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,459
+22200003,630,PT02M26.00S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,9,31,3,Missed,1,106,101,207,v,MISS Carter Jr. 3' Hook Shot,Missed Shot,Hook Shot,1,2,460
+22200003,631,PT02M24.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,106,101,207,h,Ivey REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,461
+22200003,632,PT02M14.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,-20,-1,2,Missed,1,106,101,207,h,MISS Ivey 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,462
+22200003,633,PT02M12.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,106,101,207,h,Duren REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,463
+22200003,635,PT02M11.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,106,101,207,h,SUB: Stewart FOR Duren,Substitution,,0,0,464
+22200003,637,PT02M01.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,-31,11,3,Missed,1,106,101,207,h,MISS Cunningham 3' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,465
+22200003,638,PT02M01.00S,4,0,,1610612765,,,0,0,0,,0,106,101,207,h,PISTONS Rebound,Rebound,Unknown,0,0,466
+22200003,639,PT02M01.00S,4,0,,1610612765,,,0,0,0,,0,106,101,207,h,PISTONS Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,1,0,467
+22200003,640,PT01M41.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,21,73,8,Missed,1,106,101,207,v,MISS Wagner 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,468
+22200003,642,PT01M38.00S,4,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,106,101,207,h,Stewart REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,469
+22200003,644,PT01M23.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,106,101,207,h,Ivey Lost Ball Turnover (P2.T13),Turnover,Lost Ball,1,0,470
+22200003,644,PT01M23.00S,4,1610612753,ORL,1630181,Hampton,R. Hampton,0,0,0,,0,106,101,207,v,Hampton STEAL (1 STL),,,1,0,471
+22200003,646,PT01M21.00S,4,1610612753,ORL,1631094,Banchero,P. Banchero,2,33,3,Made,1,106,103,209,v,Banchero 3' Running Layup (23 PTS) (Hampton 2 AST),Made Shot,Running Layup Shot,1,2,472
+22200003,648,PT00M59.50S,4,1610612765,DET,202711,Bogdanović,B. Bogdanović,-100,253,27,Missed,1,106,103,209,h,MISS Bogdanovic 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,473
+22200003,649,PT00M59.50S,4,0,,1610612765,,,0,0,0,,0,106,103,209,h,PISTONS Rebound,Rebound,Unknown,1,0,474
+22200003,650,PT00M59.50S,4,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,106,103,209,v,Carter Jr. L.B.FOUL (P4.PN) (S.Corbin),Foul,Loose Ball,1,0,475
+22200003,652,PT00M59.50S,4,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,107,103,210,h,Stewart Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,476
+22200003,653,PT00M59.50S,4,1610612765,DET,1630191,Stewart,I. Stewart,0,0,0,,0,108,103,211,h,Stewart Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,477
+22200003,654,PT00M50.90S,4,1610612753,ORL,1630532,Wagner,F. Wagner,22,2,2,Made,1,108,105,213,v,Wagner 2' Driving Finger Roll Layup (20 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,478
+22200003,655,PT00M38.40S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,-18,24,3,Missed,1,108,105,213,h,MISS Cunningham 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,479
+22200003,656,PT00M36.40S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,108,105,213,v,Banchero REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,480
+22200003,657,PT00M34.60S,4,1610612753,ORL,1631094,Banchero,P. Banchero,-9,12,2,Made,1,108,107,215,v,Banchero 2' Running Layup (25 PTS),Made Shot,Running Layup Shot,1,2,481
+22200003,658,PT00M26.50S,4,0,,1610612765,,,0,0,0,,0,108,107,215,h,PISTONS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,482
+22200003,659,PT00M26.50S,4,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,108,107,215,v,SUB: Okeke FOR Ross,Substitution,,0,0,483
+22200003,661,PT00M11.60S,4,1610612765,DET,1630191,Stewart,I. Stewart,-237,11,24,Made,1,111,107,218,h,Stewart 24' 3PT Jump Shot (14 PTS) (Cunningham 10 AST),Made Shot,Jump Shot,1,3,484
+22200003,663,PT00M11.60S,4,0,,1610612753,,,0,0,0,,0,111,107,218,v,Magic Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,485
+22200003,664,PT00M11.60S,4,1610612753,ORL,1629643,Okeke,C. Okeke,0,0,0,,0,111,107,218,v,SUB: Ross FOR Okeke,Substitution,,0,0,486
+22200003,666,PT00M07.40S,4,1610612753,ORL,203082,Ross,T. Ross,-158,251,30,Missed,1,111,107,218,v,MISS Ross 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,487
+22200003,667,PT00M05.50S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,111,107,218,v,Banchero REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,488
+22200003,669,PT00M05.50S,4,1610612765,DET,1630180,Bey,S. Bey,0,0,0,,0,111,107,218,h,Bey S.FOUL (P2.PN) (S.Corbin),Foul,Shooting,1,0,489
+22200003,671,PT00M05.50S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,111,108,219,v,Banchero Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,1,0,490
+22200003,672,PT00M05.50S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,111,108,219,h,SUB: Duren FOR Ivey,Substitution,,0,0,491
+22200003,675,PT00M05.50S,4,1610612753,ORL,1631094,Banchero,P. Banchero,0,0,0,,0,111,109,220,v,Banchero Free Throw 2 of 2 (27 PTS),Free Throw,Free Throw 2 of 2,1,0,492
+22200003,676,PT00M04.70S,4,1610612753,ORL,203082,Ross,T. Ross,0,0,0,,0,111,109,220,v,Ross Personal Take Foul (P2.PN) (D.Guthrie),Foul,Personal Take,1,0,493
+22200003,678,PT00M04.70S,4,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,112,109,221,h,Bogdanovic Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,494
+22200003,679,PT00M04.70S,4,1610612765,DET,202711,Bogdanović,B. Bogdanović,0,0,0,,0,113,109,222,h,Bogdanovic Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,495
+22200003,680,PT00M04.70S,4,0,,1610612753,,,0,0,0,,0,113,109,222,v,Magic Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,496
+22200003,681,PT00M04.70S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,113,109,222,h,SUB: Joseph FOR Duren,Substitution,,0,0,497
+22200003,683,PT00M03.00S,4,1610612753,ORL,1630532,Wagner,F. Wagner,-112,256,28,Missed,1,113,109,222,v,MISS Wagner 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,498
+22200003,684,PT00M01.50S,4,1610612753,ORL,1630181,Hampton,R. Hampton,0,0,0,,0,113,109,222,v,Hampton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,499
+22200003,685,PT00M01.00S,4,1610612753,ORL,1630181,Hampton,R. Hampton,-36,58,7,Missed,1,113,109,222,v,MISS Hampton 7' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,500
+22200003,686,PT00M00.10S,4,0,,1610612753,,,0,0,0,,0,113,109,222,v,Magic Rebound,Rebound,Unknown,1,0,501
+22200003,687,PT00M00.00S,4,0,,0,,,0,0,0,,0,113,109,222,,End of 4th Period (9:32 PM EST),period,end,1,0,502

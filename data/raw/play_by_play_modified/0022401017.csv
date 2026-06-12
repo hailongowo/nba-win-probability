@@ -1,0 +1,431 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22401017,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+22401017,4,PT12M00.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,0,0,0,h,Jump Ball Holmgren vs. Nurkic: Tip to Simpson,Jump Ball,,1,0,2
+22401017,7,PT11M40.00S,1,1610612766,CHA,1630182,Green,J. Green,0,0,0,,0,0,0,0,v,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,3
+22401017,8,PT11M29.00S,1,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,v,Nurkic Violation:Kicked Ball (S.Corbin),Violation,Kicked Ball,0,0,4
+22401017,9,PT11M15.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,-6,23,2,Missed,1,0,0,0,h,MISS Hartenstein 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,5
+22401017,9,PT11M15.00S,1,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,v,Nurkic BLOCK (1 BLK),,,1,2,6
+22401017,11,PT11M13.00S,1,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,v,Nurkic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+22401017,12,PT11M04.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,-196,157,25,Missed,1,0,0,0,v,MISS Bridges 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,8
+22401017,13,PT11M00.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,0,0,0,h,Hartenstein REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+22401017,14,PT10M56.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,99,207,23,Missed,1,0,0,0,h,MISS Holmgren 23' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,10
+22401017,15,PT10M54.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,0,0,0,h,Hartenstein REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,11
+22401017,16,PT10M54.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,Missed,1,0,0,0,h,MISS Hartenstein Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,12
+22401017,17,PT10M54.00S,1,0,,1610612760,,,0,0,0,,0,0,0,0,h,THUNDER Rebound,Rebound,Unknown,0,0,13
+22401017,19,PT10M48.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-75,123,14,Made,1,2,0,2,h,Gilgeous-Alexander 14' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,2,14
+22401017,20,PT10M34.00S,1,1610612766,CHA,1642354,Simpson,K. Simpson,0,0,0,,0,2,0,2,v,Simpson Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,15
+22401017,20,PT10M34.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,2,0,2,h,Wallace STEAL (1 STL),,,1,0,16
+22401017,22,PT10M31.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,12,15,2,Made,1,4,0,4,h,Wallace 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,17
+22401017,23,PT10M15.00S,1,1610612766,CHA,1629610,Jeffries,D. Jeffries,67,83,11,Missed,1,4,0,4,v,MISS Jeffries 11' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,18
+22401017,24,PT10M14.00S,1,0,,1610612760,,,0,0,0,,0,4,0,4,h,THUNDER Rebound,Rebound,Unknown,0,0,19
+22401017,26,PT10M01.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,4,0,4,v,Bridges S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,1,0,20
+22401017,28,PT10M01.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,4,0,4,h,MISS Holmgren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,21
+22401017,29,PT10M01.00S,1,0,,1610612760,,,0,0,0,,0,4,0,4,h,THUNDER Rebound,Rebound,Normal Rebound,0,0,22
+22401017,30,PT10M01.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,4,0,4,h,MISS Holmgren Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,23
+22401017,31,PT09M58.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,4,0,4,v,Bridges REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,24
+22401017,32,PT09M52.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,4,0,4,h,Hartenstein S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,1,0,25
+22401017,34,PT09M52.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,4,1,5,v,Bridges Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,26
+22401017,35,PT09M52.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,4,2,6,v,Bridges Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,27
+22401017,36,PT09M44.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,227,112,25,Made,1,7,2,9,h,Wiggins 25' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Jump Shot,1,3,28
+22401017,38,PT09M29.00S,1,1610612766,CHA,1630182,Green,J. Green,234,9,0,Missed,1,7,2,9,v,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,3,29
+22401017,39,PT09M25.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,7,2,9,h,Gilgeous-Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,30
+22401017,40,PT09M20.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,7,2,9,v,Bridges P.FOUL (P2.T2) (B.Kennedy),Foul,Personal,1,0,31
+22401017,42,PT09M20.00S,1,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,7,2,9,v,SUB: Moore Jr. FOR Bridges,Substitution,,0,0,32
+22401017,44,PT09M11.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,11,55,6,Missed,1,7,2,9,h,MISS Hartenstein 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,33
+22401017,45,PT09M06.00S,1,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,7,2,9,v,Nurkic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,34
+22401017,46,PT08M53.00S,1,1610612766,CHA,1630182,Green,J. Green,0,0,0,,0,7,2,9,v,Green Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,35
+22401017,46,PT08M53.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,7,2,9,h,Wiggins STEAL (1 STL),,,1,0,36
+22401017,48,PT08M44.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-127,111,17,Missed,1,7,2,9,h,MISS Gilgeous-Alexander 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,37
+22401017,49,PT08M39.00S,1,1610612766,CHA,1630182,Green,J. Green,0,0,0,,0,7,2,9,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,38
+22401017,50,PT08M32.00S,1,1610612766,CHA,1630182,Green,J. Green,18,-1,2,Made,1,7,4,11,v,Green 2' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,39
+22401017,51,PT08M24.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,36,18,4,Missed,1,7,4,11,h,MISS Wallace 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,40
+22401017,52,PT08M19.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,7,4,11,h,Wallace REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,41
+22401017,53,PT08M19.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,7,4,11,h,Wallace Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,42
+22401017,53,PT08M19.00S,1,1610612766,CHA,1630182,Green,J. Green,0,0,0,,0,7,4,11,v,Green STEAL (1 STL),,,1,0,43
+22401017,55,PT08M19.00S,1,0,,1610612766,,,0,0,0,,0,7,4,11,v,Hornets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,44
+22401017,56,PT08M07.00S,1,1610612766,CHA,203994,Nurkić,J. Nurkić,10,51,5,Missed,1,7,4,11,v,MISS Nurkic 5' Layup,Missed Shot,Layup Shot,1,2,45
+22401017,57,PT08M05.00S,1,0,,1610612760,,,0,0,0,,0,7,4,11,h,THUNDER Rebound,Rebound,Unknown,1,0,46
+22401017,59,PT07M45.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,-74,115,14,Made,1,9,4,13,h,Hartenstein 14' Floating Jump Shot (2 PTS) (Wallace 1 AST),Made Shot,Floating Jump shot,1,2,47
+22401017,61,PT07M28.00S,1,1610612766,CHA,203994,Nurkić,J. Nurkić,9,29,3,Missed,1,9,4,13,v,MISS Nurkic 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,48
+22401017,62,PT07M26.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,9,4,13,h,Holmgren REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,49
+22401017,63,PT07M11.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,53,15,6,Missed,1,9,4,13,h,MISS Wiggins 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,50
+22401017,64,PT07M09.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,9,4,13,h,Hartenstein REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,51
+22401017,65,PT07M06.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,165,200,26,Missed,1,9,4,13,h,MISS Wallace 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,52
+22401017,66,PT07M02.00S,1,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,0,0,0,,0,9,4,13,v,Moore Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,53
+22401017,67,PT06M50.00S,1,1610612766,CHA,1642354,Simpson,K. Simpson,49,16,5,Missed,1,9,4,13,v,MISS Simpson 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,54
+22401017,68,PT06M48.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,9,4,13,h,Hartenstein REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,55
+22401017,69,PT06M42.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-25,21,3,Made,1,11,4,15,h,Gilgeous-Alexander 3' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,56
+22401017,70,PT06M20.00S,1,1610612766,CHA,1630182,Green,J. Green,20,-6,2,Made,1,11,6,17,v,Green 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,57
+22401017,71,PT06M09.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-212,127,25,Made,1,14,6,20,h,Gilgeous-Alexander 25' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,3,58
+22401017,72,PT05M56.00S,1,1610612766,CHA,1629610,Jeffries,D. Jeffries,229,100,25,Missed,1,14,6,20,v,MISS Jeffries 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,59
+22401017,73,PT05M54.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,14,6,20,h,Holmgren REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,60
+22401017,74,PT05M45.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,137,1,14,Missed,1,14,6,20,h,MISS Gilgeous-Alexander 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,61
+22401017,75,PT05M44.00S,1,0,,1610612760,,,0,0,0,,0,14,6,20,h,THUNDER Rebound,Rebound,Unknown,1,0,62
+22401017,77,PT05M44.00S,1,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,14,6,20,v,SUB: Diabaté FOR Jeffries,Substitution,,0,0,63
+22401017,78,PT05M44.00S,1,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,14,6,20,v,SUB: Smith Jr. FOR Nurkic,Substitution,,0,0,64
+22401017,79,PT05M44.00S,1,1610612766,CHA,1642354,Simpson,K. Simpson,0,0,0,,0,14,6,20,v,SUB: Curry FOR Simpson,Substitution,,0,0,65
+22401017,83,PT05M42.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,14,6,20,h,Gilgeous-Alexander OFF.Foul (P1) (S.Corbin),Foul,Offensive,1,0,66
+22401017,85,PT05M42.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,14,6,20,h,Gilgeous-Alexander Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,67
+22401017,86,PT05M42.00S,1,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,14,6,20,h,SUB: J. Williams FOR Holmgren,Substitution,,0,0,68
+22401017,87,PT05M42.00S,1,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,14,6,20,h,SUB: K. Williams FOR Hartenstein,Substitution,,0,0,69
+22401017,88,PT05M42.00S,1,1610612766,CHA,1630182,Green,J. Green,0,0,0,,0,14,6,20,v,SUB: Gibson FOR Green,Substitution,,0,0,70
+22401017,92,PT05M19.00S,1,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,-51,66,8,Missed,1,14,6,20,v,MISS Moore Jr. 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,71
+22401017,93,PT05M14.00S,1,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,14,6,20,v,Diabaté REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,72
+22401017,94,PT05M12.00S,1,1610612766,CHA,1631217,Diabaté,M. Diabaté,-42,5,4,Missed,1,14,6,20,v,MISS Diabaté 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,73
+22401017,95,PT05M12.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,14,6,20,h,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,74
+22401017,96,PT05M02.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,-105,272,29,Missed,1,14,6,20,h,MISS Wiggins 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,75
+22401017,97,PT05M02.00S,1,0,,1610612766,,,0,0,0,,0,14,6,20,v,Hornets Rebound,Rebound,Unknown,0,0,76
+22401017,99,PT04M52.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-1,276,28,Missed,1,14,6,20,v,MISS Smith Jr. 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,77
+22401017,100,PT04M49.00S,1,0,,1610612760,,,0,0,0,,0,14,6,20,h,THUNDER Rebound,Rebound,Unknown,0,0,78
+22401017,102,PT04M49.00S,1,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,14,6,20,h,SUB: Caruso FOR Wallace,Substitution,,0,0,79
+22401017,104,PT04M43.00S,1,1610612760,OKC,1629026,Williams,K. Williams,-224,-24,0,Made,1,17,6,23,h,K. Williams 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,1,3,80
+22401017,107,PT04M15.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,17,6,23,v,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,81
+22401017,108,PT04M07.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,92,244,26,Made,1,20,6,26,h,Wiggins 26' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Jump Shot,1,3,82
+22401017,110,PT03M40.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,125,25,13,Missed,1,20,6,26,v,MISS Smith Jr. 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,83
+22401017,110,PT03M40.00S,1,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,20,6,26,h,Caruso BLOCK (1 BLK),,,1,2,84
+22401017,112,PT03M40.00S,1,0,,1610612766,,,0,0,0,,0,20,6,26,v,Hornets Rebound,Rebound,Unknown,1,0,85
+22401017,114,PT03M38.00S,1,1610612766,CHA,201959,Gibson,T. Gibson,186,62,20,Missed,1,20,6,26,v,MISS Gibson 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,86
+22401017,115,PT03M34.00S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,20,6,26,h,J. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+22401017,116,PT03M24.00S,1,1610612760,OKC,1629026,Williams,K. Williams,-2,290,29,Missed,1,20,6,26,h,MISS K. Williams 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,88
+22401017,117,PT03M20.00S,1,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,20,6,26,v,Diabaté REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,89
+22401017,118,PT03M17.00S,1,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,0,0,0,,0,20,6,26,v,Moore Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,90
+22401017,119,PT03M06.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-69,110,13,Made,1,22,6,28,h,Gilgeous-Alexander 13' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,1,2,91
+22401017,120,PT02M50.00S,1,1610612766,CHA,203552,Curry,S. Curry,-229,-20,0,Missed,1,22,6,28,v,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,1,3,92
+22401017,121,PT02M47.00S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,22,6,28,h,J. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,93
+22401017,122,PT02M28.00S,1,1610612760,OKC,1631119,Williams,J. Williams,-229,-21,0,Made,1,25,6,31,h,J. Williams 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Jump Shot,1,3,94
+22401017,124,PT02M07.00S,1,1610612766,CHA,1631217,Diabaté,M. Diabaté,7,41,4,Made,1,25,8,33,v,Diabaté 4' Driving Layup (2 PTS) (Curry 1 AST),Made Shot,Driving Layup Shot,1,2,95
+22401017,126,PT02M06.00S,1,0,,1610612760,,,0,0,0,,0,25,8,33,h,THUNDER Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,96
+22401017,127,PT02M06.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,25,8,33,h,SUB: Joe FOR Wiggins,Substitution,,0,0,97
+22401017,128,PT02M06.00S,1,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,0,0,0,,0,25,8,33,v,SUB: Simpson FOR Moore Jr.,Substitution,,0,0,98
+22401017,129,PT02M06.00S,1,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,25,8,33,v,SUB: Bridges FOR Diabaté,Substitution,,0,0,99
+22401017,133,PT01M55.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,21,2,Made,1,27,8,35,h,Gilgeous-Alexander 2' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,100
+22401017,134,PT01M41.00S,1,1610612766,CHA,1642354,Simpson,K. Simpson,-146,206,25,Made,1,27,11,38,v,Simpson 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,101
+22401017,135,PT01M26.00S,1,1610612766,CHA,201959,Gibson,T. Gibson,0,0,0,,0,27,11,38,v,Gibson S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,1,0,102
+22401017,137,PT01M26.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,28,11,39,h,K. Williams Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,103
+22401017,138,PT01M26.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,29,11,40,h,K. Williams Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,104
+22401017,139,PT01M16.00S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,29,11,40,v,Smith Jr. Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,105
+22401017,139,PT01M16.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,29,11,40,h,Gilgeous-Alexander STEAL (1 STL),,,1,0,106
+22401017,141,PT01M07.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,26,7,3,Made,1,31,11,42,h,Gilgeous-Alexander 3' Driving Reverse Layup (13 PTS),Made Shot,Driving Reverse Layup Shot,1,2,107
+22401017,142,PT00M53.60S,1,1610612766,CHA,1628970,Bridges,M. Bridges,53,30,6,Missed,1,31,11,42,v,MISS Bridges 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,108
+22401017,143,PT00M51.70S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,31,11,42,h,J. Williams REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,109
+22401017,144,PT00M45.80S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,9,10,1,Missed,1,31,11,42,h,MISS Gilgeous-Alexander 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,110
+22401017,144,PT00M45.80S,1,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,31,11,42,v,Bridges BLOCK (1 BLK),,,1,2,111
+22401017,146,PT00M42.70S,1,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,31,11,42,v,Bridges REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,112
+22401017,147,PT00M36.80S,1,1610612766,CHA,203552,Curry,S. Curry,-228,-21,0,Made,1,31,14,45,v,Curry 3PT Jump Shot (3 PTS) (Simpson 1 AST),Made Shot,Jump Shot,1,3,113
+22401017,149,PT00M32.50S,1,1610612760,OKC,1630198,Joe,I. Joe,-199,181,27,Missed,1,31,14,45,h,MISS Joe 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,114
+22401017,150,PT00M27.70S,1,1610612766,CHA,201959,Gibson,T. Gibson,0,0,0,,0,31,14,45,v,Gibson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,115
+22401017,151,PT00M10.60S,1,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,31,14,45,h,Caruso P.FOUL (P1.T2) (B.Kennedy),Foul,Personal,1,0,116
+22401017,153,PT00M05.80S,1,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,43,78,9,Missed,1,31,14,45,v,MISS Smith Jr. 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,117
+22401017,154,PT00M03.60S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,31,14,45,h,J. Williams REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,118
+22401017,155,PT00M00.80S,1,1610612760,OKC,1629026,Williams,K. Williams,116,268,29,Made,1,34,14,48,h,K. Williams 29' 3PT Pullup Jump Shot (8 PTS) (J. Williams 1 AST),Made Shot,Pullup Jump shot,1,3,119
+22401017,157,PT00M00.00S,1,0,,0,,,0,0,0,,0,34,14,48,,End of 1st Period (8:36 PM EST),period,end,1,0,120
+22401017,158,PT00M00.00S,1,0,,155,,,0,0,0,,0,34,14,48,,Instant Replay1st Period (8:36 PM EST),Instant Replay,Ruling Stands,0,0,121
+22401017,169,PT12M00.00S,2,0,,0,,,0,0,0,,0,34,14,48,,Start of 2nd Period (8:38 PM EST),period,start,0,0,122
+22401017,170,PT11M49.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,57,6,Missed,1,34,14,48,h,MISS Hartenstein 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,123
+22401017,171,PT11M45.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,34,14,48,h,Hartenstein REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,124
+22401017,172,PT11M45.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,Made,1,36,14,50,h,Hartenstein Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,125
+22401017,173,PT11M30.00S,2,1610612766,CHA,1630182,Green,J. Green,-78,29,8,Missed,1,36,14,50,v,MISS Green 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,126
+22401017,175,PT11M26.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,36,14,50,h,Hartenstein REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,127
+22401017,176,PT11M21.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,36,14,50,v,Nurkic S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,1,0,128
+22401017,178,PT11M21.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,37,14,51,h,Caruso Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,129
+22401017,179,PT11M21.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,38,14,52,h,Caruso Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,130
+22401017,180,PT11M07.00S,2,1610612766,CHA,1629610,Jeffries,D. Jeffries,39,6,4,Missed,1,38,14,52,v,MISS Jeffries 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,131
+22401017,181,PT11M05.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,38,14,52,v,Nurkic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,132
+22401017,182,PT11M05.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,38,14,52,h,Hartenstein P.FOUL (P2.T1) (S.Corbin),Foul,Personal,1,0,133
+22401017,184,PT11M05.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,38,14,52,h,SUB: Wallace FOR K. Williams,Substitution,,0,0,134
+22401017,186,PT10M55.00S,2,1610612766,CHA,1630182,Green,J. Green,183,174,25,Made,1,38,17,55,v,Green 25' 3PT Jump Shot (7 PTS) (Simpson 2 AST),Made Shot,Jump Shot,1,3,135
+22401017,188,PT10M36.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,-43,8,4,Made,1,40,17,57,h,Wallace 4' Driving Layup (4 PTS) (Hartenstein 1 AST),Made Shot,Driving Layup Shot,1,2,136
+22401017,190,PT10M23.00S,2,1610612766,CHA,1628970,Bridges,M. Bridges,203,143,25,Made,1,40,20,60,v,Bridges 25' 3PT Jump Shot (5 PTS) (Simpson 3 AST),Made Shot,Jump Shot,1,3,137
+22401017,192,PT10M06.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,-32,34,5,Made,1,42,20,62,h,Holmgren 5' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,2,138
+22401017,193,PT09M53.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,38,253,26,Made,1,42,23,65,v,Nurkic 26' 3PT Jump Shot (3 PTS) (Green 1 AST),Made Shot,Jump Shot,1,3,139
+22401017,195,PT09M40.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,-107,223,25,Made,1,45,23,68,h,Caruso 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,140
+22401017,196,PT09M25.00S,2,1610612766,CHA,1628970,Bridges,M. Bridges,-120,226,26,Missed,1,45,23,68,v,MISS Bridges 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,141
+22401017,197,PT09M24.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,45,23,68,h,Caruso REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,142
+22401017,199,PT09M14.00S,2,1610612760,OKC,1630198,Joe,I. Joe,230,-8,0,Missed,1,45,23,68,h,MISS Joe 3PT Jump Shot,Missed Shot,Jump Shot,1,3,143
+22401017,200,PT09M11.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,45,23,68,v,Nurkic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,144
+22401017,201,PT08M53.00S,2,1610612766,CHA,1630182,Green,J. Green,0,0,0,,0,45,23,68,v,Green Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,145
+22401017,201,PT08M53.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,45,23,68,h,Caruso STEAL (1 STL),,,1,0,146
+22401017,203,PT08M51.00S,2,1610612766,CHA,1630182,Green,J. Green,0,0,0,,0,45,23,68,v,Green S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,1,0,147
+22401017,205,PT08M51.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,46,23,69,h,Caruso Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,148
+22401017,206,PT08M51.00S,2,1610612766,CHA,1630182,Green,J. Green,0,0,0,,0,46,23,69,v,SUB: Moore Jr. FOR Green,Substitution,,0,0,149
+22401017,208,PT08M51.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,47,23,70,h,Caruso Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,150
+22401017,209,PT08M27.00S,2,1610612766,CHA,1642354,Simpson,K. Simpson,0,0,0,,0,47,23,70,v,Simpson Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,151
+22401017,209,PT08M27.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,47,23,70,h,Holmgren STEAL (1 STL),,,1,0,152
+22401017,211,PT08M24.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,47,23,70,v,Nurkic S.FOUL (P2.T3) (B.Nansel),Foul,Shooting,1,0,153
+22401017,213,PT08M24.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,47,23,70,h,MISS Holmgren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,154
+22401017,214,PT08M24.00S,2,0,,1610612760,,,0,0,0,,0,47,23,70,h,THUNDER Rebound,Rebound,Normal Rebound,0,0,155
+22401017,215,PT08M24.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,48,23,71,h,Holmgren Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,156
+22401017,216,PT08M12.00S,2,1610612766,CHA,1629610,Jeffries,D. Jeffries,-10,252,25,Made,1,48,26,74,v,Jeffries 25' 3PT Jump Shot (3 PTS) (Nurkic 1 AST),Made Shot,Jump Shot,1,3,157
+22401017,218,PT08M00.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,48,26,74,h,Hartenstein Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,158
+22401017,218,PT08M00.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,48,26,74,v,Nurkic STEAL (1 STL),,,1,0,159
+22401017,220,PT07M56.00S,2,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,179,184,26,Made,1,48,29,77,v,Moore Jr. 26' 3PT Running Jump Shot (3 PTS) (Nurkic 2 AST),Made Shot,Running Jump Shot,1,3,160
+22401017,222,PT07M55.00S,2,0,,1610612760,,,0,0,0,,0,48,29,77,h,THUNDER Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,161
+22401017,223,PT07M31.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,38,174,18,Missed,1,48,29,77,h,MISS Holmgren 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,162
+22401017,224,PT07M31.00S,2,0,,1610612760,,,0,0,0,,0,48,29,77,h,THUNDER Rebound,Rebound,Unknown,0,0,163
+22401017,225,PT07M31.00S,2,0,,1610612760,,,0,0,0,,0,48,29,77,h,THUNDER Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,1,0,164
+22401017,226,PT07M18.00S,2,1610612766,CHA,1629610,Jeffries,D. Jeffries,153,208,26,Missed,1,48,29,77,v,MISS Jeffries 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,165
+22401017,227,PT07M12.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,48,29,77,h,Caruso REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,166
+22401017,228,PT07M01.00S,2,1610612760,OKC,1630198,Joe,I. Joe,-162,202,26,Missed,1,48,29,77,h,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,167
+22401017,229,PT07M01.00S,2,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,0,0,0,,0,48,29,77,v,Moore Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,168
+22401017,231,PT06M52.00S,2,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,48,29,77,v,SUB: Smith Jr. FOR Bridges,Substitution,,0,0,169
+22401017,233,PT06M45.00S,2,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,129,232,27,Missed,1,48,29,77,v,MISS Moore Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,170
+22401017,234,PT06M41.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,48,29,77,h,Caruso REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,171
+22401017,235,PT06M32.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,-147,218,26,Missed,1,48,29,77,h,MISS Hartenstein 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,172
+22401017,236,PT06M29.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,48,29,77,v,Nurkic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,173
+22401017,237,PT06M21.00S,2,1610612766,CHA,1629610,Jeffries,D. Jeffries,-227,-15,0,Made,1,48,32,80,v,Jeffries 3PT Jump Shot (6 PTS) (Nurkic 3 AST),Made Shot,Jump Shot,1,3,174
+22401017,239,PT05M59.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,-33,28,4,Made,1,50,32,82,h,Holmgren 4' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,175
+22401017,240,PT05M36.00S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,50,32,82,h,Joe S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,1,0,176
+22401017,242,PT05M36.00S,2,1610612766,CHA,1642354,Simpson,K. Simpson,0,0,0,,0,50,33,83,v,Simpson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,177
+22401017,243,PT05M36.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,50,33,83,h,SUB: Gilgeous-Alexander FOR Holmgren,Substitution,,0,0,178
+22401017,244,PT05M36.00S,2,1610612760,OKC,1627936,Caruso,A. Caruso,0,0,0,,0,50,33,83,h,SUB: J. Williams FOR Caruso,Substitution,,0,0,179
+22401017,245,PT05M36.00S,2,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,50,33,83,h,SUB: K. Williams FOR Hartenstein,Substitution,,0,0,180
+22401017,246,PT05M36.00S,2,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,50,33,83,v,SUB: Diabaté FOR Nurkic,Substitution,,0,0,181
+22401017,251,PT05M36.00S,2,1610612766,CHA,1642354,Simpson,K. Simpson,0,0,0,,0,50,34,84,v,Simpson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,182
+22401017,252,PT05M16.00S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,50,34,84,h,Joe Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,183
+22401017,252,PT05M16.00S,2,1610612766,CHA,1642354,Simpson,K. Simpson,0,0,0,,0,50,34,84,v,Simpson STEAL (1 STL),,,1,0,184
+22401017,254,PT05M12.00S,2,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,50,34,84,v,Jeffries Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,185
+22401017,254,PT05M12.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,50,34,84,h,Wallace STEAL (2 STL),,,1,0,186
+22401017,256,PT05M08.00S,2,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,0,0,0,,0,50,34,84,v,Moore Jr. S.FOUL (P1.T4) (B.Kennedy),Foul,Shooting,1,0,187
+22401017,258,PT05M08.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,51,34,85,h,Gilgeous-Alexander Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,188
+22401017,259,PT05M08.00S,2,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,51,34,85,v,SUB: Curry FOR Jeffries,Substitution,,0,0,189
+22401017,260,PT05M08.00S,2,1610612766,CHA,1642354,Simpson,K. Simpson,0,0,0,,0,51,34,85,v,SUB: Green FOR Simpson,Substitution,,0,0,190
+22401017,263,PT05M08.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,52,34,86,h,Gilgeous-Alexander Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,191
+22401017,264,PT04M48.00S,2,1610612766,CHA,1631217,Diabaté,M. Diabaté,-18,9,2,Made,1,52,36,88,v,Diabaté 2' Cutting Layup Shot (4 PTS) (Smith Jr. 1 AST),Made Shot,Cutting Layup Shot,1,2,192
+22401017,266,PT04M30.00S,2,1610612760,OKC,1629026,Williams,K. Williams,-227,1,0,Made,1,55,36,91,h,K. Williams 3PT Jump Shot (11 PTS) (Wallace 2 AST),Made Shot,Jump Shot,1,3,193
+22401017,268,PT04M15.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-32,253,26,Made,1,55,39,94,v,Smith Jr. 26' 3PT Jump Shot (3 PTS) (Curry 2 AST),Made Shot,Jump Shot,1,3,194
+22401017,270,PT03M48.00S,2,0,,1610612760,,,0,0,0,,0,55,39,94,h,THUNDER Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,1,0,195
+22401017,271,PT03M48.00S,2,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,55,39,94,h,SUB: Wiggins FOR Wallace,Substitution,,0,0,196
+22401017,273,PT03M30.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,55,39,94,v,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,197
+22401017,274,PT03M16.00S,2,1610612760,OKC,1630198,Joe,I. Joe,-223,131,26,Made,1,58,39,97,h,Joe 26' 3PT Jump Shot (3 PTS) (J. Williams 2 AST),Made Shot,Jump Shot,1,3,198
+22401017,276,PT02M56.00S,2,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,58,39,97,v,Diabaté Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,199
+22401017,277,PT02M56.00S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,58,39,97,h,SUB: Holmgren FOR Joe,Substitution,,0,0,200
+22401017,279,PT02M56.00S,2,0,,1610612766,,,0,0,0,,0,58,39,97,v,Hornets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,201
+22401017,280,PT02M56.00S,2,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,0,0,0,,0,58,39,97,v,SUB: Bridges FOR Moore Jr.,Substitution,,0,0,202
+22401017,282,PT02M39.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,58,39,97,v,Smith Jr. S.FOUL (P1.PN) (S.Corbin),Foul,Shooting,1,0,203
+22401017,284,PT02M39.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,59,39,98,h,J. Williams Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,204
+22401017,285,PT02M39.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,60,39,99,h,J. Williams Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,205
+22401017,286,PT02M19.00S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-210,150,26,Made,1,60,42,102,v,Smith Jr. 26' 3PT Jump Shot (6 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,206
+22401017,288,PT02M01.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-4,122,12,Made,1,62,42,104,h,Gilgeous-Alexander 12' Turnaround Fadeaway (17 PTS),Made Shot,Turnaround Fadeaway shot,1,2,207
+22401017,289,PT01M40.00S,2,1610612766,CHA,1630182,Green,J. Green,-94,240,26,Made,1,62,45,107,v,Green 26' 3PT Jump Shot (10 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,208
+22401017,291,PT01M27.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-15,7,2,Made,1,64,45,109,h,Gilgeous-Alexander 2' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,209
+22401017,292,PT01M10.00S,2,1610612766,CHA,1631217,Diabaté,M. Diabaté,-4,15,2,Made,1,64,47,111,v,Diabaté 2' Driving Layup (6 PTS) (Bridges 3 AST),Made Shot,Driving Layup Shot,1,2,210
+22401017,294,PT00M59.30S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,-6,20,2,Made,1,66,47,113,h,Wiggins 2' Driving Dunk (8 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Driving Dunk Shot,1,2,211
+22401017,296,PT00M47.10S,2,1610612766,CHA,1630182,Green,J. Green,104,242,26,Missed,1,66,47,113,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,212
+22401017,297,PT00M41.30S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,66,47,113,h,Holmgren REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,213
+22401017,307,PT00M40.10S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,66,47,113,h,Holmgren Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,214
+22401017,307,PT00M40.10S,2,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,66,47,113,v,Bridges STEAL (1 STL),,,1,0,215
+22401017,298,PT00M33.20S,2,1610612766,CHA,203552,Curry,S. Curry,83,132,16,Made,1,66,49,115,v,Curry 16' Fadeaway Jumper (5 PTS) (Smith Jr. 2 AST),Made Shot,Fadeaway Jump Shot,1,2,216
+22401017,299,PT00M19.70S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,-233,102,25,Missed,1,66,49,115,h,MISS Wiggins 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,217
+22401017,300,PT00M16.90S,2,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,66,49,115,v,Diabaté REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,218
+22401017,301,PT00M04.70S,2,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-154,194,25,Missed,1,66,49,115,v,MISS Smith Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,219
+22401017,302,PT00M01.00S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,66,49,115,h,Holmgren REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,220
+22401017,303,PT00M00.20S,2,1610612760,OKC,1631096,Holmgren,C. Holmgren,4,821,82,Missed,1,66,49,115,h,MISS Holmgren 82' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,221
+22401017,304,PT00M00.10S,2,0,,1610612760,,,0,0,0,,0,66,49,115,h,THUNDER Rebound,Rebound,Unknown,0,0,222
+22401017,305,PT00M00.00S,2,0,,0,,,0,0,0,,0,66,49,115,,End of 2nd Period (9:04 PM EST),period,end,1,0,223
+22401017,319,PT12M00.00S,3,0,,0,,,0,0,0,,0,66,49,115,,Start of 3rd Period (9:19 PM EST),period,start,0,0,224
+22401017,320,PT11M44.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,-21,83,9,Missed,1,66,49,115,h,MISS Hartenstein 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,225
+22401017,321,PT11M42.00S,3,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,66,49,115,v,Nurkic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,226
+22401017,322,PT11M36.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,44,11,5,Made,1,66,51,117,v,Bridges 5' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,227
+22401017,323,PT11M19.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,12,8,1,Made,1,68,51,119,h,Holmgren 1' Driving Layup (7 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Driving Layup Shot,1,2,228
+22401017,325,PT11M08.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,165,188,25,Made,1,68,54,122,v,Bridges 25' 3PT Jump Shot (10 PTS) (Jeffries 1 AST),Made Shot,Jump Shot,1,3,229
+22401017,327,PT10M54.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,74,125,15,Missed,1,68,54,122,h,MISS Gilgeous-Alexander 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,230
+22401017,328,PT10M50.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,68,54,122,h,Hartenstein REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,231
+22401017,329,PT10M48.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,112,222,25,Made,1,71,54,125,h,Wiggins 25' 3PT Jump Shot (11 PTS) (Gilgeous-Alexander 7 AST),Made Shot,Jump Shot,1,3,232
+22401017,331,PT10M33.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,71,54,125,v,Bridges Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,233
+22401017,331,PT10M33.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,71,54,125,h,Wiggins STEAL (2 STL),,,1,0,234
+22401017,333,PT10M29.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,-1,4,0,Made,1,73,54,127,h,Holmgren Running Dunk (9 PTS) (Gilgeous-Alexander 8 AST),Made Shot,Running Dunk Shot,1,2,235
+22401017,335,PT10M07.00S,3,1610612766,CHA,1642354,Simpson,K. Simpson,234,17,0,Made,1,73,57,130,v,Simpson 3PT Jump Shot (8 PTS) (Nurkic 4 AST),Made Shot,Jump Shot,1,3,236
+22401017,337,PT09M48.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,39,252,26,Missed,1,73,57,130,h,MISS Wallace 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+22401017,338,PT09M45.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,73,57,130,h,Holmgren REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,238
+22401017,339,PT09M43.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,15,21,3,Missed,1,73,57,130,h,MISS Holmgren 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,239
+22401017,340,PT09M41.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,73,57,130,v,Bridges REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,240
+22401017,341,PT09M36.00S,3,1610612766,CHA,1630182,Green,J. Green,233,-16,0,Missed,1,73,57,130,v,MISS Green 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,241
+22401017,342,PT09M32.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,73,57,130,h,Hartenstein REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,242
+22401017,343,PT09M23.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,129,-15,13,Missed,1,73,57,130,h,MISS Gilgeous-Alexander 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,243
+22401017,344,PT09M21.00S,3,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,73,57,130,v,Nurkic REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,244
+22401017,345,PT09M00.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,73,57,130,h,Gilgeous-Alexander S.FOUL (P2.T1) (S.Corbin),Foul,Shooting,1,0,245
+22401017,347,PT09M00.00S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,73,58,131,v,Jeffries Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,246
+22401017,348,PT09M00.00S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,73,59,132,v,Jeffries Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,247
+22401017,349,PT08M54.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,156,208,26,Missed,1,73,59,132,h,MISS Wiggins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,248
+22401017,350,PT08M49.00S,3,1610612766,CHA,1642354,Simpson,K. Simpson,0,0,0,,0,73,59,132,v,Simpson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,249
+22401017,351,PT08M35.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,-137,232,27,Made,1,73,62,135,v,Bridges 27' 3PT Jump Shot (13 PTS) (Simpson 4 AST),Made Shot,Jump Shot,1,3,250
+22401017,353,PT08M22.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,-33,99,10,Missed,1,73,62,135,h,MISS Hartenstein 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,251
+22401017,354,PT08M21.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,73,62,135,h,Hartenstein REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,252
+22401017,356,PT08M20.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,15,0,2,Made,1,75,62,137,h,Hartenstein 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,2,253
+22401017,357,PT07M59.00S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,227,-17,0,Made,1,75,65,140,v,Jeffries 3PT Jump Shot (11 PTS) (Green 2 AST),Made Shot,Jump Shot,1,3,254
+22401017,359,PT07M59.00S,3,0,,1610612760,,,0,0,0,,0,75,65,140,h,THUNDER Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,255
+22401017,360,PT07M44.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,238,13,24,Made,1,78,65,143,h,Holmgren 24' 3PT Jump Shot (12 PTS) (Wallace 3 AST),Made Shot,Jump Shot,1,3,256
+22401017,362,PT07M30.00S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,-229,-20,0,Missed,1,78,65,143,v,MISS Jeffries 3PT Jump Shot,Missed Shot,Jump Shot,1,3,257
+22401017,363,PT07M29.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,78,65,143,h,Hartenstein REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,258
+22401017,364,PT07M20.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,110,241,26,Made,1,81,65,146,h,Gilgeous-Alexander 26' 3PT Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,1,3,259
+22401017,365,PT07M01.00S,3,1610612766,CHA,1630182,Green,J. Green,4,52,5,Missed,1,81,65,146,v,MISS Green 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,260
+22401017,365,PT07M01.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,81,65,146,h,Wallace BLOCK (1 BLK),,,1,2,261
+22401017,367,PT06M59.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,81,65,146,h,Gilgeous-Alexander REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,262
+22401017,368,PT06M52.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,-58,4,6,Made,1,83,65,148,h,Wallace 6' Driving Floating Bank Jump Shot (6 PTS) (Gilgeous-Alexander 9 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,263
+22401017,370,PT06M39.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,-184,183,26,Missed,1,83,65,148,v,MISS Bridges 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,264
+22401017,371,PT06M36.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,83,65,148,h,Gilgeous-Alexander REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,265
+22401017,372,PT06M31.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,9,-5,1,Made,1,85,65,150,h,Gilgeous-Alexander 1' Running Finger Roll Layup (24 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,266
+22401017,373,PT06M30.00S,3,0,,1610612766,,,0,0,0,,0,85,65,150,v,Hornets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,267
+22401017,374,PT06M30.00S,3,1610612766,CHA,1630182,Green,J. Green,0,0,0,,0,85,65,150,v,SUB: Moore Jr. FOR Green,Substitution,,0,0,268
+22401017,375,PT06M30.00S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,85,65,150,v,SUB: Curry FOR Jeffries,Substitution,,0,0,269
+22401017,376,PT06M30.00S,3,1610612766,CHA,1642354,Simpson,K. Simpson,0,0,0,,0,85,65,150,v,SUB: Smith Jr. FOR Simpson,Substitution,,0,0,270
+22401017,380,PT06M11.00S,3,1610612766,CHA,203552,Curry,S. Curry,0,0,0,,0,85,65,150,v,Curry Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,271
+22401017,380,PT06M11.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,85,65,150,h,Wiggins STEAL (3 STL),,,1,0,272
+22401017,382,PT05M58.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,76,131,15,Missed,1,85,65,150,h,MISS Holmgren 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,273
+22401017,383,PT05M56.00S,3,0,,1610612760,,,0,0,0,,0,85,65,150,h,THUNDER Rebound,Rebound,Unknown,0,0,274
+22401017,385,PT05M56.00S,3,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,85,65,150,v,SUB: Diabaté FOR Nurkic,Substitution,,0,0,275
+22401017,387,PT05M47.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,7,5,1,Made,1,87,65,152,h,Hartenstein 1' Cutting Dunk Shot (8 PTS) (Holmgren 1 AST),Made Shot,Cutting Dunk Shot,1,2,276
+22401017,389,PT05M31.00S,3,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,-161,33,16,Missed,1,87,65,152,v,MISS Moore Jr. 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,277
+22401017,390,PT05M28.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,87,65,152,h,Wallace REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,278
+22401017,391,PT05M22.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,5,-8,1,Made,1,89,65,154,h,Gilgeous-Alexander 1' Driving Reverse Layup (26 PTS),Made Shot,Driving Reverse Layup Shot,1,2,279
+22401017,393,PT05M06.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,-180,199,27,Missed,1,89,65,154,v,MISS Bridges 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,280
+22401017,394,PT05M02.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,89,65,154,h,Wiggins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,281
+22401017,395,PT04M52.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,-20,-5,2,Made,1,91,65,156,h,Hartenstein 2' Layup (10 PTS) (Wallace 4 AST),Made Shot,Layup Shot,1,2,282
+22401017,397,PT04M52.00S,3,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,0,0,0,,0,91,65,156,v,Moore Jr. S.FOUL (P2.T1) (S.Corbin),Foul,Shooting,1,0,283
+22401017,399,PT04M52.00S,3,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,91,65,156,v,SUB: Jeffries FOR Bridges,Substitution,,0,0,284
+22401017,401,PT04M52.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,91,65,156,h,MISS Hartenstein Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,285
+22401017,402,PT04M50.00S,3,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,0,0,0,,0,91,65,156,v,Moore Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,286
+22401017,403,PT04M40.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,59,269,28,Missed,1,91,65,156,v,MISS Smith Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+22401017,404,PT04M37.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,91,65,156,h,Gilgeous-Alexander REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,288
+22401017,405,PT04M30.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,-16,4,2,Made,1,93,65,158,h,Hartenstein 2' Driving Layup (12 PTS) (Wiggins 1 AST),Made Shot,Driving Layup Shot,1,2,289
+22401017,407,PT04M10.00S,3,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,13,272,27,Made,1,93,68,161,v,Moore Jr. 27' 3PT Jump Shot (6 PTS) (Diabaté 1 AST),Made Shot,Jump Shot,1,3,290
+22401017,409,PT03M54.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-47,134,14,Made,1,95,68,163,h,Gilgeous-Alexander 14' Fadeaway Jumper (28 PTS),Made Shot,Fadeaway Jump Shot,1,2,291
+22401017,410,PT03M44.00S,3,1610612766,CHA,203552,Curry,S. Curry,49,0,5,Missed,1,95,68,163,v,MISS Curry 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,292
+22401017,410,PT03M44.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,95,68,163,h,Holmgren BLOCK (1 BLK),,,1,2,293
+22401017,412,PT03M42.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,95,68,163,h,Gilgeous-Alexander REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,294
+22401017,413,PT03M38.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,25,31,4,Missed,1,95,68,163,h,MISS Holmgren 4' Running Layup,Missed Shot,Running Layup Shot,1,2,295
+22401017,413,PT03M38.00S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,95,68,163,v,Jeffries BLOCK (1 BLK),,,1,2,296
+22401017,415,PT03M38.00S,3,0,,1610612766,,,0,0,0,,0,95,68,163,v,Hornets Rebound,Rebound,Unknown,1,0,297
+22401017,417,PT03M38.00S,3,0,,1610612760,,,0,0,0,,0,95,68,163,h,THUNDER Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,298
+22401017,418,PT03M38.00S,3,0,,416,Burton,W. Burton,0,0,0,,0,95,68,163,,Instant Replay3rd Period (9:35 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,299
+22401017,419,PT03M38.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,95,68,163,h,SUB: Caruso FOR Wiggins,Substitution,,0,0,300
+22401017,420,PT03M38.00S,3,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,95,68,163,h,SUB: Joe FOR Wallace,Substitution,,0,0,301
+22401017,423,PT03M27.00S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,95,68,163,h,Joe P.FOUL (P2.T2) (S.Corbin),Foul,Personal,1,0,302
+22401017,425,PT03M12.00S,3,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,11,1,Made,1,95,70,165,v,Diabaté 1' Cutting Dunk Shot (8 PTS) (Smith Jr. 3 AST),Made Shot,Cutting Dunk Shot,1,2,303
+22401017,427,PT03M00.00S,3,1610612760,OKC,1627936,Caruso,A. Caruso,6,5,1,Missed,1,95,70,165,h,MISS Caruso 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,304
+22401017,428,PT02M59.00S,3,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,95,70,165,v,Diabaté REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,305
+22401017,429,PT02M45.00S,3,1610612766,CHA,1631217,Diabaté,M. Diabaté,9,115,12,Made,1,95,72,167,v,Diabaté 12' Floating Jump Shot (10 PTS) (Moore Jr. 1 AST),Made Shot,Floating Jump shot,1,2,306
+22401017,431,PT02M32.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-6,4,1,Made,1,97,72,169,h,Gilgeous-Alexander 1' Cutting Layup Shot (30 PTS) (Hartenstein 2 AST),Made Shot,Cutting Layup Shot,1,2,307
+22401017,433,PT02M17.00S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,1,16,2,Missed,1,97,72,169,v,MISS Jeffries 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,308
+22401017,433,PT02M17.00S,3,1610612760,OKC,1628392,Hartenstein,I. Hartenstein,0,0,0,,0,97,72,169,h,Hartenstein BLOCK (1 BLK),,,1,2,309
+22401017,435,PT02M14.00S,3,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,97,72,169,v,Diabaté REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,310
+22401017,436,PT02M07.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,0,0,0,,0,97,72,169,v,Smith Jr. Traveling Turnover (P4.T14),Turnover,Traveling,1,0,311
+22401017,437,PT01M50.00S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,22,25,3,Made,1,99,72,171,h,Holmgren 3' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,312
+22401017,438,PT01M28.00S,3,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-232,-25,0,Missed,1,99,72,171,v,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,313
+22401017,439,PT01M25.00S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,99,72,171,h,Joe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,314
+22401017,440,PT01M22.00S,3,1610612760,OKC,1630198,Joe,I. Joe,-165,190,25,Missed,1,99,72,171,h,MISS Joe 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,315
+22401017,441,PT01M20.00S,3,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,0,0,0,,0,99,72,171,v,Moore Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,316
+22401017,442,PT01M08.00S,3,1610612766,CHA,203552,Curry,S. Curry,-85,120,15,Made,1,99,74,173,v,Curry 15' Driving Floating Jump Shot (7 PTS) (Diabaté 2 AST),Made Shot,Driving Floating Jump Shot,1,2,317
+22401017,444,PT00M50.20S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,0,0,,0,99,74,173,v,Jeffries P.FOUL (P1.T2) (B.Nansel),Foul,Personal,1,0,318
+22401017,446,PT00M36.80S,3,1610612760,OKC,1630198,Joe,I. Joe,-21,-1,2,Made,1,101,74,175,h,Joe 2' Driving Layup (5 PTS) (Hartenstein 3 AST),Made Shot,Driving Layup Shot,1,2,319
+22401017,448,PT00M14.10S,3,1610612766,CHA,1629610,Jeffries,D. Jeffries,0,10,1,Missed,1,101,74,175,v,MISS Jeffries 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,320
+22401017,448,PT00M14.10S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,101,74,175,h,Holmgren BLOCK (2 BLK),,,1,2,321
+22401017,449,PT00M12.40S,3,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,101,74,175,v,Diabaté REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,322
+22401017,450,PT00M11.60S,3,1610612766,CHA,1631217,Diabaté,M. Diabaté,-11,27,3,Missed,1,101,74,175,v,MISS Diabaté 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,323
+22401017,450,PT00M11.60S,3,1610612760,OKC,1631096,Holmgren,C. Holmgren,0,0,0,,0,101,74,175,h,Holmgren BLOCK (3 BLK),,,1,2,324
+22401017,452,PT00M08.80S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,101,74,175,h,Gilgeous-Alexander REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,325
+22401017,453,PT00M06.10S,3,1610612760,OKC,1627936,Caruso,A. Caruso,7,-4,1,Made,1,103,74,177,h,Caruso 1' Cutting Dunk Shot (9 PTS) (Hartenstein 4 AST),Made Shot,Cutting Dunk Shot,1,2,326
+22401017,455,PT00M00.20S,3,1610612766,CHA,203552,Curry,S. Curry,-96,57,11,Made,1,103,76,179,v,Curry 11' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,327
+22401017,456,PT00M00.00S,3,0,,455,,,0,0,0,,0,103,76,179,,Instant Replay3rd Period (9:44 PM EST),Instant Replay,Support Ruling,0,0,328
+22401017,457,PT00M00.00S,3,0,,0,,,0,0,0,,0,103,76,179,,End of 3rd Period (9:45 PM EST),period,end,1,0,329
+22401017,475,PT12M00.00S,4,0,,0,,,0,0,0,,0,103,76,179,,Start of 4th Period (9:47 PM EST),period,start,0,0,330
+22401017,476,PT11M38.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,103,76,179,h,Joe S.FOUL (P3.T1) (S.Corbin),Foul,Shooting,1,0,331
+22401017,478,PT11M38.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,103,77,180,v,Bridges Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,332
+22401017,479,PT11M38.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,103,78,181,v,Bridges Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,333
+22401017,480,PT11M18.00S,4,1610612760,OKC,1631119,Williams,J. Williams,-180,184,26,Missed,1,103,78,181,h,MISS J. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+22401017,481,PT11M17.00S,4,0,,1610612760,,,0,0,0,,0,103,78,181,h,THUNDER Rebound,Rebound,Unknown,0,0,335
+22401017,482,PT11M17.00S,4,1610612766,CHA,203552,Curry,S. Curry,0,0,0,,0,103,78,181,v,Curry L.B.FOUL (P1.T1) (S.Corbin),Foul,Loose Ball,1,0,336
+22401017,484,PT11M11.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,-11,253,25,Made,1,106,78,184,h,Wallace 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,3,337
+22401017,485,PT10M59.00S,4,1610612766,CHA,203994,Nurkić,J. Nurkić,189,172,26,Missed,1,106,78,184,v,MISS Nurkic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,338
+22401017,486,PT10M57.00S,4,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,106,78,184,h,K. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,339
+22401017,487,PT10M41.00S,4,1610612760,OKC,1631119,Williams,J. Williams,-142,205,25,Missed,1,106,78,184,h,MISS J. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,340
+22401017,488,PT10M37.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,106,78,184,h,Joe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,341
+22401017,489,PT10M35.00S,4,1610612760,OKC,1630198,Joe,I. Joe,-228,-17,0,Made,1,109,78,187,h,Joe 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,342
+22401017,490,PT10M33.00S,4,0,,1610612766,,,0,0,0,,0,109,78,187,v,Hornets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,343
+22401017,491,PT10M18.00S,4,1610612766,CHA,203994,Nurkić,J. Nurkić,-4,21,2,Made,1,109,80,189,v,Nurkic 2' Cutting Dunk Shot (5 PTS) (Bridges 4 AST),Made Shot,Cutting Dunk Shot,1,2,344
+22401017,493,PT10M18.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,109,80,189,h,Wallace S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,1,0,345
+22401017,495,PT10M18.00S,4,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,109,81,190,v,Nurkic Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,346
+22401017,496,PT10M03.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,-4,104,10,Made,1,111,81,192,h,Wallace 10' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,347
+22401017,497,PT09M48.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,111,81,192,h,J. Williams P.FOUL (P1.T3) (S.Corbin),Foul,Personal,1,0,348
+22401017,499,PT09M38.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,-126,230,26,Made,1,111,84,195,v,Bridges 26' 3PT Step Back Jump Shot (18 PTS) (Nurkic 5 AST),Made Shot,Step Back Jump shot,1,3,349
+22401017,501,PT09M27.00S,4,1610612760,OKC,1630198,Joe,I. Joe,156,209,26,Missed,1,111,84,195,h,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+22401017,502,PT09M24.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,111,84,195,h,Wallace REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,351
+22401017,503,PT09M23.00S,4,1610612760,OKC,1630198,Joe,I. Joe,232,15,0,Made,1,114,84,198,h,Joe 3PT Jump Shot (11 PTS) (Wallace 5 AST),Made Shot,Jump Shot,1,3,352
+22401017,506,PT09M09.00S,4,1610612766,CHA,1630182,Green,J. Green,9,20,2,Made,1,114,86,200,v,Green 2' Cutting Layup Shot (12 PTS) (Simpson 5 AST),Made Shot,Cutting Layup Shot,1,2,353
+22401017,508,PT08M57.00S,4,1610612760,OKC,1631119,Williams,J. Williams,-2,147,15,Missed,1,114,86,200,h,MISS J. Williams 15' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,354
+22401017,509,PT08M55.00S,4,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,114,86,200,v,Nurkic REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,355
+22401017,510,PT08M50.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,114,86,200,h,Joe P.FOUL (P4.T4) (B.Nansel),Foul,Personal,1,0,356
+22401017,512,PT08M50.00S,4,1610612760,OKC,1641717,Wallace,C. Wallace,0,0,0,,0,114,86,200,h,SUB: Jones FOR Wallace,Substitution,,0,0,357
+22401017,514,PT08M41.00S,4,1610612766,CHA,203552,Curry,S. Curry,44,148,15,Made,1,114,88,202,v,Curry 15' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,358
+22401017,515,PT08M23.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,-12,-6,1,Missed,1,114,88,202,h,MISS Wiggins 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,359
+22401017,516,PT08M22.00S,4,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,114,88,202,v,Nurkic REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,360
+22401017,517,PT08M11.00S,4,1610612766,CHA,203552,Curry,S. Curry,6,254,25,Missed,1,114,88,202,v,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,361
+22401017,518,PT08M07.00S,4,1610612760,OKC,1641794,Jones,D. Jones,0,0,0,,0,114,88,202,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,362
+22401017,519,PT08M02.00S,4,1610612760,OKC,1631119,Williams,J. Williams,-221,-23,0,Made,1,117,88,205,h,J. Williams 3PT Jump Shot (8 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,3,363
+22401017,521,PT07M40.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,-180,180,25,Missed,1,117,88,205,v,MISS Bridges 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,364
+22401017,522,PT07M36.00S,4,1610612760,OKC,1641794,Jones,D. Jones,0,0,0,,0,117,88,205,h,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,365
+22401017,524,PT07M21.00S,4,1610612766,CHA,1630182,Green,J. Green,0,0,0,,0,117,88,205,v,SUB: Moore Jr. FOR Green,Substitution,,0,0,366
+22401017,525,PT07M21.00S,4,1610612766,CHA,203552,Curry,S. Curry,0,0,0,,0,117,88,205,v,SUB: Smith Jr. FOR Curry,Substitution,,0,0,367
+22401017,528,PT07M19.00S,4,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,117,88,205,v,Nurkic S.FOUL (P3.T2) (B.Nansel),Foul,Shooting,1,0,368
+22401017,530,PT07M19.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,117,88,205,h,MISS J. Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,369
+22401017,531,PT07M19.00S,4,0,,1610612760,,,0,0,0,,0,117,88,205,h,THUNDER Rebound,Rebound,Normal Rebound,0,0,370
+22401017,532,PT07M19.00S,4,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,117,88,205,h,SUB: Flagler FOR Wiggins,Substitution,,0,0,371
+22401017,534,PT07M19.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,118,88,206,h,J. Williams Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,372
+22401017,535,PT07M06.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,118,88,206,h,J. Williams S.FOUL (P2.PN) (B.Nansel),Foul,Shooting,1,0,373
+22401017,537,PT07M06.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,118,89,207,v,Bridges Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,374
+22401017,538,PT07M06.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,118,90,208,v,Bridges Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,375
+22401017,539,PT06M47.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,118,90,208,h,Joe Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,376
+22401017,539,PT06M47.00S,4,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,0,0,0,,0,118,90,208,v,Moore Jr. STEAL (1 STL),,,1,0,377
+22401017,541,PT06M45.00S,4,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,118,90,208,h,K. Williams P.FOUL (P1.PN) (B.Nansel),Foul,Personal,1,0,378
+22401017,543,PT06M45.00S,4,1610612766,CHA,1642354,Simpson,K. Simpson,0,0,0,,0,118,91,209,v,Simpson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,379
+22401017,544,PT06M45.00S,4,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,118,91,209,h,SUB: Carlson FOR K. Williams,Substitution,,0,0,380
+22401017,545,PT06M45.00S,4,1610612766,CHA,203994,Nurkić,J. Nurkić,0,0,0,,0,118,91,209,v,SUB: Diabaté FOR Nurkic,Substitution,,0,0,381
+22401017,548,PT06M45.00S,4,1610612766,CHA,1642354,Simpson,K. Simpson,0,0,0,,0,118,92,210,v,Simpson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,382
+22401017,549,PT06M32.00S,4,1610612760,OKC,1630198,Joe,I. Joe,-169,192,26,Made,1,121,92,213,h,Joe 26' 3PT Jump Shot (14 PTS) (J. Williams 3 AST),Made Shot,Jump Shot,1,3,383
+22401017,551,PT06M19.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,48,262,27,Missed,1,121,92,213,v,MISS Bridges 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,384
+22401017,552,PT06M16.00S,4,1610612760,OKC,1641745,Flagler,A. Flagler,0,0,0,,0,121,92,213,h,Flagler REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,385
+22401017,553,PT06M14.00S,4,1610612760,OKC,1631119,Williams,J. Williams,-2,9,1,Made,1,123,92,215,h,J. Williams 1' Running Dunk (11 PTS) (Flagler 1 AST),Made Shot,Running Dunk Shot,1,2,386
+22401017,555,PT06M11.00S,4,0,,1610612766,,,0,0,0,,0,123,92,215,v,Hornets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,387
+22401017,556,PT06M11.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,123,92,215,h,SUB: Ducas FOR Joe,Substitution,,0,0,388
+22401017,557,PT06M11.00S,4,1610612766,CHA,1628970,Bridges,M. Bridges,0,0,0,,0,123,92,215,v,SUB: Gibson FOR Bridges,Substitution,,0,0,389
+22401017,560,PT05M54.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-135,189,23,Missed,1,123,92,215,v,MISS Smith Jr. 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,390
+22401017,561,PT05M52.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,123,92,215,h,J. Williams REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,391
+22401017,562,PT05M47.00S,4,1610612760,OKC,1641794,Jones,D. Jones,-7,-6,1,Made,1,125,92,217,h,Jones 1' Running Layup (2 PTS) (J. Williams 4 AST),Made Shot,Running Layup Shot,1,2,392
+22401017,564,PT05M30.00S,4,1610612766,CHA,201959,Gibson,T. Gibson,-2,13,1,Made,1,125,94,219,v,Gibson 1' Cutting Dunk Shot (2 PTS) (Simpson 6 AST),Made Shot,Cutting Dunk Shot,1,2,393
+22401017,566,PT05M17.00S,4,1610612760,OKC,1642382,Carlson,B. Carlson,-142,206,25,Missed,1,125,94,219,h,MISS Carlson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+22401017,567,PT05M14.00S,4,1610612766,CHA,201959,Gibson,T. Gibson,0,0,0,,0,125,94,219,v,Gibson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,395
+22401017,568,PT04M57.00S,4,1610612766,CHA,1631217,Diabaté,M. Diabaté,131,6,13,Made,1,125,96,221,v,Diabaté 13' Turnaround Hook Shot (12 PTS) (Simpson 7 AST),Made Shot,Turnaround Hook Shot,1,2,396
+22401017,569,PT04M41.00S,4,1610612760,OKC,1631119,Williams,J. Williams,-51,250,26,Made,1,128,96,224,h,J. Williams 26' 3PT Jump Shot (14 PTS) (Flagler 2 AST),Made Shot,Jump Shot,1,3,397
+22401017,571,PT04M23.00S,4,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,0,0,0,,0,128,96,224,v,Moore Jr. Lost Ball Turnover (P2.T15),Turnover,Lost Ball,1,0,398
+22401017,571,PT04M23.00S,4,1610612760,OKC,1642505,Ducas,A. Ducas,0,0,0,,0,128,96,224,h,Ducas STEAL (1 STL),,,1,0,399
+22401017,573,PT04M01.00S,4,1610612760,OKC,1642505,Ducas,A. Ducas,0,0,0,,0,128,96,224,h,Ducas Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,400
+22401017,573,PT04M01.00S,4,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,128,96,224,v,Diabaté STEAL (1 STL),,,1,0,401
+22401017,575,PT03M52.00S,4,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,-45,32,6,Missed,1,128,96,224,v,MISS Moore Jr. 6' Layup,Missed Shot,Layup Shot,1,2,402
+22401017,575,PT03M52.00S,4,1610612760,OKC,1642382,Carlson,B. Carlson,0,0,0,,0,128,96,224,h,Carlson BLOCK (1 BLK),,,1,2,403
+22401017,577,PT03M50.00S,4,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,0,0,0,,0,128,96,224,v,Moore Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,404
+22401017,578,PT03M48.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-228,-25,0,Made,1,128,99,227,v,Smith Jr. 3PT Jump Shot (9 PTS) (Simpson 8 AST),Made Shot,Jump Shot,1,3,405
+22401017,580,PT03M27.00S,4,1610612760,OKC,1642505,Ducas,A. Ducas,-228,-17,0,Made,1,131,99,230,h,Ducas 3PT Jump Shot (3 PTS) (Flagler 3 AST),Made Shot,Jump Shot,1,3,406
+22401017,582,PT03M10.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,196,169,26,Missed,1,131,99,230,v,MISS Smith Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,407
+22401017,583,PT03M05.00S,4,1610612760,OKC,1641794,Jones,D. Jones,0,0,0,,0,131,99,230,h,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,408
+22401017,584,PT02M53.00S,4,1610612760,OKC,1641745,Flagler,A. Flagler,94,243,26,Missed,1,131,99,230,h,MISS Flagler 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,409
+22401017,585,PT02M51.00S,4,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,131,99,230,v,Diabaté REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,410
+22401017,586,PT02M33.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,77,83,11,Made,1,131,101,232,v,Smith Jr. 11' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,1,2,411
+22401017,587,PT02M21.00S,4,1610612760,OKC,1641794,Jones,D. Jones,-180,163,24,Missed,1,131,101,232,h,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,412
+22401017,588,PT02M19.00S,4,1610612760,OKC,1641745,Flagler,A. Flagler,0,0,0,,0,131,101,232,h,Flagler REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,413
+22401017,589,PT02M17.00S,4,1610612760,OKC,1641745,Flagler,A. Flagler,-6,247,25,Made,1,134,101,235,h,Flagler 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,414
+22401017,590,PT01M56.00S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,-164,206,26,Made,1,134,104,238,v,Smith Jr. 26' 3PT Jump Shot (14 PTS) (Diabaté 3 AST),Made Shot,Jump Shot,1,3,415
+22401017,592,PT01M45.00S,4,1610612760,OKC,1642382,Carlson,B. Carlson,25,247,25,Made,1,137,104,241,h,Carlson 25' 3PT Jump Shot (3 PTS) (Flagler 4 AST),Made Shot,Jump Shot,1,3,416
+22401017,594,PT01M28.00S,4,1610612766,CHA,1631217,Diabaté,M. Diabaté,0,0,0,,0,137,104,241,v,Diabaté Bad Pass Turnover (P2.T16),Turnover,Bad Pass,1,0,417
+22401017,594,PT01M28.00S,4,1610612760,OKC,1642505,Ducas,A. Ducas,0,0,0,,0,137,104,241,h,Ducas STEAL (2 STL),,,1,0,418
+22401017,596,PT01M24.00S,4,1610612766,CHA,1642354,Simpson,K. Simpson,0,0,0,,0,137,104,241,v,Simpson P.FOUL (P1.T3) (B.Nansel),Foul,Personal,1,0,419
+22401017,598,PT01M09.00S,4,1610612760,OKC,1641745,Flagler,A. Flagler,-13,-4,1,Made,1,139,104,243,h,Flagler 1' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,1,2,420
+22401017,599,PT00M52.80S,4,1610612766,CHA,1641733,Smith Jr.,N. Smith Jr.,17,131,13,Missed,1,139,104,243,v,MISS Smith Jr. 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,421
+22401017,600,PT00M50.60S,4,1610612766,CHA,201959,Gibson,T. Gibson,0,0,0,,0,139,104,243,v,Gibson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,422
+22401017,601,PT00M49.70S,4,1610612766,CHA,201959,Gibson,T. Gibson,-26,13,3,Made,1,139,106,245,v,Gibson 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,423
+22401017,602,PT00M37.10S,4,1610612760,OKC,1641794,Jones,D. Jones,-21,15,3,Missed,1,139,106,245,h,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,424
+22401017,602,PT00M37.10S,4,1610612766,CHA,1631111,Moore Jr.,W. Moore Jr.,0,0,0,,0,139,106,245,v,Moore Jr. BLOCK (1 BLK),,,1,2,425
+22401017,604,PT00M37.10S,4,0,,1610612760,,,0,0,0,,0,139,106,245,h,THUNDER Rebound,Rebound,Unknown,0,0,426
+22401017,607,PT00M31.20S,4,1610612760,OKC,1641794,Jones,D. Jones,-115,151,19,Made,1,141,106,247,h,Jones 19' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,427
+22401017,608,PT00M17.90S,4,1610612766,CHA,1642354,Simpson,K. Simpson,222,134,26,Missed,1,141,106,247,v,MISS Simpson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,428
+22401017,609,PT00M14.80S,4,1610612760,OKC,1642382,Carlson,B. Carlson,0,0,0,,0,141,106,247,h,Carlson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,429
+22401017,610,PT00M00.00S,4,0,,0,,,0,0,0,,0,141,106,247,,End of 4th Period (10:12 PM EST),period,end,1,0,430

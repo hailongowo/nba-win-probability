@@ -1,0 +1,484 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22200799,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:13 PM EST),period,start,0,0,1
+22200799,4,PT12M00.00S,1,1610612760,OKC,203488,Muscala,M. Muscala,0,0,0,,0,0,0,0,h,Jump Ball Muscala vs. Smith Jr.: Tip to Nix,Jump Ball,,1,0,2
+22200799,7,PT11M47.00S,1,1610612745,HOU,1630224,Green,J. Green,224,13,0,Missed,1,0,0,0,v,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+22200799,8,PT11M43.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,0,0,0,h,Gilgeous-Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22200799,9,PT11M39.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-1,3,0,Made,1,2,0,2,h,Gilgeous-Alexander Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,5
+22200799,10,PT11M21.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,2,2,0,Made,1,2,2,4,v,Sengun Cutting Dunk Shot (2 PTS) (Nix 1 AST),Made Shot,Cutting Dunk Shot,1,2,6
+22200799,12,PT11M11.00S,1,1610612760,OKC,203488,Muscala,M. Muscala,172,177,25,Made,1,5,2,7,h,Muscala 25' 3PT Jump Shot (3 PTS) (Giddey 1 AST),Made Shot,Jump Shot,1,3,7
+22200799,14,PT10M59.00S,1,1610612745,HOU,1630224,Green,J. Green,29,148,15,Missed,1,5,2,7,v,MISS Green 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,8
+22200799,15,PT10M57.00S,1,1610612760,OKC,203488,Muscala,M. Muscala,0,0,0,,0,5,2,7,h,Muscala REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,9
+22200799,16,PT10M51.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,-224,51,0,Missed,1,5,2,7,h,MISS Wiggins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,10
+22200799,17,PT10M47.00S,1,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,5,2,7,v,Martin Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+22200799,19,PT10M30.00S,1,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,5,2,7,v,Nix Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,12
+22200799,19,PT10M30.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,5,2,7,h,Gilgeous-Alexander STEAL (1 STL),,,1,0,13
+22200799,21,PT10M27.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,6,-2,1,Made,1,7,2,9,h,Gilgeous-Alexander 1' Running Layup (4 PTS) (Jal. Williams 1 AST),Made Shot,Running Layup Shot,1,2,14
+22200799,23,PT10M27.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,7,2,9,v,Smith Jr. S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,1,0,15
+22200799,25,PT10M27.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,8,2,10,h,Gilgeous-Alexander Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,16
+22200799,26,PT10M15.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-1,16,2,Made,1,8,4,12,v,Smith Jr. 2' Driving Layup (2 PTS) (Nix 2 AST),Made Shot,Driving Layup Shot,1,2,17
+22200799,27,PT10M15.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,8,4,12,h,Gilgeous-Alexander S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,18
+22200799,29,PT10M15.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,8,5,13,v,Smith Jr. Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,19
+22200799,31,PT10M04.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,78,114,14,Made,1,10,5,15,h,Gilgeous-Alexander 14' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,2,20
+22200799,32,PT09M47.00S,1,1610612760,OKC,203488,Muscala,M. Muscala,0,0,0,,0,10,5,15,h,Muscala P.FOUL (P1.T2) (J.Tiven),Foul,Personal,1,0,21
+22200799,34,PT09M42.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,-6,32,3,Made,1,10,7,17,v,Sengun 3' Driving Layup (4 PTS) (Nix 3 AST),Made Shot,Driving Layup Shot,1,2,22
+22200799,35,PT09M36.00S,1,1610612760,OKC,203488,Muscala,M. Muscala,230,94,25,Missed,1,10,7,17,h,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,23
+22200799,35,PT09M36.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,10,7,17,v,Sengun BLOCK (1 BLK),,,1,3,24
+22200799,37,PT09M36.00S,1,0,,1610612760,,,0,0,0,,0,10,7,17,h,THUNDER Rebound,Rebound,Unknown,1,0,25
+22200799,39,PT09M30.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,-228,-26,0,Made,1,13,7,20,h,Wiggins 3PT Jump Shot (3 PTS) (Giddey 2 AST),Made Shot,Jump Shot,1,3,26
+22200799,41,PT09M09.00S,1,1610612745,HOU,1630227,Nix,D. Nix,10,-1,1,Made,1,13,9,22,v,Nix 1' Cutting Layup Shot (2 PTS) (Sengun 1 AST),Made Shot,Cutting Layup Shot,1,2,27
+22200799,43,PT09M04.00S,1,1610612760,OKC,203488,Muscala,M. Muscala,-135,216,25,Made,1,16,9,25,h,Muscala 25' 3PT Jump Shot (6 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,1,3,28
+22200799,45,PT08M53.00S,1,1610612745,HOU,1630224,Green,J. Green,146,226,27,Missed,1,16,9,25,v,MISS Green 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,29
+22200799,46,PT08M50.00S,1,1610612760,OKC,203488,Muscala,M. Muscala,0,0,0,,0,16,9,25,h,Muscala REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,30
+22200799,47,PT08M42.00S,1,1610612760,OKC,1631114,Williams,J. Williams,-23,252,25,Missed,1,16,9,25,h,MISS Jal. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+22200799,48,PT08M37.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,16,9,25,v,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+22200799,50,PT08M14.00S,1,1610612745,HOU,1630227,Nix,D. Nix,234,-11,0,Missed,1,16,9,25,v,MISS Nix 3PT Jump Shot,Missed Shot,Jump Shot,1,3,33
+22200799,51,PT08M11.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,16,9,25,h,Gilgeous-Alexander REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,34
+22200799,52,PT08M05.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,-1,0,Made,1,18,9,27,h,Gilgeous-Alexander Running Dunk (9 PTS),Made Shot,Running Dunk Shot,1,2,35
+22200799,53,PT07M56.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-230,-15,0,Missed,1,18,9,27,v,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,36
+22200799,54,PT07M53.00S,1,1610612760,OKC,203488,Muscala,M. Muscala,0,0,0,,0,18,9,27,h,Muscala REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,37
+22200799,55,PT07M46.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-145,-8,15,Made,1,20,9,29,h,Gilgeous-Alexander 15' Turnaround Fadeaway (11 PTS),Made Shot,Turnaround Fadeaway shot,1,2,38
+22200799,56,PT07M37.00S,1,0,,1610612745,,,0,0,0,,0,20,9,29,v,Rockets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,39
+22200799,59,PT07M18.00S,1,1610612745,HOU,1630224,Green,J. Green,-168,1,17,Missed,1,20,9,29,v,MISS Green 17' Jump Shot,Missed Shot,Jump Shot,1,2,40
+22200799,60,PT07M15.00S,1,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,20,9,29,v,Martin Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,41
+22200799,61,PT07M10.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,70,5,7,Made,1,20,11,31,v,Sengun 7' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,1,2,42
+22200799,62,PT06M58.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,17,-6,2,Made,1,22,11,33,h,Giddey 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,43
+22200799,63,PT06M47.00S,1,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,22,11,33,v,Nix Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1,0,44
+22200799,63,PT06M47.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,22,11,33,h,Giddey STEAL (1 STL),,,1,0,45
+22200799,99,PT06M42.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,22,11,33,h,Giddey Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,46
+22200799,99,PT06M42.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,22,11,33,v,Sengun STEAL (1 STL),,,1,0,47
+22200799,67,PT06M36.00S,1,1610612745,HOU,1630231,Martin,K. Martin,-11,21,2,Made,1,22,13,35,v,Martin Jr. 2' Cutting Layup Shot (2 PTS) (Nix 4 AST),Made Shot,Cutting Layup Shot,1,2,48
+22200799,69,PT06M22.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,10,4,1,Made,1,24,13,37,h,Wiggins 1' Driving Layup (5 PTS) (Jal. Williams 2 AST),Made Shot,Driving Layup Shot,1,2,49
+22200799,71,PT06M06.00S,1,1610612745,HOU,1630227,Nix,D. Nix,213,127,25,Missed,1,24,13,37,v,MISS Nix 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,50
+22200799,72,PT06M04.00S,1,1610612760,OKC,203488,Muscala,M. Muscala,0,0,0,,0,24,13,37,h,Muscala REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,51
+22200799,73,PT05M57.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,71,21,7,Missed,1,24,13,37,h,MISS Giddey 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,52
+22200799,74,PT05M53.00S,1,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,24,13,37,v,Nix REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,53
+22200799,75,PT05M48.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,1,18,2,Missed,1,24,13,37,v,MISS Sengun 2' Running Layup,Missed Shot,Running Layup Shot,1,2,54
+22200799,76,PT05M46.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,24,13,37,h,Giddey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,55
+22200799,77,PT05M38.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,-124,213,25,Missed,1,24,13,37,h,MISS Giddey 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,56
+22200799,78,PT05M36.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,24,13,37,v,Sengun REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,57
+22200799,79,PT05M21.00S,1,1610612745,HOU,1630231,Martin,K. Martin,212,149,26,Missed,1,24,13,37,v,MISS Martin Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,58
+22200799,80,PT05M16.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,24,13,37,h,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,59
+22200799,81,PT05M07.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,18,13,2,Made,1,26,13,39,h,Gilgeous-Alexander 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,60
+22200799,82,PT04M50.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,26,13,39,v,Smith Jr. Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,61
+22200799,82,PT04M50.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,26,13,39,h,Gilgeous-Alexander STEAL (2 STL),,,1,0,62
+22200799,84,PT04M47.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,26,13,39,v,Sengun S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,0,63
+22200799,86,PT04M47.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,27,13,40,h,Gilgeous-Alexander Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,64
+22200799,87,PT04M47.00S,1,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,27,13,40,h,SUB: Jay. Williams FOR Giddey,Substitution,,0,0,65
+22200799,88,PT04M47.00S,1,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,27,13,40,h,SUB: Joe FOR Wiggins,Substitution,,0,0,66
+22200799,89,PT04M47.00S,1,1610612760,OKC,203488,Muscala,M. Muscala,0,0,0,,0,27,13,40,h,SUB: Mann FOR Muscala,Substitution,,0,0,67
+22200799,90,PT04M47.00S,1,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,27,13,40,v,SUB: Christopher FOR Green,Substitution,,0,0,68
+22200799,91,PT04M47.00S,1,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,27,13,40,v,SUB: Fernando FOR Sengun,Substitution,,0,0,69
+22200799,97,PT04M47.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,28,13,41,h,Gilgeous-Alexander Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,70
+22200799,98,PT04M30.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-66,25,7,Made,1,28,15,43,v,Smith Jr. 7' Driving Layup (5 PTS) (Fernando 1 AST),Made Shot,Driving Layup Shot,1,2,71
+22200799,101,PT04M13.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,2,151,15,Missed,1,28,15,43,h,MISS Gilgeous-Alexander 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,72
+22200799,102,PT04M11.00S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,28,15,43,h,Jay. Williams REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,73
+22200799,105,PT04M01.00S,1,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,28,15,43,v,Fernando S.FOUL (P1.T3) (R.Hussey),Foul,Shooting,1,0,74
+22200799,107,PT04M01.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,28,15,43,h,MISS Gilgeous-Alexander Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,75
+22200799,108,PT04M01.00S,1,0,,1610612760,,,0,0,0,,0,28,15,43,h,THUNDER Rebound,Rebound,Normal Rebound,0,0,76
+22200799,109,PT04M01.00S,1,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,28,15,43,v,SUB: Eason FOR Martin Jr.,Substitution,,0,0,77
+22200799,111,PT04M01.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,29,15,44,h,Gilgeous-Alexander Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,78
+22200799,112,PT03M51.00S,1,1610612745,HOU,1628981,Fernando,B. Fernando,0,12,1,Made,1,29,17,46,v,Fernando 1' Dunk (2 PTS) (Smith Jr. 1 AST),Made Shot,Dunk Shot,1,2,79
+22200799,114,PT03M35.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,65,22,7,Missed,1,29,17,46,h,MISS Gilgeous-Alexander 7' Layup,Missed Shot,Layup Shot,1,2,80
+22200799,114,PT03M35.00S,1,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,29,17,46,v,Nix BLOCK (1 BLK),,,1,2,81
+22200799,116,PT03M31.00S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,29,17,46,h,Jay. Williams REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,82
+22200799,117,PT03M28.00S,1,1610612760,OKC,1630544,Mann,T. Mann,-168,177,24,Missed,1,29,17,46,h,MISS Mann 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,83
+22200799,118,PT03M26.00S,1,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,29,17,46,v,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+22200799,119,PT03M09.00S,1,1610612745,HOU,1631106,Eason,T. Eason,71,13,7,Missed,1,29,17,46,v,MISS Eason 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,85
+22200799,120,PT03M06.00S,1,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,29,17,46,h,Jay. Williams REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,86
+22200799,121,PT02M56.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-45,253,26,Missed,1,29,17,46,h,MISS Gilgeous-Alexander 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,87
+22200799,122,PT02M54.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,29,17,46,h,Jal. Williams REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,88
+22200799,123,PT02M51.00S,1,1610612760,OKC,1630544,Mann,T. Mann,164,200,26,Missed,1,29,17,46,h,MISS Mann 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,89
+22200799,124,PT02M48.00S,1,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,29,17,46,v,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,90
+22200799,125,PT02M34.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,29,17,46,v,Smith Jr. Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,91
+22200799,125,PT02M34.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,29,17,46,h,Gilgeous-Alexander STEAL (3 STL),,,1,0,92
+22200799,127,PT02M30.00S,1,1610612760,OKC,1630198,Joe,I. Joe,-179,185,26,Missed,1,29,17,46,h,MISS Joe 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,93
+22200799,128,PT02M28.00S,1,0,,1610612760,,,0,0,0,,0,29,17,46,h,THUNDER Rebound,Rebound,Unknown,1,0,94
+22200799,129,PT02M28.00S,1,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,29,17,46,v,Eason L.B.FOUL (P1.T4) (R.Hussey),Foul,Loose Ball,1,0,95
+22200799,131,PT02M28.00S,1,0,,1610612760,,,0,0,0,,0,29,17,46,h,THUNDER Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,96
+22200799,132,PT02M28.00S,1,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,29,17,46,h,SUB: K. Williams FOR Jal. Williams,Substitution,,0,0,97
+22200799,133,PT02M28.00S,1,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,29,17,46,v,SUB: Martin Jr. FOR Smith Jr.,Substitution,,0,0,98
+22200799,134,PT02M28.00S,1,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,29,17,46,v,SUB: Washington Jr. FOR Nix,Substitution,,0,0,99
+22200799,138,PT02M21.00S,1,1610612760,OKC,1630544,Mann,T. Mann,15,-15,2,Made,1,31,17,48,h,Mann 2' Alley Oop Layup (2 PTS) (K. Williams 1 AST),Made Shot,Alley Oop Layup shot,1,2,100
+22200799,140,PT02M03.00S,1,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,86,144,17,Made,1,31,19,50,v,Washington Jr. 17' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,101
+22200799,141,PT01M45.00S,1,1610612760,OKC,1629026,Williams,K. Williams,235,13,24,Made,1,34,19,53,h,K. Williams 24' 3PT Jump Shot (3 PTS) (Joe 1 AST),Made Shot,Jump Shot,1,3,102
+22200799,143,PT01M32.00S,1,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,-223,131,26,Missed,1,34,19,53,v,MISS Washington Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+22200799,144,PT01M27.00S,1,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,34,19,53,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+22200799,145,PT01M17.00S,1,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,34,19,53,v,Fernando S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,1,0,105
+22200799,147,PT01M17.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,35,19,54,h,Gilgeous-Alexander Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,106
+22200799,148,PT01M17.00S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,36,19,55,h,Gilgeous-Alexander Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,107
+22200799,195,PT00M55.20S,1,1610612745,HOU,1631106,Eason,T. Eason,2,1,0,Missed,1,36,19,55,v,MISS Eason Driving Layup,Missed Shot,Driving Layup Shot,1,2,108
+22200799,195,PT00M55.20S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,36,19,55,h,Gilgeous-Alexander BLOCK (1 BLK),,,1,2,109
+22200799,197,PT00M55.20S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,36,19,55,h,Gilgeous-Alexander REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,110
+22200799,151,PT00M50.20S,1,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,17,-7,2,Made,1,38,19,57,h,Gilgeous-Alexander 2' Running Layup (20 PTS),Made Shot,Running Layup Shot,1,2,111
+22200799,152,PT00M32.30S,1,1610612745,HOU,1630528,Christopher,J. Christopher,38,148,15,Missed,1,38,19,57,v,MISS Christopher 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,112
+22200799,153,PT00M29.00S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,38,19,57,h,K. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,113
+22200799,154,PT00M11.20S,1,1610612760,OKC,1630198,Joe,I. Joe,-66,43,8,Missed,1,38,19,57,h,MISS Joe 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,114
+22200799,155,PT00M09.40S,1,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,38,19,57,v,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,115
+22200799,156,PT00M05.20S,1,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,38,19,57,h,K. Williams P.FOUL (P1.T3) (N.Sago),Foul,Personal,1,0,116
+22200799,158,PT00M05.20S,1,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,38,19,57,h,SUB: Wiggins FOR Mann,Substitution,,0,0,117
+22200799,160,PT00M00.20S,1,1610612745,HOU,1630528,Christopher,J. Christopher,-44,102,11,Missed,1,38,19,57,v,MISS Christopher 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,118
+22200799,161,PT00M00.10S,1,0,,1610612745,,,0,0,0,,0,38,19,57,v,Rockets Rebound,Rebound,Unknown,1,0,119
+22200799,162,PT00M00.00S,1,0,,0,,,0,0,0,,0,38,19,57,,End of 1st Period (8:36 PM EST),period,end,1,0,120
+22200799,171,PT12M00.00S,2,0,,0,,,0,0,0,,0,38,19,57,,Start of 2nd Period (8:39 PM EST),period,start,0,0,121
+22200799,172,PT11M38.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,-207,135,25,Missed,1,38,19,57,h,MISS Giddey 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,122
+22200799,172,PT11M38.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,38,19,57,v,Green BLOCK (1 BLK),,,1,3,123
+22200799,174,PT11M37.00S,2,0,,1610612760,,,0,0,0,,0,38,19,57,h,THUNDER Rebound,Rebound,Unknown,0,0,124
+22200799,176,PT11M34.00S,2,1610612760,OKC,1629026,Williams,K. Williams,-31,-11,3,Missed,1,38,19,57,h,MISS K. Williams 3' Layup,Missed Shot,Layup Shot,1,2,125
+22200799,176,PT11M34.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,38,19,57,v,Green BLOCK (2 BLK),,,1,2,126
+22200799,178,PT11M31.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,38,19,57,v,Martin Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,127
+22200799,179,PT11M15.00S,2,1610612745,HOU,1630231,Martin,K. Martin,-62,18,6,Missed,1,38,19,57,v,MISS Martin Jr. 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,128
+22200799,180,PT11M10.00S,2,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,38,19,57,v,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,129
+22200799,181,PT11M10.00S,2,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,Made,1,38,21,59,v,Fernando Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,130
+22200799,182,PT10M54.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,-64,20,7,Made,1,40,21,61,h,Giddey 7' Driving Floating Bank Jump Shot (4 PTS) (Dieng 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,131
+22200799,184,PT10M44.00S,2,1610612745,HOU,1630224,Green,J. Green,56,37,7,Missed,1,40,21,61,v,MISS Green 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,132
+22200799,185,PT10M42.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,40,21,61,h,K. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,133
+22200799,186,PT10M37.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,-64,28,7,Missed,1,40,21,61,h,MISS Giddey 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,134
+22200799,187,PT10M33.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,40,21,61,h,K. Williams REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,135
+22200799,188,PT10M33.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,Made,1,42,21,63,h,K. Williams Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,1,2,136
+22200799,189,PT10M24.00S,2,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,-75,81,11,Made,1,42,23,65,v,Washington Jr. 11' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,137
+22200799,190,PT10M12.00S,2,1610612760,OKC,1630544,Mann,T. Mann,-143,200,25,Missed,1,42,23,65,h,MISS Mann 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,138
+22200799,191,PT10M09.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,42,23,65,v,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,139
+22200799,192,PT09M55.00S,2,1610612745,HOU,1630224,Green,J. Green,4,13,1,Made,1,42,25,67,v,Green 1' Driving Layup (2 PTS) (Fernando 2 AST),Made Shot,Driving Layup Shot,1,2,140
+22200799,194,PT09M55.00S,2,0,,1610612760,,,0,0,0,,0,42,25,67,h,THUNDER Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,141
+22200799,198,PT09M55.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,42,25,67,v,SUB: Smith Jr. FOR Martin Jr.,Substitution,,0,0,142
+22200799,200,PT09M46.00S,2,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,0,0,0,,0,42,25,67,v,Washington Jr. S.FOUL (P1.T1) (N.Sago),Foul,Shooting,1,0,143
+22200799,202,PT09M46.00S,2,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,42,25,67,h,MISS Mann Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,144
+22200799,203,PT09M46.00S,2,0,,1610612760,,,0,0,0,,0,42,25,67,h,THUNDER Rebound,Rebound,Normal Rebound,1,0,145
+22200799,204,PT09M46.00S,2,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,43,25,68,h,Mann Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,146
+22200799,205,PT09M31.00S,2,1610612745,HOU,1628981,Fernando,B. Fernando,0,8,1,Made,1,43,27,70,v,Fernando 1' Cutting Dunk Shot (6 PTS) (Green 1 AST),Made Shot,Cutting Dunk Shot,1,2,147
+22200799,207,PT09M14.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,97,242,26,Made,1,46,27,73,h,Giddey 26' 3PT Jump Shot (7 PTS) (K. Williams 2 AST),Made Shot,Jump Shot,1,3,148
+22200799,209,PT09M05.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,46,27,73,h,K. Williams P.FOUL (P2.T1) (J.Tiven),Foul,Personal,1,0,149
+22200799,211,PT09M05.00S,2,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,46,27,73,v,SUB: Sengun FOR Fernando,Substitution,,0,0,150
+22200799,213,PT09M00.00S,2,1610612745,HOU,1630224,Green,J. Green,191,148,24,Missed,1,46,27,73,v,MISS Green 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,151
+22200799,214,PT08M56.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,46,27,73,h,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,152
+22200799,215,PT08M55.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,46,27,73,h,Dieng Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,153
+22200799,215,PT08M55.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,46,27,73,v,Eason STEAL (1 STL),,,1,0,154
+22200799,217,PT08M53.00S,2,1610612745,HOU,1631106,Eason,T. Eason,-1,8,1,Missed,1,46,27,73,v,MISS Eason 1' Layup,Missed Shot,Layup Shot,1,2,155
+22200799,218,PT08M51.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,46,27,73,h,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,156
+22200799,219,PT08M46.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,-16,24,3,Made,1,48,27,75,h,Dieng 3' Cutting Layup Shot (2 PTS) (Jay. Williams 1 AST),Made Shot,Cutting Layup Shot,1,2,157
+22200799,221,PT08M46.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,48,27,75,v,Eason Violation:Defensive Goaltending (N.Sago),Violation,Defensive Goaltending,1,0,158
+22200799,222,PT08M46.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,48,27,75,v,Sengun S.FOUL (P2.T2) (J.Tiven),Foul,Shooting,1,0,159
+22200799,224,PT08M46.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,49,27,76,h,Dieng Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,160
+22200799,225,PT08M31.00S,2,1610612745,HOU,1630224,Green,J. Green,-64,36,7,Missed,1,49,27,76,v,MISS Green 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,161
+22200799,226,PT08M29.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,49,27,76,h,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,162
+22200799,227,PT08M24.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,15,-8,2,Made,1,51,27,78,h,Giddey 2' Cutting Layup Shot (9 PTS) (K. Williams 3 AST),Made Shot,Cutting Layup Shot,1,2,163
+22200799,229,PT08M19.00S,2,0,,1610612745,,,0,0,0,,0,51,27,78,v,Rockets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,164
+22200799,230,PT08M05.00S,2,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,23,104,11,Made,1,51,29,80,v,Washington Jr. 11' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,2,165
+22200799,231,PT07M42.00S,2,1610612760,OKC,1629026,Williams,K. Williams,-154,62,17,Made,1,53,29,82,h,K. Williams 17' Jump Shot (7 PTS) (Mann 1 AST),Made Shot,Jump Shot,1,2,166
+22200799,232,PT07M19.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,53,29,82,h,Giddey S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,0,167
+22200799,235,PT07M19.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,53,30,83,v,Eason Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,168
+22200799,236,PT07M19.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,53,30,83,v,SUB: Christopher FOR Green,Substitution,,0,0,169
+22200799,238,PT07M19.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,53,31,84,v,Eason Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,170
+22200799,239,PT07M03.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,208,147,25,Missed,1,53,31,84,h,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,171
+22200799,240,PT07M02.00S,2,0,,1610612760,,,0,0,0,,0,53,31,84,h,THUNDER Rebound,Rebound,Unknown,0,0,172
+22200799,241,PT07M02.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,53,31,84,v,Smith Jr. L.B.FOUL (P2.T3) (J.Tiven),Foul,Loose Ball,1,0,173
+22200799,243,PT07M02.00S,2,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,53,31,84,v,SUB: Martin Jr. FOR Eason,Substitution,,0,0,174
+22200799,245,PT06M58.00S,2,1610612760,OKC,1630544,Mann,T. Mann,-168,182,25,Made,1,56,31,87,h,Mann 25' 3PT Jump Shot (6 PTS) (Giddey 3 AST),Made Shot,Jump Shot,1,3,175
+22200799,247,PT06M43.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,31,54,6,Made,1,56,33,89,v,Sengun 6' Turnaround Jump Shot (8 PTS),Made Shot,Turnaround Jump Shot,1,2,176
+22200799,248,PT06M28.00S,2,1610612760,OKC,1630544,Mann,T. Mann,121,224,25,Missed,1,56,33,89,h,MISS Mann 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,177
+22200799,249,PT06M25.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,56,33,89,v,Sengun REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,178
+22200799,250,PT06M20.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,56,33,89,v,Sengun Offensive Charge Foul (P3) (J.Tiven),Foul,Offensive Charge,1,0,179
+22200799,252,PT06M20.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,56,33,89,v,Sengun Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,180
+22200799,253,PT06M20.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,56,33,89,h,SUB: Gilgeous-Alexander FOR Giddey,Substitution,,0,0,181
+22200799,255,PT06M09.00S,2,1610612760,OKC,1630544,Mann,T. Mann,17,55,6,Missed,1,56,33,89,h,MISS Mann 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,182
+22200799,255,PT06M09.00S,2,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,0,0,0,,0,56,33,89,v,Washington Jr. BLOCK (1 BLK),,,1,2,183
+22200799,257,PT06M06.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,56,33,89,v,Sengun REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,184
+22200799,258,PT06M03.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,56,33,89,v,Sengun Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,185
+22200799,258,PT06M03.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,56,33,89,h,K. Williams STEAL (1 STL),,,1,0,186
+22200799,260,PT05M56.00S,2,1610612760,OKC,1631119,Williams,J. Williams,13,3,1,Made,1,58,33,91,h,Jay. Williams 1' Running Finger Roll Layup (2 PTS) (K. Williams 4 AST),Made Shot,Running Finger Roll Layup Shot,1,2,187
+22200799,261,PT05M56.00S,2,0,,1610612745,,,0,0,0,,0,58,33,91,v,Rockets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,188
+22200799,262,PT05M56.00S,2,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,58,33,91,h,SUB: Jal. Williams FOR Mann,Substitution,,0,0,189
+22200799,264,PT05M42.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,58,33,91,v,Sengun Offensive Charge Foul (P4) (J.Tiven),Foul,Offensive Charge,1,0,190
+22200799,266,PT05M42.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,58,33,91,v,Sengun Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,1,0,191
+22200799,267,PT05M42.00S,2,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,58,33,91,v,SUB: Fernando FOR Sengun,Substitution,,0,0,192
+22200799,269,PT05M26.00S,2,1610612760,OKC,1629026,Williams,K. Williams,-228,-7,0,Made,1,61,33,94,h,K. Williams 3PT Jump Shot (10 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Jump Shot,1,3,193
+22200799,271,PT05M08.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,61,33,94,h,Jay. Williams Violation:Kicked Ball (N.Sago),Violation,Kicked Ball,0,0,194
+22200799,272,PT05M01.00S,2,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,-218,146,26,Missed,1,61,33,94,v,MISS Washington Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,195
+22200799,273,PT04M56.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,61,33,94,h,Jay. Williams REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,196
+22200799,274,PT04M55.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,61,33,94,h,Jay. Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,197
+22200799,275,PT04M42.00S,2,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,47,131,14,Made,1,61,35,96,v,Washington Jr. 14' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,198
+22200799,276,PT04M28.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,-145,197,24,Made,1,64,35,99,h,Dieng 24' 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,1,3,199
+22200799,278,PT04M16.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,-194,175,26,Made,1,64,38,102,v,Christopher 26' 3PT Jump Shot (3 PTS) (Washington Jr. 1 AST),Made Shot,Jump Shot,1,3,200
+22200799,280,PT04M04.00S,2,1610612760,OKC,1631119,Williams,J. Williams,-48,13,5,Missed,1,64,38,102,h,MISS Jay. Williams 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,201
+22200799,281,PT04M03.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,64,38,102,v,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,202
+22200799,282,PT04M03.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,64,38,102,h,Gilgeous-Alexander P.FOUL (P2.T3) (R.Hussey),Foul,Personal,1,0,203
+22200799,284,PT04M03.00S,2,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,64,38,102,h,SUB: Wiggins FOR Jay. Williams,Substitution,,0,0,204
+22200799,285,PT04M03.00S,2,1610612760,OKC,1629026,Williams,K. Williams,0,0,0,,0,64,38,102,h,SUB: Muscala FOR K. Williams,Substitution,,0,0,205
+22200799,288,PT03M55.00S,2,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,163,186,25,Made,1,64,41,105,v,Washington Jr. 25' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,1,3,206
+22200799,289,PT03M40.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,21,9,2,Missed,1,64,41,105,h,MISS Gilgeous-Alexander 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,207
+22200799,289,PT03M40.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,64,41,105,v,Christopher BLOCK (1 BLK),,,1,2,208
+22200799,290,PT03M40.00S,2,0,,1610612745,,,0,0,0,,0,64,41,105,v,Rockets Rebound,Rebound,Unknown,0,0,209
+22200799,291,PT03M32.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,23,23,3,Made,1,64,43,107,v,Christopher 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,210
+22200799,292,PT03M32.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,64,43,107,h,Dieng S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,1,0,211
+22200799,294,PT03M32.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,64,44,108,v,Christopher Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,212
+22200799,296,PT03M21.00S,2,1610612760,OKC,203488,Muscala,M. Muscala,-230,61,24,Made,1,67,44,111,h,Muscala 24' 3PT Jump Shot (9 PTS) (Jal. Williams 3 AST),Made Shot,Jump Shot,1,3,213
+22200799,298,PT03M10.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,21,253,25,Made,1,67,47,114,v,Smith Jr. 25' 3PT Jump Shot (8 PTS) (Christopher 1 AST),Made Shot,Jump Shot,1,3,214
+22200799,300,PT02M53.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-43,-4,4,Missed,1,67,47,114,h,MISS Gilgeous-Alexander 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,215
+22200799,300,PT02M53.00S,2,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,67,47,114,v,Fernando BLOCK (1 BLK),,,1,2,216
+22200799,302,PT02M49.00S,2,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,67,47,114,h,Jal. Williams REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,217
+22200799,303,PT02M44.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,67,47,114,v,Christopher S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,1,0,218
+22200799,305,PT02M44.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,68,47,115,h,Gilgeous-Alexander Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,219
+22200799,306,PT02M44.00S,2,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,68,47,115,h,SUB: Giddey FOR Dieng,Substitution,,0,0,220
+22200799,307,PT02M44.00S,2,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,68,47,115,v,SUB: Green FOR Fernando,Substitution,,0,0,221
+22200799,310,PT02M44.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,69,47,116,h,Gilgeous-Alexander Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,222
+22200799,311,PT02M27.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,69,47,116,v,Smith Jr. Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,223
+22200799,311,PT02M27.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,69,47,116,h,Giddey STEAL (2 STL),,,1,0,224
+22200799,313,PT02M22.00S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,20,10,2,Missed,1,69,47,116,h,MISS Wiggins 2' Running Layup,Missed Shot,Running Layup Shot,1,2,225
+22200799,313,PT02M22.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,69,47,116,v,Martin Jr. BLOCK (1 BLK),,,1,2,226
+22200799,315,PT02M19.00S,2,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,69,47,116,v,Martin Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,227
+22200799,316,PT02M17.00S,2,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-5,29,3,Made,1,69,49,118,v,Smith Jr. 3' Running Dunk (10 PTS) (Martin Jr. 1 AST),Made Shot,Running Dunk Shot,1,2,228
+22200799,318,PT01M56.00S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,69,49,118,v,Green S.FOUL (P1.PN) (N.Sago),Foul,Shooting,1,0,229
+22200799,320,PT01M56.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,70,49,119,h,Gilgeous-Alexander Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,230
+22200799,321,PT01M56.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,71,49,120,h,Gilgeous-Alexander Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,231
+22200799,322,PT01M38.00S,2,1610612745,HOU,1630528,Christopher,J. Christopher,-2,17,2,Made,1,71,51,122,v,Christopher 2' Driving Dunk (8 PTS) (Martin Jr. 2 AST),Made Shot,Driving Dunk Shot,1,2,232
+22200799,324,PT01M31.00S,2,1610612760,OKC,1630581,Giddey,J. Giddey,13,-1,1,Made,1,73,51,124,h,Giddey 1' Cutting Layup Shot (11 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Cutting Layup Shot,1,2,233
+22200799,326,PT01M07.00S,2,1610612745,HOU,1630231,Martin,K. Martin,-170,199,26,Missed,1,73,51,124,v,MISS Martin Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,234
+22200799,327,PT01M02.00S,2,1610612760,OKC,203488,Muscala,M. Muscala,0,0,0,,0,73,51,124,h,Muscala REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,235
+22200799,328,PT00M55.60S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,4,26,3,Made,1,75,51,126,h,Gilgeous-Alexander 3' Driving Layup (26 PTS),Made Shot,Driving Layup Shot,1,2,236
+22200799,329,PT00M48.10S,2,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,75,51,126,h,Wiggins S.FOUL (P1.PN) (R.Hussey),Foul,Shooting,1,0,237
+22200799,331,PT00M48.10S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,75,52,127,v,Green Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,238
+22200799,332,PT00M48.10S,2,1610612760,OKC,203488,Muscala,M. Muscala,0,0,0,,0,75,52,127,h,SUB: Joe FOR Muscala,Substitution,,0,0,239
+22200799,334,PT00M48.10S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,75,53,128,v,Green Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,240
+22200799,335,PT00M34.40S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,67,132,15,Made,1,77,53,130,h,Gilgeous-Alexander 15' Pullup Jump Shot (28 PTS),Made Shot,Pullup Jump shot,1,2,241
+22200799,336,PT00M11.50S,2,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,77,53,130,v,Green Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,242
+22200799,336,PT00M11.50S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,77,53,130,h,Joe STEAL (1 STL),,,1,0,243
+22200799,338,PT00M07.30S,2,1610612760,OKC,1631114,Williams,J. Williams,-10,8,1,Missed,1,77,53,130,h,MISS Jal. Williams 1' Running Layup,Missed Shot,Running Layup Shot,1,2,244
+22200799,339,PT00M07.20S,2,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,77,53,130,h,Giddey REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,245
+22200799,346,PT00M07.20S,2,1610612760,OKC,1630581,Giddey,J. Giddey,9,9,1,Made,1,79,53,132,h,Giddey 1' Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,1,2,246
+22200799,350,PT00M07.10S,2,0,,1610612760,,,0,0,0,,0,79,53,132,h,THUNDER Timeout: Coach Challenge (Full 2 Short 0),Timeout,Coach Challenge,0,0,247
+22200799,342,PT00M07.10S,2,0,,0,,,0,0,0,,0,79,53,132,,Instant Replay2nd Period (9:06 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,248
+22200799,344,PT00M07.10S,2,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,79,53,132,h,SUB: K. Williams FOR Joe,Substitution,,0,0,249
+22200799,347,PT00M00.00S,2,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,211,125,25,Missed,1,79,53,132,v,MISS Washington Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,250
+22200799,347,PT00M00.00S,2,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,79,53,132,h,Gilgeous-Alexander BLOCK (2 BLK),,,1,3,251
+22200799,349,PT00M00.00S,2,0,,1610612745,,,0,0,0,,0,79,53,132,v,Rockets Rebound,Rebound,Unknown,0,0,252
+22200799,351,PT00M00.00S,2,0,,0,,,0,0,0,,0,79,53,132,,End of 2nd Period (9:10 PM EST),period,end,1,0,253
+22200799,361,PT12M00.00S,3,0,,0,,,0,0,0,,0,79,53,132,,Start of 3rd Period (9:23 PM EST),period,start,0,0,254
+22200799,362,PT11M50.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,-15,15,2,Made,1,81,53,134,h,Wiggins 2' Cutting Layup Shot (7 PTS) (Jal. Williams 4 AST),Made Shot,Cutting Layup Shot,1,2,255
+22200799,364,PT11M34.00S,3,1610612745,HOU,1630224,Green,J. Green,234,31,24,Made,1,81,56,137,v,Green 24' 3PT Jump Shot (7 PTS) (Martin Jr. 3 AST),Made Shot,Jump Shot,1,3,256
+22200799,366,PT11M19.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,80,12,8,Missed,1,81,56,137,h,MISS Gilgeous-Alexander 8' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,257
+22200799,367,PT11M17.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,81,56,137,h,Giddey REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,258
+22200799,368,PT11M17.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,Made,1,83,56,139,h,Giddey Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,1,2,259
+22200799,369,PT11M04.00S,3,1610612745,HOU,1630224,Green,J. Green,-4,257,26,Missed,1,83,56,139,v,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,260
+22200799,370,PT11M02.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,83,56,139,h,Giddey REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,261
+22200799,371,PT10M55.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-9,15,2,Made,1,85,56,141,h,Gilgeous-Alexander 2' Cutting Layup Shot (30 PTS) (Giddey 4 AST),Made Shot,Cutting Layup Shot,1,2,262
+22200799,373,PT10M29.00S,3,1610612745,HOU,1630224,Green,J. Green,-25,25,4,Made,1,85,58,143,v,Green 4' Driving Layup (9 PTS) (Nix 5 AST),Made Shot,Driving Layup Shot,1,2,263
+22200799,374,PT10M15.00S,3,1610612760,OKC,1631114,Williams,J. Williams,170,193,26,Missed,1,85,58,143,h,MISS Jal. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,264
+22200799,375,PT10M13.00S,3,0,,1610612760,,,0,0,0,,0,85,58,143,h,THUNDER Rebound,Rebound,Unknown,1,0,265
+22200799,378,PT10M07.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,7,6,1,Made,1,87,58,145,h,Gilgeous-Alexander 1' Cutting Layup Shot (32 PTS) (Jal. Williams 5 AST),Made Shot,Cutting Layup Shot,1,2,266
+22200799,380,PT09M53.00S,3,1610612745,HOU,1630224,Green,J. Green,-200,151,25,Made,1,87,61,148,v,Green 25' 3PT Jump Shot (12 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,1,3,267
+22200799,382,PT09M39.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,-163,205,26,Missed,1,87,61,148,h,MISS Wiggins 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,268
+22200799,383,PT09M36.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,87,61,148,v,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,269
+22200799,384,PT09M25.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,-69,37,8,Missed,1,87,61,148,v,MISS Sengun 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,270
+22200799,385,PT09M23.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,87,61,148,v,Sengun REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,271
+22200799,386,PT09M23.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,Missed,1,87,61,148,v,MISS Sengun Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,272
+22200799,387,PT09M22.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,87,61,148,h,Giddey REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,273
+22200799,388,PT09M13.00S,3,1610612760,OKC,203488,Muscala,M. Muscala,-148,225,27,Made,1,90,61,151,h,Muscala 27' 3PT Jump Shot (12 PTS) (Giddey 5 AST),Made Shot,Jump Shot,1,3,274
+22200799,423,PT08M51.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-35,41,5,Missed,1,90,61,151,v,MISS Smith Jr. 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,275
+22200799,423,PT08M51.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,90,61,151,h,Giddey BLOCK (1 BLK),,,1,2,276
+22200799,425,PT08M51.00S,3,0,,1610612745,,,0,0,0,,0,90,61,151,v,Rockets Rebound,Rebound,Unknown,0,0,277
+22200799,391,PT08M47.00S,3,1610612745,HOU,1630224,Green,J. Green,-217,129,25,Missed,1,90,61,151,v,MISS Green 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,278
+22200799,392,PT08M47.00S,3,0,,1610612745,,,0,0,0,,0,90,61,151,v,Rockets Rebound,Rebound,Unknown,1,0,279
+22200799,393,PT08M47.00S,3,0,,1610612745,,,0,0,0,,0,90,61,151,v,Rockets Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,280
+22200799,395,PT08M35.00S,3,1610612760,OKC,203488,Muscala,M. Muscala,11,102,10,Made,1,92,61,153,h,Muscala 10' Fadeaway Jumper (14 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Fadeaway Jump Shot,1,2,281
+22200799,397,PT08M19.00S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,92,61,153,v,Martin Jr. Step Out of Bounds Turnover (P1.T11),Turnover,Step Out of Bounds Turnover,1,0,282
+22200799,398,PT08M13.00S,3,1610612760,OKC,203488,Muscala,M. Muscala,56,263,27,Missed,1,92,61,153,h,MISS Muscala 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,283
+22200799,399,PT08M10.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,92,61,153,h,Giddey REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,284
+22200799,400,PT08M03.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-124,235,27,Missed,1,92,61,153,h,MISS Gilgeous-Alexander 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,285
+22200799,401,PT08M00.00S,3,1610612760,OKC,203488,Muscala,M. Muscala,0,0,0,,0,92,61,153,h,Muscala REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,286
+22200799,402,PT07M56.00S,3,1610612760,OKC,203488,Muscala,M. Muscala,-66,176,19,Made,1,94,61,155,h,Muscala 19' Jump Shot (16 PTS) (Giddey 6 AST),Made Shot,Jump Shot,1,2,287
+22200799,404,PT07M42.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,-20,58,6,Made,1,94,63,157,v,Sengun 6' Turnaround Hook Shot (10 PTS) (Green 2 AST),Made Shot,Turnaround Hook Shot,1,2,288
+22200799,406,PT07M28.00S,3,1610612760,OKC,203488,Muscala,M. Muscala,59,243,25,Missed,1,94,63,157,h,MISS Muscala 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,289
+22200799,407,PT07M26.00S,3,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,94,63,157,v,Nix REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,290
+22200799,408,PT07M23.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,94,63,157,h,Gilgeous-Alexander S.FOUL (P3.T1) (N.Sago),Foul,Shooting,1,0,291
+22200799,410,PT07M23.00S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,94,64,158,v,Martin Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,292
+22200799,411,PT07M23.00S,3,1610612745,HOU,1630578,Sengun,A. Sengun,0,0,0,,0,94,64,158,v,SUB: Garuba FOR Sengun,Substitution,,0,0,293
+22200799,413,PT07M23.00S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,94,65,159,v,Martin Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,294
+22200799,414,PT07M15.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,94,65,159,v,Smith Jr. S.FOUL (P3.T1) (N.Sago),Foul,Shooting,1,0,295
+22200799,416,PT07M15.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,95,65,160,h,Jal. Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,296
+22200799,417,PT07M15.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,96,65,161,h,Jal. Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,297
+22200799,418,PT07M04.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,-224,-15,0,Missed,1,96,65,161,v,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,298
+22200799,419,PT07M00.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,96,65,161,h,Gilgeous-Alexander REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,299
+22200799,420,PT06M56.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,96,65,161,v,Garuba P.FOUL (P1.T2) (R.Hussey),Foul,Personal,1,0,300
+22200799,422,PT06M56.00S,3,0,,1610612760,,,0,0,0,,0,96,65,161,h,THUNDER Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,301
+22200799,427,PT06M38.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,16,148,15,Made,1,98,65,163,h,Gilgeous-Alexander 15' Step Back Jump Shot (34 PTS),Made Shot,Step Back Jump shot,1,2,302
+22200799,428,PT06M12.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,98,65,163,v,Garuba Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,303
+22200799,428,PT06M12.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,98,65,163,h,Giddey STEAL (3 STL),,,1,0,304
+22200799,430,PT06M00.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-15,29,3,Missed,1,98,65,163,h,MISS Gilgeous-Alexander 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,305
+22200799,431,PT05M58.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,98,65,163,v,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,306
+22200799,432,PT05M48.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,17,9,2,Made,1,98,67,165,v,Garuba 2' Cutting Layup Shot (2 PTS) (Green 3 AST),Made Shot,Cutting Layup Shot,1,2,307
+22200799,434,PT05M35.00S,3,1610612760,OKC,203488,Muscala,M. Muscala,210,148,26,Made,1,101,67,168,h,Muscala 26' 3PT Jump Shot (19 PTS) (Giddey 7 AST),Made Shot,Jump Shot,1,3,308
+22200799,436,PT05M11.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,-4,20,2,Made,1,101,69,170,v,Garuba 2' Layup (4 PTS) (Green 4 AST),Made Shot,Layup Shot,1,2,309
+22200799,438,PT04M52.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-10,8,1,Made,1,103,69,172,h,Gilgeous-Alexander 1' Driving Layup (36 PTS),Made Shot,Driving Layup Shot,1,2,310
+22200799,439,PT04M38.00S,3,1610612745,HOU,1630224,Green,J. Green,152,145,21,Missed,1,103,69,172,v,MISS Green 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,311
+22200799,440,PT04M34.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,103,69,172,h,Giddey REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,312
+22200799,441,PT04M29.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,-228,18,0,Missed,1,103,69,172,h,MISS Wiggins 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,313
+22200799,442,PT04M26.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,103,69,172,v,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,314
+22200799,444,PT04M23.00S,3,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,103,69,172,h,SUB: Joe FOR Giddey,Substitution,,0,0,315
+22200799,445,PT04M23.00S,3,1610612760,OKC,203488,Muscala,M. Muscala,0,0,0,,0,103,69,172,h,SUB: Jay. Williams FOR Muscala,Substitution,,0,0,316
+22200799,446,PT04M23.00S,3,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,103,69,172,v,SUB: Eason FOR Martin Jr.,Substitution,,0,0,317
+22200799,447,PT04M23.00S,3,1610612745,HOU,1630227,Nix,D. Nix,0,0,0,,0,103,69,172,v,SUB: Washington Jr. FOR Nix,Substitution,,0,0,318
+22200799,452,PT04M23.00S,3,0,,1610612745,,,0,0,0,,0,103,69,172,v,Rockets Violation: Delay of game Violation,Violation,Delay Of Game,0,0,319
+22200799,453,PT04M21.00S,3,1610612745,HOU,1630224,Green,J. Green,-170,189,25,Missed,1,103,69,172,v,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+22200799,454,PT04M18.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,103,69,172,h,Jal. Williams REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,321
+22200799,455,PT04M15.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,7,7,1,Made,1,105,69,174,h,Wiggins 1' Running Layup (9 PTS) (Jal. Williams 6 AST),Made Shot,Running Layup Shot,1,2,322
+22200799,457,PT04M14.00S,3,0,,1610612745,,,0,0,0,,0,105,69,174,v,Rockets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,323
+22200799,458,PT04M14.00S,3,1610612745,HOU,1630224,Green,J. Green,0,0,0,,0,105,69,174,v,SUB: Christopher FOR Green,Substitution,,0,0,324
+22200799,460,PT03M56.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,105,69,174,h,Jal. Williams S.FOUL (P1.T2) (R.Hussey),Foul,Shooting,1,0,325
+22200799,462,PT03M56.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,105,69,174,v,MISS Smith Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,326
+22200799,463,PT03M56.00S,3,0,,1610612745,,,0,0,0,,0,105,69,174,v,Rockets Rebound,Rebound,Normal Rebound,0,0,327
+22200799,464,PT03M56.00S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,0,0,0,,0,105,70,175,v,Smith Jr. Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,328
+22200799,465,PT03M46.00S,3,1610612760,OKC,1630198,Joe,I. Joe,-6,259,26,Made,1,108,70,178,h,Joe 26' 3PT Step Back Jump Shot (3 PTS) (Jal. Williams 7 AST),Made Shot,Step Back Jump shot,1,3,329
+22200799,467,PT03M24.00S,3,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,108,70,178,v,Christopher Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0,330
+22200799,467,PT03M24.00S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,108,70,178,h,Joe STEAL (2 STL),,,1,0,331
+22200799,469,PT03M21.00S,3,1610612760,OKC,1630198,Joe,I. Joe,0,17,2,Made,1,110,70,180,h,Joe 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,332
+22200799,470,PT03M21.00S,3,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,0,0,0,,0,110,70,180,v,Washington Jr. S.FOUL (P2.T3) (R.Hussey),Foul,Shooting,1,0,333
+22200799,472,PT03M21.00S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,111,70,181,h,Joe Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1,0,334
+22200799,473,PT03M10.00S,3,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,62,135,15,Missed,1,111,70,181,v,MISS Washington Jr. 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,335
+22200799,474,PT03M06.00S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,111,70,181,v,Eason REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,336
+22200799,475,PT03M06.00S,3,1610612745,HOU,1631106,Eason,T. Eason,7,-4,1,Made,1,111,72,183,v,Eason 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,337
+22200799,476,PT02M47.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,224,-9,0,Missed,1,111,72,183,h,MISS Wiggins 3PT Jump Shot,Missed Shot,Jump Shot,1,3,338
+22200799,477,PT02M45.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,111,72,183,v,Garuba REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,339
+22200799,478,PT02M40.00S,3,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,7,-1,1,Made,1,111,74,185,v,Washington Jr. 1' Running Layup (13 PTS) (Garuba 1 AST),Made Shot,Running Layup Shot,1,2,340
+22200799,479,PT02M28.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-17,22,3,Made,1,113,74,187,h,Gilgeous-Alexander 3' Driving Layup (38 PTS),Made Shot,Driving Layup Shot,1,2,341
+22200799,480,PT02M13.00S,3,1610612745,HOU,1631106,Eason,T. Eason,-28,1,3,Missed,1,113,74,187,v,MISS Eason 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,342
+22200799,481,PT02M11.00S,3,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,113,74,187,h,Jay. Williams REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,343
+22200799,482,PT02M05.00S,3,1610612760,OKC,1631119,Williams,J. Williams,-178,188,26,Made,1,116,74,190,h,Jay. Williams 26' 3PT Jump Shot (5 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Jump Shot,1,3,344
+22200799,484,PT01M45.00S,3,1610612745,HOU,1631106,Eason,T. Eason,159,199,25,Missed,1,116,74,190,v,MISS Eason 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+22200799,485,PT01M41.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,116,74,190,v,Garuba REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,346
+22200799,486,PT01M38.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,-11,3,1,Missed,1,116,74,190,v,MISS Garuba 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,347
+22200799,486,PT01M38.00S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,116,74,190,h,Wiggins BLOCK (1 BLK),,,1,2,348
+22200799,488,PT01M35.00S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,116,74,190,h,Jal. Williams REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,349
+22200799,489,PT01M27.00S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,-75,104,13,Missed,1,116,74,190,h,MISS Gilgeous-Alexander 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,350
+22200799,490,PT01M22.00S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,116,74,190,v,Garuba REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,351
+22200799,491,PT01M18.00S,3,1610612745,HOU,1630528,Christopher,J. Christopher,-11,-7,1,Made,1,116,76,192,v,Christopher 1' Running Dunk (10 PTS) (Washington Jr. 2 AST),Made Shot,Running Dunk Shot,1,2,352
+22200799,493,PT01M00.00S,3,1610612760,OKC,1630198,Joe,I. Joe,-164,214,27,Made,1,119,76,195,h,Joe 27' 3PT Jump Shot (9 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Jump Shot,1,3,353
+22200799,495,PT00M52.10S,3,1610612745,HOU,1630586,Garuba,U. Garuba,27,260,26,Missed,1,119,76,195,v,MISS Garuba 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+22200799,496,PT00M48.70S,3,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,119,76,195,h,Jal. Williams REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,355
+22200799,497,PT00M36.60S,3,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,119,76,195,v,Eason S.FOUL (P2.T4) (N.Sago),Foul,Shooting,1,0,356
+22200799,499,PT00M36.60S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,120,76,196,h,Gilgeous-Alexander Free Throw 1 of 2 (39 PTS),Free Throw,Free Throw 1 of 2,1,0,357
+22200799,500,PT00M36.60S,3,1610612760,OKC,1630598,Wiggins,A. Wiggins,0,0,0,,0,120,76,196,h,SUB: Dieng FOR Wiggins,Substitution,,0,0,358
+22200799,501,PT00M36.60S,3,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,120,76,196,v,SUB: Fernando FOR Garuba,Substitution,,0,0,359
+22200799,504,PT00M36.60S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,121,76,197,h,Gilgeous-Alexander Free Throw 2 of 2 (40 PTS),Free Throw,Free Throw 2 of 2,1,0,360
+22200799,505,PT00M29.40S,3,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,131,224,26,Made,1,121,79,200,v,Washington Jr. 26' 3PT Pullup Jump Shot (16 PTS) (Christopher 2 AST),Made Shot,Pullup Jump shot,1,3,361
+22200799,507,PT00M16.50S,3,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,0,0,0,,0,121,79,200,v,Washington Jr. S.FOUL (P3.PN) (J.Tiven),Foul,Shooting,1,0,362
+22200799,509,PT00M16.50S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,122,79,201,h,Gilgeous-Alexander Free Throw 1 of 2 (41 PTS),Free Throw,Free Throw 1 of 2,1,0,363
+22200799,510,PT00M16.50S,3,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,122,79,201,h,SUB: Bazley FOR Joe,Substitution,,0,0,364
+22200799,512,PT00M16.50S,3,1610612760,OKC,1628983,Gilgeous-Alexander,S. Gilgeous-Alexander,0,0,0,,0,123,79,202,h,Gilgeous-Alexander Free Throw 2 of 2 (42 PTS),Free Throw,Free Throw 2 of 2,1,0,365
+22200799,513,PT00M02.90S,3,1610612745,HOU,1631095,Smith Jr.,J. Smith Jr.,54,41,7,Missed,1,123,79,202,v,MISS Smith Jr. 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,366
+22200799,514,PT00M00.10S,3,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,123,79,202,v,Fernando REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,367
+22200799,515,PT00M00.10S,3,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,Made,1,123,81,204,v,Fernando Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,368
+22200799,516,PT00M00.00S,3,0,,0,,,0,0,0,,0,123,81,204,,End of 3rd Period (9:48 PM EST),period,end,1,0,369
+22200799,526,PT12M00.00S,4,0,,0,,,0,0,0,,0,123,81,204,,Start of 4th Period (9:50 PM EST),period,start,0,0,370
+22200799,527,PT11M44.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,123,81,204,h,Mann P.FOUL (P1.T1) (J.Tiven),Foul,Personal,1,0,371
+22200799,529,PT11M30.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,-16,9,2,Made,1,123,83,206,v,Christopher 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,372
+22200799,530,PT11M12.00S,4,1610612760,OKC,1630198,Joe,I. Joe,-195,205,28,Missed,1,123,83,206,h,MISS Joe 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,373
+22200799,531,PT11M10.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,123,83,206,v,Eason REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,374
+22200799,532,PT11M08.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,123,83,206,h,Dieng S.FOUL (P2.T2) (R.Hussey),Foul,Shooting,1,0,375
+22200799,534,PT11M08.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,123,84,207,v,Christopher Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,376
+22200799,535,PT11M08.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,123,85,208,v,Christopher Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,377
+22200799,536,PT10M52.00S,4,1610612760,OKC,1629647,Bazley,D. Bazley,-233,109,26,Made,1,126,85,211,h,Bazley 26' 3PT Jump Shot (3 PTS) (Giddey 8 AST),Made Shot,Jump Shot,1,3,378
+22200799,538,PT10M38.00S,4,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,164,198,26,Missed,1,126,85,211,v,MISS Washington Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,379
+22200799,539,PT10M36.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,126,85,211,v,Martin Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,380
+22200799,540,PT10M27.00S,4,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,-44,137,14,Made,1,126,87,213,v,Washington Jr. 14' Driving Floating Jump Shot (18 PTS) (Christopher 3 AST),Made Shot,Driving Floating Jump Shot,1,2,381
+22200799,542,PT10M16.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,-9,12,2,Made,1,128,87,215,h,Giddey 2' Driving Layup (17 PTS) (Mann 2 AST),Made Shot,Driving Layup Shot,1,2,382
+22200799,543,PT10M16.00S,4,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,128,87,215,v,Fernando Violation:Defensive Goaltending (R.Hussey),Violation,Defensive Goaltending,1,0,383
+22200799,544,PT09M59.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,-44,11,5,Missed,1,128,87,215,v,MISS Christopher 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,384
+22200799,544,PT09M59.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,128,87,215,h,Joe BLOCK (1 BLK),,,1,2,385
+22200799,546,PT09M59.00S,4,0,,1610612745,,,0,0,0,,0,128,87,215,v,Rockets Rebound,Rebound,Unknown,0,0,386
+22200799,548,PT09M57.00S,4,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,-64,-8,6,Missed,1,128,87,215,v,MISS Washington Jr. 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,387
+22200799,549,PT09M53.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,128,87,215,v,Eason REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,388
+22200799,550,PT09M53.00S,4,1610612745,HOU,1631106,Eason,T. Eason,4,11,1,Made,1,128,89,217,v,Eason 1' Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,1,2,389
+22200799,551,PT09M31.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-173,189,26,Made,1,131,89,220,h,Dieng 26' 3PT Jump Shot (9 PTS) (Joe 2 AST),Made Shot,Jump Shot,1,3,390
+22200799,553,PT09M16.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,131,89,220,v,Christopher Bad Pass Turnover (P2.T14),Turnover,Bad Pass,1,0,391
+22200799,553,PT09M16.00S,4,1610612760,OKC,1629647,Bazley,D. Bazley,0,0,0,,0,131,89,220,h,Bazley STEAL (1 STL),,,1,0,392
+22200799,555,PT09M11.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,131,89,220,h,Giddey Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,393
+22200799,555,PT09M11.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,131,89,220,v,Christopher STEAL (1 STL),,,1,0,394
+22200799,557,PT09M08.00S,4,1610612760,OKC,1629647,Bazley,D. Bazley,0,0,0,,0,131,89,220,h,Bazley S.FOUL (P1.T3) (N.Sago),Foul,Shooting,1,0,395
+22200799,559,PT09M08.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,131,90,221,v,Eason Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,396
+22200799,560,PT09M08.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,131,90,221,v,MISS Eason Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,397
+22200799,561,PT09M06.00S,4,0,,1610612745,,,0,0,0,,0,131,90,221,v,Rockets Rebound,Rebound,Unknown,0,0,398
+22200799,563,PT09M03.00S,4,1610612745,HOU,1631106,Eason,T. Eason,-4,31,3,Made,1,131,92,223,v,Eason 3' Driving Layup (9 PTS) (Christopher 4 AST),Made Shot,Driving Layup Shot,1,2,399
+22200799,565,PT09M03.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,131,92,223,h,Dieng S.FOUL (P3.T4) (J.Tiven),Foul,Shooting,1,0,400
+22200799,567,PT09M03.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,131,93,224,v,Eason Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,401
+22200799,568,PT08M50.00S,4,1610612760,OKC,1630544,Mann,T. Mann,-225,130,26,Missed,1,131,93,224,h,MISS Mann 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,402
+22200799,569,PT08M47.00S,4,0,,1610612760,,,0,0,0,,0,131,93,224,h,THUNDER Rebound,Rebound,Unknown,0,0,403
+22200799,571,PT08M40.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,-229,88,25,Missed,1,131,93,224,h,MISS Giddey 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,404
+22200799,572,PT08M38.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,131,93,224,v,Eason REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,405
+22200799,573,PT08M31.00S,4,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,-132,219,26,Missed,1,131,93,224,v,MISS Washington Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,406
+22200799,574,PT08M27.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,131,93,224,h,Giddey REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,407
+22200799,575,PT08M23.00S,4,1610612760,OKC,1630198,Joe,I. Joe,227,99,25,Made,1,134,93,227,h,Joe 25' 3PT Running Jump Shot (12 PTS) (Giddey 9 AST),Made Shot,Running Jump Shot,1,3,408
+22200799,577,PT08M06.00S,4,1610612745,HOU,1631106,Eason,T. Eason,-234,25,24,Made,1,134,96,230,v,Eason 24' 3PT Jump Shot (13 PTS),Made Shot,Jump Shot,1,3,409
+22200799,578,PT08M05.00S,4,0,,1610612760,,,0,0,0,,0,134,96,230,h,THUNDER Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,410
+22200799,580,PT08M05.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,134,96,230,h,SUB: Jal. Williams FOR Joe,Substitution,,0,0,411
+22200799,581,PT08M05.00S,4,1610612745,HOU,1630231,Martin,K. Martin,0,0,0,,0,134,96,230,v,SUB: Garuba FOR Martin Jr.,Substitution,,0,0,412
+22200799,585,PT07M53.00S,4,1610612760,OKC,1630544,Mann,T. Mann,12,11,2,Made,1,136,96,232,h,Mann 2' Cutting Layup Shot (8 PTS) (Giddey 10 AST),Made Shot,Cutting Layup Shot,1,2,413
+22200799,587,PT07M38.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,136,96,232,v,Christopher Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,414
+22200799,587,PT07M38.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,136,96,232,h,Mann STEAL (1 STL),,,1,0,415
+22200799,589,PT07M35.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,136,96,232,v,Christopher S.FOUL (P2.T1) (J.Tiven),Foul,Shooting,1,0,416
+22200799,591,PT07M35.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,136,96,232,h,MISS Mann Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,417
+22200799,592,PT07M35.00S,4,0,,1610612760,,,0,0,0,,0,136,96,232,h,THUNDER Rebound,Rebound,Normal Rebound,0,0,418
+22200799,593,PT07M35.00S,4,1610612760,OKC,1630581,Giddey,J. Giddey,0,0,0,,0,136,96,232,h,SUB: Jay. Williams FOR Giddey,Substitution,,0,0,419
+22200799,595,PT07M35.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,137,96,233,h,Mann Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,420
+22200799,596,PT07M19.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,233,22,0,Made,1,137,99,236,v,Garuba 3PT Jump Shot (7 PTS) (Christopher 5 AST),Made Shot,Jump Shot,1,3,421
+22200799,598,PT07M00.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,137,99,236,h,Dieng Traveling Turnover (P2.T5),Turnover,Traveling,1,0,422
+22200799,599,PT06M47.00S,4,1610612745,HOU,1631106,Eason,T. Eason,-15,-10,2,Made,1,137,101,238,v,Eason 2' Driving Layup (15 PTS) (Fernando 3 AST),Made Shot,Driving Layup Shot,1,2,423
+22200799,600,PT06M31.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,156,226,27,Missed,1,137,101,238,h,MISS Dieng 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,424
+22200799,601,PT06M27.00S,4,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,137,101,238,v,Fernando REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,425
+22200799,602,PT06M19.00S,4,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,-4,85,9,Made,1,137,103,240,v,Washington Jr. 9' Driving Floating Jump Shot (20 PTS),Made Shot,Driving Floating Jump Shot,1,2,426
+22200799,603,PT06M03.00S,4,1610612760,OKC,1629647,Bazley,D. Bazley,0,12,1,Made,1,139,103,242,h,Bazley 1' Cutting Dunk Shot (5 PTS) (Mann 3 AST),Made Shot,Cutting Dunk Shot,1,2,427
+22200799,605,PT05M50.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,139,103,242,h,Mann P.FOUL (P2.PN) (N.Sago),Foul,Personal,1,0,428
+22200799,607,PT05M50.00S,4,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,139,104,243,v,Fernando Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,429
+22200799,608,PT05M50.00S,4,1610612745,HOU,1631102,Washington Jr.,T. Washington Jr.,0,0,0,,0,139,104,243,v,SUB: Hudgins FOR Washington Jr.,Substitution,,0,0,430
+22200799,610,PT05M50.00S,4,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,139,104,243,v,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,431
+22200799,611,PT05M48.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,139,104,243,h,Jal. Williams REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,432
+22200799,612,PT05M44.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,139,104,243,h,Jal. Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,1,0,433
+22200799,613,PT05M44.00S,4,1610612745,HOU,1628981,Fernando,B. Fernando,0,0,0,,0,139,104,243,v,SUB: Marjanovic FOR Fernando,Substitution,,0,0,434
+22200799,615,PT05M23.00S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,139,104,243,h,Mann S.FOUL (P3.PN) (N.Sago),Foul,Shooting,1,0,435
+22200799,617,PT05M23.00S,4,1610612745,HOU,1631309,Hudgins,T. Hudgins,0,0,0,,0,139,105,244,v,Hudgins Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,436
+22200799,618,PT05M23.00S,4,1610612745,HOU,1631309,Hudgins,T. Hudgins,0,0,0,,0,139,106,245,v,Hudgins Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,437
+22200799,680,PT05M23.00S,4,1610612760,OKC,1631114,Williams,J. Williams,0,0,0,,0,139,106,245,h,SUB: Joe FOR Jal. Williams,Substitution,,0,0,438
+22200799,621,PT05M23.00S,4,1610612745,HOU,1631309,Hudgins,T. Hudgins,0,0,0,,0,139,107,246,v,Hudgins Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,439
+22200799,622,PT05M04.00S,4,1610612760,OKC,1630198,Joe,I. Joe,0,0,0,,0,139,107,246,h,Joe Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,1,0,440
+22200799,623,PT04M41.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,139,107,246,h,Dieng S.FOUL (P4.PN) (R.Hussey),Foul,Shooting,1,0,441
+22200799,625,PT04M41.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,139,107,246,v,MISS Christopher Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,442
+22200799,626,PT04M41.00S,4,0,,1610612745,,,0,0,0,,0,139,107,246,v,Rockets Rebound,Rebound,Normal Rebound,0,0,443
+22200799,627,PT04M41.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,139,108,247,v,Christopher Free Throw 2 of 3 (15 PTS),Free Throw,Free Throw 2 of 3,1,0,444
+22200799,628,PT04M41.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,0,0,0,,0,139,108,247,v,MISS Christopher Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,1,0,445
+22200799,629,PT04M38.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,139,108,247,h,Dieng REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,446
+22200799,631,PT04M27.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,153,202,25,Missed,1,139,108,247,h,MISS Dieng 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,447
+22200799,632,PT04M22.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,139,108,247,v,Garuba REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,448
+22200799,633,PT04M17.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,-1,131,13,Made,1,139,110,249,v,Christopher 13' Pullup Jump Shot (17 PTS) (Hudgins 1 AST),Made Shot,Pullup Jump shot,1,2,449
+22200799,634,PT04M00.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,139,110,249,h,Dieng Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,450
+22200799,634,PT04M00.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,0,0,0,,0,139,110,249,v,Garuba STEAL (1 STL),,,1,0,451
+22200799,636,PT03M55.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,139,110,249,v,Eason Out of Bounds Lost Ball Turnover (P1.T16),Turnover,Out of Bounds Lost Ball Turnover,1,0,452
+22200799,637,PT03M46.00S,4,1610612760,OKC,1630198,Joe,I. Joe,-180,209,28,Made,1,142,110,252,h,Joe 28' 3PT Jump Shot (15 PTS) (Mann 4 AST),Made Shot,Jump Shot,1,3,453
+22200799,639,PT03M29.00S,4,1610612745,HOU,1626246,Marjanović,B. Marjanović,-66,50,8,Missed,1,142,110,252,v,MISS Marjanovic 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,454
+22200799,640,PT03M28.00S,4,1610612760,OKC,1629647,Bazley,D. Bazley,0,0,0,,0,142,110,252,h,Bazley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,455
+22200799,641,PT03M17.00S,4,1610612760,OKC,1631119,Williams,J. Williams,-233,-20,0,Made,1,145,110,255,h,Jay. Williams 3PT Jump Shot (8 PTS) (Dieng 2 AST),Made Shot,Jump Shot,1,3,456
+22200799,643,PT03M03.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,145,110,255,h,Jay. Williams S.FOUL (P1.PN) (N.Sago),Foul,Shooting,1,0,457
+22200799,645,PT03M03.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,145,111,256,v,Eason Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,458
+22200799,646,PT03M03.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,145,112,257,v,Eason Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,459
+22200799,647,PT02M51.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,-61,29,7,Missed,1,145,112,257,h,MISS Dieng 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,460
+22200799,648,PT02M47.00S,4,1610612745,HOU,1626246,Marjanović,B. Marjanović,0,0,0,,0,145,112,257,v,Marjanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,461
+22200799,649,PT02M29.00S,4,1610612745,HOU,1630528,Christopher,J. Christopher,-65,111,13,Missed,1,145,112,257,v,MISS Christopher 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,462
+22200799,650,PT02M26.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,145,112,257,h,Jay. Williams REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,463
+22200799,651,PT02M18.00S,4,1610612760,OKC,1630198,Joe,I. Joe,146,204,25,Made,1,148,112,260,h,Joe 25' 3PT Jump Shot (18 PTS) (Mann 5 AST),Made Shot,Jump Shot,1,3,464
+22200799,653,PT02M03.00S,4,1610612745,HOU,1630586,Garuba,U. Garuba,-151,220,27,Made,1,148,115,263,v,Garuba 27' 3PT Jump Shot (10 PTS) (Hudgins 2 AST),Made Shot,Jump Shot,1,3,465
+22200799,655,PT01M53.00S,4,1610612760,OKC,1630198,Joe,I. Joe,167,193,26,Missed,1,148,115,263,h,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,466
+22200799,656,PT01M50.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,148,115,263,v,Eason REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,467
+22200799,657,PT01M43.00S,4,1610612745,HOU,1631106,Eason,T. Eason,-26,49,6,Missed,1,148,115,263,v,MISS Eason 6' Running Layup,Missed Shot,Running Layup Shot,1,2,468
+22200799,657,PT01M43.00S,4,1610612760,OKC,1631119,Williams,J. Williams,0,0,0,,0,148,115,263,h,Jay. Williams BLOCK (1 BLK),,,1,2,469
+22200799,659,PT01M42.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,148,115,263,v,Eason REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,470
+22200799,660,PT01M42.00S,4,1610612760,OKC,1631172,Dieng,O. Dieng,0,0,0,,0,148,115,263,h,Dieng S.FOUL (P5.PN) (J.Tiven),Foul,Shooting,1,0,471
+22200799,662,PT01M42.00S,4,0,,1610612745,,,0,0,0,,0,148,115,263,v,Rockets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,472
+22200799,665,PT01M42.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,148,116,264,v,Eason Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,473
+22200799,666,PT01M42.00S,4,1610612745,HOU,1631106,Eason,T. Eason,0,0,0,,0,148,116,264,v,MISS Eason Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,474
+22200799,667,PT01M39.00S,4,1610612760,OKC,1629647,Bazley,D. Bazley,0,0,0,,0,148,116,264,h,Bazley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,475
+22200799,668,PT01M25.00S,4,1610612760,OKC,1630544,Mann,T. Mann,-53,138,15,Made,1,150,116,266,h,Mann 15' Pullup Jump Shot (11 PTS) (Dieng 3 AST),Made Shot,Pullup Jump shot,1,2,476
+22200799,670,PT01M15.00S,4,1610612745,HOU,1626246,Marjanović,B. Marjanović,75,77,11,Made,1,150,118,268,v,Marjanovic 11' Turnaround Hook Shot (2 PTS) (Hudgins 3 AST),Made Shot,Turnaround Hook Shot,1,2,477
+22200799,672,PT00M49.80S,4,0,,1610612760,,,0,0,0,,0,150,118,268,h,THUNDER Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,1,0,478
+22200799,673,PT00M36.60S,4,1610612745,HOU,1630586,Garuba,U. Garuba,-229,31,0,Missed,1,150,118,268,v,MISS Garuba 3PT Jump Shot,Missed Shot,Jump Shot,1,3,479
+22200799,674,PT00M33.30S,4,1610612760,OKC,1630544,Mann,T. Mann,0,0,0,,0,150,118,268,h,Mann REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,480
+22200799,675,PT00M29.80S,4,1610612760,OKC,1629647,Bazley,D. Bazley,-7,291,29,Made,1,153,118,271,h,Bazley 29' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,481
+22200799,676,PT00M18.30S,4,1610612745,HOU,1630528,Christopher,J. Christopher,175,214,28,Made,1,153,121,274,v,Christopher 28' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,1,3,482
+22200799,677,PT00M00.00S,4,0,,0,,,0,0,0,,0,153,121,274,,End of 4th Period (10:18 PM EST),period,end,1,0,483

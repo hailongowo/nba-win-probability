@@ -1,0 +1,493 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22300997,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:11 PM EST),period,start,0,0,1
+22300997,4,PT12M00.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,0,0,0,h,Jump Ball Duren vs. Turner: Tip to Siakam,Jump Ball,,1,0,2
+22300997,7,PT11M41.00S,1,1610612754,IND,1626167,Turner,M. Turner,235,128,27,Missed,1,0,0,0,v,MISS Turner 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+22300997,8,PT11M38.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,0,0,0,h,Cunningham REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22300997,9,PT11M24.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,94,26,10,Made,1,2,0,2,h,Cunningham 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,5
+22300997,10,PT11M08.00S,1,1610612754,IND,1630174,Nesmith,A. Nesmith,-233,125,26,Missed,1,2,0,2,v,MISS Nesmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,6
+22300997,11,PT11M05.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,2,0,2,h,Ivey REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+22300997,12,PT10M58.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,26,-2,3,Made,1,4,0,4,h,Cunningham 3' Driving Layup (4 PTS) (Ivey 1 AST),Made Shot,Driving Layup Shot,1,2,8
+22300997,14,PT10M49.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,-22,2,2,Made,1,4,2,6,v,Nembhard 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,9
+22300997,15,PT10M31.00S,1,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,237,99,26,Missed,1,4,2,6,h,MISS Evbuomwan 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,10
+22300997,16,PT10M29.00S,1,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,4,2,6,v,Turner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+22300997,17,PT10M22.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,58,138,15,Missed,1,4,2,6,v,MISS Nembhard 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,12
+22300997,18,PT10M19.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,4,2,6,h,Duren REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,13
+22300997,19,PT10M10.00S,1,1610612765,DET,1631105,Duren,J. Duren,36,26,4,Made,1,6,2,8,h,Duren 4' Cutting Dunk Shot (2 PTS) (Cunningham 1 AST),Made Shot,Cutting Dunk Shot,1,2,14
+22300997,21,PT09M56.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,6,2,8,v,Haliburton Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,15
+22300997,21,PT09M56.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,6,2,8,h,Duren STEAL (1 STL),,,1,0,16
+22300997,23,PT09M44.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,-55,43,7,Missed,1,6,2,8,h,MISS Cunningham 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,17
+22300997,24,PT09M41.00S,1,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,6,2,8,v,Turner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,18
+22300997,25,PT09M37.00S,1,1610612754,IND,1626167,Turner,M. Turner,89,256,27,Missed,1,6,2,8,v,MISS Turner 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,19
+22300997,26,PT09M34.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,6,2,8,h,Cunningham REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,20
+22300997,27,PT09M27.00S,1,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,-33,3,3,Made,1,8,2,10,h,Evbuomwan 3' Running Layup (2 PTS) (Cunningham 2 AST),Made Shot,Running Layup Shot,1,2,21
+22300997,29,PT09M10.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,-86,168,19,Missed,1,8,2,10,v,MISS Haliburton 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,22
+22300997,30,PT09M07.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,8,2,10,h,Cunningham REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,23
+22300997,31,PT08M56.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,76,74,11,Made,1,10,2,12,h,Ivey 11' Pullup Jump Shot (2 PTS) (Cunningham 3 AST),Made Shot,Pullup Jump shot,1,2,24
+22300997,33,PT08M56.00S,1,0,,1610612754,,,0,0,0,,0,10,2,12,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,25
+22300997,34,PT08M41.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,34,53,6,Made,1,10,4,14,v,Siakam 6' Driving Floating Jump Shot (2 PTS) (Haliburton 1 AST),Made Shot,Driving Floating Jump Shot,1,2,26
+22300997,36,PT08M41.00S,1,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,0,0,0,,0,10,4,14,h,Evbuomwan S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,1,0,27
+22300997,38,PT08M41.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,10,5,15,v,Siakam Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,28
+22300997,39,PT08M27.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,10,5,15,v,Haliburton S.FOUL (P1.T1) (C.Flores),Foul,Shooting,1,0,29
+22300997,41,PT08M27.00S,1,1610612765,DET,1630649,Umude,S. Umude,0,0,0,,0,10,5,15,h,MISS Umude Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,30
+22300997,42,PT08M27.00S,1,0,,1610612765,,,0,0,0,,0,10,5,15,h,PISTONS Rebound,Rebound,Normal Rebound,0,0,31
+22300997,43,PT08M27.00S,1,1610612765,DET,1630649,Umude,S. Umude,0,0,0,,0,11,5,16,h,Umude Free Throw 2 of 3 (1 PTS),Free Throw,Free Throw 2 of 3,1,0,32
+22300997,44,PT08M27.00S,1,1610612765,DET,1630649,Umude,S. Umude,0,0,0,,0,12,5,17,h,Umude Free Throw 3 of 3 (2 PTS),Free Throw,Free Throw 3 of 3,1,0,33
+22300997,45,PT08M12.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,-234,25,24,Missed,1,12,5,17,v,MISS Siakam 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,34
+22300997,46,PT08M09.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,12,5,17,h,Duren REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,35
+22300997,47,PT08M04.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,62,79,10,Missed,1,12,5,17,h,MISS Ivey 10' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,36
+22300997,48,PT08M02.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,12,5,17,v,Haliburton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,37
+22300997,49,PT07M58.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,12,5,17,h,Duren S.FOUL (P1.T2) (C.Flores),Foul,Shooting,1,0,38
+22300997,51,PT07M58.00S,1,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,12,6,18,v,Turner Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,39
+22300997,52,PT07M58.00S,1,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,12,6,18,v,MISS Turner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,40
+22300997,53,PT07M55.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,12,6,18,h,Duren REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,41
+22300997,54,PT07M38.00S,1,1610612765,DET,1630649,Umude,S. Umude,1,71,7,Made,1,14,6,20,h,Umude 7' Pullup Jump Shot (4 PTS) (Cunningham 4 AST),Made Shot,Pullup Jump shot,1,2,42
+22300997,56,PT07M16.00S,1,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,14,6,20,v,Turner 3 Second Violation Turnover (P1.T2),Turnover,3 Second Violation,1,0,43
+22300997,57,PT07M02.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,33,4,3,Missed,1,14,6,20,h,MISS Cunningham 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,44
+22300997,58,PT07M02.00S,1,0,,1610612754,,,0,0,0,,0,14,6,20,v,Pacers Rebound,Rebound,Unknown,0,0,45
+22300997,60,PT06M44.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,-239,31,24,Made,1,14,9,23,v,Siakam 24' 3PT Jump Shot (6 PTS) (Nembhard 1 AST),Made Shot,Jump Shot,1,3,46
+22300997,62,PT06M34.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,14,9,23,v,Nembhard S.FOUL (P1.T2) (S.Wright),Foul,Shooting,1,0,47
+22300997,64,PT06M34.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,15,9,24,h,Cunningham Free Throw 1 of 3 (5 PTS),Free Throw,Free Throw 1 of 3,1,0,48
+22300997,65,PT06M34.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,16,9,25,h,Cunningham Free Throw 2 of 3 (6 PTS),Free Throw,Free Throw 2 of 3,1,0,49
+22300997,66,PT06M34.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,16,9,25,h,MISS Cunningham Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,1,0,50
+22300997,67,PT06M30.00S,1,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,16,9,25,v,Turner REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,51
+22300997,68,PT06M17.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,6,44,4,Made,1,16,11,27,v,Siakam 4' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,1,2,52
+22300997,69,PT06M03.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,99,99,14,Made,1,18,11,29,h,Cunningham 14' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,53
+22300997,70,PT05M58.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,18,11,29,v,Haliburton Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,54
+22300997,70,PT05M58.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,18,11,29,h,Ivey STEAL (1 STL),,,0,0,55
+22300997,72,PT05M53.00S,1,1610612765,DET,1630649,Umude,S. Umude,0,0,0,,0,18,11,29,h,Umude Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,56
+22300997,72,PT05M53.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,18,11,29,v,Haliburton STEAL (1 STL),,,1,0,57
+22300997,74,PT05M48.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,33,-3,3,Made,1,18,13,31,v,Siakam 3' Running Layup (10 PTS) (Haliburton 2 AST),Made Shot,Running Layup Shot,1,2,58
+22300997,76,PT05M48.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,18,13,31,h,Duren Violation:Defensive Goaltending (J.Van Duyne),Violation,Defensive Goaltending,1,0,59
+22300997,77,PT05M32.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,18,13,31,h,Cunningham Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,60
+22300997,77,PT05M32.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,18,13,31,v,Siakam STEAL (1 STL),,,1,0,61
+22300997,79,PT05M23.00S,1,1610612754,IND,1626167,Turner,M. Turner,169,207,27,Missed,1,18,13,31,v,MISS Turner 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,62
+22300997,80,PT05M20.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,18,13,31,h,Duren REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,63
+22300997,81,PT05M15.00S,1,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,66,32,7,Missed,1,18,13,31,h,MISS Evbuomwan 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,64
+22300997,82,PT05M13.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,18,13,31,v,Siakam REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,65
+22300997,83,PT05M08.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,-202,180,27,Missed,1,18,13,31,v,MISS Haliburton 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,66
+22300997,84,PT05M05.00S,1,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,0,0,0,,0,18,13,31,h,Evbuomwan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,67
+22300997,85,PT04M50.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,156,137,21,Missed,1,18,13,31,h,MISS Cunningham 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,68
+22300997,86,PT04M46.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,18,13,31,v,Haliburton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,69
+22300997,87,PT04M40.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,28,85,9,Made,1,18,15,33,v,Siakam 9' Pullup Jump Shot (12 PTS) (Haliburton 3 AST),Made Shot,Pullup Jump shot,1,2,70
+22300997,89,PT04M26.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,42,-2,4,Missed,1,18,15,33,h,MISS Ivey 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,71
+22300997,89,PT04M26.00S,1,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,18,15,33,v,Nesmith BLOCK (1 BLK),,,1,2,72
+22300997,91,PT04M26.00S,1,0,,1610612765,,,0,0,0,,0,18,15,33,h,PISTONS Rebound,Rebound,Unknown,0,0,73
+22300997,93,PT04M26.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,18,15,33,h,SUB: Fournier FOR Ivey,Substitution,,0,0,74
+22300997,94,PT04M26.00S,1,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,0,0,0,,0,18,15,33,h,SUB: Metu FOR Evbuomwan,Substitution,,0,0,75
+22300997,95,PT04M26.00S,1,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,18,15,33,v,SUB: Toppin FOR Turner,Substitution,,0,0,76
+22300997,96,PT04M26.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,18,15,33,v,SUB: Jackson FOR Siakam,Substitution,,0,0,77
+22300997,101,PT04M26.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,18,15,33,h,Duren OFF.Foul (P2) (S.Wright),Foul,Offensive,1,0,78
+22300997,103,PT04M26.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,18,15,33,h,Duren Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,79
+22300997,104,PT04M26.00S,1,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,18,15,33,h,SUB: Wiseman FOR Duren,Substitution,,0,0,80
+22300997,106,PT04M15.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,37,194,20,Made,1,18,17,35,v,Haliburton 20' Pullup Jump Shot (2 PTS) (Jackson 1 AST),Made Shot,Pullup Jump shot,1,2,81
+22300997,108,PT03M57.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,-70,53,9,Made,1,20,17,37,h,Cunningham 9' Fadeaway Jumper (10 PTS) (Wiseman 1 AST),Made Shot,Fadeaway Jump Shot,1,2,82
+22300997,110,PT03M38.00S,1,1610612754,IND,1630174,Nesmith,A. Nesmith,32,1,3,Missed,1,20,17,37,v,MISS Nesmith 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,83
+22300997,111,PT03M37.00S,1,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,20,17,37,v,Jackson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,84
+22300997,112,PT03M37.00S,1,1610612754,IND,1630543,Jackson,I. Jackson,31,-1,3,Missed,1,20,17,37,v,MISS Jackson 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,85
+22300997,113,PT03M37.00S,1,0,,1610612765,,,0,0,0,,0,20,17,37,h,PISTONS Rebound,Rebound,Unknown,0,0,86
+22300997,115,PT03M37.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,20,17,37,v,SUB: McDermott FOR Nembhard,Substitution,,0,0,87
+22300997,116,PT03M37.00S,1,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,20,17,37,v,SUB: Sheppard FOR Nesmith,Substitution,,0,0,88
+22300997,119,PT03M23.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,20,17,37,h,Cunningham Bad Pass Turnover (P2.T4),Turnover,Bad Pass,1,0,89
+22300997,119,PT03M23.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,20,17,37,v,Haliburton STEAL (2 STL),,,1,0,90
+22300997,121,PT03M20.00S,1,1610612754,IND,1630543,Jackson,I. Jackson,28,11,3,Made,1,20,19,39,v,Jackson 3' Running Layup (2 PTS) (Haliburton 4 AST),Made Shot,Running Layup Shot,1,2,91
+22300997,123,PT03M20.00S,1,0,,1610612765,,,0,0,0,,0,20,19,39,h,PISTONS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,92
+22300997,124,PT03M20.00S,1,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,20,19,39,h,SUB: Sasser FOR Cunningham,Substitution,,0,0,93
+22300997,126,PT03M04.00S,1,1610612765,DET,1630649,Umude,S. Umude,238,20,24,Missed,1,20,19,39,h,MISS Umude 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,94
+22300997,127,PT03M02.00S,1,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,20,19,39,v,Jackson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,95
+22300997,128,PT02M48.00S,1,1610612754,IND,203926,McDermott,D. McDermott,23,6,2,Made,1,20,21,41,v,McDermott 2' Cutting Layup Shot (2 PTS) (Jackson 2 AST),Made Shot,Cutting Layup Shot,1,2,96
+22300997,130,PT02M29.00S,1,1610612765,DET,203095,Fournier,E. Fournier,-34,32,5,Missed,1,20,21,41,h,MISS Fournier 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,97
+22300997,131,PT02M28.00S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,20,21,41,h,Wiseman REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,98
+22300997,132,PT02M25.00S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,20,21,41,h,Wiseman Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,99
+22300997,132,PT02M25.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,20,21,41,v,Haliburton STEAL (3 STL),,,1,0,100
+22300997,134,PT02M22.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,23,4,2,Made,1,20,23,43,v,Haliburton 2' Running Reverse Layup (4 PTS),Made Shot,Running Reverse Layup Shot,1,2,101
+22300997,135,PT02M05.00S,1,1610612765,DET,1630649,Umude,S. Umude,-233,-2,0,Missed,1,20,23,43,h,MISS Umude 3PT Jump Shot,Missed Shot,Jump Shot,1,3,102
+22300997,136,PT02M03.00S,1,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,20,23,43,v,Jackson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,103
+22300997,137,PT01M57.00S,1,1610612754,IND,1630543,Jackson,I. Jackson,-37,-3,4,Missed,1,20,23,43,v,MISS Jackson 4' Running Layup,Missed Shot,Running Layup Shot,1,2,104
+22300997,138,PT01M54.00S,1,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,20,23,43,h,Sasser REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,105
+22300997,139,PT01M49.00S,1,1610612765,DET,1629002,Metu,C. Metu,-163,199,26,Missed,1,20,23,43,h,MISS Metu 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+22300997,140,PT01M49.00S,1,0,,1610612754,,,0,0,0,,0,20,23,43,v,Pacers Rebound,Rebound,Unknown,0,0,107
+22300997,142,PT01M49.00S,1,1610612765,DET,1630649,Umude,S. Umude,0,0,0,,0,20,23,43,h,SUB: Ivey FOR Umude,Substitution,,0,0,108
+22300997,144,PT01M36.00S,1,1610612754,IND,1641767,Sheppard,B. Sheppard,-235,8,24,Missed,1,20,23,43,v,MISS Sheppard 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,109
+22300997,145,PT01M35.00S,1,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,20,23,43,v,Toppin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,110
+22300997,146,PT01M31.00S,1,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,20,23,43,v,McDermott Traveling Turnover (P1.T4),Turnover,Traveling,1,0,111
+22300997,147,PT01M31.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,20,23,43,v,SUB: McConnell FOR Haliburton,Substitution,,0,0,112
+22300997,149,PT01M13.00S,1,1610612765,DET,1629002,Metu,C. Metu,55,24,6,Missed,1,20,23,43,h,MISS Metu 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,113
+22300997,150,PT01M11.00S,1,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,20,23,43,v,McDermott REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+22300997,151,PT01M04.00S,1,1610612754,IND,203926,McDermott,D. McDermott,153,215,26,Made,1,20,26,46,v,McDermott 26' 3PT Jump Shot (5 PTS) (Sheppard 1 AST),Made Shot,Jump Shot,1,3,115
+22300997,153,PT00M41.30S,1,1610612765,DET,1631093,Ivey,J. Ivey,-23,3,2,Made,1,22,26,48,h,Ivey 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,116
+22300997,154,PT00M30.00S,1,1610612754,IND,204456,McConnell,T. McConnell,97,-21,10,Missed,1,22,26,48,v,MISS McConnell 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,117
+22300997,155,PT00M27.40S,1,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,22,26,48,h,Wiseman REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,118
+22300997,156,PT00M25.90S,1,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,22,26,48,v,Sheppard S.FOUL (P1.T3) (C.Flores),Foul,Shooting,1,0,119
+22300997,158,PT00M25.90S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,23,26,49,h,Ivey Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,120
+22300997,159,PT00M25.90S,1,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,23,26,49,h,SUB: Umude FOR Sasser,Substitution,,0,0,121
+22300997,161,PT00M25.90S,1,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,24,26,50,h,Ivey Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,122
+22300997,162,PT00M02.80S,1,1610612754,IND,1630167,Toppin,O. Toppin,-237,29,24,Made,1,24,29,53,v,Toppin 24' 3PT Jump Shot (3 PTS) (McConnell 1 AST),Made Shot,Jump Shot,1,3,123
+22300997,164,PT00M00.00S,1,1610612765,DET,1631093,Ivey,J. Ivey,190,621,65,Missed,1,24,29,53,h,MISS Ivey 65' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,124
+22300997,165,PT00M00.00S,1,0,,1610612765,,,0,0,0,,0,24,29,53,h,PISTONS Rebound,Rebound,Unknown,0,0,125
+22300997,166,PT00M00.00S,1,0,,0,,,0,0,0,,0,24,29,53,,End of 1st Period (7:37 PM EST),period,end,1,0,126
+22300997,169,PT12M00.00S,2,0,,0,,,0,0,0,,0,24,29,53,,Start of 2nd Period (7:39 PM EST),period,start,0,0,127
+22300997,217,PT11M43.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,24,29,53,h,Ivey Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,128
+22300997,217,PT11M43.00S,2,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,24,29,53,v,McDermott STEAL (1 STL),,,1,0,129
+22300997,172,PT11M39.00S,2,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,24,29,53,v,McConnell Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,130
+22300997,172,PT11M39.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,24,29,53,h,Ivey STEAL (2 STL),,,1,0,131
+22300997,174,PT11M28.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,24,29,53,h,Ivey Lost Ball Turnover (P2.T7),Turnover,Lost Ball,1,0,132
+22300997,174,PT11M28.00S,2,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,24,29,53,v,Jackson STEAL (1 STL),,,1,0,133
+22300997,176,PT11M08.00S,2,1610612754,IND,204456,McConnell,T. McConnell,-29,10,3,Missed,1,24,29,53,v,MISS McConnell 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,134
+22300997,177,PT11M05.00S,2,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,24,29,53,h,Wiseman REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,135
+22300997,178,PT10M52.00S,2,1610612765,DET,203095,Fournier,E. Fournier,48,24,5,Missed,1,24,29,53,h,MISS Fournier 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,136
+22300997,179,PT10M50.00S,2,1610612765,DET,203095,Fournier,E. Fournier,0,0,0,,0,24,29,53,h,Fournier REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,137
+22300997,180,PT10M48.00S,2,1610612765,DET,1631204,Sasser,M. Sasser,-72,253,26,Made,1,27,29,56,h,Sasser 26' 3PT Jump Shot (3 PTS) (Fournier 1 AST),Made Shot,Jump Shot,1,3,138
+22300997,182,PT10M33.00S,2,1610612754,IND,1641767,Sheppard,B. Sheppard,31,1,3,Made,1,27,31,58,v,Sheppard 3' Driving Layup (2 PTS) (Jackson 3 AST),Made Shot,Driving Layup Shot,1,2,139
+22300997,184,PT10M20.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,22,6,2,Made,1,29,31,60,h,Ivey 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,140
+22300997,185,PT10M00.00S,2,1610612754,IND,204456,McConnell,T. McConnell,-238,25,24,Made,1,29,34,63,v,McConnell 24' 3PT Jump Shot (3 PTS) (Sheppard 2 AST),Made Shot,Jump Shot,1,3,141
+22300997,187,PT09M46.00S,2,1610612765,DET,203095,Fournier,E. Fournier,-54,255,26,Missed,1,29,34,63,h,MISS Fournier 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,142
+22300997,188,PT09M43.00S,2,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,29,34,63,v,Jackson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,143
+22300997,189,PT09M36.00S,2,1610612754,IND,1630167,Toppin,O. Toppin,227,153,27,Missed,1,29,34,63,v,MISS Toppin 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+22300997,190,PT09M32.00S,2,1610612765,DET,203095,Fournier,E. Fournier,0,0,0,,0,29,34,63,h,Fournier REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,145
+22300997,191,PT09M27.00S,2,1610612765,DET,203095,Fournier,E. Fournier,53,89,10,Made,1,31,34,65,h,Fournier 10' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,1,2,146
+22300997,193,PT09M11.00S,2,1610612765,DET,1629002,Metu,C. Metu,0,0,0,,0,31,34,65,h,SUB: Evbuomwan FOR Metu,Substitution,,0,0,147
+22300997,194,PT09M11.00S,2,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,31,34,65,v,SUB: Nesmith FOR McDermott,Substitution,,0,0,148
+22300997,195,PT09M11.00S,2,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,31,34,65,v,SUB: Turner FOR Jackson,Substitution,,0,0,149
+22300997,199,PT09M01.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,-40,268,27,Missed,1,31,34,65,v,MISS Nesmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,150
+22300997,200,PT09M01.00S,2,0,,1610612765,,,0,0,0,,0,31,34,65,h,PISTONS Rebound,Rebound,Unknown,0,0,151
+22300997,202,PT08M44.00S,2,1610612765,DET,1630164,Wiseman,J. Wiseman,-53,9,5,Missed,1,31,34,65,h,MISS Wiseman 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,152
+22300997,203,PT08M42.00S,2,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,31,34,65,v,Toppin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,153
+22300997,204,PT08M25.00S,2,1610612754,IND,1641767,Sheppard,B. Sheppard,237,7,24,Made,1,31,37,68,v,Sheppard 24' 3PT Jump Shot (5 PTS) (McConnell 2 AST),Made Shot,Jump Shot,1,3,154
+22300997,206,PT08M14.00S,2,1610612765,DET,1631204,Sasser,M. Sasser,-2,262,26,Missed,1,31,37,68,h,MISS Sasser 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,155
+22300997,207,PT08M11.00S,2,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,31,37,68,v,Sheppard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,156
+22300997,208,PT08M02.00S,2,1610612754,IND,204456,McConnell,T. McConnell,-25,265,27,Missed,1,31,37,68,v,MISS McConnell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,157
+22300997,209,PT07M59.00S,2,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,31,37,68,h,Wiseman REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,158
+22300997,210,PT07M50.00S,2,1610612765,DET,1630164,Wiseman,J. Wiseman,-17,66,7,Missed,1,31,37,68,h,MISS Wiseman 7' Jump Shot,Missed Shot,Jump Shot,1,2,159
+22300997,211,PT07M48.00S,2,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,31,37,68,v,McConnell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,160
+22300997,212,PT07M47.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,31,37,68,h,Ivey S.FOUL (P1.T1) (C.Flores),Foul,Shooting,1,0,161
+22300997,214,PT07M47.00S,2,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,31,38,69,v,Toppin Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,162
+22300997,215,PT07M47.00S,2,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,31,38,69,h,SUB: Duren FOR Wiseman,Substitution,,0,0,163
+22300997,219,PT07M47.00S,2,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,31,39,70,v,Toppin Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,164
+22300997,220,PT07M27.00S,2,1610612765,DET,1631204,Sasser,M. Sasser,-234,-4,0,Made,1,34,39,73,h,Sasser 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,1,3,165
+22300997,221,PT07M16.00S,2,1610612754,IND,204456,McConnell,T. McConnell,-25,-1,3,Made,1,34,41,75,v,McConnell 3' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,1,2,166
+22300997,222,PT07M05.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,34,41,75,v,Turner S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,1,0,167
+22300997,224,PT07M05.00S,2,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,0,0,0,,0,35,41,76,h,Evbuomwan Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,168
+22300997,225,PT07M05.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,35,41,76,h,SUB: Cunningham FOR Ivey,Substitution,,0,0,169
+22300997,226,PT07M05.00S,2,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,35,41,76,v,SUB: Siakam FOR Toppin,Substitution,,0,0,170
+22300997,229,PT07M05.00S,2,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,0,0,0,,0,36,41,77,h,Evbuomwan Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,171
+22300997,230,PT06M45.00S,2,1610612754,IND,1626167,Turner,M. Turner,45,54,7,Missed,1,36,41,77,v,MISS Turner 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,172
+22300997,231,PT06M42.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,36,41,77,h,Duren REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,173
+22300997,232,PT06M33.00S,2,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,36,41,77,v,Pacers T.Foul (Def. 3 Sec Siakam ) (J.Van Duyne),Foul,Defense 3 Second,1,0,174
+22300997,233,PT06M33.00S,2,0,,1610612765,,,0,0,0,,0,36,41,77,h,PISTONS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,175
+22300997,234,PT06M33.00S,2,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,36,41,77,v,SUB: Nembhard FOR Sheppard,Substitution,,0,0,176
+22300997,236,PT06M33.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,37,41,78,h,Cunningham Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,1,0,177
+22300997,237,PT06M20.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,-13,27,3,Made,1,39,41,80,h,Cunningham 3' Floating Jump Shot (13 PTS),Made Shot,Floating Jump shot,1,2,178
+22300997,238,PT06M07.00S,2,1610612754,IND,204456,McConnell,T. McConnell,59,84,10,Made,1,39,43,82,v,McConnell 10' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,179
+22300997,239,PT05M50.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,38,-2,4,Made,1,41,43,84,h,Cunningham 4' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,180
+22300997,240,PT05M33.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,174,118,21,Made,1,41,45,86,v,Nesmith 21' Jump Shot (2 PTS) (Nembhard 2 AST),Made Shot,Jump Shot,1,2,181
+22300997,242,PT05M06.00S,2,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,-18,27,3,Made,1,43,45,88,h,Evbuomwan 3' Driving Floating Jump Shot (6 PTS) (Fournier 2 AST),Made Shot,Driving Floating Jump Shot,1,2,182
+22300997,244,PT04M46.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,163,207,26,Made,1,43,48,91,v,Nesmith 26' 3PT Jump Shot (5 PTS) (Turner 1 AST),Made Shot,Jump Shot,1,3,183
+22300997,246,PT04M24.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,-39,63,7,Made,1,45,48,93,h,Cunningham 7' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,1,2,184
+22300997,247,PT04M19.00S,2,0,,1610612754,,,0,0,0,,0,45,48,93,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,185
+22300997,248,PT04M19.00S,2,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,45,48,93,h,SUB: Umude FOR Sasser,Substitution,,0,0,186
+22300997,249,PT04M19.00S,2,1610612765,DET,203095,Fournier,E. Fournier,0,0,0,,0,45,48,93,h,SUB: Ivey FOR Fournier,Substitution,,0,0,187
+22300997,250,PT04M19.00S,2,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,45,48,93,v,SUB: Haliburton FOR McConnell,Substitution,,0,0,188
+22300997,254,PT04M13.00S,2,1610612754,IND,1627783,Siakam,P. Siakam,-124,112,17,Missed,1,45,48,93,v,MISS Siakam 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,189
+22300997,255,PT04M09.00S,2,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,0,0,0,,0,45,48,93,h,Evbuomwan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,190
+22300997,256,PT03M54.00S,2,1610612765,DET,1630649,Umude,S. Umude,100,89,13,Made,1,47,48,95,h,Umude 13' Pullup Jump Shot (6 PTS) (Cunningham 5 AST),Made Shot,Pullup Jump shot,1,2,191
+22300997,258,PT03M44.00S,2,1610612765,DET,1630649,Umude,S. Umude,0,0,0,,0,47,48,95,h,Umude S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,1,0,192
+22300997,260,PT03M44.00S,2,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,47,48,95,v,MISS Siakam Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,193
+22300997,261,PT03M44.00S,2,0,,1610612754,,,0,0,0,,0,47,48,95,v,Pacers Rebound,Rebound,Normal Rebound,0,0,194
+22300997,262,PT03M44.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,47,48,95,v,SUB: Jackson FOR Turner,Substitution,,0,0,195
+22300997,264,PT03M44.00S,2,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,47,49,96,v,Siakam Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,196
+22300997,265,PT03M18.00S,2,1610612765,DET,1631093,Ivey,J. Ivey,-28,6,3,Missed,1,47,49,96,h,MISS Ivey 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,197
+22300997,266,PT03M18.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,47,49,96,h,Duren REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,198
+22300997,267,PT03M18.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,Missed,1,47,49,96,h,MISS Duren Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,199
+22300997,268,PT03M18.00S,2,0,,1610612754,,,0,0,0,,0,47,49,96,v,Pacers Rebound,Rebound,Unknown,0,0,200
+22300997,270,PT03M04.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,-27,115,12,Made,1,47,51,98,v,Nesmith 12' Pullup Jump Shot (7 PTS) (Jackson 4 AST),Made Shot,Pullup Jump shot,1,2,201
+22300997,272,PT02M47.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,47,51,98,v,Nembhard S.FOUL (P2.T2) (C.Flores),Foul,Shooting,1,0,202
+22300997,274,PT02M47.00S,2,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,0,0,0,,0,48,51,99,h,Evbuomwan Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,203
+22300997,275,PT02M47.00S,2,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,0,0,0,,0,48,51,99,h,MISS Evbuomwan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,204
+22300997,276,PT02M44.00S,2,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,48,51,99,v,Siakam REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,205
+22300997,277,PT02M29.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,-233,54,24,Missed,1,48,51,99,v,MISS Nembhard 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,206
+22300997,278,PT02M26.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,48,51,99,h,Cunningham REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,207
+22300997,279,PT02M23.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,49,-1,5,Missed,1,48,51,99,h,MISS Cunningham 5' Running Layup,Missed Shot,Running Layup Shot,1,2,208
+22300997,280,PT02M19.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,48,51,99,h,Duren REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,209
+22300997,281,PT02M19.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,Made,1,50,51,101,h,Duren Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,1,2,210
+22300997,282,PT02M02.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,234,18,0,Made,1,50,54,104,v,Nembhard 3PT Jump Shot (5 PTS) (Siakam 1 AST),Made Shot,Jump Shot,1,3,211
+22300997,284,PT01M41.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,169,131,21,Missed,1,50,54,104,h,MISS Cunningham 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,212
+22300997,285,PT01M38.00S,2,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,50,54,104,v,Jackson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,213
+22300997,286,PT01M32.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,11,34,4,Missed,1,50,54,104,v,MISS Nesmith 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,214
+22300997,286,PT01M32.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,50,54,104,h,Duren BLOCK (1 BLK),,,1,2,215
+22300997,287,PT01M30.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,50,54,104,h,Cunningham REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,216
+22300997,288,PT01M27.00S,2,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,21,0,2,Made,1,52,54,106,h,Evbuomwan 2' Running Layup (9 PTS) (Cunningham 6 AST),Made Shot,Running Layup Shot,1,2,217
+22300997,290,PT01M18.00S,2,1610612754,IND,1630169,Haliburton,T. Haliburton,-20,4,2,Made,1,52,56,108,v,Haliburton 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,218
+22300997,291,PT01M18.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,52,56,108,h,Duren S.FOUL (P3.T3) (J.Van Duyne),Foul,Shooting,1,0,219
+22300997,293,PT01M18.00S,2,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,52,56,108,h,SUB: Wiseman FOR Duren,Substitution,,0,0,220
+22300997,295,PT01M18.00S,2,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,52,56,108,v,MISS Haliburton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,221
+22300997,296,PT01M17.00S,2,0,,1610612754,,,0,0,0,,0,52,56,108,v,Pacers Rebound,Rebound,Unknown,0,0,222
+22300997,298,PT01M10.00S,2,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,52,56,108,h,Wiseman S.FOUL (P1.PN) (C.Flores),Foul,Shooting,1,0,223
+22300997,300,PT01M10.00S,2,0,,1610612765,,,0,0,0,,0,52,56,108,h,PISTONS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,224
+22300997,301,PT01M10.00S,2,0,,298,,,0,0,0,,0,52,56,108,,Instant Replay2nd Period (8:02 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,225
+22300997,303,PT01M10.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,52,57,109,v,Nesmith Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,226
+22300997,304,PT01M10.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,52,58,110,v,Nesmith Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,227
+22300997,305,PT00M55.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,52,58,110,h,Cunningham Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,228
+22300997,305,PT00M55.00S,2,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,52,58,110,v,Jackson STEAL (2 STL),,,1,0,229
+22300997,307,PT00M47.40S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,165,214,27,Made,1,52,61,113,v,Nesmith 27' 3PT Jump Shot (12 PTS) (Siakam 2 AST),Made Shot,Jump Shot,1,3,230
+22300997,309,PT00M26.20S,2,1610612765,DET,1631093,Ivey,J. Ivey,-88,124,15,Missed,1,52,61,113,h,MISS Ivey 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,231
+22300997,310,PT00M23.10S,2,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,52,61,113,v,Jackson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,232
+22300997,311,PT00M04.30S,2,1610612754,IND,1630169,Haliburton,T. Haliburton,33,5,3,Made,1,52,63,115,v,Haliburton 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,233
+22300997,312,PT00M00.00S,2,1610612765,DET,1630595,Cunningham,C. Cunningham,195,255,32,Missed,1,52,63,115,h,MISS Cunningham 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,234
+22300997,313,PT00M00.00S,2,0,,1610612765,,,0,0,0,,0,52,63,115,h,PISTONS Rebound,Rebound,Unknown,0,0,235
+22300997,314,PT00M00.00S,2,0,,0,,,0,0,0,,0,52,63,115,,End of 2nd Period (8:06 PM EST),period,end,1,0,236
+22300997,319,PT12M00.00S,3,0,,0,,,0,0,0,,0,52,63,115,,Start of 3rd Period (8:21 PM EST),period,start,0,0,237
+22300997,320,PT11M42.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,34,36,5,Made,1,54,63,117,h,Ivey 5' Driving Floating Jump Shot (10 PTS) (Cunningham 7 AST),Made Shot,Driving Floating Jump Shot,1,2,238
+22300997,322,PT11M25.00S,3,1610612754,IND,1630174,Nesmith,A. Nesmith,-240,8,24,Missed,1,54,63,117,v,MISS Nesmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,239
+22300997,323,PT11M22.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,54,63,117,h,Cunningham REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,240
+22300997,324,PT11M16.00S,3,1610612765,DET,1630649,Umude,S. Umude,-240,2,24,Missed,1,54,63,117,h,MISS Umude 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,241
+22300997,325,PT11M12.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,54,63,117,v,Siakam REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,242
+22300997,326,PT11M09.00S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,175,192,26,Missed,1,54,63,117,v,MISS Haliburton 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,243
+22300997,327,PT11M05.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,54,63,117,v,Turner REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,244
+22300997,328,PT10M56.00S,3,1610612754,IND,1626167,Turner,M. Turner,-29,122,13,Missed,1,54,63,117,v,MISS Turner 13' Jump Shot,Missed Shot,Jump Shot,1,2,245
+22300997,329,PT10M54.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,54,63,117,h,Duren REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,246
+22300997,330,PT10M44.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,123,122,17,Missed,1,54,63,117,h,MISS Cunningham 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,247
+22300997,331,PT10M43.00S,3,0,,1610612765,,,0,0,0,,0,54,63,117,h,PISTONS Rebound,Rebound,Unknown,0,0,248
+22300997,332,PT10M43.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,54,63,117,v,Turner L.B.FOUL (P2.T1) (J.Van Duyne),Foul,Loose Ball,1,0,249
+22300997,334,PT10M43.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,54,63,117,v,SUB: Jackson FOR Turner,Substitution,,0,0,250
+22300997,336,PT10M32.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,85,112,14,Missed,1,54,63,117,h,MISS Cunningham 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,251
+22300997,337,PT10M30.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,54,63,117,h,Duren REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,252
+22300997,338,PT10M28.00S,3,1610612765,DET,1631105,Duren,J. Duren,-40,16,4,Missed,1,54,63,117,h,MISS Duren 4' Layup,Missed Shot,Layup Shot,1,2,253
+22300997,339,PT10M26.00S,3,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,54,63,117,v,Jackson REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,254
+22300997,340,PT10M24.00S,3,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,0,0,0,,0,54,63,117,h,Evbuomwan P.FOUL (P2.T1) (J.Van Duyne),Foul,Personal,1,0,255
+22300997,342,PT10M17.00S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,0,51,5,Made,1,54,65,119,v,Haliburton 5' Driving Floating Jump Shot (10 PTS) (Nembhard 3 AST),Made Shot,Driving Floating Jump Shot,1,2,256
+22300997,344,PT09M55.00S,3,1610612765,DET,1631105,Duren,J. Duren,32,54,6,Missed,1,54,65,119,h,MISS Duren 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,257
+22300997,345,PT09M51.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,54,65,119,v,Siakam REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,258
+22300997,346,PT09M41.00S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,36,9,4,Made,1,54,67,121,v,Haliburton 4' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,259
+22300997,347,PT09M25.00S,3,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,54,67,121,v,Nesmith S.FOUL (P1.T2) (C.Flores),Foul,Shooting,1,0,260
+22300997,349,PT09M25.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,55,67,122,h,Cunningham Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,1,0,261
+22300997,350,PT09M25.00S,3,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,55,67,122,v,SUB: Turner FOR Jackson,Substitution,,0,0,262
+22300997,352,PT09M25.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,56,67,123,h,Cunningham Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,1,0,263
+22300997,353,PT09M05.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,-44,25,5,Missed,1,56,67,123,v,MISS Siakam 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,264
+22300997,354,PT09M03.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,56,67,123,h,Duren REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,265
+22300997,355,PT08M59.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,36,7,4,Missed,1,56,67,123,h,MISS Cunningham 4' Running Layup,Missed Shot,Running Layup Shot,1,2,266
+22300997,355,PT08M59.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,56,67,123,v,Turner BLOCK (1 BLK),,,1,2,267
+22300997,357,PT08M56.00S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,56,67,123,v,Haliburton REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,268
+22300997,358,PT08M55.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,27,5,3,Made,1,56,69,125,v,Nembhard 3' Running Layup (7 PTS) (Haliburton 5 AST),Made Shot,Running Layup Shot,1,2,269
+22300997,360,PT08M39.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,51,-6,5,Missed,1,56,69,125,h,MISS Cunningham 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,270
+22300997,361,PT08M36.00S,3,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,56,69,125,v,Nesmith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,271
+22300997,362,PT08M30.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,-20,20,3,Made,1,56,71,127,v,Siakam 3' Turnaround Hook Shot (15 PTS) (Haliburton 6 AST),Made Shot,Turnaround Hook Shot,1,2,272
+22300997,364,PT08M30.00S,3,0,,1610612765,,,0,0,0,,0,56,71,127,h,PISTONS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,273
+22300997,365,PT08M18.00S,3,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,56,71,127,v,Nesmith P.FOUL (P2.T3) (J.Van Duyne),Foul,Personal,1,0,274
+22300997,367,PT08M09.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,94,253,27,Made,1,59,71,130,h,Ivey 27' 3PT Jump Shot (13 PTS) (Cunningham 8 AST),Made Shot,Jump Shot,1,3,275
+22300997,369,PT07M52.00S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,44,5,4,Made,1,59,73,132,v,Haliburton 4' Driving Layup (14 PTS) (Siakam 3 AST),Made Shot,Driving Layup Shot,1,2,276
+22300997,371,PT07M52.00S,3,1610612765,DET,1630649,Umude,S. Umude,0,0,0,,0,59,73,132,h,Umude S.FOUL (P2.T2) (C.Flores),Foul,Shooting,1,0,277
+22300997,373,PT07M52.00S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,59,74,133,v,Haliburton Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,1,0,278
+22300997,374,PT07M39.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,59,74,133,v,Turner S.FOUL (P3.T4) (C.Flores),Foul,Shooting,1,0,279
+22300997,376,PT07M39.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,59,74,133,h,MISS Ivey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,280
+22300997,377,PT07M39.00S,3,0,,1610612765,,,0,0,0,,0,59,74,133,h,PISTONS Rebound,Rebound,Normal Rebound,0,0,281
+22300997,378,PT07M39.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,59,74,133,h,MISS Ivey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,282
+22300997,379,PT07M36.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,59,74,133,v,Turner REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,283
+22300997,380,PT07M19.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,-239,-8,24,Made,1,59,77,136,v,Siakam 24' 3PT Jump Shot (18 PTS) (Turner 2 AST),Made Shot,Jump Shot,1,3,284
+22300997,382,PT07M05.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,59,77,136,h,Cunningham Bad Pass Turnover (P4.T9),Turnover,Bad Pass,1,0,285
+22300997,382,PT07M05.00S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,59,77,136,v,Haliburton STEAL (4 STL),,,1,0,286
+22300997,384,PT07M00.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,39,4,4,Made,1,59,79,138,v,Siakam 4' Running Layup (20 PTS) (Turner 3 AST),Made Shot,Running Layup Shot,1,2,287
+22300997,386,PT07M00.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,59,79,138,h,Cunningham S.FOUL (P1.T3) (S.Wright),Foul,Shooting,1,0,288
+22300997,388,PT07M00.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,59,79,138,v,MISS Siakam Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,289
+22300997,389,PT06M57.00S,3,1610612765,DET,1630649,Umude,S. Umude,0,0,0,,0,59,79,138,h,Umude REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,290
+22300997,390,PT06M39.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-28,69,7,Missed,1,59,79,138,h,MISS Cunningham 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,291
+22300997,391,PT06M37.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,59,79,138,v,Siakam REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,292
+22300997,392,PT06M31.00S,3,1610612765,DET,1630649,Umude,S. Umude,0,0,0,,0,59,79,138,h,Umude S.FOUL (P3.T4) (S.Wright),Foul,Shooting,1,0,293
+22300997,394,PT06M31.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,59,79,138,v,MISS Siakam Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,294
+22300997,395,PT06M31.00S,3,0,,1610612754,,,0,0,0,,0,59,79,138,v,Pacers Rebound,Rebound,Normal Rebound,0,0,295
+22300997,396,PT06M31.00S,3,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,0,0,0,,0,59,79,138,h,SUB: Metu FOR Evbuomwan,Substitution,,0,0,296
+22300997,398,PT06M31.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,59,80,139,v,Siakam Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,297
+22300997,399,PT06M14.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,118,243,27,Missed,1,59,80,139,h,MISS Cunningham 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,298
+22300997,400,PT06M11.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,59,80,139,v,Siakam REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,299
+22300997,401,PT05M58.00S,3,1610612754,IND,1630174,Nesmith,A. Nesmith,-43,10,4,Made,1,59,82,141,v,Nesmith 4' Layup (14 PTS) (Haliburton 7 AST),Made Shot,Layup Shot,1,2,300
+22300997,403,PT05M45.00S,3,1610612765,DET,1630649,Umude,S. Umude,20,38,4,Made,1,61,82,143,h,Umude 4' Driving Floating Jump Shot (8 PTS) (Duren 1 AST),Made Shot,Driving Floating Jump Shot,1,2,301
+22300997,405,PT05M36.00S,3,1610612754,IND,1626167,Turner,M. Turner,9,47,5,Made,1,61,84,145,v,Turner 5' Driving Dunk (3 PTS) (Haliburton 8 AST),Made Shot,Driving Dunk Shot,1,2,302
+22300997,407,PT05M20.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,61,117,13,Missed,1,61,84,145,h,MISS Ivey 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,303
+22300997,408,PT05M18.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,61,84,145,v,Siakam REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,304
+22300997,409,PT05M14.00S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,189,198,27,Made,1,61,87,148,v,Haliburton 27' 3PT Running Jump Shot (18 PTS) (Siakam 4 AST),Made Shot,Running Jump Shot,1,3,305
+22300997,411,PT05M14.00S,3,0,,1610612765,,,0,0,0,,0,61,87,148,h,PISTONS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,306
+22300997,412,PT05M14.00S,3,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,61,87,148,h,SUB: Wiseman FOR Duren,Substitution,,0,0,307
+22300997,414,PT04M58.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,55,16,6,Missed,1,61,87,148,h,MISS Cunningham 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,308
+22300997,414,PT04M58.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,61,87,148,v,Turner BLOCK (2 BLK),,,1,2,309
+22300997,416,PT04M57.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,61,87,148,h,Wiseman REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,310
+22300997,417,PT04M57.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,26,25,4,Missed,1,61,87,148,h,MISS Wiseman 4' Layup,Missed Shot,Layup Shot,1,2,311
+22300997,418,PT04M57.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,61,87,148,h,Wiseman REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,312
+22300997,419,PT04M57.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,61,87,148,v,Turner S.FOUL (P4.PN) (S.Wright),Foul,Shooting,1,0,313
+22300997,421,PT04M57.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,62,87,149,h,Wiseman Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,314
+22300997,422,PT04M57.00S,3,1610612765,DET,1630649,Umude,S. Umude,0,0,0,,0,62,87,149,h,SUB: Fournier FOR Umude,Substitution,,0,0,315
+22300997,423,PT04M57.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,62,87,149,v,SUB: Jackson FOR Turner,Substitution,,0,0,316
+22300997,426,PT04M57.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,63,87,150,h,Wiseman Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,317
+22300997,427,PT04M46.00S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,162,127,21,Missed,1,63,87,150,v,MISS Haliburton 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,318
+22300997,428,PT04M44.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,63,87,150,h,Ivey REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,319
+22300997,429,PT04M37.00S,3,1610612765,DET,1629002,Metu,C. Metu,-59,8,6,Made,1,65,87,152,h,Metu 6' Turnaround Hook Shot (2 PTS) (Ivey 2 AST),Made Shot,Turnaround Hook Shot,1,2,320
+22300997,431,PT04M30.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,65,87,152,h,Wiseman S.FOUL (P2.PN) (S.Wright),Foul,Shooting,1,0,321
+22300997,433,PT04M30.00S,3,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,65,88,153,v,Jackson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,322
+22300997,434,PT04M30.00S,3,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,65,88,153,h,SUB: Sasser FOR Ivey,Substitution,,0,0,323
+22300997,436,PT04M30.00S,3,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,65,88,153,v,MISS Jackson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,324
+22300997,437,PT04M27.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,65,88,153,h,Wiseman REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,325
+22300997,438,PT04M15.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-98,130,16,Made,1,67,88,155,h,Cunningham 16' Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,1,2,326
+22300997,439,PT04M04.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,28,-7,3,Made,1,67,90,157,v,Siakam 3' Driving Reverse Layup (23 PTS) (Jackson 5 AST),Made Shot,Driving Reverse Layup Shot,1,2,327
+22300997,442,PT03M46.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,67,90,157,v,SUB: Sheppard FOR Nembhard,Substitution,,0,0,328
+22300997,443,PT03M46.00S,3,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,67,90,157,v,SUB: McConnell FOR Nesmith,Substitution,,0,0,329
+22300997,446,PT03M39.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,-2,117,12,Made,1,69,90,159,h,Cunningham 12' Pullup Jump Shot (23 PTS) (Fournier 3 AST),Made Shot,Pullup Jump shot,1,2,330
+22300997,448,PT03M23.00S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,2,69,7,Made,1,69,92,161,v,Haliburton 7' Driving Floating Jump Shot (20 PTS),Made Shot,Driving Floating Jump Shot,1,2,331
+22300997,449,PT03M16.00S,3,1610612765,DET,1629002,Metu,C. Metu,-237,59,24,Missed,1,69,92,161,h,MISS Metu 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,332
+22300997,450,PT03M14.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,69,92,161,v,Siakam REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,333
+22300997,451,PT03M08.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,36,4,4,Made,1,69,94,163,v,Siakam 4' Running Layup (25 PTS) (Haliburton 9 AST),Made Shot,Running Layup Shot,1,2,334
+22300997,453,PT02M52.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,26,22,3,Made,1,71,94,165,h,Wiseman 3' Cutting Layup Shot (4 PTS) (Cunningham 9 AST),Made Shot,Cutting Layup Shot,1,2,335
+22300997,455,PT02M44.00S,3,0,,1610612754,,,0,0,0,,0,71,94,165,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,336
+22300997,456,PT02M44.00S,3,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,71,94,165,h,SUB: Brown Jr. FOR Cunningham,Substitution,,0,0,337
+22300997,458,PT02M34.00S,3,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,71,94,165,v,McConnell Traveling Turnover (P2.T6),Turnover,Traveling,1,0,338
+22300997,459,PT02M20.00S,3,1610612765,DET,1629002,Metu,C. Metu,-77,264,28,Missed,1,71,94,165,h,MISS Metu 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+22300997,459,PT02M20.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,71,94,165,v,Siakam BLOCK (1 BLK),,,1,3,340
+22300997,461,PT02M19.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,71,94,165,h,Wiseman REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,341
+22300997,462,PT02M18.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,4,22,2,Made,1,73,94,167,h,Wiseman 2' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,1,2,342
+22300997,463,PT01M53.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,-58,51,8,Missed,1,73,94,167,v,MISS Siakam 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,343
+22300997,464,PT01M51.00S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,73,94,167,h,Wiseman REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,344
+22300997,465,PT01M42.00S,3,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,73,94,167,h,Sasser Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,345
+22300997,465,PT01M42.00S,3,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,73,94,167,v,Jackson STEAL (3 STL),,,1,0,346
+22300997,467,PT01M38.00S,3,1610612754,IND,1630543,Jackson,I. Jackson,-17,22,3,Made,1,73,96,169,v,Jackson 3' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,1,2,347
+22300997,468,PT01M19.00S,3,1610612765,DET,1629002,Metu,C. Metu,-37,39,5,Made,1,75,96,171,h,Metu 5' Cutting Dunk Shot (4 PTS) (Brown Jr. 1 AST),Made Shot,Cutting Dunk Shot,1,2,348
+22300997,470,PT00M54.90S,3,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,75,96,171,v,McConnell Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,349
+22300997,470,PT00M54.90S,3,1610612765,DET,203095,Fournier,E. Fournier,0,0,0,,0,75,96,171,h,Fournier STEAL (1 STL),,,1,0,350
+22300997,472,PT00M52.40S,3,1610612765,DET,203095,Fournier,E. Fournier,147,226,27,Made,1,78,96,174,h,Fournier 27' 3PT Running Pull-Up Jump Shot (5 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,351
+22300997,473,PT00M52.40S,3,0,,1610612754,,,0,0,0,,0,78,96,174,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,352
+22300997,474,PT00M52.40S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,78,96,174,v,SUB: Toppin FOR Haliburton,Substitution,,0,0,353
+22300997,475,PT00M52.40S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,78,96,174,v,SUB: McDermott FOR Siakam,Substitution,,0,0,354
+22300997,478,PT00M52.40S,3,0,,1610612754,,,0,0,0,,0,78,96,174,v,Pacers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,355
+22300997,479,PT00M43.00S,3,1610612754,IND,1641767,Sheppard,B. Sheppard,-37,3,4,Made,1,78,98,176,v,Sheppard 4' Cutting Layup Shot (7 PTS) (Toppin 1 AST),Made Shot,Cutting Layup Shot,1,2,356
+22300997,481,PT00M23.40S,3,1610612765,DET,1630164,Wiseman,J. Wiseman,-64,13,7,Missed,1,78,98,176,h,MISS Wiseman 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,357
+22300997,482,PT00M20.30S,3,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,78,98,176,v,Toppin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,358
+22300997,483,PT00M02.60S,3,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,78,98,176,v,McConnell Bad Pass Turnover (P4.T8),Turnover,Bad Pass,1,0,359
+22300997,483,PT00M02.60S,3,1610612765,DET,1629002,Metu,C. Metu,0,0,0,,0,78,98,176,h,Metu STEAL (1 STL),,,1,0,360
+22300997,485,PT00M00.00S,3,1610612765,DET,1629002,Metu,C. Metu,-27,6,3,Missed,1,78,98,176,h,MISS Metu 3' Running Layup,Missed Shot,Running Layup Shot,1,2,361
+22300997,486,PT00M00.00S,3,0,,1610612765,,,0,0,0,,0,78,98,176,h,PISTONS Rebound,Rebound,Unknown,0,0,362
+22300997,487,PT00M00.00S,3,0,,0,,,0,0,0,,0,78,98,176,,End of 3rd Period (8:51 PM EST),period,end,1,0,363
+22300997,488,PT12M00.00S,4,0,,0,,,0,0,0,,0,78,98,176,,Start of 4th Period (8:53 PM EST),period,start,0,0,364
+22300997,489,PT11M38.00S,4,1610612754,IND,204456,McConnell,T. McConnell,77,3,8,Made,1,78,100,178,v,McConnell 8' Pullup Jump Shot (9 PTS) (McDermott 1 AST),Made Shot,Pullup Jump shot,1,2,365
+22300997,491,PT11M17.00S,4,1610612765,DET,1628972,Brown Jr.,T. Brown Jr.,200,10,20,Made,1,80,100,180,h,Brown Jr. 20' Jump Shot (2 PTS) (Fournier 4 AST),Made Shot,Jump Shot,1,2,366
+22300997,493,PT10M50.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,-23,24,3,Made,1,80,102,182,v,Jackson 3' Turnaround Hook Shot (7 PTS) (McConnell 3 AST),Made Shot,Turnaround Hook Shot,1,2,367
+22300997,495,PT10M41.00S,4,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,80,102,182,v,McDermott P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,1,0,368
+22300997,497,PT10M35.00S,4,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,80,102,182,v,Toppin S.FOUL (P1.T2) (C.Flores),Foul,Shooting,1,0,369
+22300997,499,PT10M35.00S,4,1610612765,DET,1629002,Metu,C. Metu,0,0,0,,0,81,102,183,h,Metu Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,370
+22300997,500,PT10M35.00S,4,1610612765,DET,1629002,Metu,C. Metu,0,0,0,,0,82,102,184,h,Metu Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,371
+22300997,501,PT10M21.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,148,131,20,Made,1,82,104,186,v,Sheppard 20' Pullup Jump Shot (9 PTS) (McDermott 2 AST),Made Shot,Pullup Jump shot,1,2,372
+22300997,503,PT10M02.00S,4,1610612765,DET,1630164,Wiseman,J. Wiseman,-53,34,6,Made,1,84,104,188,h,Wiseman 6' Turnaround Hook Shot (8 PTS) (Sasser 1 AST),Made Shot,Turnaround Hook Shot,1,2,373
+22300997,505,PT09M55.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,84,104,188,v,Sheppard Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,374
+22300997,505,PT09M55.00S,4,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,84,104,188,h,Sasser STEAL (1 STL),,,1,0,375
+22300997,655,PT09M55.00S,4,1610612765,DET,1631204,Sasser,M. Sasser,-75,13,8,Missed,1,84,104,188,h,MISS Sasser 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,376
+22300997,655,PT09M55.00S,4,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,84,104,188,v,McConnell BLOCK (1 BLK),,,1,2,377
+22300997,656,PT09M55.00S,4,0,,1610612754,,,0,0,0,,0,84,104,188,v,Pacers Rebound,Rebound,Unknown,1,0,378
+22300997,508,PT09M55.00S,4,1610612765,DET,1630164,Wiseman,J. Wiseman,0,0,0,,0,84,104,188,h,SUB: Duren FOR Wiseman,Substitution,,0,0,379
+22300997,510,PT09M39.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,-224,120,25,Missed,1,84,104,188,v,MISS Sheppard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,380
+22300997,511,PT09M36.00S,4,1610612765,DET,203095,Fournier,E. Fournier,0,0,0,,0,84,104,188,h,Fournier REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,381
+22300997,512,PT09M24.00S,4,1610612765,DET,203095,Fournier,E. Fournier,92,-9,9,Missed,1,84,104,188,h,MISS Fournier 9' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,382
+22300997,513,PT09M21.00S,4,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,84,104,188,v,McDermott REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,383
+22300997,514,PT09M18.00S,4,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,84,104,188,v,McConnell Bad Pass Turnover (P5.T10),Turnover,Bad Pass,1,0,384
+22300997,514,PT09M18.00S,4,1610612765,DET,1629002,Metu,C. Metu,0,0,0,,0,84,104,188,h,Metu STEAL (2 STL),,,1,0,385
+22300997,516,PT09M10.00S,4,1610612765,DET,1628972,Brown Jr.,T. Brown Jr.,-175,209,27,Missed,1,84,104,188,h,MISS Brown Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,386
+22300997,517,PT09M04.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,84,104,188,v,Jackson REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,387
+22300997,518,PT08M59.00S,4,1610612765,DET,1629002,Metu,C. Metu,0,0,0,,0,84,104,188,h,Metu P.FOUL (P1.T1) (C.Flores),Foul,Personal,1,0,388
+22300997,520,PT08M47.00S,4,1610612754,IND,204456,McConnell,T. McConnell,42,53,7,Made,1,84,106,190,v,McConnell 7' Fadeaway Jumper (11 PTS),Made Shot,Fadeaway Jump Shot,1,2,389
+22300997,521,PT08M36.00S,4,1610612765,DET,1631204,Sasser,M. Sasser,105,236,26,Missed,1,84,106,190,h,MISS Sasser 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,390
+22300997,522,PT08M33.00S,4,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,84,106,190,v,McConnell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,391
+22300997,523,PT08M24.00S,4,1610612754,IND,1630167,Toppin,O. Toppin,176,194,26,Missed,1,84,106,190,v,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,392
+22300997,524,PT08M21.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,84,106,190,v,Jackson REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,393
+22300997,525,PT08M16.00S,4,1610612754,IND,203926,McDermott,D. McDermott,180,178,25,Missed,1,84,106,190,v,MISS McDermott 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+22300997,526,PT08M13.00S,4,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,84,106,190,h,Sasser REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,395
+22300997,527,PT08M12.00S,4,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,84,106,190,v,McConnell Violation:Kicked Ball (C.Flores),Violation,Kicked Ball,0,0,396
+22300997,528,PT08M09.00S,4,1610612765,DET,203095,Fournier,E. Fournier,0,0,0,,0,84,106,190,h,Fournier Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,397
+22300997,528,PT08M09.00S,4,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,84,106,190,v,McConnell STEAL (1 STL),,,1,0,398
+22300997,530,PT08M05.00S,4,1610612754,IND,204456,McConnell,T. McConnell,-32,-10,3,Made,1,84,108,192,v,McConnell 3' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,2,399
+22300997,531,PT07M51.00S,4,1610612765,DET,1631105,Duren,J. Duren,36,4,4,Missed,1,84,108,192,h,MISS Duren 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,400
+22300997,532,PT07M49.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,84,108,192,v,Jackson REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,401
+22300997,533,PT07M44.00S,4,1610612754,IND,203926,McDermott,D. McDermott,142,243,28,Missed,1,84,108,192,v,MISS McDermott 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,402
+22300997,534,PT07M41.00S,4,1610612765,DET,1629002,Metu,C. Metu,0,0,0,,0,84,108,192,h,Metu REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,403
+22300997,535,PT07M30.00S,4,1610612765,DET,203095,Fournier,E. Fournier,0,0,0,,0,84,108,192,h,Fournier Bad Pass Turnover (P2.T12),Turnover,Bad Pass,1,0,404
+22300997,535,PT07M30.00S,4,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,84,108,192,v,Toppin STEAL (1 STL),,,1,0,405
+22300997,537,PT07M23.00S,4,0,,1610612754,,,0,0,0,,0,84,108,192,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,406
+22300997,538,PT07M23.00S,4,1610612765,DET,1631204,Sasser,M. Sasser,0,0,0,,0,84,108,192,h,SUB: Cunningham FOR Sasser,Substitution,,0,0,407
+22300997,539,PT07M23.00S,4,1610612765,DET,203095,Fournier,E. Fournier,0,0,0,,0,84,108,192,h,SUB: Evbuomwan FOR Fournier,Substitution,,0,0,408
+22300997,540,PT07M23.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,84,108,192,v,SUB: Siakam FOR Sheppard,Substitution,,0,0,409
+22300997,541,PT07M23.00S,4,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,84,108,192,v,SUB: Nembhard FOR Toppin,Substitution,,0,0,410
+22300997,546,PT07M15.00S,4,1610612754,IND,203926,McDermott,D. McDermott,43,55,7,Made,1,84,110,194,v,McDermott 7' Floating Jump Shot (7 PTS) (McConnell 4 AST),Made Shot,Floating Jump shot,1,2,411
+22300997,548,PT07M02.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,84,110,194,v,Jackson S.FOUL (P1.T3) (C.Flores),Foul,Shooting,1,0,412
+22300997,550,PT07M02.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,85,110,195,h,Duren Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,413
+22300997,551,PT07M02.00S,4,1610612765,DET,1629002,Metu,C. Metu,0,0,0,,0,85,110,195,h,SUB: Ivey FOR Metu,Substitution,,0,0,414
+22300997,553,PT07M02.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,85,110,195,v,SUB: Turner FOR Jackson,Substitution,,0,0,415
+22300997,555,PT07M02.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,86,110,196,h,Duren Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,416
+22300997,556,PT06M39.00S,4,1610612754,IND,1627783,Siakam,P. Siakam,-70,6,7,Missed,1,86,110,196,v,MISS Siakam 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,417
+22300997,557,PT06M32.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,86,110,196,h,Duren REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,418
+22300997,558,PT06M32.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,86,110,196,h,Duren Bad Pass Turnover (P2.T13),Turnover,Bad Pass,1,0,419
+22300997,558,PT06M32.00S,4,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,86,110,196,v,McDermott STEAL (2 STL),,,1,0,420
+22300997,560,PT06M25.00S,4,1610612754,IND,1626167,Turner,M. Turner,-199,173,26,Made,1,86,113,199,v,Turner 26' 3PT Jump Shot (6 PTS) (McConnell 5 AST),Made Shot,Jump Shot,1,3,421
+22300997,562,PT06M14.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,86,113,199,v,Turner S.FOUL (P5.T4) (S.Wright),Foul,Shooting,1,0,422
+22300997,564,PT06M14.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,87,113,200,h,Duren Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,423
+22300997,565,PT06M14.00S,4,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,87,113,200,v,SUB: Walker FOR Siakam,Substitution,,0,0,424
+22300997,567,PT06M14.00S,4,0,,1610612754,,,0,0,0,,0,87,113,200,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,425
+22300997,568,PT06M14.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,87,113,200,v,SUB: Jackson FOR Turner,Substitution,,0,0,426
+22300997,570,PT06M14.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,87,113,200,h,MISS Duren Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,427
+22300997,571,PT06M11.00S,4,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,87,113,200,v,McDermott REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,428
+22300997,572,PT05M57.00S,4,1610612754,IND,203926,McDermott,D. McDermott,-82,113,14,Made,1,87,115,202,v,McDermott 14' Pullup Jump Shot (9 PTS) (McConnell 6 AST),Made Shot,Pullup Jump shot,1,2,429
+22300997,574,PT05M28.00S,4,1610612765,DET,1631105,Duren,J. Duren,-12,75,8,Missed,1,87,115,202,h,MISS Duren 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,430
+22300997,575,PT05M25.00S,4,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,87,115,202,v,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,431
+22300997,576,PT05M13.00S,4,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,87,115,202,v,McConnell Lost Ball Turnover (P6.T11),Turnover,Lost Ball,1,0,432
+22300997,576,PT05M13.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,87,115,202,h,Cunningham STEAL (1 STL),,,1,0,433
+22300997,578,PT05M09.00S,4,1610612765,DET,1628972,Brown Jr.,T. Brown Jr.,-48,1,5,Missed,1,87,115,202,h,MISS Brown Jr. 5' Running Layup,Missed Shot,Running Layup Shot,1,2,434
+22300997,578,PT05M09.00S,4,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,87,115,202,v,Walker BLOCK (1 BLK),,,1,2,435
+22300997,580,PT05M09.00S,4,0,,1610612765,,,0,0,0,,0,87,115,202,h,PISTONS Rebound,Rebound,Unknown,0,0,436
+22300997,582,PT04M58.00S,4,1610612765,DET,1631105,Duren,J. Duren,23,17,3,Made,1,89,115,204,h,Duren 3' Dunk (9 PTS) (Ivey 3 AST),Made Shot,Dunk Shot,1,2,437
+22300997,584,PT04M29.00S,4,1610612754,IND,1629614,Nembhard,A. Nembhard,-116,-10,12,Missed,1,89,115,204,v,MISS Nembhard 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,438
+22300997,585,PT04M27.00S,4,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,0,0,0,,0,89,115,204,h,Evbuomwan REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,439
+22300997,586,PT04M22.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,89,115,204,v,Jackson S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,1,0,440
+22300997,588,PT04M22.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,90,115,205,h,Duren Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,441
+22300997,589,PT04M22.00S,4,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,90,115,205,v,SUB: Brown FOR Nembhard,Substitution,,0,0,442
+22300997,590,PT04M22.00S,4,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,90,115,205,v,SUB: Sheppard FOR McConnell,Substitution,,0,0,443
+22300997,593,PT04M22.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,91,115,206,h,Duren Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,444
+22300997,594,PT04M10.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,15,17,2,Made,1,91,117,208,v,Jackson 2' Cutting Layup Shot (9 PTS) (Sheppard 3 AST),Made Shot,Cutting Layup Shot,1,2,445
+22300997,596,PT03M59.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,40,89,10,Made,1,93,117,210,h,Ivey 10' Pullup Jump Shot (15 PTS) (Cunningham 10 AST),Made Shot,Pullup Jump shot,1,2,446
+22300997,597,PT03M37.00S,4,1610612754,IND,1641716,Walker,J. Walker,27,5,3,Missed,1,93,117,210,v,MISS Walker 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,447
+22300997,598,PT03M35.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,93,117,210,h,Duren REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,448
+22300997,599,PT03M29.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,-211,159,26,Missed,1,93,117,210,h,MISS Ivey 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,449
+22300997,600,PT03M27.00S,4,1610612765,DET,1628972,Brown Jr.,T. Brown Jr.,0,0,0,,0,93,117,210,h,Brown Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,450
+22300997,601,PT03M26.00S,4,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,28,22,4,Missed,1,93,117,210,h,MISS Evbuomwan 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,451
+22300997,602,PT03M26.00S,4,1610612754,IND,1631112,Brown,K. Brown,0,0,0,,0,93,117,210,v,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,452
+22300997,603,PT03M21.00S,4,1610612754,IND,1641716,Walker,J. Walker,27,-7,3,Made,1,93,119,212,v,Walker 3' Running Layup (2 PTS) (Brown 1 AST),Made Shot,Running Layup Shot,1,2,453
+22300997,605,PT03M21.00S,4,0,,1610612765,,,0,0,0,,0,93,119,212,h,PISTONS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,454
+22300997,606,PT03M21.00S,4,1610612765,DET,1631105,Duren,J. Duren,0,0,0,,0,93,119,212,h,SUB: Boeheim FOR Duren,Substitution,,0,0,455
+22300997,607,PT03M21.00S,4,1610612765,DET,1630595,Cunningham,C. Cunningham,0,0,0,,0,93,119,212,h,SUB: Flynn FOR Cunningham,Substitution,,0,0,456
+22300997,608,PT03M21.00S,4,1610612765,DET,1631093,Ivey,J. Ivey,0,0,0,,0,93,119,212,h,SUB: Metu FOR Ivey,Substitution,,0,0,457
+22300997,609,PT03M21.00S,4,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,93,119,212,v,SUB: Johnson FOR McDermott,Substitution,,0,0,458
+22300997,614,PT03M07.00S,4,1610612765,DET,1631205,Boeheim,B. Boeheim,205,174,27,Missed,1,93,119,212,h,MISS Boeheim 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,459
+22300997,615,PT03M03.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,93,119,212,h,Flynn REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,460
+22300997,616,PT02M55.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,-203,165,26,Missed,1,93,119,212,h,MISS Flynn 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,461
+22300997,617,PT02M49.00S,4,1610612765,DET,1631205,Boeheim,B. Boeheim,0,0,0,,0,93,119,212,h,Boeheim REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,462
+22300997,618,PT02M49.00S,4,1610612765,DET,1631205,Boeheim,B. Boeheim,0,0,0,Missed,1,93,119,212,h,MISS Boeheim Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,463
+22300997,619,PT02M49.00S,4,1610612765,DET,1629002,Metu,C. Metu,0,0,0,,0,93,119,212,h,Metu REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,464
+22300997,620,PT02M47.00S,4,1610612765,DET,1629002,Metu,C. Metu,0,0,0,Made,1,95,119,214,h,Metu Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,1,2,465
+22300997,621,PT02M35.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,-69,14,7,Missed,1,95,119,214,v,MISS Jackson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,466
+22300997,622,PT02M33.00S,4,1610612765,DET,1629002,Metu,C. Metu,0,0,0,,0,95,119,214,h,Metu REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,467
+22300997,623,PT02M16.00S,4,1610612765,DET,1631205,Boeheim,B. Boeheim,-20,279,28,Made,1,98,119,217,h,Boeheim 28' 3PT Jump Shot (3 PTS) (Metu 1 AST),Made Shot,Jump Shot,1,3,468
+22300997,625,PT02M06.00S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,98,119,217,v,Johnson Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,469
+22300997,627,PT01M56.00S,4,1610612765,DET,1629002,Metu,C. Metu,0,0,0,,0,98,119,217,h,Metu Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,470
+22300997,628,PT01M40.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,48,-6,5,Missed,1,98,119,217,v,MISS Sheppard 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,471
+22300997,629,PT01M38.00S,4,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,0,0,0,,0,98,119,217,h,Evbuomwan REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,472
+22300997,630,PT01M33.00S,4,1610612754,IND,1641716,Walker,J. Walker,0,0,0,,0,98,119,217,v,Walker S.FOUL (P1.PN) (C.Flores),Foul,Shooting,1,0,473
+22300997,632,PT01M33.00S,4,1610612765,DET,1631205,Boeheim,B. Boeheim,0,0,0,,0,99,119,218,h,Boeheim Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,1,0,474
+22300997,633,PT01M33.00S,4,1610612765,DET,1631205,Boeheim,B. Boeheim,0,0,0,,0,100,119,219,h,Boeheim Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,1,0,475
+22300997,634,PT01M33.00S,4,1610612765,DET,1631205,Boeheim,B. Boeheim,0,0,0,,0,101,119,220,h,Boeheim Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,0,476
+22300997,635,PT01M10.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,-140,216,26,Missed,1,101,119,220,v,MISS Sheppard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,477
+22300997,636,PT01M07.00S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,101,119,220,h,Flynn REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,478
+22300997,637,PT01M05.00S,4,1610612765,DET,1641787,Evbuomwan,T. Evbuomwan,-36,12,4,Made,1,103,119,222,h,Evbuomwan 4' Layup (11 PTS) (Flynn 1 AST),Made Shot,Layup Shot,1,2,479
+22300997,639,PT00M58.30S,4,1610612754,IND,1631112,Brown,K. Brown,-27,-4,3,Missed,1,103,119,222,v,MISS Brown 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,480
+22300997,640,PT00M58.30S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,103,119,222,v,Jackson REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,481
+22300997,641,PT00M58.30S,4,1610612765,DET,1629002,Metu,C. Metu,0,0,0,,0,103,119,222,h,Metu S.FOUL (P2.T2) (S.Wright),Foul,Shooting,1,0,482
+22300997,643,PT00M58.30S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,103,119,222,v,MISS Jackson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,483
+22300997,644,PT00M58.30S,4,0,,1610612754,,,0,0,0,,0,103,119,222,v,Pacers Rebound,Rebound,Normal Rebound,0,0,484
+22300997,645,PT00M58.30S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,103,120,223,v,Jackson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,485
+22300997,646,PT00M45.10S,4,1610612765,DET,1630201,Flynn,M. Flynn,0,0,0,,0,103,120,223,h,Flynn Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,486
+22300997,646,PT00M45.10S,4,1610612754,IND,201949,Johnson,J. Johnson,0,0,0,,0,103,120,223,v,Johnson STEAL (1 STL),,,1,0,487
+22300997,648,PT00M42.20S,4,1610612754,IND,1631112,Brown,K. Brown,32,9,3,Made,1,103,122,225,v,Brown 3' Running Dunk (2 PTS) (Jackson 6 AST),Made Shot,Running Dunk Shot,1,2,488
+22300997,650,PT00M32.80S,4,1610612765,DET,1630201,Flynn,M. Flynn,-164,228,28,Missed,1,103,122,225,h,MISS Flynn 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,489
+22300997,651,PT00M30.20S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,103,122,225,v,Sheppard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,490
+22300997,652,PT00M08.70S,4,0,,1610612754,,,0,0,0,,0,103,122,225,v,Pacers Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,491
+22300997,653,PT00M00.00S,4,0,,0,,,0,0,0,,0,103,122,225,,End of 4th Period (9:21 PM EST),period,end,1,0,492

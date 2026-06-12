@@ -1,0 +1,432 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22401186,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (1:12 PM EST),period,start,0,0,1
+22401186,4,PT12M00.00S,1,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,0,0,0,h,Jump Ball Barlow vs. Carter Jr.: Tip to Mann,Jump Ball,,1,0,2
+22401186,7,PT11M43.00S,1,1610612737,ATL,1629611,Mann,T. Mann,-33,21,4,Missed,1,0,0,0,h,MISS Mann 4' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,3
+22401186,8,PT11M40.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,0,0,0,v,Carter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22401186,9,PT11M23.00S,1,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,135,206,25,Missed,1,0,0,0,v,MISS Caldwell-Pope 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+22401186,10,PT11M19.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,0,0,0,h,Gueye REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+22401186,11,PT11M15.00S,1,1610612737,ATL,1629611,Mann,T. Mann,6,12,1,Made,1,2,0,2,h,Mann 1' Running Reverse Layup (2 PTS) (Wallace 1 AST),Made Shot,Running Reverse Layup Shot,1,2,7
+22401186,13,PT10M58.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,82,241,25,Missed,1,2,0,2,v,MISS Carter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,8
+22401186,14,PT10M55.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,2,0,2,v,Black REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,9
+22401186,15,PT10M49.00S,1,1610612753,ORL,1641783,da Silva,T. da Silva,156,194,25,Made,1,2,3,5,v,da Silva 25' 3PT Jump Shot (3 PTS) (Caldwell-Pope 1 AST),Made Shot,Jump Shot,1,3,10
+22401186,17,PT10M35.00S,1,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,2,3,5,h,Mann Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,11
+22401186,17,PT10M35.00S,1,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,2,3,5,v,Caldwell-Pope STEAL (1 STL),,,1,0,12
+22401186,19,PT10M31.00S,1,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,13,1,Made,1,2,5,7,v,Caldwell-Pope 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,13
+22401186,20,PT10M13.00S,1,1610612737,ATL,1631230,Barlow,D. Barlow,-229,5,0,Missed,1,2,5,7,h,MISS Barlow 3PT Jump Shot,Missed Shot,Jump Shot,1,3,14
+22401186,21,PT10M11.00S,1,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,2,5,7,v,da Silva REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+22401186,22,PT10M06.00S,1,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,-183,169,25,Missed,1,2,5,7,v,MISS Caldwell-Pope 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,16
+22401186,23,PT10M01.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,2,5,7,v,Isaac REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,17
+22401186,24,PT09M51.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,113,172,21,Missed,1,2,5,7,v,MISS Carter Jr. 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,18
+22401186,25,PT09M49.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,2,5,7,v,Isaac REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,19
+22401186,26,PT09M49.00S,1,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,2,5,7,h,Barlow S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,1,0,20
+22401186,28,PT09M49.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,2,6,8,v,Isaac Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,21
+22401186,29,PT09M49.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,2,7,9,v,Isaac Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,22
+22401186,30,PT09M40.00S,1,1610612737,ATL,1630811,Wallace,K. Wallace,-16,115,12,Made,1,4,7,11,h,Wallace 12' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,23
+22401186,31,PT09M23.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,39,121,13,Made,1,4,9,13,v,Isaac 13' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,1,2,24
+22401186,32,PT09M12.00S,1,1610612737,ATL,1630811,Wallace,K. Wallace,-21,115,12,Made,1,6,9,15,h,Wallace 12' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,25
+22401186,33,PT08M51.00S,1,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,-191,152,24,Missed,1,6,9,15,v,MISS Caldwell-Pope 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,26
+22401186,34,PT08M49.00S,1,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,6,9,15,h,Barlow REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,27
+22401186,35,PT08M37.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,-32,38,5,Missed,1,6,9,15,h,MISS Risacher 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,28
+22401186,35,PT08M37.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,6,9,15,v,Isaac BLOCK (1 BLK),,,1,2,29
+22401186,37,PT08M36.00S,1,0,,1610612737,,,0,0,0,,0,6,9,15,h,HAWKS Rebound,Rebound,Unknown,1,0,30
+22401186,39,PT08M26.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,4,16,2,Missed,1,6,9,15,h,MISS Gueye 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,31
+22401186,39,PT08M26.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,6,9,15,v,Isaac BLOCK (2 BLK),,,1,2,32
+22401186,41,PT08M22.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,6,9,15,v,Black REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,33
+22401186,42,PT08M17.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,6,9,15,v,Black Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,34
+22401186,42,PT08M17.00S,1,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,6,9,15,h,Wallace STEAL (1 STL),,,1,0,35
+22401186,44,PT08M12.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,-170,181,25,Made,1,9,9,18,h,Risacher 25' 3PT Step Back Jump Shot (3 PTS) (Wallace 2 AST),Made Shot,Step Back Jump shot,1,3,36
+22401186,46,PT07M42.00S,1,1610612753,ORL,1641710,Black,A. Black,-141,151,21,Missed,1,9,9,18,v,MISS Black 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,37
+22401186,47,PT07M36.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,9,9,18,h,Gueye REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,38
+22401186,48,PT07M35.00S,1,1610612737,ATL,1629611,Mann,T. Mann,-2,12,1,Made,1,11,9,20,h,Mann 1' Running Layup (4 PTS) (Wallace 3 AST),Made Shot,Running Layup Shot,1,2,39
+22401186,50,PT07M24.00S,1,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,11,9,20,h,Wallace P.FOUL (P1.T2) (J.Tiven),Foul,Personal,1,0,40
+22401186,52,PT07M24.00S,1,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,11,9,20,v,SUB: Howard FOR da Silva,Substitution,,0,0,41
+22401186,54,PT07M10.00S,1,1610612753,ORL,1641710,Black,A. Black,-2,214,21,Missed,1,11,9,20,v,MISS Black 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,42
+22401186,55,PT07M08.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,11,9,20,h,Risacher REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,43
+22401186,56,PT06M54.00S,1,1610612737,ATL,1630811,Wallace,K. Wallace,-34,256,26,Missed,1,11,9,20,h,MISS Wallace 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,44
+22401186,57,PT06M51.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,11,9,20,v,Black REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,45
+22401186,58,PT06M47.00S,1,1610612753,ORL,1641710,Black,A. Black,-2,8,1,Made,1,11,11,22,v,Black 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,46
+22401186,59,PT06M47.00S,1,0,,1610612737,,,0,0,0,,0,11,11,22,h,HAWKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,47
+22401186,60,PT06M47.00S,1,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,11,11,22,h,SUB: Krejci FOR Barlow,Substitution,,0,0,48
+22401186,61,PT06M47.00S,1,1610612753,ORL,203484,Caldwell-Pope,K. Caldwell-Pope,0,0,0,,0,11,11,22,v,SUB: Anthony FOR Caldwell-Pope,Substitution,,0,0,49
+22401186,64,PT06M37.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,11,11,22,h,Risacher Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,50
+22401186,64,PT06M37.00S,1,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,11,11,22,v,Anthony STEAL (1 STL),,,1,0,51
+22401186,66,PT06M34.00S,1,1610612753,ORL,1630175,Anthony,C. Anthony,11,4,1,Made,1,11,13,24,v,Anthony 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,52
+22401186,67,PT06M16.00S,1,1610612737,ATL,1630811,Wallace,K. Wallace,-230,71,24,Missed,1,11,13,24,h,MISS Wallace 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,53
+22401186,68,PT06M13.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,11,13,24,h,Gueye REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,54
+22401186,69,PT06M09.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,230,13,0,Made,1,14,13,27,h,Gueye 3PT Jump Shot (3 PTS) (Krejci 1 AST),Made Shot,Jump Shot,1,3,55
+22401186,71,PT05M43.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,29,197,20,Missed,1,14,13,27,v,MISS Isaac 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,56
+22401186,72,PT05M38.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,14,13,27,h,Gueye REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,57
+22401186,73,PT05M33.00S,1,1610612737,ATL,1629611,Mann,T. Mann,-233,65,24,Missed,1,14,13,27,h,MISS Mann 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,58
+22401186,74,PT05M31.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,14,13,27,v,Isaac REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,59
+22401186,75,PT05M20.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,Made,1,14,15,29,v,Isaac Dunk (6 PTS) (Carter Jr. 1 AST),Made Shot,Dunk Shot,1,2,60
+22401186,77,PT05M02.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,14,15,29,h,Risacher Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0,61
+22401186,77,PT05M02.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,14,15,29,v,Isaac STEAL (1 STL),,,1,0,62
+22401186,79,PT04M57.00S,1,0,,1610612753,,,0,0,0,,0,14,15,29,v,Magic Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,63
+22401186,80,PT04M57.00S,1,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,14,15,29,h,SUB: Barlow FOR Mann,Substitution,,0,0,64
+22401186,81,PT04M57.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,14,15,29,h,SUB: Mathews FOR Gueye,Substitution,,0,0,65
+22401186,82,PT04M57.00S,1,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,14,15,29,v,SUB: Harris FOR Isaac,Substitution,,0,0,66
+22401186,83,PT04M57.00S,1,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,14,15,29,v,SUB: Bitadze FOR Carter Jr.,Substitution,,0,0,67
+22401186,84,PT04M57.00S,1,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,14,15,29,v,SUB: Houstan FOR Anthony,Substitution,,0,0,68
+22401186,90,PT04M42.00S,1,1610612753,ORL,1641710,Black,A. Black,43,35,6,Missed,1,14,15,29,v,MISS Black 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,69
+22401186,90,PT04M42.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,14,15,29,h,Risacher BLOCK (1 BLK),,,1,2,70
+22401186,91,PT04M37.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,14,15,29,h,Risacher REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,71
+22401186,92,PT04M28.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,-162,193,25,Made,1,17,15,32,h,Risacher 25' 3PT Jump Shot (6 PTS) (Wallace 4 AST),Made Shot,Jump Shot,1,3,72
+22401186,94,PT04M16.00S,1,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,Made,1,17,17,34,v,Howard Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,73
+22401186,95,PT04M06.00S,1,1610612737,ATL,1630811,Wallace,K. Wallace,-1,132,13,Made,1,19,17,36,h,Wallace 13' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,74
+22401186,96,PT03M52.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,15,69,7,Missed,1,19,17,36,v,MISS Bitadze 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,75
+22401186,97,PT03M48.00S,1,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,19,17,36,h,Wallace REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,76
+22401186,99,PT03M45.00S,1,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,19,17,36,h,Wallace Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,77
+22401186,99,PT03M45.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,19,17,36,v,Black STEAL (1 STL),,,1,0,78
+22401186,101,PT03M41.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,Made,1,19,19,38,v,Black Running Dunk (4 PTS) (Bitadze 1 AST),Made Shot,Running Dunk Shot,1,2,79
+22401186,103,PT03M24.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,232,-13,0,Made,1,22,19,41,h,Krejci 3PT Jump Shot (3 PTS) (Wallace 5 AST),Made Shot,Jump Shot,1,3,80
+22401186,105,PT03M03.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,22,19,41,v,Bitadze Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,81
+22401186,105,PT03M03.00S,1,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,22,19,41,h,Wallace STEAL (2 STL),,,1,0,82
+22401186,107,PT02M57.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,227,0,0,Missed,1,22,19,41,h,MISS Risacher 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,83
+22401186,108,PT02M53.00S,1,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,22,19,41,v,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,84
+22401186,109,PT02M44.00S,1,1610612753,ORL,1641724,Howard,J. Howard,-61,243,25,Made,1,22,22,44,v,Howard 25' 3PT Pullup Jump Shot (5 PTS) (Bitadze 2 AST),Made Shot,Pullup Jump shot,1,3,85
+22401186,111,PT02M29.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,229,81,24,Missed,1,22,22,44,h,MISS Risacher 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,86
+22401186,112,PT02M27.00S,1,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,22,22,44,v,Howard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+22401186,113,PT02M27.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,22,22,44,h,Krejci P.FOUL (P1.T3) (S.Wright),Foul,Personal,1,0,88
+22401186,115,PT02M27.00S,1,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,22,22,44,h,SUB: Mann FOR Wallace,Substitution,,0,0,89
+22401186,116,PT02M27.00S,1,1610612737,ATL,1642258,Risacher,Z. Risacher,0,0,0,,0,22,22,44,h,SUB: Plowden FOR Risacher,Substitution,,0,0,90
+22401186,117,PT02M27.00S,1,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,22,22,44,v,SUB: da Silva FOR Black,Substitution,,0,0,91
+22401186,121,PT02M17.00S,1,1610612737,ATL,1631342,Plowden,D. Plowden,0,0,0,,0,22,22,44,h,Plowden P.FOUL (P1.T4) (J.Goldenberg),Foul,Personal,1,0,92
+22401186,123,PT02M10.00S,1,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,22,22,44,v,Howard Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,93
+22401186,123,PT02M10.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,22,22,44,h,Krejci STEAL (1 STL),,,1,0,94
+22401186,125,PT02M06.00S,1,1610612737,ATL,1631230,Barlow,D. Barlow,0,12,1,Made,1,24,22,46,h,Barlow 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,95
+22401186,127,PT01M39.00S,1,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,3,0,Made,1,24,24,48,v,Bitadze Cutting Layup Shot (2 PTS) (Houstan 1 AST),Made Shot,Cutting Layup Shot,1,2,96
+22401186,129,PT01M26.00S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,9,111,11,Made,1,26,24,50,h,Krejci 11' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,1,2,97
+22401186,130,PT01M12.00S,1,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,26,24,50,v,Houstan Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,1,0,98
+22401186,131,PT00M52.70S,1,1610612737,ATL,1631342,Plowden,D. Plowden,230,49,24,Missed,1,26,24,50,h,MISS Plowden 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,99
+22401186,132,PT00M51.10S,1,0,,1610612737,,,0,0,0,,0,26,24,50,h,HAWKS Rebound,Rebound,Unknown,1,0,100
+22401186,134,PT00M48.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,4,112,11,Made,1,28,24,52,h,Mathews 11' Driving Floating Jump Shot (2 PTS) (Krejci 2 AST),Made Shot,Driving Floating Jump Shot,1,2,101
+22401186,136,PT00M32.30S,1,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,28,24,52,v,Howard Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,102
+22401186,137,PT00M18.50S,1,1610612737,ATL,1630249,Krejčí,V. Krejčí,-27,254,26,Made,1,31,24,55,h,Krejci 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,3,103
+22401186,138,PT00M00.60S,1,1610612753,ORL,1641724,Howard,J. Howard,-78,242,25,Missed,1,31,24,55,v,MISS Howard 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,104
+22401186,139,PT00M00.10S,1,0,,1610612753,,,0,0,0,,0,31,24,55,v,Magic Rebound,Rebound,Unknown,1,0,105
+22401186,140,PT00M00.00S,1,0,,0,,,0,0,0,,0,31,24,55,,End of 1st Period (1:34 PM EST),period,end,1,0,106
+22401186,145,PT12M00.00S,2,0,,0,,,0,0,0,,0,31,24,55,,Start of 2nd Period (1:36 PM EST),period,start,0,0,107
+22401186,146,PT11M37.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,-185,168,25,Missed,1,31,24,55,v,MISS da Silva 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,108
+22401186,147,PT11M33.00S,2,1610612737,ATL,1631342,Plowden,D. Plowden,0,0,0,,0,31,24,55,h,Plowden REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+22401186,148,PT11M31.00S,2,1610612737,ATL,1631342,Plowden,D. Plowden,0,0,0,,0,31,24,55,h,Plowden Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,110
+22401186,148,PT11M31.00S,2,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,31,24,55,v,Harris STEAL (1 STL),,,1,0,111
+22401186,150,PT11M30.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,31,24,55,v,da Silva Offensive Charge Foul (P1) (J.Goldenberg),Foul,Offensive Charge,1,0,112
+22401186,152,PT11M30.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,31,24,55,v,da Silva Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,113
+22401186,154,PT11M12.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,228,-9,0,Made,1,34,24,58,h,Mathews 3PT Jump Shot (5 PTS) (Mann 1 AST),Made Shot,Jump Shot,1,3,114
+22401186,156,PT11M02.00S,2,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,34,24,58,v,Harris Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,115
+22401186,156,PT11M02.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,34,24,58,h,Krejci STEAL (2 STL),,,1,0,116
+22401186,158,PT10M54.00S,2,1610612737,ATL,1631342,Plowden,D. Plowden,1,10,1,Made,1,36,24,60,h,Plowden 1' Driving Dunk (2 PTS) (Mann 2 AST),Made Shot,Driving Dunk Shot,1,2,117
+22401186,160,PT10M28.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,-9,114,11,Missed,1,36,24,60,v,MISS Anthony 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,118
+22401186,161,PT10M25.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,36,24,60,h,Krejci REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,119
+22401186,162,PT10M20.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,36,24,60,v,Houstan S.FOUL (P1.T1) (S.Wright),Foul,Shooting,1,0,120
+22401186,164,PT10M20.00S,2,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,36,24,60,h,MISS Mann Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,121
+22401186,165,PT10M20.00S,2,0,,1610612737,,,0,0,0,,0,36,24,60,h,HAWKS Rebound,Rebound,Normal Rebound,0,0,122
+22401186,166,PT10M20.00S,2,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,36,24,60,v,SUB: Isaac FOR Houstan,Substitution,,0,0,123
+22401186,168,PT10M20.00S,2,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,37,24,61,h,Mann Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,124
+22401186,169,PT10M04.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,37,24,61,v,Bitadze Lost Ball Turnover (P2.T8),Turnover,Lost Ball,1,0,125
+22401186,169,PT10M04.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,37,24,61,h,Krejci STEAL (3 STL),,,1,0,126
+22401186,171,PT09M55.00S,2,1610612737,ATL,1631210,Toppin,J. Toppin,-237,-6,24,Missed,1,37,24,61,h,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+22401186,172,PT09M52.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,37,24,61,v,Isaac REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,128
+22401186,173,PT09M42.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,-99,48,11,Missed,1,37,24,61,v,MISS Isaac 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,129
+22401186,174,PT09M39.00S,2,1610612737,ATL,1631210,Toppin,J. Toppin,0,0,0,,0,37,24,61,h,Toppin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,130
+22401186,175,PT09M31.00S,2,1610612737,ATL,1631342,Plowden,D. Plowden,197,163,26,Missed,1,37,24,61,h,MISS Plowden 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+22401186,176,PT09M28.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,37,24,61,v,Isaac REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,132
+22401186,177,PT09M17.00S,2,1610612753,ORL,203914,Harris,G. Harris,-227,61,24,Made,1,37,27,64,v,Harris 24' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,133
+22401186,178,PT09M02.00S,2,1610612737,ATL,1631342,Plowden,D. Plowden,179,181,25,Made,1,40,27,67,h,Plowden 25' 3PT Jump Shot (5 PTS) (Krejci 3 AST),Made Shot,Jump Shot,1,3,134
+22401186,180,PT08M45.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,233,20,0,Missed,1,40,27,67,v,MISS Anthony 3PT Jump Shot,Missed Shot,Jump Shot,1,3,135
+22401186,181,PT08M41.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,40,27,67,v,Isaac REBOUND (Off:3 Def:3),Rebound,Unknown,1,0,136
+22401186,182,PT08M38.00S,2,1610612753,ORL,203914,Harris,G. Harris,-59,246,25,Made,1,40,30,70,v,Harris 25' 3PT Jump Shot (6 PTS) (da Silva 1 AST),Made Shot,Jump Shot,1,3,137
+22401186,184,PT08M18.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-152,16,15,Missed,1,40,30,70,h,MISS Mathews 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,138
+22401186,185,PT08M14.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,40,30,70,v,Bitadze REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,139
+22401186,186,PT08M06.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,224,115,25,Made,1,40,33,73,v,da Silva 25' 3PT Step Back Jump Shot (6 PTS) (Anthony 1 AST),Made Shot,Step Back Jump shot,1,3,140
+22401186,187,PT07M54.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,40,33,73,h,Krejci Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,141
+22401186,187,PT07M54.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,40,33,73,v,Bitadze STEAL (1 STL),,,1,0,142
+22401186,189,PT07M42.00S,2,1610612753,ORL,203914,Harris,G. Harris,-175,178,25,Made,1,40,36,76,v,Harris 25' 3PT Jump Shot (9 PTS) (Isaac 1 AST),Made Shot,Jump Shot,1,3,143
+22401186,191,PT07M18.00S,2,1610612737,ATL,1631210,Toppin,J. Toppin,234,16,0,Made,1,43,36,79,h,Toppin 3PT Jump Shot (3 PTS) (Mathews 1 AST),Made Shot,Jump Shot,1,3,144
+22401186,193,PT06M54.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,50,243,25,Made,1,43,39,82,v,da Silva 25' 3PT Pullup Jump Shot (9 PTS) (Harris 1 AST),Made Shot,Pullup Jump shot,1,3,145
+22401186,195,PT06M35.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,74,246,26,Missed,1,43,39,82,h,MISS Mathews 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,146
+22401186,196,PT06M32.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,43,39,82,h,Krejci REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,147
+22401186,197,PT06M30.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-181,178,25,Missed,1,43,39,82,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,148
+22401186,198,PT06M27.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,43,39,82,v,da Silva REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,149
+22401186,199,PT06M22.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,-26,14,3,Missed,1,43,39,82,v,MISS da Silva 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,150
+22401186,200,PT06M18.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,43,39,82,v,da Silva REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,151
+22401186,201,PT06M16.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,7,0,1,Made,1,43,41,84,v,Bitadze 1' Cutting Layup Shot (4 PTS) (da Silva 2 AST),Made Shot,Cutting Layup Shot,1,2,152
+22401186,203,PT06M03.00S,2,0,,1610612737,,,0,0,0,,0,43,41,84,h,HAWKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,153
+22401186,205,PT06M03.00S,2,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,43,41,84,h,SUB: Wallace FOR Mann,Substitution,,0,0,154
+22401186,206,PT06M03.00S,2,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,43,41,84,h,SUB: Barlow FOR Krejci,Substitution,,0,0,155
+22401186,207,PT06M03.00S,2,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,43,41,84,v,SUB: Black FOR Harris,Substitution,,0,0,156
+22401186,208,PT06M03.00S,2,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,43,41,84,v,SUB: Carter Jr. FOR Bitadze,Substitution,,0,0,157
+22401186,209,PT06M03.00S,2,1610612753,ORL,1630175,Anthony,C. Anthony,0,0,0,,0,43,41,84,v,SUB: Howard FOR Anthony,Substitution,,0,0,158
+22401186,215,PT05M52.00S,2,1610612737,ATL,1631210,Toppin,J. Toppin,5,84,8,Made,1,45,41,86,h,Toppin 8' Driving Floating Jump Shot (5 PTS) (Barlow 1 AST),Made Shot,Driving Floating Jump Shot,1,2,159
+22401186,217,PT05M32.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,-29,37,5,Missed,1,45,41,86,v,MISS da Silva 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,160
+22401186,218,PT05M29.00S,2,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,45,41,86,h,Wallace REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,161
+22401186,219,PT05M25.00S,2,1610612737,ATL,1631210,Toppin,J. Toppin,-205,151,25,Made,1,48,41,89,h,Toppin 25' 3PT Running Jump Shot (8 PTS) (Wallace 6 AST),Made Shot,Running Jump Shot,1,3,162
+22401186,221,PT05M00.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,233,61,24,Missed,1,48,41,89,v,MISS Isaac 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,163
+22401186,222,PT04M57.00S,2,1610612737,ATL,1631210,Toppin,J. Toppin,0,0,0,,0,48,41,89,h,Toppin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,164
+22401186,223,PT04M46.00S,2,1610612737,ATL,1631342,Plowden,D. Plowden,-176,173,25,Missed,1,48,41,89,h,MISS Plowden 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+22401186,224,PT04M43.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,48,41,89,v,da Silva REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,166
+22401186,225,PT04M37.00S,2,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,48,41,89,h,Barlow S.FOUL (P2.T1) (J.Goldenberg),Foul,Shooting,1,0,167
+22401186,227,PT04M37.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,48,41,89,v,MISS Black Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,168
+22401186,228,PT04M37.00S,2,0,,1610612753,,,0,0,0,,0,48,41,89,v,Magic Rebound,Rebound,Normal Rebound,0,0,169
+22401186,229,PT04M37.00S,2,1610612737,ATL,1631210,Toppin,J. Toppin,0,0,0,,0,48,41,89,h,SUB: Mann FOR Toppin,Substitution,,0,0,170
+22401186,230,PT04M37.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,48,41,89,v,SUB: Houstan FOR da Silva,Substitution,,0,0,171
+22401186,233,PT04M37.00S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,48,42,90,v,Black Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,172
+22401186,234,PT04M19.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,48,42,90,h,Mathews Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,173
+22401186,234,PT04M19.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,48,42,90,v,Carter Jr. STEAL (1 STL),,,1,0,174
+22401186,236,PT04M12.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,3,0,Made,1,48,44,92,v,Isaac Cutting Dunk Shot (8 PTS) (Houstan 2 AST),Made Shot,Cutting Dunk Shot,1,2,175
+22401186,238,PT03M53.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,-174,185,25,Missed,1,48,44,92,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,176
+22401186,239,PT03M50.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,48,44,92,v,Carter Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,177
+22401186,240,PT03M36.00S,2,1610612753,ORL,1641710,Black,A. Black,-53,246,25,Missed,1,48,44,92,v,MISS Black 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+22401186,241,PT03M32.00S,2,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,48,44,92,h,Barlow REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,179
+22401186,242,PT03M18.00S,2,1610612737,ATL,1631342,Plowden,D. Plowden,0,0,0,,0,48,44,92,h,Plowden Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,1,0,180
+22401186,243,PT03M07.00S,2,1610612737,ATL,1631342,Plowden,D. Plowden,0,0,0,,0,48,44,92,h,Plowden P.FOUL (P2.T2) (S.Wright),Foul,Personal,1,0,181
+22401186,246,PT03M07.00S,2,0,,1610612753,,,0,0,0,,0,48,44,92,v,Magic Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,182
+22401186,247,PT03M07.00S,2,0,,243,McKie,A. McKie,0,0,0,,0,48,44,92,,Instant Replay2nd Period (1:52 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,183
+22401186,248,PT03M07.00S,2,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,48,44,92,v,SUB: da Silva FOR Isaac,Substitution,,0,0,184
+22401186,250,PT02M51.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,107,226,25,Missed,1,48,44,92,v,MISS da Silva 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,185
+22401186,251,PT02M47.00S,2,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,48,44,92,h,Mann REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,186
+22401186,252,PT02M42.00S,2,1610612737,ATL,1631230,Barlow,D. Barlow,-233,-11,0,Missed,1,48,44,92,h,MISS Barlow 3PT Jump Shot,Missed Shot,Jump Shot,1,3,187
+22401186,253,PT02M38.00S,2,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,48,44,92,h,Barlow REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,188
+22401186,254,PT02M36.00S,2,1610612737,ATL,1630811,Wallace,K. Wallace,99,236,26,Missed,1,48,44,92,h,MISS Wallace 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,189
+22401186,255,PT02M34.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,48,44,92,v,Carter Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,190
+22401186,256,PT02M25.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-44,177,18,Missed,1,48,44,92,v,MISS Carter Jr. 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,191
+22401186,257,PT02M22.00S,2,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,48,44,92,h,Wallace REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,192
+22401186,258,PT02M17.00S,2,1610612737,ATL,1631230,Barlow,D. Barlow,4,12,1,Made,1,50,44,94,h,Barlow 1' Running Reverse Layup (4 PTS) (Wallace 7 AST),Made Shot,Running Reverse Layup Shot,1,2,193
+22401186,260,PT02M03.00S,2,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,6,4,1,Missed,1,50,44,94,v,MISS Carter Jr. 1' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,194
+22401186,261,PT02M00.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,50,44,94,h,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,195
+22401186,262,PT01M57.00S,2,1610612737,ATL,1631230,Barlow,D. Barlow,1,10,1,Made,1,52,44,96,h,Barlow 1' Running Alley Oop Dunk Shot (6 PTS) (Wallace 8 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,196
+22401186,264,PT01M42.00S,2,1610612753,ORL,1641724,Howard,J. Howard,-234,19,0,Missed,1,52,44,96,v,MISS Howard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+22401186,265,PT01M39.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,52,44,96,h,Mathews REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,198
+22401186,266,PT01M22.00S,2,1610612737,ATL,1631230,Barlow,D. Barlow,60,105,12,Made,1,54,44,98,h,Barlow 12' Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,1,2,199
+22401186,267,PT01M05.00S,2,1610612753,ORL,1641783,da Silva,T. da Silva,114,9,11,Made,1,54,46,100,v,da Silva 11' Turnaround Fadeaway (11 PTS),Made Shot,Turnaround Fadeaway shot,1,2,200
+22401186,268,PT00M52.40S,2,1610612737,ATL,1629726,Mathews,G. Mathews,178,183,26,Made,1,57,46,103,h,Mathews 26' 3PT Jump Shot (8 PTS) (Wallace 9 AST),Made Shot,Jump Shot,1,3,201
+22401186,270,PT00M52.40S,2,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,57,46,103,v,Howard S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,1,0,202
+22401186,272,PT00M52.40S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,58,46,104,h,Mathews Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,203
+22401186,273,PT00M32.60S,2,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,58,46,104,v,Howard OFF.Foul (P2) (J.Goldenberg),Foul,Offensive,1,0,204
+22401186,275,PT00M32.60S,2,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,58,46,104,v,Howard Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,1,0,205
+22401186,276,PT00M13.60S,2,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,58,46,104,h,Wallace Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,206
+22401186,276,PT00M13.60S,2,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,58,46,104,v,Black STEAL (2 STL),,,1,0,207
+22401186,278,PT00M00.70S,2,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,58,46,104,v,Howard Bad Pass Turnover (P4.T10),Turnover,Bad Pass,1,0,208
+22401186,278,PT00M00.70S,2,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,58,46,104,h,Wallace STEAL (3 STL),,,1,0,209
+22401186,280,PT00M00.00S,2,0,,0,,,0,0,0,,0,58,46,104,,End of 2nd Period (1:59 PM EST),period,end,1,0,210
+22401186,287,PT12M00.00S,3,0,,0,,,0,0,0,,0,58,46,104,,Start of 3rd Period (2:14 PM EST),period,start,0,0,211
+22401186,288,PT11M49.00S,3,1610612753,ORL,1641783,da Silva,T. da Silva,-107,109,15,Missed,1,58,46,104,v,MISS da Silva 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,212
+22401186,289,PT11M44.00S,3,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,58,46,104,v,da Silva REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,213
+22401186,290,PT11M44.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,5,20,2,Made,1,58,48,106,v,Carter Jr. 2' Dunk (2 PTS) (da Silva 3 AST),Made Shot,Dunk Shot,1,2,214
+22401186,292,PT11M44.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,58,48,106,h,Wallace S.FOUL (P2.T1) (S.Wright),Foul,Shooting,1,0,215
+22401186,294,PT11M44.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,58,49,107,v,Carter Jr. Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,216
+22401186,295,PT11M27.00S,3,1610612737,ATL,1629611,Mann,T. Mann,-232,69,24,Missed,1,58,49,107,h,MISS Mann 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,217
+22401186,296,PT11M23.00S,3,1610612737,ATL,1631210,Toppin,J. Toppin,0,0,0,,0,58,49,107,h,Toppin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,218
+22401186,297,PT11M22.00S,3,1610612737,ATL,1631210,Toppin,J. Toppin,12,3,1,Missed,1,58,49,107,h,MISS Toppin 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,219
+22401186,297,PT11M22.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,58,49,107,v,Black BLOCK (1 BLK),,,1,2,220
+22401186,299,PT11M18.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,58,49,107,v,Black REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,221
+22401186,300,PT11M16.00S,3,1610612753,ORL,1641710,Black,A. Black,-6,254,25,Made,1,58,52,110,v,Black 25' 3PT Running Pull-Up Jump Shot (8 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,222
+22401186,302,PT11M03.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,-11,119,12,Missed,1,58,52,110,h,MISS Wallace 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,223
+22401186,303,PT11M00.00S,3,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,58,52,110,h,Barlow REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,224
+22401186,304,PT10M54.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,93,235,25,Made,1,61,52,113,h,Wallace 25' 3PT Step Back Jump Shot (9 PTS) (Toppin 1 AST),Made Shot,Step Back Jump shot,1,3,225
+22401186,306,PT10M39.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-62,127,14,Missed,1,61,52,113,v,MISS Carter Jr. 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,226
+22401186,307,PT10M35.00S,3,1610612737,ATL,1631210,Toppin,J. Toppin,0,0,0,,0,61,52,113,h,Toppin REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,227
+22401186,308,PT10M23.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,18,100,10,Made,1,63,52,115,h,Wallace 10' Driving Floating Jump Shot (11 PTS) (Mann 3 AST),Made Shot,Driving Floating Jump Shot,1,2,228
+22401186,309,PT10M05.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,-126,136,19,Missed,1,63,52,115,v,MISS Houstan 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,229
+22401186,310,PT10M03.00S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,63,52,115,h,Krejci REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,230
+22401186,311,PT09M53.00S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,2,-1,0,Made,1,65,52,117,h,Krejci Driving Finger Roll Layup (10 PTS) (Toppin 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,231
+22401186,313,PT09M39.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,-38,92,10,Made,1,65,54,119,v,Houstan 10' Fadeaway Jumper (2 PTS) (da Silva 4 AST),Made Shot,Fadeaway Jump Shot,1,2,232
+22401186,315,PT09M31.00S,3,1610612737,ATL,1629611,Mann,T. Mann,-118,5,12,Made,1,67,54,121,h,Mann 12' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,1,2,233
+22401186,316,PT09M16.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,67,54,121,h,Wallace S.FOUL (P3.T2) (J.Goldenberg),Foul,Shooting,1,0,234
+22401186,318,PT09M16.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,67,54,121,v,MISS Carter Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,235
+22401186,319,PT09M16.00S,3,0,,1610612753,,,0,0,0,,0,67,54,121,v,Magic Rebound,Rebound,Normal Rebound,0,0,236
+22401186,320,PT09M16.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,67,55,122,v,Carter Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,237
+22401186,321,PT09M09.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,67,55,122,v,Magic T.Foul (Def. 3 Sec Carter Jr. ) (J.Goldenberg),Foul,Defense 3 Second,1,0,238
+22401186,322,PT09M09.00S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,68,55,123,h,Krejci Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,1,0,239
+22401186,323,PT08M59.00S,3,1610612737,ATL,1629611,Mann,T. Mann,97,-15,10,Missed,1,68,55,123,h,MISS Mann 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,240
+22401186,324,PT08M56.00S,3,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,68,55,123,v,da Silva REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,241
+22401186,326,PT08M48.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,-229,-15,0,Missed,1,68,55,123,v,MISS Carter Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,242
+22401186,327,PT08M44.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,68,55,123,h,Wallace REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,243
+22401186,328,PT08M38.00S,3,1610612737,ATL,1631210,Toppin,J. Toppin,-233,-5,0,Made,1,71,55,126,h,Toppin 3PT Running Jump Shot (11 PTS) (Wallace 10 AST),Made Shot,Running Jump Shot,1,3,244
+22401186,330,PT08M22.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,109,235,26,Made,1,71,58,129,v,Houstan 26' 3PT Jump Shot (5 PTS) (Carter Jr. 2 AST),Made Shot,Jump Shot,1,3,245
+22401186,332,PT08M10.00S,3,1610612737,ATL,1629611,Mann,T. Mann,-42,88,10,Made,1,73,58,131,h,Mann 10' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,2,246
+22401186,333,PT07M55.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,98,233,25,Missed,1,73,58,131,v,MISS Houstan 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,247
+22401186,334,PT07M52.00S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,73,58,131,h,Krejci REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,248
+22401186,335,PT07M44.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,42,110,12,Missed,1,73,58,131,h,MISS Wallace 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,249
+22401186,336,PT07M42.00S,3,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,73,58,131,h,Mann REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,250
+22401186,337,PT07M42.00S,3,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,Made,1,75,58,133,h,Mann Tip Dunk Shot (11 PTS),Made Shot,Tip Dunk Shot,1,2,251
+22401186,338,PT07M42.00S,3,0,,1610612753,,,0,0,0,,0,75,58,133,v,Magic Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,252
+22401186,339,PT07M42.00S,3,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,75,58,133,h,SUB: Plowden FOR Barlow,Substitution,,0,0,253
+22401186,340,PT07M42.00S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,75,58,133,h,SUB: Mathews FOR Krejci,Substitution,,0,0,254
+22401186,341,PT07M42.00S,3,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,75,58,133,v,SUB: Isaac FOR da Silva,Substitution,,0,0,255
+22401186,342,PT07M42.00S,3,1610612753,ORL,1628976,Carter Jr.,W. Carter Jr.,0,0,0,,0,75,58,133,v,SUB: Howard FOR Carter Jr.,Substitution,,0,0,256
+22401186,347,PT07M27.00S,3,1610612753,ORL,1641724,Howard,J. Howard,58,254,26,Missed,1,75,58,133,v,MISS Howard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,257
+22401186,348,PT07M24.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,75,58,133,h,Wallace REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,258
+22401186,349,PT07M21.00S,3,1610612737,ATL,1631210,Toppin,J. Toppin,148,199,25,Missed,1,75,58,133,h,MISS Toppin 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,259
+22401186,350,PT07M17.00S,3,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,75,58,133,h,Mann REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,260
+22401186,351,PT07M16.00S,3,1610612737,ATL,1631342,Plowden,D. Plowden,-1,3,0,Made,1,77,58,135,h,Plowden Driving Layup (7 PTS) (Mann 4 AST),Made Shot,Driving Layup Shot,1,2,261
+22401186,353,PT06M57.00S,3,1610612753,ORL,203914,Harris,G. Harris,-228,71,24,Made,1,77,61,138,v,Harris 24' 3PT Step Back Jump Shot (12 PTS) (Black 1 AST),Made Shot,Step Back Jump shot,1,3,262
+22401186,354,PT06M46.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,-32,116,12,Missed,1,77,61,138,h,MISS Wallace 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,263
+22401186,355,PT06M42.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,77,61,138,v,Isaac REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,264
+22401186,356,PT06M41.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,77,61,138,v,Isaac Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,265
+22401186,356,PT06M41.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,77,61,138,h,Wallace STEAL (4 STL),,,1,0,266
+22401186,358,PT06M37.00S,3,1610612737,ATL,1631342,Plowden,D. Plowden,-232,11,0,Missed,1,77,61,138,h,MISS Plowden 3PT Jump Shot,Missed Shot,Jump Shot,1,3,267
+22401186,359,PT06M34.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,77,61,138,v,Black REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,268
+22401186,360,PT06M18.00S,3,1610612753,ORL,1641710,Black,A. Black,108,123,16,Missed,1,77,61,138,v,MISS Black 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,269
+22401186,361,PT06M15.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,77,61,138,v,Isaac REBOUND (Off:4 Def:4),Rebound,Unknown,1,0,270
+22401186,362,PT06M15.00S,3,1610612737,ATL,1631342,Plowden,D. Plowden,0,0,0,,0,77,61,138,h,Plowden P.FOUL (P3.T3) (J.Goldenberg),Foul,Personal,1,0,271
+22401186,364,PT06M02.00S,3,1610612753,ORL,1641724,Howard,J. Howard,-6,18,2,Made,1,77,63,140,v,Howard 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,272
+22401186,365,PT05M51.00S,3,1610612737,ATL,1629611,Mann,T. Mann,9,1,1,Made,1,79,63,142,h,Mann 1' Driving Layup (13 PTS) (Wallace 11 AST),Made Shot,Driving Layup Shot,1,2,273
+22401186,367,PT05M35.00S,3,1610612753,ORL,1641724,Howard,J. Howard,-234,33,24,Made,1,79,66,145,v,Howard 24' 3PT Step Back Jump Shot (10 PTS) (Houstan 3 AST),Made Shot,Step Back Jump shot,1,3,274
+22401186,369,PT05M23.00S,3,1610612737,ATL,1629611,Mann,T. Mann,51,88,10,Made,1,81,66,147,h,Mann 10' Turnaround Fadeaway (15 PTS),Made Shot,Turnaround Fadeaway shot,1,2,275
+22401186,370,PT05M14.00S,3,1610612737,ATL,1631342,Plowden,D. Plowden,0,0,0,,0,81,66,147,h,Plowden S.FOUL (P4.T4) (J.Tiven),Foul,Shooting,1,0,276
+22401186,372,PT05M14.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,81,67,148,v,Black Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,277
+22401186,373,PT05M14.00S,3,1610612737,ATL,1631342,Plowden,D. Plowden,0,0,0,,0,81,67,148,h,SUB: Krejci FOR Plowden,Substitution,,0,0,278
+22401186,374,PT05M14.00S,3,1610612753,ORL,203914,Harris,G. Harris,0,0,0,,0,81,67,148,v,SUB: Anthony FOR Harris,Substitution,,0,0,279
+22401186,377,PT05M14.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,81,68,149,v,Black Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,280
+22401186,378,PT05M07.00S,3,1610612737,ATL,1629611,Mann,T. Mann,-119,63,13,Missed,1,81,68,149,h,MISS Mann 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,281
+22401186,379,PT05M03.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,81,68,149,v,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,282
+22401186,380,PT04M52.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,94,20,10,Made,1,81,70,151,v,Isaac 10' Turnaround Fadeaway (10 PTS),Made Shot,Turnaround Fadeaway shot,1,2,283
+22401186,381,PT04M34.00S,3,1610612737,ATL,1631210,Toppin,J. Toppin,225,30,0,Missed,1,81,70,151,h,MISS Toppin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,284
+22401186,382,PT04M32.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,81,70,151,v,Isaac REBOUND (Off:4 Def:5),Rebound,Unknown,1,0,285
+22401186,383,PT04M24.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,-1,21,2,Made,1,81,72,153,v,Isaac 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,286
+22401186,385,PT04M13.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,29,242,24,Missed,1,81,72,153,h,MISS Wallace 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,287
+22401186,386,PT04M10.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,81,72,153,v,Houstan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,288
+22401186,387,PT04M01.00S,3,1610612753,ORL,1641710,Black,A. Black,18,120,12,Missed,1,81,72,153,v,MISS Black 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,289
+22401186,387,PT04M01.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,81,72,153,h,Mathews BLOCK (1 BLK),,,1,2,290
+22401186,389,PT04M00.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,81,72,153,v,Black REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,291
+22401186,390,PT03M57.00S,3,1610612753,ORL,1641724,Howard,J. Howard,93,242,26,Missed,1,81,72,153,v,MISS Howard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,292
+22401186,391,PT03M56.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,81,72,153,h,Wallace REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,293
+22401186,392,PT03M50.00S,3,1610612737,ATL,1629611,Mann,T. Mann,2,5,1,Made,1,83,72,155,h,Mann 1' Running Dunk (17 PTS) (Wallace 12 AST),Made Shot,Running Dunk Shot,1,2,294
+22401186,394,PT03M34.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,-28,272,27,Missed,1,83,72,155,v,MISS Isaac 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,295
+22401186,395,PT03M31.00S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,83,72,155,h,Krejci REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,296
+22401186,396,PT03M18.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,7,120,12,Missed,1,83,72,155,h,MISS Wallace 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,297
+22401186,396,PT03M18.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,83,72,155,v,Isaac BLOCK (3 BLK),,,1,2,298
+22401186,398,PT03M14.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,83,72,155,v,Isaac REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,299
+22401186,399,PT03M13.00S,3,1610612753,ORL,1641724,Howard,J. Howard,5,15,2,Made,1,83,74,157,v,Howard 2' Running Layup (12 PTS) (Isaac 2 AST),Made Shot,Running Layup Shot,1,2,300
+22401186,401,PT03M07.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,83,74,157,h,Mathews Bad Pass Turnover (P2.T10),Turnover,Bad Pass,1,0,301
+22401186,401,PT03M07.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,83,74,157,v,Black STEAL (3 STL),,,1,0,302
+22401186,403,PT03M01.00S,3,1610612753,ORL,1641710,Black,A. Black,-162,196,25,Made,1,83,77,160,v,Black 25' 3PT Pullup Jump Shot (13 PTS) (Anthony 2 AST),Made Shot,Pullup Jump shot,1,3,303
+22401186,405,PT03M01.00S,3,0,,1610612737,,,0,0,0,,0,83,77,160,h,HAWKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,304
+22401186,406,PT03M01.00S,3,1610612737,ATL,1631210,Toppin,J. Toppin,0,0,0,,0,83,77,160,h,SUB: Barlow FOR Toppin,Substitution,,0,0,305
+22401186,407,PT03M01.00S,3,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,83,77,160,v,SUB: Bitadze FOR Black,Substitution,,0,0,306
+22401186,408,PT03M01.00S,3,1610612753,ORL,1628371,Isaac,J. Isaac,0,0,0,,0,83,77,160,v,SUB: da Silva FOR Isaac,Substitution,,0,0,307
+22401186,412,PT02M43.00S,3,1610612737,ATL,1629611,Mann,T. Mann,5,8,1,Made,1,85,77,162,h,Mann 1' Dunk (19 PTS) (Krejci 4 AST),Made Shot,Dunk Shot,1,2,308
+22401186,414,PT02M23.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,85,77,162,h,Mathews P.FOUL (P1.PN) (J.Tiven),Foul,Personal,1,0,309
+22401186,416,PT02M23.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,85,78,163,v,Houstan Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,310
+22401186,417,PT02M23.00S,3,1610612737,ATL,1629611,Mann,T. Mann,0,0,0,,0,85,78,163,h,SUB: Plowden FOR Mann,Substitution,,0,0,311
+22401186,419,PT02M23.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,85,78,163,v,MISS Houstan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,312
+22401186,420,PT02M21.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,85,78,163,h,Wallace REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,313
+22401186,421,PT02M15.00S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,85,78,163,h,Krejci Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,1,0,314
+22401186,422,PT01M58.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,5,16,2,Missed,1,85,78,163,v,MISS Houstan 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,315
+22401186,423,PT01M54.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,85,78,163,v,Bitadze REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,316
+22401186,424,PT01M54.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,Missed,1,85,78,163,v,MISS Bitadze Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,317
+22401186,425,PT01M53.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,85,78,163,h,Mathews REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,318
+22401186,426,PT01M33.00S,3,1610612737,ATL,1630811,Wallace,K. Wallace,23,108,11,Made,1,87,78,165,h,Wallace 11' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,1,2,319
+22401186,427,PT01M14.00S,3,1610612753,ORL,1631216,Houstan,C. Houstan,-37,126,13,Made,1,87,80,167,v,Houstan 13' Pullup Jump Shot (8 PTS) (Bitadze 3 AST),Made Shot,Pullup Jump shot,1,2,320
+22401186,428,PT01M00.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,143,206,25,Made,1,90,80,170,h,Mathews 25' 3PT Jump Shot (12 PTS) (Wallace 13 AST),Made Shot,Jump Shot,1,3,321
+22401186,430,PT00M55.90S,3,1610612753,ORL,1641724,Howard,J. Howard,-20,16,3,Made,1,90,82,172,v,Howard 3' Driving Layup (14 PTS) (Anthony 3 AST),Made Shot,Driving Layup Shot,1,2,322
+22401186,432,PT00M36.40S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,-34,103,11,Made,1,92,82,174,h,Krejci 11' Fadeaway Jumper (13 PTS),Made Shot,Fadeaway Jump Shot,1,2,323
+22401186,434,PT00M13.10S,3,1610612753,ORL,1631216,Houstan,C. Houstan,217,127,25,Missed,1,92,82,174,v,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,324
+22401186,435,PT00M09.90S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,92,82,174,v,Bitadze REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,325
+22401186,436,PT00M05.00S,3,1610612753,ORL,1629048,Bitadze,G. Bitadze,-17,15,2,Made,1,92,84,176,v,Bitadze 2' Layup (6 PTS),Made Shot,Layup Shot,1,2,326
+22401186,437,PT00M00.90S,3,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,92,84,176,h,Krejci Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,327
+22401186,437,PT00M00.90S,3,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,92,84,176,v,Houstan STEAL (1 STL),,,1,0,328
+22401186,439,PT00M00.00S,3,0,,0,,,0,0,0,,0,92,84,176,,End of 3rd Period (2:38 PM EST),period,end,1,0,329
+22401186,443,PT12M00.00S,4,0,,0,,,0,0,0,,0,92,84,176,,Start of 4th Period (2:40 PM EST),period,start,0,0,330
+22401186,444,PT11M44.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,-26,100,10,Made,1,94,84,178,h,Wallace 10' Fadeaway Jumper (15 PTS),Made Shot,Fadeaway Jump Shot,1,2,331
+22401186,445,PT11M28.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,-4,5,1,Missed,1,94,84,178,v,MISS Bitadze 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,332
+22401186,446,PT11M24.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,94,84,178,h,Wallace REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,333
+22401186,447,PT11M19.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,94,84,178,v,Houstan S.FOUL (P2.T1) (S.Wright),Foul,Shooting,1,0,334
+22401186,449,PT11M19.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,95,84,179,h,Barlow Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,335
+22401186,450,PT11M19.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,96,84,180,h,Barlow Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,336
+22401186,451,PT11M09.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,-81,22,8,Missed,1,96,84,180,v,MISS Houstan 8' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,2,337
+22401186,452,PT11M08.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,96,84,180,v,Bitadze REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,338
+22401186,453,PT11M08.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,Made,1,96,86,182,v,Bitadze Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,1,2,339
+22401186,454,PT10M55.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,17,132,13,Missed,1,96,86,182,h,MISS Wallace 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,340
+22401186,455,PT10M52.00S,4,1610612753,ORL,1641783,da Silva,T. da Silva,0,0,0,,0,96,86,182,v,da Silva REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,341
+22401186,456,PT10M38.00S,4,1610612753,ORL,1641783,da Silva,T. da Silva,32,176,18,Missed,1,96,86,182,v,MISS da Silva 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,342
+22401186,457,PT10M34.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,96,86,182,h,Wallace REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,343
+22401186,458,PT10M25.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,-1,1,0,Made,1,98,86,184,h,Barlow Cutting Dunk Shot (12 PTS) (Krejci 5 AST),Made Shot,Cutting Dunk Shot,1,2,344
+22401186,460,PT10M11.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,98,86,184,h,Krejci P.FOUL (P2.T1) (J.Tiven),Foul,Personal,1,0,345
+22401186,462,PT10M11.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,98,86,184,h,SUB: Toppin FOR Barlow,Substitution,,0,0,346
+22401186,464,PT10M08.00S,4,1610612753,ORL,1641783,da Silva,T. da Silva,45,186,19,Missed,1,98,86,184,v,MISS da Silva 19' Jump Shot,Missed Shot,Jump Shot,1,2,347
+22401186,465,PT10M07.00S,4,0,,1610612737,,,0,0,0,,0,98,86,184,h,HAWKS Rebound,Rebound,Unknown,1,0,348
+22401186,466,PT10M07.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,98,86,184,v,Bitadze L.B.FOUL (P1.T2) (J.Goldenberg),Foul,Loose Ball,1,0,349
+22401186,468,PT09M56.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,-33,67,7,Missed,1,98,86,184,h,MISS Wallace 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,350
+22401186,469,PT09M49.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,98,86,184,h,Krejci REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,351
+22401186,470,PT09M37.00S,4,0,,1610612737,,,0,0,0,,0,98,86,184,h,HAWKS Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,1,0,352
+22401186,471,PT09M23.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,-237,-25,24,Made,1,98,89,187,v,Houstan 24' 3PT Jump Shot (11 PTS) (da Silva 5 AST),Made Shot,Jump Shot,1,3,353
+22401186,473,PT09M05.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,-174,179,25,Missed,1,98,89,187,h,MISS Mathews 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+22401186,474,PT09M02.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,98,89,187,v,Bitadze REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,355
+22401186,475,PT08M54.00S,4,1610612753,ORL,1641724,Howard,J. Howard,-188,173,26,Missed,1,98,89,187,v,MISS Howard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,356
+22401186,476,PT08M50.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,98,89,187,h,Krejci REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,357
+22401186,477,PT08M43.00S,4,1610612737,ATL,1631342,Plowden,D. Plowden,-134,211,25,Made,1,101,89,190,h,Plowden 25' 3PT Jump Shot (10 PTS) (Krejci 6 AST),Made Shot,Jump Shot,1,3,358
+22401186,479,PT08M35.00S,4,0,,1610612753,,,0,0,0,,0,101,89,190,v,Magic Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,359
+22401186,480,PT08M35.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,101,89,190,h,SUB: Barlow FOR Wallace,Substitution,,0,0,360
+22401186,482,PT08M25.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,101,89,190,v,Howard Out of Bounds - Bad Pass Turnover Turnover (P5.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,361
+22401186,483,PT08M11.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,-4,1,0,Made,1,103,89,192,h,Barlow Alley Oop Dunk (14 PTS) (Plowden 1 AST),Made Shot,Alley Oop Dunk Shot,1,2,362
+22401186,485,PT07M41.00S,4,1610612753,ORL,1641710,Black,A. Black,-39,247,25,Missed,1,103,89,192,v,MISS Black 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,363
+22401186,486,PT07M37.00S,4,1610612737,ATL,1631342,Plowden,D. Plowden,0,0,0,,0,103,89,192,h,Plowden REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,364
+22401186,487,PT07M35.00S,4,1610612737,ATL,1631342,Plowden,D. Plowden,0,3,0,Made,1,105,89,194,h,Plowden Running Dunk (12 PTS),Made Shot,Running Dunk Shot,1,2,365
+22401186,488,PT07M28.00S,4,1610612753,ORL,1641710,Black,A. Black,-7,21,2,Missed,1,105,89,194,v,MISS Black 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,366
+22401186,489,PT07M28.00S,4,1610612737,ATL,1631342,Plowden,D. Plowden,0,0,0,,0,105,89,194,h,Plowden REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,367
+22401186,490,PT07M22.00S,4,1610612737,ATL,1631210,Toppin,J. Toppin,-235,-17,24,Made,1,108,89,197,h,Toppin 24' 3PT Running Jump Shot (14 PTS) (Krejci 7 AST),Made Shot,Running Jump Shot,1,3,368
+22401186,492,PT07M07.00S,4,1610612753,ORL,1641710,Black,A. Black,1,18,2,Made,1,108,91,199,v,Black 2' Driving Dunk (15 PTS) (da Silva 6 AST),Made Shot,Driving Dunk Shot,1,2,369
+22401186,493,PT06M54.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,108,91,199,v,Bitadze S.FOUL (P2.T3) (J.Tiven),Foul,Shooting,1,0,370
+22401186,495,PT06M54.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,108,91,199,h,MISS Barlow Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,371
+22401186,496,PT06M54.00S,4,0,,1610612737,,,0,0,0,,0,108,91,199,h,HAWKS Rebound,Rebound,Normal Rebound,1,0,372
+22401186,497,PT06M54.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,109,91,200,h,Barlow Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,373
+22401186,499,PT06M39.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,109,91,200,h,Barlow P.FOUL (P3.T2) (J.Tiven),Foul,Personal,1,0,374
+22401186,501,PT06M27.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,109,91,200,h,Mathews S.FOUL (P2.T3) (S.Wright),Foul,Shooting,1,0,375
+22401186,503,PT06M27.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,109,91,200,v,MISS Bitadze Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,376
+22401186,504,PT06M27.00S,4,0,,1610612753,,,0,0,0,,0,109,91,200,v,Magic Rebound,Rebound,Normal Rebound,0,0,377
+22401186,505,PT06M27.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,109,91,200,h,SUB: Wallace FOR Krejci,Substitution,,0,0,378
+22401186,507,PT06M27.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,109,92,201,v,Bitadze Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,379
+22401186,508,PT06M16.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,20,241,24,Missed,1,109,92,201,h,MISS Wallace 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,380
+22401186,509,PT06M12.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,109,92,201,v,Houstan REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,381
+22401186,510,PT05M54.00S,4,1610612753,ORL,1641710,Black,A. Black,47,41,6,Made,1,109,94,203,v,Black 6' Driving Floating Bank Jump Shot (17 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,382
+22401186,511,PT05M43.00S,4,1610612737,ATL,1631342,Plowden,D. Plowden,-6,0,1,Made,1,111,94,205,h,Plowden 1' Driving Layup (14 PTS) (Wallace 14 AST),Made Shot,Driving Layup Shot,1,2,383
+22401186,513,PT05M30.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,111,94,205,v,Houstan Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,384
+22401186,514,PT05M19.00S,4,1610612737,ATL,1631210,Toppin,J. Toppin,9,140,14,Missed,1,111,94,205,h,MISS Toppin 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,385
+22401186,515,PT05M14.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,111,94,205,v,Black REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,386
+22401186,516,PT05M08.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,-13,33,4,Missed,1,111,94,205,v,MISS Bitadze 4' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,1,2,387
+22401186,517,PT05M06.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,111,94,205,v,Bitadze REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,388
+22401186,518,PT05M06.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,111,94,205,h,Barlow S.FOUL (P4.T4) (J.Tiven),Foul,Shooting,1,0,389
+22401186,520,PT05M06.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,111,94,205,v,MISS Bitadze Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,390
+22401186,521,PT05M06.00S,4,0,,1610612753,,,0,0,0,,0,111,94,205,v,Magic Rebound,Rebound,Normal Rebound,0,0,391
+22401186,522,PT05M06.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,111,95,206,v,Bitadze Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,392
+22401186,523,PT04M53.00S,4,1610612737,ATL,1631210,Toppin,J. Toppin,233,6,0,Made,1,114,95,209,h,Toppin 3PT Jump Shot (17 PTS) (Plowden 2 AST),Made Shot,Jump Shot,1,3,393
+22401186,525,PT04M43.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,-85,251,27,Missed,1,114,95,209,v,MISS Bitadze 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,394
+22401186,526,PT04M37.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,114,95,209,h,Barlow REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,395
+22401186,527,PT04M29.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,185,172,25,Missed,1,114,95,209,h,MISS Wallace 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,396
+22401186,528,PT04M26.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,114,95,209,v,Houstan REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,397
+22401186,529,PT04M04.00S,4,1610612753,ORL,1641724,Howard,J. Howard,13,110,11,Missed,1,114,95,209,v,MISS Howard 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,398
+22401186,530,PT04M01.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,114,95,209,h,Wallace REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,399
+22401186,531,PT03M58.00S,4,1610612737,ATL,1631342,Plowden,D. Plowden,0,0,0,,0,114,95,209,h,Plowden Bad Pass Turnover (P3.T14),Turnover,Bad Pass,1,0,400
+22401186,531,PT03M58.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,114,95,209,v,Houstan STEAL (2 STL),,,1,0,401
+22401186,533,PT03M50.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,4,7,1,Made,1,114,97,211,v,Houstan 1' Driving Layup (13 PTS) (Howard 1 AST),Made Shot,Driving Layup Shot,1,2,402
+22401186,535,PT03M40.00S,4,1610612737,ATL,1631342,Plowden,D. Plowden,-5,258,26,Made,1,117,97,214,h,Plowden 26' 3PT Jump Shot (17 PTS) (Wallace 15 AST),Made Shot,Jump Shot,1,3,403
+22401186,537,PT03M40.00S,4,0,,1610612753,,,0,0,0,,0,117,97,214,v,Magic Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,404
+22401186,538,PT03M22.00S,4,1610612753,ORL,1641710,Black,A. Black,-22,127,13,Missed,1,117,97,214,v,MISS Black 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,405
+22401186,539,PT03M20.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,117,97,214,h,Mathews REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,406
+22401186,540,PT03M09.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,117,97,214,v,Howard S.FOUL (P3.T4) (S.Wright),Foul,Shooting,1,0,407
+22401186,542,PT03M09.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,117,97,214,h,MISS Barlow Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,408
+22401186,543,PT03M09.00S,4,0,,1610612737,,,0,0,0,,0,117,97,214,h,HAWKS Rebound,Rebound,Normal Rebound,0,0,409
+22401186,544,PT03M09.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,0,0,0,,0,117,97,214,h,MISS Barlow Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,410
+22401186,545,PT03M06.00S,4,1610612753,ORL,1631216,Houstan,C. Houstan,0,0,0,,0,117,97,214,v,Houstan REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,411
+22401186,546,PT02M54.00S,4,1610612753,ORL,1641783,da Silva,T. da Silva,5,109,11,Missed,1,117,97,214,v,MISS da Silva 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,412
+22401186,547,PT02M50.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,117,97,214,h,Wallace REBOUND (Off:0 Def:11),Rebound,Unknown,1,0,413
+22401186,548,PT02M47.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,117,97,214,h,Wallace Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,414
+22401186,549,PT02M33.00S,4,1610612753,ORL,1641710,Black,A. Black,-65,248,26,Made,1,117,100,217,v,Black 26' 3PT Jump Shot (20 PTS) (Bitadze 4 AST),Made Shot,Jump Shot,1,3,415
+22401186,551,PT02M10.00S,4,1610612737,ATL,1631210,Toppin,J. Toppin,0,0,0,,0,117,100,217,h,Toppin Out of Bounds - Bad Pass Turnover Turnover (P1.T16),Turnover,Out of Bounds - Bad Pass Turnover,1,0,416
+22401186,570,PT02M05.00S,4,1610612753,ORL,1641724,Howard,J. Howard,0,0,0,,0,117,100,217,v,Howard Lost Ball Turnover (P6.T14),Turnover,Lost Ball,1,0,417
+22401186,570,PT02M05.00S,4,1610612737,ATL,1630811,Wallace,K. Wallace,0,0,0,,0,117,100,217,h,Wallace STEAL (5 STL),,,1,0,418
+22401186,555,PT01M44.00S,4,1610612737,ATL,1631230,Barlow,D. Barlow,-127,142,19,Missed,1,117,100,217,h,MISS Barlow 19' Jump Shot,Missed Shot,Jump Shot,1,2,419
+22401186,556,PT01M42.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,117,100,217,v,Black REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,420
+22401186,557,PT01M28.00S,4,1610612753,ORL,1641783,da Silva,T. da Silva,183,167,25,Made,1,117,103,220,v,da Silva 25' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,421
+22401186,558,PT01M12.00S,4,1610612737,ATL,1631210,Toppin,J. Toppin,-16,22,3,Missed,1,117,103,220,h,MISS Toppin 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,422
+22401186,558,PT01M12.00S,4,1610612753,ORL,1629048,Bitadze,G. Bitadze,0,0,0,,0,117,103,220,v,Bitadze BLOCK (1 BLK),,,1,2,423
+22401186,560,PT01M08.00S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,117,103,220,v,Black REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,424
+22401186,561,PT00M59.40S,4,1610612753,ORL,1641724,Howard,J. Howard,12,10,2,Made,1,117,105,222,v,Howard 2' Driving Layup (16 PTS) (Black 2 AST),Made Shot,Driving Layup Shot,1,2,425
+22401186,562,PT00M37.40S,4,1610612737,ATL,1630811,Wallace,K. Wallace,69,156,17,Missed,1,117,105,222,h,MISS Wallace 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,426
+22401186,563,PT00M32.60S,4,1610612737,ATL,1631342,Plowden,D. Plowden,0,0,0,,0,117,105,222,h,Plowden REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,427
+22401186,564,PT00M32.60S,4,1610612737,ATL,1631342,Plowden,D. Plowden,0,0,0,Missed,1,117,105,222,h,MISS Plowden Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,428
+22401186,565,PT00M31.90S,4,1610612753,ORL,1641710,Black,A. Black,0,0,0,,0,117,105,222,v,Black REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,429
+22401186,566,PT00M10.70S,4,0,,1610612753,,,0,0,0,,0,117,105,222,v,Magic Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,430
+22401186,567,PT00M00.00S,4,0,,0,,,0,0,0,,0,117,105,222,,End of 4th Period (3:05 PM EST),period,end,1,0,431

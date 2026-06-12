@@ -1,0 +1,481 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22200021,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:42 PM EST),period,start,1,0,1
+22200021,4,PT12M00.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,0,0,0,h,Jump Ball Claxton vs. Barnes: Tip to Siakam,Jump Ball,,1,0,2
+22200021,7,PT11M46.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,0,0,0,v,Anunoby Traveling Turnover (P1.T1),Turnover,Traveling,1,0,3
+22200021,8,PT11M23.00S,1,1610612751,BKN,202681,Irving,K. Irving,189,88,21,Made,1,2,0,2,h,Irving 21' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,4
+22200021,9,PT11M02.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,54,71,9,Made,1,2,2,4,v,Trent Jr. 9' Driving Floating Jump Shot (2 PTS) (Anunoby 1 AST),Made Shot,Driving Floating Jump Shot,1,2,5
+22200021,11,PT10M43.00S,1,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,2,2,4,h,Irving Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,6
+22200021,11,PT10M43.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,2,2,4,v,VanVleet STEAL (1 STL),,,1,0,7
+22200021,13,PT10M37.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,17,-13,2,Made,1,2,4,6,v,Barnes 2' Running Dunk (2 PTS) (Siakam 1 AST),Made Shot,Running Dunk Shot,1,2,8
+22200021,15,PT10M21.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,-16,49,5,Missed,1,2,4,6,h,MISS O'Neale 5' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,9
+22200021,16,PT10M18.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,2,4,6,h,Claxton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,10
+22200021,17,PT10M17.00S,1,1610612751,BKN,201142,Durant,K. Durant,40,243,25,Missed,1,2,4,6,h,MISS Durant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,11
+22200021,18,PT10M13.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,2,4,6,v,VanVleet REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,12
+22200021,20,PT10M09.00S,1,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,2,4,6,h,Irving P.FOUL (P1.T1) (S.Corbin),Foul,Personal,1,0,13
+22200021,22,PT09M55.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,81,53,10,Made,1,2,6,8,v,Siakam 10' Turnaround Bank Shot (2 PTS),Made Shot,Turnaround Bank shot,1,2,14
+22200021,23,PT09M39.00S,1,1610612751,BKN,201142,Durant,K. Durant,-115,6,12,Missed,1,2,6,8,h,MISS Durant 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,15
+22200021,24,PT09M36.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,2,6,8,v,Trent Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,16
+22200021,25,PT09M25.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,86,132,16,Missed,1,2,6,8,v,MISS Anunoby 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,17
+22200021,26,PT09M22.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,2,6,8,h,Durant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,18
+22200021,27,PT09M10.00S,1,1610612751,BKN,1627732,Simmons,B. Simmons,-21,86,9,Made,1,4,6,10,h,Simmons 9' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,1,2,19
+22200021,29,PT08M58.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,4,6,10,h,Claxton P.FOUL (P1.T2) (J.Capers),Foul,Personal,1,0,20
+22200021,31,PT08M48.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-2,0,0,Made,1,4,8,12,v,Trent Jr. Driving Layup (4 PTS) (VanVleet 1 AST),Made Shot,Driving Layup Shot,1,2,21
+22200021,33,PT08M27.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,-9,8,1,Made,1,6,8,14,h,Claxton 1' Cutting Dunk Shot (2 PTS) (Durant 1 AST),Made Shot,Cutting Dunk Shot,1,2,22
+22200021,35,PT08M13.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,-229,-26,0,Missed,1,6,8,14,v,MISS Anunoby 3PT Jump Shot,Missed Shot,Jump Shot,1,3,23
+22200021,36,PT08M10.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,6,8,14,v,Anunoby REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,24
+22200021,37,PT08M09.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,-4,22,2,Missed,1,6,8,14,v,MISS Anunoby 2' Layup,Missed Shot,Layup Shot,1,2,25
+22200021,37,PT08M09.00S,1,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,6,8,14,h,Simmons BLOCK (1 BLK),,,1,2,26
+22200021,39,PT08M06.00S,1,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,6,8,14,h,Simmons REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,27
+22200021,40,PT07M55.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,6,8,14,v,VanVleet P.FOUL (P1.T1) (D.Mosher),Foul,Personal,1,0,28
+22200021,42,PT07M53.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,6,13,1,Made,1,8,8,16,h,O'Neale 1' Cutting Layup Shot (2 PTS) (Simmons 1 AST),Made Shot,Cutting Layup Shot,0,2,29
+22200021,44,PT07M48.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,8,8,16,h,Claxton P.FOUL (P2.T3) (D.Mosher),Foul,Personal,1,0,30
+22200021,46,PT07M39.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,9,256,26,Missed,1,8,8,16,v,MISS Siakam 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+22200021,47,PT07M36.00S,1,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,8,8,16,h,Simmons REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,32
+22200021,48,PT07M26.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,8,8,16,v,Siakam S.FOUL (P1.T2) (D.Mosher),Foul,Shooting,1,0,33
+22200021,50,PT07M26.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,9,8,17,h,O'Neale Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,34
+22200021,51,PT07M26.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,10,8,18,h,O'Neale Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,35
+22200021,52,PT07M05.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,13,167,17,Made,1,10,10,20,v,Trent Jr. 17' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,36
+22200021,53,PT06M49.00S,1,1610612751,BKN,1627732,Simmons,B. Simmons,-45,64,8,Made,1,12,10,22,h,Simmons 8' Driving Floating Jump Shot (4 PTS) (Durant 2 AST),Made Shot,Driving Floating Jump Shot,1,2,37
+22200021,55,PT06M36.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,190,57,20,Missed,1,12,10,22,v,MISS Barnes 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,38
+22200021,56,PT06M36.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,12,10,22,h,Claxton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,39
+22200021,57,PT06M20.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,-15,2,2,Made,1,14,10,24,h,Claxton 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,40
+22200021,58,PT06M01.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,28,9,3,Made,1,14,12,26,v,Siakam 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,41
+22200021,59,PT06M00.00S,1,0,,1610612751,,,0,0,0,,0,14,12,26,h,NETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,42
+22200021,60,PT06M00.00S,1,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,14,12,26,h,SUB: Harris FOR Irving,Substitution,,0,0,43
+22200021,62,PT05M40.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,28,33,4,Missed,1,14,12,26,h,MISS Claxton 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,44
+22200021,63,PT05M38.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,14,12,26,v,Siakam REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,45
+22200021,64,PT05M26.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,34,38,5,Made,1,14,14,28,v,Siakam 5' Turnaround Bank Shot (6 PTS),Made Shot,Turnaround Bank shot,1,2,46
+22200021,65,PT05M19.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,14,14,28,v,Siakam S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,1,0,47
+22200021,67,PT05M19.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,15,14,29,h,Durant Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,48
+22200021,68,PT05M19.00S,1,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,15,14,29,h,SUB: Sharpe FOR Claxton,Substitution,,0,0,49
+22200021,69,PT05M19.00S,1,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,15,14,29,v,SUB: Achiuwa FOR Siakam,Substitution,,0,0,50
+22200021,72,PT05M19.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,16,14,30,h,Durant Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,51
+22200021,73,PT05M03.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,-44,72,8,Made,1,16,16,32,v,VanVleet 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,52
+22200021,74,PT04M47.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,-34,34,5,Made,1,18,16,34,h,Sharpe 5' Turnaround Hook Shot (2 PTS) (Durant 3 AST),Made Shot,Turnaround Hook Shot,1,2,53
+22200021,76,PT04M32.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,10,147,15,Made,1,18,18,36,v,Achiuwa 15' Pullup Jump Shot (2 PTS) (VanVleet 2 AST),Made Shot,Pullup Jump shot,1,2,54
+22200021,78,PT04M18.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,-5,10,1,Made,1,20,18,38,h,Sharpe 1' Cutting Dunk Shot (4 PTS) (Durant 4 AST),Made Shot,Cutting Dunk Shot,1,2,55
+22200021,80,PT04M07.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-124,220,25,Made,1,20,21,41,v,Trent Jr. 25' 3PT Jump Shot (9 PTS) (VanVleet 3 AST),Made Shot,Jump Shot,1,3,56
+22200021,82,PT03M51.00S,1,1610612751,BKN,203925,Harris,J. Harris,-6,100,10,Missed,1,20,21,41,h,MISS Harris 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,57
+22200021,83,PT03M48.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,20,21,41,v,Achiuwa REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,58
+22200021,84,PT03M41.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,20,21,41,v,Achiuwa Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,59
+22200021,84,PT03M41.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,20,21,41,h,O'Neale STEAL (1 STL),,,1,0,60
+22200021,86,PT03M34.00S,1,1610612751,BKN,201142,Durant,K. Durant,-228,39,0,Missed,1,20,21,41,h,MISS Durant 3PT Jump Shot,Missed Shot,Jump Shot,1,3,61
+22200021,87,PT03M30.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,20,21,41,v,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,62
+22200021,88,PT03M22.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,232,24,0,Missed,1,20,21,41,v,MISS VanVleet 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+22200021,89,PT03M17.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,20,21,41,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+22200021,90,PT03M09.00S,1,1610612751,BKN,201142,Durant,K. Durant,74,251,26,Missed,1,20,21,41,h,MISS Durant 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,65
+22200021,91,PT03M06.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,20,21,41,v,Achiuwa REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,66
+22200021,92,PT03M01.00S,1,0,,1610612761,,,0,0,0,,0,20,21,41,v,Raptors Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,67
+22200021,93,PT03M01.00S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,20,21,41,h,SUB: Irving FOR O'Neale,Substitution,,0,0,68
+22200021,94,PT03M01.00S,1,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,20,21,41,h,SUB: Mills FOR Durant,Substitution,,0,0,69
+22200021,95,PT03M01.00S,1,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,20,21,41,h,SUB: Morris FOR Simmons,Substitution,,0,0,70
+22200021,96,PT03M01.00S,1,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,20,21,41,v,SUB: Koloko FOR Anunoby,Substitution,,0,0,71
+22200021,97,PT03M01.00S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,20,21,41,v,SUB: Banton FOR VanVleet,Substitution,,0,0,72
+22200021,103,PT02M51.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,22,62,7,Missed,1,20,21,41,v,MISS Trent Jr. 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,73
+22200021,104,PT02M51.00S,1,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,20,21,41,v,Koloko REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,74
+22200021,105,PT02M51.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,20,21,41,h,Sharpe S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,1,0,75
+22200021,107,PT02M51.00S,1,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,20,22,42,v,Koloko Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,76
+22200021,108,PT02M51.00S,1,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,20,22,42,v,MISS Koloko Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,77
+22200021,109,PT02M48.00S,1,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,20,22,42,h,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+22200021,110,PT02M39.00S,1,1610612751,BKN,203925,Harris,J. Harris,-23,262,26,Made,1,23,22,45,h,Harris 26' 3PT Jump Shot (3 PTS) (Irving 1 AST),Made Shot,Jump Shot,1,3,79
+22200021,112,PT02M17.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,48,4,5,Missed,1,23,22,45,v,MISS Achiuwa 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,80
+22200021,112,PT02M17.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,23,22,45,h,Sharpe BLOCK (1 BLK),,,1,2,81
+22200021,114,PT02M15.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,23,22,45,v,Barnes REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,82
+22200021,115,PT02M15.00S,1,1610612761,TOR,1630625,Banton,D. Banton,0,0,0,,0,23,22,45,v,Banton Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,1,0,83
+22200021,117,PT01M58.00S,1,1610612751,BKN,201988,Mills,P. Mills,21,12,2,Missed,1,23,22,45,h,MISS Mills 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,84
+22200021,118,PT01M56.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,23,22,45,h,Sharpe REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,85
+22200021,119,PT01M49.00S,1,1610612751,BKN,202681,Irving,K. Irving,-228,63,24,Made,1,26,22,48,h,Irving 24' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,3,86
+22200021,120,PT01M26.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,-27,8,3,Missed,1,26,22,48,v,MISS Barnes 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,87
+22200021,121,PT01M25.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,26,22,48,h,Sharpe REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,88
+22200021,122,PT01M21.00S,1,1610612751,BKN,202681,Irving,K. Irving,151,202,25,Missed,1,26,22,48,h,MISS Irving 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,89
+22200021,123,PT01M17.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,26,22,48,v,Achiuwa REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,90
+22200021,124,PT01M13.00S,1,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,26,22,48,h,Morris S.FOUL (P1.PN) (S.Corbin),Foul,Shooting,1,0,91
+22200021,126,PT01M13.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,26,23,49,v,Achiuwa Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,92
+22200021,127,PT01M13.00S,1,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,26,23,49,v,SUB: Anunoby FOR Barnes,Substitution,,0,0,93
+22200021,129,PT01M13.00S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,26,24,50,v,Achiuwa Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,94
+22200021,130,PT01M01.00S,1,1610612761,TOR,1630625,Banton,D. Banton,0,0,0,,0,26,24,50,v,Banton S.FOUL (P1.T4) (D.Mosher),Foul,Shooting,1,0,95
+22200021,132,PT01M01.00S,1,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,27,24,51,h,Mills Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,96
+22200021,133,PT01M01.00S,1,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,28,24,52,h,Mills Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,97
+22200021,134,PT00M45.00S,1,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-67,236,25,Missed,1,28,24,52,v,MISS Trent Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,98
+22200021,135,PT00M39.00S,1,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,28,24,52,h,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,99
+22200021,136,PT00M35.40S,1,1610612751,BKN,202681,Irving,K. Irving,-1,-3,0,Missed,1,28,24,52,h,MISS Irving Running Layup,Missed Shot,Running Layup Shot,1,2,100
+22200021,137,PT00M33.80S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,28,24,52,h,Sharpe REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,101
+22200021,138,PT00M30.10S,1,1610612751,BKN,201988,Mills,P. Mills,148,214,26,Missed,1,28,24,52,h,MISS Mills 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,102
+22200021,139,PT00M28.20S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,28,24,52,v,Achiuwa REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,103
+22200021,140,PT00M28.20S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,28,24,52,h,Sharpe Transition Take Foul (P2.PN) (S.Corbin),Foul,Transition Take,1,0,104
+22200021,142,PT00M28.20S,1,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,28,24,52,v,MISS Achiuwa Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,105
+22200021,143,PT00M28.20S,1,0,,1610612761,,,0,0,0,,0,28,24,52,v,Raptors Rebound,Rebound,Unknown,0,0,106
+22200021,144,PT00M28.20S,1,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,28,24,52,h,SUB: O'Neale FOR Mills,Substitution,,0,0,107
+22200021,145,PT00M28.20S,1,1610612761,TOR,1630625,Banton,D. Banton,0,0,0,,0,28,24,52,v,SUB: VanVleet FOR Banton,Substitution,,0,0,108
+22200021,148,PT00M16.90S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,-85,240,25,Missed,1,28,24,52,v,MISS VanVleet 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,109
+22200021,149,PT00M13.00S,1,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,28,24,52,h,Sharpe REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,110
+22200021,150,PT00M01.50S,1,1610612751,BKN,1626220,O'Neale,R. O'Neale,-2,67,7,Missed,1,28,24,52,h,MISS O'Neale 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,111
+22200021,150,PT00M01.50S,1,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,28,24,52,v,Koloko BLOCK (1 BLK),,,1,2,112
+22200021,152,PT00M01.50S,1,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,28,24,52,v,VanVleet REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,113
+22200021,153,PT00M00.00S,1,0,,0,,,0,0,0,,0,28,24,52,,End of 1st Period (8:08 PM EST),period,end,1,0,114
+22200021,162,PT12M00.00S,2,0,,0,,,0,0,0,,0,28,24,52,,Start of 2nd Period (8:10 PM EST),period,start,0,0,115
+22200021,163,PT11M43.00S,2,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,28,24,52,v,Koloko S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,1,0,116
+22200021,165,PT11M43.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,28,24,52,h,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,117
+22200021,166,PT11M43.00S,2,0,,1610612751,,,0,0,0,,0,28,24,52,h,NETS Rebound,Rebound,Normal Rebound,0,0,118
+22200021,167,PT11M43.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,28,24,52,h,MISS Claxton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,119
+22200021,168,PT11M40.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,28,24,52,v,Siakam REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,120
+22200021,169,PT11M20.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,-99,143,17,Missed,1,28,24,52,v,MISS Siakam 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,121
+22200021,170,PT11M17.00S,2,0,,1610612761,,,0,0,0,,0,28,24,52,v,Raptors Rebound,Rebound,Unknown,0,0,122
+22200021,172,PT11M08.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,22,-2,2,Made,1,28,26,54,v,Siakam 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,123
+22200021,173,PT10M54.00S,2,1610612751,BKN,202693,Morris,M. Morris,157,202,26,Missed,1,28,26,54,h,MISS Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,124
+22200021,174,PT10M51.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,28,26,54,v,Siakam REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,125
+22200021,175,PT10M43.00S,2,1610612761,TOR,1630625,Banton,D. Banton,-230,-23,0,Missed,1,28,26,54,v,MISS Banton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+22200021,176,PT10M43.00S,2,0,,1610612751,,,0,0,0,,0,28,26,54,h,NETS Rebound,Rebound,Unknown,1,0,127
+22200021,177,PT10M43.00S,2,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,28,26,54,v,Achiuwa L.B.FOUL (P1.T2) (S.Corbin),Foul,Loose Ball,1,0,128
+22200021,179,PT10M33.00S,2,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,28,26,54,v,Achiuwa P.FOUL (P2.T3) (D.Mosher),Foul,Personal,1,0,129
+22200021,182,PT10M19.00S,2,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,28,26,54,h,Simmons Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,130
+22200021,182,PT10M19.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,28,26,54,v,VanVleet STEAL (2 STL),,,1,0,131
+22200021,184,PT10M08.00S,2,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,112,225,25,Missed,1,28,26,54,v,MISS Achiuwa 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,132
+22200021,185,PT10M04.00S,2,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,28,26,54,h,Simmons REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,133
+22200021,186,PT09M57.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,28,26,54,h,O'Neale Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,1,0,134
+22200021,187,PT09M43.00S,2,1610612761,TOR,1630625,Banton,D. Banton,28,9,3,Made,1,28,28,56,v,Banton 3' Cutting Layup Shot (2 PTS) (Siakam 2 AST),Made Shot,Cutting Layup Shot,1,2,135
+22200021,189,PT09M32.00S,2,1610612751,BKN,202681,Irving,K. Irving,54,5,5,Made,1,30,28,58,h,Irving 5' Floating Jump Shot (7 PTS) (Simmons 2 AST),Made Shot,Floating Jump shot,1,2,136
+22200021,191,PT09M17.00S,2,1610612761,TOR,1631132,Koloko,C. Koloko,11,-1,1,Missed,1,30,28,58,v,MISS Koloko 1' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,137
+22200021,191,PT09M17.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,30,28,58,h,Claxton BLOCK (1 BLK),,,1,2,138
+22200021,193,PT09M14.00S,2,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,30,28,58,v,Koloko REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,139
+22200021,194,PT09M09.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,-45,240,24,Missed,1,30,28,58,v,MISS Siakam 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,140
+22200021,195,PT09M04.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,30,28,58,h,O'Neale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,141
+22200021,196,PT09M00.00S,2,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,30,28,58,h,Irving Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,142
+22200021,196,PT09M00.00S,2,1610612761,TOR,1630625,Banton,D. Banton,0,0,0,,0,30,28,58,v,Banton STEAL (1 STL),,,1,0,143
+22200021,198,PT08M56.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,-179,169,25,Made,1,30,31,61,v,VanVleet 25' 3PT Running Jump Shot (5 PTS) (Siakam 3 AST),Made Shot,Running Jump Shot,1,3,144
+22200021,200,PT08M55.00S,2,0,,1610612751,,,0,0,0,,0,30,31,61,h,NETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,145
+22200021,201,PT08M55.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,30,31,61,h,SUB: Harris FOR O'Neale,Substitution,,0,0,146
+22200021,202,PT08M55.00S,2,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,30,31,61,h,SUB: Durant FOR Morris,Substitution,,0,0,147
+22200021,203,PT08M55.00S,2,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,30,31,61,v,SUB: Young FOR Achiuwa,Substitution,,0,0,148
+22200021,207,PT08M37.00S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,30,31,61,h,Durant Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,149
+22200021,207,PT08M37.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,30,31,61,v,VanVleet STEAL (3 STL),,,1,0,150
+22200021,209,PT08M33.00S,2,1610612761,TOR,1630625,Banton,D. Banton,1,5,1,Made,1,30,33,63,v,Banton 1' Running Dunk (4 PTS) (VanVleet 4 AST),Made Shot,Running Dunk Shot,1,2,151
+22200021,211,PT08M20.00S,2,1610612751,BKN,202681,Irving,K. Irving,-132,230,27,Made,1,33,33,66,h,Irving 27' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,3,152
+22200021,212,PT07M58.00S,2,1610612761,TOR,201152,Young,T. Young,232,27,0,Missed,1,33,33,66,v,MISS Young 3PT Jump Shot,Missed Shot,Jump Shot,1,3,153
+22200021,213,PT07M54.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,33,33,66,v,Siakam REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,154
+22200021,214,PT07M52.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,11,1,1,Made,1,33,35,68,v,Siakam 1' Floating Jump Shot (10 PTS),Made Shot,Floating Jump shot,1,2,155
+22200021,215,PT07M37.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,10,-3,1,Made,1,35,35,70,h,Claxton 1' Cutting Dunk Shot (6 PTS) (Simmons 3 AST),Made Shot,Cutting Dunk Shot,1,2,156
+22200021,217,PT07M22.00S,2,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,35,35,70,h,Simmons P.FOUL (P1.T1) (S.Corbin),Foul,Personal,1,0,157
+22200021,219,PT07M22.00S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,35,35,70,v,SUB: Anunoby FOR VanVleet,Substitution,,0,0,158
+22200021,220,PT07M22.00S,2,1610612761,TOR,1630625,Banton,D. Banton,0,0,0,,0,35,35,70,v,SUB: Trent Jr. FOR Banton,Substitution,,0,0,159
+22200021,223,PT07M09.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,-105,173,20,Made,1,35,37,72,v,Siakam 20' Jump Shot (12 PTS),Made Shot,Jump Shot,1,2,160
+22200021,224,PT06M53.00S,2,1610612751,BKN,201142,Durant,K. Durant,229,13,0,Missed,1,35,37,72,h,MISS Durant 3PT Jump Shot,Missed Shot,Jump Shot,1,3,161
+22200021,225,PT06M49.00S,2,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,35,37,72,v,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,162
+22200021,226,PT06M43.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,129,85,15,Made,1,35,39,74,v,Siakam 15' Fadeaway Jumper (14 PTS),Made Shot,Fadeaway Jump Shot,1,2,163
+22200021,227,PT06M28.00S,2,1610612751,BKN,201142,Durant,K. Durant,-75,110,13,Made,1,37,39,76,h,Durant 13' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,1,2,164
+22200021,228,PT06M07.00S,2,1610612761,TOR,1631132,Koloko,C. Koloko,208,19,21,Missed,1,37,39,76,v,MISS Koloko 21' Jump Shot,Missed Shot,Jump Shot,1,2,165
+22200021,229,PT06M04.00S,2,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,37,39,76,h,Simmons REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,166
+22200021,230,PT05M58.00S,2,1610612751,BKN,202681,Irving,K. Irving,64,256,26,Missed,1,37,39,76,h,MISS Irving 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,167
+22200021,231,PT05M56.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,37,39,76,v,Siakam REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,168
+22200021,232,PT05M52.00S,2,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,37,39,76,h,Irving S.FOUL (P2.T2) (D.Mosher),Foul,Shooting,1,0,169
+22200021,234,PT05M52.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,37,40,77,v,Siakam Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,170
+22200021,235,PT05M52.00S,2,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,37,40,77,h,SUB: Sharpe FOR Simmons,Substitution,,0,0,171
+22200021,236,PT05M52.00S,2,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,37,40,77,h,SUB: O'Neale FOR Irving,Substitution,,0,0,172
+22200021,237,PT05M52.00S,2,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,37,40,77,h,SUB: Mills FOR Claxton,Substitution,,0,0,173
+22200021,238,PT05M52.00S,2,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,37,40,77,v,SUB: Barnes FOR Koloko,Substitution,,0,0,174
+22200021,243,PT05M52.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,37,41,78,v,Siakam Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,175
+22200021,244,PT05M35.00S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,37,41,78,h,Durant Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,176
+22200021,244,PT05M35.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,37,41,78,v,Barnes STEAL (1 STL),,,1,0,177
+22200021,246,PT05M30.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,6,14,2,Made,1,37,43,80,v,Siakam 2' Running Dunk (18 PTS) (Young 1 AST),Made Shot,Running Dunk Shot,1,2,178
+22200021,248,PT05M15.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,37,43,80,v,Barnes S.FOUL (P1.T4) (D.Mosher),Foul,Shooting,1,0,179
+22200021,250,PT05M15.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,37,43,80,h,MISS Sharpe Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,180
+22200021,251,PT05M15.00S,2,0,,1610612751,,,0,0,0,,0,37,43,80,h,NETS Rebound,Rebound,Normal Rebound,0,0,181
+22200021,252,PT05M15.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,37,43,80,h,MISS Sharpe Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,182
+22200021,253,PT05M11.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,37,43,80,v,Siakam REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,183
+22200021,254,PT04M57.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,-88,5,9,Missed,1,37,43,80,v,MISS Anunoby 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,184
+22200021,255,PT04M54.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,37,43,80,h,Sharpe REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,185
+22200021,256,PT04M46.00S,2,1610612751,BKN,201142,Durant,K. Durant,103,1,10,Missed,1,37,43,80,h,MISS Durant 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,186
+22200021,257,PT04M45.00S,2,0,,1610612761,,,0,0,0,,0,37,43,80,v,Raptors Rebound,Rebound,Unknown,1,0,187
+22200021,259,PT04M32.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,37,43,80,v,Siakam Traveling Turnover (P1.T4),Turnover,Traveling,1,0,188
+22200021,260,PT04M20.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,-42,48,6,Missed,1,37,43,80,h,MISS Sharpe 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,189
+22200021,261,PT04M17.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,37,43,80,v,Siakam REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,190
+22200021,262,PT04M13.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,37,43,80,h,Sharpe P.FOUL (P3.T3) (J.Capers),Foul,Personal,1,0,191
+22200021,264,PT04M03.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,39,264,27,Made,1,37,46,83,v,Trent Jr. 27' 3PT Jump Shot (12 PTS) (Siakam 4 AST),Made Shot,Jump Shot,1,3,192
+22200021,266,PT03M47.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,37,46,83,v,Anunoby S.FOUL (P1.PN) (J.Capers),Foul,Shooting,1,0,193
+22200021,268,PT03M47.00S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,38,46,84,h,Durant Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,194
+22200021,269,PT03M47.00S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,38,46,84,h,MISS Durant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,195
+22200021,270,PT03M44.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,38,46,84,v,Siakam REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,196
+22200021,271,PT03M38.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,103,224,25,Missed,1,38,46,84,v,MISS Siakam 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,197
+22200021,272,PT03M34.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,38,46,84,h,Sharpe REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,198
+22200021,273,PT03M28.00S,2,1610612751,BKN,201142,Durant,K. Durant,4,5,1,Made,1,40,46,86,h,Durant 1' Driving Dunk (7 PTS),Made Shot,Driving Dunk Shot,1,2,199
+22200021,274,PT03M17.00S,2,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,40,46,86,h,Harris S.FOUL (P1.T4) (J.Capers),Foul,Shooting,1,0,200
+22200021,276,PT03M17.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,40,47,87,v,Anunoby Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,201
+22200021,277,PT03M17.00S,2,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,40,47,87,h,SUB: Simmons FOR Harris,Substitution,,0,0,202
+22200021,278,PT03M17.00S,2,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,40,47,87,h,SUB: Irving FOR Sharpe,Substitution,,0,0,203
+22200021,281,PT03M17.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,40,48,88,v,Anunoby Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,204
+22200021,282,PT03M03.00S,2,1610612751,BKN,201988,Mills,P. Mills,-229,21,0,Made,1,43,48,91,h,Mills 3PT Jump Shot (5 PTS) (Simmons 4 AST),Made Shot,Jump Shot,1,3,205
+22200021,284,PT02M56.00S,2,0,,1610612761,,,0,0,0,,0,43,48,91,v,Raptors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,206
+22200021,285,PT02M56.00S,2,1610612761,TOR,201152,Young,T. Young,0,0,0,,0,43,48,91,v,SUB: VanVleet FOR Young,Substitution,,0,0,207
+22200021,287,PT02M44.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,16,5,2,Made,1,43,50,93,v,Barnes 2' Driving Layup (4 PTS) (VanVleet 5 AST),Made Shot,Driving Layup Shot,1,2,208
+22200021,289,PT02M30.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,43,50,93,v,Anunoby P.FOUL (P2.PN) (S.Corbin),Foul,Personal,1,0,209
+22200021,291,PT02M30.00S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,44,50,94,h,Durant Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,210
+22200021,292,PT02M30.00S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,45,50,95,h,Durant Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,211
+22200021,293,PT02M16.00S,2,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-224,-20,0,Missed,1,45,50,95,v,MISS Trent Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,212
+22200021,294,PT02M13.00S,2,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,45,50,95,h,Simmons REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,213
+22200021,295,PT02M09.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,45,50,95,v,Siakam S.FOUL (P3.PN) (J.Capers),Foul,Shooting,1,0,214
+22200021,297,PT02M09.00S,2,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,46,50,96,h,Mills Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,215
+22200021,298,PT02M09.00S,2,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,46,50,96,v,SUB: Achiuwa FOR Siakam,Substitution,,0,0,216
+22200021,300,PT02M09.00S,2,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,47,50,97,h,Mills Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,217
+22200021,301,PT01M48.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,103,145,18,Missed,1,47,50,97,v,MISS Barnes 18' Jump Shot,Missed Shot,Jump Shot,1,2,218
+22200021,302,PT01M46.00S,2,0,,1610612751,,,0,0,0,,0,47,50,97,h,NETS Rebound,Rebound,Unknown,1,0,219
+22200021,304,PT01M27.00S,2,1610612751,BKN,201142,Durant,K. Durant,-45,73,9,Missed,1,47,50,97,h,MISS Durant 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,220
+22200021,305,PT01M24.00S,2,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,47,50,97,v,Achiuwa REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,221
+22200021,306,PT01M13.00S,2,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,11,8,1,Missed,1,47,50,97,v,MISS Achiuwa 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,222
+22200021,306,PT01M13.00S,2,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,47,50,97,h,Simmons BLOCK (2 BLK),,,1,2,223
+22200021,308,PT01M13.00S,2,0,,1610612761,,,0,0,0,,0,47,50,97,v,Raptors Rebound,Rebound,Unknown,1,0,224
+22200021,310,PT01M07.00S,2,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,47,50,97,h,O'Neale S.FOUL (P1.PN) (J.Capers),Foul,Shooting,1,0,225
+22200021,312,PT01M07.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,47,51,98,v,Barnes Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,226
+22200021,313,PT01M07.00S,2,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,47,51,98,v,SUB: Banton FOR Anunoby,Substitution,,0,0,227
+22200021,315,PT01M07.00S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,47,52,99,v,Barnes Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,228
+22200021,316,PT00M56.10S,2,1610612751,BKN,201142,Durant,K. Durant,-42,73,8,Made,1,49,52,101,h,Durant 8' Floating Jump Shot (11 PTS) (Simmons 5 AST),Made Shot,Floating Jump shot,1,2,229
+22200021,327,PT00M34.50S,2,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,49,52,101,v,Barnes Basket from Below Turnover (P1.T5),Turnover,Basket from Below Turnover,1,0,230
+22200021,321,PT00M25.10S,2,1610612751,BKN,202681,Irving,K. Irving,170,197,26,Missed,1,49,52,101,h,MISS Irving 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+22200021,322,PT00M21.70S,2,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,49,52,101,h,Durant REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,232
+22200021,323,PT00M19.80S,2,1610612751,BKN,1627732,Simmons,B. Simmons,-4,0,0,Missed,1,49,52,101,h,MISS Simmons Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,233
+22200021,324,PT00M17.30S,2,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,49,52,101,v,Achiuwa REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,234
+22200021,326,PT00M15.60S,2,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,49,52,101,v,Achiuwa Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,235
+22200021,328,PT00M01.20S,2,1610612751,BKN,202681,Irving,K. Irving,-33,16,4,Missed,1,49,52,101,h,MISS Irving 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,236
+22200021,329,PT00M01.20S,2,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,49,52,101,v,VanVleet REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,237
+22200021,330,PT00M00.00S,2,0,,0,,,0,0,0,,0,49,52,101,,End of 2nd Period (8:39 PM EST),period,end,1,0,238
+22200021,337,PT12M00.00S,3,0,,0,,,0,0,0,,0,49,52,101,,Start of 3rd Period (8:55 PM EST),period,start,0,0,239
+22200021,338,PT11M41.00S,3,1610612751,BKN,201142,Durant,K. Durant,113,159,20,Made,1,51,52,103,h,Durant 20' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,2,240
+22200021,339,PT11M23.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-38,100,11,Missed,1,51,52,103,v,MISS Trent Jr. 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,241
+22200021,339,PT11M23.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,51,52,103,h,Durant BLOCK (1 BLK),,,1,2,242
+22200021,341,PT11M19.00S,3,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,51,52,103,h,Simmons REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,243
+22200021,342,PT11M18.00S,3,1610612751,BKN,202681,Irving,K. Irving,4,-1,0,Made,1,53,52,105,h,Irving Running Layup (12 PTS) (Simmons 6 AST),Made Shot,Running Layup Shot,1,2,244
+22200021,344,PT10M56.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-154,200,25,Missed,1,53,52,105,v,MISS Trent Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,245
+22200021,344,PT10M56.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,53,52,105,h,Durant BLOCK (2 BLK),,,1,3,246
+22200021,345,PT10M52.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,53,52,105,h,Claxton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,247
+22200021,346,PT10M48.00S,3,1610612751,BKN,202681,Irving,K. Irving,-75,240,25,Made,1,56,52,108,h,Irving 25' 3PT Running Jump Shot (15 PTS) (Durant 5 AST),Made Shot,Running Jump Shot,1,3,248
+22200021,349,PT10M20.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,120,11,12,Missed,1,56,52,108,v,MISS Trent Jr. 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,249
+22200021,350,PT10M19.00S,3,0,,1610612761,,,0,0,0,,0,56,52,108,v,Raptors Rebound,Rebound,Unknown,1,0,250
+22200021,351,PT10M19.00S,3,0,,1610612761,,,0,0,0,,0,56,52,108,v,Raptors Turnover: Shot Clock (T#7),Turnover,Shot Clock Turnover,1,0,251
+22200021,352,PT10M11.00S,3,1610612751,BKN,202681,Irving,K. Irving,113,120,16,Made,1,58,52,110,h,Irving 16' Pullup Jump Shot (17 PTS) (Simmons 7 AST),Made Shot,Pullup Jump shot,1,2,252
+22200021,354,PT09M50.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,58,52,110,v,Barnes Traveling Turnover (P2.T8),Turnover,Traveling,1,0,253
+22200021,355,PT09M37.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,58,52,110,h,Durant Bad Pass Turnover (P3.T7),Turnover,Bad Pass,1,0,254
+22200021,355,PT09M37.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,58,52,110,v,Barnes STEAL (2 STL),,,1,0,255
+22200021,357,PT09M33.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,58,52,110,v,Anunoby Traveling Turnover (P2.T9),Turnover,Traveling,1,0,256
+22200021,358,PT09M24.00S,3,1610612751,BKN,202681,Irving,K. Irving,12,243,24,Missed,1,58,52,110,h,MISS Irving 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,257
+22200021,359,PT09M22.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,58,52,110,v,Anunoby REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,258
+22200021,432,PT09M12.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,-43,16,5,Missed,1,58,52,110,v,MISS Barnes 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,259
+22200021,432,PT09M12.00S,3,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,58,52,110,h,Irving BLOCK (1 BLK),,,1,2,260
+22200021,434,PT09M11.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,58,52,110,h,O'Neale REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,261
+22200021,362,PT08M57.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,58,52,110,h,Durant Lost Ball Turnover (P4.T8),Turnover,Lost Ball,1,0,262
+22200021,362,PT08M57.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,58,52,110,v,Anunoby STEAL (1 STL),,,1,0,263
+22200021,364,PT08M54.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,4,2,0,Made,1,58,54,112,v,Anunoby Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,264
+22200021,366,PT08M37.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,-104,231,25,Missed,1,58,54,112,h,MISS O'Neale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,265
+22200021,367,PT08M33.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,58,54,112,v,Siakam REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,266
+22200021,368,PT08M27.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,-2,18,2,Made,1,58,56,114,v,Siakam 2' Cutting Dunk Shot (20 PTS) (Barnes 1 AST),Made Shot,Cutting Dunk Shot,1,2,267
+22200021,370,PT08M27.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,58,56,114,h,Durant S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,1,0,268
+22200021,372,PT08M27.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,58,56,114,v,MISS Siakam Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,269
+22200021,373,PT08M24.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,58,56,114,h,Durant REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,270
+22200021,374,PT08M09.00S,3,1610612751,BKN,202681,Irving,K. Irving,89,236,25,Missed,1,58,56,114,h,MISS Irving 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,271
+22200021,375,PT08M06.00S,3,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,58,56,114,h,Irving REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,272
+22200021,376,PT08M04.00S,3,1610612751,BKN,201142,Durant,K. Durant,-51,248,25,Made,1,61,56,117,h,Durant 25' 3PT Jump Shot (16 PTS) (Irving 2 AST),Made Shot,Jump Shot,1,3,273
+22200021,378,PT07M46.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,-148,207,25,Missed,1,61,56,117,v,MISS Anunoby 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,274
+22200021,379,PT07M42.00S,3,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,61,56,117,h,Simmons REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,275
+22200021,380,PT07M34.00S,3,1610612751,BKN,201142,Durant,K. Durant,212,130,25,Made,1,64,56,120,h,Durant 25' 3PT Jump Shot (19 PTS) (Simmons 8 AST),Made Shot,Jump Shot,1,3,276
+22200021,382,PT07M33.00S,3,0,,1610612761,,,0,0,0,,0,64,56,120,v,Raptors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,277
+22200021,384,PT07M13.00S,3,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,64,56,120,h,Irving P.FOUL (P3.T2) (S.Corbin),Foul,Personal,1,0,278
+22200021,386,PT07M07.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,-142,128,19,Made,1,64,58,122,v,VanVleet 19' Pullup Jump Shot (7 PTS) (Siakam 5 AST),Made Shot,Pullup Jump shot,1,2,279
+22200021,388,PT06M45.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,-71,241,25,Missed,1,64,58,122,h,MISS O'Neale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,280
+22200021,389,PT06M41.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,64,58,122,v,Barnes REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,281
+22200021,390,PT06M32.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,-16,4,2,Made,1,64,60,124,v,Barnes 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,282
+22200021,392,PT06M26.00S,3,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,64,60,124,h,Simmons Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,283
+22200021,392,PT06M26.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,64,60,124,v,Trent Jr. STEAL (1 STL),,,1,0,284
+22200021,394,PT06M23.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-4,7,1,Missed,1,64,60,124,v,MISS Trent Jr. 1' Running Layup,Missed Shot,Running Layup Shot,1,2,285
+22200021,394,PT06M23.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,64,60,124,h,Claxton BLOCK (2 BLK),,,1,2,286
+22200021,396,PT06M20.00S,3,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,64,60,124,h,Simmons REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,287
+22200021,397,PT06M17.00S,3,1610612751,BKN,202681,Irving,K. Irving,191,161,25,Missed,1,64,60,124,h,MISS Irving 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,288
+22200021,398,PT06M17.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,64,60,124,h,Claxton REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,289
+22200021,399,PT06M13.00S,3,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,64,60,124,h,SUB: Harris FOR Irving,Substitution,,0,0,290
+22200021,401,PT06M07.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,64,60,124,h,Jump Ball Claxton vs. VanVleet: Tip to Durant,Jump Ball,,1,0,291
+22200021,404,PT06M03.00S,3,1610612751,BKN,201142,Durant,K. Durant,-94,22,10,Missed,1,64,60,124,h,MISS Durant 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,292
+22200021,405,PT05M58.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,64,60,124,h,Claxton REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,293
+22200021,406,PT05M58.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,-5,6,1,Missed,1,64,60,124,h,MISS Claxton 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,294
+22200021,406,PT05M58.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,64,60,124,v,VanVleet BLOCK (1 BLK),,,1,2,295
+22200021,408,PT05M58.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,64,60,124,v,VanVleet REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,296
+22200021,410,PT05M54.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,234,53,24,Made,1,64,63,127,v,Siakam 24' 3PT Jump Shot (23 PTS) (VanVleet 6 AST),Made Shot,Jump Shot,1,3,297
+22200021,412,PT05M54.00S,3,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,64,63,127,h,Simmons S.FOUL (P2.T3) (J.Capers),Foul,Shooting,1,0,298
+22200021,414,PT05M54.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,0,0,0,,0,64,63,127,v,SUB: Koloko FOR Trent Jr.,Substitution,,0,0,299
+22200021,416,PT05M54.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,64,63,127,v,MISS Siakam Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,300
+22200021,417,PT05M52.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,64,63,127,v,Barnes REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,301
+22200021,418,PT05M39.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,113,94,15,Missed,1,64,63,127,v,MISS Barnes 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,302
+22200021,418,PT05M39.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,64,63,127,h,Claxton BLOCK (3 BLK),,,1,2,303
+22200021,420,PT05M39.00S,3,0,,1610612761,,,0,0,0,,0,64,63,127,v,Raptors Rebound,Rebound,Unknown,0,0,304
+22200021,421,PT05M39.00S,3,0,,1610612761,,,0,0,0,,0,64,63,127,v,Raptors Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,1,0,305
+22200021,422,PT05M26.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,64,63,127,h,Durant Out of Bounds - Bad Pass Turnover Turnover (P5.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,306
+22200021,423,PT05M26.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,64,63,127,h,SUB: Sharpe FOR Claxton,Substitution,,0,0,307
+22200021,425,PT05M10.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,-181,175,25,Made,1,64,66,130,v,Barnes 25' 3PT Jump Shot (11 PTS) (VanVleet 7 AST),Made Shot,Jump Shot,1,3,308
+22200021,427,PT04M52.00S,3,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,64,66,130,h,Simmons Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,309
+22200021,427,PT04M52.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,64,66,130,v,VanVleet STEAL (4 STL),,,1,0,310
+22200021,429,PT04M48.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,2,7,1,Made,1,64,68,132,v,Siakam 1' Running Dunk (25 PTS) (Barnes 2 AST),Made Shot,Running Dunk Shot,1,2,311
+22200021,431,PT04M48.00S,3,0,,1610612751,,,0,0,0,,0,64,68,132,h,NETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,312
+22200021,435,PT04M34.00S,3,1610612751,BKN,203925,Harris,J. Harris,36,240,24,Missed,1,64,68,132,h,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,313
+22200021,436,PT04M31.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,64,68,132,v,Barnes REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,314
+22200021,437,PT04M24.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,-48,57,7,Made,1,64,70,134,v,Siakam 7' Turnaround Jump Shot (27 PTS),Made Shot,Turnaround Jump Shot,1,2,315
+22200021,438,PT04M24.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,64,70,134,h,O'Neale S.FOUL (P2.T4) (S.Corbin),Foul,Shooting,1,0,316
+22200021,440,PT04M24.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,64,70,134,h,Sharpe Violation:Defensive Goaltending (J.Capers),Violation,Defensive Goaltending,1,0,317
+22200021,441,PT04M24.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,64,71,135,v,Siakam Free Throw 1 of 1 (28 PTS),Free Throw,Free Throw 1 of 1,1,0,318
+22200021,442,PT04M24.00S,3,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,64,71,135,h,SUB: Irving FOR Simmons,Substitution,,0,0,319
+22200021,444,PT04M09.00S,3,1610612751,BKN,201142,Durant,K. Durant,98,63,12,Made,1,66,71,137,h,Durant 12' Turnaround Jump Shot (21 PTS) (Harris 1 AST),Made Shot,Turnaround Jump Shot,1,2,320
+22200021,446,PT03M52.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,-10,69,7,Made,1,66,73,139,v,Barnes 7' Turnaround Bank Shot (13 PTS),Made Shot,Turnaround Bank shot,1,2,321
+22200021,447,PT03M46.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,66,73,139,h,O'Neale Palming Turnover (P2.T12),Turnover,Palming Turnover,1,0,322
+22200021,448,PT03M31.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,-105,236,26,Made,1,66,76,142,v,Siakam 26' 3PT Jump Shot (31 PTS) (VanVleet 8 AST),Made Shot,Jump Shot,1,3,323
+22200021,450,PT03M12.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,66,76,142,v,Anunoby S.FOUL (P3.T1) (S.Corbin),Foul,Shooting,1,0,324
+22200021,452,PT03M12.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,67,76,143,h,Durant Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,325
+22200021,453,PT03M12.00S,3,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,67,76,143,h,SUB: Morris FOR O'Neale,Substitution,,0,0,326
+22200021,454,PT03M12.00S,3,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,67,76,143,h,SUB: Claxton FOR Sharpe,Substitution,,0,0,327
+22200021,455,PT03M12.00S,3,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,67,76,143,v,SUB: Banton FOR Anunoby,Substitution,,0,0,328
+22200021,456,PT03M12.00S,3,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,67,76,143,v,SUB: Achiuwa FOR Barnes,Substitution,,0,0,329
+22200021,457,PT03M12.00S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,67,76,143,v,SUB: Trent Jr. FOR VanVleet,Substitution,,0,0,330
+22200021,463,PT03M12.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,68,76,144,h,Durant Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,331
+22200021,464,PT02M54.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,59,168,18,Made,1,68,78,146,v,Siakam 18' Pullup Jump Shot (33 PTS),Made Shot,Pullup Jump shot,1,2,332
+22200021,465,PT02M43.00S,3,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,68,78,146,v,Koloko S.FOUL (P2.T2) (D.Mosher),Foul,Shooting,1,0,333
+22200021,467,PT02M43.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,68,78,146,h,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,334
+22200021,468,PT02M43.00S,3,0,,1610612751,,,0,0,0,,0,68,78,146,h,NETS Rebound,Rebound,Normal Rebound,0,0,335
+22200021,469,PT02M43.00S,3,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,68,78,146,h,SUB: Mills FOR Durant,Substitution,,0,0,336
+22200021,471,PT02M43.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,69,78,147,h,Claxton Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,337
+22200021,472,PT02M35.00S,3,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,69,78,147,h,Morris P.FOUL (P2.PN) (S.Corbin),Foul,Personal,1,0,338
+22200021,474,PT02M35.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,69,78,147,v,MISS Siakam Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,339
+22200021,475,PT02M35.00S,3,0,,1610612761,,,0,0,0,,0,69,78,147,v,Raptors Rebound,Rebound,Normal Rebound,0,0,340
+22200021,476,PT02M35.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,69,79,148,v,Siakam Free Throw 2 of 2 (34 PTS),Free Throw,Free Throw 2 of 2,1,0,341
+22200021,477,PT02M16.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,-4,3,1,Made,1,71,79,150,h,Claxton 1' Reverse Layup (9 PTS) (Irving 3 AST),Made Shot,Reverse Layup Shot,1,2,342
+22200021,479,PT02M05.00S,3,1610612761,TOR,1630625,Banton,D. Banton,-1,15,2,Missed,1,71,79,150,v,MISS Banton 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,343
+22200021,479,PT02M05.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,71,79,150,h,Claxton BLOCK (4 BLK),,,1,2,344
+22200021,481,PT02M02.00S,3,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,71,79,150,h,Morris REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,345
+22200021,482,PT01M59.00S,3,1610612751,BKN,202681,Irving,K. Irving,120,224,25,Missed,1,71,79,150,h,MISS Irving 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,346
+22200021,483,PT01M57.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,71,79,150,h,Claxton REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,347
+22200021,484,PT01M57.00S,3,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,71,79,150,v,Koloko S.FOUL (P3.T3) (D.Mosher),Foul,Shooting,1,0,348
+22200021,486,PT01M57.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,71,79,150,h,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,349
+22200021,487,PT01M57.00S,3,0,,1610612751,,,0,0,0,,0,71,79,150,h,NETS Rebound,Rebound,Normal Rebound,0,0,350
+22200021,488,PT01M57.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,71,79,150,h,MISS Claxton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,351
+22200021,489,PT01M54.00S,3,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,71,79,150,h,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,352
+22200021,490,PT01M50.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,6,14,2,Made,1,73,79,152,h,Claxton 2' Cutting Layup Shot (11 PTS) (Harris 2 AST),Made Shot,Cutting Layup Shot,1,2,353
+22200021,492,PT01M33.00S,3,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-104,230,25,Missed,1,73,79,152,v,MISS Trent Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,354
+22200021,493,PT01M29.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,73,79,152,h,Claxton REBOUND (Off:4 Def:3),Rebound,Unknown,1,0,355
+22200021,494,PT01M21.00S,3,1610612751,BKN,201988,Mills,P. Mills,-115,225,25,Missed,1,73,79,152,h,MISS Mills 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,356
+22200021,495,PT01M18.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,73,79,152,v,Siakam REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,357
+22200021,496,PT01M10.00S,3,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,73,79,152,v,Siakam Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,358
+22200021,496,PT01M10.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,73,79,152,h,Claxton STEAL (1 STL),,,1,0,359
+22200021,498,PT01M05.00S,3,1610612751,BKN,1629651,Claxton,N. Claxton,18,-5,2,Made,1,75,79,154,h,Claxton 2' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,2,360
+22200021,499,PT00M47.60S,3,1610612761,TOR,1627783,Siakam,P. Siakam,-32,263,26,Missed,1,75,79,154,v,MISS Siakam 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,361
+22200021,500,PT00M45.00S,3,1610612751,BKN,203925,Harris,J. Harris,0,0,0,,0,75,79,154,h,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,362
+22200021,501,PT00M28.30S,3,1610612751,BKN,201988,Mills,P. Mills,-232,-22,0,Made,1,78,79,157,h,Mills 3PT Jump Shot (10 PTS) (Irving 4 AST),Made Shot,Jump Shot,1,3,363
+22200021,504,PT00M06.70S,3,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,78,79,157,h,SUB: O'Neale FOR Mills,Substitution,,0,0,364
+22200021,505,PT00M06.70S,3,1610612761,TOR,1630625,Banton,D. Banton,0,0,0,,0,78,79,157,v,SUB: VanVleet FOR Banton,Substitution,,0,0,365
+22200021,508,PT00M04.20S,3,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,108,4,11,Missed,1,78,79,157,v,MISS Achiuwa 11' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,366
+22200021,509,PT00M00.40S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,78,79,157,v,VanVleet REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,367
+22200021,510,PT00M00.40S,3,1610612761,TOR,1627832,VanVleet,F. VanVleet,-29,12,3,Missed,1,78,79,157,v,MISS VanVleet 3' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,368
+22200021,511,PT00M00.40S,3,0,,1610612751,,,0,0,0,,0,78,79,157,h,NETS Rebound,Rebound,Unknown,1,0,369
+22200021,513,PT00M00.00S,3,0,,0,,,0,0,0,,0,78,79,157,,End of 3rd Period (9:23 PM EST),period,end,1,0,370
+22200021,520,PT12M00.00S,4,0,,0,,,0,0,0,,0,78,79,157,,Start of 4th Period (9:26 PM EST),period,start,0,0,371
+22200021,521,PT11M44.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,78,79,157,v,Anunoby Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,372
+22200021,521,PT11M44.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,78,79,157,h,O'Neale STEAL (2 STL),,,1,0,373
+22200021,523,PT11M27.00S,4,1610612751,BKN,202693,Morris,M. Morris,67,246,25,Made,1,81,79,160,h,Morris 25' 3PT Jump Shot (3 PTS) (Irving 5 AST),Made Shot,Jump Shot,1,3,374
+22200021,526,PT10M59.00S,4,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,-120,23,12,Missed,1,81,79,160,v,MISS Achiuwa 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,375
+22200021,527,PT10M55.00S,4,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,81,79,160,h,Simmons REBOUND (Off:0 Def:9),Rebound,Unknown,1,0,376
+22200021,528,PT10M50.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,-36,252,25,Missed,1,81,79,160,h,MISS O'Neale 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,377
+22200021,529,PT10M49.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,81,79,160,v,VanVleet REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,378
+22200021,592,PT10M49.00S,4,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,81,79,160,v,Achiuwa Lost Ball Turnover (P3.T13),Turnover,Lost Ball,1,0,379
+22200021,531,PT10M28.00S,4,1610612751,BKN,1627732,Simmons,B. Simmons,89,72,11,Missed,1,81,79,160,h,MISS Simmons 11' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,380
+22200021,532,PT10M26.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,81,79,160,h,Claxton REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,381
+22200021,533,PT10M26.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,Missed,1,81,79,160,h,MISS Claxton Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,382
+22200021,534,PT10M26.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,81,79,160,h,Claxton REBOUND (Off:6 Def:3),Rebound,Unknown,1,0,383
+22200021,535,PT10M26.00S,4,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,81,79,160,v,Koloko S.FOUL (P4.T1) (D.Mosher),Foul,Shooting,1,0,384
+22200021,537,PT10M26.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,82,79,161,h,Claxton Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,385
+22200021,538,PT10M26.00S,4,1610612761,TOR,1630625,Banton,D. Banton,0,0,0,,0,82,79,161,v,SUB: Barnes FOR Banton,Substitution,,0,0,386
+22200021,540,PT10M26.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,83,79,162,h,Claxton Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,387
+22200021,541,PT10M12.00S,4,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,83,79,162,h,Irving P.FOUL (P4.T1) (S.Corbin),Foul,Personal,1,0,388
+22200021,543,PT10M05.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,-105,236,26,Missed,1,83,79,162,v,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,389
+22200021,544,PT10M02.00S,4,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,83,79,162,h,Simmons REBOUND (Off:0 Def:10),Rebound,Unknown,1,0,390
+22200021,545,PT09M48.00S,4,1610612751,BKN,202681,Irving,K. Irving,18,69,7,Missed,1,83,79,162,h,MISS Irving 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,391
+22200021,545,PT09M48.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,83,79,162,v,Anunoby BLOCK (1 BLK),,,1,2,392
+22200021,547,PT09M45.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,83,79,162,h,Claxton REBOUND (Off:7 Def:3),Rebound,Unknown,1,0,393
+22200021,548,PT09M43.00S,4,1610612751,BKN,202681,Irving,K. Irving,194,5,19,Made,1,85,79,164,h,Irving 19' Step Back Jump Shot (19 PTS) (O'Neale 1 AST),Made Shot,Step Back Jump shot,1,2,394
+22200021,549,PT09M43.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,85,79,164,v,Anunoby S.FOUL (P4.T2) (S.Corbin),Foul,Shooting,1,0,395
+22200021,551,PT09M43.00S,4,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,86,79,165,h,Irving Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,1,0,396
+22200021,553,PT09M33.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,75,254,26,Made,1,86,82,168,v,VanVleet 26' 3PT Jump Shot (10 PTS) (Barnes 3 AST),Made Shot,Jump Shot,1,3,397
+22200021,555,PT09M13.00S,4,1610612751,BKN,202681,Irving,K. Irving,-91,232,25,Made,1,89,82,171,h,Irving 25' 3PT Step Back Jump Shot (23 PTS),Made Shot,Step Back Jump shot,1,3,398
+22200021,556,PT09M00.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,230,107,25,Made,1,89,85,174,v,Anunoby 25' 3PT Jump Shot (7 PTS) (VanVleet 9 AST),Made Shot,Jump Shot,1,3,399
+22200021,558,PT08M39.00S,4,1610612751,BKN,1627732,Simmons,B. Simmons,-9,5,1,Made,1,91,85,176,h,Simmons 1' Cutting Layup Shot (6 PTS) (Irving 6 AST),Made Shot,Cutting Layup Shot,1,2,400
+22200021,560,PT08M21.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,-102,233,25,Made,1,91,88,179,v,VanVleet 25' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,1,3,401
+22200021,561,PT08M16.00S,4,0,,1610612751,,,0,0,0,,0,91,88,179,h,NETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,402
+22200021,562,PT08M16.00S,4,1610612751,BKN,1627732,Simmons,B. Simmons,0,0,0,,0,91,88,179,h,SUB: Durant FOR Simmons,Substitution,,0,0,403
+22200021,563,PT08M16.00S,4,1610612761,TOR,1630173,Achiuwa,P. Achiuwa,0,0,0,,0,91,88,179,v,SUB: Siakam FOR Achiuwa,Substitution,,0,0,404
+22200021,566,PT07M57.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,4,0,Made,1,93,88,181,h,Claxton Cutting Dunk Shot (17 PTS) (O'Neale 2 AST),Made Shot,Cutting Dunk Shot,1,2,405
+22200021,670,PT07M35.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,-1,63,6,Missed,1,93,88,181,v,MISS Siakam 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,2,406
+22200021,670,PT07M35.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,93,88,181,h,O'Neale BLOCK (1 BLK),,,0,2,407
+22200021,672,PT07M34.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,93,88,181,h,Durant REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,408
+22200021,570,PT07M18.00S,4,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,93,88,181,v,Koloko S.FOUL (P5.T3) (S.Corbin),Foul,Shooting,1,0,409
+22200021,572,PT07M18.00S,4,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,94,88,182,h,Irving Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,410
+22200021,573,PT07M18.00S,4,1610612761,TOR,1631132,Koloko,C. Koloko,0,0,0,,0,94,88,182,v,SUB: Trent Jr. FOR Koloko,Substitution,,0,0,411
+22200021,575,PT07M18.00S,4,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,95,88,183,h,Irving Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,412
+22200021,576,PT07M08.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,95,88,183,v,Barnes OFF.Foul (P2) (J.Capers),Foul,Offensive,1,0,413
+22200021,580,PT07M08.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,95,88,183,v,Barnes Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,1,0,414
+22200021,578,PT07M08.00S,4,0,,1610612751,,,0,0,0,,0,95,88,183,h,NETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,415
+22200021,579,PT07M08.00S,4,0,,576,,,0,0,0,,0,95,88,183,,Instant Replay4th Period (9:37 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,416
+22200021,581,PT06M57.00S,4,1610612751,BKN,202681,Irving,K. Irving,76,253,26,Made,1,98,88,186,h,Irving 26' 3PT Pullup Jump Shot (28 PTS),Made Shot,Pullup Jump shot,1,3,417
+22200021,582,PT06M32.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,-12,63,6,Missed,1,98,88,186,v,MISS Barnes 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,418
+22200021,583,PT06M30.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,98,88,186,h,Claxton REBOUND (Off:7 Def:4),Rebound,Unknown,1,0,419
+22200021,584,PT06M20.00S,4,1610612751,BKN,202681,Irving,K. Irving,-6,1,1,Missed,1,98,88,186,h,MISS Irving 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,420
+22200021,585,PT06M18.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,98,88,186,v,Anunoby REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,421
+22200021,586,PT06M15.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,16,16,2,Missed,1,98,88,186,v,MISS Anunoby 2' Running Layup,Missed Shot,Running Layup Shot,1,2,422
+22200021,586,PT06M15.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,98,88,186,h,O'Neale BLOCK (2 BLK),,,1,2,423
+22200021,591,PT06M10.00S,4,0,,1610612761,,,0,0,0,,0,98,88,186,v,Raptors Rebound,Rebound,Unknown,0,0,424
+22200021,588,PT06M10.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,98,88,186,h,Jump Ball O'Neale vs. Anunoby: Tip to Anunoby,Jump Ball,,1,0,425
+22200021,593,PT05M57.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-142,101,17,Missed,1,98,88,186,v,MISS Trent Jr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,426
+22200021,594,PT05M53.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,98,88,186,h,O'Neale REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,427
+22200021,595,PT05M38.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,-1,0,0,Made,1,100,88,188,h,Claxton Cutting Finger Roll Layup Shot (19 PTS) (Durant 6 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,428
+22200021,598,PT05M17.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,-13,10,2,Made,1,100,90,190,v,Barnes 2' Hook Shot (15 PTS) (Siakam 6 AST),Made Shot,Hook Shot,1,2,429
+22200021,600,PT04M54.00S,4,1610612751,BKN,201142,Durant,K. Durant,-28,255,26,Missed,1,100,90,190,h,MISS Durant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,430
+22200021,601,PT04M51.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,100,90,190,v,Siakam REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,431
+22200021,602,PT04M47.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,-170,191,26,Made,1,100,93,193,v,VanVleet 26' 3PT Running Jump Shot (16 PTS) (Siakam 7 AST),Made Shot,Running Jump Shot,1,3,432
+22200021,604,PT04M21.00S,4,1610612751,BKN,202693,Morris,M. Morris,-232,-22,0,Missed,1,100,93,193,h,MISS Morris 3PT Jump Shot,Missed Shot,Jump Shot,1,3,433
+22200021,605,PT04M18.00S,4,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,100,93,193,h,Morris REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,434
+22200021,606,PT04M16.00S,4,1610612751,BKN,202693,Morris,M. Morris,-56,104,12,Missed,1,100,93,193,h,MISS Morris 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,435
+22200021,607,PT04M14.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,100,93,193,v,VanVleet REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,436
+22200021,608,PT03M57.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,4,2,0,Made,1,100,95,195,v,Barnes Dunk (17 PTS) (Siakam 8 AST),Made Shot,Dunk Shot,1,2,437
+22200021,610,PT03M30.00S,4,1610612751,BKN,201142,Durant,K. Durant,173,179,25,Missed,1,100,95,195,h,MISS Durant 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,438
+22200021,611,PT03M27.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,100,95,195,v,Barnes REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,439
+22200021,612,PT03M18.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-210,151,26,Missed,1,100,95,195,v,MISS Trent Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,440
+22200021,613,PT03M14.00S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,0,0,0,,0,100,95,195,h,O'Neale REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,441
+22200021,614,PT03M03.00S,4,1610612751,BKN,202681,Irving,K. Irving,6,14,2,Missed,1,100,95,195,h,MISS Irving 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,442
+22200021,614,PT03M03.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,100,95,195,v,Barnes BLOCK (1 BLK),,,1,2,443
+22200021,616,PT03M00.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,100,95,195,v,Anunoby REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,444
+22200021,617,PT02M57.00S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,-9,2,1,Missed,1,100,95,195,v,MISS VanVleet 1' Running Layup,Missed Shot,Running Layup Shot,1,2,445
+22200021,617,PT02M57.00S,4,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,100,95,195,h,Morris BLOCK (1 BLK),,,1,2,446
+22200021,618,PT02M55.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,100,95,195,v,Siakam REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,447
+22200021,619,PT02M54.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,-2,23,2,Made,1,100,97,197,v,Siakam 2' Putback Layup (36 PTS),Made Shot,Putback Layup Shot,1,2,448
+22200021,620,PT02M45.00S,4,0,,1610612751,,,0,0,0,,0,100,97,197,h,NETS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,449
+22200021,622,PT02M45.00S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,100,97,197,h,SUB: Simmons FOR Claxton,Substitution,,0,0,450
+22200021,624,PT02M34.00S,4,1610612751,BKN,202681,Irving,K. Irving,-163,184,25,Missed,1,100,97,197,h,MISS Irving 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,451
+22200021,625,PT02M30.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,0,0,0,,0,100,97,197,v,Anunoby REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,452
+22200021,626,PT02M19.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,100,97,197,v,Siakam Offensive Charge Foul (P4) (J.Capers),Foul,Offensive Charge,1,0,453
+22200021,628,PT02M19.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,100,97,197,v,Siakam Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,1,0,454
+22200021,630,PT02M19.00S,4,0,,1610612761,,,0,0,0,,0,100,97,197,v,Raptors Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,455
+22200021,629,PT02M19.00S,4,0,,626,,,0,0,0,,0,100,97,197,,Instant Replay4th Period (9:48 PM EST),Instant Replay,Coach Challenge Support Ruling,1,0,456
+22200021,631,PT02M02.00S,4,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,100,97,197,h,Morris OFF.Foul (P3) (J.Capers),Foul,Offensive,1,0,457
+22200021,633,PT02M02.00S,4,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,100,97,197,h,Morris Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,1,0,458
+22200021,634,PT02M02.00S,4,1610612751,BKN,202693,Morris,M. Morris,0,0,0,,0,100,97,197,h,SUB: Claxton FOR Morris,Substitution,,0,0,459
+22200021,636,PT01M46.00S,4,1610612761,TOR,1628384,Anunoby,O. Anunoby,-214,133,25,Made,1,100,100,200,v,Anunoby 25' 3PT Jump Shot (10 PTS) (Siakam 9 AST),Made Shot,Jump Shot,1,3,460
+22200021,638,PT01M27.00S,4,1610612751,BKN,202681,Irving,K. Irving,-89,192,21,Made,1,102,100,202,h,Irving 21' Pullup Jump Shot (30 PTS),Made Shot,Pullup Jump shot,1,2,461
+22200021,639,PT01M13.00S,4,1610612761,TOR,1629018,Trent Jr.,G. Trent Jr.,-15,5,2,Made,1,102,102,204,v,Trent Jr. 2' Driving Layup (14 PTS) (Siakam 10 AST),Made Shot,Driving Layup Shot,1,2,462
+22200021,641,PT00M56.00S,4,1610612751,BKN,201142,Durant,K. Durant,12,248,25,Made,1,105,102,207,h,Durant 25' 3PT Pullup Jump Shot (26 PTS) (O'Neale 3 AST),Made Shot,Pullup Jump shot,1,3,463
+22200021,643,PT00M38.70S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,43,113,12,Made,1,105,104,209,v,VanVleet 12' Pullup Jump Shot (18 PTS) (Siakam 11 AST),Made Shot,Pullup Jump shot,1,2,464
+22200021,645,PT00M15.30S,4,1610612751,BKN,1626220,O'Neale,R. O'Neale,-145,206,25,Made,1,108,104,212,h,O'Neale 25' 3PT Jump Shot (7 PTS) (Irving 7 AST),Made Shot,Jump Shot,1,3,465
+22200021,647,PT00M14.30S,4,0,,1610612761,,,0,0,0,,0,108,104,212,v,Raptors Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,466
+22200021,648,PT00M09.00S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,108,104,212,h,Durant S.FOUL (P2.T2) (J.Capers),Foul,Shooting,1,0,467
+22200021,650,PT00M09.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,108,105,213,v,Siakam Free Throw 1 of 2 (37 PTS),Free Throw,Free Throw 1 of 2,1,0,468
+22200021,651,PT00M09.00S,4,1610612751,BKN,202681,Irving,K. Irving,0,0,0,,0,108,105,213,h,SUB: Sharpe FOR Irving,Substitution,,0,0,469
+22200021,653,PT00M09.00S,4,1610612761,TOR,1627783,Siakam,P. Siakam,0,0,0,,0,108,105,213,v,MISS Siakam Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,470
+22200021,654,PT00M06.80S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,108,105,213,h,Durant REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,471
+22200021,655,PT00M06.20S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,108,105,213,v,VanVleet P.FOUL (P2.T4) (S.Corbin),Foul,Personal,1,0,472
+22200021,657,PT00M06.20S,4,1610612751,BKN,1629651,Claxton,N. Claxton,0,0,0,,0,108,105,213,h,SUB: Irving FOR Claxton,Substitution,,0,0,473
+22200021,658,PT00M06.20S,4,1610612751,BKN,1630549,Sharpe,D. Sharpe,0,0,0,,0,108,105,213,h,SUB: Mills FOR Sharpe,Substitution,,0,0,474
+22200021,661,PT00M04.30S,4,1610612761,TOR,1627832,VanVleet,F. VanVleet,0,0,0,,0,108,105,213,v,VanVleet P.FOUL (P3.PN) (J.Capers),Foul,Personal,1,0,475
+22200021,663,PT00M04.30S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,109,105,214,h,Durant Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,1,0,476
+22200021,664,PT00M04.30S,4,1610612751,BKN,201988,Mills,P. Mills,0,0,0,,0,109,105,214,h,SUB: Claxton FOR Mills,Substitution,,0,0,477
+22200021,666,PT00M04.30S,4,1610612751,BKN,201142,Durant,K. Durant,0,0,0,,0,109,105,214,h,MISS Durant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,478
+22200021,667,PT00M02.00S,4,1610612761,TOR,1630567,Barnes,S. Barnes,0,0,0,,0,109,105,214,v,Barnes REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,479
+22200021,668,PT00M00.00S,4,0,,0,,,0,0,0,,0,109,105,214,,End of 4th Period (9:57 PM EST),period,end,1,0,480

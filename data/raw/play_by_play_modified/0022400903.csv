@@ -1,0 +1,561 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22400903,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:06 PM EST),period,start,0,0,1
+22400903,4,PT12M00.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,0,0,0,h,Jump Ball Hayes vs. Towns: Tip to L. James,Jump Ball,,1,0,2
+22400903,7,PT11M45.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-172,205,27,Missed,1,0,0,0,h,MISS Reaves 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+22400903,8,PT11M41.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,0,0,0,v,Bridges REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22400903,9,PT11M27.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,-161,206,26,Missed,1,0,0,0,v,MISS Anunoby 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+22400903,10,PT11M25.00S,1,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,0,0,0,h,Finney-Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+22400903,11,PT11M20.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,180,205,27,Made,1,3,0,3,h,Dončić 27' 3PT Step Back Jump Shot (3 PTS) (L. James 1 AST),Made Shot,Step Back Jump shot,1,3,7
+22400903,13,PT11M00.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,98,51,11,Made,1,3,2,5,v,Brunson 11' Pullup Jump Shot (2 PTS) (Bridges 1 AST),Made Shot,Pullup Jump shot,1,2,8
+22400903,15,PT10M49.00S,1,1610612747,LAL,2544,James,L. James,-7,17,2,Made,1,5,2,7,h,L. James 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,9
+22400903,16,PT10M33.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,62,131,14,Made,1,5,4,9,v,Brunson 14' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,1,2,10
+22400903,17,PT10M23.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,5,4,9,v,Towns S.FOUL (P1.T1) (N.Green),Foul,Shooting,1,0,11
+22400903,19,PT10M23.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,6,4,10,h,L. James Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,12
+22400903,20,PT10M23.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,7,4,11,h,L. James Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,13
+22400903,21,PT10M09.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-34,76,8,Missed,1,7,4,11,v,MISS Bridges 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,14
+22400903,22,PT10M07.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,7,4,11,h,L. James REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+22400903,23,PT10M00.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,7,4,11,h,Reaves Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,0,16
+22400903,24,PT09M42.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,42,128,13,Missed,1,7,4,11,v,MISS Anunoby 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,17
+22400903,25,PT09M39.00S,1,0,,1610612747,,,0,0,0,,0,7,4,11,h,LAKERS Rebound,Rebound,Unknown,0,0,18
+22400903,27,PT09M26.00S,1,1610612747,LAL,2544,James,L. James,-135,114,18,Missed,1,7,4,11,h,MISS L. James 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,19
+22400903,28,PT09M19.00S,1,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,7,4,11,h,Finney-Smith REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,20
+22400903,29,PT09M19.00S,1,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,Made,1,9,4,13,h,Finney-Smith Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,21
+22400903,30,PT09M06.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-195,185,27,Missed,1,9,4,13,v,MISS Bridges 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,22
+22400903,31,PT09M04.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,9,4,13,v,Hart REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,23
+22400903,32,PT09M04.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,9,4,13,h,Dončić P.FOUL (P1.T1) (T.Ford),Foul,Personal,1,0,24
+22400903,34,PT08M50.00S,1,0,,1610612752,,,0,0,0,,0,9,4,13,v,Knicks Turnover: Shot Clock (T#1),Turnover,Shot Clock Turnover,1,0,25
+22400903,35,PT08M37.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,-2,30,3,Missed,1,9,4,13,h,MISS Hayes 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,26
+22400903,36,PT08M35.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,9,4,13,v,Towns REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,27
+22400903,37,PT08M32.00S,1,1610612752,NYK,1628404,Hart,J. Hart,15,-3,2,Made,1,9,6,15,v,Hart 2' Running Layup (2 PTS) (Brunson 1 AST),Made Shot,Running Layup Shot,1,2,28
+22400903,39,PT08M32.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,9,6,15,h,Hayes S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,1,0,29
+22400903,41,PT08M32.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,9,7,16,v,Hart Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,30
+22400903,42,PT08M22.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,9,7,16,v,Towns S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,1,0,31
+22400903,44,PT08M22.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,10,7,17,h,Dončić Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,32
+22400903,45,PT08M22.00S,1,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,10,7,17,v,SUB: Robinson FOR Towns,Substitution,,0,0,33
+22400903,47,PT08M22.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,11,7,18,h,Dončić Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,34
+22400903,48,PT08M07.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,11,7,18,v,Anunoby Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,35
+22400903,48,PT08M07.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,11,7,18,h,Dončić STEAL (1 STL),,,1,0,36
+22400903,50,PT08M01.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,-159,198,25,Made,1,14,7,21,h,Dončić 25' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,1,3,37
+22400903,52,PT07M38.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,-186,188,26,Missed,1,14,7,21,v,MISS Anunoby 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,38
+22400903,53,PT07M35.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,14,7,21,h,Reaves REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,39
+22400903,54,PT07M27.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,-11,30,3,Made,1,16,7,23,h,Dončić 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,1,2,40
+22400903,55,PT07M15.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-179,220,28,Made,1,16,10,26,v,Brunson 28' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,3,41
+22400903,56,PT06M57.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,16,10,26,v,Robinson Violation:Kicked Ball (J.DeRosa),Violation,Kicked Ball,0,0,42
+22400903,57,PT06M57.00S,1,0,,1610612747,,,0,0,0,,0,16,10,26,h,LAKERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,43
+22400903,58,PT06M57.00S,1,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,16,10,26,h,SUB: Vanderbilt FOR Hayes,Substitution,,0,0,44
+22400903,60,PT06M48.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-142,215,26,Missed,1,16,10,26,h,MISS Reaves 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,45
+22400903,61,PT06M45.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,16,10,26,v,Anunoby REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,46
+22400903,62,PT06M26.00S,1,1610612752,NYK,1628404,Hart,J. Hart,10,57,6,Made,1,16,12,28,v,Hart 6' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,1,2,47
+22400903,63,PT06M09.00S,1,1610612747,LAL,2544,James,L. James,-70,142,16,Made,1,18,12,30,h,L. James 16' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,2,48
+22400903,64,PT05M50.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,-64,136,15,Made,1,18,14,32,v,Brunson 15' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,49
+22400903,65,PT05M50.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,18,14,32,h,Vanderbilt S.FOUL (P1.T3) (N.Green),Foul,Shooting,1,0,50
+22400903,67,PT05M50.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,18,14,32,h,SUB: Knecht FOR Reaves,Substitution,,0,0,51
+22400903,68,PT05M50.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,18,14,32,h,SUB: Vincent FOR L. James,Substitution,,0,0,52
+22400903,71,PT05M50.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,18,15,33,v,Brunson Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,53
+22400903,72,PT05M24.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,-176,219,28,Missed,1,18,15,33,h,MISS Dončić 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,54
+22400903,73,PT05M22.00S,1,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,18,15,33,h,Knecht REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,55
+22400903,74,PT05M19.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,-18,14,2,Made,1,20,15,35,h,Dončić 2' Driving Layup (12 PTS) (Knecht 1 AST),Made Shot,Driving Layup Shot,1,2,56
+22400903,76,PT05M03.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,20,15,35,v,Anunoby Bad Pass Turnover (P2.T3),Turnover,Bad Pass,1,0,57
+22400903,76,PT05M03.00S,1,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,20,15,35,h,Finney-Smith STEAL (1 STL),,,1,0,58
+22400903,78,PT05M00.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,5,-4,1,Made,1,22,15,37,h,Vanderbilt 1' Running Dunk (2 PTS) (Dončić 1 AST),Made Shot,Running Dunk Shot,1,2,59
+22400903,80,PT04M59.00S,1,0,,1610612752,,,0,0,0,,0,22,15,37,v,Knicks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,60
+22400903,81,PT04M59.00S,1,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,22,15,37,h,SUB: Jemison III FOR Finney-Smith,Substitution,,0,0,61
+22400903,82,PT04M59.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,22,15,37,v,SUB: McBride FOR Hart,Substitution,,0,0,62
+22400903,85,PT04M42.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,219,106,24,Missed,1,22,15,37,v,MISS Brunson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+22400903,86,PT04M40.00S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,22,15,37,h,Jemison III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,64
+22400903,97,PT04M40.00S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,22,15,37,h,Jemison III Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,1,0,65
+22400903,88,PT04M37.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,223,23,0,Missed,1,22,15,37,v,MISS Anunoby 3PT Jump Shot,Missed Shot,Jump Shot,1,3,66
+22400903,89,PT04M36.00S,1,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,22,15,37,h,Knecht REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,67
+22400903,90,PT04M27.00S,1,1610612747,LAL,1642261,Knecht,D. Knecht,205,180,27,Missed,1,22,15,37,h,MISS Knecht 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,68
+22400903,91,PT04M23.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,22,15,37,v,Bridges REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,69
+22400903,92,PT04M16.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,-10,17,2,Missed,1,22,15,37,v,MISS Bridges 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,70
+22400903,94,PT04M12.00S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,22,15,37,h,Jemison III REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,71
+22400903,95,PT03M58.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,22,15,37,v,Anunoby S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,1,0,72
+22400903,98,PT03M58.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,22,15,37,h,MISS Dončić Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,73
+22400903,99,PT03M58.00S,1,0,,1610612747,,,0,0,0,,0,22,15,37,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,74
+22400903,100,PT03M58.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,23,15,38,h,Dončić Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,75
+22400903,101,PT03M48.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,1,67,7,Missed,1,23,15,38,v,MISS Brunson 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,76
+22400903,102,PT03M45.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,23,15,38,v,Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,77
+22400903,103,PT03M45.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,Made,1,23,17,40,v,Robinson Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,78
+22400903,104,PT03M33.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,119,229,26,Missed,1,23,17,40,h,MISS Dončić 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,79
+22400903,104,PT03M33.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,23,17,40,v,Anunoby BLOCK (1 BLK),,,1,3,80
+22400903,106,PT03M30.00S,1,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,23,17,40,v,McBride REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+22400903,107,PT03M25.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,-9,28,3,Missed,1,23,17,40,v,MISS Anunoby 3' Running Layup,Missed Shot,Running Layup Shot,1,2,82
+22400903,108,PT03M22.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,23,17,40,v,Bridges REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,83
+22400903,109,PT03M22.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,Made,1,23,19,42,v,Bridges Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,84
+22400903,110,PT03M11.00S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,26,3,Made,1,25,19,44,h,Jemison III 3' Dunk (2 PTS) (Dončić 2 AST),Made Shot,Dunk Shot,1,2,85
+22400903,112,PT02M51.00S,1,1610612752,NYK,1630540,McBride,M. McBride,-143,230,27,Missed,1,25,19,44,v,MISS McBride 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,86
+22400903,113,PT02M47.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,25,19,44,h,Dončić REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,87
+22400903,114,PT02M44.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,25,19,44,h,Dončić Offensive Charge Foul (P2) (T.Ford),Foul,Offensive Charge,1,0,88
+22400903,116,PT02M44.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,25,19,44,h,Dončić Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,89
+22400903,117,PT02M44.00S,1,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,25,19,44,h,SUB: L. James FOR Vanderbilt,Substitution,,0,0,90
+22400903,118,PT02M44.00S,1,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,25,19,44,h,SUB: Reaves FOR Dončić,Substitution,,0,0,91
+22400903,126,PT02M44.00S,1,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,25,19,44,v,SUB: Towns FOR Robinson,Substitution,,0,0,92
+22400903,121,PT02M28.00S,1,1610612752,NYK,1626157,Towns,K. Towns,-91,254,27,Missed,1,25,19,44,v,MISS Towns 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,93
+22400903,122,PT02M23.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,25,19,44,h,L. James REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,94
+22400903,123,PT02M21.00S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,-4,34,3,Made,1,27,19,46,h,Jemison III 3' Running Layup (4 PTS) (L. James 2 AST),Made Shot,Running Layup Shot,1,2,95
+22400903,125,PT02M09.00S,1,1610612752,NYK,1626157,Towns,K. Towns,-10,25,3,Made,1,27,21,48,v,Towns 3' Driving Layup (2 PTS) (Brunson 2 AST),Made Shot,Driving Layup Shot,1,2,96
+22400903,128,PT01M44.00S,1,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,27,21,48,v,SUB: Hart FOR Anunoby,Substitution,,0,0,97
+22400903,130,PT01M44.00S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,27,21,48,h,Jump Ball Jemison III vs. Bridges: Tip to Hart,Jump Ball,,1,0,98
+22400903,133,PT01M44.00S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,27,21,48,h,Jemison III Lost Ball Turnover (P2.T4),Turnover,Lost Ball,1,0,99
+22400903,133,PT01M44.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,27,21,48,v,Bridges STEAL (1 STL),,,1,0,100
+22400903,135,PT01M36.00S,1,1610612747,LAL,1629216,Vincent,G. Vincent,0,0,0,,0,27,21,48,h,Vincent S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,1,0,101
+22400903,137,PT01M36.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,27,21,48,v,MISS Hart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,102
+22400903,138,PT01M36.00S,1,0,,1610612752,,,0,0,0,,0,27,21,48,v,Knicks Rebound,Rebound,Normal Rebound,0,0,103
+22400903,139,PT01M36.00S,1,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,27,21,48,v,SUB: Shamet FOR Bridges,Substitution,,0,0,104
+22400903,141,PT01M36.00S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,27,21,48,v,MISS Hart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,105
+22400903,142,PT01M33.00S,1,1610612747,LAL,1629216,Vincent,G. Vincent,0,0,0,,0,27,21,48,h,Vincent REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,106
+22400903,143,PT01M20.00S,1,1610612747,LAL,1642261,Knecht,D. Knecht,240,37,24,Made,1,30,21,51,h,Knecht 24' 3PT Jump Shot (3 PTS) (L. James 3 AST),Made Shot,Jump Shot,1,3,107
+22400903,145,PT01M05.00S,1,1610612752,NYK,1629013,Shamet,L. Shamet,-15,27,3,Made,1,30,23,53,v,Shamet 3' Cutting Layup Shot (2 PTS) (Brunson 3 AST),Made Shot,Cutting Layup Shot,1,2,108
+22400903,147,PT00M56.80S,1,1610612752,NYK,1629013,Shamet,L. Shamet,0,0,0,,0,30,23,53,v,Shamet P.FOUL (P1.T4) (J.DeRosa),Foul,Personal,1,0,109
+22400903,149,PT00M47.60S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,30,23,53,v,Hart S.FOUL (P1.PN) (N.Green),Foul,Shooting,1,0,110
+22400903,151,PT00M47.60S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,30,23,53,h,MISS Jemison III Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,111
+22400903,152,PT00M47.60S,1,0,,1610612747,,,0,0,0,,0,30,23,53,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,112
+22400903,153,PT00M47.60S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,31,23,54,h,Jemison III Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,113
+22400903,154,PT00M34.90S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,31,23,54,h,Jemison III S.FOUL (P1.PN) (T.Ford),Foul,Shooting,1,0,114
+22400903,156,PT00M34.90S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,31,24,55,v,Brunson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,115
+22400903,157,PT00M34.90S,1,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,31,25,56,v,Brunson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,116
+22400903,158,PT00M18.40S,1,1610612747,LAL,2544,James,L. James,16,11,2,Missed,1,31,25,56,h,MISS L. James 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,117
+22400903,159,PT00M16.50S,1,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,31,25,56,v,Hart REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,118
+22400903,160,PT00M04.20S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,31,25,56,h,Jemison III Violation:Kicked Ball (J.DeRosa),Violation,Kicked Ball,0,0,119
+22400903,161,PT00M04.20S,1,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,31,25,56,h,SUB: Finney-Smith FOR Jemison III,Substitution,,0,0,120
+22400903,163,PT00M00.00S,1,1610612752,NYK,1628973,Brunson,J. Brunson,151,24,15,Made,1,31,27,58,v,Brunson 15' Fadeaway Jumper (14 PTS),Made Shot,Fadeaway Jump Shot,1,2,121
+22400903,165,PT00M00.00S,1,0,,163,,,0,0,0,,0,31,27,58,,Instant Replay1st Period (10:36 PM EST),Instant Replay,Support Ruling,0,0,122
+22400903,164,PT00M00.00S,1,0,,0,,,0,0,0,,0,31,27,58,,End of 1st Period (10:36 PM EST),period,end,1,0,123
+22400903,170,PT12M00.00S,2,0,,0,,,0,0,0,,0,31,27,58,,Start of 2nd Period (10:40 PM EST),period,start,0,0,124
+22400903,171,PT11M46.00S,2,1610612752,NYK,1626166,Payne,C. Payne,163,209,27,Missed,1,31,27,58,v,MISS Payne 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,3,125
+22400903,172,PT11M44.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,31,27,58,v,Hart REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,126
+22400903,173,PT11M39.00S,2,1610612752,NYK,1626166,Payne,C. Payne,145,226,27,Missed,1,31,27,58,v,MISS Payne 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,127
+22400903,174,PT11M36.00S,2,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,31,27,58,h,Knecht REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,128
+22400903,175,PT11M27.00S,2,1610612747,LAL,2544,James,L. James,-102,245,27,Missed,1,31,27,58,h,MISS L. James 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,129
+22400903,176,PT11M26.00S,2,0,,1610612752,,,0,0,0,,0,31,27,58,v,Knicks Rebound,Rebound,Unknown,0,0,130
+22400903,179,PT11M13.00S,2,1610612752,NYK,1626157,Towns,K. Towns,-83,83,12,Missed,1,31,27,58,v,MISS Towns 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,131
+22400903,180,PT11M11.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,31,27,58,v,McBride REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,132
+22400903,181,PT11M11.00S,2,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,31,27,58,h,Jemison III P.FOUL (P2.T1) (J.DeRosa),Foul,Personal,1,0,133
+22400903,183,PT11M07.00S,2,1610612752,NYK,1629013,Shamet,L. Shamet,-59,278,28,Missed,1,31,27,58,v,MISS Shamet 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,134
+22400903,184,PT11M05.00S,2,0,,1610612752,,,0,0,0,,0,31,27,58,v,Knicks Rebound,Rebound,Unknown,0,0,135
+22400903,186,PT11M05.00S,2,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,31,27,58,h,SUB: Hayes FOR Jemison III,Substitution,,0,0,136
+22400903,188,PT11M03.00S,2,1610612752,NYK,1629013,Shamet,L. Shamet,-237,57,24,Made,1,31,30,61,v,Shamet 24' 3PT Jump Shot (5 PTS) (Payne 1 AST),Made Shot,Jump Shot,1,3,137
+22400903,190,PT10M43.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,-1,24,2,Missed,1,31,30,61,h,MISS Reaves 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,138
+22400903,191,PT10M39.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,31,30,61,h,Reaves REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,139
+22400903,192,PT10M39.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,Missed,1,31,30,61,h,MISS Reaves Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,140
+22400903,193,PT10M39.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,31,30,61,h,Reaves REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,141
+22400903,194,PT10M36.00S,2,1610612747,LAL,1642261,Knecht,D. Knecht,-232,16,0,Missed,1,31,30,61,h,MISS Knecht 3PT Jump Shot,Missed Shot,Jump Shot,1,3,142
+22400903,195,PT10M34.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,31,30,61,v,McBride REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,143
+22400903,196,PT10M23.00S,2,1610612752,NYK,1626157,Towns,K. Towns,232,68,24,Missed,1,31,30,61,v,MISS Towns 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,144
+22400903,197,PT10M23.00S,2,0,,1610612747,,,0,0,0,,0,31,30,61,h,LAKERS Rebound,Rebound,Unknown,0,0,145
+22400903,199,PT10M08.00S,2,1610612752,NYK,1629013,Shamet,L. Shamet,0,0,0,,0,31,30,61,v,Shamet S.FOUL (P2.T1) (J.DeRosa),Foul,Shooting,1,0,146
+22400903,201,PT10M08.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,31,30,61,h,MISS Reaves Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,147
+22400903,202,PT10M08.00S,2,0,,1610612747,,,0,0,0,,0,31,30,61,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,148
+22400903,203,PT10M08.00S,2,1610612747,LAL,1629216,Vincent,G. Vincent,0,0,0,,0,31,30,61,h,SUB: Vanderbilt FOR Vincent,Substitution,,0,0,149
+22400903,205,PT10M08.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,32,30,62,h,Reaves Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,150
+22400903,206,PT09M57.00S,2,1610612752,NYK,1628404,Hart,J. Hart,-188,199,27,Made,1,32,33,65,v,Hart 27' 3PT Jump Shot (8 PTS) (McBride 1 AST),Made Shot,Jump Shot,1,3,151
+22400903,208,PT09M37.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,32,33,65,h,Reaves Bad Pass Turnover (P2.T5),Turnover,Bad Pass,1,0,152
+22400903,208,PT09M37.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,32,33,65,v,Hart STEAL (1 STL),,,1,0,153
+22400903,210,PT09M23.00S,2,1610612752,NYK,1628404,Hart,J. Hart,-66,256,26,Missed,1,32,33,65,v,MISS Hart 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,154
+22400903,211,PT09M21.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,32,33,65,h,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,155
+22400903,212,PT09M18.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,32,33,65,h,Hayes Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,156
+22400903,212,PT09M18.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,32,33,65,v,Hart STEAL (2 STL),,,1,0,157
+22400903,214,PT09M15.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,32,33,65,h,Vanderbilt P.FOUL (P2.T2) (N.Green),Foul,Personal,1,0,158
+22400903,216,PT09M08.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,32,33,65,h,Hayes S.FOUL (P2.T3) (J.DeRosa),Foul,Shooting,1,0,159
+22400903,218,PT09M08.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,32,34,66,v,Hart Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,160
+22400903,219,PT09M08.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,32,35,67,v,Hart Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,161
+22400903,220,PT09M05.00S,2,0,,1610612747,,,0,0,0,,0,32,35,67,h,LAKERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,162
+22400903,221,PT09M05.00S,2,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,32,35,67,h,SUB: Dončić FOR Knecht,Substitution,,0,0,163
+22400903,222,PT09M05.00S,2,1610612752,NYK,1629013,Shamet,L. Shamet,0,0,0,,0,32,35,67,v,SUB: Anunoby FOR Shamet,Substitution,,0,0,164
+22400903,225,PT08M51.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,4,29,3,Missed,1,32,35,67,h,MISS Reaves 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,0,2,165
+22400903,226,PT08M49.00S,2,1610612752,NYK,1626166,Payne,C. Payne,0,0,0,,0,32,35,67,v,Payne REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,166
+22400903,227,PT08M46.00S,2,1610612752,NYK,1626166,Payne,C. Payne,142,223,26,Made,1,32,38,70,v,Payne 26' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,0,3,167
+22400903,228,PT08M19.00S,2,1610612747,LAL,2544,James,L. James,250,43,25,Missed,1,32,38,70,h,MISS L. James 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,168
+22400903,229,PT08M16.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,32,38,70,v,McBride REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,169
+22400903,230,PT08M15.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,32,38,70,v,McBride Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,170
+22400903,230,PT08M15.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,32,38,70,h,Vanderbilt STEAL (1 STL),,,1,0,171
+22400903,232,PT08M08.00S,2,1610612747,LAL,2544,James,L. James,12,46,5,Made,1,34,38,72,h,L. James 5' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,172
+22400903,233,PT07M55.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,34,38,72,h,L. James S.FOUL (P1.T4) (N.Green),Foul,Shooting,1,0,173
+22400903,235,PT07M55.00S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,34,39,73,v,Towns Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,174
+22400903,236,PT07M55.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,34,39,73,h,SUB: Finney-Smith FOR Reaves,Substitution,,0,0,175
+22400903,238,PT07M55.00S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,34,40,74,v,Towns Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,176
+22400903,239,PT07M42.00S,2,1610612747,LAL,2544,James,L. James,22,6,2,Made,1,36,40,76,h,L. James 2' Driving Layup (10 PTS) (Dončić 3 AST),Made Shot,Driving Layup Shot,1,2,177
+22400903,241,PT07M28.00S,2,1610612752,NYK,1626157,Towns,K. Towns,-39,62,7,Missed,1,36,40,76,v,MISS Towns 7' Driving Layup,Missed Shot,Driving Layup Shot,1,2,178
+22400903,241,PT07M28.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,36,40,76,h,L. James BLOCK (1 BLK),,,1,2,179
+22400903,243,PT07M28.00S,2,0,,1610612752,,,0,0,0,,0,36,40,76,v,Knicks Rebound,Rebound,Unknown,0,0,180
+22400903,245,PT07M26.00S,2,1610612752,NYK,1626157,Towns,K. Towns,-230,130,26,Missed,1,36,40,76,v,MISS Towns 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,181
+22400903,246,PT07M21.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,36,40,76,h,Vanderbilt REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,182
+22400903,247,PT07M15.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,36,40,76,h,L. James Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,183
+22400903,247,PT07M15.00S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,36,40,76,v,Towns STEAL (1 STL),,,1,0,184
+22400903,249,PT07M09.00S,2,1610612752,NYK,1626166,Payne,C. Payne,175,188,26,Missed,1,36,40,76,v,MISS Payne 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,185
+22400903,250,PT07M06.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,36,40,76,v,Hart REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,186
+22400903,251,PT07M03.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,36,40,76,v,Hart Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,187
+22400903,251,PT07M03.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,36,40,76,h,Vanderbilt STEAL (2 STL),,,1,0,188
+22400903,253,PT06M59.00S,2,1610612747,LAL,2544,James,L. James,-10,14,2,Made,1,38,40,78,h,L. James 2' Running Layup (12 PTS) (Dončić 4 AST),Made Shot,Running Layup Shot,1,2,189
+22400903,255,PT06M43.00S,2,1610612752,NYK,1628404,Hart,J. Hart,-138,258,29,Missed,1,38,40,78,v,MISS Hart 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,190
+22400903,256,PT06M41.00S,2,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,38,40,78,h,Dončić REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,191
+22400903,257,PT06M29.00S,2,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,38,40,78,h,Dončić Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,192
+22400903,257,PT06M29.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,38,40,78,v,McBride STEAL (1 STL),,,0,0,193
+22400903,259,PT06M26.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,2,18,2,Made,1,38,42,80,v,Anunoby 2' Running Dunk (2 PTS) (McBride 2 AST),Made Shot,Running Dunk Shot,0,2,194
+22400903,261,PT06M26.00S,2,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,38,42,80,h,Dončić T.FOUL (P2.T4) (N.Green),Foul,Technical,1,0,195
+22400903,262,PT06M26.00S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,38,42,80,v,MISS Towns Free Throw Technical,Free Throw,Free Throw Technical,1,0,196
+22400903,263,PT06M26.00S,2,0,,1610612747,,,0,0,0,,0,38,42,80,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,197
+22400903,264,PT06M26.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,38,42,80,h,SUB: Vincent FOR L. James,Substitution,,0,0,198
+22400903,265,PT06M26.00S,2,1610612752,NYK,1626166,Payne,C. Payne,0,0,0,,0,38,42,80,v,SUB: Bridges FOR Payne,Substitution,,0,0,199
+22400903,266,PT06M26.00S,2,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,38,42,80,v,SUB: Brunson FOR McBride,Substitution,,0,0,200
+22400903,270,PT06M13.00S,2,1610612747,LAL,1629029,Dončić,L. Dončić,-1,88,9,Made,1,40,42,82,h,Dončić 9' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,1,2,201
+22400903,271,PT05M55.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,40,42,82,v,Brunson Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,1,0,202
+22400903,272,PT05M44.00S,2,1610612747,LAL,1629029,Dončić,L. Dončić,147,263,30,Missed,1,40,42,82,h,MISS Dončić 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,203
+22400903,273,PT05M42.00S,2,0,,1610612752,,,0,0,0,,0,40,42,82,v,Knicks Rebound,Rebound,Unknown,0,0,204
+22400903,274,PT05M28.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,-238,42,24,Made,1,40,45,85,v,Anunoby 24' 3PT Jump Shot (5 PTS) (Hart 1 AST),Made Shot,Jump Shot,1,3,205
+22400903,276,PT05M10.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,-11,57,6,Missed,1,40,45,85,h,MISS Hayes 6' Hook Shot,Missed Shot,Hook Shot,1,2,206
+22400903,277,PT05M10.00S,2,0,,1610612747,,,0,0,0,,0,40,45,85,h,LAKERS Rebound,Rebound,Unknown,0,0,207
+22400903,279,PT05M02.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,-232,21,0,Missed,1,40,45,85,h,MISS Vanderbilt 3PT Jump Shot,Missed Shot,Jump Shot,1,3,208
+22400903,280,PT05M02.00S,2,0,,1610612747,,,0,0,0,,0,40,45,85,h,LAKERS Rebound,Rebound,Unknown,0,0,209
+22400903,282,PT05M02.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,40,45,85,v,SUB: Robinson FOR Hart,Substitution,,0,0,210
+22400903,284,PT04M54.00S,2,1610612747,LAL,1629029,Dončić,L. Dončić,-87,40,10,Missed,1,40,45,85,h,MISS Dončić 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,211
+22400903,285,PT04M51.00S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,40,45,85,v,Towns REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,212
+22400903,286,PT04M47.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,6,21,2,Made,1,40,47,87,v,Anunoby 2' Running Layup (7 PTS) (Towns 1 AST),Made Shot,Running Layup Shot,1,2,213
+22400903,288,PT04M33.00S,2,1610612747,LAL,1629029,Dončić,L. Dončić,157,205,26,Missed,1,40,47,87,h,MISS Dončić 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,214
+22400903,289,PT04M30.00S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,40,47,87,v,Towns REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,215
+22400903,291,PT04M19.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,40,47,87,h,Vanderbilt S.FOUL (P3.PN) (J.DeRosa),Foul,Shooting,1,0,216
+22400903,293,PT04M19.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,40,48,88,v,Brunson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,217
+22400903,294,PT04M19.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,40,49,89,v,Brunson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,218
+22400903,295,PT04M05.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,13,8,2,Made,1,42,49,91,h,Hayes 2' Cutting Dunk Shot (2 PTS) (Dončić 5 AST),Made Shot,Cutting Dunk Shot,1,2,219
+22400903,297,PT03M48.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,-211,200,29,Made,1,42,52,94,v,Anunoby 29' 3PT Jump Shot (10 PTS) (Brunson 4 AST),Made Shot,Jump Shot,1,3,220
+22400903,299,PT03M48.00S,2,0,,1610612747,,,0,0,0,,0,42,52,94,h,LAKERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,221
+22400903,301,PT03M48.00S,2,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,42,52,94,h,SUB: L. James FOR Vanderbilt,Substitution,,0,0,222
+22400903,303,PT03M27.00S,2,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,42,52,94,h,Dončić Lost Ball Turnover (P3.T9),Turnover,Lost Ball,1,0,223
+22400903,303,PT03M27.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,42,52,94,v,Bridges STEAL (2 STL),,,1,0,224
+22400903,305,PT03M24.00S,2,1610612752,NYK,1628969,Bridges,M. Bridges,7,18,2,Made,1,42,54,96,v,Bridges 2' Running Layup (4 PTS) (Anunoby 1 AST),Made Shot,Running Layup Shot,1,2,225
+22400903,308,PT03M04.00S,2,1610612747,LAL,1629029,Dončić,L. Dončić,70,104,13,Missed,1,42,54,96,h,MISS Dončić 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,226
+22400903,309,PT03M02.00S,2,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,42,54,96,v,Towns REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,227
+22400903,310,PT02M57.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,150,230,27,Missed,1,42,54,96,v,MISS Brunson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,228
+22400903,311,PT02M55.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,42,54,96,h,L. James REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,229
+22400903,312,PT02M48.00S,2,1610612747,LAL,2544,James,L. James,9,20,2,Made,1,44,54,98,h,L. James 2' Driving Layup (14 PTS) (Dončić 6 AST),Made Shot,Driving Layup Shot,1,2,230
+22400903,314,PT02M47.00S,2,0,,1610612752,,,0,0,0,,0,44,54,98,v,Knicks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,231
+22400903,315,PT02M47.00S,2,1610612747,LAL,1629216,Vincent,G. Vincent,0,0,0,,0,44,54,98,h,SUB: Reaves FOR Vincent,Substitution,,0,0,232
+22400903,316,PT02M47.00S,2,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,44,54,98,v,SUB: Hart FOR Robinson,Substitution,,0,0,233
+22400903,319,PT02M27.00S,2,1610612752,NYK,1628404,Hart,J. Hart,23,42,5,Missed,1,44,54,98,v,MISS Hart 5' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,1,2,234
+22400903,320,PT02M26.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,44,54,98,h,L. James REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,235
+22400903,321,PT02M19.00S,2,1610612747,LAL,1629029,Dončić,L. Dončić,-184,179,26,Missed,1,44,54,98,h,MISS Dončić 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,236
+22400903,322,PT02M16.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,44,54,98,v,Brunson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,237
+22400903,323,PT02M09.00S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,-123,243,27,Made,1,44,57,101,v,Anunoby 27' 3PT Jump Shot (13 PTS) (Brunson 5 AST),Made Shot,Jump Shot,1,3,238
+22400903,325,PT01M51.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,44,57,101,v,Hart P.FOUL (P2.T2) (N.Green),Foul,Personal,1,0,239
+22400903,327,PT01M42.00S,2,1610612747,LAL,2544,James,L. James,22,42,5,Made,1,46,57,103,h,L. James 5' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,1,2,240
+22400903,328,PT01M22.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,46,57,103,v,Brunson Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,241
+22400903,328,PT01M22.00S,2,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,46,57,103,h,Dončić STEAL (2 STL),,,1,0,242
+22400903,330,PT01M14.00S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,46,57,103,v,Hart S.FOUL (P3.PN) (N.Green),Foul,Shooting,1,0,243
+22400903,332,PT01M14.00S,2,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,46,57,103,h,MISS Dončić Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,244
+22400903,333,PT01M14.00S,2,0,,1610612747,,,0,0,0,,0,46,57,103,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,245
+22400903,334,PT01M14.00S,2,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,47,57,104,h,Dončić Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,246
+22400903,335,PT00M54.00S,2,1610612752,NYK,1628973,Brunson,J. Brunson,-109,127,17,Missed,1,47,57,104,v,MISS Brunson 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,247
+22400903,336,PT00M51.50S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,47,57,104,h,L. James REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,248
+22400903,337,PT00M46.70S,2,1610612747,LAL,1630559,Reaves,A. Reaves,150,239,28,Missed,1,47,57,104,h,MISS Reaves 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,249
+22400903,338,PT00M43.20S,2,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,47,57,104,v,Hart REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,250
+22400903,339,PT00M38.10S,2,1610612752,NYK,1628404,Hart,J. Hart,17,26,3,Missed,1,47,57,104,v,MISS Hart 3' Running Layup,Missed Shot,Running Layup Shot,1,2,251
+22400903,339,PT00M38.10S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,47,57,104,h,Hayes BLOCK (1 BLK),,,1,2,252
+22400903,341,PT00M33.10S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,47,57,104,h,Reaves REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,253
+22400903,342,PT00M30.20S,2,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,47,57,104,v,Bridges S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,1,0,254
+22400903,344,PT00M30.20S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,48,57,105,h,Reaves Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,1,0,255
+22400903,345,PT00M30.20S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,49,57,106,h,Reaves Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,256
+22400903,346,PT00M07.30S,2,1610612752,NYK,1626157,Towns,K. Towns,223,112,25,Made,1,49,60,109,v,Towns 25' 3PT Jump Shot (7 PTS) (Brunson 6 AST),Made Shot,Jump Shot,1,3,257
+22400903,348,PT00M00.40S,2,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,49,60,109,v,Anunoby S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,1,0,258
+22400903,350,PT00M00.40S,2,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,50,60,110,h,Dončić Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,259
+22400903,351,PT00M00.40S,2,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,51,60,111,h,Dončić Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,260
+22400903,352,PT00M00.00S,2,0,,0,,,0,0,0,,0,51,60,111,,End of 2nd Period (11:12 PM EST),period,end,1,0,261
+22400903,353,PT12M00.00S,3,0,,0,,,0,0,0,,0,51,60,111,,Start of 3rd Period (11:29 PM EST),period,start,0,0,262
+22400903,354,PT11M36.00S,3,0,,1610612752,,,0,0,0,,0,51,60,111,v,Knicks Turnover: Shot Clock (T#8),Turnover,Shot Clock Turnover,1,0,263
+22400903,355,PT11M26.00S,3,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,-195,180,27,Missed,1,51,60,111,h,MISS Finney-Smith 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,264
+22400903,356,PT11M22.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,51,60,111,v,Towns REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,265
+22400903,357,PT11M07.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,-141,209,25,Made,1,51,63,114,v,Anunoby 25' 3PT Jump Shot (16 PTS) (Bridges 2 AST),Made Shot,Jump Shot,1,3,266
+22400903,359,PT10M55.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,-51,299,30,Made,1,54,63,117,h,Dončić 30' 3PT Step Back Jump Shot (21 PTS),Made Shot,Step Back Jump shot,1,3,267
+22400903,360,PT10M35.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,152,226,27,Missed,1,54,63,117,v,MISS Anunoby 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,268
+22400903,361,PT10M32.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,54,63,117,h,L. James REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,269
+22400903,362,PT10M28.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,-20,15,3,Made,1,56,63,119,h,Hayes 3' Running Alley Oop Dunk Shot (4 PTS) (L. James 4 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,270
+22400903,364,PT10M16.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,56,63,119,h,L. James P.FOUL (P2.T1) (T.Ford),Foul,Personal,1,0,271
+22400903,366,PT10M10.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-6,31,3,Made,1,56,65,121,v,Brunson 3' Driving Floating Jump Shot (18 PTS) (Bridges 3 AST),Made Shot,Driving Floating Jump Shot,1,2,272
+22400903,367,PT09M57.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,-29,188,19,Missed,1,56,65,121,h,MISS Dončić 19' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,273
+22400903,368,PT09M54.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,56,65,121,v,Towns REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,274
+22400903,370,PT09M48.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,56,65,121,h,Hayes S.FOUL (P3.T2) (J.DeRosa),Foul,Shooting,1,0,275
+22400903,372,PT09M48.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,56,66,122,v,Towns Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,276
+22400903,373,PT09M48.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,56,66,122,v,MISS Towns Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,277
+22400903,374,PT09M46.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,56,66,122,h,Dončić REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,278
+22400903,375,PT09M36.00S,3,1610612747,LAL,2544,James,L. James,-107,252,27,Missed,1,56,66,122,h,MISS L. James 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,279
+22400903,376,PT09M34.00S,3,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,56,66,122,h,Finney-Smith REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,280
+22400903,416,PT09M34.00S,3,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,56,66,122,h,Finney-Smith Step Out of Bounds Turnover (P1.T10),Turnover,Step Out of Bounds Turnover,1,0,281
+22400903,378,PT09M13.00S,3,1610612752,NYK,1626157,Towns,K. Towns,-2,29,3,Missed,1,56,66,122,v,MISS Towns 3' Hook Shot,Missed Shot,Hook Shot,1,2,282
+22400903,379,PT09M11.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,56,66,122,h,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,283
+22400903,380,PT09M10.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,56,66,122,v,Brunson S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,1,0,284
+22400903,382,PT09M10.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,56,66,122,h,MISS L. James Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,285
+22400903,383,PT09M10.00S,3,0,,1610612747,,,0,0,0,,0,56,66,122,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,286
+22400903,384,PT09M10.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,57,66,123,h,L. James Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,287
+22400903,385,PT08M56.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-10,26,3,Made,1,57,68,125,v,Brunson 3' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,288
+22400903,386,PT08M37.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,57,68,125,v,Anunoby S.FOUL (P3.T2) (T.Ford),Foul,Shooting,1,0,289
+22400903,388,PT08M37.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,58,68,126,h,Dončić Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,290
+22400903,389,PT08M37.00S,3,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,58,68,126,h,SUB: Vanderbilt FOR Hayes,Substitution,,0,0,291
+22400903,391,PT08M37.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,59,68,127,h,Dončić Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,292
+22400903,392,PT08M22.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,6,34,3,Missed,1,59,68,127,v,MISS Brunson 3' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,2,293
+22400903,393,PT08M18.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,59,68,127,v,Hart REBOUND (Off:4 Def:2),Rebound,Unknown,1,0,294
+22400903,394,PT08M18.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,Made,1,59,70,129,v,Hart Tip Layup Shot (12 PTS),Made Shot,Tip Layup Shot,1,2,295
+22400903,395,PT08M09.00S,3,1610612747,LAL,2544,James,L. James,156,210,26,Missed,1,59,70,129,h,MISS L. James 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,296
+22400903,396,PT08M05.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,59,70,129,v,Towns REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,297
+22400903,397,PT07M56.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,59,70,129,v,Hart Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,298
+22400903,397,PT07M56.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,59,70,129,h,Dončić STEAL (3 STL),,,1,0,299
+22400903,399,PT07M45.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,67,249,26,Missed,1,59,70,129,h,MISS Reaves 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,300
+22400903,400,PT07M42.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,59,70,129,v,Brunson REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,301
+22400903,401,PT07M39.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,59,70,129,h,Dončić P.FOUL (P3.T3) (T.Ford),Foul,Personal,1,0,302
+22400903,403,PT07M32.00S,3,1610612752,NYK,1626157,Towns,K. Towns,192,167,25,Missed,1,59,70,129,v,MISS Towns 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,303
+22400903,404,PT07M27.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,59,70,129,v,Hart REBOUND (Off:5 Def:2),Rebound,Unknown,1,0,304
+22400903,405,PT07M24.00S,3,1610612752,NYK,1628404,Hart,J. Hart,-104,243,26,Missed,1,59,70,129,v,MISS Hart 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,305
+22400903,406,PT07M14.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,59,70,129,h,L. James REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,306
+22400903,407,PT07M12.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,218,149,26,Missed,1,59,70,129,h,MISS Reaves 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,307
+22400903,408,PT07M08.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,59,70,129,h,Vanderbilt REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,308
+22400903,409,PT07M08.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,Missed,1,59,70,129,h,MISS Vanderbilt Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,309
+22400903,410,PT07M08.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,59,70,129,v,Hart REBOUND (Off:5 Def:3),Rebound,Unknown,1,0,310
+22400903,411,PT07M07.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-53,75,9,Made,1,59,72,131,v,Brunson 9' Driving Floating Jump Shot (22 PTS),Made Shot,Driving Floating Jump Shot,1,2,311
+22400903,412,PT07M07.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,59,72,131,h,Reaves S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,1,0,312
+22400903,414,PT07M07.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,59,72,131,v,MISS Brunson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,313
+22400903,415,PT07M04.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,59,72,131,h,Vanderbilt REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,314
+22400903,417,PT06M48.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,-36,96,10,Made,1,61,72,133,h,Reaves 10' Floating Jump Shot (5 PTS) (L. James 5 AST),Made Shot,Floating Jump shot,1,2,315
+22400903,419,PT06M33.00S,3,1610612752,NYK,1626157,Towns,K. Towns,-15,29,3,Missed,1,61,72,133,v,MISS Towns 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,316
+22400903,419,PT06M33.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,61,72,133,h,Vanderbilt BLOCK (1 BLK),,,1,2,317
+22400903,421,PT06M30.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,61,72,133,h,Reaves REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,318
+22400903,422,PT06M23.00S,3,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,-234,17,0,Missed,1,61,72,133,h,MISS Finney-Smith 3PT Jump Shot,Missed Shot,Jump Shot,1,3,319
+22400903,423,PT06M19.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,61,72,133,h,Vanderbilt REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,320
+22400903,424,PT06M09.00S,3,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,61,72,133,h,Finney-Smith Traveling Turnover (P2.T11),Turnover,Traveling,1,0,321
+22400903,425,PT06M09.00S,3,0,,1610612747,,,0,0,0,,0,61,72,133,h,LAKERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,322
+22400903,462,PT06M09.00S,3,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,61,72,133,h,SUB: Vincent FOR Finney-Smith,Substitution,,0,0,323
+22400903,426,PT05M51.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,87,135,16,Made,1,61,74,135,v,Brunson 16' Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,1,2,324
+22400903,427,PT05M33.00S,3,1610612747,LAL,2544,James,L. James,-2,17,2,Made,1,63,74,137,h,L. James 2' Driving Layup (19 PTS) (Dončić 7 AST),Made Shot,Driving Layup Shot,1,2,325
+22400903,429,PT05M15.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,-224,35,0,Missed,1,63,74,137,v,MISS Anunoby 3PT Jump Shot,Missed Shot,Jump Shot,1,3,326
+22400903,430,PT05M12.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,63,74,137,v,Towns REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,327
+22400903,431,PT05M11.00S,3,1610612752,NYK,1626157,Towns,K. Towns,-228,-23,0,Missed,1,63,74,137,v,MISS Towns 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+22400903,432,PT05M11.00S,3,0,,1610612752,,,0,0,0,,0,63,74,137,v,Knicks Rebound,Rebound,Unknown,0,0,329
+22400903,434,PT05M01.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,63,74,137,v,Towns Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,1,0,330
+22400903,435,PT05M01.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,63,74,137,h,SUB: Knecht FOR L. James,Substitution,,0,0,331
+22400903,437,PT05M01.00S,3,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,63,74,137,v,SUB: McBride FOR Hart,Substitution,,0,0,332
+22400903,439,PT04M53.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,63,74,137,v,Brunson S.FOUL (P2.T3) (T.Ford),Foul,Shooting,1,0,333
+22400903,441,PT04M53.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,64,74,138,h,Dončić Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,334
+22400903,442,PT04M53.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,64,74,138,h,SUB: Jemison III FOR Reaves,Substitution,,0,0,335
+22400903,443,PT04M53.00S,3,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,64,74,138,v,SUB: Robinson FOR Towns,Substitution,,0,0,336
+22400903,446,PT04M53.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,65,74,139,h,Dončić Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,337
+22400903,447,PT04M29.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,-55,121,13,Missed,1,65,74,139,v,MISS Anunoby 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,338
+22400903,448,PT04M28.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,65,74,139,v,Robinson REBOUND (Off:2 Def:0),Rebound,Unknown,1,0,339
+22400903,449,PT04M27.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,Missed,1,65,74,139,v,MISS Robinson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,340
+22400903,450,PT04M24.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,65,74,139,h,Vanderbilt REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,341
+22400903,451,PT04M14.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,65,74,139,h,Jump Ball Dončić vs. Robinson: Tip to McBride,Jump Ball,,1,0,342
+22400903,454,PT04M14.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,65,74,139,h,Dončić Lost Ball Turnover (P4.T12),Turnover,Lost Ball,1,0,343
+22400903,454,PT04M14.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,65,74,139,v,Robinson STEAL (1 STL),,,1,0,344
+22400903,456,PT04M01.00S,3,1610612752,NYK,1630540,McBride,M. McBride,246,50,25,Missed,1,65,74,139,v,MISS McBride 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,345
+22400903,457,PT03M58.00S,3,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,65,74,139,h,Knecht REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,346
+22400903,458,PT03M58.00S,3,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,65,74,139,v,McBride P.FOUL (P1.T4) (J.DeRosa),Foul,Personal,1,0,347
+22400903,460,PT03M58.00S,3,0,,1610612752,,,0,0,0,,0,65,74,139,v,Knicks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,348
+22400903,461,PT03M58.00S,3,0,,458,Eisley,H. Eisley,0,0,0,,0,65,74,139,,Instant Replay3rd Period (11:48 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,349
+22400903,464,PT03M46.00S,3,1610612747,LAL,1629216,Vincent,G. Vincent,-229,18,0,Made,1,68,74,142,h,Vincent 3PT Jump Shot (3 PTS) (Dončić 8 AST),Made Shot,Jump Shot,1,3,350
+22400903,466,PT03M25.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-16,29,3,Made,1,68,76,144,v,Brunson 3' Driving Floating Jump Shot (26 PTS),Made Shot,Driving Floating Jump Shot,1,2,351
+22400903,467,PT03M09.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,-20,29,4,Missed,1,68,76,144,h,MISS Dončić 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,352
+22400903,468,PT03M07.00S,3,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,68,76,144,h,Jemison III REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,353
+22400903,469,PT02M56.00S,3,1610612747,LAL,1641998,Jemison III,T. Jemison III,-7,33,3,Missed,1,68,76,144,h,MISS Jemison III 3' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,354
+22400903,470,PT02M53.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,68,76,144,v,Brunson REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,355
+22400903,471,PT02M45.00S,3,1610612747,LAL,1629216,Vincent,G. Vincent,0,0,0,,0,68,76,144,h,Vincent S.FOUL (P2.PN) (T.Ford),Foul,Shooting,1,0,356
+22400903,473,PT02M45.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,68,77,145,v,Anunoby Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,357
+22400903,474,PT02M45.00S,3,1610612747,LAL,1629020,Vanderbilt,J. Vanderbilt,0,0,0,,0,68,77,145,h,SUB: L. James FOR Vanderbilt,Substitution,,0,0,358
+22400903,475,PT02M45.00S,3,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,68,77,145,v,SUB: Shamet FOR Bridges,Substitution,,0,0,359
+22400903,478,PT02M45.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,68,78,146,v,Anunoby Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,360
+22400903,479,PT02M24.00S,3,1610612747,LAL,1641998,Jemison III,T. Jemison III,-5,33,3,Made,1,70,78,148,h,Jemison III 3' Driving Layup (7 PTS) (L. James 6 AST),Made Shot,Driving Layup Shot,1,2,361
+22400903,481,PT02M13.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,12,25,3,Made,1,70,80,150,v,Robinson 3' Cutting Dunk Shot (4 PTS) (Brunson 7 AST),Made Shot,Cutting Dunk Shot,1,2,362
+22400903,483,PT01M57.00S,3,1610612747,LAL,1642261,Knecht,D. Knecht,234,107,26,Missed,1,70,80,150,h,MISS Knecht 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,363
+22400903,483,PT01M57.00S,3,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,70,80,150,v,McBride BLOCK (1 BLK),,,1,3,364
+22400903,485,PT01M53.00S,3,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,70,80,150,v,Anunoby REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,365
+22400903,486,PT01M41.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,28,66,7,Missed,1,70,80,150,v,MISS Brunson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,366
+22400903,487,PT01M38.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,70,80,150,h,Dončić REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,367
+22400903,488,PT01M24.00S,3,1610612747,LAL,1642261,Knecht,D. Knecht,232,28,0,Made,1,73,80,153,h,Knecht 3PT Jump Shot (6 PTS) (Vincent 1 AST),Made Shot,Jump Shot,1,3,368
+22400903,490,PT01M24.00S,3,0,,1610612752,,,0,0,0,,0,73,80,153,v,Knicks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,369
+22400903,491,PT01M24.00S,3,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,73,80,153,h,SUB: Reaves FOR Dončić,Substitution,,0,0,370
+22400903,492,PT01M24.00S,3,1610612752,NYK,1629013,Shamet,L. Shamet,0,0,0,,0,73,80,153,v,SUB: Hart FOR Shamet,Substitution,,0,0,371
+22400903,495,PT01M09.00S,3,1610612752,NYK,1628973,Brunson,J. Brunson,134,222,26,Missed,1,73,80,153,v,MISS Brunson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,372
+22400903,496,PT01M09.00S,3,0,,1610612752,,,0,0,0,,0,73,80,153,v,Knicks Rebound,Rebound,Unknown,0,0,373
+22400903,497,PT01M09.00S,3,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,73,80,153,h,Jemison III L.B.FOUL (P3.PN) (N.Green),Foul,Loose Ball,1,0,374
+22400903,499,PT01M09.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,73,81,154,v,Robinson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,375
+22400903,500,PT01M09.00S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,73,82,155,v,Robinson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,376
+22400903,501,PT01M01.00S,3,1610612747,LAL,1629216,Vincent,G. Vincent,0,0,0,,0,73,82,155,h,Vincent OFF.Foul (P3) (T.Ford),Foul,Offensive,1,0,377
+22400903,503,PT01M01.00S,3,1610612747,LAL,1629216,Vincent,G. Vincent,0,0,0,,0,73,82,155,h,Vincent Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,1,0,378
+22400903,504,PT00M48.70S,3,1610612752,NYK,1628404,Hart,J. Hart,21,30,4,Made,1,73,84,157,v,Hart 4' Driving Layup (14 PTS) (Brunson 8 AST),Made Shot,Driving Layup Shot,1,2,379
+22400903,506,PT00M28.90S,3,1610612747,LAL,1630559,Reaves,A. Reaves,50,132,14,Missed,1,73,84,157,h,MISS Reaves 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,380
+22400903,507,PT00M26.50S,3,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,73,84,157,v,Robinson REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,381
+22400903,508,PT00M05.10S,3,1610612752,NYK,1628973,Brunson,J. Brunson,-29,34,4,Missed,1,73,84,157,v,MISS Brunson 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,382
+22400903,509,PT00M04.80S,3,0,,1610612752,,,0,0,0,,0,73,84,157,v,Knicks Rebound,Rebound,Unknown,0,0,383
+22400903,510,PT00M04.80S,3,0,,1610612752,,,0,0,0,,0,73,84,157,v,Knicks Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,384
+22400903,511,PT00M00.50S,3,1610612747,LAL,1642261,Knecht,D. Knecht,129,262,29,Made,1,76,84,160,h,Knecht 29' 3PT Pullup Jump Shot (9 PTS) (L. James 7 AST),Made Shot,Pullup Jump shot,1,3,385
+22400903,513,PT00M00.00S,3,0,,511,Booker,M. Booker,0,0,0,,0,76,84,160,,Instant Replay3rd Period (12:00 AM EST),Instant Replay,Support Ruling,0,0,386
+22400903,514,PT00M00.00S,3,0,,0,,,0,0,0,,0,76,84,160,,End of 3rd Period (12:00 AM EST),period,end,1,0,387
+22400903,523,PT12M00.00S,4,0,,0,,,0,0,0,,0,76,84,160,,Start of 4th Period (12:03 AM EST),period,start,0,0,388
+22400903,524,PT11M42.00S,4,1610612747,LAL,2544,James,L. James,-1,23,2,Missed,1,76,84,160,h,MISS L. James 2' Driving Layup,Missed Shot,Driving Layup Shot,0,2,389
+22400903,525,PT11M40.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,76,84,160,v,Towns REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,390
+22400903,526,PT11M28.00S,4,1610612752,NYK,1630540,McBride,M. McBride,86,40,9,Missed,1,76,84,160,v,MISS McBride 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,391
+22400903,527,PT11M24.00S,4,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,76,84,160,h,Jemison III REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,392
+22400903,528,PT11M11.00S,4,1610612747,LAL,2544,James,L. James,-37,23,4,Missed,1,76,84,160,h,MISS L. James 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,393
+22400903,529,PT11M09.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,76,84,160,v,Towns REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,394
+22400903,530,PT11M02.00S,4,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,76,84,160,h,Jemison III S.FOUL (P4.T1) (J.DeRosa),Foul,Shooting,1,0,395
+22400903,532,PT11M02.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,76,85,161,v,Towns Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,396
+22400903,533,PT11M02.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,76,86,162,v,Towns Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,397
+22400903,534,PT10M41.00S,4,1610612747,LAL,2544,James,L. James,-10,36,4,Made,1,78,86,164,h,L. James 4' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,1,2,398
+22400903,535,PT10M19.00S,4,1610612752,NYK,1630540,McBride,M. McBride,25,261,26,Missed,1,78,86,164,v,MISS McBride 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,399
+22400903,536,PT10M17.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,78,86,164,h,L. James REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,400
+22400903,537,PT10M02.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,6,33,3,Missed,1,78,86,164,h,MISS Reaves 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,401
+22400903,538,PT09M59.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,78,86,164,v,Hart REBOUND (Off:5 Def:4),Rebound,Unknown,1,0,402
+22400903,539,PT09M53.00S,4,1610612752,NYK,1626166,Payne,C. Payne,-221,-13,0,Missed,1,78,86,164,v,MISS Payne 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,403
+22400903,540,PT09M51.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,78,86,164,v,Towns REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,404
+22400903,541,PT09M50.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,17,2,Made,1,78,88,166,v,Towns 2' Putback Dunk (12 PTS),Made Shot,Putback Dunk Shot,1,2,405
+22400903,542,PT09M24.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,78,88,166,h,Knecht Lost Ball Turnover (P1.T14),Turnover,Lost Ball,1,0,406
+22400903,542,PT09M24.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,78,88,166,v,Hart STEAL (3 STL),,,1,0,407
+22400903,544,PT09M18.00S,4,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,78,88,166,h,Finney-Smith P.FOUL (P1.T2) (N.Green),Foul,Personal,1,0,408
+22400903,546,PT09M18.00S,4,0,,544,,,0,0,0,,0,78,88,166,,Instant Replay4th Period (12:07 AM EST),Instant Replay,Ruling Stands,0,0,409
+22400903,547,PT09M18.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,78,88,166,h,SUB: Dončić FOR Reaves,Substitution,,0,0,410
+22400903,548,PT09M18.00S,4,1610612747,LAL,1641998,Jemison III,T. Jemison III,0,0,0,,0,78,88,166,h,SUB: Hayes FOR Jemison III,Substitution,,0,0,411
+22400903,551,PT09M03.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,78,88,166,v,Towns Traveling Turnover (P2.T12),Turnover,Traveling,1,0,412
+22400903,552,PT08M49.00S,4,1610612747,LAL,1629029,Dončić,L. Dončić,-135,33,14,Made,1,80,88,168,h,Dončić 14' Fadeaway Jumper (27 PTS),Made Shot,Fadeaway Jump Shot,1,2,413
+22400903,553,PT08M24.00S,4,1610612752,NYK,1626166,Payne,C. Payne,170,197,26,Missed,1,80,88,168,v,MISS Payne 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,414
+22400903,554,PT08M20.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,80,88,168,h,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,415
+22400903,555,PT08M15.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,-212,155,26,Missed,1,80,88,168,h,MISS Knecht 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,416
+22400903,556,PT08M12.00S,4,1610612752,NYK,1626166,Payne,C. Payne,0,0,0,,0,80,88,168,v,Payne REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,417
+22400903,557,PT08M06.00S,4,1610612752,NYK,1626166,Payne,C. Payne,0,0,0,,0,80,88,168,v,Payne Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,418
+22400903,558,PT08M06.00S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,80,88,168,v,SUB: Anunoby FOR McBride,Substitution,,0,0,419
+22400903,560,PT07M53.00S,4,1610612747,LAL,1629029,Dončić,L. Dončić,162,207,26,Missed,1,80,88,168,h,MISS Dončić 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+22400903,561,PT07M48.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,80,88,168,h,L. James REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,421
+22400903,562,PT07M34.00S,4,1610612747,LAL,2544,James,L. James,56,29,6,Missed,1,80,88,168,h,MISS L. James 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,422
+22400903,563,PT07M31.00S,4,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,80,88,168,h,Finney-Smith REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,423
+22400903,564,PT07M31.00S,4,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,Missed,1,80,88,168,h,MISS Finney-Smith Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,424
+22400903,565,PT07M31.00S,4,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,0,0,0,,0,80,88,168,h,Finney-Smith REBOUND (Off:4 Def:1),Rebound,Unknown,1,0,425
+22400903,566,PT07M18.00S,4,1610612747,LAL,1629029,Dončić,L. Dončić,-61,130,14,Missed,1,80,88,168,h,MISS Dončić 14' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,426
+22400903,567,PT07M18.00S,4,0,,1610612747,,,0,0,0,,0,80,88,168,h,LAKERS Rebound,Rebound,Unknown,0,0,427
+22400903,568,PT07M18.00S,4,0,,1610612747,,,0,0,0,,0,80,88,168,h,LAKERS Turnover: Shot Clock (T#15),Turnover,Shot Clock Turnover,1,0,428
+22400903,569,PT07M18.00S,4,1610612752,NYK,1626166,Payne,C. Payne,0,0,0,,0,80,88,168,v,SUB: Brunson FOR Payne,Substitution,,0,0,429
+22400903,572,PT06M57.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,-47,145,15,Made,1,80,90,170,v,Bridges 15' Fadeaway Jumper (6 PTS) (Brunson 9 AST),Made Shot,Fadeaway Jump Shot,1,2,430
+22400903,574,PT06M38.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,7,12,1,Made,1,82,90,172,h,Knecht 1' Driving Layup (11 PTS) (Dončić 9 AST),Made Shot,Driving Layup Shot,1,2,431
+22400903,576,PT06M21.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-34,13,4,Missed,1,82,90,172,v,MISS Brunson 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,432
+22400903,576,PT06M21.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,82,90,172,h,Hayes BLOCK (2 BLK),,,1,2,433
+22400903,578,PT06M21.00S,4,0,,1610612752,,,0,0,0,,0,82,90,172,v,Knicks Rebound,Rebound,Unknown,0,0,434
+22400903,580,PT06M20.00S,4,0,,1610612747,,,0,0,0,,0,82,90,172,h,LAKERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,435
+22400903,581,PT06M20.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,82,90,172,h,SUB: Vincent FOR L. James,Substitution,,0,0,436
+22400903,583,PT06M15.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-23,151,15,Missed,1,82,90,172,v,MISS Brunson 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,437
+22400903,584,PT06M13.00S,4,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,82,90,172,h,Dončić REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,438
+22400903,588,PT05M59.00S,4,1610612747,LAL,1629216,Vincent,G. Vincent,234,62,24,Made,1,85,90,175,h,Vincent 24' 3PT Jump Shot (6 PTS) (Dončić 10 AST),Made Shot,Jump Shot,1,3,439
+22400903,590,PT05M37.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,85,90,175,v,Brunson Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,440
+22400903,591,PT05M15.00S,4,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,85,90,175,h,Dončić Lost Ball Turnover (P5.T16),Turnover,Lost Ball,1,0,441
+22400903,591,PT05M15.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,85,90,175,v,Hart STEAL (4 STL),,,1,0,442
+22400903,593,PT05M13.00S,4,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,85,90,175,h,Dončić S.FOUL (P4.T3) (J.DeRosa),Foul,Shooting,1,0,443
+22400903,595,PT05M13.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,85,90,175,v,MISS Hart Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,444
+22400903,596,PT05M13.00S,4,0,,1610612752,,,0,0,0,,0,85,90,175,v,Knicks Rebound,Rebound,Normal Rebound,0,0,445
+22400903,597,PT05M13.00S,4,1610612747,LAL,1642261,Knecht,D. Knecht,0,0,0,,0,85,90,175,h,SUB: L. James FOR Knecht,Substitution,,0,0,446
+22400903,599,PT05M13.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,85,91,176,v,Hart Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,447
+22400903,600,PT04M58.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,-1,31,3,Made,1,87,91,178,h,Hayes 3' Alley Oop Dunk (6 PTS) (Dončić 11 AST),Made Shot,Alley Oop Dunk Shot,1,2,448
+22400903,602,PT04M57.00S,4,0,,1610612752,,,0,0,0,,0,87,91,178,v,Knicks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,449
+22400903,603,PT04M38.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,87,91,178,v,Hart Traveling Turnover (P3.T15),Turnover,Traveling,1,0,450
+22400903,604,PT04M28.00S,4,1610612747,LAL,2544,James,L. James,-235,62,24,Made,1,90,91,181,h,L. James 24' 3PT Jump Shot (24 PTS) (Dončić 12 AST),Made Shot,Jump Shot,1,3,451
+22400903,606,PT03M58.00S,4,1610612752,NYK,1628404,Hart,J. Hart,-38,110,12,Missed,1,90,91,181,v,MISS Hart 12' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,2,452
+22400903,607,PT03M55.00S,4,0,,1610612747,,,0,0,0,,0,90,91,181,h,LAKERS Rebound,Rebound,Unknown,1,0,453
+22400903,608,PT03M55.00S,4,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,90,91,181,v,Hart L.B.FOUL (P4.T1) (T.Ford),Foul,Loose Ball,1,0,454
+22400903,610,PT03M38.00S,4,1610612747,LAL,1629029,Dončić,L. Dončić,-36,283,29,Missed,1,90,91,181,h,MISS Dončić 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,455
+22400903,611,PT03M35.00S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,90,91,181,v,Towns REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,456
+22400903,612,PT03M23.00S,4,1610612752,NYK,1628404,Hart,J. Hart,234,43,24,Made,1,90,94,184,v,Hart 24' 3PT Jump Shot (18 PTS) (Brunson 10 AST),Made Shot,Jump Shot,1,3,457
+22400903,614,PT03M15.00S,4,1610612747,LAL,1629216,Vincent,G. Vincent,-12,41,4,Missed,1,90,94,184,h,MISS Vincent 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,458
+22400903,615,PT03M15.00S,4,0,,1610612747,,,0,0,0,,0,90,94,184,h,LAKERS Rebound,Rebound,Unknown,0,0,459
+22400903,617,PT03M13.00S,4,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,90,94,184,v,Anunoby P.FOUL (P4.T2) (T.Ford),Foul,Personal,0,0,460
+22400903,619,PT02M59.00S,4,1610612747,LAL,1629029,Dončić,L. Dončić,72,113,13,Missed,1,90,94,184,h,MISS Dončić 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,461
+22400903,620,PT02M56.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,90,94,184,h,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,462
+22400903,621,PT02M55.00S,4,1610612747,LAL,1629216,Vincent,G. Vincent,116,251,28,Made,1,93,94,187,h,Vincent 28' 3PT Jump Shot (9 PTS) (Hayes 1 AST),Made Shot,Jump Shot,1,3,463
+22400903,623,PT02M46.00S,4,0,,1610612752,,,0,0,0,,0,93,94,187,v,Knicks Violation: Delay of game Violation,Violation,Delay Of Game,0,0,464
+22400903,624,PT02M28.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-175,197,26,Missed,1,93,94,187,v,MISS Brunson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,465
+22400903,625,PT02M25.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,93,94,187,h,L. James REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,466
+22400903,626,PT02M21.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,93,94,187,h,Hayes Bad Pass Turnover (P2.T17),Turnover,Bad Pass,1,0,467
+22400903,626,PT02M21.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,93,94,187,v,Bridges STEAL (3 STL),,,1,0,468
+22400903,628,PT02M01.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,12,173,17,Made,1,93,96,189,v,Brunson 17' Fadeaway Jumper (28 PTS) (Hart 2 AST),Made Shot,Fadeaway Jump Shot,1,2,469
+22400903,630,PT01M51.00S,4,1610612747,LAL,2544,James,L. James,-29,289,29,Made,1,96,96,192,h,L. James 29' 3PT Jump Shot (27 PTS) (Hayes 2 AST),Made Shot,Jump Shot,1,3,470
+22400903,632,PT01M39.00S,4,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,96,96,192,h,Dončić P.FOUL (P5.T4) (J.DeRosa),Foul,Personal,1,0,471
+22400903,634,PT01M39.00S,4,0,,1610612747,,,0,0,0,,0,96,96,192,h,LAKERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,472
+22400903,636,PT01M29.00S,4,1610612752,NYK,1628973,Brunson,J. Brunson,-153,219,27,Missed,1,96,96,192,v,MISS Brunson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,473
+22400903,637,PT01M27.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,96,96,192,h,L. James REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,474
+22400903,638,PT01M21.00S,4,1610612747,LAL,1629216,Vincent,G. Vincent,225,29,0,Made,1,99,96,195,h,Vincent 3PT Running Jump Shot (12 PTS) (L. James 8 AST),Made Shot,Running Jump Shot,1,3,475
+22400903,640,PT01M21.00S,4,0,,1610612752,,,0,0,0,,0,99,96,195,v,Knicks Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,476
+22400903,641,PT01M16.00S,4,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,99,96,195,v,Bridges Bad Pass Turnover (P1.T16),Turnover,Bad Pass,1,0,477
+22400903,641,PT01M16.00S,4,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,99,96,195,h,Dončić STEAL (4 STL),,,1,0,478
+22400903,643,PT00M55.20S,4,1610612747,LAL,2544,James,L. James,97,236,26,Missed,1,99,96,195,h,MISS L. James 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,479
+22400903,644,PT00M53.20S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,99,96,195,v,Towns REBOUND (Off:2 Def:11),Rebound,Unknown,1,0,480
+22400903,645,PT00M46.40S,4,1610612752,NYK,1628973,Brunson,J. Brunson,7,17,2,Made,1,99,98,197,v,Brunson 2' Driving Layup (30 PTS),Made Shot,Driving Layup Shot,1,2,481
+22400903,646,PT00M46.40S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,99,98,197,h,Hayes S.FOUL (P4.PN) (J.DeRosa),Foul,Shooting,1,0,482
+22400903,648,PT00M46.40S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,99,99,198,v,Brunson Free Throw 1 of 1 (31 PTS),Free Throw,Free Throw 1 of 1,1,0,483
+22400903,649,PT00M23.30S,4,1610612747,LAL,1627827,Finney-Smith,D. Finney-Smith,214,117,24,Missed,1,99,99,198,h,MISS Finney-Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,484
+22400903,650,PT00M22.20S,4,0,,1610612747,,,0,0,0,,0,99,99,198,h,LAKERS Rebound,Rebound,Unknown,1,0,485
+22400903,651,PT00M22.20S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,99,99,198,v,Towns L.B.FOUL (P3.T3) (T.Ford),Foul,Loose Ball,1,0,486
+22400903,653,PT00M22.20S,4,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,99,99,198,v,SUB: Robinson FOR Towns,Substitution,,0,0,487
+22400903,655,PT00M22.20S,4,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,99,99,198,v,SUB: McBride FOR Brunson,Substitution,,0,0,488
+22400903,657,PT00M11.30S,4,1610612747,LAL,2544,James,L. James,-180,186,26,Missed,1,99,99,198,h,MISS L. James 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,489
+22400903,658,PT00M09.10S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,99,99,198,v,Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,490
+22400903,659,PT00M09.10S,4,0,,1610612752,,,0,0,0,,0,99,99,198,v,Knicks Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,491
+22400903,660,PT00M09.10S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,99,99,198,h,SUB: Vanderbilt FOR Hayes,Substitution,,0,0,492
+22400903,661,PT00M09.10S,4,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,99,99,198,v,SUB: Brunson FOR Robinson,Substitution,,0,0,493
+22400903,662,PT00M09.10S,4,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,99,99,198,v,SUB: Towns FOR McBride,Substitution,,0,0,494
+22400903,666,PT00M00.00S,4,0,,657,,,0,0,0,,0,99,99,198,,Instant Replay4th Period (12:35 AM EST),Instant Replay,Support Ruling,0,0,495
+22400903,667,PT00M00.00S,4,0,,0,,,0,0,0,,0,99,99,198,,End of 4th Period (12:36 AM EST),period,end,1,0,496
+22400903,672,PT05M00.00S,5,0,,0,,,0,0,0,,0,99,99,198,,Start of 1st OT (12:38 AM EST),period,start,0,0,497
+22400903,674,PT05M00.00S,5,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,99,99,198,h,Jump Ball Hayes vs. Towns: Tip to Hart,Jump Ball,,1,0,498
+22400903,677,PT04M38.00S,5,1610612752,NYK,1628384,Anunoby,O. Anunoby,-240,-7,24,Missed,1,99,99,198,v,MISS Anunoby 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,499
+22400903,678,PT04M35.00S,5,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,99,99,198,v,Towns REBOUND (Off:3 Def:11),Rebound,Unknown,1,0,500
+22400903,679,PT04M32.00S,5,1610612752,NYK,1628384,Anunoby,O. Anunoby,-227,108,25,Missed,1,99,99,198,v,MISS Anunoby 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,501
+22400903,680,PT04M30.00S,5,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,99,99,198,h,Dončić REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,502
+22400903,681,PT04M17.00S,5,1610612747,LAL,1629029,Dončić,L. Dončić,-72,121,14,Made,1,101,99,200,h,Dončić 14' Fadeaway Jumper (29 PTS),Made Shot,Fadeaway Jump Shot,1,2,503
+22400903,682,PT04M00.00S,5,1610612752,NYK,1626157,Towns,K. Towns,20,36,4,Missed,1,101,99,200,v,MISS Towns 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,504
+22400903,683,PT03M58.00S,5,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,101,99,200,h,Hayes REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,505
+22400903,684,PT03M47.00S,5,1610612747,LAL,1629029,Dončić,L. Dončić,-175,206,27,Made,1,104,99,203,h,Dončić 27' 3PT Pullup Jump Shot (32 PTS),Made Shot,Pullup Jump shot,1,3,506
+22400903,685,PT03M47.00S,5,0,,1610612752,,,0,0,0,,0,104,99,203,v,Knicks Timeout: Regular (Reg.8 Short 0),Timeout,Regular,0,0,507
+22400903,686,PT03M34.00S,5,1610612747,LAL,2544,James,L. James,0,0,0,,0,104,99,203,h,L. James S.FOUL (P3.T1) (J.DeRosa),Foul,Shooting,1,0,508
+22400903,688,PT03M34.00S,5,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,104,100,204,v,Brunson Free Throw 1 of 2 (32 PTS),Free Throw,Free Throw 1 of 2,1,0,509
+22400903,689,PT03M34.00S,5,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,104,101,205,v,Brunson Free Throw 2 of 2 (33 PTS),Free Throw,Free Throw 2 of 2,1,0,510
+22400903,690,PT03M14.00S,5,1610612747,LAL,1629029,Dončić,L. Dončić,103,253,27,Missed,1,104,101,205,h,MISS Dončić 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,511
+22400903,691,PT03M11.00S,5,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,104,101,205,v,Anunoby REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,512
+22400903,692,PT02M59.00S,5,1610612752,NYK,1628973,Brunson,J. Brunson,86,125,15,Made,1,104,103,207,v,Brunson 15' Pullup Jump Shot (35 PTS),Made Shot,Pullup Jump shot,1,2,513
+22400903,693,PT02M40.00S,5,1610612747,LAL,1630559,Reaves,A. Reaves,-239,22,24,Made,1,107,103,210,h,Reaves 24' 3PT Jump Shot (8 PTS) (Hayes 3 AST),Made Shot,Jump Shot,1,3,514
+22400903,695,PT02M31.00S,5,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,107,103,210,h,Reaves P.FOUL (P2.T2) (N.Green),Foul,Personal,1,0,515
+22400903,697,PT02M23.00S,5,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,107,103,210,h,Hayes S.FOUL (P5.T3) (T.Ford),Foul,Shooting,1,0,516
+22400903,699,PT02M23.00S,5,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,107,104,211,v,Brunson Free Throw 1 of 2 (36 PTS),Free Throw,Free Throw 1 of 2,1,0,517
+22400903,700,PT02M23.00S,5,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,107,105,212,v,Brunson Free Throw 2 of 2 (37 PTS),Free Throw,Free Throw 2 of 2,1,0,518
+22400903,701,PT01M58.00S,5,1610612747,LAL,1630559,Reaves,A. Reaves,152,257,30,Missed,1,107,105,212,h,MISS Reaves 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,519
+22400903,702,PT01M55.00S,5,1610612752,NYK,1628404,Hart,J. Hart,0,0,0,,0,107,105,212,v,Hart REBOUND (Off:5 Def:5),Rebound,Unknown,1,0,520
+22400903,703,PT01M52.00S,5,1610612752,NYK,1628973,Brunson,J. Brunson,213,173,27,Missed,1,107,105,212,v,MISS Brunson 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,521
+22400903,704,PT01M48.00S,5,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,107,105,212,h,Reaves REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,522
+22400903,705,PT01M28.00S,5,1610612747,LAL,2544,James,L. James,-44,48,7,Missed,1,107,105,212,h,MISS L. James 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,523
+22400903,706,PT01M26.00S,5,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,107,105,212,v,Brunson REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,524
+22400903,707,PT01M24.00S,5,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,107,105,212,h,Reaves S.FOUL (P3.PN) (J.DeRosa),Foul,Shooting,1,0,525
+22400903,709,PT01M24.00S,5,0,,1610612747,,,0,0,0,,0,107,105,212,h,LAKERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,526
+22400903,710,PT01M24.00S,5,0,,707,Davis,M. Davis,0,0,0,,0,107,105,212,,Instant Replay1st OT (12:47 AM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,527
+22400903,711,PT01M24.00S,5,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,107,105,212,v,SUB: Robinson FOR Towns,Substitution,,0,0,528
+22400903,713,PT01M24.00S,5,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,107,106,213,v,Brunson Free Throw 1 of 2 (38 PTS),Free Throw,Free Throw 1 of 2,1,0,529
+22400903,714,PT01M24.00S,5,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,107,106,213,v,SUB: Towns FOR Bridges,Substitution,,0,0,530
+22400903,716,PT01M24.00S,5,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,107,107,214,v,Brunson Free Throw 2 of 2 (39 PTS),Free Throw,Free Throw 2 of 2,1,0,531
+22400903,717,PT01M20.00S,5,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,107,107,214,v,Robinson Personal Take Foul (P1.T1) (T.Ford),Foul,Personal Take,1,0,532
+22400903,719,PT01M20.00S,5,1610612752,NYK,1628973,Brunson,J. Brunson,0,0,0,,0,107,107,214,v,SUB: McBride FOR Brunson,Substitution,,0,0,533
+22400903,720,PT01M20.00S,5,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,107,107,214,v,SUB: Bridges FOR Robinson,Substitution,,0,0,534
+22400903,723,PT00M59.70S,5,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,107,107,214,v,Towns S.FOUL (P4.PN) (N.Green),Foul,Shooting,1,0,535
+22400903,725,PT00M59.70S,5,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,108,107,215,h,Hayes Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,536
+22400903,726,PT00M59.70S,5,1610612752,NYK,1628969,Bridges,M. Bridges,0,0,0,,0,108,107,215,v,SUB: Robinson FOR Bridges,Substitution,,0,0,537
+22400903,728,PT00M59.70S,5,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,109,107,216,h,Hayes Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,538
+22400903,729,PT00M59.70S,5,0,,1610612752,,,0,0,0,,0,109,107,216,v,Knicks Timeout: Regular (Reg.9 Short 0),Timeout,Regular,0,0,539
+22400903,730,PT00M59.70S,5,1610612752,NYK,1629011,Robinson,M. Robinson,0,0,0,,0,109,107,216,v,SUB: Bridges FOR Robinson,Substitution,,0,0,540
+22400903,732,PT00M39.20S,5,1610612752,NYK,1630540,McBride,M. McBride,-97,108,15,Missed,1,109,107,216,v,MISS McBride 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,541
+22400903,733,PT00M38.60S,5,0,,1610612747,,,0,0,0,,0,109,107,216,h,LAKERS Rebound,Rebound,Unknown,0,0,542
+22400903,734,PT00M38.60S,5,1610612752,NYK,1626157,Towns,K. Towns,0,0,0,,0,109,107,216,v,Towns L.B.FOUL (P5.PN) (T.Ford),Foul,Loose Ball,1,0,543
+22400903,736,PT00M38.60S,5,1610612747,LAL,2544,James,L. James,0,0,0,,0,110,107,217,h,L. James Free Throw 1 of 2 (28 PTS),Free Throw,Free Throw 1 of 2,1,0,544
+22400903,737,PT00M38.60S,5,1610612747,LAL,2544,James,L. James,0,0,0,,0,111,107,218,h,L. James Free Throw 2 of 2 (29 PTS),Free Throw,Free Throw 2 of 2,1,0,545
+22400903,738,PT00M25.00S,5,1610612752,NYK,1628404,Hart,J. Hart,230,22,0,Missed,1,111,107,218,v,MISS Hart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,546
+22400903,739,PT00M22.50S,5,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,111,107,218,v,Anunoby REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,547
+22400903,740,PT00M21.70S,5,1610612752,NYK,1628384,Anunoby,O. Anunoby,-2,8,1,Missed,1,111,107,218,v,MISS Anunoby 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,548
+22400903,741,PT00M21.70S,5,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,111,107,218,v,McBride REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,549
+22400903,742,PT00M10.70S,5,1610612752,NYK,1628384,Anunoby,O. Anunoby,1,14,1,Made,1,111,109,220,v,Anunoby 1' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,1,2,550
+22400903,743,PT00M10.70S,5,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,111,109,220,h,Hayes S.FOUL (P6.PN) (J.DeRosa),Foul,Shooting,1,0,551
+22400903,745,PT00M10.70S,5,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,111,109,220,h,SUB: Vanderbilt FOR Hayes,Substitution,,0,0,552
+22400903,747,PT00M10.70S,5,1610612752,NYK,1628384,Anunoby,O. Anunoby,0,0,0,,0,111,109,220,v,MISS Anunoby Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,553
+22400903,748,PT00M09.40S,5,1610612747,LAL,2544,James,L. James,0,0,0,,0,111,109,220,h,L. James REBOUND (Off:1 Def:11),Rebound,Unknown,1,0,554
+22400903,749,PT00M09.40S,5,1610612752,NYK,1630540,McBride,M. McBride,0,0,0,,0,111,109,220,v,McBride P.FOUL (P2.PN) (T.Ford),Foul,Personal,1,0,555
+22400903,751,PT00M09.40S,5,1610612747,LAL,2544,James,L. James,0,0,0,,0,112,109,221,h,L. James Free Throw 1 of 2 (30 PTS),Free Throw,Free Throw 1 of 2,1,0,556
+22400903,752,PT00M09.40S,5,1610612747,LAL,2544,James,L. James,0,0,0,,0,113,109,222,h,L. James Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,1,0,557
+22400903,753,PT00M02.70S,5,1610612752,NYK,1630540,McBride,M. McBride,-200,197,28,Missed,1,113,109,222,v,MISS McBride 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,558
+22400903,754,PT00M00.40S,5,1610612747,LAL,1629029,Dončić,L. Dončić,0,0,0,,0,113,109,222,h,Dončić REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,559
+22400903,755,PT00M00.00S,5,0,,0,,,0,0,0,,0,113,109,222,,End of 1st OT (12:59 AM EST),period,end,1,0,560

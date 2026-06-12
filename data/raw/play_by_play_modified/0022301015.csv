@@ -1,0 +1,538 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22301015,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+22301015,4,PT12M00.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,0,0,0,h,Jump Ball Wembanyama vs. Jackson Jr.: Tip to Konchar,Jump Ball,,1,0,2
+22301015,7,PT11M41.00S,1,1610612763,MEM,1629723,Konchar,J. Konchar,158,223,27,Missed,1,0,0,0,v,MISS Konchar 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+22301015,8,PT11M39.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,0,0,0,h,Sochan REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22301015,9,PT11M30.00S,1,1610612759,SAS,1630200,Jones,T. Jones,-206,140,25,Missed,1,0,0,0,h,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,5
+22301015,10,PT11M27.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,0,0,0,v,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,6
+22301015,11,PT11M18.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,6,58,6,Missed,1,0,0,0,v,MISS Jackson Jr. 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,7
+22301015,12,PT11M15.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,0,0,0,h,Sochan REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,8
+22301015,13,PT11M09.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,2,281,28,Made,1,3,0,3,h,Wembanyama 28' 3PT Running Pull-Up Jump Shot (3 PTS) (Sochan 1 AST),Made Shot,Running Pull-Up Jump Shot,1,3,9
+22301015,15,PT10M55.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,-216,148,26,Missed,1,3,0,3,v,MISS Aldama 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,10
+22301015,16,PT10M52.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,3,0,3,h,Sochan REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,11
+22301015,17,PT10M48.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,3,0,3,h,Sochan Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1,0,12
+22301015,18,PT10M35.00S,1,1610612763,MEM,1629723,Konchar,J. Konchar,-1,265,27,Made,1,3,3,6,v,Konchar 27' 3PT Jump Shot (3 PTS) (Jackson Jr. 1 AST),Made Shot,Jump Shot,1,3,13
+22301015,20,PT10M09.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,26,257,26,Missed,1,3,3,6,h,MISS Wembanyama 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,14
+22301015,21,PT10M05.00S,1,1610612763,MEM,1630692,Goodwin,J. Goodwin,0,0,0,,0,3,3,6,v,Goodwin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,15
+22301015,22,PT09M56.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,7,14,2,Made,1,3,5,8,v,Jackson Jr. 2' Driving Layup (2 PTS) (Goodwin 1 AST),Made Shot,Driving Layup Shot,1,2,16
+22301015,24,PT09M46.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,33,5,3,Missed,1,3,5,8,h,MISS Sochan 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,17
+22301015,26,PT09M46.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,3,5,8,h,Sochan REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,18
+22301015,27,PT09M45.00S,1,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,3,5,8,v,Konchar S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,1,0,19
+22301015,29,PT09M45.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,4,5,9,h,Wembanyama Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,20
+22301015,30,PT09M45.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,5,5,10,h,Wembanyama Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,21
+22301015,31,PT09M33.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,5,5,10,h,Sochan P.FOUL (P1.T1) (A.Smith),Foul,Personal,1,0,22
+22301015,33,PT09M26.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,17,23,3,Missed,1,5,5,10,v,MISS Jackson 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,23
+22301015,34,PT09M24.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,5,5,10,h,Wembanyama REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,24
+22301015,35,PT09M21.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,-138,214,25,Missed,1,5,5,10,h,MISS Champagnie 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,25
+22301015,36,PT09M21.00S,1,0,,1610612763,,,0,0,0,,0,5,5,10,v,Grizzlies Rebound,Rebound,Unknown,1,0,26
+22301015,37,PT09M19.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,5,5,10,h,Wembanyama L.B.FOUL (P1.T2) (A.Smith),Foul,Loose Ball,1,0,27
+22301015,39,PT09M06.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,232,13,0,Missed,1,5,5,10,v,MISS Aldama 3PT Jump Shot,Missed Shot,Jump Shot,1,3,28
+22301015,40,PT09M03.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,5,5,10,h,Sochan REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,29
+22301015,41,PT08M55.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,1,10,1,Made,1,7,5,12,h,Sochan 1' Cutting Dunk Shot (2 PTS) (Wembanyama 1 AST),Made Shot,Cutting Dunk Shot,1,2,30
+22301015,43,PT08M42.00S,1,1610612763,MEM,1630692,Goodwin,J. Goodwin,0,0,0,,0,7,5,12,v,Goodwin Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,31
+22301015,43,PT08M42.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,7,5,12,h,Sochan STEAL (1 STL),,,1,0,32
+22301015,45,PT08M38.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,4,6,1,Made,1,9,5,14,h,Vassell 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,33
+22301015,46,PT08M23.00S,1,1610612763,MEM,1630692,Goodwin,J. Goodwin,230,37,0,Missed,1,9,5,14,v,MISS Goodwin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,34
+22301015,47,PT08M20.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,9,5,14,h,Wembanyama REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,35
+22301015,48,PT08M07.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,-131,-2,13,Made,1,11,5,16,h,Vassell 13' Fadeaway Jumper (4 PTS) (Wembanyama 2 AST),Made Shot,Fadeaway Jump Shot,1,2,36
+22301015,50,PT07M51.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-118,241,27,Missed,1,11,5,16,v,MISS Jackson Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,37
+22301015,51,PT07M48.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,11,5,16,h,Vassell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,38
+22301015,52,PT07M41.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,59,248,25,Missed,1,11,5,16,h,MISS Wembanyama 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,39
+22301015,53,PT07M38.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,11,5,16,v,Aldama REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,40
+22301015,54,PT07M26.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,23,20,3,Missed,1,11,5,16,v,MISS Jackson 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,41
+22301015,55,PT07M24.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,11,5,16,h,Champagnie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,42
+22301015,56,PT07M10.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,-15,23,3,Missed,1,11,5,16,h,MISS Sochan 3' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,43
+22301015,57,PT07M08.00S,1,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,11,5,16,v,Konchar REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,44
+22301015,58,PT06M58.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-15,8,2,Missed,1,11,5,16,v,MISS Jackson Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,45
+22301015,58,PT06M58.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,11,5,16,h,Sochan BLOCK (1 BLK),,,1,2,46
+22301015,60,PT06M55.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,11,5,16,h,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,47
+22301015,61,PT06M54.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,11,5,16,v,Jackson S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,1,0,48
+22301015,63,PT06M54.00S,1,0,,1610612759,,,0,0,0,,0,11,5,16,h,SPURS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,49
+22301015,64,PT06M54.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,12,5,17,h,Champagnie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,50
+22301015,65,PT06M54.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,12,5,17,h,MISS Champagnie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,51
+22301015,66,PT06M51.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,12,5,17,v,Aldama REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,52
+22301015,67,PT06M41.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,12,5,17,v,Jackson Jr. Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,1,0,53
+22301015,68,PT06M30.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-194,171,26,Missed,1,12,5,17,h,MISS Wembanyama 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,54
+22301015,69,PT06M26.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,12,5,17,v,Aldama REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,55
+22301015,70,PT06M14.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,-7,18,2,Made,1,12,7,19,v,Aldama 2' Driving Reverse Dunk Shot (2 PTS) (Jackson Jr. 2 AST),Made Shot,Driving Reverse Dunk Shot,1,2,56
+22301015,72,PT06M04.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,15,9,2,Missed,1,12,7,19,h,MISS Vassell 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,57
+22301015,73,PT06M04.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,12,7,19,h,Sochan REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,58
+22301015,74,PT06M01.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,Made,1,14,7,21,h,Sochan Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,1,2,59
+22301015,75,PT05M40.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,-6,268,27,Made,1,14,10,24,v,Aldama 27' 3PT Jump Shot (5 PTS) (Goodwin 2 AST),Made Shot,Jump Shot,1,3,60
+22301015,77,PT05M25.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,65,160,17,Made,1,16,10,26,h,Vassell 17' Pullup Jump Shot (6 PTS) (Sochan 2 AST),Made Shot,Pullup Jump shot,1,2,61
+22301015,79,PT05M14.00S,1,1610612763,MEM,1630692,Goodwin,J. Goodwin,0,0,0,,0,16,10,26,v,Goodwin Lost Ball Turnover (P2.T3),Turnover,Lost Ball,1,0,62
+22301015,79,PT05M14.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,16,10,26,h,Jones STEAL (1 STL),,,1,0,63
+22301015,81,PT05M11.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,1,16,2,Made,1,18,10,28,h,Sochan 2' Running Finger Roll Layup (6 PTS) (Jones 1 AST),Made Shot,Running Finger Roll Layup Shot,1,2,64
+22301015,83,PT04M54.00S,1,1610612763,MEM,1629723,Konchar,J. Konchar,115,247,27,Missed,1,18,10,28,v,MISS Konchar 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,65
+22301015,84,PT04M52.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,18,10,28,h,Sochan REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,66
+22301015,85,PT04M28.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,99,243,26,Made,1,21,10,31,h,Vassell 26' 3PT Step Back Jump Shot (9 PTS) (Wembanyama 3 AST),Made Shot,Step Back Jump shot,1,3,67
+22301015,87,PT04M28.00S,1,0,,1610612763,,,0,0,0,,0,21,10,31,v,Grizzlies Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,68
+22301015,88,PT04M28.00S,1,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,21,10,31,h,SUB: Collins FOR Champagnie,Substitution,,0,0,69
+22301015,89,PT04M28.00S,1,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,21,10,31,h,SUB: Johnson FOR Wembanyama,Substitution,,0,0,70
+22301015,90,PT04M28.00S,1,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,21,10,31,h,SUB: Branham FOR Jones,Substitution,,0,0,71
+22301015,91,PT04M28.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,21,10,31,v,SUB: Pippen Jr. FOR Jackson,Substitution,,0,0,72
+22301015,92,PT04M28.00S,1,1610612763,MEM,1630692,Goodwin,J. Goodwin,0,0,0,,0,21,10,31,v,SUB: LaRavia FOR Goodwin,Substitution,,0,0,73
+22301015,98,PT04M08.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,229,38,0,Missed,1,21,10,31,v,MISS Jackson Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,74
+22301015,99,PT04M04.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,21,10,31,h,Sochan REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,75
+22301015,100,PT03M51.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,25,3,3,Missed,1,21,10,31,h,MISS Collins 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,1,2,76
+22301015,100,PT03M51.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,21,10,31,v,Jackson Jr. BLOCK (1 BLK),,,1,2,77
+22301015,102,PT03M48.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,21,10,31,v,LaRavia REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,78
+22301015,103,PT03M44.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,21,10,31,h,Collins S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,1,0,79
+22301015,105,PT03M44.00S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,21,10,31,v,SUB: Jarreau FOR Aldama,Substitution,,0,0,80
+22301015,107,PT03M44.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,21,11,32,v,LaRavia Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,81
+22301015,108,PT03M44.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,21,12,33,v,LaRavia Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,82
+22301015,109,PT03M31.00S,1,1610612759,SAS,1631103,Branham,M. Branham,-58,61,8,Made,1,23,12,35,h,Branham 8' Driving Floating Bank Jump Shot (2 PTS) (Collins 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,83
+22301015,111,PT03M18.00S,1,1610612763,MEM,1629723,Konchar,J. Konchar,-110,254,28,Missed,1,23,12,35,v,MISS Konchar 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,84
+22301015,112,PT03M15.00S,1,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,23,12,35,h,Branham REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,85
+22301015,113,PT03M10.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,-4,14,1,Made,1,25,12,37,h,Collins 1' Running Layup (2 PTS) (Vassell 1 AST),Made Shot,Running Layup Shot,1,2,86
+22301015,115,PT02M55.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,21,84,9,Missed,1,25,12,37,v,MISS Jackson Jr. 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,87
+22301015,116,PT02M53.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,25,12,37,h,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,88
+22301015,117,PT02M49.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,25,12,37,h,Sochan Offensive Charge Foul (P2) (J.DeRosa),Foul,Offensive Charge,1,0,89
+22301015,119,PT02M49.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,25,12,37,h,Sochan Offensive Foul Turnover (P2.T2),Turnover,Offensive Foul Turnover,1,0,90
+22301015,120,PT02M49.00S,1,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,25,12,37,h,SUB: Wesley FOR Sochan,Substitution,,0,0,91
+22301015,121,PT02M49.00S,1,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,25,12,37,v,SUB: Pereira FOR Jackson Jr.,Substitution,,0,0,92
+22301015,122,PT02M49.00S,1,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,25,12,37,v,SUB: Jackson FOR Konchar,Substitution,,0,0,93
+22301015,126,PT02M38.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,25,12,37,h,Collins S.FOUL (P2.T4) (S.Mehta),Foul,Shooting,1,0,94
+22301015,128,PT02M38.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,25,13,38,v,Jackson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,95
+22301015,129,PT02M38.00S,1,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,25,14,39,v,Jackson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,96
+22301015,130,PT02M20.00S,1,1610612759,SAS,1630170,Vassell,D. Vassell,81,22,8,Made,1,27,14,41,h,Vassell 8' Driving Floating Jump Shot (11 PTS) (Collins 2 AST),Made Shot,Driving Floating Jump Shot,1,2,97
+22301015,132,PT02M02.00S,1,1610612763,MEM,1641970,Pereira,M. Pereira,-39,12,4,Missed,1,27,14,41,v,MISS Pereira 4' Hook Bank Shot,Missed Shot,Hook Bank Shot,1,2,98
+22301015,133,PT02M00.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,27,14,41,h,Collins REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,99
+22301015,134,PT01M56.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,27,14,41,v,Pippen Jr. P.FOUL (P1.T3) (J.DeRosa),Foul,Personal,1,0,100
+22301015,136,PT01M48.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,27,14,41,h,Collins Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,101
+22301015,136,PT01M48.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,27,14,41,v,LaRavia STEAL (1 STL),,,1,0,102
+22301015,138,PT01M45.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,27,14,41,h,Johnson S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,1,0,103
+22301015,140,PT01M45.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,27,14,41,v,MISS Pippen Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,104
+22301015,141,PT01M45.00S,1,0,,1610612763,,,0,0,0,,0,27,14,41,v,Grizzlies Rebound,Rebound,Normal Rebound,1,0,105
+22301015,142,PT01M45.00S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,27,15,42,v,Pippen Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,106
+22301015,143,PT01M33.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,31,22,4,Missed,1,27,15,42,h,MISS Johnson 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,107
+22301015,143,PT01M33.00S,1,1610612763,MEM,1630610,Jarreau,D. Jarreau,0,0,0,,0,27,15,42,v,Jarreau BLOCK (1 BLK),,,1,2,108
+22301015,145,PT01M30.00S,1,1610612763,MEM,1641970,Pereira,M. Pereira,0,0,0,,0,27,15,42,v,Pereira REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+22301015,146,PT01M22.00S,1,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,27,15,42,h,Jump Ball Wesley vs. Jackson: Tip to Pereira,Jump Ball,,1,0,110
+22301015,149,PT01M16.00S,1,1610612763,MEM,1641970,Pereira,M. Pereira,-18,15,2,Missed,1,27,15,42,v,MISS Pereira 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,111
+22301015,149,PT01M16.00S,1,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,27,15,42,h,Collins BLOCK (1 BLK),,,1,2,112
+22301015,151,PT01M13.00S,1,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,27,15,42,h,Branham REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,113
+22301015,152,PT01M11.00S,1,1610612759,SAS,1629640,Johnson,K. Johnson,-4,1,0,Made,1,29,15,44,h,Johnson Running Alley Oop Dunk Shot (2 PTS) (Vassell 2 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,114
+22301015,154,PT00M59.10S,1,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,29,15,44,h,Branham P.FOUL (P1.PN) (J.DeRosa),Foul,Personal,1,0,115
+22301015,156,PT00M59.10S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,29,15,44,v,MISS Pippen Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,116
+22301015,157,PT00M59.10S,1,0,,1610612763,,,0,0,0,,0,29,15,44,v,Grizzlies Rebound,Rebound,Normal Rebound,1,0,117
+22301015,158,PT00M59.10S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,29,16,45,v,Pippen Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,118
+22301015,159,PT00M37.60S,1,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,29,16,45,v,Jackson S.FOUL (P2.PN) (A.Smith),Foul,Shooting,1,0,119
+22301015,161,PT00M37.60S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,30,16,46,h,Johnson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,120
+22301015,162,PT00M37.60S,1,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,30,16,46,v,SUB: Aldama FOR Jackson,Substitution,,0,0,121
+22301015,164,PT00M37.60S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,30,16,46,h,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,122
+22301015,165,PT00M34.50S,1,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,30,16,46,h,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,123
+22301015,166,PT00M26.30S,1,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,30,16,46,h,Vassell Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,124
+22301015,166,PT00M26.30S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,30,16,46,v,Pippen Jr. STEAL (1 STL),,,1,0,125
+22301015,168,PT00M23.90S,1,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-5,12,1,Made,1,30,18,48,v,Pippen Jr. 1' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,126
+22301015,169,PT00M02.80S,1,1610612759,SAS,1629640,Johnson,K. Johnson,7,9,1,Missed,1,30,18,48,h,MISS Johnson 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,127
+22301015,170,PT00M02.80S,1,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,30,18,48,v,Aldama REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,128
+22301015,171,PT00M00.00S,1,1610612763,MEM,1631222,LaRavia,J. LaRavia,-189,299,35,Missed,1,30,18,48,v,MISS LaRavia 35' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,129
+22301015,172,PT00M00.00S,1,0,,1610612763,,,0,0,0,,0,30,18,48,v,Grizzlies Rebound,Rebound,Unknown,1,0,130
+22301015,173,PT00M00.00S,1,0,,0,,,0,0,0,,0,30,18,48,,End of 1st Period (8:37 PM EST),period,end,1,0,131
+22301015,180,PT12M00.00S,2,0,,0,,,0,0,0,,0,30,18,48,,Start of 2nd Period (8:40 PM EST),period,start,0,0,132
+22301015,181,PT11M43.00S,2,1610612759,SAS,1631103,Branham,M. Branham,29,59,7,Missed,1,30,18,48,h,MISS Branham 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,133
+22301015,182,PT11M41.00S,2,1610612763,MEM,1641970,Pereira,M. Pereira,0,0,0,,0,30,18,48,v,Pereira REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,134
+22301015,183,PT11M21.00S,2,1610612763,MEM,1630610,Jarreau,D. Jarreau,6,84,8,Missed,1,30,18,48,v,MISS Jarreau 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,135
+22301015,184,PT11M18.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,30,18,48,h,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,136
+22301015,185,PT11M09.00S,2,1610612759,SAS,1626224,Osman,C. Osman,-233,1,0,Missed,1,30,18,48,h,MISS Osman 3PT Jump Shot,Missed Shot,Jump Shot,1,3,137
+22301015,186,PT11M05.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,30,18,48,v,Aldama REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,138
+22301015,187,PT10M54.00S,2,1610612763,MEM,1641970,Pereira,M. Pereira,-180,194,26,Missed,1,30,18,48,v,MISS Pereira 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,139
+22301015,188,PT10M52.00S,2,1610612759,SAS,1626224,Osman,C. Osman,0,0,0,,0,30,18,48,h,Osman REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,140
+22301015,189,PT10M45.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,217,150,26,Missed,1,30,18,48,h,MISS Wembanyama 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,141
+22301015,190,PT10M42.00S,2,1610612763,MEM,1630692,Goodwin,J. Goodwin,0,0,0,,0,30,18,48,v,Goodwin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,142
+22301015,191,PT10M34.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,-208,175,27,Made,1,30,21,51,v,Aldama 27' 3PT Jump Shot (8 PTS) (Goodwin 3 AST),Made Shot,Jump Shot,1,3,143
+22301015,193,PT10M17.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,-230,21,0,Missed,1,30,21,51,h,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,1,3,144
+22301015,194,PT10M14.00S,2,1610612763,MEM,1630610,Jarreau,D. Jarreau,0,0,0,,0,30,21,51,v,Jarreau REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,145
+22301015,195,PT10M10.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-25,7,3,Missed,1,30,21,51,v,MISS LaRavia 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,146
+22301015,196,PT10M07.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,30,21,51,h,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,147
+22301015,197,PT10M04.00S,2,1610612763,MEM,1630610,Jarreau,D. Jarreau,0,0,0,,0,30,21,51,v,Jarreau P.FOUL (P1.T1) (S.Mehta),Foul,Personal,1,0,148
+22301015,199,PT09M58.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,8,1,Missed,1,30,21,51,h,MISS Wesley 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,149
+22301015,200,PT09M55.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,30,21,51,h,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,150
+22301015,201,PT09M55.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,Missed,1,30,21,51,h,MISS Wesley Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,151
+22301015,202,PT09M54.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,30,21,51,v,Aldama REBOUND (Off:0 Def:6),Rebound,Unknown,1,0,152
+22301015,203,PT09M45.00S,2,1610612759,SAS,1626224,Osman,C. Osman,0,0,0,,0,30,21,51,h,Osman S.FOUL (P1.T1) (S.Mehta),Foul,Shooting,1,0,153
+22301015,205,PT09M45.00S,2,1610612763,MEM,1630610,Jarreau,D. Jarreau,0,0,0,,0,30,22,52,v,Jarreau Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,154
+22301015,206,PT09M45.00S,2,1610612763,MEM,1630610,Jarreau,D. Jarreau,0,0,0,,0,30,22,52,v,MISS Jarreau Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,155
+22301015,207,PT09M42.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,30,22,52,h,Wembanyama REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,156
+22301015,208,PT09M38.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,-237,1,24,Missed,1,30,22,52,h,MISS Johnson 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,157
+22301015,209,PT09M34.00S,2,1610612763,MEM,1630610,Jarreau,D. Jarreau,0,0,0,,0,30,22,52,v,Jarreau REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,158
+22301015,210,PT09M30.00S,2,1610612763,MEM,1630692,Goodwin,J. Goodwin,-199,173,26,Missed,1,30,22,52,v,MISS Goodwin 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,159
+22301015,211,PT09M27.00S,2,1610612759,SAS,1626224,Osman,C. Osman,0,0,0,,0,30,22,52,h,Osman REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,160
+22301015,212,PT09M20.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,30,22,52,v,LaRavia P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,1,0,161
+22301015,214,PT09M20.00S,2,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,30,22,52,h,SUB: Jones FOR Wesley,Substitution,,0,0,162
+22301015,215,PT09M20.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,30,22,52,v,SUB: Jackson FOR LaRavia,Substitution,,0,0,163
+22301015,218,PT09M07.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,13,21,2,Made,1,32,22,54,h,Wembanyama 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,164
+22301015,219,PT08M45.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,227,68,24,Missed,1,32,22,54,v,MISS Jackson 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,165
+22301015,220,PT08M45.00S,2,0,,1610612763,,,0,0,0,,0,32,22,54,v,Grizzlies Rebound,Rebound,Unknown,1,0,166
+22301015,221,PT08M45.00S,2,0,,1610612763,,,0,0,0,,0,32,22,54,v,Grizzlies Turnover: Shot Clock (T#4),Turnover,Shot Clock Turnover,1,0,167
+22301015,222,PT08M27.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-2,50,5,Made,1,34,22,56,h,Wembanyama 5' Turnaround Hook Shot (9 PTS) (Jones 2 AST),Made Shot,Turnaround Hook Shot,1,2,168
+22301015,224,PT08M10.00S,2,1610612763,MEM,1630610,Jarreau,D. Jarreau,54,122,13,Missed,1,34,22,56,v,MISS Jarreau 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,169
+22301015,225,PT08M08.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,34,22,56,h,Wembanyama REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,170
+22301015,227,PT08M06.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,34,22,56,h,Wembanyama Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,171
+22301015,227,PT08M06.00S,2,1610612763,MEM,1630610,Jarreau,D. Jarreau,0,0,0,,0,34,22,56,v,Jarreau STEAL (1 STL),,,1,0,172
+22301015,229,PT08M01.00S,2,1610612763,MEM,1630610,Jarreau,D. Jarreau,0,0,0,,0,34,22,56,v,Jarreau Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,173
+22301015,229,PT08M01.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,34,22,56,h,Wembanyama STEAL (1 STL),,,1,0,174
+22301015,231,PT08M01.00S,2,1610612763,MEM,1630610,Jarreau,D. Jarreau,0,0,0,,0,34,22,56,v,Jarreau P.FOUL (P2.T3) (A.Smith),Foul,Personal,1,0,175
+22301015,233,PT07M56.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,34,22,56,h,Wembanyama Lost Ball Turnover (P2.T6),Turnover,Lost Ball,1,0,176
+22301015,233,PT07M56.00S,2,1610612763,MEM,1641970,Pereira,M. Pereira,0,0,0,,0,34,22,56,v,Pereira STEAL (1 STL),,,1,0,177
+22301015,235,PT07M50.00S,2,1610612763,MEM,1630610,Jarreau,D. Jarreau,-11,8,1,Missed,1,34,22,56,v,MISS Jarreau 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,178
+22301015,236,PT07M46.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,34,22,56,v,Jackson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,179
+22301015,237,PT07M46.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,Missed,1,34,22,56,v,MISS Jackson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,180
+22301015,238,PT07M45.00S,2,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,34,22,56,h,Branham REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,181
+22301015,239,PT07M42.00S,2,1610612759,SAS,1631103,Branham,M. Branham,12,6,1,Made,1,36,22,58,h,Branham 1' Running Finger Roll Layup (4 PTS) (Wembanyama 4 AST),Made Shot,Running Finger Roll Layup Shot,1,2,182
+22301015,241,PT07M42.00S,2,0,,1610612763,,,0,0,0,,0,36,22,58,v,Grizzlies Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,183
+22301015,242,PT07M42.00S,2,1610612763,MEM,1641970,Pereira,M. Pereira,0,0,0,,0,36,22,58,v,SUB: Konchar FOR Pereira,Substitution,,0,0,184
+22301015,243,PT07M42.00S,2,1610612763,MEM,1630610,Jarreau,D. Jarreau,0,0,0,,0,36,22,58,v,SUB: Jackson Jr. FOR Jarreau,Substitution,,0,0,185
+22301015,246,PT07M27.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-159,222,27,Missed,1,36,22,58,v,MISS Jackson Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,186
+22301015,247,PT07M24.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,36,22,58,h,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,187
+22301015,249,PT07M15.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-201,151,25,Made,1,39,22,61,h,Wembanyama 25' 3PT Step Back Jump Shot (12 PTS) (Branham 1 AST),Made Shot,Step Back Jump shot,1,3,188
+22301015,251,PT06M57.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,-118,253,28,Made,1,39,25,64,v,Jackson 28' 3PT Pullup Jump Shot (5 PTS) (Aldama 1 AST),Made Shot,Pullup Jump shot,1,3,189
+22301015,253,PT06M34.00S,2,1610612759,SAS,1631103,Branham,M. Branham,-146,214,26,Missed,1,39,25,64,h,MISS Branham 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,190
+22301015,254,PT06M32.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,39,25,64,v,Aldama REBOUND (Off:0 Def:7),Rebound,Unknown,1,0,191
+22301015,255,PT06M26.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-6,76,8,Made,1,39,27,66,v,Jackson Jr. 8' Running Jump Shot (4 PTS),Made Shot,Running Jump Shot,1,2,192
+22301015,258,PT06M11.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,39,27,66,h,Wembanyama OFF.Foul (P2) (A.Smith),Foul,Offensive,1,0,193
+22301015,260,PT06M11.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,39,27,66,h,Wembanyama Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,1,0,194
+22301015,261,PT06M11.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,39,27,66,h,SUB: Sochan FOR Wembanyama,Substitution,,0,0,195
+22301015,262,PT06M11.00S,2,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,39,27,66,h,SUB: Collins FOR Branham,Substitution,,0,0,196
+22301015,263,PT06M11.00S,2,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,39,27,66,v,SUB: LaRavia FOR Aldama,Substitution,,0,0,197
+22301015,268,PT05M51.00S,2,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,39,27,66,v,Konchar Offensive Goaltending Turnover (P1.T6),Turnover,Offensive Goaltending,1,0,198
+22301015,269,PT05M31.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,-9,16,2,Missed,1,39,27,66,h,MISS Sochan 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,199
+22301015,270,PT05M28.00S,2,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,39,27,66,v,Konchar REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,200
+22301015,271,PT05M23.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,228,12,0,Made,1,39,30,69,v,LaRavia 3PT Jump Shot (5 PTS) (Goodwin 4 AST),Made Shot,Jump Shot,1,3,201
+22301015,273,PT05M22.00S,2,0,,1610612759,,,0,0,0,,0,39,30,69,h,SPURS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,202
+22301015,274,PT05M22.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,39,30,69,h,SUB: Vassell FOR Johnson,Substitution,,0,0,203
+22301015,275,PT05M22.00S,2,1610612763,MEM,1630692,Goodwin,J. Goodwin,0,0,0,,0,39,30,69,v,SUB: Pippen Jr. FOR Goodwin,Substitution,,0,0,204
+22301015,278,PT05M06.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,39,30,69,v,LaRavia P.FOUL (P2.T4) (S.Mehta),Foul,Personal,1,0,205
+22301015,280,PT04M51.00S,2,1610612759,SAS,1630200,Jones,T. Jones,-40,37,5,Missed,1,39,30,69,h,MISS Jones 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,206
+22301015,280,PT04M51.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,39,30,69,v,Jackson Jr. BLOCK (2 BLK),,,1,2,207
+22301015,281,PT04M48.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,39,30,69,v,Jackson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,208
+22301015,282,PT04M45.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,39,30,69,v,Pippen Jr. Bad Pass Turnover (P1.T7),Turnover,Bad Pass,1,0,209
+22301015,282,PT04M45.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,39,30,69,h,Sochan STEAL (2 STL),,,1,0,210
+22301015,284,PT04M34.00S,2,1610612759,SAS,1626224,Osman,C. Osman,-77,241,25,Missed,1,39,30,69,h,MISS Osman 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,211
+22301015,285,PT04M31.00S,2,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,39,30,69,v,Konchar REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,212
+22301015,286,PT04M17.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,39,30,69,v,LaRavia Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,213
+22301015,286,PT04M17.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,39,30,69,h,Sochan STEAL (3 STL),,,1,0,214
+22301015,288,PT04M12.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,-7,3,1,Missed,1,39,30,69,h,MISS Sochan 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,215
+22301015,289,PT04M10.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,39,30,69,v,Jackson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,216
+22301015,290,PT04M06.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,152,215,26,Made,1,39,33,72,v,Pippen Jr. 26' 3PT Running Jump Shot (7 PTS) (Jackson 1 AST),Made Shot,Running Jump Shot,1,3,217
+22301015,292,PT03M47.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,-146,-4,15,Made,1,41,33,74,h,Vassell 15' Turnaround Jump Shot (13 PTS) (Jones 3 AST),Made Shot,Turnaround Jump Shot,1,2,218
+22301015,294,PT03M24.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,143,223,26,Missed,1,41,33,74,v,MISS LaRavia 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,219
+22301015,295,PT03M21.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,41,33,74,v,Jackson Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,220
+22301015,296,PT03M20.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,-157,214,27,Missed,1,41,33,74,v,MISS Jackson 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,221
+22301015,297,PT03M19.00S,2,0,,1610612759,,,0,0,0,,0,41,33,74,h,SPURS Rebound,Rebound,Unknown,1,0,222
+22301015,299,PT03M19.00S,2,1610612759,SAS,1626224,Osman,C. Osman,0,0,0,,0,41,33,74,h,SUB: Johnson FOR Osman,Substitution,,0,0,223
+22301015,301,PT03M02.00S,2,1610612759,SAS,1630200,Jones,T. Jones,11,63,6,Missed,1,41,33,74,h,MISS Jones 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,224
+22301015,302,PT02M58.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,41,33,74,v,Pippen Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,225
+22301015,305,PT02M51.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,17,21,3,Missed,1,41,33,74,v,MISS Pippen Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,226
+22301015,306,PT02M48.00S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,41,33,74,h,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,227
+22301015,307,PT02M44.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,41,33,74,h,Sochan Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,228
+22301015,307,PT02M44.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,41,33,74,v,Pippen Jr. STEAL (2 STL),,,1,0,229
+22301015,309,PT02M28.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,71,259,27,Made,1,41,36,77,v,Jackson Jr. 27' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,1,3,230
+22301015,310,PT02M08.00S,2,1610612759,SAS,1631110,Sochan,J. Sochan,232,45,24,Missed,1,41,36,77,h,MISS Sochan 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,231
+22301015,311,PT02M04.00S,2,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,41,36,77,v,Pippen Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,232
+22301015,312,PT01M56.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,-39,44,6,Made,1,41,38,79,v,Jackson 6' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,233
+22301015,313,PT01M56.00S,2,0,,1610612759,,,0,0,0,,0,41,38,79,h,SPURS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,234
+22301015,314,PT01M56.00S,2,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,41,38,79,h,SUB: Wembanyama FOR Collins,Substitution,,0,0,235
+22301015,315,PT01M56.00S,2,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,41,38,79,v,SUB: Aldama FOR Jackson,Substitution,,0,0,236
+22301015,318,PT01M37.00S,2,1610612759,SAS,1630170,Vassell,D. Vassell,232,30,0,Missed,1,41,38,79,h,MISS Vassell 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+22301015,319,PT01M34.00S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,41,38,79,v,Jackson Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,238
+22301015,320,PT01M22.00S,2,1610612763,MEM,1631222,LaRavia,J. LaRavia,-13,49,5,Missed,1,41,38,79,v,MISS LaRavia 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,239
+22301015,321,PT01M20.00S,2,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,41,38,79,h,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,240
+22301015,322,PT01M15.00S,2,1610612759,SAS,1630200,Jones,T. Jones,-232,9,0,Missed,1,41,38,79,h,MISS Jones 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,241
+22301015,323,PT01M10.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,41,38,79,h,Wembanyama REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,242
+22301015,324,PT01M10.00S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,Made,1,43,38,81,h,Wembanyama Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,1,2,243
+22301015,325,PT00M58.70S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-22,26,3,Made,1,43,40,83,v,Jackson Jr. 3' Cutting Finger Roll Layup Shot (9 PTS) (LaRavia 1 AST),Made Shot,Cutting Finger Roll Layup Shot,1,2,244
+22301015,327,PT00M41.30S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,43,40,83,v,Jackson Jr. S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,1,0,245
+22301015,329,PT00M41.30S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,44,40,84,h,Wembanyama Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,246
+22301015,330,PT00M41.30S,2,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,44,40,84,h,MISS Wembanyama Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,247
+22301015,331,PT00M38.70S,2,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,44,40,84,v,Konchar REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,248
+22301015,332,PT00M29.30S,2,1610612763,MEM,1630583,Aldama,S. Aldama,-219,147,26,Made,1,44,43,87,v,Aldama 26' 3PT Jump Shot (11 PTS) (Pippen Jr. 1 AST),Made Shot,Jump Shot,1,3,249
+22301015,334,PT00M06.10S,2,1610612759,SAS,1631110,Sochan,J. Sochan,93,152,18,Missed,1,44,43,87,h,MISS Sochan 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,250
+22301015,335,PT00M04.70S,2,0,,1610612763,,,0,0,0,,0,44,43,87,v,Grizzlies Rebound,Rebound,Unknown,1,0,251
+22301015,337,PT00M02.30S,2,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,44,43,87,h,Jones P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,1,0,252
+22301015,339,PT00M01.30S,2,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,29,540,54,Missed,1,44,43,87,v,MISS Jackson Jr. 54' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,253
+22301015,340,PT00M00.20S,2,0,,1610612763,,,0,0,0,,0,44,43,87,v,Grizzlies Rebound,Rebound,Unknown,1,0,254
+22301015,341,PT00M00.00S,2,0,,0,,,0,0,0,,0,44,43,87,,End of 2nd Period (9:05 PM EST),period,end,1,0,255
+22301015,349,PT12M00.00S,3,0,,0,,,0,0,0,,0,44,43,87,,Start of 3rd Period (9:20 PM EST),period,start,0,0,256
+22301015,350,PT11M39.00S,3,1610612759,SAS,1630200,Jones,T. Jones,-38,64,7,Missed,1,44,43,87,h,MISS Jones 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,257
+22301015,351,PT11M35.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,44,43,87,h,Wembanyama REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,258
+22301015,352,PT11M35.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,Missed,1,44,43,87,h,MISS Wembanyama Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,259
+22301015,353,PT11M34.00S,3,1610612763,MEM,1630692,Goodwin,J. Goodwin,0,0,0,,0,44,43,87,v,Goodwin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,260
+22301015,354,PT11M23.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,3,31,3,Made,1,44,45,89,v,Jackson Jr. 3' Hook Shot (11 PTS) (Jackson 2 AST),Made Shot,Hook Shot,1,2,261
+22301015,356,PT11M21.00S,3,0,,1610612759,,,0,0,0,,0,44,45,89,h,SPURS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,262
+22301015,357,PT11M04.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,25,48,5,Made,1,46,45,91,h,Vassell 5' Driving Floating Jump Shot (15 PTS) (Sochan 3 AST),Made Shot,Driving Floating Jump Shot,1,2,263
+22301015,358,PT10M51.00S,3,1610612763,MEM,1629723,Konchar,J. Konchar,-233,29,0,Made,1,46,48,94,v,Konchar 3PT Jump Shot (6 PTS) (Aldama 2 AST),Made Shot,Jump Shot,1,3,264
+22301015,361,PT10M35.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,2,112,11,Made,1,48,48,96,h,Vassell 11' Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,1,2,265
+22301015,362,PT10M19.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,48,48,96,h,Jones P.FOUL (P2.T1) (S.Mehta),Foul,Personal,1,0,266
+22301015,364,PT10M11.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,15,256,26,Made,1,48,51,99,v,Jackson 26' 3PT Pullup Jump Shot (10 PTS) (Aldama 3 AST),Made Shot,Pullup Jump shot,1,3,267
+22301015,365,PT09M57.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,20,17,3,Made,1,50,51,101,h,Vassell 3' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,268
+22301015,367,PT09M42.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,50,51,101,v,Jackson Jr. Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,269
+22301015,368,PT09M20.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,1,43,4,Missed,1,50,51,101,h,MISS Wembanyama 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,270
+22301015,369,PT09M18.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,50,51,101,v,Jackson Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,271
+22301015,370,PT09M08.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,50,51,101,v,Jackson Lost Ball Turnover (P1.T10),Turnover,Lost Ball,1,0,272
+22301015,370,PT09M08.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,50,51,101,h,Vassell STEAL (1 STL),,,1,0,273
+22301015,372,PT09M05.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,50,51,101,h,Jones Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,1,0,274
+22301015,373,PT08M49.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,50,51,101,v,Jackson Jr. Lost Ball Turnover (P3.T11),Turnover,Lost Ball,1,0,275
+22301015,373,PT08M49.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,50,51,101,h,Champagnie STEAL (1 STL),,,1,0,276
+22301015,375,PT08M44.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,229,13,0,Missed,1,50,51,101,h,MISS Champagnie 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,277
+22301015,376,PT08M31.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,50,51,101,h,Wembanyama REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,278
+22301015,377,PT08M31.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,Made,1,52,51,103,h,Wembanyama Putback Layup (17 PTS),Made Shot,Putback Layup Shot,1,2,279
+22301015,378,PT08M17.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,237,41,24,Missed,1,52,51,103,v,MISS Jackson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,280
+22301015,379,PT08M13.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,52,51,103,h,Wembanyama REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,281
+22301015,380,PT08M13.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,52,51,103,v,Jackson Jr. S.FOUL (P2.T1) (A.Smith),Foul,Shooting,1,0,282
+22301015,382,PT08M13.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,53,51,104,h,Vassell Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,283
+22301015,383,PT08M13.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,54,51,105,h,Vassell Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,284
+22301015,384,PT07M52.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,1,38,4,Missed,1,54,51,105,v,MISS Jackson Jr. 4' Hook Shot,Missed Shot,Hook Shot,1,2,285
+22301015,384,PT07M52.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,54,51,105,h,Wembanyama BLOCK (1 BLK),,,1,2,286
+22301015,386,PT07M49.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,54,51,105,h,Wembanyama REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,287
+22301015,387,PT07M46.00S,3,1610612759,SAS,1630200,Jones,T. Jones,-16,12,2,Made,1,56,51,107,h,Jones 2' Running Reverse Layup (2 PTS) (Wembanyama 5 AST),Made Shot,Running Reverse Layup Shot,1,2,288
+22301015,389,PT07M46.00S,3,0,,1610612763,,,0,0,0,,0,56,51,107,v,Grizzlies Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,289
+22301015,390,PT07M30.00S,3,1610612763,MEM,1630692,Goodwin,J. Goodwin,0,0,0,,0,56,51,107,v,Goodwin Bad Pass Turnover (P3.T12),Turnover,Bad Pass,1,0,290
+22301015,390,PT07M30.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,56,51,107,h,Champagnie STEAL (2 STL),,,1,0,291
+22301015,392,PT07M21.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,5,8,1,Made,1,58,51,109,h,Wembanyama 1' Alley Oop Dunk (19 PTS) (Vassell 3 AST),Made Shot,Alley Oop Dunk Shot,1,2,292
+22301015,394,PT07M07.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,17,3,2,Made,1,58,53,111,v,Jackson 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,293
+22301015,395,PT06M56.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,-194,168,26,Missed,1,58,53,111,h,MISS Sochan 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,294
+22301015,396,PT06M54.00S,3,0,,1610612763,,,0,0,0,,0,58,53,111,v,Grizzlies Rebound,Rebound,Unknown,1,0,295
+22301015,398,PT06M54.00S,3,1610612763,MEM,1630692,Goodwin,J. Goodwin,0,0,0,,0,58,53,111,v,SUB: Pippen Jr. FOR Goodwin,Substitution,,0,0,296
+22301015,400,PT06M43.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,58,53,111,h,Vassell S.FOUL (P1.T2) (A.Smith),Foul,Shooting,1,0,297
+22301015,402,PT06M43.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,58,54,112,v,Aldama Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,298
+22301015,403,PT06M43.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,58,55,113,v,Aldama Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,299
+22301015,404,PT06M33.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-134,237,27,Missed,1,58,55,113,h,MISS Wembanyama 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,300
+22301015,405,PT06M33.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,58,55,113,v,Aldama REBOUND (Off:0 Def:8),Rebound,Unknown,1,0,301
+22301015,406,PT06M16.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,-135,218,26,Missed,1,58,55,113,v,MISS Jackson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,302
+22301015,407,PT06M12.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,58,55,113,h,Vassell REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,303
+22301015,408,PT06M01.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-163,214,27,Missed,1,58,55,113,h,MISS Wembanyama 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,304
+22301015,409,PT05M58.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,58,55,113,h,Wembanyama REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,305
+22301015,410,PT05M58.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,58,55,113,h,Wembanyama Traveling Turnover (P4.T10),Turnover,Traveling,1,0,306
+22301015,411,PT05M58.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,58,55,113,v,SUB: LaRavia FOR Jackson,Substitution,,0,0,307
+22301015,413,PT05M48.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-4,19,2,Made,1,58,57,115,v,Pippen Jr. 2' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,308
+22301015,414,PT05M31.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,58,57,115,h,Champagnie Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,309
+22301015,414,PT05M31.00S,3,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,58,57,115,v,Konchar STEAL (1 STL),,,1,0,310
+22301015,416,PT05M19.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,41,34,5,Missed,1,58,57,115,v,MISS Pippen Jr. 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,311
+22301015,416,PT05M19.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,58,57,115,h,Champagnie BLOCK (1 BLK),,,1,2,312
+22301015,418,PT05M19.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,58,57,115,v,Pippen Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,313
+22301015,419,PT05M19.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,58,57,115,h,Vassell P.FOUL (P2.T3) (A.Smith),Foul,Personal,1,0,314
+22301015,421,PT05M19.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,58,57,115,h,SUB: Johnson FOR Wembanyama,Substitution,,0,0,315
+22301015,422,PT05M19.00S,3,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,58,57,115,h,SUB: Collins FOR Champagnie,Substitution,,0,0,316
+22301015,425,PT05M12.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,58,57,115,h,Collins S.FOUL (P3.T4) (S.Mehta),Foul,Shooting,1,0,317
+22301015,427,PT05M12.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,58,58,116,v,Jackson Jr. Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,318
+22301015,428,PT05M12.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,58,59,117,v,Jackson Jr. Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,319
+22301015,429,PT04M58.00S,3,1610612759,SAS,1629640,Johnson,K. Johnson,15,27,3,Made,1,60,59,119,h,Johnson 3' Driving Layup (5 PTS) (Jones 4 AST),Made Shot,Driving Layup Shot,1,2,320
+22301015,431,PT04M36.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,51,50,7,Made,1,60,61,121,v,Aldama 7' Turnaround Hook Shot (15 PTS),Made Shot,Turnaround Hook Shot,1,2,321
+22301015,432,PT04M10.00S,3,1610612759,SAS,1630200,Jones,T. Jones,-97,243,26,Made,1,63,61,124,h,Jones 26' 3PT Jump Shot (5 PTS) (Johnson 1 AST),Made Shot,Jump Shot,1,3,322
+22301015,434,PT04M00.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,63,61,124,h,Jones P.FOUL (P3.PN) (J.DeRosa),Foul,Personal,1,0,323
+22301015,436,PT04M00.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,63,62,125,v,Pippen Jr. Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,324
+22301015,437,PT04M00.00S,3,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,63,62,125,h,SUB: Osman FOR Sochan,Substitution,,0,0,325
+22301015,438,PT04M00.00S,3,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,63,62,125,h,SUB: Branham FOR Jones,Substitution,,0,0,326
+22301015,441,PT04M00.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,63,63,126,v,Pippen Jr. Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,327
+22301015,442,PT03M42.00S,3,1610612759,SAS,1631103,Branham,M. Branham,230,54,24,Missed,1,63,63,126,h,MISS Branham 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,328
+22301015,443,PT03M39.00S,3,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,63,63,126,v,Konchar REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,329
+22301015,445,PT03M16.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,10,13,2,Missed,1,63,63,126,v,MISS Jackson Jr. 2' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,330
+22301015,446,PT03M12.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,63,63,126,v,Aldama REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,331
+22301015,447,PT03M11.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,63,63,126,h,Collins S.FOUL (P4.PN) (J.DeRosa),Foul,Shooting,1,0,332
+22301015,449,PT03M11.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,63,64,127,v,Jackson Jr. Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,333
+22301015,450,PT03M11.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,63,64,127,v,SUB: Jackson FOR Aldama,Substitution,,0,0,334
+22301015,452,PT03M11.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,63,64,127,v,MISS Jackson Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,335
+22301015,453,PT03M08.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,63,64,127,h,Collins REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,336
+22301015,454,PT02M53.00S,3,1610612759,SAS,1631103,Branham,M. Branham,23,20,3,Missed,1,63,64,127,h,MISS Branham 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,337
+22301015,455,PT02M50.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,63,64,127,v,Jackson Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,338
+22301015,456,PT02M45.00S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-23,13,3,Made,1,63,66,129,v,Pippen Jr. 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,339
+22301015,457,PT02M25.00S,3,1610612759,SAS,1631103,Branham,M. Branham,-189,181,26,Missed,1,63,66,129,h,MISS Branham 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,340
+22301015,458,PT02M25.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,63,66,129,v,Jackson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,341
+22301015,459,PT02M19.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,158,211,26,Missed,1,63,66,129,v,MISS Jackson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,342
+22301015,460,PT02M16.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,63,66,129,h,Vassell REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,343
+22301015,461,PT02M08.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,64,134,15,Missed,1,63,66,129,h,MISS Vassell 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,344
+22301015,462,PT02M04.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,63,66,129,v,Jackson Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,345
+22301015,463,PT01M54.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-7,36,4,Made,1,63,68,131,v,Jackson Jr. 4' Driving Floating Jump Shot (16 PTS),Made Shot,Driving Floating Jump Shot,1,2,346
+22301015,464,PT01M47.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,63,68,131,v,Jackson Jr. P.FOUL (P3.T2) (S.Mehta),Foul,Personal,1,0,347
+22301015,466,PT01M47.00S,3,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,63,68,131,h,SUB: Wembanyama FOR Collins,Substitution,,0,0,348
+22301015,467,PT01M47.00S,3,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,63,68,131,v,SUB: Pereira FOR Jackson Jr.,Substitution,,0,0,349
+22301015,468,PT01M47.00S,3,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,63,68,131,v,SUB: Jarreau FOR Konchar,Substitution,,0,0,350
+22301015,472,PT01M35.00S,3,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,63,68,131,v,LaRavia S.FOUL (P3.PN) (S.Mehta),Foul,Shooting,1,0,351
+22301015,474,PT01M35.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,64,68,132,h,Vassell Free Throw 1 of 3 (22 PTS),Free Throw,Free Throw 1 of 3,1,0,352
+22301015,475,PT01M35.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,65,68,133,h,Vassell Free Throw 2 of 3 (23 PTS),Free Throw,Free Throw 2 of 3,1,0,353
+22301015,476,PT01M35.00S,3,1610612763,MEM,1630610,Jarreau,D. Jarreau,0,0,0,,0,65,68,133,v,SUB: Aldama FOR Jarreau,Substitution,,0,0,354
+22301015,478,PT01M35.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,66,68,134,h,Vassell Free Throw 3 of 3 (24 PTS),Free Throw,Free Throw 3 of 3,1,0,355
+22301015,479,PT01M24.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,167,195,26,Missed,1,66,68,134,v,MISS Jackson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,356
+22301015,480,PT01M21.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,0,0,0,,0,66,68,134,h,Vassell REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,357
+22301015,481,PT01M03.00S,3,1610612759,SAS,1626224,Osman,C. Osman,-199,8,20,Missed,1,66,68,134,h,MISS Osman 20' Jump Bank Shot,Missed Shot,Jump Bank Shot,1,2,358
+22301015,482,PT01M01.00S,3,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,66,68,134,v,Jackson REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,359
+22301015,483,PT00M54.20S,3,1610612763,MEM,1641713,Jackson,G. Jackson,-28,4,3,Missed,1,66,68,134,v,MISS Jackson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,360
+22301015,483,PT00M54.20S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,66,68,134,h,Wembanyama BLOCK (2 BLK),,,1,2,361
+22301015,485,PT00M51.00S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,66,68,134,h,Wembanyama REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,362
+22301015,486,PT00M48.60S,3,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-6,21,2,Made,1,68,68,136,h,Wembanyama 2' Running Alley Oop Dunk Shot (21 PTS) (Vassell 4 AST),Made Shot,Running Alley Oop Dunk Shot,1,2,363
+22301015,488,PT00M34.00S,3,1610612763,MEM,1641970,Pereira,M. Pereira,0,0,0,,0,68,68,136,v,Pereira Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,1,0,364
+22301015,489,PT00M28.00S,3,1610612759,SAS,1630170,Vassell,D. Vassell,-146,265,30,Missed,1,68,68,136,h,MISS Vassell 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,365
+22301015,490,PT00M25.00S,3,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,68,68,136,v,Aldama REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,366
+22301015,491,PT00M06.30S,3,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-100,239,26,Made,1,68,71,139,v,Pippen Jr. 26' 3PT Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,3,367
+22301015,492,PT00M00.60S,3,1610612759,SAS,1629640,Johnson,K. Johnson,120,267,29,Missed,1,68,71,139,h,MISS Johnson 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,368
+22301015,493,PT00M00.60S,3,0,,1610612759,,,0,0,0,,0,68,71,139,h,SPURS Rebound,Rebound,Unknown,1,0,369
+22301015,494,PT00M00.00S,3,0,,0,,,0,0,0,,0,68,71,139,,End of 3rd Period (9:46 PM EST),period,end,1,0,370
+22301015,499,PT12M00.00S,4,0,,0,,,0,0,0,,0,68,71,139,,Start of 4th Period (9:49 PM EST),period,start,0,0,371
+22301015,500,PT11M48.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,68,71,139,v,Jackson Traveling Turnover (P2.T14),Turnover,Traveling,1,0,372
+22301015,501,PT11M31.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-55,16,6,Made,1,70,71,141,h,Wembanyama 6' Turnaround Hook Shot (23 PTS),Made Shot,Turnaround Hook Shot,1,2,373
+22301015,502,PT11M06.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,120,5,12,Missed,1,70,71,141,v,MISS Aldama 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,374
+22301015,503,PT11M06.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,70,71,141,h,Wembanyama REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,375
+22301015,504,PT11M01.00S,4,1610612763,MEM,1630610,Jarreau,D. Jarreau,0,0,0,,0,70,71,141,v,Jarreau S.FOUL (P3.T1) (A.Smith),Foul,Shooting,1,0,376
+22301015,506,PT11M01.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,71,71,142,h,Wembanyama Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,377
+22301015,507,PT11M01.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,71,71,142,h,MISS Wembanyama Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,378
+22301015,508,PT11M01.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,71,71,142,v,Aldama REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,379
+22301015,509,PT10M44.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,71,71,142,v,Jackson Bad Pass Turnover (P3.T15),Turnover,Bad Pass,1,0,380
+22301015,509,PT10M44.00S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,71,71,142,h,Branham STEAL (1 STL),,,1,0,381
+22301015,511,PT10M39.00S,4,1610612763,MEM,1641970,Pereira,M. Pereira,0,0,0,,0,71,71,142,v,Pereira S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,1,0,382
+22301015,513,PT10M39.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,72,71,143,h,Wembanyama Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,1,0,383
+22301015,514,PT10M39.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,72,71,143,h,MISS Wembanyama Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,384
+22301015,515,PT10M35.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,72,71,143,v,Aldama REBOUND (Off:1 Def:11),Rebound,Unknown,1,0,385
+22301015,516,PT10M26.00S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,72,71,143,h,Branham S.FOUL (P2.T1) (S.Mehta),Foul,Shooting,1,0,386
+22301015,518,PT10M26.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,72,71,143,v,MISS Pippen Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,387
+22301015,519,PT10M26.00S,4,0,,1610612763,,,0,0,0,,0,72,71,143,v,Grizzlies Rebound,Rebound,Normal Rebound,1,0,388
+22301015,520,PT10M26.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,72,71,143,v,MISS Pippen Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,389
+22301015,521,PT10M24.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,72,71,143,h,Wembanyama REBOUND (Off:4 Def:9),Rebound,Unknown,1,0,390
+22301015,522,PT10M17.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,72,71,143,h,Wembanyama Bad Pass Turnover (P5.T12),Turnover,Bad Pass,1,0,391
+22301015,522,PT10M17.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,72,71,143,v,Pippen Jr. STEAL (3 STL),,,1,0,392
+22301015,524,PT10M14.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,2,4,0,Made,1,72,73,145,v,Pippen Jr. Running Dunk (18 PTS),Made Shot,Running Dunk Shot,1,2,393
+22301015,525,PT09M55.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-21,18,3,Made,1,74,73,147,h,Wembanyama 3' Alley Oop Layup (27 PTS) (Branham 2 AST),Made Shot,Alley Oop Layup shot,1,2,394
+22301015,527,PT09M31.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,38,38,5,Missed,1,74,73,147,v,MISS Aldama 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,395
+22301015,528,PT09M29.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,74,73,147,h,Wembanyama REBOUND (Off:4 Def:10),Rebound,Unknown,1,0,396
+22301015,529,PT09M22.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,-21,10,2,Missed,1,74,73,147,h,MISS Wesley 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,397
+22301015,530,PT09M20.00S,4,1610612763,MEM,1641970,Pereira,M. Pereira,0,0,0,,0,74,73,147,v,Pereira REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,398
+22301015,531,PT09M15.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,-18,11,2,Missed,1,74,73,147,v,MISS Jackson 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,399
+22301015,531,PT09M15.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,74,73,147,h,Wembanyama BLOCK (3 BLK),,,1,2,400
+22301015,533,PT09M07.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,74,73,147,v,Jackson REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,401
+22301015,534,PT09M05.00S,4,1610612763,MEM,1630610,Jarreau,D. Jarreau,23,41,5,Missed,1,74,73,147,v,MISS Jarreau 5' Layup,Missed Shot,Layup Shot,1,2,402
+22301015,535,PT09M00.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,74,73,147,v,Jackson REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,403
+22301015,536,PT09M00.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,Made,1,74,75,149,v,Jackson Tip Layup Shot (14 PTS),Made Shot,Tip Layup Shot,1,2,404
+22301015,537,PT08M53.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,74,75,149,h,Wembanyama Lost Ball Turnover (P6.T13),Turnover,Lost Ball,1,0,405
+22301015,537,PT08M53.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,74,75,149,v,Pippen Jr. STEAL (4 STL),,,1,0,406
+22301015,539,PT08M48.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,-12,0,1,Missed,1,74,75,149,v,MISS Pippen Jr. 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,1,2,407
+22301015,540,PT08M45.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,74,75,149,h,Wembanyama REBOUND (Off:4 Def:11),Rebound,Unknown,1,0,408
+22301015,541,PT08M35.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,24,24,3,Missed,1,74,75,149,h,MISS Johnson 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,409
+22301015,542,PT08M33.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,74,75,149,v,Aldama REBOUND (Off:1 Def:12),Rebound,Unknown,1,0,410
+22301015,543,PT08M30.00S,4,0,,1610612763,,,0,0,0,,0,74,75,149,v,Grizzlies Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,411
+22301015,544,PT08M30.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,74,75,149,h,SUB: Vassell FOR Wembanyama,Substitution,,0,0,412
+22301015,545,PT08M30.00S,4,1610612759,SAS,1631103,Branham,M. Branham,0,0,0,,0,74,75,149,h,SUB: Collins FOR Branham,Substitution,,0,0,413
+22301015,546,PT08M30.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,74,75,149,v,SUB: LaRavia FOR Pippen Jr.,Substitution,,0,0,414
+22301015,547,PT08M30.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,74,75,149,v,SUB: Jackson Jr. FOR Aldama,Substitution,,0,0,415
+22301015,548,PT08M30.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,74,75,149,v,SUB: Konchar FOR Jackson,Substitution,,0,0,416
+22301015,549,PT08M30.00S,4,1610612763,MEM,1630610,Jarreau,D. Jarreau,0,0,0,,0,74,75,149,v,SUB: Goodwin FOR Jarreau,Substitution,,0,0,417
+22301015,556,PT08M25.00S,4,1610612763,MEM,1630692,Goodwin,J. Goodwin,14,44,5,Missed,1,74,75,149,v,MISS Goodwin 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,418
+22301015,557,PT08M25.00S,4,0,,1610612759,,,0,0,0,,0,74,75,149,h,SPURS Rebound,Rebound,Unknown,1,0,419
+22301015,559,PT08M14.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,229,6,0,Missed,1,74,75,149,h,MISS Wesley 3PT Jump Shot,Missed Shot,Jump Shot,1,3,420
+22301015,560,PT08M11.00S,4,0,,1610612759,,,0,0,0,,0,74,75,149,h,SPURS Rebound,Rebound,Unknown,1,0,421
+22301015,563,PT08M03.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,107,79,13,Missed,1,74,75,149,h,MISS Vassell 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,422
+22301015,564,PT08M01.00S,4,1610612763,MEM,1630692,Goodwin,J. Goodwin,0,0,0,,0,74,75,149,v,Goodwin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,423
+22301015,565,PT07M53.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-53,13,5,Made,1,74,77,151,v,Jackson Jr. 5' Turnaround Hook Shot (18 PTS) (Konchar 1 AST),Made Shot,Turnaround Hook Shot,1,2,424
+22301015,567,PT07M40.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,74,77,151,h,Wesley Bad Pass Turnover (P1.T14),Turnover,Bad Pass,1,0,425
+22301015,567,PT07M40.00S,4,1610612763,MEM,1630692,Goodwin,J. Goodwin,0,0,0,,0,74,77,151,v,Goodwin STEAL (1 STL),,,1,0,426
+22301015,569,PT07M33.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,74,77,151,h,Collins S.FOUL (P5.T2) (J.DeRosa),Foul,Shooting,1,0,427
+22301015,571,PT07M33.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,74,78,152,v,Jackson Jr. Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,428
+22301015,572,PT07M33.00S,4,1610612759,SAS,1631104,Wesley,B. Wesley,0,0,0,,0,74,78,152,h,SUB: Jones FOR Wesley,Substitution,,0,0,429
+22301015,573,PT07M33.00S,4,1610612759,SAS,1626224,Osman,C. Osman,0,0,0,,0,74,78,152,h,SUB: Sochan FOR Osman,Substitution,,0,0,430
+22301015,591,PT07M33.00S,4,1610612763,MEM,1641970,Pereira,M. Pereira,0,0,0,,0,74,78,152,v,SUB: Jackson FOR Pereira,Substitution,,0,0,431
+22301015,576,PT07M33.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,74,78,152,v,MISS Jackson Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,432
+22301015,577,PT07M29.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,74,78,152,h,Collins REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,433
+22301015,578,PT07M24.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,234,55,24,Missed,1,74,78,152,h,MISS Johnson 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,434
+22301015,579,PT07M21.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,74,78,152,h,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,435
+22301015,580,PT07M19.00S,4,1610612759,SAS,1630200,Jones,T. Jones,-13,3,1,Missed,1,74,78,152,h,MISS Jones 1' Putback Layup,Missed Shot,Putback Layup Shot,1,2,436
+22301015,581,PT07M18.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,74,78,152,v,LaRavia REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,437
+22301015,582,PT07M08.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,22,20,3,Made,1,74,80,154,v,LaRavia 3' Running Layup (7 PTS),Made Shot,Running Layup Shot,1,2,438
+22301015,583,PT06M52.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,25,49,6,Made,1,76,80,156,h,Collins 6' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,1,2,439
+22301015,584,PT06M29.00S,4,1610612763,MEM,1630692,Goodwin,J. Goodwin,206,157,26,Missed,1,76,80,156,v,MISS Goodwin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,440
+22301015,585,PT06M24.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,76,80,156,h,Sochan REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,441
+22301015,586,PT06M15.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,76,80,156,h,Sochan Lost Ball Turnover (P4.T15),Turnover,Lost Ball,1,0,442
+22301015,586,PT06M15.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,76,80,156,v,Jackson Jr. STEAL (1 STL),,,1,0,443
+22301015,588,PT06M12.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,76,80,156,h,Collins S.FOUL (P6.T3) (S.Mehta),Foul,Shooting,1,0,444
+22301015,590,PT06M12.00S,4,0,,1610612759,,,0,0,0,,0,76,80,156,h,SPURS Timeout: Coach Challenge (Full 4 Short 0),Timeout,Coach Challenge,0,0,445
+22301015,593,PT06M12.00S,4,0,,588,,,0,0,0,,0,76,80,156,,Instant Replay4th Period (10:03 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,446
+22301015,594,PT06M12.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,76,80,156,h,SUB: Wembanyama FOR Johnson,Substitution,,0,0,447
+22301015,595,PT06M12.00S,4,1610612759,SAS,1628380,Collins,Z. Collins,0,0,0,,0,76,80,156,h,SUB: Champagnie FOR Collins,Substitution,,0,0,448
+22301015,598,PT06M12.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,76,80,156,v,MISS Jackson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,449
+22301015,599,PT06M12.00S,4,0,,1610612763,,,0,0,0,,0,76,80,156,v,Grizzlies Rebound,Rebound,Normal Rebound,1,0,450
+22301015,600,PT06M12.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,76,80,156,v,MISS Jackson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,451
+22301015,601,PT06M08.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,76,80,156,v,Jackson Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,452
+22301015,602,PT06M01.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,25,34,4,Missed,1,76,80,156,v,MISS Jackson Jr. 4' Layup,Missed Shot,Layup Shot,1,2,453
+22301015,602,PT06M01.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,76,80,156,h,Champagnie BLOCK (2 BLK),,,1,2,454
+22301015,604,PT05M57.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,76,80,156,h,Jones REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,455
+22301015,605,PT05M56.00S,4,1610612759,SAS,1630170,Vassell,D. Vassell,-216,155,27,Missed,1,76,80,156,h,MISS Vassell 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,456
+22301015,606,PT05M48.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,76,80,156,h,Jones REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,457
+22301015,607,PT05M48.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,Made,1,78,80,158,h,Jones Putback Layup (7 PTS),Made Shot,Putback Layup Shot,1,2,458
+22301015,608,PT05M36.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-113,239,26,Made,1,78,83,161,v,Jackson Jr. 26' 3PT Jump Shot (22 PTS) (Goodwin 5 AST),Made Shot,Jump Shot,1,3,459
+22301015,610,PT05M18.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-109,12,11,Missed,1,78,83,161,h,MISS Wembanyama 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,460
+22301015,611,PT05M16.00S,4,1610612763,MEM,1630692,Goodwin,J. Goodwin,0,0,0,,0,78,83,161,v,Goodwin REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,461
+22301015,612,PT04M55.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,76,163,18,Missed,1,78,83,161,v,MISS LaRavia 18' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,462
+22301015,613,PT04M53.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,78,83,161,v,LaRavia REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,463
+22301015,614,PT04M43.00S,4,1610612763,MEM,1630692,Goodwin,J. Goodwin,38,168,17,Made,1,78,85,163,v,Goodwin 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,464
+22301015,615,PT04M16.00S,4,1610612759,SAS,1630200,Jones,T. Jones,6,12,1,Made,1,80,85,165,h,Jones 1' Driving Finger Roll Layup (9 PTS) (Champagnie 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,465
+22301015,617,PT03M53.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,80,85,165,v,Jackson Jr. Bad Pass Turnover (P4.T16),Turnover,Bad Pass,1,0,466
+22301015,617,PT03M53.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,80,85,165,h,Wembanyama STEAL (2 STL),,,1,0,467
+22301015,618,PT03M48.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,6,28,3,Missed,1,80,85,165,h,MISS Wembanyama 3' Running Layup,Missed Shot,Running Layup Shot,1,2,468
+22301015,619,PT03M46.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,80,85,165,v,Jackson Jr. REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,469
+22301015,631,PT03M40.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,-12,13,2,Made,1,80,87,167,v,LaRavia 2' Running Layup (9 PTS) (Konchar 2 AST),Made Shot,Running Layup Shot,1,2,470
+22301015,621,PT03M40.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,80,87,167,h,Champagnie S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,1,0,471
+22301015,679,PT03M40.00S,4,1610612759,SAS,1630577,Champagnie,J. Champagnie,0,0,0,,0,80,87,167,h,SUB: Johnson FOR Champagnie,Substitution,,0,0,472
+22301015,623,PT03M40.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,80,87,167,v,MISS LaRavia Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,473
+22301015,625,PT03M38.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,80,87,167,v,LaRavia REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,474
+22301015,626,PT03M22.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,103,71,13,Missed,1,80,87,167,v,MISS Jackson Jr. 13' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,475
+22301015,627,PT03M19.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,80,87,167,h,Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,476
+22301015,628,PT03M14.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,168,207,27,Made,1,83,87,170,h,Wembanyama 27' 3PT Pullup Jump Shot (30 PTS),Made Shot,Pullup Jump shot,1,3,477
+22301015,630,PT03M14.00S,4,0,,1610612763,,,0,0,0,,0,83,87,170,v,Grizzlies Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,478
+22301015,710,PT03M14.00S,4,1610612763,MEM,1630692,Goodwin,J. Goodwin,0,0,0,,0,83,87,170,v,SUB: Pippen Jr. FOR Goodwin,Substitution,,0,0,479
+22301015,718,PT03M14.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,83,87,170,v,SUB: Aldama FOR Jackson,Substitution,,0,0,480
+22301015,637,PT02M55.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,83,87,170,h,Johnson S.FOUL (P2.PN) (A.Smith),Foul,Shooting,1,0,481
+22301015,639,PT02M55.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,83,88,171,v,LaRavia Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,482
+22301015,642,PT02M55.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,83,89,172,v,LaRavia Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,483
+22301015,643,PT02M33.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,92,267,28,Missed,1,83,89,172,h,MISS Wembanyama 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,484
+22301015,644,PT02M29.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,83,89,172,v,LaRavia REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,485
+22301015,645,PT02M29.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,83,89,172,h,Sochan P.FOUL (P3.PN) (S.Mehta),Foul,Personal,1,0,486
+22301015,647,PT02M29.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,83,90,173,v,LaRavia Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,487
+22301015,648,PT02M29.00S,4,1610612763,MEM,1629723,Konchar,J. Konchar,0,0,0,,0,83,90,173,v,SUB: Jackson FOR Konchar,Substitution,,0,0,488
+22301015,650,PT02M29.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,83,91,174,v,LaRavia Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,489
+22301015,651,PT02M17.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,230,59,24,Missed,1,83,91,174,h,MISS Sochan 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,490
+22301015,652,PT02M10.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,83,91,174,h,Jones REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,491
+22301015,653,PT02M10.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,Made,1,85,91,176,h,Jones Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,1,2,492
+22301015,654,PT01M53.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,-20,0,2,Made,1,85,93,178,v,Jackson Jr. 2' Driving Layup (24 PTS) (Jackson 3 AST),Made Shot,Driving Layup Shot,1,2,493
+22301015,655,PT01M42.00S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,0,0,0,,0,85,93,178,v,Jackson Jr. S.FOUL (P4.T3) (S.Mehta),Foul,Shooting,1,0,494
+22301015,658,PT01M42.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,85,93,178,h,MISS Wembanyama Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,495
+22301015,659,PT01M42.00S,4,0,,1610612759,,,0,0,0,,0,85,93,178,h,SPURS Rebound,Rebound,Normal Rebound,1,0,496
+22301015,660,PT01M42.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,86,93,179,h,Wembanyama Free Throw 2 of 2 (31 PTS),Free Throw,Free Throw 2 of 2,1,0,497
+22301015,661,PT01M32.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,86,93,179,v,Pippen Jr. Lost Ball Turnover (P2.T17),Turnover,Lost Ball,1,0,498
+22301015,661,PT01M32.00S,4,1610612759,SAS,1630200,Jones,T. Jones,0,0,0,,0,86,93,179,h,Jones STEAL (2 STL),,,1,0,499
+22301015,663,PT01M32.00S,4,1610612759,SAS,1630200,Jones,T. Jones,15,1,2,Made,1,88,93,181,h,Jones 2' Running Finger Roll Layup (13 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,500
+22301015,664,PT01M30.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,88,93,181,h,Johnson P.FOUL (P3.PN) (J.DeRosa),Foul,Personal,1,0,501
+22301015,666,PT01M30.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,88,94,182,v,LaRavia Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,502
+22301015,667,PT01M30.00S,4,1610612763,MEM,1631222,LaRavia,J. LaRavia,0,0,0,,0,88,95,183,v,LaRavia Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,503
+22301015,668,PT01M19.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,-238,8,24,Missed,1,88,95,183,h,MISS Sochan 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,504
+22301015,669,PT01M17.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,88,95,183,h,Johnson REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,505
+22301015,670,PT01M17.00S,4,1610612763,MEM,1641713,Jackson,G. Jackson,0,0,0,,0,88,95,183,v,Jackson S.FOUL (P3.PN) (J.DeRosa),Foul,Shooting,1,0,506
+22301015,672,PT01M17.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,89,95,184,h,Johnson Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,507
+22301015,673,PT01M17.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,89,95,184,h,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,508
+22301015,674,PT01M16.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,89,95,184,h,Johnson REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,509
+22301015,675,PT01M16.00S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,89,95,184,v,Pippen Jr. S.FOUL (P2.PN) (S.Mehta),Foul,Shooting,1,0,510
+22301015,677,PT01M16.00S,4,0,,1610612763,,,0,0,0,,0,89,95,184,v,Grizzlies Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,511
+22301015,678,PT01M16.00S,4,0,,675,Burrough,J. Burrough,0,0,0,,0,89,95,184,,Instant Replay4th Period (10:19 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,512
+22301015,681,PT01M16.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,90,95,185,h,Johnson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,513
+22301015,682,PT01M16.00S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,91,95,186,h,Johnson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,514
+22301015,683,PT00M57.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,-33,263,27,Missed,1,91,95,186,v,MISS Aldama 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,515
+22301015,684,PT00M53.30S,4,1610612759,SAS,1629640,Johnson,K. Johnson,0,0,0,,0,91,95,186,h,Johnson REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,516
+22301015,685,PT00M42.30S,4,1610612759,SAS,1630170,Vassell,D. Vassell,-194,185,27,Missed,1,91,95,186,h,MISS Vassell 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,517
+22301015,686,PT00M38.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,91,95,186,h,Sochan REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,518
+22301015,687,PT00M38.00S,4,1610612759,SAS,1631110,Sochan,J. Sochan,6,32,3,Missed,1,91,95,186,h,MISS Sochan 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,519
+22301015,687,PT00M38.00S,4,1610612763,MEM,1630583,Aldama,S. Aldama,0,0,0,,0,91,95,186,v,Aldama BLOCK (1 BLK),,,1,2,520
+22301015,688,PT00M38.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,91,95,186,h,Wembanyama REBOUND (Off:5 Def:11),Rebound,Unknown,1,0,521
+22301015,693,PT00M38.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,0,0,0,,0,91,95,186,h,Wembanyama Offensive Goaltending Turnover (P7.T16),Turnover,Offensive Goaltending,1,0,522
+22301015,692,PT00M38.00S,4,0,,687,Cvetkovic,R. Cvetkovic,0,0,0,,0,91,95,186,,Instant Replay4th Period (10:23 PM EST),Instant Replay,Support Ruling,0,0,523
+22301015,694,PT00M33.20S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,2,3,0,Made,1,91,97,188,v,Jackson Jr. Alley Oop Dunk (26 PTS) (Pippen Jr. 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,524
+22301015,696,PT00M28.20S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-15,265,27,Missed,1,91,97,188,h,MISS Wembanyama 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,525
+22301015,697,PT00M28.20S,4,0,,1610612759,,,0,0,0,,0,91,97,188,h,SPURS Rebound,Rebound,Unknown,1,0,526
+22301015,700,PT00M24.60S,4,1610612759,SAS,1630170,Vassell,D. Vassell,233,6,0,Made,1,94,97,191,h,Vassell 3PT Jump Shot (27 PTS) (Jones 5 AST),Made Shot,Jump Shot,1,3,527
+22301015,702,PT00M22.20S,4,1610612763,MEM,1630590,Pippen Jr.,S. Pippen Jr.,0,0,0,,0,94,97,191,v,Pippen Jr. Bad Pass Turnover (P3.T18),Turnover,Bad Pass,1,0,528
+22301015,702,PT00M22.20S,4,1610612759,SAS,1631110,Sochan,J. Sochan,0,0,0,,0,94,97,191,h,Sochan STEAL (4 STL),,,1,0,529
+22301015,704,PT00M18.80S,4,1610612759,SAS,1630200,Jones,T. Jones,-234,46,24,Made,1,97,97,194,h,Jones 24' 3PT Jump Shot (16 PTS) (Sochan 4 AST),Made Shot,Jump Shot,1,3,530
+22301015,706,PT00M18.80S,4,0,,1610612763,,,0,0,0,,0,97,97,194,v,Grizzlies Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,531
+22301015,707,PT00M01.20S,4,1610612763,MEM,1628991,Jackson Jr.,J. Jackson Jr.,2,74,7,Made,1,97,99,196,v,Jackson Jr. 7' Pullup Jump Shot (28 PTS),Made Shot,Pullup Jump shot,1,2,532
+22301015,708,PT00M01.20S,4,0,,1610612759,,,0,0,0,,0,97,99,196,h,SPURS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,533
+22301015,709,PT00M01.20S,4,0,,1610612759,,,0,0,0,,0,97,99,196,h,SPURS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,534
+22301015,714,PT00M00.00S,4,1610612759,SAS,1641705,Wembanyama,V. Wembanyama,-23,298,30,Missed,1,97,99,196,h,MISS Wembanyama 30' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,535
+22301015,715,PT00M00.00S,4,0,,1610612759,,,0,0,0,,0,97,99,196,h,SPURS Rebound,Rebound,Unknown,1,0,536
+22301015,716,PT00M00.00S,4,0,,0,,,0,0,0,,0,97,99,196,,End of 4th Period (10:31 PM EST),period,end,1,0,537

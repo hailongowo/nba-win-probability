@@ -1,0 +1,504 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22301178,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (8:11 PM EST),period,start,0,0,1
+22301178,4,PT12M00.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,0,0,0,h,Jump Ball Gobert vs. Capela: Tip to Bogdanovic,Jump Ball,,1,0,2
+22301178,7,PT11M45.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,0,0,0,h,Towns S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,1,0,3
+22301178,9,PT11M45.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,0,1,1,v,Hunter Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,1,0,4
+22301178,10,PT11M45.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,0,2,2,v,Hunter Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,1,0,5
+22301178,11,PT11M45.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,0,3,3,v,Hunter Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,1,0,6
+22301178,12,PT11M23.00S,1,1610612750,MIN,201144,Conley,M. Conley,-141,199,24,Missed,1,0,3,3,h,MISS Conley 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,7
+22301178,13,PT11M19.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,0,3,3,v,Capela REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+22301178,14,PT11M12.00S,1,1610612737,ATL,1627749,Murray,D. Murray,2,122,12,Missed,1,0,3,3,v,MISS Murray 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,9
+22301178,15,PT11M09.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,0,3,3,h,Gobert REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+22301178,16,PT11M05.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,0,3,3,v,Murray P.FOUL (P1.T1) (J.Goldenberg),Foul,Personal,1,0,11
+22301178,18,PT11M00.00S,1,1610612750,MIN,1626157,Towns,K. Towns,-205,130,24,Missed,1,0,3,3,h,MISS Towns 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,12
+22301178,19,PT10M59.00S,1,0,,1610612737,,,0,0,0,,0,0,3,3,v,Hawks Rebound,Rebound,Unknown,0,0,13
+22301178,21,PT10M49.00S,1,1610612737,ATL,1629027,Young,T. Young,-104,59,12,Made,1,0,5,5,v,Young 12' Driving Floating Bank Jump Shot (2 PTS) (Capela 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,14
+22301178,22,PT10M31.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,19,4,2,Missed,1,0,5,5,h,MISS Edwards 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,15
+22301178,23,PT10M28.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,0,5,5,h,Towns REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,16
+22301178,24,PT10M28.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,Made,1,2,5,7,h,Towns Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,17
+22301178,25,PT10M19.00S,1,1610612737,ATL,203991,Capela,C. Capela,-26,10,3,Made,1,2,7,9,v,Capela 3' Reverse Layup (2 PTS) (Murray 1 AST),Made Shot,Reverse Layup Shot,1,2,18
+22301178,27,PT10M07.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,2,7,9,h,Edwards Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,19
+22301178,28,PT09M57.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,-135,215,25,Missed,1,2,7,9,v,MISS Hunter 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,20
+22301178,29,PT09M54.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,2,7,9,h,Conley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,21
+22301178,30,PT09M51.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,2,7,9,v,Hunter P.FOUL (P1.T2) (S.Foster),Foul,Personal,1,0,22
+22301178,33,PT09M41.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,-3,6,1,Made,1,4,7,11,h,Gobert 1' Driving Dunk (2 PTS) (Towns 1 AST),Made Shot,Driving Dunk Shot,1,2,23
+22301178,35,PT09M30.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,92,172,20,Made,1,4,9,13,v,Bogdanovic 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,24
+22301178,38,PT09M12.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,Made,1,6,9,15,h,Gobert Dunk (4 PTS) (Conley 1 AST),Made Shot,Dunk Shot,1,2,25
+22301178,39,PT08M59.00S,1,1610612737,ATL,1629027,Young,T. Young,45,268,27,Missed,1,6,9,15,v,MISS Young 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,26
+22301178,40,PT08M56.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,6,9,15,h,Towns REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,27
+22301178,41,PT08M46.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,6,9,15,v,Hunter P.FOUL (P2.T3) (J.Goldenberg),Foul,Personal,1,0,28
+22301178,44,PT08M40.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,5,11,1,Made,1,8,9,17,h,Gobert 1' Cutting Dunk Shot (6 PTS) (Towns 2 AST),Made Shot,Cutting Dunk Shot,1,2,29
+22301178,46,PT08M25.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,20,17,3,Missed,1,8,9,17,v,MISS Hunter 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,30
+22301178,47,PT08M23.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,8,9,17,h,Towns REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,31
+22301178,48,PT08M22.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,8,9,17,h,Towns Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,32
+22301178,48,PT08M22.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,8,9,17,v,Young STEAL (1 STL),,,1,0,33
+22301178,50,PT08M17.00S,1,1610612737,ATL,1629027,Young,T. Young,-146,206,25,Missed,1,8,9,17,v,MISS Young 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,34
+22301178,51,PT08M17.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,8,9,17,v,Capela REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,35
+22301178,53,PT08M15.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,5,1,Made,1,8,11,19,v,Capela 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,2,36
+22301178,54,PT07M59.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,-83,239,25,Made,1,11,11,22,h,McDaniels 25' 3PT Jump Shot (3 PTS) (Conley 2 AST),Made Shot,Jump Shot,1,3,37
+22301178,56,PT07M53.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,11,11,22,h,Edwards P.FOUL (P1.T2) (S.Foster),Foul,Personal,1,0,38
+22301178,58,PT07M40.00S,1,1610612737,ATL,1629027,Young,T. Young,-82,33,9,Made,1,11,13,24,v,Young 9' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,39
+22301178,59,PT07M40.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,11,13,24,h,McDaniels S.FOUL (P1.T3) (A.Smith),Foul,Shooting,1,0,40
+22301178,61,PT07M40.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,11,14,25,v,Young Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,41
+22301178,62,PT07M23.00S,1,1610612750,MIN,201144,Conley,M. Conley,-23,7,2,Missed,1,11,14,25,h,MISS Conley 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,42
+22301178,63,PT07M22.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,11,14,25,v,Capela REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,43
+22301178,67,PT07M21.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,11,14,25,v,Capela Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,1,0,44
+22301178,65,PT07M17.00S,1,1610612750,MIN,1626157,Towns,K. Towns,96,31,10,Missed,1,11,14,25,h,MISS Towns 10' Jump Shot,Missed Shot,Jump Shot,1,2,45
+22301178,66,PT07M17.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,11,14,25,v,Capela REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,46
+22301178,68,PT07M07.00S,1,1610612737,ATL,1627749,Murray,D. Murray,97,134,17,Made,1,11,16,27,v,Murray 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,47
+22301178,69,PT06M49.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,96,229,25,Missed,1,11,16,27,h,MISS Edwards 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,48
+22301178,70,PT06M47.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,11,16,27,h,Gobert REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,49
+22301178,71,PT06M41.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,11,16,27,h,Conley Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,50
+22301178,72,PT06M41.00S,1,0,,1610612750,,,0,0,0,,0,11,16,27,h,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,51
+22301178,74,PT06M41.00S,1,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,11,16,27,h,SUB: Reid FOR Conley,Substitution,,0,0,52
+22301178,75,PT06M41.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,11,16,27,h,SUB: Alexander-Walker FOR Towns,Substitution,,0,0,53
+22301178,76,PT06M41.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,11,16,27,v,SUB: Gueye FOR Young,Substitution,,0,0,54
+22301178,77,PT06M41.00S,1,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,11,16,27,v,SUB: Mathews FOR Hunter,Substitution,,0,0,55
+22301178,82,PT06M22.00S,1,1610612737,ATL,203991,Capela,C. Capela,1,60,6,Missed,1,11,16,27,v,MISS Capela 6' Hook Shot,Missed Shot,Hook Shot,1,2,56
+22301178,83,PT06M19.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,11,16,27,h,Gobert REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,57
+22301178,84,PT06M08.00S,1,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,-225,34,0,Made,1,14,16,30,h,Alexander-Walker 3PT Jump Shot (3 PTS) (Edwards 1 AST),Made Shot,Jump Shot,1,3,58
+22301178,86,PT05M53.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-19,7,2,Missed,1,14,16,30,v,MISS Bogdanovic 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,59
+22301178,86,PT05M53.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,14,16,30,h,Gobert BLOCK (1 BLK),,,1,2,60
+22301178,87,PT05M53.00S,1,0,,1610612737,,,0,0,0,,0,14,16,30,v,Hawks Rebound,Rebound,Unknown,0,0,61
+22301178,89,PT05M53.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,14,16,30,h,SUB: Morris FOR Edwards,Substitution,,0,0,62
+22301178,90,PT05M53.00S,1,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,14,16,30,v,SUB: Fernando FOR Capela,Substitution,,0,0,63
+22301178,93,PT05M48.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-170,35,17,Made,1,14,18,32,v,Murray 17' Pullup Jump Shot (4 PTS) (Fernando 1 AST),Made Shot,Pullup Jump shot,1,2,64
+22301178,95,PT05M33.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,14,18,32,v,Gueye S.FOUL (P1.T4) (J.Goldenberg),Foul,Shooting,1,0,65
+22301178,97,PT05M33.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,15,18,33,h,Reid Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,66
+22301178,98,PT05M33.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,16,18,34,h,Reid Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,67
+22301178,99,PT05M23.00S,1,1610612737,ATL,1627749,Murray,D. Murray,-43,245,25,Missed,1,16,18,34,v,MISS Murray 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,68
+22301178,100,PT05M19.00S,1,1610612750,MIN,1628420,Morris,M. Morris,0,0,0,,0,16,18,34,h,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,69
+22301178,101,PT05M14.00S,1,1610612750,MIN,1629675,Reid,N. Reid,-234,7,0,Missed,1,16,18,34,h,MISS Reid 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,70
+22301178,102,PT05M11.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,16,18,34,v,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,71
+22301178,103,PT04M59.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,-232,50,24,Missed,1,16,18,34,v,MISS Gueye 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,72
+22301178,104,PT04M56.00S,1,1610612750,MIN,1628420,Morris,M. Morris,0,0,0,,0,16,18,34,h,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,73
+22301178,105,PT04M41.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,16,18,34,v,Gueye S.FOUL (P2.PN) (S.Foster),Foul,Shooting,1,0,74
+22301178,107,PT04M41.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,17,18,35,h,Reid Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,75
+22301178,108,PT04M41.00S,1,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,17,18,35,h,SUB: Anderson FOR McDaniels,Substitution,,0,0,76
+22301178,109,PT04M41.00S,1,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,17,18,35,v,SUB: Griffin FOR Bogdanovic,Substitution,,0,0,77
+22301178,112,PT04M41.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,17,18,35,h,MISS Reid Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,78
+22301178,113,PT04M40.00S,1,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,17,18,35,v,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,79
+22301178,114,PT04M28.00S,1,1610612737,ATL,1628981,Fernando,B. Fernando,-44,59,7,Missed,1,17,18,35,v,MISS Fernando 7' Hook Shot,Missed Shot,Hook Shot,1,2,80
+22301178,114,PT04M28.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,17,18,35,h,Gobert BLOCK (2 BLK),,,1,2,81
+22301178,116,PT04M23.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,17,18,35,h,Gobert REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,82
+22301178,117,PT04M11.00S,1,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,-230,24,0,Missed,1,17,18,35,h,MISS Alexander-Walker 3PT Jump Shot,Missed Shot,Jump Shot,1,3,83
+22301178,118,PT04M07.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,17,18,35,h,Gobert REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,84
+22301178,119,PT04M02.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,-7,8,1,Made,1,19,18,37,h,Gobert 1' Dunk (8 PTS) (Reid 1 AST),Made Shot,Dunk Shot,1,2,85
+22301178,121,PT03M38.00S,1,1610612737,ATL,1627749,Murray,D. Murray,129,60,14,Made,1,19,20,39,v,Murray 14' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,86
+22301178,122,PT03M19.00S,1,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,19,20,39,v,Fernando S.FOUL (P1.PN) (J.Goldenberg),Foul,Shooting,1,0,87
+22301178,124,PT03M19.00S,1,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,20,20,40,h,Alexander-Walker Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,88
+22301178,125,PT03M19.00S,1,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,20,20,40,h,SUB: Towns FOR Gobert,Substitution,,0,0,89
+22301178,127,PT03M19.00S,1,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,21,20,41,h,Alexander-Walker Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,90
+22301178,128,PT03M04.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-235,56,24,Missed,1,21,20,41,v,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,91
+22301178,129,PT03M03.00S,1,0,,1610612737,,,0,0,0,,0,21,20,41,v,Hawks Rebound,Rebound,Unknown,0,0,92
+22301178,131,PT03M03.00S,1,0,,1610612737,,,0,0,0,,0,21,20,41,v,Hawks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,93
+22301178,133,PT03M03.00S,1,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,21,20,41,v,SUB: Young FOR Murray,Substitution,,0,0,94
+22301178,135,PT02M53.00S,1,1610612737,ATL,1631100,Griffin,A. Griffin,0,0,0,,0,21,20,41,v,Griffin Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1,0,95
+22301178,135,PT02M53.00S,1,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,21,20,41,h,Anderson STEAL (1 STL),,,1,0,96
+22301178,137,PT02M45.00S,1,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,21,20,41,h,Reid Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,1,0,97
+22301178,138,PT02M31.00S,1,1610612737,ATL,1631243,Gueye,M. Gueye,1,13,1,Made,1,21,22,43,v,Gueye 1' Cutting Dunk Shot (2 PTS) (Fernando 2 AST),Made Shot,Cutting Dunk Shot,1,2,98
+22301178,140,PT02M16.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,21,22,43,v,Mathews S.FOUL (P1.PN) (A.Smith),Foul,Shooting,1,0,99
+22301178,142,PT02M16.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,22,22,44,h,Towns Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,100
+22301178,143,PT02M16.00S,1,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,22,22,44,h,SUB: Edwards FOR Alexander-Walker,Substitution,,0,0,101
+22301178,145,PT02M16.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,23,22,45,h,Towns Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,102
+22301178,147,PT01M56.00S,1,1610612737,ATL,1629027,Young,T. Young,-57,60,8,Made,1,23,24,47,v,Young 8' Driving Floating Jump Shot (7 PTS) (Gueye 1 AST),Made Shot,Driving Floating Jump Shot,1,2,103
+22301178,148,PT01M46.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,23,24,47,h,Towns Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,104
+22301178,149,PT01M27.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,23,24,47,h,Towns Violation:Kicked Ball (S.Foster),Violation,Kicked Ball,0,0,105
+22301178,150,PT01M18.00S,1,1610612737,ATL,1629726,Mathews,G. Mathews,-32,17,4,Missed,1,23,24,47,v,MISS Mathews 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,106
+22301178,151,PT01M16.00S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,23,24,47,h,Towns REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,107
+22301178,152,PT01M05.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,-20,15,3,Made,1,25,24,49,h,Edwards 3' Driving Layup (2 PTS) (Reid 2 AST),Made Shot,Driving Layup Shot,1,2,108
+22301178,154,PT00M59.00S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,25,24,49,h,Edwards S.FOUL (P2.T4) (A.Smith),Foul,Shooting,1,0,109
+22301178,156,PT00M59.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,25,24,49,v,MISS Young Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,110
+22301178,157,PT00M59.00S,1,0,,1610612737,,,0,0,0,,0,25,24,49,v,Hawks Rebound,Rebound,Normal Rebound,0,0,111
+22301178,158,PT00M59.00S,1,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,25,25,50,v,Young Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,112
+22301178,159,PT00M41.30S,1,1610612750,MIN,1628420,Morris,M. Morris,130,218,25,Missed,1,25,25,50,h,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,113
+22301178,160,PT00M37.60S,1,1610612737,ATL,1631100,Griffin,A. Griffin,0,0,0,,0,25,25,50,v,Griffin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+22301178,161,PT00M34.20S,1,1610612737,ATL,1628981,Fernando,B. Fernando,2,16,2,Made,1,25,27,52,v,Fernando 2' Running Dunk (2 PTS) (Young 1 AST),Made Shot,Running Dunk Shot,1,2,115
+22301178,163,PT00M23.50S,1,1610612750,MIN,1629675,Reid,N. Reid,32,248,25,Missed,1,25,27,52,h,MISS Reid 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,116
+22301178,164,PT00M21.00S,1,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,25,27,52,v,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,117
+22301178,165,PT00M01.20S,1,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,25,27,52,h,Edwards S.FOUL (P3.PN) (S.Foster),Foul,Shooting,1,0,118
+22301178,167,PT00M01.20S,1,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,25,27,52,v,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,119
+22301178,168,PT00M01.20S,1,0,,1610612737,,,0,0,0,,0,25,27,52,v,Hawks Rebound,Rebound,Normal Rebound,1,0,120
+22301178,169,PT00M01.20S,1,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,25,27,52,v,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,121
+22301178,170,PT00M00.80S,1,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,25,27,52,h,Towns REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,122
+22301178,171,PT00M00.00S,1,0,,0,,,0,0,0,,0,25,27,52,,End of 1st Period (8:40 PM EST),period,end,1,0,123
+22301178,183,PT12M00.00S,2,0,,0,,,0,0,0,,0,25,27,52,,Start of 2nd Period (8:43 PM EST),period,start,0,0,124
+22301178,184,PT11M34.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,118,34,12,Missed,1,25,27,52,h,MISS Anderson 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,125
+22301178,185,PT11M31.00S,2,1610612737,ATL,1631100,Griffin,A. Griffin,0,0,0,,0,25,27,52,v,Griffin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,126
+22301178,186,PT11M19.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,18,64,7,Made,1,25,29,54,v,Fernando 7' Driving Hook Shot (4 PTS) (Bogdanovic 1 AST),Made Shot,Driving Hook Shot,1,2,127
+22301178,188,PT11M06.00S,2,1610612750,MIN,201144,Conley,M. Conley,-190,161,25,Missed,1,25,29,54,h,MISS Conley 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,128
+22301178,189,PT11M04.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,25,29,54,h,McLaughlin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,129
+22301178,190,PT10M58.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,224,16,0,Missed,1,25,29,54,h,MISS McLaughlin 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+22301178,191,PT10M55.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,25,29,54,v,Gueye REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,131
+22301178,192,PT10M34.00S,2,1610612737,ATL,1629027,Young,T. Young,-126,52,14,Missed,1,25,29,54,v,MISS Young 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,132
+22301178,193,PT10M30.00S,2,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,25,29,54,h,Conley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,133
+22301178,194,PT10M25.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,223,-5,0,Missed,1,25,29,54,h,MISS Alexander-Walker 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,134
+22301178,195,PT10M22.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,25,29,54,v,Fernando REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,135
+22301178,196,PT10M09.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,230,8,0,Missed,1,25,29,54,v,MISS Gueye 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+22301178,197,PT10M07.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,25,29,54,h,Gobert REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,137
+22301178,198,PT10M04.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,25,29,54,v,Young P.FOUL (P1.T1) (S.Foster),Foul,Personal,1,0,138
+22301178,200,PT10M04.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,25,29,54,v,SUB: Murray FOR Young,Substitution,,0,0,139
+22301178,202,PT09M51.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,25,29,54,v,Gueye P.FOUL (P3.T2) (A.Smith),Foul,Personal,1,0,140
+22301178,204,PT09M44.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,25,29,54,v,Murray S.FOUL (P2.T3) (S.Foster),Foul,Shooting,1,0,141
+22301178,206,PT09M44.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,26,29,55,h,Gobert Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,142
+22301178,207,PT09M44.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,26,29,55,h,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,143
+22301178,208,PT09M40.00S,2,1610612737,ATL,1631100,Griffin,A. Griffin,0,0,0,,0,26,29,55,v,Griffin REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,144
+22301178,209,PT09M34.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,26,29,55,v,Murray Backcourt Turnover (P1.T3),Turnover,Backcourt Turnover,1,0,145
+22301178,210,PT09M34.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,26,29,55,v,SUB: Hunter FOR Gueye,Substitution,,0,0,146
+22301178,212,PT09M21.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,24,9,3,Made,1,28,29,57,h,Gobert 3' Layup (11 PTS) (Anderson 1 AST),Made Shot,Layup Shot,1,2,147
+22301178,214,PT09M06.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,74,39,8,Missed,1,28,29,57,v,MISS Hunter 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,148
+22301178,215,PT09M04.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,28,29,57,h,Gobert REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,149
+22301178,216,PT09M04.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,28,29,57,v,Fernando P.FOUL (P2.T4) (S.Foster),Foul,Personal,1,0,150
+22301178,223,PT08M55.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,28,29,57,h,Anderson Lost Ball Turnover (P1.T6),Turnover,Lost Ball,1,0,151
+22301178,218,PT08M54.00S,2,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,28,29,57,h,Conley L.B.FOUL (P1.T1) (S.Foster),Foul,Loose Ball,1,0,152
+22301178,221,PT08M37.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,28,29,57,h,Anderson S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,1,0,153
+22301178,224,PT08M37.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,28,30,58,v,Fernando Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,154
+22301178,225,PT08M37.00S,2,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,28,30,58,h,SUB: Reid FOR Anderson,Substitution,,0,0,155
+22301178,226,PT08M37.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,28,30,58,v,SUB: Mathews FOR Bogdanovic,Substitution,,0,0,156
+22301178,229,PT08M37.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,28,30,58,v,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,157
+22301178,230,PT08M34.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,28,30,58,h,Gobert REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,158
+22301178,231,PT08M16.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-22,7,2,Made,1,30,30,60,h,McLaughlin 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,159
+22301178,232,PT08M03.00S,2,1610612737,ATL,1627749,Murray,D. Murray,36,116,12,Missed,1,30,30,60,v,MISS Murray 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,160
+22301178,233,PT07M59.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,30,30,60,h,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,161
+22301178,234,PT07M51.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,30,30,60,v,Fernando S.FOUL (P3.PN) (J.Goldenberg),Foul,Shooting,1,0,162
+22301178,236,PT07M51.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,31,30,61,h,Reid Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,163
+22301178,237,PT07M51.00S,2,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,31,30,61,v,SUB: Capela FOR Fernando,Substitution,,0,0,164
+22301178,239,PT07M51.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,32,30,62,h,Reid Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,165
+22301178,240,PT07M35.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,-131,32,13,Missed,1,32,30,62,v,MISS Hunter 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,166
+22301178,241,PT07M33.00S,2,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,32,30,62,h,Conley REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,167
+22301178,242,PT07M21.00S,2,1610612750,MIN,201144,Conley,M. Conley,-137,210,25,Made,1,35,30,65,h,Conley 25' 3PT Step Back Jump Shot (3 PTS) (McLaughlin 1 AST),Made Shot,Step Back Jump shot,1,3,168
+22301178,253,PT07M09.00S,2,1610612737,ATL,1627749,Murray,D. Murray,-39,25,5,Missed,1,35,30,65,v,MISS Murray 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,169
+22301178,253,PT07M09.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,35,30,65,h,Alexander-Walker BLOCK (1 BLK),,,1,2,170
+22301178,255,PT07M08.00S,2,0,,1610612750,,,0,0,0,,0,35,30,65,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,171
+22301178,246,PT07M08.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,35,30,65,h,SUB: Towns FOR Alexander-Walker,Substitution,,0,0,172
+22301178,247,PT07M08.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,35,30,65,h,SUB: McDaniels FOR Gobert,Substitution,,0,0,173
+22301178,250,PT06M52.00S,2,1610612750,MIN,1629675,Reid,N. Reid,-12,13,2,Made,1,37,30,67,h,Reid 2' Driving Layup (7 PTS) (Towns 3 AST),Made Shot,Driving Layup Shot,1,2,174
+22301178,252,PT06M51.00S,2,0,,1610612737,,,0,0,0,,0,37,30,67,v,Hawks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,175
+22301178,257,PT06M51.00S,2,1610612737,ATL,1631100,Griffin,A. Griffin,0,0,0,,0,37,30,67,v,SUB: Bogdanovic FOR Griffin,Substitution,,0,0,176
+22301178,259,PT06M41.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,11,21,2,Made,1,37,32,69,v,Hunter 2' Driving Layup (5 PTS) (Capela 2 AST),Made Shot,Driving Layup Shot,1,2,177
+22301178,260,PT06M25.00S,2,1610612750,MIN,1626157,Towns,K. Towns,-197,159,25,Missed,1,37,32,69,h,MISS Towns 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,178
+22301178,261,PT06M22.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,37,32,69,v,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,179
+22301178,262,PT06M15.00S,2,1610612737,ATL,1627749,Murray,D. Murray,-67,49,8,Missed,1,37,32,69,v,MISS Murray 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,180
+22301178,263,PT06M13.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,37,32,69,h,Reid REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,181
+22301178,264,PT06M04.00S,2,1610612750,MIN,1629675,Reid,N. Reid,2,248,25,Made,1,40,32,72,h,Reid 25' 3PT Jump Shot (10 PTS) (Conley 3 AST),Made Shot,Jump Shot,1,3,182
+22301178,266,PT05M39.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,40,32,72,v,Hunter Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,183
+22301178,266,PT05M39.00S,2,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,40,32,72,h,Conley STEAL (1 STL),,,1,0,184
+22301178,268,PT05M35.00S,2,1610612750,MIN,201144,Conley,M. Conley,28,14,3,Made,1,42,32,74,h,Conley 3' Running Layup (5 PTS),Made Shot,Running Layup Shot,1,2,185
+22301178,269,PT05M24.00S,2,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,42,32,74,h,Conley S.FOUL (P2.T3) (J.Goldenberg),Foul,Shooting,1,0,186
+22301178,272,PT05M24.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,42,33,75,v,Bogdanovic Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,1,0,187
+22301178,273,PT05M24.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,42,34,76,v,Bogdanovic Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,1,0,188
+22301178,274,PT05M24.00S,2,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,42,34,76,h,SUB: Alexander-Walker FOR McLaughlin,Substitution,,0,0,189
+22301178,275,PT05M24.00S,2,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,42,34,76,h,SUB: Edwards FOR Conley,Substitution,,0,0,190
+22301178,276,PT05M24.00S,2,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,42,34,76,v,SUB: Young FOR Mathews,Substitution,,0,0,191
+22301178,280,PT05M24.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,42,35,77,v,Bogdanovic Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1,0,192
+22301178,281,PT05M07.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,51,149,16,Missed,1,42,35,77,h,MISS Alexander-Walker 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,193
+22301178,282,PT05M05.00S,2,0,,1610612737,,,0,0,0,,0,42,35,77,v,Hawks Rebound,Rebound,Unknown,0,0,194
+22301178,284,PT04M54.00S,2,1610612737,ATL,203991,Capela,C. Capela,2,15,2,Made,1,42,37,79,v,Capela 2' Cutting Dunk Shot (6 PTS) (Bogdanovic 2 AST),Made Shot,Cutting Dunk Shot,1,2,195
+22301178,286,PT04M36.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,42,37,79,v,Hunter S.FOUL (P3.PN) (S.Foster),Foul,Shooting,1,0,196
+22301178,288,PT04M36.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,43,37,80,h,Reid Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,197
+22301178,289,PT04M36.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,43,37,80,v,SUB: Gueye FOR Hunter,Substitution,,0,0,198
+22301178,291,PT04M36.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,44,37,81,h,Reid Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,199
+22301178,292,PT04M29.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,44,37,81,h,Alexander-Walker P.FOUL (P1.T4) (A.Smith),Foul,Personal,1,0,200
+22301178,294,PT04M25.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,199,155,25,Missed,1,44,37,81,v,MISS Bogdanovic 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,201
+22301178,295,PT04M23.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,44,37,81,v,Gueye REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,202
+22301178,296,PT04M22.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,7,18,2,Missed,1,44,37,81,v,MISS Gueye 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,203
+22301178,296,PT04M22.00S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,44,37,81,h,Towns BLOCK (1 BLK),,,1,2,204
+22301178,298,PT04M22.00S,2,0,,1610612737,,,0,0,0,,0,44,37,81,v,Hawks Rebound,Rebound,Unknown,0,0,205
+22301178,300,PT04M17.00S,2,1610612737,ATL,1627749,Murray,D. Murray,140,210,25,Missed,1,44,37,81,v,MISS Murray 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,206
+22301178,301,PT04M16.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,44,37,81,v,Gueye REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,207
+22301178,302,PT04M07.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,44,37,81,v,Bogdanovic Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,208
+22301178,302,PT04M07.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,44,37,81,h,Edwards STEAL (1 STL),,,1,0,209
+22301178,304,PT03M50.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,2,14,1,Made,1,46,37,83,h,McDaniels 1' Driving Dunk (5 PTS) (Alexander-Walker 1 AST),Made Shot,Driving Dunk Shot,1,2,210
+22301178,306,PT03M34.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,46,37,83,v,Young Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,211
+22301178,306,PT03M34.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,46,37,83,h,Edwards STEAL (2 STL),,,1,0,212
+22301178,308,PT03M29.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,11,20,2,Missed,1,46,37,83,h,MISS Edwards 2' Running Layup,Missed Shot,Running Layup Shot,1,2,213
+22301178,309,PT03M27.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,46,37,83,v,Bogdanovic REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,214
+22301178,310,PT03M24.00S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-100,238,26,Made,1,46,40,86,v,Bogdanovic 26' 3PT Running Jump Shot (8 PTS) (Murray 2 AST),Made Shot,Running Jump Shot,1,3,215
+22301178,312,PT03M09.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,-217,129,25,Made,1,49,40,89,h,Alexander-Walker 25' 3PT Jump Shot (8 PTS) (Edwards 2 AST),Made Shot,Jump Shot,1,3,216
+22301178,314,PT02M52.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,49,40,89,v,Murray OFF.Foul (P3) (S.Foster),Foul,Offensive,1,0,217
+22301178,316,PT02M52.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,49,40,89,v,Murray Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,1,0,218
+22301178,317,PT02M52.00S,2,0,,1610612750,,,0,0,0,,0,49,40,89,h,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,219
+22301178,318,PT02M52.00S,2,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,49,40,89,v,SUB: Hunter FOR Gueye,Substitution,,0,0,220
+22301178,320,PT02M52.00S,2,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,49,40,89,h,SUB: Gobert FOR Reid,Substitution,,0,0,221
+22301178,322,PT02M33.00S,2,1610612750,MIN,1626157,Towns,K. Towns,-71,15,7,Made,1,51,40,91,h,Towns 7' Floating Jump Shot (6 PTS) (Edwards 3 AST),Made Shot,Floating Jump shot,1,2,222
+22301178,324,PT02M12.00S,2,1610612737,ATL,203991,Capela,C. Capela,6,13,1,Missed,1,51,40,91,v,MISS Capela 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,223
+22301178,325,PT02M08.00S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,51,40,91,h,Gobert REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,224
+22301178,326,PT02M02.00S,2,1610612750,MIN,1630183,McDaniels,J. McDaniels,234,24,24,Missed,1,51,40,91,h,MISS McDaniels 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,225
+22301178,327,PT02M00.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,51,40,91,v,Young REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,226
+22301178,328,PT01M58.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,51,40,91,h,Edwards Transition Take Foul (P4.PN) (A.Smith),Foul,Transition Take,1,0,227
+22301178,330,PT01M58.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,51,40,91,v,MISS Young Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,228
+22301178,331,PT01M58.00S,2,0,,1610612737,,,0,0,0,,0,51,40,91,v,Hawks Rebound,Rebound,Unknown,0,0,229
+22301178,332,PT01M58.00S,2,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,51,40,91,h,SUB: Conley FOR Edwards,Substitution,,0,0,230
+22301178,334,PT01M47.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,22,172,17,Made,1,51,42,93,v,Hunter 17' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,1,2,231
+22301178,335,PT01M31.00S,2,1610612750,MIN,1626157,Towns,K. Towns,-172,187,25,Missed,1,51,42,93,h,MISS Towns 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,232
+22301178,336,PT01M28.00S,2,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,51,42,93,v,Young REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,233
+22301178,337,PT01M23.00S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,51,42,93,v,Murray Lost Ball Turnover (P3.T8),Turnover,Lost Ball,1,0,234
+22301178,337,PT01M23.00S,2,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,51,42,93,h,Alexander-Walker STEAL (1 STL),,,1,0,235
+22301178,339,PT01M18.00S,2,1610612750,MIN,1626157,Towns,K. Towns,2,25,3,Made,1,53,42,95,h,Towns 3' Running Dunk (8 PTS) (Conley 4 AST),Made Shot,Running Dunk Shot,1,2,236
+22301178,341,PT01M00.00S,2,1610612737,ATL,1629631,Hunter,D. Hunter,-88,242,26,Missed,1,53,42,95,v,MISS Hunter 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,237
+22301178,342,PT00M57.30S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,53,42,95,h,Gobert REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,238
+22301178,343,PT00M52.50S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,53,42,95,h,Towns OFF.Foul (P2) (J.Goldenberg),Foul,Offensive,1,0,239
+22301178,345,PT00M52.50S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,53,42,95,h,Towns Offensive Foul Turnover (P3.T7),Turnover,Offensive Foul Turnover,1,0,240
+22301178,346,PT00M52.50S,2,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,53,42,95,h,SUB: Reid FOR Towns,Substitution,,0,0,241
+22301178,348,PT00M41.10S,2,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-71,87,11,Made,1,53,44,97,v,Bogdanovic 11' Turnaround Fadeaway (10 PTS) (Young 2 AST),Made Shot,Turnaround Fadeaway shot,1,2,242
+22301178,351,PT00M34.80S,2,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,53,44,97,h,Conley Bad Pass Turnover (P2.T8),Turnover,Bad Pass,1,0,243
+22301178,351,PT00M34.80S,2,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,53,44,97,v,Capela STEAL (1 STL),,,1,0,244
+22301178,353,PT00M27.60S,2,1610612737,ATL,203991,Capela,C. Capela,5,10,1,Made,1,53,46,99,v,Capela 1' Reverse Layup (8 PTS) (Young 3 AST),Made Shot,Reverse Layup Shot,1,2,245
+22301178,355,PT00M07.30S,2,1610612750,MIN,1629675,Reid,N. Reid,133,217,25,Made,1,56,46,102,h,Reid 25' 3PT Jump Shot (15 PTS) (Conley 5 AST),Made Shot,Jump Shot,1,3,246
+22301178,357,PT00M00.50S,2,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,56,46,102,h,Gobert S.FOUL (P1.PN) (S.Foster),Foul,Shooting,1,0,247
+22301178,359,PT00M00.50S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,56,46,102,v,MISS Murray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,248
+22301178,360,PT00M00.50S,2,0,,1610612737,,,0,0,0,,0,56,46,102,v,Hawks Rebound,Rebound,Normal Rebound,0,0,249
+22301178,361,PT00M00.50S,2,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,56,47,103,v,Murray Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,250
+22301178,362,PT00M00.00S,2,0,,0,,,0,0,0,,0,56,47,103,,End of 2nd Period (9:12 PM EST),period,end,1,0,251
+22301178,367,PT12M00.00S,3,0,,0,,,0,0,0,,0,56,47,103,,Start of 3rd Period (9:28 PM EST),period,start,0,0,252
+22301178,368,PT11M47.00S,3,1610612750,MIN,201144,Conley,M. Conley,-17,265,27,Missed,1,56,47,103,h,MISS Conley 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,253
+22301178,369,PT11M44.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,56,47,103,v,Murray REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,254
+22301178,370,PT11M29.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,25,124,13,Missed,1,56,47,103,v,MISS Hunter 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,255
+22301178,371,PT11M25.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,56,47,103,h,Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,256
+22301178,372,PT11M19.00S,3,1610612750,MIN,1626157,Towns,K. Towns,-67,249,26,Missed,1,56,47,103,h,MISS Towns 26' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,3,257
+22301178,373,PT11M16.00S,3,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,56,47,103,h,Conley REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,258
+22301178,374,PT11M12.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-133,216,25,Missed,1,56,47,103,h,MISS Edwards 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,259
+22301178,375,PT11M06.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,56,47,103,v,Capela REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,260
+22301178,376,PT10M52.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-88,224,24,Made,1,56,50,106,v,Bogdanovic 24' 3PT Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,1,3,261
+22301178,377,PT10M35.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,108,221,25,Made,1,59,50,109,h,McDaniels 25' 3PT Jump Shot (8 PTS) (Towns 4 AST),Made Shot,Jump Shot,1,3,262
+22301178,379,PT10M14.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,-72,238,25,Made,1,59,53,112,v,Hunter 25' 3PT Jump Shot (10 PTS) (Murray 3 AST),Made Shot,Jump Shot,1,3,263
+22301178,381,PT09M50.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,-59,31,7,Made,1,61,53,114,h,Gobert 7' Turnaround Hook Shot (13 PTS) (Towns 5 AST),Made Shot,Turnaround Hook Shot,1,2,264
+22301178,383,PT09M30.00S,3,1610612737,ATL,1627749,Murray,D. Murray,89,132,16,Made,1,61,55,116,v,Murray 16' Pullup Jump Shot (9 PTS) (Young 4 AST),Made Shot,Pullup Jump shot,1,2,265
+22301178,385,PT09M08.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-233,73,24,Made,1,64,55,119,h,McDaniels 24' 3PT Jump Shot (11 PTS) (Towns 6 AST),Made Shot,Jump Shot,1,3,266
+22301178,387,PT08M54.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,51,245,25,Missed,1,64,55,119,v,MISS Hunter 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,267
+22301178,388,PT08M53.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,64,55,119,h,Edwards REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,268
+22301178,389,PT08M41.00S,3,1610612750,MIN,201144,Conley,M. Conley,-39,115,12,Made,1,66,55,121,h,Conley 12' Floating Jump Shot (7 PTS) (Towns 7 AST),Made Shot,Floating Jump shot,1,2,269
+22301178,391,PT08M41.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,66,55,121,v,Hunter S.FOUL (P4.T1) (J.Goldenberg),Foul,Shooting,1,0,270
+22301178,393,PT08M41.00S,3,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,67,55,122,h,Conley Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,271
+22301178,394,PT08M30.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,46,8,5,Made,1,67,57,124,v,Hunter 5' Driving Layup (12 PTS) (Young 5 AST),Made Shot,Driving Layup Shot,1,2,272
+22301178,395,PT08M18.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,-40,35,5,Missed,1,67,57,124,h,MISS McDaniels 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,273
+22301178,396,PT08M17.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,67,57,124,h,Gobert REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,274
+22301178,397,PT08M16.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,67,57,124,v,Capela S.FOUL (P1.T2) (A.Smith),Foul,Shooting,1,0,275
+22301178,399,PT08M16.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,68,57,125,h,Gobert Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,276
+22301178,400,PT08M16.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,69,57,126,h,Gobert Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,277
+22301178,401,PT07M55.00S,3,1610612737,ATL,1629027,Young,T. Young,49,240,24,Missed,1,69,57,126,v,MISS Young 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,278
+22301178,402,PT07M53.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,69,57,126,v,Capela REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,279
+22301178,403,PT07M51.00S,3,1610612737,ATL,1627749,Murray,D. Murray,227,78,24,Missed,1,69,57,126,v,MISS Murray 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,280
+22301178,404,PT07M48.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,69,57,126,v,Hunter REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,281
+22301178,405,PT07M47.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,27,3,Missed,1,69,57,126,v,MISS Hunter 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,282
+22301178,405,PT07M47.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,69,57,126,h,Gobert BLOCK (3 BLK),,,1,2,283
+22301178,407,PT07M45.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,69,57,126,h,Edwards REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,284
+22301178,408,PT07M40.00S,3,1610612750,MIN,201144,Conley,M. Conley,224,102,25,Made,1,72,57,129,h,Conley 25' 3PT Running Jump Shot (11 PTS) (McDaniels 1 AST),Made Shot,Running Jump Shot,1,3,285
+22301178,410,PT07M39.00S,3,0,,1610612737,,,0,0,0,,0,72,57,129,v,Hawks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,286
+22301178,412,PT07M39.00S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,72,57,129,v,SUB: Mathews FOR Young,Substitution,,0,0,287
+22301178,414,PT07M23.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,21,121,12,Made,1,72,59,131,v,Bogdanovic 12' Floating Jump Shot (15 PTS) (Capela 3 AST),Made Shot,Floating Jump shot,1,2,288
+22301178,416,PT07M02.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,72,59,131,v,Mathews S.FOUL (P2.T3) (S.Foster),Foul,Shooting,1,0,289
+22301178,418,PT07M02.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,73,59,132,h,Edwards Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,290
+22301178,419,PT07M02.00S,3,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,73,59,132,h,SUB: Anderson FOR Conley,Substitution,,0,0,291
+22301178,421,PT07M02.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,74,59,133,h,Edwards Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,292
+22301178,422,PT06M49.00S,3,1610612737,ATL,1627749,Murray,D. Murray,53,187,19,Missed,1,74,59,133,v,MISS Murray 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,293
+22301178,423,PT06M46.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,74,59,133,h,Gobert REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,294
+22301178,424,PT06M36.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-78,134,16,Made,1,76,59,135,h,Edwards 16' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,295
+22301178,425,PT06M21.00S,3,1610612737,ATL,1627749,Murray,D. Murray,-157,9,16,Missed,1,76,59,135,v,MISS Murray 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,296
+22301178,426,PT06M17.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,76,59,135,v,Murray REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,297
+22301178,427,PT06M16.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,76,59,135,h,McDaniels S.FOUL (P2.T1) (A.Smith),Foul,Shooting,1,0,298
+22301178,429,PT06M16.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,76,60,136,v,Bogdanovic Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,299
+22301178,430,PT06M16.00S,3,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,76,60,136,h,SUB: Reid FOR Towns,Substitution,,0,0,300
+22301178,432,PT06M16.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,76,61,137,v,Bogdanovic Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,301
+22301178,433,PT05M59.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,-10,69,7,Missed,1,76,61,137,h,MISS Anderson 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,302
+22301178,434,PT05M58.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,76,61,137,v,Capela REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,303
+22301178,435,PT05M54.00S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,76,61,137,h,Reid P.FOUL (P1.T2) (J.Goldenberg),Foul,Personal,1,0,304
+22301178,437,PT05M52.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,236,43,24,Missed,1,76,61,137,v,MISS Mathews 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,305
+22301178,437,PT05M52.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,76,61,137,h,Anderson BLOCK (1 BLK),,,1,3,306
+22301178,439,PT05M49.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,76,61,137,h,Edwards REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,307
+22301178,440,PT05M46.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,18,248,25,Missed,1,76,61,137,h,MISS Edwards 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,308
+22301178,441,PT05M44.00S,3,0,,1610612737,,,0,0,0,,0,76,61,137,v,Hawks Rebound,Rebound,Unknown,0,0,309
+22301178,443,PT05M35.00S,3,1610612737,ATL,203991,Capela,C. Capela,-19,45,5,Made,1,76,63,139,v,Capela 5' Turnaround Hook Shot (10 PTS) (Hunter 1 AST),Made Shot,Turnaround Hook Shot,1,2,310
+22301178,445,PT05M14.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,2,71,7,Missed,1,76,63,139,h,MISS McDaniels 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,311
+22301178,446,PT05M12.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,76,63,139,v,Capela REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,312
+22301178,447,PT05M08.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,-233,42,24,Missed,1,76,63,139,v,MISS Hunter 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,313
+22301178,448,PT05M05.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,76,63,139,h,Gobert REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,314
+22301178,449,PT05M04.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,76,63,139,v,Capela P.FOUL (P2.T4) (S.Foster),Foul,Personal,1,0,315
+22301178,451,PT05M04.00S,3,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,76,63,139,v,SUB: Young FOR Bogdanovic,Substitution,,0,0,316
+22301178,453,PT04M49.00S,3,1610612750,MIN,1629675,Reid,N. Reid,-31,59,7,Missed,1,76,63,139,h,MISS Reid 7' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,317
+22301178,453,PT04M49.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,76,63,139,v,Capela BLOCK (1 BLK),,,1,2,318
+22301178,455,PT04M46.00S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,76,63,139,v,Capela REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,319
+22301178,456,PT04M37.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,66,262,27,Missed,1,76,63,139,v,MISS Mathews 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,320
+22301178,457,PT04M33.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,76,63,139,h,McDaniels REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,321
+22301178,458,PT04M28.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,76,63,139,h,Anderson Offensive Charge Foul (P2) (J.Goldenberg),Foul,Offensive Charge,1,0,322
+22301178,460,PT04M28.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,76,63,139,h,Anderson Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,323
+22301178,461,PT04M28.00S,3,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,76,63,139,h,SUB: Alexander-Walker FOR McDaniels,Substitution,,0,0,324
+22301178,463,PT04M09.00S,3,1610612737,ATL,203991,Capela,C. Capela,-49,26,6,Made,1,76,65,141,v,Capela 6' Hook Shot (12 PTS),Made Shot,Hook Shot,1,2,325
+22301178,465,PT03M55.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,-137,239,28,Missed,1,76,65,141,h,MISS Edwards 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,326
+22301178,466,PT03M53.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,76,65,141,v,Mathews REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,327
+22301178,507,PT03M43.00S,3,1610612737,ATL,1629027,Young,T. Young,33,34,5,Missed,1,76,65,141,v,MISS Young 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,328
+22301178,507,PT03M43.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,76,65,141,h,Anderson BLOCK (2 BLK),,,1,2,329
+22301178,509,PT03M42.00S,3,0,,1610612750,,,0,0,0,,0,76,65,141,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,330
+22301178,468,PT03M42.00S,3,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,76,65,141,h,SUB: Towns FOR Gobert,Substitution,,0,0,331
+22301178,470,PT03M42.00S,3,0,,1610612750,,,0,0,0,,0,76,65,141,h,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,332
+22301178,471,PT03M42.00S,3,0,,467,Kidd,J. Kidd,0,0,0,,0,76,65,141,,Instant Replay3rd Period (9:44 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,333
+22301178,473,PT03M23.00S,3,1610612750,MIN,1626157,Towns,K. Towns,-7,36,4,Missed,1,76,65,141,h,MISS Towns 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,334
+22301178,474,PT03M20.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,0,0,0,,0,76,65,141,v,Hunter REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,335
+22301178,475,PT03M19.00S,3,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,76,65,141,h,Anderson P.FOUL (P3.T3) (J.Goldenberg),Foul,Personal,1,0,336
+22301178,477,PT03M19.00S,3,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,76,65,141,h,SUB: Conley FOR Edwards,Substitution,,0,0,337
+22301178,479,PT03M07.00S,3,1610612737,ATL,1629631,Hunter,D. Hunter,42,246,25,Made,1,76,68,144,v,Hunter 25' 3PT Jump Shot (15 PTS) (Young 6 AST),Made Shot,Jump Shot,1,3,338
+22301178,481,PT02M47.00S,3,1610612750,MIN,1626157,Towns,K. Towns,5,257,26,Missed,1,76,68,144,h,MISS Towns 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,339
+22301178,482,PT02M45.00S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,76,68,144,v,Murray REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,340
+22301178,483,PT02M38.00S,3,1610612737,ATL,1627749,Murray,D. Murray,20,104,11,Made,1,76,70,146,v,Murray 11' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,1,2,341
+22301178,484,PT02M12.00S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,-159,202,26,Missed,1,76,70,146,h,MISS Alexander-Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,342
+22301178,485,PT02M11.00S,3,0,,1610612737,,,0,0,0,,0,76,70,146,v,Hawks Rebound,Rebound,Unknown,1,0,343
+22301178,486,PT02M11.00S,3,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,76,70,146,h,Conley L.B.FOUL (P3.T4) (S.Foster),Foul,Loose Ball,1,0,344
+22301178,488,PT02M11.00S,3,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,76,70,146,v,SUB: Gueye FOR Mathews,Substitution,,0,0,345
+22301178,490,PT01M58.00S,3,1610612737,ATL,1629027,Young,T. Young,184,176,25,Made,1,76,73,149,v,Young 25' 3PT Jump Shot (11 PTS) (Murray 4 AST),Made Shot,Jump Shot,1,3,346
+22301178,492,PT01M38.00S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,-45,63,8,Made,1,78,73,151,h,Alexander-Walker 8' Turnaround Jump Shot (10 PTS),Made Shot,Turnaround Jump Shot,1,2,347
+22301178,493,PT01M28.00S,3,1610612737,ATL,1629027,Young,T. Young,-102,271,29,Made,1,78,76,154,v,Young 29' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,1,3,348
+22301178,494,PT01M11.00S,3,1610612750,MIN,1629675,Reid,N. Reid,42,36,6,Made,1,80,76,156,h,Reid 6' Driving Hook Shot (17 PTS) (Towns 8 AST),Made Shot,Driving Hook Shot,1,2,349
+22301178,496,PT00M57.40S,3,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,80,76,156,h,Reid S.FOUL (P2.PN) (J.Goldenberg),Foul,Shooting,1,0,350
+22301178,498,PT00M57.40S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,80,76,156,v,MISS Murray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,351
+22301178,499,PT00M57.40S,3,0,,1610612737,,,0,0,0,,0,80,76,156,v,Hawks Rebound,Rebound,Normal Rebound,0,0,352
+22301178,500,PT00M57.40S,3,1610612737,ATL,1627749,Murray,D. Murray,0,0,0,,0,80,77,157,v,Murray Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,353
+22301178,501,PT00M43.90S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,121,228,26,Missed,1,80,77,157,h,MISS Alexander-Walker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+22301178,502,PT00M38.50S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,80,77,157,v,Capela REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,355
+22301178,503,PT00M31.10S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,80,77,157,h,Alexander-Walker P.FOUL (P2.PN) (J.Goldenberg),Foul,Personal,1,0,356
+22301178,505,PT00M31.10S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,80,78,158,v,Young Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,1,0,357
+22301178,506,PT00M31.10S,3,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,80,79,159,v,Young Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,358
+22301178,510,PT00M12.00S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,230,11,0,Missed,1,80,79,159,h,MISS Alexander-Walker 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,359
+22301178,511,PT00M08.80S,3,0,,1610612750,,,0,0,0,,0,80,79,159,h,TIMBERWOLVES Rebound,Rebound,Unknown,0,0,360
+22301178,513,PT00M04.20S,3,1610612750,MIN,201144,Conley,M. Conley,230,59,24,Missed,1,80,79,159,h,MISS Conley 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,361
+22301178,514,PT00M01.10S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,80,79,159,v,Capela REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,362
+22301178,515,PT00M01.10S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,80,79,159,h,Alexander-Walker P.FOUL (P3.PN) (J.Goldenberg),Foul,Personal,1,0,363
+22301178,518,PT00M01.10S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,80,80,160,v,Capela Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,364
+22301178,519,PT00M01.10S,3,1610612737,ATL,203991,Capela,C. Capela,0,0,0,,0,80,80,160,v,MISS Capela Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,365
+22301178,520,PT00M01.10S,3,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,80,80,160,v,Gueye REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,366
+22301178,522,PT00M01.00S,3,1610612737,ATL,1631243,Gueye,M. Gueye,40,27,5,Missed,1,80,80,160,v,MISS Gueye 5' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,367
+22301178,523,PT00M00.40S,3,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,80,80,160,h,Alexander-Walker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,368
+22301178,521,PT00M00.00S,3,0,,0,,,0,0,0,,0,80,80,160,,End of 3rd Period (9:54 PM EST),period,end,1,0,369
+22301178,534,PT12M00.00S,4,0,,0,,,0,0,0,,0,80,80,160,,Start of 4th Period (9:57 PM EST),period,start,0,0,370
+22301178,535,PT11M52.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,80,80,160,v,Young Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,371
+22301178,535,PT11M52.00S,4,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,80,80,160,h,Conley STEAL (2 STL),,,1,0,372
+22301178,537,PT11M49.00S,4,1610612750,MIN,201144,Conley,M. Conley,23,29,4,Made,1,82,80,162,h,Conley 4' Running Layup (13 PTS),Made Shot,Running Layup Shot,1,2,373
+22301178,538,PT11M27.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,-17,30,3,Made,1,82,82,164,v,Fernando 3' Layup (7 PTS) (Young 7 AST),Made Shot,Layup Shot,1,2,374
+22301178,540,PT10M59.00S,4,1610612750,MIN,1629675,Reid,N. Reid,-66,31,7,Missed,1,82,82,164,h,MISS Reid 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,375
+22301178,541,PT10M57.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,82,82,164,v,Gueye REBOUND (Off:3 Def:2),Rebound,Unknown,1,0,376
+22301178,542,PT10M50.00S,4,1610612737,ATL,1629027,Young,T. Young,32,246,25,Made,1,82,85,167,v,Young 25' 3PT Floating Jump Shot (19 PTS),Made Shot,Floating Jump shot,1,3,377
+22301178,543,PT10M41.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,82,85,167,h,McLaughlin Offensive Charge Foul (P1) (J.Goldenberg),Foul,Offensive Charge,1,0,378
+22301178,545,PT10M41.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,82,85,167,h,McLaughlin Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,379
+22301178,546,PT10M21.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-64,-6,6,Missed,1,82,85,167,v,MISS Bogdanovic 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,380
+22301178,547,PT10M19.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,82,85,167,h,Gobert REBOUND (Off:3 Def:11),Rebound,Unknown,1,0,381
+22301178,548,PT10M08.00S,4,1610612750,MIN,201144,Conley,M. Conley,40,25,5,Missed,1,82,85,167,h,MISS Conley 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,382
+22301178,549,PT10M06.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,82,85,167,v,Fernando REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,383
+22301178,550,PT09M50.00S,4,1610612737,ATL,1629027,Young,T. Young,2,252,25,Missed,1,82,85,167,v,MISS Young 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,384
+22301178,551,PT09M47.00S,4,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,82,85,167,h,Conley REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,385
+22301178,552,PT09M44.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,18,20,3,Made,1,84,85,169,h,McLaughlin 3' Running Layup (4 PTS) (Conley 6 AST),Made Shot,Running Layup Shot,1,2,386
+22301178,553,PT09M44.00S,4,0,,1610612737,,,0,0,0,,0,84,85,169,v,Hawks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,387
+22301178,555,PT09M44.00S,4,1610612737,ATL,1629027,Young,T. Young,0,0,0,,0,84,85,169,v,SUB: Bufkin FOR Young,Substitution,,0,0,388
+22301178,557,PT09M33.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,84,85,169,v,Fernando OFF.Foul (P4) (S.Foster),Foul,Offensive,1,0,389
+22301178,559,PT09M33.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,84,85,169,v,Fernando Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,1,0,390
+22301178,560,PT09M22.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,-13,18,2,Made,1,86,85,171,h,Gobert 2' Cutting Dunk Shot (17 PTS) (Conley 7 AST),Made Shot,Cutting Dunk Shot,1,2,391
+22301178,562,PT09M14.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,86,85,171,v,Bufkin Bad Pass Turnover (P1.T11),Turnover,Bad Pass,1,0,392
+22301178,562,PT09M14.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,86,85,171,h,Gobert STEAL (1 STL),,,1,0,393
+22301178,564,PT09M09.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,229,2,0,Missed,1,86,85,171,h,MISS Alexander-Walker 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,394
+22301178,565,PT09M06.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,86,85,171,v,Bufkin REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,395
+22301178,566,PT08M57.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-115,237,26,Missed,1,86,85,171,v,MISS Bogdanovic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,396
+22301178,567,PT08M52.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,86,85,171,v,Fernando REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,397
+22301178,568,PT08M40.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,66,226,24,Missed,1,86,85,171,v,MISS Bufkin 24' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,398
+22301178,569,PT08M39.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,86,85,171,h,Gobert REBOUND (Off:3 Def:12),Rebound,Unknown,1,0,399
+22301178,570,PT08M23.00S,4,1610612750,MIN,1629675,Reid,N. Reid,151,205,25,Missed,1,86,85,171,h,MISS Reid 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,400
+22301178,571,PT08M21.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,86,85,171,v,Bogdanovic REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,401
+22301178,572,PT08M17.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,-31,53,6,Missed,1,86,85,171,v,MISS Bogdanovic 6' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,402
+22301178,573,PT08M14.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,86,85,171,h,Reid REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,403
+22301178,574,PT08M03.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,-95,70,12,Made,1,88,85,173,h,Alexander-Walker 12' Floating Jump Shot (12 PTS) (Conley 8 AST),Made Shot,Floating Jump shot,1,2,404
+22301178,575,PT07M47.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,64,76,10,Made,1,88,87,175,v,Fernando 10' Pullup Jump Shot (9 PTS) (Griffin 1 AST),Made Shot,Pullup Jump shot,1,2,405
+22301178,577,PT07M47.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,88,87,175,h,Gobert S.FOUL (P2.T1) (S.Foster),Foul,Shooting,1,0,406
+22301178,579,PT07M47.00S,4,1610612737,ATL,203992,Bogdanović,B. Bogdanović,0,0,0,,0,88,87,175,v,SUB: Mathews FOR Bogdanovic,Substitution,,0,0,407
+22301178,580,PT07M47.00S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,88,87,175,v,SUB: Krejci FOR Gueye,Substitution,,0,0,408
+22301178,602,PT07M47.00S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,88,87,175,h,SUB: McDaniels FOR Alexander-Walker,Substitution,,0,0,409
+22301178,583,PT07M47.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,88,88,176,v,Fernando Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,1,0,410
+22301178,584,PT07M36.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,-1,4,0,Made,1,90,88,178,h,Gobert Cutting Dunk Shot (19 PTS) (Conley 9 AST),Made Shot,Cutting Dunk Shot,1,2,411
+22301178,586,PT07M23.00S,4,1610612737,ATL,1631100,Griffin,A. Griffin,-35,8,4,Missed,1,90,88,178,v,MISS Griffin 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,412
+22301178,587,PT07M20.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,90,88,178,h,Gobert REBOUND (Off:3 Def:13),Rebound,Unknown,1,0,413
+22301178,588,PT07M10.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,-4,7,1,Made,1,92,88,180,h,Gobert 1' Driving Dunk (21 PTS) (Conley 10 AST),Made Shot,Driving Dunk Shot,1,2,414
+22301178,590,PT06M46.00S,4,1610612737,ATL,1631100,Griffin,A. Griffin,23,53,6,Missed,1,92,88,180,v,MISS Griffin 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,415
+22301178,590,PT06M46.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,92,88,180,h,McDaniels BLOCK (1 BLK),,,1,2,416
+22301178,592,PT06M46.00S,4,0,,1610612737,,,0,0,0,,0,92,88,180,v,Hawks Rebound,Rebound,Unknown,1,0,417
+22301178,595,PT06M46.00S,4,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,92,88,180,h,SUB: Edwards FOR Conley,Substitution,,0,0,418
+22301178,598,PT06M43.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,235,47,24,Missed,1,92,88,180,v,MISS Bufkin 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,419
+22301178,598,PT06M43.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,92,88,180,h,Reid BLOCK (1 BLK),,,1,3,420
+22301178,600,PT06M43.00S,4,0,,1610612737,,,0,0,0,,0,92,88,180,v,Hawks Rebound,Rebound,Unknown,0,0,421
+22301178,601,PT06M43.00S,4,0,,1610612737,,,0,0,0,,0,92,88,180,v,Hawks Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,0,0,422
+22301178,604,PT06M29.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,-87,249,26,Missed,1,92,88,180,h,MISS McLaughlin 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,423
+22301178,605,PT06M26.00S,4,1610612737,ATL,1631100,Griffin,A. Griffin,0,0,0,,0,92,88,180,v,Griffin REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,424
+22301178,606,PT06M21.00S,4,1610612737,ATL,1631100,Griffin,A. Griffin,62,243,25,Made,1,92,91,183,v,Griffin 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1,3,425
+22301178,607,PT06M01.00S,4,1610612750,MIN,1629675,Reid,N. Reid,-28,7,3,Made,1,94,91,185,h,Reid 3' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,426
+22301178,608,PT05M56.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,94,91,185,v,Krejci Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,427
+22301178,608,PT05M56.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,94,91,185,h,McLaughlin STEAL (1 STL),,,0,0,428
+22301178,610,PT05M54.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,4,17,2,Made,1,96,91,187,h,Gobert 2' Cutting Dunk Shot (23 PTS) (McLaughlin 2 AST),Made Shot,Cutting Dunk Shot,1,2,429
+22301178,612,PT05M54.00S,4,0,,1610612737,,,0,0,0,,0,96,91,187,v,Hawks Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,430
+22301178,613,PT05M43.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,35,9,4,Made,1,96,93,189,v,Krejci 4' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,431
+22301178,614,PT05M26.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,96,93,189,h,Reid Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,1,0,432
+22301178,615,PT05M13.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,2,61,6,Made,1,96,95,191,v,Fernando 6' Floating Jump Shot (12 PTS) (Krejci 1 AST),Made Shot,Floating Jump shot,1,2,433
+22301178,618,PT04M49.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,96,95,191,h,Edwards Out of Bounds - Bad Pass Turnover Turnover (P2.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,434
+22301178,619,PT04M39.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,-50,258,26,Made,1,96,98,194,v,Krejci 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,3,435
+22301178,620,PT04M22.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,132,13,Missed,1,96,98,194,h,MISS Edwards 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,436
+22301178,621,PT04M20.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,96,98,194,v,Bufkin REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,437
+22301178,622,PT03M57.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,-77,7,8,Missed,1,96,98,194,v,MISS Fernando 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,438
+22301178,623,PT03M55.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,96,98,194,h,McDaniels REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,439
+22301178,624,PT03M46.00S,4,1610612750,MIN,1629162,McLaughlin,J. McLaughlin,0,0,0,,0,96,98,194,h,SUB: Conley FOR McLaughlin,Substitution,,0,0,440
+22301178,626,PT03M46.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,96,98,194,h,Jump Ball Reid vs. Bufkin: Tip to Edwards,Jump Ball,,1,0,441
+22301178,629,PT03M41.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,96,98,194,v,Mathews S.FOUL (P3.T1) (J.Goldenberg),Foul,Shooting,1,0,442
+22301178,631,PT03M41.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,97,98,195,h,Edwards Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,443
+22301178,632,PT03M41.00S,4,1610612750,MIN,1629675,Reid,N. Reid,0,0,0,,0,97,98,195,h,SUB: Towns FOR Reid,Substitution,,0,0,444
+22301178,634,PT03M41.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,98,98,196,h,Edwards Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,445
+22301178,635,PT03M30.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,70,75,10,Made,1,98,100,198,v,Bufkin 10' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,1,2,446
+22301178,636,PT03M30.00S,4,0,,1610612750,,,0,0,0,,0,98,100,198,h,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,447
+22301178,637,PT03M30.00S,4,1610612737,ATL,1631100,Griffin,A. Griffin,0,0,0,,0,98,100,198,v,SUB: Gueye FOR Griffin,Substitution,,0,0,448
+22301178,639,PT03M15.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,98,100,198,v,Fernando S.FOUL (P5.T2) (J.Goldenberg),Foul,Shooting,1,0,449
+22301178,641,PT03M15.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,98,100,198,h,MISS Gobert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,450
+22301178,642,PT03M15.00S,4,0,,1610612750,,,0,0,0,,0,98,100,198,h,TIMBERWOLVES Rebound,Rebound,Normal Rebound,0,0,451
+22301178,643,PT03M15.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,98,100,198,h,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,452
+22301178,644,PT03M15.00S,4,0,,1610612737,,,0,0,0,,0,98,100,198,v,Hawks Rebound,Rebound,Unknown,0,0,453
+22301178,646,PT03M05.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,59,262,27,Missed,1,98,100,198,v,MISS Krejci 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,454
+22301178,647,PT03M01.00S,4,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,98,100,198,h,Conley REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,455
+22301178,648,PT02M47.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,98,100,198,h,Gobert Lost Ball Turnover (P1.T13),Turnover,Lost Ball,1,0,456
+22301178,648,PT02M47.00S,4,1610612737,ATL,1629726,Mathews,G. Mathews,0,0,0,,0,98,100,198,v,Mathews STEAL (1 STL),,,1,0,457
+22301178,651,PT02M43.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,0,0,0,,0,98,100,198,v,Fernando Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,1,0,458
+22301178,652,PT02M29.00S,4,1610612750,MIN,1626157,Towns,K. Towns,-235,9,24,Made,1,101,100,201,h,Towns 24' 3PT Jump Shot (11 PTS) (Edwards 4 AST),Made Shot,Jump Shot,1,3,459
+22301178,654,PT02M09.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,22,11,2,Missed,1,101,100,201,v,MISS Krejci 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,460
+22301178,654,PT02M09.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,101,100,201,h,Gobert BLOCK (4 BLK),,,1,2,461
+22301178,656,PT02M07.00S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,101,100,201,h,McDaniels REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,462
+22301178,657,PT01M56.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,94,65,11,Made,1,103,100,203,h,Edwards 11' Step Back Bank Jump Shot (10 PTS),Made Shot,Step Back Bank Jump Shot,1,2,463
+22301178,658,PT01M47.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,-4,9,1,Made,1,103,102,205,v,Bufkin 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,464
+22301178,659,PT01M28.00S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-64,253,26,Missed,1,103,102,205,h,MISS Edwards 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,465
+22301178,660,PT01M28.00S,4,0,,1610612737,,,0,0,0,,0,103,102,205,v,Hawks Rebound,Rebound,Unknown,0,0,466
+22301178,662,PT01M08.00S,4,1610612737,ATL,1628981,Fernando,B. Fernando,9,60,6,Missed,1,103,102,205,v,MISS Fernando 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,467
+22301178,663,PT01M05.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,103,102,205,h,Gobert REBOUND (Off:3 Def:14),Rebound,Unknown,1,0,468
+22301178,664,PT00M49.50S,4,1610612750,MIN,1630162,Edwards,A. Edwards,-26,128,13,Made,1,105,102,207,h,Edwards 13' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,1,2,469
+22301178,665,PT00M49.50S,4,0,,1610612737,,,0,0,0,,0,105,102,207,v,Hawks Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,470
+22301178,666,PT00M49.50S,4,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,105,102,207,h,SUB: Anderson FOR Conley,Substitution,,0,0,471
+22301178,667,PT00M49.50S,4,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,105,102,207,h,SUB: Alexander-Walker FOR Towns,Substitution,,0,0,472
+22301178,673,PT00M39.90S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,105,102,207,v,Krejci Out of Bounds Lost Ball Turnover (P2.T15),Turnover,Out of Bounds Lost Ball Turnover,1,0,473
+22301178,671,PT00M39.90S,4,0,,1610612750,,,0,0,0,,0,105,102,207,h,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,474
+22301178,672,PT00M39.90S,4,0,,670,,,0,0,0,,0,105,102,207,,Instant Replay4th Period (10:25 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,475
+22301178,674,PT00M39.90S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,105,102,207,h,SUB: Conley FOR Anderson,Substitution,,0,0,476
+22301178,675,PT00M39.90S,4,1610612750,MIN,1629638,Alexander-Walker,N. Alexander-Walker,0,0,0,,0,105,102,207,h,SUB: Towns FOR Alexander-Walker,Substitution,,0,0,477
+22301178,678,PT00M25.10S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,105,102,207,h,Edwards Lost Ball Turnover (P3.T14),Turnover,Lost Ball,1,0,478
+22301178,678,PT00M25.10S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,105,102,207,v,Gueye STEAL (1 STL),,,1,0,479
+22301178,680,PT00M21.80S,4,1610612737,ATL,1628981,Fernando,B. Fernando,-4,16,2,Made,1,105,104,209,v,Fernando 2' Running Dunk (14 PTS) (Krejci 2 AST),Made Shot,Running Dunk Shot,1,2,480
+22301178,682,PT00M21.00S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,105,104,209,v,Bufkin Personal Take Foul (P1.T3) (J.Goldenberg),Foul,Personal Take,1,0,481
+22301178,685,PT00M19.70S,4,1610612750,MIN,1630183,McDaniels,J. McDaniels,0,0,0,,0,105,104,209,h,SUB: Anderson FOR McDaniels,Substitution,,0,0,482
+22301178,687,PT00M18.60S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,105,104,209,v,Bufkin Personal Take Foul (P2.PN) (A.Smith),Foul,Personal Take,1,0,483
+22301178,689,PT00M18.60S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,106,104,210,h,Edwards Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,484
+22301178,690,PT00M18.60S,4,1610612750,MIN,1626157,Towns,K. Towns,0,0,0,,0,106,104,210,h,SUB: McDaniels FOR Towns,Substitution,,0,0,485
+22301178,696,PT00M18.60S,4,1610612750,MIN,201144,Conley,M. Conley,0,0,0,,0,106,104,210,h,SUB: Alexander-Walker FOR Conley,Substitution,,0,0,486
+22301178,694,PT00M18.60S,4,1610612750,MIN,1630162,Edwards,A. Edwards,0,0,0,,0,107,104,211,h,Edwards Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,487
+22301178,695,PT00M18.60S,4,0,,1610612737,,,0,0,0,,0,107,104,211,v,Hawks Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,488
+22301178,698,PT00M16.70S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,72,266,28,Missed,1,107,104,211,v,MISS Krejci 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,489
+22301178,699,PT00M12.50S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,107,104,211,h,Gobert REBOUND (Off:3 Def:15),Rebound,Unknown,1,0,490
+22301178,700,PT00M11.90S,4,1610612737,ATL,1631243,Gueye,M. Gueye,0,0,0,,0,107,104,211,v,Gueye Personal Take Foul (P4.PN) (A.Smith),Foul,Personal Take,1,0,491
+22301178,702,PT00M11.90S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,108,104,212,h,Gobert Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,492
+22301178,703,PT00M11.90S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,109,104,213,h,Gobert Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,493
+22301178,704,PT00M05.00S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,-23,8,2,Missed,1,109,104,213,v,MISS Krejci 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,494
+22301178,704,PT00M05.00S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,109,104,213,h,Gobert BLOCK (5 BLK),,,1,2,495
+22301178,706,PT00M04.40S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,,0,109,104,213,v,Bufkin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,496
+22301178,707,PT00M04.40S,4,1610612737,ATL,1641723,Bufkin,K. Bufkin,0,0,0,Made,1,109,106,215,v,Bufkin Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,1,2,497
+22301178,708,PT00M03.20S,4,1610612737,ATL,1630249,Krejčí,V. Krejčí,0,0,0,,0,109,106,215,v,Krejci Personal Take Foul (P1.PN) (A.Smith),Foul,Personal Take,1,0,498
+22301178,710,PT00M03.20S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,109,106,215,h,MISS Anderson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,499
+22301178,711,PT00M03.20S,4,0,,1610612750,,,0,0,0,,0,109,106,215,h,TIMBERWOLVES Rebound,Rebound,Normal Rebound,0,0,500
+22301178,712,PT00M03.20S,4,1610612750,MIN,203937,Anderson,K. Anderson,0,0,0,,0,109,106,215,h,MISS Anderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,501
+22301178,713,PT00M00.70S,4,1610612750,MIN,203497,Gobert,R. Gobert,0,0,0,,0,109,106,215,h,Gobert REBOUND (Off:4 Def:15),Rebound,Unknown,1,0,502
+22301178,714,PT00M00.00S,4,0,,0,,,0,0,0,,0,109,106,215,,End of 4th Period (10:34 PM EST),period,end,1,0,503

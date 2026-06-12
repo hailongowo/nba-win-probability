@@ -1,0 +1,520 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22301032,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:11 PM EST),period,start,0,0,1
+22301032,4,PT12M00.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,0,0,0,h,Jump Ball Davis vs. Turner: Tip to Siakam,Jump Ball,,1,0,2
+22301032,7,PT11M42.00S,1,1610612754,IND,1630174,Nesmith,A. Nesmith,-152,221,27,Made,1,0,3,3,v,Nesmith 27' 3PT Jump Shot (3 PTS) (Siakam 1 AST),Made Shot,Jump Shot,1,3,3
+22301032,9,PT11M17.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,12,90,9,Missed,1,0,3,3,h,MISS Reaves 9' Driving Layup,Missed Shot,Driving Layup Shot,1,2,4
+22301032,11,PT11M14.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,0,3,3,h,Reaves REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,5
+22301032,12,PT11M12.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-147,19,15,Missed,1,0,3,3,h,MISS Reaves 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,6
+22301032,13,PT11M12.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,0,3,3,v,Siakam REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,7
+22301032,14,PT11M06.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,-87,15,9,Missed,1,0,3,3,v,MISS Siakam 9' Running Layup,Missed Shot,Running Layup Shot,1,2,8
+22301032,14,PT11M06.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,0,3,3,h,Hachimura BLOCK (1 BLK),,,1,2,9
+22301032,16,PT11M06.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,0,3,3,h,Hachimura REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,10
+22301032,17,PT10M57.00S,1,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,1,26,3,Made,1,2,3,5,h,Dinwiddie 3' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,1,2,11
+22301032,18,PT10M43.00S,1,1610612754,IND,1626167,Turner,M. Turner,42,22,5,Missed,1,2,3,5,v,MISS Turner 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,12
+22301032,19,PT10M43.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,2,3,5,h,Hachimura REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,13
+22301032,20,PT10M26.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,2,3,5,h,James Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,14
+22301032,20,PT10M26.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,2,3,5,v,Nembhard STEAL (1 STL),,,1,0,15
+22301032,22,PT10M14.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,-232,49,24,Made,1,2,6,8,v,Nembhard 24' 3PT Jump Shot (3 PTS) (Nesmith 1 AST),Made Shot,Jump Shot,1,3,16
+22301032,24,PT09M58.00S,1,1610612747,LAL,2544,James,L. James,-137,224,26,Made,1,5,6,11,h,James 26' 3PT Jump Shot (3 PTS) (Dinwiddie 1 AST),Made Shot,Jump Shot,1,3,17
+22301032,26,PT09M45.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,-28,105,11,Missed,1,5,6,11,v,MISS Siakam 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,18
+22301032,27,PT09M41.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,5,6,11,h,Davis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,19
+22301032,28,PT09M30.00S,1,1610612747,LAL,203076,Davis,A. Davis,-1,31,3,Made,1,7,6,13,h,Davis 3' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,1,2,20
+22301032,29,PT09M30.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,7,6,13,v,Siakam S.FOUL (P1.T1) (M.Davis),Foul,Shooting,1,0,21
+22301032,31,PT09M30.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,8,6,14,h,Davis Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,22
+22301032,32,PT09M17.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,119,36,12,Made,1,8,8,16,v,Nembhard 12' Fadeaway Jumper (5 PTS) (Turner 1 AST),Made Shot,Fadeaway Jump Shot,1,2,23
+22301032,34,PT08M58.00S,1,1610612747,LAL,203076,Davis,A. Davis,-16,16,2,Made,1,10,8,18,h,Davis 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,1,2,24
+22301032,35,PT08M48.00S,1,1610612754,IND,1626167,Turner,M. Turner,2,46,5,Missed,1,10,8,18,v,MISS Turner 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,25
+22301032,36,PT08M46.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,10,8,18,h,Davis REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,26
+22301032,37,PT08M42.00S,1,1610612747,LAL,2544,James,L. James,-29,15,3,Missed,1,10,8,18,h,MISS James 3' Running Layup,Missed Shot,Running Layup Shot,1,2,27
+22301032,38,PT08M39.00S,1,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,10,8,18,v,Turner REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,28
+22301032,39,PT08M36.00S,1,1610612754,IND,1630174,Nesmith,A. Nesmith,-1,27,3,Missed,1,10,8,18,v,MISS Nesmith 3' Running Layup,Missed Shot,Running Layup Shot,1,2,29
+22301032,40,PT08M31.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,10,8,18,h,Davis REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,30
+22301032,41,PT08M22.00S,1,1610612747,LAL,2544,James,L. James,-235,19,24,Missed,1,10,8,18,h,MISS James 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,31
+22301032,42,PT08M18.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,10,8,18,v,Haliburton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,32
+22301032,43,PT08M13.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,-40,141,15,Made,1,10,10,20,v,Nembhard 15' Pullup Jump Shot (7 PTS) (Nesmith 2 AST),Made Shot,Pullup Jump shot,1,2,33
+22301032,50,PT08M06.00S,1,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,-12,54,6,Made,1,12,10,22,h,Dinwiddie 6' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,34
+22301032,45,PT08M06.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,12,10,22,v,Haliburton S.FOUL (P1.T2) (M.Davis),Foul,Shooting,1,0,35
+22301032,47,PT08M06.00S,1,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,13,10,23,h,Dinwiddie Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,36
+22301032,48,PT07M55.00S,1,1610612754,IND,1626167,Turner,M. Turner,-2,29,3,Made,1,13,12,25,v,Turner 3' Cutting Dunk Shot (2 PTS) (Haliburton 1 AST),Made Shot,Cutting Dunk Shot,1,2,37
+22301032,51,PT07M38.00S,1,1610612747,LAL,2544,James,L. James,0,20,2,Missed,1,13,12,25,h,MISS James 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,38
+22301032,51,PT07M38.00S,1,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,13,12,25,v,Turner BLOCK (1 BLK),,,1,2,39
+22301032,53,PT07M35.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,13,12,25,v,Haliburton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,40
+22301032,54,PT07M29.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,22,29,4,Missed,1,13,12,25,v,MISS Siakam 4' Running Layup,Missed Shot,Running Layup Shot,1,2,41
+22301032,54,PT07M29.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,13,12,25,h,Davis BLOCK (1 BLK),,,1,2,42
+22301032,56,PT07M28.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,13,12,25,v,Haliburton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,43
+22301032,139,PT07M28.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,1,5,1,Missed,1,13,12,25,v,MISS Haliburton 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,44
+22301032,139,PT07M28.00S,1,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,13,12,25,h,Dinwiddie BLOCK (1 BLK),,,1,2,45
+22301032,141,PT07M27.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,13,12,25,h,Davis REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,46
+22301032,57,PT07M17.00S,1,1610612747,LAL,2544,James,L. James,-125,145,19,Missed,1,13,12,25,h,MISS James 19' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,47
+22301032,58,PT07M15.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,13,12,25,v,Haliburton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,48
+22301032,59,PT07M12.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,1,43,4,Missed,1,13,12,25,v,MISS Siakam 4' Running Layup,Missed Shot,Running Layup Shot,1,2,49
+22301032,60,PT07M12.00S,1,0,,1610612747,,,0,0,0,,0,13,12,25,h,LAKERS Rebound,Rebound,Unknown,0,0,50
+22301032,62,PT07M00.00S,1,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,13,12,25,v,Turner S.FOUL (P1.T3) (M.Davis),Foul,Shooting,1,0,51
+22301032,64,PT07M00.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,14,12,26,h,Davis Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,52
+22301032,65,PT07M00.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,15,12,27,h,Davis Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,53
+22301032,66,PT06M48.00S,1,1610612754,IND,1626167,Turner,M. Turner,13,32,3,Made,1,15,14,29,v,Turner 3' Cutting Layup Shot (4 PTS) (Nembhard 1 AST),Made Shot,Cutting Layup Shot,1,2,54
+22301032,68,PT06M26.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,-194,183,27,Missed,1,15,14,29,h,MISS Reaves 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,55
+22301032,69,PT06M23.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,15,14,29,v,Siakam REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,56
+22301032,70,PT06M20.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,45,59,7,Made,1,15,16,31,v,Siakam 7' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,2,57
+22301032,71,PT06M16.00S,1,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,15,16,31,h,Dinwiddie Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,58
+22301032,71,PT06M16.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,15,16,31,v,Haliburton STEAL (1 STL),,,1,0,59
+22301032,73,PT06M11.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,167,201,26,Missed,1,15,16,31,v,MISS Siakam 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,60
+22301032,74,PT06M05.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,15,16,31,h,Hachimura REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,61
+22301032,75,PT06M00.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,15,16,31,h,James Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,62
+22301032,76,PT06M00.00S,1,0,,1610612747,,,0,0,0,,0,15,16,31,h,LAKERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,63
+22301032,77,PT06M00.00S,1,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,15,16,31,h,SUB: Reddish FOR Dinwiddie,Substitution,,0,0,64
+22301032,79,PT05M44.00S,1,1610612754,IND,1626167,Turner,M. Turner,219,121,25,Made,1,15,19,34,v,Turner 25' 3PT Jump Shot (7 PTS) (Haliburton 2 AST),Made Shot,Jump Shot,1,3,65
+22301032,81,PT05M20.00S,1,1610612747,LAL,203076,Davis,A. Davis,138,95,17,Made,1,17,19,36,h,Davis 17' Jump Shot (9 PTS) (James 1 AST),Made Shot,Jump Shot,1,2,66
+22301032,83,PT05M00.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,66,7,Made,1,17,21,38,v,Haliburton 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,67
+22301032,84,PT04M48.00S,1,1610612747,LAL,203076,Davis,A. Davis,4,35,4,Missed,1,17,21,38,h,MISS Davis 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,68
+22301032,85,PT04M45.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,17,21,38,h,James REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,69
+22301032,86,PT04M45.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,Missed,1,17,21,38,h,MISS James Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,70
+22301032,87,PT04M44.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,17,21,38,v,Siakam REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,71
+22301032,88,PT04M41.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,4,18,2,Made,1,17,23,40,v,Nembhard 2' Running Reverse Layup (9 PTS) (Siakam 2 AST),Made Shot,Running Reverse Layup Shot,1,2,72
+22301032,90,PT04M30.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,-199,182,27,Missed,1,17,23,40,h,MISS Hachimura 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,73
+22301032,91,PT04M30.00S,1,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,17,23,40,v,Turner REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,74
+22301032,92,PT04M27.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,230,25,0,Missed,1,17,23,40,v,MISS Nembhard 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,75
+22301032,93,PT04M25.00S,1,0,,1610612754,,,0,0,0,,0,17,23,40,v,Pacers Rebound,Rebound,Unknown,0,0,76
+22301032,95,PT04M25.00S,1,1610612747,LAL,2544,James,L. James,0,0,0,,0,17,23,40,h,SUB: Prince FOR James,Substitution,,0,0,77
+22301032,97,PT04M25.00S,1,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,17,23,40,v,SUB: McDermott FOR Nembhard,Substitution,,0,0,78
+22301032,98,PT04M25.00S,1,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,17,23,40,v,SUB: McConnell FOR Nesmith,Substitution,,0,0,79
+22301032,101,PT04M21.00S,1,1610612754,IND,1626167,Turner,M. Turner,162,235,29,Missed,1,17,23,40,v,MISS Turner 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,80
+22301032,102,PT04M17.00S,1,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,17,23,40,h,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,81
+22301032,103,PT04M09.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,17,23,40,h,Reaves Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,82
+22301032,103,PT04M09.00S,1,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,17,23,40,v,McConnell STEAL (1 STL),,,1,0,83
+22301032,105,PT04M05.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,-7,18,2,Made,1,17,25,42,v,Siakam 2' Running Dunk (4 PTS) (McConnell 1 AST),Made Shot,Running Dunk Shot,1,2,84
+22301032,107,PT04M05.00S,1,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,17,25,42,h,Prince S.FOUL (P1.T1) (M.Myers),Foul,Shooting,1,0,85
+22301032,109,PT04M05.00S,1,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,17,25,42,v,SUB: Smith FOR Turner,Substitution,,0,0,86
+22301032,111,PT04M05.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,17,25,42,v,MISS Siakam Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,87
+22301032,112,PT04M02.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,17,25,42,h,Hachimura REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,88
+22301032,113,PT03M54.00S,1,1610612747,LAL,203076,Davis,A. Davis,-16,38,4,Made,1,19,25,44,h,Davis 4' Alley Oop Layup (11 PTS) (Reaves 1 AST),Made Shot,Alley Oop Layup shot,1,2,89
+22301032,116,PT03M34.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,19,25,44,h,Hachimura S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,1,0,90
+22301032,118,PT03M34.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,19,25,44,v,MISS Siakam Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,91
+22301032,119,PT03M34.00S,1,0,,1610612754,,,0,0,0,,0,19,25,44,v,Pacers Rebound,Rebound,Normal Rebound,0,0,92
+22301032,120,PT03M34.00S,1,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,19,25,44,h,SUB: Dinwiddie FOR Reaves,Substitution,,0,0,93
+22301032,122,PT03M34.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,19,26,45,v,Siakam Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,94
+22301032,123,PT03M22.00S,1,1610612747,LAL,203076,Davis,A. Davis,-42,16,4,Missed,1,19,26,45,h,MISS Davis 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,95
+22301032,124,PT03M20.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,19,26,45,h,Davis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,96
+22301032,125,PT03M19.00S,1,1610612747,LAL,203076,Davis,A. Davis,-23,24,3,Made,1,21,26,47,h,Davis 3' Putback Dunk (13 PTS),Made Shot,Putback Dunk Shot,1,2,97
+22301032,126,PT03M06.00S,1,1610612754,IND,204456,McConnell,T. McConnell,89,30,9,Made,1,21,28,49,v,McConnell 9' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,98
+22301032,127,PT02M56.00S,1,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,7,19,2,Made,1,23,28,51,h,Dinwiddie 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,99
+22301032,128,PT02M50.00S,1,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,23,28,51,h,Dinwiddie S.FOUL (P1.T3) (M.Davis),Foul,Shooting,1,0,100
+22301032,130,PT02M50.00S,1,0,,1610612754,,,0,0,0,,0,23,28,51,v,Pacers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,101
+22301032,131,PT02M50.00S,1,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,23,28,51,h,SUB: Christie FOR Hachimura,Substitution,,0,0,102
+22301032,132,PT02M50.00S,1,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,23,28,51,v,SUB: Sheppard FOR Haliburton,Substitution,,0,0,103
+22301032,135,PT02M50.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,23,28,51,v,MISS Siakam Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,104
+22301032,136,PT02M50.00S,1,0,,1610612754,,,0,0,0,,0,23,28,51,v,Pacers Rebound,Rebound,Normal Rebound,0,0,105
+22301032,137,PT02M50.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,23,28,51,v,MISS Siakam Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,106
+22301032,138,PT02M47.00S,1,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,23,28,51,h,Christie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+22301032,142,PT02M32.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,23,28,51,h,Davis OFF.Foul (P1) (M.Myers),Foul,Offensive,1,0,108
+22301032,144,PT02M32.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,23,28,51,h,Davis Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,109
+22301032,145,PT02M32.00S,1,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,23,28,51,v,SUB: Toppin FOR Siakam,Substitution,,0,0,110
+22301032,147,PT02M16.00S,1,1610612754,IND,204456,McConnell,T. McConnell,121,16,12,Missed,1,23,28,51,v,MISS McConnell 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,111
+22301032,148,PT02M13.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,23,28,51,h,Davis REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,112
+22301032,149,PT02M08.00S,1,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,167,205,26,Missed,1,23,28,51,h,MISS Dinwiddie 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,113
+22301032,150,PT02M05.00S,1,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,23,28,51,v,McConnell REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,114
+22301032,151,PT01M59.00S,1,1610612754,IND,1630188,Smith,J. Smith,26,273,27,Missed,1,23,28,51,v,MISS Smith 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,115
+22301032,152,PT01M56.00S,1,0,,1610612754,,,0,0,0,,0,23,28,51,v,Pacers Rebound,Rebound,Unknown,0,0,116
+22301032,154,PT01M49.00S,1,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,23,28,51,h,Prince P.FOUL (P2.T4) (M.Myers),Foul,Personal,1,0,117
+22301032,156,PT01M41.00S,1,1610612754,IND,203926,McDermott,D. McDermott,-67,275,28,Made,1,23,31,54,v,McDermott 28' 3PT Jump Shot (3 PTS) (McConnell 2 AST),Made Shot,Jump Shot,1,3,118
+22301032,158,PT01M32.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,23,31,54,h,Davis OFF.Foul (P2) (G.Petraitis),Foul,Offensive,1,0,119
+22301032,160,PT01M32.00S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,23,31,54,h,Davis Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,1,0,120
+22301032,161,PT01M23.00S,1,1610612754,IND,203926,McDermott,D. McDermott,205,154,26,Made,1,23,34,57,v,McDermott 26' 3PT Jump Shot (6 PTS) (McConnell 3 AST),Made Shot,Jump Shot,1,3,121
+22301032,163,PT01M05.00S,1,1610612747,LAL,1627752,Prince,T. Prince,13,30,3,Made,1,25,34,59,h,Prince 3' Driving Layup (2 PTS) (Davis 1 AST),Made Shot,Driving Layup Shot,1,2,122
+22301032,165,PT00M56.80S,1,1610612754,IND,204456,McConnell,T. McConnell,113,14,11,Missed,1,25,34,59,v,MISS McConnell 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,123
+22301032,166,PT00M54.10S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,25,34,59,h,Davis REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,124
+22301032,167,PT00M44.60S,1,1610612747,LAL,203076,Davis,A. Davis,-4,24,2,Missed,1,25,34,59,h,MISS Davis 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,125
+22301032,168,PT00M42.30S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,25,34,59,h,Davis REBOUND (Off:2 Def:6),Rebound,Unknown,1,0,126
+22301032,169,PT00M42.30S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,Made,1,27,34,61,h,Davis Tip Dunk Shot (15 PTS),Made Shot,Tip Dunk Shot,1,2,127
+22301032,170,PT00M39.10S,1,1610612754,IND,1630167,Toppin,O. Toppin,-145,212,26,Missed,1,27,34,61,v,MISS Toppin 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+22301032,171,PT00M35.50S,1,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,27,34,61,h,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,129
+22301032,172,PT00M31.40S,1,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,27,34,61,v,Toppin S.FOUL (P1.T4) (G.Petraitis),Foul,Shooting,1,0,130
+22301032,174,PT00M31.40S,1,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,28,34,62,h,Dinwiddie Free Throw 1 of 3 (8 PTS),Free Throw,Free Throw 1 of 3,1,0,131
+22301032,175,PT00M31.40S,1,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,29,34,63,h,Dinwiddie Free Throw 2 of 3 (9 PTS),Free Throw,Free Throw 2 of 3,1,0,132
+22301032,176,PT00M31.40S,1,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,29,34,63,h,SUB: Hayes FOR Davis,Substitution,,0,0,133
+22301032,178,PT00M31.40S,1,0,,1610612747,,,0,0,0,,0,29,34,63,h,LAKERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,134
+22301032,179,PT00M31.40S,1,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,30,34,64,h,Dinwiddie Free Throw 3 of 3 (10 PTS),Free Throw,Free Throw 3 of 3,1,0,135
+22301032,180,PT00M15.50S,1,1610612754,IND,204456,McConnell,T. McConnell,9,16,2,Made,1,30,36,66,v,McConnell 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,2,136
+22301032,181,PT00M03.60S,1,1610612747,LAL,1629629,Reddish,C. Reddish,33,31,5,Missed,1,30,36,66,h,MISS Reddish 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,137
+22301032,182,PT00M02.40S,1,1610612754,IND,1630188,Smith,J. Smith,0,0,0,,0,30,36,66,v,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,138
+22301032,183,PT00M00.00S,1,0,,0,,,0,0,0,,0,30,36,66,,End of 1st Period (10:38 PM EST),period,end,1,0,139
+22301032,188,PT12M00.00S,2,0,,0,,,0,0,0,,0,30,36,66,,Start of 2nd Period (10:40 PM EST),period,start,0,0,140
+22301032,190,PT11M44.00S,2,1610612747,LAL,2544,James,L. James,-6,27,3,Missed,1,30,36,66,h,MISS James 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,141
+22301032,191,PT11M40.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,30,36,66,h,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,142
+22301032,192,PT11M40.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,Made,1,32,36,68,h,Hayes Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,143
+22301032,193,PT11M23.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,226,39,0,Missed,1,32,36,68,v,MISS Nesmith 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,144
+22301032,194,PT11M21.00S,2,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,32,36,68,h,Christie REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,145
+22301032,195,PT11M15.00S,2,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,12,22,3,Made,1,34,36,70,h,Dinwiddie 3' Running Layup (12 PTS),Made Shot,Running Layup Shot,1,2,146
+22301032,197,PT11M03.00S,2,1610612754,IND,204456,McConnell,T. McConnell,-4,122,12,Made,1,34,38,72,v,McConnell 12' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,147
+22301032,198,PT10M50.00S,2,1610612747,LAL,2544,James,L. James,-9,24,3,Made,1,36,38,74,h,James 3' Driving Layup (5 PTS) (Dinwiddie 2 AST),Made Shot,Driving Layup Shot,1,2,148
+22301032,200,PT10M41.00S,2,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,36,38,74,h,Dinwiddie S.FOUL (P2.T1) (M.Myers),Foul,Shooting,1,0,149
+22301032,203,PT10M41.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,36,39,75,v,Nesmith Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,150
+22301032,204,PT10M41.00S,2,1610612754,IND,1630188,Smith,J. Smith,0,0,0,,0,36,39,75,v,SUB: Jackson FOR Smith,Substitution,,0,0,151
+22301032,206,PT10M41.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,36,40,76,v,Nesmith Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,152
+22301032,207,PT10M30.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,36,40,76,v,Nesmith S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,1,0,153
+22301032,209,PT10M30.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,37,40,77,h,James Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,1,0,154
+22301032,210,PT10M30.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,38,40,78,h,James Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,155
+22301032,211,PT10M14.00S,2,1610612754,IND,203926,McDermott,D. McDermott,188,163,25,Missed,1,38,40,78,v,MISS McDermott 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,156
+22301032,212,PT10M11.00S,2,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,38,40,78,h,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,157
+22301032,213,PT10M05.00S,2,1610612747,LAL,1631108,Christie,M. Christie,-114,221,25,Made,1,41,40,81,h,Christie 25' 3PT Jump Shot (3 PTS) (James 2 AST),Made Shot,Jump Shot,1,3,158
+22301032,215,PT09M58.00S,2,0,,1610612754,,,0,0,0,,0,41,40,81,v,Pacers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,159
+22301032,217,PT09M39.00S,2,1610612754,IND,1630167,Toppin,O. Toppin,-169,216,27,Made,1,41,43,84,v,Toppin 27' 3PT Pullup Jump Shot (3 PTS) (McDermott 1 AST),Made Shot,Pullup Jump shot,1,3,160
+22301032,227,PT09M22.00S,2,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,41,43,84,h,Dinwiddie Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,161
+22301032,227,PT09M22.00S,2,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,41,43,84,v,McDermott STEAL (1 STL),,,1,0,162
+22301032,221,PT09M09.00S,2,1610612754,IND,1630543,Jackson,I. Jackson,30,13,3,Made,1,41,45,86,v,Jackson 3' Layup (2 PTS),Made Shot,Layup Shot,1,2,163
+22301032,223,PT09M09.00S,2,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,41,45,86,h,Prince S.FOUL (P3.T2) (M.Davis),Foul,Shooting,1,0,164
+22301032,225,PT09M09.00S,2,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,41,45,86,h,SUB: Hachimura FOR Prince,Substitution,,0,0,165
+22301032,229,PT09M09.00S,2,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,41,46,87,v,Jackson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,166
+22301032,324,PT08M59.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,41,46,87,h,James Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,167
+22301032,324,PT08M59.00S,2,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,41,46,87,v,Jackson STEAL (1 STL),,,1,0,168
+22301032,233,PT08M49.00S,2,1610612754,IND,203926,McDermott,D. McDermott,114,226,25,Missed,1,41,46,87,v,MISS McDermott 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,169
+22301032,234,PT08M46.00S,2,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,41,46,87,v,Toppin REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,170
+22301032,235,PT08M44.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,-156,220,27,Made,1,41,49,90,v,Nesmith 27' 3PT Jump Shot (8 PTS) (Toppin 1 AST),Made Shot,Jump Shot,1,3,171
+22301032,238,PT08M28.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,-12,114,11,Made,1,43,49,92,h,Hachimura 11' Fadeaway Jumper (2 PTS) (Christie 1 AST),Made Shot,Fadeaway Jump Shot,1,2,172
+22301032,239,PT08M21.00S,2,1610612754,IND,204456,McConnell,T. McConnell,4,46,5,Missed,1,43,49,92,v,MISS McConnell 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,173
+22301032,240,PT08M16.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,43,49,92,v,Nesmith REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,174
+22301032,241,PT08M16.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,Made,1,43,51,94,v,Nesmith Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,1,2,175
+22301032,242,PT08M04.00S,2,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,43,51,94,v,Jackson S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,1,0,176
+22301032,244,PT08M04.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,44,51,95,h,Hayes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,177
+22301032,246,PT08M04.00S,2,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,44,51,95,h,SUB: Reaves FOR Dinwiddie,Substitution,,0,0,178
+22301032,248,PT08M04.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,45,51,96,h,Hayes Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,179
+22301032,348,PT07M45.00S,2,1610612754,IND,204456,McConnell,T. McConnell,-100,128,16,Missed,1,45,51,96,v,MISS McConnell 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,180
+22301032,349,PT07M44.00S,2,0,,1610612747,,,0,0,0,,0,45,51,96,h,LAKERS Rebound,Rebound,Unknown,1,0,181
+22301032,251,PT07M44.00S,2,0,,1610612747,,,0,0,0,,0,45,51,96,h,LAKERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,182
+22301032,252,PT07M44.00S,2,0,,249,,,0,0,0,,0,45,51,96,,Instant Replay2nd Period (10:51 PM EST),Instant Replay,Coach Challenge Overturn Ruling,1,0,183
+22301032,253,PT07M44.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,45,51,96,h,SUB: Davis FOR Hayes,Substitution,,0,0,184
+22301032,254,PT07M44.00S,2,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,45,51,96,v,SUB: Haliburton FOR McConnell,Substitution,,0,0,185
+22301032,255,PT07M44.00S,2,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,45,51,96,v,SUB: Nembhard FOR McDermott,Substitution,,0,0,186
+22301032,256,PT07M44.00S,2,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,45,51,96,v,SUB: Turner FOR Jackson,Substitution,,0,0,187
+22301032,263,PT07M29.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,-13,32,3,Made,1,47,51,98,h,Reaves 3' Driving Layup (2 PTS) (James 3 AST),Made Shot,Driving Layup Shot,1,2,188
+22301032,265,PT07M29.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,47,51,98,v,Nembhard S.FOUL (P1.T3) (M.Myers),Foul,Shooting,1,0,189
+22301032,267,PT07M29.00S,2,1610612747,LAL,1631108,Christie,M. Christie,0,0,0,,0,47,51,98,h,SUB: Reddish FOR Christie,Substitution,,0,0,190
+22301032,269,PT07M29.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,48,51,99,h,Reaves Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,191
+22301032,270,PT07M17.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,48,51,99,v,Turner Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,1,0,192
+22301032,271,PT07M02.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,-224,6,0,Made,1,51,51,102,h,Hachimura 3PT Jump Shot (5 PTS) (Reaves 2 AST),Made Shot,Jump Shot,1,3,193
+22301032,273,PT06M49.00S,2,1610612754,IND,1630169,Haliburton,T. Haliburton,-7,27,3,Made,1,51,53,104,v,Haliburton 3' Driving Reverse Layup (4 PTS) (Nembhard 2 AST),Made Shot,Driving Reverse Layup Shot,1,2,194
+22301032,275,PT06M28.00S,2,1610612747,LAL,1629629,Reddish,C. Reddish,232,32,0,Made,1,54,53,107,h,Reddish 3PT Jump Shot (3 PTS) (Reaves 3 AST),Made Shot,Jump Shot,1,3,195
+22301032,277,PT06M09.00S,2,1610612754,IND,1626167,Turner,M. Turner,25,149,15,Made,1,54,55,109,v,Turner 15' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,1,2,196
+22301032,278,PT05M52.00S,2,1610612747,LAL,2544,James,L. James,-74,15,8,Missed,1,54,55,109,h,MISS James 8' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,1,2,197
+22301032,279,PT05M49.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,54,55,109,v,Turner REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,198
+22301032,280,PT05M46.00S,2,1610612754,IND,1630167,Toppin,O. Toppin,229,69,24,Missed,1,54,55,109,v,MISS Toppin 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,199
+22301032,281,PT05M45.00S,2,0,,1610612754,,,0,0,0,,0,54,55,109,v,Pacers Rebound,Rebound,Unknown,0,0,200
+22301032,283,PT05M45.00S,2,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,54,55,109,v,SUB: Siakam FOR Toppin,Substitution,,0,0,201
+22301032,285,PT05M35.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,54,55,109,h,Davis S.FOUL (P3.T3) (G.Petraitis),Foul,Shooting,1,0,202
+22301032,287,PT05M35.00S,2,0,,1610612754,,,0,0,0,,0,54,55,109,v,Pacers Violation: Delay of game Violation,Violation,Delay Of Game,0,0,203
+22301032,288,PT05M35.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,54,56,110,v,Turner Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,204
+22301032,289,PT05M35.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,54,57,111,v,Turner Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,205
+22301032,290,PT05M28.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,54,57,111,v,Nembhard P.FOUL (P2.T4) (M.Davis),Foul,Personal,1,0,206
+22301032,292,PT05M19.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,54,57,111,v,Nesmith S.FOUL (P2.PN) (M.Myers),Foul,Shooting,1,0,207
+22301032,294,PT05M19.00S,2,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,55,57,112,h,Reddish Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,208
+22301032,295,PT05M19.00S,2,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,55,57,112,h,MISS Reddish Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,209
+22301032,296,PT05M16.00S,2,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,55,57,112,v,Siakam REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,210
+22301032,297,PT05M08.00S,2,1610612754,IND,1626167,Turner,M. Turner,-61,267,27,Made,1,55,60,115,v,Turner 27' 3PT Running Jump Shot (14 PTS) (Nembhard 3 AST),Made Shot,Running Jump Shot,1,3,211
+22301032,299,PT05M00.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,55,60,115,v,Turner S.FOUL (P2.PN) (M.Davis),Foul,Shooting,1,0,212
+22301032,301,PT05M00.00S,2,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,56,60,116,h,Reddish Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,213
+22301032,302,PT05M00.00S,2,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,57,60,117,h,Reddish Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,214
+22301032,303,PT04M47.00S,2,1610612754,IND,1630169,Haliburton,T. Haliburton,-40,54,7,Missed,1,57,60,117,v,MISS Haliburton 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,215
+22301032,304,PT04M45.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,57,60,117,h,James REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,216
+22301032,305,PT04M40.00S,2,1610612747,LAL,2544,James,L. James,-9,22,2,Made,1,59,60,119,h,James 2' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,1,2,217
+22301032,306,PT04M24.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,-21,253,25,Missed,1,59,60,119,v,MISS Nesmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,218
+22301032,307,PT04M22.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,59,60,119,h,Reaves REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,219
+22301032,308,PT04M19.00S,2,1610612747,LAL,2544,James,L. James,-11,15,2,Missed,1,59,60,119,h,MISS James 2' Running Layup,Missed Shot,Running Layup Shot,1,2,220
+22301032,308,PT04M19.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,59,60,119,v,Nesmith BLOCK (1 BLK),,,1,2,221
+22301032,310,PT04M15.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,59,60,119,v,Nembhard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,222
+22301032,311,PT04M12.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,-87,53,10,Made,1,59,62,121,v,Nembhard 10' Jump Bank Shot (11 PTS),Made Shot,Jump Bank Shot,1,2,223
+22301032,312,PT03M59.00S,2,1610612747,LAL,2544,James,L. James,-13,19,2,Made,1,61,62,123,h,James 2' Cutting Dunk Shot (11 PTS) (Reaves 4 AST),Made Shot,Cutting Dunk Shot,1,2,224
+22301032,314,PT03M47.00S,2,1610612754,IND,1630169,Haliburton,T. Haliburton,156,221,27,Missed,1,61,62,123,v,MISS Haliburton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,225
+22301032,315,PT03M45.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,61,62,123,h,Reaves REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,226
+22301032,316,PT03M36.00S,2,1610612747,LAL,1629629,Reddish,C. Reddish,-223,11,0,Missed,1,61,62,123,h,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,1,3,227
+22301032,317,PT03M30.00S,2,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,61,62,123,v,Siakam REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,228
+22301032,318,PT03M15.00S,2,1610612754,IND,1630169,Haliburton,T. Haliburton,214,136,25,Missed,1,61,62,123,v,MISS Haliburton 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,229
+22301032,319,PT03M12.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,61,62,123,h,Davis REBOUND (Off:2 Def:7),Rebound,Unknown,1,0,230
+22301032,320,PT03M10.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,61,62,123,v,Nesmith P.FOUL (P3.PN) (M.Myers),Foul,Personal,1,0,231
+22301032,322,PT03M10.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,62,62,124,h,James Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,232
+22301032,323,PT03M10.00S,2,0,,1610612754,,,0,0,0,,0,62,62,124,v,Pacers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,233
+22301032,326,PT03M10.00S,2,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,62,62,124,h,SUB: Dinwiddie FOR Reddish,Substitution,,0,0,234
+22301032,327,PT03M10.00S,2,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,62,62,124,v,SUB: Toppin FOR Nesmith,Substitution,,0,0,235
+22301032,330,PT03M10.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,63,62,125,h,James Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,236
+22301032,331,PT02M58.00S,2,1610612754,IND,1627783,Siakam,P. Siakam,4,17,2,Missed,1,63,62,125,v,MISS Siakam 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,237
+22301032,332,PT02M57.00S,2,0,,1610612754,,,0,0,0,,0,63,62,125,v,Pacers Rebound,Rebound,Unknown,0,0,238
+22301032,334,PT02M57.00S,2,1610612747,LAL,2544,James,L. James,0,0,0,,0,63,62,125,h,SUB: Prince FOR James,Substitution,,0,0,239
+22301032,336,PT02M46.00S,2,1610612754,IND,1626167,Turner,M. Turner,-109,243,27,Missed,1,63,62,125,v,MISS Turner 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,240
+22301032,337,PT02M42.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,63,62,125,h,Reaves REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,241
+22301032,338,PT02M24.00S,2,1610612747,LAL,1627752,Prince,T. Prince,-21,-4,2,Made,1,65,62,127,h,Prince 2' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,1,2,242
+22301032,339,PT02M24.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,65,62,127,v,Turner S.FOUL (P3.PN) (G.Petraitis),Foul,Shooting,1,0,243
+22301032,341,PT02M24.00S,2,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,65,62,127,v,SUB: Jackson FOR Turner,Substitution,,0,0,244
+22301032,343,PT02M24.00S,2,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,65,62,127,h,MISS Prince Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,1,0,245
+22301032,344,PT02M21.00S,2,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,65,62,127,v,Nembhard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,246
+22301032,345,PT02M08.00S,2,1610612754,IND,1630169,Haliburton,T. Haliburton,-25,37,4,Missed,1,65,62,127,v,MISS Haliburton 4' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,247
+22301032,345,PT02M08.00S,2,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,65,62,127,h,Dinwiddie BLOCK (2 BLK),,,1,2,248
+22301032,347,PT02M05.00S,2,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,65,62,127,h,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,249
+22301032,350,PT02M01.00S,2,1610612747,LAL,1627752,Prince,T. Prince,-224,6,0,Made,1,68,62,130,h,Prince 3PT Jump Shot (7 PTS) (Reaves 5 AST),Made Shot,Jump Shot,1,3,250
+22301032,352,PT01M48.00S,2,1610612754,IND,1627783,Siakam,P. Siakam,2,12,1,Made,1,68,64,132,v,Siakam 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,251
+22301032,353,PT01M27.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,68,64,132,h,Reaves Bad Pass Turnover (P2.T9),Turnover,Bad Pass,1,0,252
+22301032,353,PT01M27.00S,2,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,68,64,132,v,Haliburton STEAL (2 STL),,,1,0,253
+22301032,355,PT01M24.00S,2,1610612754,IND,1630167,Toppin,O. Toppin,-1,10,1,Made,1,68,66,134,v,Toppin 1' Running Layup (5 PTS) (Haliburton 3 AST),Made Shot,Running Layup Shot,1,2,254
+22301032,357,PT01M08.00S,2,1610612747,LAL,1630559,Reaves,A. Reaves,210,182,28,Missed,1,68,66,134,h,MISS Reaves 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,255
+22301032,358,PT01M06.00S,2,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,68,66,134,v,Jackson REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,256
+22301032,359,PT01M01.00S,2,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,68,66,134,v,Toppin Offensive Charge Foul (P2) (M.Davis),Foul,Offensive Charge,1,0,257
+22301032,361,PT01M01.00S,2,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,68,66,134,v,Toppin Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,258
+22301032,362,PT01M01.00S,2,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,68,66,134,h,SUB: Hayes FOR Davis,Substitution,,0,0,259
+22301032,363,PT01M01.00S,2,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,68,66,134,h,SUB: James FOR Hachimura,Substitution,,0,0,260
+22301032,366,PT01M01.00S,2,0,,1610612754,,,0,0,0,,0,68,66,134,v,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,261
+22301032,367,PT01M01.00S,2,0,,359,Brown,C. Brown,0,0,0,,0,68,66,134,,Instant Replay2nd Period (11:10 PM EST),Instant Replay,Coach Challenge Ruling Stands,1,0,262
+22301032,368,PT00M43.60S,2,1610612747,LAL,1627752,Prince,T. Prince,21,20,3,Made,1,70,66,136,h,Prince 3' Driving Layup (9 PTS) (James 4 AST),Made Shot,Driving Layup Shot,1,2,263
+22301032,371,PT00M40.70S,2,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,70,66,136,v,Jackson OFF.Foul (P2) (M.Myers),Foul,Offensive,1,0,264
+22301032,373,PT00M40.70S,2,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,70,66,136,v,Jackson Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,1,0,265
+22301032,374,PT00M20.10S,2,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,20,36,4,Missed,1,70,66,136,h,MISS Dinwiddie 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,266
+22301032,375,PT00M16.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,70,66,136,h,Hayes REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,267
+22301032,376,PT00M16.00S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,Missed,1,70,66,136,h,MISS Hayes Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,268
+22301032,377,PT00M15.50S,2,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,70,66,136,h,Hayes REBOUND (Off:3 Def:0),Rebound,Unknown,1,0,269
+22301032,380,PT00M15.50S,2,1610612747,LAL,1629637,Hayes,J. Hayes,22,26,3,Missed,1,70,66,136,h,MISS Hayes 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,270
+22301032,381,PT00M15.50S,2,0,,1610612747,,,0,0,0,,0,70,66,136,h,LAKERS Rebound,Rebound,Unknown,0,0,271
+22301032,383,PT00M13.80S,2,1610612747,LAL,1630559,Reaves,A. Reaves,-10,29,3,Made,1,72,66,138,h,Reaves 3' Cutting Layup Shot (5 PTS) (Dinwiddie 3 AST),Made Shot,Cutting Layup Shot,1,2,272
+22301032,385,PT00M01.10S,2,1610612754,IND,1627783,Siakam,P. Siakam,1,25,3,Made,1,72,68,140,v,Siakam 3' Driving Layup (9 PTS) (Haliburton 4 AST),Made Shot,Driving Layup Shot,1,2,273
+22301032,387,PT00M00.00S,2,0,,0,,,0,0,0,,0,72,68,140,,End of 2nd Period (11:14 PM EST),period,end,1,0,274
+22301032,396,PT12M00.00S,3,0,,0,,,0,0,0,,0,72,68,140,,Start of 3rd Period (11:29 PM EST),period,start,0,0,275
+22301032,397,PT11M36.00S,3,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,136,233,27,Made,1,75,68,143,h,Dinwiddie 27' 3PT Jump Shot (15 PTS) (James 5 AST),Made Shot,Jump Shot,1,3,276
+22301032,399,PT11M21.00S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,154,155,22,Missed,1,75,68,143,v,MISS Haliburton 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,277
+22301032,400,PT11M17.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,75,68,143,h,Davis REBOUND (Off:2 Def:8),Rebound,Unknown,1,0,278
+22301032,401,PT11M03.00S,3,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,-233,17,0,Made,1,78,68,146,h,Dinwiddie 3PT Jump Shot (18 PTS) (James 6 AST),Made Shot,Jump Shot,1,3,279
+22301032,403,PT10M44.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,-1,41,4,Missed,1,78,68,146,v,MISS Siakam 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,280
+22301032,404,PT10M41.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,78,68,146,v,Siakam REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,281
+22301032,405,PT10M41.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,-4,27,3,Made,1,78,70,148,v,Siakam 3' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,282
+22301032,406,PT10M22.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,78,70,148,v,Siakam Violation:Kicked Ball (M.Myers),Violation,Kicked Ball,0,0,283
+22301032,407,PT10M16.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,27,107,11,Made,1,80,70,150,h,Reaves 11' Pullup Jump Shot (7 PTS) (Davis 2 AST),Made Shot,Pullup Jump shot,1,2,284
+22301032,409,PT10M00.00S,3,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,80,70,150,v,Nesmith OFF.Foul (P4) (G.Petraitis),Foul,Offensive,1,0,285
+22301032,411,PT10M00.00S,3,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,80,70,150,v,Nesmith Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,286
+22301032,412,PT09M45.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,7,28,3,Missed,1,80,70,150,h,MISS Hachimura 3' Layup,Missed Shot,Layup Shot,1,2,287
+22301032,413,PT09M41.00S,3,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,80,70,150,v,Nesmith REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,288
+22301032,414,PT09M39.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,-10,36,4,Missed,1,80,70,150,v,MISS Nembhard 4' Running Layup,Missed Shot,Running Layup Shot,1,2,289
+22301032,415,PT09M36.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,80,70,150,v,Siakam REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,290
+22301032,416,PT09M36.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,-5,13,1,Made,1,80,72,152,v,Siakam 1' Putback Layup (13 PTS),Made Shot,Putback Layup Shot,1,2,291
+22301032,417,PT09M22.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,-233,34,24,Missed,1,80,72,152,h,MISS Hachimura 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,292
+22301032,418,PT09M22.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,80,72,152,v,Nembhard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,293
+22301032,419,PT09M17.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,80,72,152,v,Siakam OFF.Foul (P2) (M.Davis),Foul,Offensive,1,0,294
+22301032,421,PT09M17.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,80,72,152,v,Siakam Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,1,0,295
+22301032,422,PT08M55.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,150,253,29,Made,1,83,72,155,h,Reaves 29' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,1,3,296
+22301032,423,PT08M42.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,17,26,3,Made,1,83,74,157,v,Siakam 3' Cutting Dunk Shot (15 PTS) (Nesmith 3 AST),Made Shot,Cutting Dunk Shot,1,2,297
+22301032,425,PT08M23.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,-7,25,3,Made,1,85,74,159,h,Reaves 3' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,1,2,298
+22301032,426,PT08M08.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,-231,14,0,Missed,1,85,74,159,v,MISS Siakam 3PT Jump Shot,Missed Shot,Jump Shot,1,3,299
+22301032,427,PT08M05.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,85,74,159,h,Davis REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,300
+22301032,428,PT08M04.00S,3,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,85,74,159,v,Nesmith P.FOUL (P5.T1) (M.Davis),Foul,Personal,1,0,301
+22301032,430,PT08M04.00S,3,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,85,74,159,v,SUB: Sheppard FOR Nesmith,Substitution,,0,0,302
+22301032,432,PT07M59.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,85,74,159,v,Siakam S.FOUL (P3.T2) (G.Petraitis),Foul,Shooting,1,0,303
+22301032,434,PT07M59.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,85,74,159,v,Siakam T.FOUL (P3.T2) (M.Davis),Foul,Technical,0,0,304
+22301032,435,PT07M59.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,85,74,159,h,MISS Reaves Free Throw Technical,Free Throw,Free Throw Technical,1,0,305
+22301032,436,PT07M59.00S,3,0,,1610612747,,,0,0,0,,0,85,74,159,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,306
+22301032,437,PT07M59.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,86,74,160,h,Reaves Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,1,0,307
+22301032,438,PT07M59.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,87,74,161,h,Reaves Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,1,0,308
+22301032,439,PT07M51.00S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,112,159,19,Made,1,87,76,163,v,Haliburton 19' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,1,2,309
+22301032,440,PT07M33.00S,3,1610612747,LAL,203076,Davis,A. Davis,-7,36,4,Made,1,89,76,165,h,Davis 4' Driving Dunk (17 PTS) (Reaves 6 AST),Made Shot,Driving Dunk Shot,1,2,310
+22301032,442,PT07M18.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,5,22,2,Made,1,89,78,167,v,Siakam 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,311
+22301032,444,PT07M06.00S,3,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,89,78,167,v,Sheppard S.FOUL (P1.T3) (M.Davis),Foul,Shooting,1,0,312
+22301032,446,PT07M06.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,90,78,168,h,Reaves Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,313
+22301032,447,PT07M06.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,91,78,169,h,Reaves Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,1,0,314
+22301032,448,PT06M57.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,24,57,6,Made,1,91,80,171,v,Siakam 6' Turnaround Hook Shot (19 PTS) (Turner 2 AST),Made Shot,Turnaround Hook Shot,1,2,315
+22301032,450,PT06M57.00S,3,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,91,80,171,h,Dinwiddie S.FOUL (P3.T1) (M.Davis),Foul,Shooting,0,0,316
+22301032,452,PT06M57.00S,3,0,,1610612747,,,0,0,0,,0,91,80,171,h,LAKERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,317
+22301032,453,PT06M57.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,91,81,172,v,Siakam Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,1,0,318
+22301032,454,PT06M33.00S,3,1610612747,LAL,2544,James,L. James,-50,36,6,Made,1,93,81,174,h,James 6' Driving Floating Bank Jump Shot (15 PTS) (Dinwiddie 4 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,319
+22301032,456,PT06M20.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,-18,50,5,Made,1,93,83,176,v,Siakam 5' Fadeaway Jumper (22 PTS) (Haliburton 5 AST),Made Shot,Fadeaway Jump Shot,1,2,320
+22301032,459,PT06M06.00S,3,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,93,83,176,v,Sheppard S.FOUL (P2.T4) (M.Myers),Foul,Shooting,1,0,321
+22301032,461,PT06M06.00S,3,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,94,83,177,h,Dinwiddie Free Throw 1 of 3 (19 PTS),Free Throw,Free Throw 1 of 3,1,0,322
+22301032,462,PT06M06.00S,3,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,95,83,178,h,Dinwiddie Free Throw 2 of 3 (20 PTS),Free Throw,Free Throw 2 of 3,1,0,323
+22301032,463,PT06M06.00S,3,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,96,83,179,h,Dinwiddie Free Throw 3 of 3 (21 PTS),Free Throw,Free Throw 3 of 3,1,0,324
+22301032,464,PT05M52.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,6,29,3,Made,1,96,85,181,v,Siakam 3' Driving Layup (24 PTS) (Sheppard 1 AST),Made Shot,Driving Layup Shot,1,2,325
+22301032,466,PT05M36.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,-18,32,4,Made,1,98,85,183,h,Hachimura 4' Cutting Dunk Shot (7 PTS) (Davis 3 AST),Made Shot,Cutting Dunk Shot,1,2,326
+22301032,468,PT05M30.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,2,13,1,Made,1,98,87,185,v,Siakam 1' Cutting Dunk Shot (26 PTS) (Haliburton 6 AST),Made Shot,Cutting Dunk Shot,1,2,327
+22301032,471,PT05M17.00S,3,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,98,87,185,h,SUB: Reddish FOR Dinwiddie,Substitution,,0,0,328
+22301032,473,PT05M09.00S,3,1610612747,LAL,203076,Davis,A. Davis,36,249,25,Made,1,101,87,188,h,Davis 25' 3PT Jump Shot (20 PTS) (Hachimura 1 AST),Made Shot,Jump Shot,1,3,329
+22301032,475,PT04M50.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,33,45,6,Missed,1,101,87,188,v,MISS Siakam 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,330
+22301032,476,PT04M44.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,101,87,188,v,Siakam REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,331
+22301032,477,PT04M44.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,Missed,1,101,87,188,v,MISS Siakam Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,332
+22301032,478,PT04M43.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,101,87,188,h,Hachimura REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,333
+22301032,479,PT04M28.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,213,147,26,Missed,1,101,87,188,h,MISS Hachimura 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,334
+22301032,480,PT04M26.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,101,87,188,v,Turner REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,335
+22301032,481,PT04M18.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,23,25,3,Missed,1,101,87,188,v,MISS Siakam 3' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,1,2,336
+22301032,482,PT04M15.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,101,87,188,h,James REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,337
+22301032,483,PT04M13.00S,3,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,101,87,188,v,Sheppard S.FOUL (P3.PN) (M.Davis),Foul,Shooting,1,0,338
+22301032,485,PT04M13.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,102,87,189,h,James Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,339
+22301032,486,PT04M13.00S,3,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,102,87,189,h,SUB: Prince FOR Hachimura,Substitution,,0,0,340
+22301032,487,PT04M13.00S,3,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,102,87,189,v,SUB: McConnell FOR Nembhard,Substitution,,0,0,341
+22301032,490,PT04M13.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,103,87,190,h,James Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,342
+22301032,491,PT04M05.00S,3,1610612754,IND,1626167,Turner,M. Turner,-25,256,26,Made,1,103,90,193,v,Turner 26' 3PT Jump Shot (17 PTS) (McConnell 4 AST),Made Shot,Jump Shot,1,3,343
+22301032,493,PT03M41.00S,3,1610612747,LAL,203076,Davis,A. Davis,123,164,21,Missed,1,103,90,193,h,MISS Davis 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,344
+22301032,494,PT03M38.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,103,90,193,v,Siakam REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,345
+22301032,495,PT03M35.00S,3,1610612754,IND,1626167,Turner,M. Turner,11,40,4,Missed,1,103,90,193,v,MISS Turner 4' Running Layup,Missed Shot,Running Layup Shot,1,2,346
+22301032,496,PT03M33.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,103,90,193,h,Davis REBOUND (Off:2 Def:10),Rebound,Unknown,1,0,347
+22301032,497,PT03M14.00S,3,1610612747,LAL,2544,James,L. James,5,21,2,Made,1,105,90,195,h,James 2' Driving Layup (19 PTS),Made Shot,Driving Layup Shot,1,2,348
+22301032,498,PT03M14.00S,3,0,,1610612754,,,0,0,0,,0,105,90,195,v,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,349
+22301032,499,PT03M14.00S,3,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,105,90,195,v,SUB: McDermott FOR Haliburton,Substitution,,0,0,350
+22301032,500,PT03M14.00S,3,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,105,90,195,v,SUB: Jackson FOR Turner,Substitution,,0,0,351
+22301032,503,PT03M01.00S,3,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,105,90,195,v,McConnell Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,352
+22301032,503,PT03M01.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,105,90,195,h,Davis STEAL (1 STL),,,1,0,353
+22301032,505,PT03M01.00S,3,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,105,90,195,v,McDermott S.FOUL (P1.PN) (M.Davis),Foul,Shooting,1,0,354
+22301032,507,PT03M01.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,106,90,196,h,James Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,355
+22301032,508,PT03M01.00S,3,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,106,90,196,h,SUB: Dinwiddie FOR Reaves,Substitution,,0,0,356
+22301032,510,PT03M01.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,107,90,197,h,James Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,357
+22301032,511,PT02M46.00S,3,1610612754,IND,204456,McConnell,T. McConnell,65,131,15,Missed,1,107,90,197,v,MISS McConnell 15' Jump Shot,Missed Shot,Jump Shot,1,2,358
+22301032,512,PT02M44.00S,3,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,107,90,197,v,Jackson REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,359
+22301032,513,PT02M37.00S,3,1610612754,IND,204456,McConnell,T. McConnell,-185,166,25,Made,1,107,93,200,v,McConnell 25' 3PT Jump Shot (9 PTS) (McDermott 2 AST),Made Shot,Jump Shot,1,3,360
+22301032,515,PT02M21.00S,3,1610612747,LAL,1627752,Prince,T. Prince,-162,222,27,Made,1,110,93,203,h,Prince 27' 3PT Jump Shot (12 PTS) (James 7 AST),Made Shot,Jump Shot,1,3,361
+22301032,517,PT02M12.00S,3,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,110,93,203,v,McConnell Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,362
+22301032,517,PT02M12.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,110,93,203,h,Davis STEAL (2 STL),,,1,0,363
+22301032,519,PT02M04.00S,3,1610612747,LAL,203076,Davis,A. Davis,-16,2,2,Made,1,112,93,205,h,Davis 2' Alley Oop Dunk (22 PTS) (James 8 AST),Made Shot,Alley Oop Dunk Shot,1,2,364
+22301032,521,PT01M46.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,5,25,3,Made,1,112,95,207,v,Siakam 3' Driving Layup (28 PTS) (Sheppard 2 AST),Made Shot,Driving Layup Shot,1,2,365
+22301032,523,PT01M31.00S,3,1610612747,LAL,203076,Davis,A. Davis,-189,197,27,Missed,1,112,95,207,h,MISS Davis 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,366
+22301032,524,PT01M28.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,112,95,207,v,Siakam REBOUND (Off:3 Def:7),Rebound,Unknown,1,0,367
+22301032,525,PT01M21.00S,3,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,112,95,207,v,Sheppard Lost Ball Turnover (P1.T8),Turnover,Lost Ball,1,0,368
+22301032,525,PT01M21.00S,3,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,112,95,207,h,Reddish STEAL (1 STL),,,1,0,369
+22301032,527,PT01M20.00S,3,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,112,95,207,v,McDermott S.FOUL (P2.PN) (M.Myers),Foul,Shooting,1,0,370
+22301032,529,PT01M20.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,113,95,208,h,Davis Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,1,0,371
+22301032,530,PT01M20.00S,3,1610612747,LAL,2544,James,L. James,0,0,0,,0,113,95,208,h,SUB: Christie FOR James,Substitution,,0,0,372
+22301032,531,PT01M20.00S,3,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,113,95,208,v,SUB: Toppin FOR Siakam,Substitution,,0,0,373
+22301032,534,PT01M20.00S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,114,95,209,h,Davis Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,1,0,374
+22301032,535,PT01M13.00S,3,1610612754,IND,204456,McConnell,T. McConnell,-5,-7,1,Made,1,114,97,211,v,McConnell 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,1,2,375
+22301032,536,PT00M58.30S,3,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,114,97,211,h,Dinwiddie Traveling Turnover (P3.T10),Turnover,Traveling,1,0,376
+22301032,537,PT00M45.80S,3,1610612754,IND,1630543,Jackson,I. Jackson,-36,24,4,Missed,1,114,97,211,v,MISS Jackson 4' Layup,Missed Shot,Layup Shot,1,2,377
+22301032,537,PT00M45.80S,3,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,114,97,211,h,Prince BLOCK (1 BLK),,,1,2,378
+22301032,539,PT00M42.30S,3,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,114,97,211,h,Davis REBOUND (Off:2 Def:11),Rebound,Unknown,1,0,379
+22301032,540,PT00M26.60S,3,1610612747,LAL,203076,Davis,A. Davis,86,133,16,Made,1,116,97,213,h,Davis 16' Jump Shot (26 PTS),Made Shot,Jump Shot,1,2,380
+22301032,541,PT00M06.00S,3,1610612754,IND,204456,McConnell,T. McConnell,22,26,3,Made,1,116,99,215,v,McConnell 3' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,381
+22301032,542,PT00M01.60S,3,1610612747,LAL,1627752,Prince,T. Prince,-43,107,12,Missed,1,116,99,215,h,MISS Prince 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,382
+22301032,543,PT00M00.10S,3,0,,1610612747,,,0,0,0,,0,116,99,215,h,LAKERS Rebound,Rebound,Unknown,0,0,383
+22301032,544,PT00M00.00S,3,0,,0,,,0,0,0,,0,116,99,215,,End of 3rd Period (11:55 PM EST),period,end,1,0,384
+22301032,551,PT12M00.00S,4,0,,0,,,0,0,0,,0,116,99,215,,Start of 4th Period (11:58 PM EST),period,start,0,0,385
+22301032,552,PT11M48.00S,4,1610612754,IND,203926,McDermott,D. McDermott,213,135,25,Missed,1,116,99,215,v,MISS McDermott 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,386
+22301032,553,PT11M44.00S,4,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,116,99,215,v,McConnell REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,387
+22301032,554,PT11M40.00S,4,1610612754,IND,203926,McDermott,D. McDermott,-154,224,27,Made,1,116,102,218,v,McDermott 27' 3PT Jump Shot (9 PTS) (McConnell 5 AST),Made Shot,Jump Shot,1,3,388
+22301032,556,PT11M20.00S,4,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,56,67,9,Made,1,118,102,220,h,Dinwiddie 9' Turnaround Fadeaway Bank Jump Shot (23 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,1,2,389
+22301032,557,PT11M12.00S,4,1610612754,IND,204456,McConnell,T. McConnell,13,22,3,Made,1,118,104,222,v,McConnell 3' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,1,2,390
+22301032,558,PT11M12.00S,4,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,118,104,222,h,Dinwiddie S.FOUL (P4.T1) (M.Myers),Foul,Shooting,1,0,391
+22301032,560,PT11M12.00S,4,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,118,104,222,v,MISS McConnell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,392
+22301032,561,PT11M11.00S,4,0,,1610612754,,,0,0,0,,0,118,104,222,v,Pacers Rebound,Rebound,Unknown,0,0,393
+22301032,563,PT11M07.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,-31,9,3,Made,1,118,106,224,v,Sheppard 3' Driving Dunk (2 PTS) (McConnell 6 AST),Made Shot,Driving Dunk Shot,1,2,394
+22301032,565,PT10M55.00S,4,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,-89,52,10,Missed,1,118,106,224,h,MISS Dinwiddie 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,395
+22301032,566,PT10M52.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,118,106,224,v,Jackson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,396
+22301032,567,PT10M47.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,138,225,26,Missed,1,118,106,224,v,MISS Sheppard 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,397
+22301032,568,PT10M45.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,118,106,224,h,Hayes REBOUND (Off:3 Def:1),Rebound,Unknown,1,0,398
+22301032,569,PT10M45.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,118,106,224,v,Jackson P.FOUL (P3.T1) (M.Davis),Foul,Personal,1,0,399
+22301032,571,PT10M30.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,-80,249,26,Made,1,121,106,227,h,Reaves 26' 3PT Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,1,3,400
+22301032,572,PT10M12.00S,4,1610612754,IND,203926,McDermott,D. McDermott,50,71,9,Made,1,121,108,229,v,McDermott 9' Driving Floating Jump Shot (11 PTS) (Jackson 1 AST),Made Shot,Driving Floating Jump Shot,1,2,401
+22301032,574,PT09M56.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,49,255,26,Missed,1,121,108,229,h,MISS Reaves 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,402
+22301032,575,PT09M50.00S,4,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,121,108,229,v,McConnell REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,403
+22301032,576,PT09M49.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,-6,15,2,Made,1,121,110,231,v,Jackson 2' Running Dunk (5 PTS) (McConnell 7 AST),Made Shot,Running Dunk Shot,1,2,404
+22301032,578,PT09M49.00S,4,0,,1610612747,,,0,0,0,,0,121,110,231,h,LAKERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,405
+22301032,579,PT09M49.00S,4,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,121,110,231,h,SUB: Davis FOR Dinwiddie,Substitution,,0,0,406
+22301032,580,PT09M49.00S,4,1610612747,LAL,1629637,Hayes,J. Hayes,0,0,0,,0,121,110,231,h,SUB: James FOR Hayes,Substitution,,0,0,407
+22301032,583,PT09M31.00S,4,1610612747,LAL,203076,Davis,A. Davis,4,23,2,Made,1,123,110,233,h,Davis 2' Dunk (28 PTS) (James 9 AST),Made Shot,Dunk Shot,1,2,408
+22301032,585,PT09M20.00S,4,1610612754,IND,204456,McConnell,T. McConnell,46,27,5,Missed,1,123,110,233,v,MISS McConnell 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,409
+22301032,586,PT09M20.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,123,110,233,v,Jackson REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,410
+22301032,587,PT09M14.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,Missed,1,123,110,233,v,MISS Jackson Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,411
+22301032,588,PT09M13.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,123,110,233,h,Reaves REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,412
+22301032,589,PT09M10.00S,4,1610612747,LAL,1627752,Prince,T. Prince,232,31,0,Missed,1,123,110,233,h,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,413
+22301032,590,PT09M07.00S,4,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,123,110,233,v,Toppin REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,414
+22301032,591,PT08M56.00S,4,1610612754,IND,1630167,Toppin,O. Toppin,-233,11,0,Made,1,123,113,236,v,Toppin 3PT Jump Shot (8 PTS) (McDermott 3 AST),Made Shot,Jump Shot,1,3,415
+22301032,593,PT08M35.00S,4,1610612747,LAL,203076,Davis,A. Davis,-94,97,14,Missed,1,123,113,236,h,MISS Davis 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,416
+22301032,594,PT08M33.00S,4,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,123,113,236,v,Toppin REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,417
+22301032,595,PT08M24.00S,4,1610612754,IND,203926,McDermott,D. McDermott,-226,94,24,Made,1,123,116,239,v,McDermott 24' 3PT Jump Shot (14 PTS) (Sheppard 3 AST),Made Shot,Jump Shot,1,3,418
+22301032,597,PT08M02.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,-11,108,11,Made,1,125,116,241,h,Hachimura 11' Turnaround Fadeaway (9 PTS),Made Shot,Turnaround Fadeaway shot,1,2,419
+22301032,598,PT07M50.00S,4,1610612754,IND,204456,McConnell,T. McConnell,1,16,2,Made,1,125,118,243,v,McConnell 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,420
+22301032,599,PT07M33.00S,4,1610612747,LAL,1627752,Prince,T. Prince,-2,13,1,Made,1,127,118,245,h,Prince 1' Driving Dunk (14 PTS) (James 10 AST),Made Shot,Driving Dunk Shot,1,2,421
+22301032,601,PT07M23.00S,4,1610612754,IND,204456,McConnell,T. McConnell,-42,139,15,Missed,1,127,118,245,v,MISS McConnell 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,422
+22301032,602,PT07M18.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,127,118,245,h,Davis REBOUND (Off:2 Def:12),Rebound,Unknown,1,0,423
+22301032,603,PT07M07.00S,4,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,127,118,245,v,McDermott P.FOUL (P3.T2) (G.Petraitis),Foul,Personal,1,0,424
+22301032,605,PT07M07.00S,4,1610612754,IND,1630543,Jackson,I. Jackson,0,0,0,,0,127,118,245,v,SUB: Nesmith FOR Jackson,Substitution,,0,0,425
+22301032,606,PT07M07.00S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,127,118,245,v,SUB: Turner FOR Sheppard,Substitution,,0,0,426
+22301032,609,PT07M07.00S,4,1610612747,LAL,1627752,Prince,T. Prince,0,0,0,,0,127,118,245,h,SUB: Reddish FOR Prince,Substitution,,0,0,427
+22301032,610,PT07M07.00S,4,1610612754,IND,204456,McConnell,T. McConnell,0,0,0,,0,127,118,245,v,SUB: Haliburton FOR McConnell,Substitution,,0,0,428
+22301032,613,PT06M55.00S,4,1610612747,LAL,2544,James,L. James,-161,241,29,Missed,1,127,118,245,h,MISS James 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,429
+22301032,614,PT06M51.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,127,118,245,v,Turner REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,430
+22301032,615,PT06M42.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,127,118,245,h,Reaves S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,1,0,431
+22301032,617,PT06M42.00S,4,0,,1610612747,,,0,0,0,,0,127,118,245,h,LAKERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,432
+22301032,618,PT06M42.00S,4,0,,615,,,0,0,0,,0,127,118,245,,Instant Replay4th Period (12:08 AM EST),Instant Replay,Coach Challenge Ruling Stands,0,0,433
+22301032,619,PT06M42.00S,4,1610612747,LAL,1629060,Hachimura,R. Hachimura,0,0,0,,0,127,118,245,h,SUB: Dinwiddie FOR Hachimura,Substitution,,0,0,434
+22301032,620,PT06M42.00S,4,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,127,118,245,v,SUB: Siakam FOR Toppin,Substitution,,0,0,435
+22301032,623,PT06M42.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,127,118,245,v,MISS Turner Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,436
+22301032,624,PT06M42.00S,4,0,,1610612754,,,0,0,0,,0,127,118,245,v,Pacers Rebound,Rebound,Normal Rebound,0,0,437
+22301032,625,PT06M42.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,127,118,245,v,MISS Turner Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,438
+22301032,626,PT06M40.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,127,118,245,h,Davis REBOUND (Off:2 Def:13),Rebound,Unknown,1,0,439
+22301032,627,PT06M18.00S,4,1610612747,LAL,2544,James,L. James,-21,82,8,Missed,1,127,118,245,h,MISS James 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,440
+22301032,628,PT06M14.00S,4,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,127,118,245,v,Haliburton REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,441
+22301032,629,PT06M08.00S,4,1610612754,IND,1627783,Siakam,P. Siakam,-25,31,4,Made,1,127,120,247,v,Siakam 4' Hook Shot (30 PTS) (Haliburton 7 AST),Made Shot,Hook Shot,1,2,442
+22301032,631,PT05M51.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,4,42,4,Missed,1,127,120,247,h,MISS Reaves 4' Layup,Missed Shot,Layup Shot,1,2,443
+22301032,631,PT05M51.00S,4,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,127,120,247,v,Nesmith BLOCK (2 BLK),,,1,2,444
+22301032,633,PT05M51.00S,4,0,,1610612754,,,0,0,0,,0,127,120,247,v,Pacers Rebound,Rebound,Unknown,0,0,445
+22301032,635,PT05M33.00S,4,1610612754,IND,1630174,Nesmith,A. Nesmith,225,89,24,Made,1,127,123,250,v,Nesmith 24' 3PT Jump Shot (13 PTS) (Haliburton 8 AST),Made Shot,Jump Shot,1,3,446
+22301032,637,PT05M20.00S,4,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,1,36,4,Made,1,129,123,252,h,Dinwiddie 4' Driving Dunk (25 PTS),Made Shot,Driving Dunk Shot,1,2,447
+22301032,638,PT05M07.00S,4,1610612754,IND,1627783,Siakam,P. Siakam,17,31,4,Made,1,129,125,254,v,Siakam 4' Layup (32 PTS) (Turner 3 AST),Made Shot,Layup Shot,1,2,448
+22301032,640,PT04M38.00S,4,1610612747,LAL,1629629,Reddish,C. Reddish,-230,44,0,Missed,1,129,125,254,h,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,1,3,449
+22301032,641,PT04M33.00S,4,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,129,125,254,v,Siakam REBOUND (Off:3 Def:8),Rebound,Unknown,1,0,450
+22301032,642,PT04M24.00S,4,1610612754,IND,1627783,Siakam,P. Siakam,-25,16,3,Missed,1,129,125,254,v,MISS Siakam 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,451
+22301032,643,PT04M21.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,129,125,254,h,James REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,452
+22301032,644,PT04M17.00S,4,1610612747,LAL,2544,James,L. James,0,20,2,Missed,1,129,125,254,h,MISS James 2' Running Layup,Missed Shot,Running Layup Shot,1,2,453
+22301032,645,PT04M13.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,129,125,254,h,Davis REBOUND (Off:3 Def:13),Rebound,Unknown,1,0,454
+22301032,646,PT04M12.00S,4,1610612747,LAL,203076,Davis,A. Davis,-4,8,1,Made,1,131,125,256,h,Davis 1' Putback Layup (30 PTS),Made Shot,Putback Layup Shot,1,2,455
+22301032,647,PT03M50.00S,4,1610612754,IND,1627783,Siakam,P. Siakam,77,159,18,Made,1,131,127,258,v,Siakam 18' Pullup Jump Shot (34 PTS),Made Shot,Pullup Jump shot,1,2,456
+22301032,648,PT03M29.00S,4,1610612747,LAL,2544,James,L. James,224,-4,0,Made,1,134,127,261,h,James 3PT Jump Shot (24 PTS) (Dinwiddie 5 AST),Made Shot,Jump Shot,1,3,457
+22301032,650,PT03M08.00S,4,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,134,127,261,v,McDermott Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,458
+22301032,650,PT03M08.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,134,127,261,h,James STEAL (1 STL),,,1,0,459
+22301032,652,PT02M55.00S,4,1610612747,LAL,203076,Davis,A. Davis,14,7,2,Made,1,136,127,263,h,Davis 2' Reverse Layup (32 PTS) (Reaves 7 AST),Made Shot,Reverse Layup Shot,1,2,460
+22301032,654,PT02M55.00S,4,0,,1610612754,,,0,0,0,,0,136,127,263,v,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,461
+22301032,655,PT02M55.00S,4,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,136,127,263,v,SUB: Nembhard FOR McDermott,Substitution,,0,0,462
+22301032,657,PT02M42.00S,4,1610612754,IND,1629614,Nembhard,A. Nembhard,21,123,12,Made,1,136,129,265,v,Nembhard 12' Fadeaway Jumper (13 PTS),Made Shot,Fadeaway Jump Shot,1,2,463
+22301032,658,PT02M25.00S,4,1610612747,LAL,1629629,Reddish,C. Reddish,-11,44,5,Missed,1,136,129,265,h,MISS Reddish 5' Driving Dunk,Missed Shot,Driving Dunk Shot,1,2,464
+22301032,660,PT02M20.00S,4,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,136,129,265,v,Nesmith REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,465
+22301032,661,PT02M17.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,136,129,265,h,James S.FOUL (P1.T3) (M.Myers),Foul,Shooting,1,0,466
+22301032,663,PT02M17.00S,4,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,136,130,266,v,Siakam Free Throw 1 of 2 (35 PTS),Free Throw,Free Throw 1 of 2,1,0,467
+22301032,664,PT02M17.00S,4,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,136,131,267,v,Siakam Free Throw 2 of 2 (36 PTS),Free Throw,Free Throw 2 of 2,1,0,468
+22301032,665,PT02M02.00S,4,1610612747,LAL,203076,Davis,A. Davis,-124,30,13,Made,1,138,131,269,h,Davis 13' Fadeaway Jumper (34 PTS) (Reaves 8 AST),Made Shot,Fadeaway Jump Shot,1,2,469
+22301032,667,PT01M49.00S,4,1610612754,IND,1630174,Nesmith,A. Nesmith,38,29,5,Missed,1,138,131,269,v,MISS Nesmith 5' Driving Layup,Missed Shot,Driving Layup Shot,1,2,470
+22301032,667,PT01M49.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,138,131,269,h,Reaves BLOCK (1 BLK),,,1,2,471
+22301032,669,PT01M45.00S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,138,131,269,h,James REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,472
+22301032,670,PT01M45.00S,4,1610612747,LAL,2544,James,L. James,-11,18,2,Made,1,140,131,271,h,James 2' Running Layup (26 PTS),Made Shot,Running Layup Shot,1,2,473
+22301032,671,PT01M45.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,140,131,271,v,Turner Violation:Defensive Goaltending (M.Davis),Violation,Defensive Goaltending,1,0,474
+22301032,672,PT01M36.00S,4,1610612754,IND,1626167,Turner,M. Turner,136,216,26,Made,1,140,134,274,v,Turner 26' 3PT Jump Shot (20 PTS) (Haliburton 9 AST),Made Shot,Jump Shot,1,3,475
+22301032,674,PT01M18.00S,4,1610612747,LAL,1630559,Reaves,A. Reaves,-24,10,3,Missed,1,140,134,274,h,MISS Reaves 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,476
+22301032,674,PT01M18.00S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,140,134,274,v,Turner BLOCK (2 BLK),,,1,2,477
+22301032,676,PT01M17.00S,4,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,140,134,274,v,Haliburton REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,478
+22301032,677,PT01M17.00S,4,1610612747,LAL,203076,Davis,A. Davis,0,0,0,,0,140,134,274,h,Davis P.FOUL (P4.T4) (G.Petraitis),Foul,Personal,1,0,479
+22301032,679,PT01M11.00S,4,1610612754,IND,1630169,Haliburton,T. Haliburton,0,0,0,,0,140,134,274,v,Haliburton Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,480
+22301032,679,PT01M11.00S,4,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,140,134,274,h,Dinwiddie STEAL (1 STL),,,1,0,481
+22301032,681,PT00M55.70S,4,1610612747,LAL,203076,Davis,A. Davis,-18,60,6,Made,1,142,134,276,h,Davis 6' Driving Floating Jump Shot (36 PTS),Made Shot,Driving Floating Jump Shot,1,2,482
+22301032,682,PT00M55.70S,4,0,,1610612754,,,0,0,0,,0,142,134,276,v,Pacers Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,483
+22301032,683,PT00M50.70S,4,1610612754,IND,1627783,Siakam,P. Siakam,44,44,6,Missed,1,142,134,276,v,MISS Siakam 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,484
+22301032,683,PT00M50.70S,4,1610612747,LAL,2544,James,L. James,0,0,0,,0,142,134,276,h,James BLOCK (1 BLK),,,1,2,485
+22301032,685,PT00M50.70S,4,0,,1610612754,,,0,0,0,,0,142,134,276,v,Pacers Rebound,Rebound,Unknown,0,0,486
+22301032,687,PT00M45.70S,4,1610612754,IND,1629614,Nembhard,A. Nembhard,13,13,2,Made,1,142,136,278,v,Nembhard 2' Driving Layup (15 PTS) (Nesmith 4 AST),Made Shot,Driving Layup Shot,1,2,487
+22301032,689,PT00M45.70S,4,0,,1610612747,,,0,0,0,,0,142,136,278,h,LAKERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,488
+22301032,690,PT00M45.70S,4,1610612754,IND,1630174,Nesmith,A. Nesmith,0,0,0,,0,142,136,278,v,SUB: Toppin FOR Nesmith,Substitution,,0,0,489
+22301032,691,PT00M45.70S,4,1610612754,IND,1626167,Turner,M. Turner,0,0,0,,0,142,136,278,v,SUB: Sheppard FOR Turner,Substitution,,0,0,490
+22301032,694,PT00M43.80S,4,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,142,136,278,v,Toppin Personal Take Foul (P3.T3) (M.Davis),Foul,Personal Take,1,0,491
+22301032,696,PT00M42.90S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,142,136,278,v,Sheppard Personal Take Foul (P4.PN) (M.Davis),Foul,Personal Take,1,0,492
+22301032,698,PT00M42.90S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,143,136,279,h,Reaves Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,493
+22301032,699,PT00M42.90S,4,1610612754,IND,1641767,Sheppard,B. Sheppard,0,0,0,,0,143,136,279,v,SUB: McDermott FOR Sheppard,Substitution,,0,0,494
+22301032,701,PT00M42.90S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,144,136,280,h,Reaves Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,495
+22301032,702,PT00M37.50S,4,1610612754,IND,1630167,Toppin,O. Toppin,-105,236,26,Made,1,144,139,283,v,Toppin 26' 3PT Jump Shot (11 PTS) (Haliburton 10 AST),Made Shot,Jump Shot,1,3,496
+22301032,704,PT00M33.80S,4,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,144,139,283,v,Nembhard P.FOUL (P3.PN) (M.Myers),Foul,Personal,1,0,497
+22301032,706,PT00M33.80S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,145,139,284,h,Reaves Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,1,0,498
+22301032,707,PT00M33.80S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,146,139,285,h,Reaves Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,499
+22301032,708,PT00M28.50S,4,1610612754,IND,1630169,Haliburton,T. Haliburton,-161,210,26,Made,1,146,142,288,v,Haliburton 26' 3PT Pullup Jump Shot (9 PTS) (Nembhard 4 AST),Made Shot,Pullup Jump shot,1,3,500
+22301032,710,PT00M26.70S,4,1610612754,IND,1629614,Nembhard,A. Nembhard,0,0,0,,0,146,142,288,v,Nembhard P.FOUL (P4.PN) (M.Myers),Foul,Personal,1,0,501
+22301032,712,PT00M26.70S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,147,142,289,h,Reaves Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,1,0,502
+22301032,713,PT00M26.70S,4,1610612747,LAL,1630559,Reaves,A. Reaves,0,0,0,,0,148,142,290,h,Reaves Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,1,0,503
+22301032,714,PT00M21.60S,4,1610612754,IND,1630169,Haliburton,T. Haliburton,-134,231,27,Made,1,148,145,293,v,Haliburton 27' 3PT Jump Shot (12 PTS) (Nembhard 5 AST),Made Shot,Jump Shot,1,3,504
+22301032,716,PT00M20.20S,4,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,148,145,293,v,McDermott P.FOUL (P4.PN) (M.Davis),Foul,Personal,1,0,505
+22301032,718,PT00M20.20S,4,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,148,145,293,h,MISS Dinwiddie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,506
+22301032,719,PT00M20.20S,4,0,,1610612747,,,0,0,0,,0,148,145,293,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,507
+22301032,720,PT00M20.20S,4,1610612747,LAL,203915,Dinwiddie,S. Dinwiddie,0,0,0,,0,149,145,294,h,Dinwiddie Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,1,0,508
+22301032,721,PT00M11.50S,4,1610612754,IND,1630169,Haliburton,T. Haliburton,40,316,32,Missed,1,149,145,294,v,MISS Haliburton 32' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,509
+22301032,722,PT00M06.30S,4,1610612754,IND,1627783,Siakam,P. Siakam,0,0,0,,0,149,145,294,v,Siakam REBOUND (Off:4 Def:8),Rebound,Unknown,1,0,510
+22301032,723,PT00M03.30S,4,1610612754,IND,203926,McDermott,D. McDermott,0,0,0,,0,149,145,294,v,McDermott Bad Pass Turnover (P2.T11),Turnover,Bad Pass,1,0,511
+22301032,723,PT00M03.30S,4,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,149,145,294,h,Reddish STEAL (2 STL),,,1,0,512
+22301032,725,PT00M02.90S,4,1610612754,IND,1630167,Toppin,O. Toppin,0,0,0,,0,149,145,294,v,Toppin Personal Take Foul (P4.PN) (G.Petraitis),Foul,Personal Take,1,0,513
+22301032,727,PT00M02.90S,4,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,149,145,294,h,MISS Reddish Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,514
+22301032,728,PT00M02.90S,4,0,,1610612747,,,0,0,0,,0,149,145,294,h,LAKERS Rebound,Rebound,Normal Rebound,0,0,515
+22301032,729,PT00M02.90S,4,1610612747,LAL,1629629,Reddish,C. Reddish,0,0,0,,0,150,145,295,h,Reddish Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,516
+22301032,730,PT00M00.20S,4,1610612754,IND,1630169,Haliburton,T. Haliburton,-2,402,40,Missed,1,150,145,295,v,MISS Haliburton 40' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,517
+22301032,731,PT00M00.10S,4,0,,1610612754,,,0,0,0,,0,150,145,295,v,Pacers Rebound,Rebound,Unknown,0,0,518
+22301032,732,PT00M00.00S,4,0,,0,,,0,0,0,,0,150,145,295,,End of 4th Period (12:31 AM EST),period,end,1,0,519

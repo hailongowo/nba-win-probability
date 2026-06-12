@@ -1,0 +1,465 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22300528,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (7:36 PM EST),period,start,0,0,1
+22300528,4,PT12M00.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,0,0,0,h,Jump Ball B. Lopez vs. Porzingis: Tip to White,Jump Ball,,1,0,2
+22300528,7,PT11M49.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,93,237,25,Missed,1,0,0,0,v,MISS Holiday 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,3
+22300528,8,PT11M46.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,0,0,0,h,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22300528,9,PT11M39.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,0,0,0,h,G. Antetokounmpo Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1,0,5
+22300528,9,PT11M39.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,0,0,0,v,Porzingis STEAL (1 STL),,,1,0,6
+22300528,11,PT11M25.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-23,83,9,Missed,1,0,0,0,v,MISS Brown 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,7
+22300528,12,PT11M22.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,0,0,0,h,Middleton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,8
+22300528,13,PT11M19.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,121,241,27,Made,1,3,0,3,h,Lillard 27' 3PT Step Back Jump Shot (3 PTS) (Middleton 1 AST),Made Shot,Step Back Jump shot,1,3,9
+22300528,15,PT11M08.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-48,50,7,Missed,1,3,0,3,v,MISS Porzingis 7' Hook Bank Shot,Missed Shot,Hook Bank Shot,1,2,10
+22300528,16,PT11M04.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,3,0,3,h,G. Antetokounmpo REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,11
+22300528,17,PT11M00.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-4,25,3,Made,1,5,0,5,h,G. Antetokounmpo 3' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,2,12
+22300528,18,PT10M42.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-26,102,11,Made,1,5,2,7,v,Brown 11' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,13
+22300528,19,PT10M29.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,-129,241,27,Made,1,8,2,10,h,Lillard 27' 3PT Jump Shot (6 PTS) (Middleton 2 AST),Made Shot,Jump Shot,1,3,14
+22300528,22,PT10M06.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-185,204,28,Missed,1,8,2,10,v,MISS Porzingis 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,15
+22300528,23,PT10M02.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,8,2,10,h,G. Antetokounmpo REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,16
+22300528,24,PT09M59.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,31,3,Made,1,10,2,12,h,G. Antetokounmpo 3' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,2,17
+22300528,25,PT09M59.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,10,2,12,v,Porzingis S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,1,0,18
+22300528,27,PT09M59.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,11,2,13,h,G. Antetokounmpo Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,1,0,19
+22300528,28,PT09M45.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,11,2,13,h,Lillard S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,1,0,20
+22300528,30,PT09M45.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,11,3,14,v,Tatum Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,21
+22300528,31,PT09M45.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,11,4,15,v,Tatum Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,22
+22300528,32,PT09M26.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-34,34,5,Missed,1,11,4,15,h,MISS G. Antetokounmpo 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,23
+22300528,33,PT09M23.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,11,4,15,v,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,24
+22300528,34,PT09M21.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,1,20,2,Made,1,11,6,17,v,Porzingis 2' Running Dunk (2 PTS) (Brown 1 AST),Made Shot,Running Dunk Shot,1,2,25
+22300528,36,PT09M08.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,-5,9,1,Made,1,13,6,19,h,Lillard 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,26
+22300528,37,PT08M55.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-1,13,1,Made,1,13,8,21,v,Porzingis 1' Cutting Dunk Shot (4 PTS) (Tatum 1 AST),Made Shot,Cutting Dunk Shot,1,2,27
+22300528,39,PT08M46.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,71,299,31,Missed,1,13,8,21,h,MISS Lillard 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,28
+22300528,40,PT08M43.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,13,8,21,v,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,29
+22300528,41,PT08M32.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,13,8,21,h,G. Antetokounmpo S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,1,0,30
+22300528,43,PT08M32.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,13,9,22,v,Holiday Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,31
+22300528,44,PT08M32.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,13,10,23,v,Holiday Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,32
+22300528,45,PT08M20.00S,1,1610612749,MIL,1627736,Beasley,M. Beasley,-86,59,10,Made,1,15,10,25,h,Beasley 10' Driving Floating Bank Jump Shot (2 PTS) (Lillard 1 AST),Made Shot,Driving Floating Bank Jump Shot,1,2,33
+22300528,47,PT08M08.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,72,115,14,Made,1,15,12,27,v,Tatum 14' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,1,2,34
+22300528,48,PT08M00.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,15,12,27,v,Holiday S.FOUL (P1.T2) (M.Myers),Foul,Shooting,1,0,35
+22300528,50,PT08M00.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,15,12,27,h,MISS B. Lopez Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,36
+22300528,51,PT08M00.00S,1,0,,1610612749,,,0,0,0,,0,15,12,27,h,BUCKS Rebound,Rebound,Normal Rebound,1,0,37
+22300528,52,PT08M00.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,16,12,28,h,B. Lopez Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,38
+22300528,53,PT07M39.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-27,86,9,Missed,1,16,12,28,v,MISS Tatum 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,39
+22300528,53,PT07M39.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,16,12,28,h,B. Lopez BLOCK (1 BLK),,,1,2,40
+22300528,54,PT07M39.00S,1,0,,1610612749,,,0,0,0,,0,16,12,28,h,BUCKS Rebound,Rebound,Unknown,1,0,41
+22300528,56,PT07M29.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,148,230,27,Made,1,19,12,31,h,B. Lopez 27' 3PT Jump Shot (4 PTS) (Lillard 2 AST),Made Shot,Jump Shot,1,3,42
+22300528,58,PT07M28.00S,1,0,,1610612738,,,0,0,0,,0,19,12,31,v,Celtics Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,43
+22300528,60,PT07M06.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,19,12,31,v,Porzingis Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,44
+22300528,60,PT07M06.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,19,12,31,h,Middleton STEAL (1 STL),,,1,0,45
+22300528,62,PT06M56.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,234,48,24,Missed,1,19,12,31,h,MISS Middleton 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,46
+22300528,63,PT06M53.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,19,12,31,v,Porzingis REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,47
+22300528,64,PT06M45.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,-110,65,13,Missed,1,19,12,31,v,MISS Tatum 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,48
+22300528,65,PT06M42.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,19,12,31,h,G. Antetokounmpo REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,49
+22300528,66,PT06M35.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,-112,261,28,Missed,1,19,12,31,h,MISS Lillard 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,50
+22300528,67,PT06M32.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,19,12,31,v,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,51
+22300528,68,PT06M23.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-105,139,17,Missed,1,19,12,31,v,MISS Brown 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,52
+22300528,69,PT06M20.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,19,12,31,v,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,53
+22300528,70,PT06M15.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-197,185,27,Missed,1,19,12,31,v,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,54
+22300528,71,PT06M12.00S,1,0,,1610612738,,,0,0,0,,0,19,12,31,v,Celtics Rebound,Rebound,Unknown,1,0,55
+22300528,73,PT06M12.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,19,12,31,h,SUB: Portis FOR G. Antetokounmpo,Substitution,,0,0,56
+22300528,74,PT06M12.00S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,19,12,31,v,SUB: Brissett FOR Tatum,Substitution,,0,0,57
+22300528,75,PT06M12.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,19,12,31,v,SUB: Hauser FOR Holiday,Substitution,,0,0,58
+22300528,79,PT06M06.00S,1,1610612738,BOS,1627759,Brown,J. Brown,49,134,14,Missed,1,19,12,31,v,MISS Brown 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,59
+22300528,80,PT06M03.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,19,12,31,v,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,60
+22300528,81,PT06M01.00S,1,1610612738,BOS,1630573,Hauser,S. Hauser,-165,190,25,Made,1,19,15,34,v,Hauser 25' 3PT Jump Shot (3 PTS) (Brown 2 AST),Made Shot,Jump Shot,1,3,61
+22300528,83,PT05M47.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,-53,31,6,Made,1,21,15,36,h,Middleton 6' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,1,2,62
+22300528,84,PT05M33.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,70,259,27,Missed,1,21,15,36,v,MISS Porzingis 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,63
+22300528,85,PT05M30.00S,1,1610612749,MIL,1627736,Beasley,M. Beasley,0,0,0,,0,21,15,36,h,Beasley REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,64
+22300528,86,PT05M21.00S,1,1610612749,MIL,1626171,Portis,B. Portis,-44,99,11,Missed,1,21,15,36,h,MISS Portis 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,65
+22300528,87,PT05M18.00S,1,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,21,15,36,v,Hauser REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,66
+22300528,88,PT05M10.00S,1,1610612738,BOS,1628401,White,D. White,50,130,14,Missed,1,21,15,36,v,MISS White 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,67
+22300528,89,PT05M08.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,21,15,36,v,Porzingis REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,68
+22300528,90,PT05M08.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,Made,1,21,17,38,v,Porzingis Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,1,2,69
+22300528,91,PT04M59.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,-4,38,4,Missed,1,21,17,38,h,MISS Lillard 4' Driving Layup,Missed Shot,Driving Layup Shot,1,2,70
+22300528,91,PT04M59.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,21,17,38,v,Porzingis BLOCK (1 BLK),,,1,2,71
+22300528,93,PT04M57.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,21,17,38,h,Portis REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,72
+22300528,94,PT04M57.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,Made,1,23,17,40,h,Portis Putback Layup (2 PTS),Made Shot,Putback Layup Shot,1,2,73
+22300528,95,PT04M36.00S,1,1610612738,BOS,1627759,Brown,J. Brown,-88,138,16,Missed,1,23,17,40,v,MISS Brown 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,74
+22300528,96,PT04M35.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,23,17,40,h,Portis REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,75
+22300528,97,PT04M28.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,23,17,40,v,Brown S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,1,0,76
+22300528,99,PT04M28.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,24,17,41,h,Lillard Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,77
+22300528,100,PT04M28.00S,1,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,24,17,41,h,SUB: Connaughton FOR Middleton,Substitution,,0,0,78
+22300528,102,PT04M28.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,25,17,42,h,Lillard Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,79
+22300528,103,PT04M14.00S,1,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-75,94,12,Missed,1,25,17,42,v,MISS Porzingis 12' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,80
+22300528,104,PT04M10.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,25,17,42,h,Portis REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,81
+22300528,105,PT04M09.00S,1,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,25,17,42,v,Hauser S.FOUL (P1.T4) (M.Myers),Foul,Shooting,1,0,82
+22300528,107,PT04M09.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,25,17,42,h,MISS Portis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,83
+22300528,108,PT04M09.00S,1,0,,1610612749,,,0,0,0,,0,25,17,42,h,BUCKS Rebound,Rebound,Normal Rebound,0,0,84
+22300528,109,PT04M09.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,26,17,43,h,Portis Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,1,0,85
+22300528,110,PT03M54.00S,1,1610612738,BOS,1628401,White,D. White,125,220,25,Missed,1,26,17,43,v,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,86
+22300528,111,PT03M50.00S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,26,17,43,h,Portis REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,87
+22300528,112,PT03M33.00S,1,1610612749,MIL,1627736,Beasley,M. Beasley,-110,247,27,Made,1,29,17,46,h,Beasley 27' 3PT Jump Shot (5 PTS) (Lillard 3 AST),Made Shot,Jump Shot,1,3,88
+22300528,114,PT03M11.00S,1,1610612738,BOS,1627759,Brown,J. Brown,5,5,1,Made,1,29,19,48,v,Brown 1' Cutting Dunk Shot (4 PTS) (Porzingis 1 AST),Made Shot,Cutting Dunk Shot,1,2,89
+22300528,116,PT02M55.00S,1,1610612749,MIL,1626171,Portis,B. Portis,-121,117,17,Missed,1,29,19,48,h,MISS Portis 17' Jump Shot,Missed Shot,Jump Shot,1,2,90
+22300528,117,PT02M51.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,29,19,48,v,Brissett REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,91
+22300528,118,PT02M37.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,0,13,1,Made,1,29,21,50,v,Brissett 1' Driving Dunk (2 PTS) (Porzingis 2 AST),Made Shot,Driving Dunk Shot,1,2,92
+22300528,120,PT02M37.00S,1,0,,1610612749,,,0,0,0,,0,29,21,50,h,BUCKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,93
+22300528,121,PT02M37.00S,1,1610612749,MIL,1627736,Beasley,M. Beasley,0,0,0,,0,29,21,50,h,SUB: G. Antetokounmpo FOR Beasley,Substitution,,0,0,94
+22300528,122,PT02M37.00S,1,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,29,21,50,h,SUB: Jackson Jr. FOR B. Lopez,Substitution,,0,0,95
+22300528,123,PT02M37.00S,1,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,29,21,50,v,SUB: Tatum FOR Brown,Substitution,,0,0,96
+22300528,124,PT02M37.00S,1,1610612738,BOS,1628401,White,D. White,0,0,0,,0,29,21,50,v,SUB: Holiday FOR White,Substitution,,0,0,97
+22300528,129,PT02M26.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,49,92,10,Made,1,31,21,52,h,G. Antetokounmpo 10' Turnaround Hook Shot (7 PTS) (Jackson Jr. 1 AST),Made Shot,Turnaround Hook Shot,1,2,98
+22300528,130,PT02M14.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,-1,10,1,Made,1,31,23,54,v,Brissett 1' Cutting Dunk Shot (4 PTS) (Tatum 2 AST),Made Shot,Cutting Dunk Shot,1,2,99
+22300528,132,PT01M54.00S,1,1610612749,MIL,1626171,Portis,B. Portis,-229,45,0,Made,1,34,23,57,h,Portis 3PT Jump Shot (6 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,1,3,100
+22300528,134,PT01M34.00S,1,1610612738,BOS,201950,Holiday,J. Holiday,-88,139,16,Missed,1,34,23,57,v,MISS Holiday 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,101
+22300528,135,PT01M30.00S,1,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,34,23,57,h,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,102
+22300528,136,PT01M25.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,20,50,5,Missed,1,34,23,57,h,MISS G. Antetokounmpo 5' Running Layup,Missed Shot,Running Layup Shot,1,2,103
+22300528,137,PT01M21.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,34,23,57,h,G. Antetokounmpo REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,104
+22300528,138,PT01M21.00S,1,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,Made,1,36,23,59,h,G. Antetokounmpo Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,1,2,105
+22300528,139,PT01M10.00S,1,1610612738,BOS,1629052,Brissett,O. Brissett,228,44,0,Missed,1,36,23,59,v,MISS Brissett 3PT Jump Shot,Missed Shot,Jump Shot,1,3,106
+22300528,140,PT01M06.00S,1,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,36,23,59,h,Jackson Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,107
+22300528,141,PT00M46.40S,1,1610612749,MIL,1626171,Portis,B. Portis,-226,76,24,Made,1,39,23,62,h,Portis 24' 3PT Pullup Jump Shot (9 PTS) (G. Antetokounmpo 2 AST),Made Shot,Pullup Jump shot,1,3,108
+22300528,143,PT00M27.20S,1,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,39,23,62,v,Tatum Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1,0,109
+22300528,143,PT00M27.20S,1,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,39,23,62,h,Portis STEAL (1 STL),,,1,0,110
+22300528,145,PT00M23.60S,1,1610612749,MIL,1626171,Portis,B. Portis,-2,27,3,Made,1,41,23,64,h,Portis 3' Running Layup (11 PTS),Made Shot,Running Layup Shot,1,2,111
+22300528,146,PT00M03.70S,1,1610612738,BOS,1628369,Tatum,J. Tatum,113,235,26,Missed,1,41,23,64,v,MISS Tatum 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,112
+22300528,147,PT00M01.70S,1,0,,1610612738,,,0,0,0,,0,41,23,64,v,Celtics Rebound,Rebound,Unknown,0,0,113
+22300528,148,PT00M00.00S,1,0,,0,,,0,0,0,,0,41,23,64,,End of 1st Period (8:01 PM EST),period,end,1,0,114
+22300528,156,PT12M00.00S,2,0,,0,,,0,0,0,,0,41,23,64,,Start of 2nd Period (8:05 PM EST),period,start,0,0,115
+22300528,157,PT11M36.00S,2,0,,1610612749,,,0,0,0,,0,41,23,64,h,BUCKS Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,0,0,116
+22300528,158,PT11M21.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,-208,178,27,Missed,1,41,23,64,v,MISS Holiday 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,117
+22300528,159,PT11M16.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,41,23,64,v,Hauser REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,118
+22300528,160,PT11M16.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,41,23,64,v,Hauser Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,1,0,119
+22300528,161,PT10M58.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,48,122,13,Made,1,43,23,66,h,G. Antetokounmpo 13' Fadeaway Jumper (11 PTS) (Middleton 3 AST),Made Shot,Fadeaway Jump Shot,1,2,120
+22300528,163,PT10M41.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,228,1,0,Missed,1,43,23,66,v,MISS Pritchard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,121
+22300528,164,PT10M36.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,43,23,66,h,Portis REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,122
+22300528,165,PT10M24.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-54,88,10,Missed,1,43,23,66,h,MISS Middleton 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,123
+22300528,166,PT10M22.00S,2,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,43,23,66,h,Jackson Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,124
+22300528,167,PT10M20.00S,2,1610612749,MIL,1626171,Portis,B. Portis,-121,215,25,Made,1,46,23,69,h,Portis 25' 3PT Jump Shot (14 PTS) (Jackson Jr. 2 AST),Made Shot,Jump Shot,1,3,125
+22300528,169,PT10M07.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,-232,25,0,Missed,1,46,23,69,v,MISS Hauser 3PT Jump Shot,Missed Shot,Jump Shot,1,3,126
+22300528,170,PT10M03.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,46,23,69,h,Portis REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,127
+22300528,171,PT09M54.00S,2,1610612749,MIL,1626171,Portis,B. Portis,138,234,27,Missed,1,46,23,69,h,MISS Portis 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,128
+22300528,172,PT09M51.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,46,23,69,h,G. Antetokounmpo REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,129
+22300528,173,PT09M49.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,179,189,26,Missed,1,46,23,69,h,MISS Middleton 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,130
+22300528,174,PT09M46.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,46,23,69,h,Connaughton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,131
+22300528,175,PT09M43.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,46,23,69,v,Tatum S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,1,0,132
+22300528,177,PT09M43.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,46,23,69,h,MISS G. Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,133
+22300528,178,PT09M43.00S,2,0,,1610612749,,,0,0,0,,0,46,23,69,h,BUCKS Rebound,Rebound,Normal Rebound,1,0,134
+22300528,179,PT09M43.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,47,23,70,h,G. Antetokounmpo Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,135
+22300528,180,PT09M27.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,229,-3,0,Missed,1,47,23,70,v,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,1,3,136
+22300528,181,PT09M23.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,47,23,70,h,Portis REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,137
+22300528,182,PT09M14.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,1,30,3,Made,1,49,23,72,h,G. Antetokounmpo 3' Cutting Dunk Shot (14 PTS) (Middleton 4 AST),Made Shot,Cutting Dunk Shot,1,2,138
+22300528,184,PT09M07.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,-191,188,27,Missed,1,49,23,72,v,MISS Pritchard 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,139
+22300528,185,PT09M02.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,49,23,72,h,Portis REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,140
+22300528,186,PT08M56.00S,2,1610612749,MIL,1626171,Portis,B. Portis,-140,86,16,Made,1,51,23,74,h,Portis 16' Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,1,2,141
+22300528,187,PT08M56.00S,2,0,,1610612738,,,0,0,0,,0,51,23,74,v,Celtics Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,142
+22300528,188,PT08M56.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,51,23,74,h,SUB: Beasley FOR Connaughton,Substitution,,0,0,143
+22300528,189,PT08M56.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,51,23,74,h,SUB: B. Lopez FOR G. Antetokounmpo,Substitution,,0,0,144
+22300528,190,PT08M56.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,51,23,74,v,SUB: Brown FOR Tatum,Substitution,,0,0,145
+22300528,191,PT08M56.00S,2,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,51,23,74,v,SUB: Porzingis FOR Hauser,Substitution,,0,0,146
+22300528,196,PT08M56.00S,2,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,51,23,74,h,SUB: Connaughton FOR Jackson Jr.,Substitution,,0,0,147
+22300528,198,PT08M34.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,66,118,14,Missed,1,51,23,74,v,MISS Holiday 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,148
+22300528,199,PT08M31.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,51,23,74,h,B. Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,149
+22300528,200,PT08M26.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-131,240,27,Made,1,54,23,77,h,Middleton 27' 3PT Running Pull-Up Jump Shot (5 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,150
+22300528,201,PT08M14.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-49,47,7,Missed,1,54,23,77,v,MISS Brown 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,2,151
+22300528,202,PT08M09.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,54,23,77,h,Portis REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,152
+22300528,204,PT08M07.00S,2,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,54,23,77,v,SUB: White FOR Kornet,Substitution,,0,0,153
+22300528,206,PT08M02.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,5,114,11,Made,1,56,23,79,h,B. Lopez 11' Floating Jump Shot (6 PTS) (Middleton 5 AST),Made Shot,Floating Jump shot,1,2,154
+22300528,208,PT07M54.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,56,23,79,h,Middleton P.FOUL (P1.T1) (J.Tiven),Foul,Personal,1,0,155
+22300528,210,PT07M38.00S,2,1610612738,BOS,1627759,Brown,J. Brown,1,7,1,Made,1,56,25,81,v,Brown 1' Cutting Dunk Shot (6 PTS) (Porzingis 3 AST),Made Shot,Cutting Dunk Shot,1,2,156
+22300528,212,PT07M21.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,-15,57,6,Missed,1,56,25,81,h,MISS Middleton 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,157
+22300528,213,PT07M18.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,56,25,81,v,Pritchard REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,158
+22300528,214,PT07M15.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,10,10,1,Made,1,56,27,83,v,Holiday 1' Running Layup (4 PTS) (Brown 3 AST),Made Shot,Running Layup Shot,1,2,159
+22300528,216,PT07M15.00S,2,0,,1610612749,,,0,0,0,,0,56,27,83,h,BUCKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,160
+22300528,217,PT06M57.00S,2,1610612749,MIL,1627736,Beasley,M. Beasley,-197,176,26,Made,1,59,27,86,h,Beasley 26' 3PT Jump Shot (8 PTS) (Middleton 6 AST),Made Shot,Jump Shot,1,3,161
+22300528,219,PT06M44.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,-26,259,26,Missed,1,59,27,86,v,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,162
+22300528,220,PT06M41.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,59,27,86,h,B. Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,163
+22300528,221,PT06M24.00S,2,1610612749,MIL,1627736,Beasley,M. Beasley,22,264,26,Missed,1,59,27,86,h,MISS Beasley 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,164
+22300528,222,PT06M21.00S,2,1610612738,BOS,1627759,Brown,J. Brown,0,0,0,,0,59,27,86,v,Brown REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,165
+22300528,223,PT06M16.00S,2,1610612738,BOS,1627759,Brown,J. Brown,-49,151,16,Made,1,59,29,88,v,Brown 16' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,166
+22300528,224,PT05M55.00S,2,1610612749,MIL,1626171,Portis,B. Portis,17,75,8,Missed,1,59,29,88,h,MISS Portis 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,1,2,167
+22300528,225,PT05M52.00S,2,1610612738,BOS,1628401,White,D. White,0,0,0,,0,59,29,88,v,White REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,168
+22300528,226,PT05M48.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,59,29,88,h,B. Lopez P.FOUL (P1.T2) (M.Myers),Foul,Personal,1,0,169
+22300528,228,PT05M48.00S,2,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,59,29,88,h,SUB: G. Antetokounmpo FOR Portis,Substitution,,0,0,170
+22300528,229,PT05M48.00S,2,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,59,29,88,h,SUB: Lillard FOR Middleton,Substitution,,0,0,171
+22300528,232,PT05M39.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-4,159,16,Missed,1,59,29,88,v,MISS Porzingis 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,172
+22300528,233,PT05M36.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,59,29,88,h,G. Antetokounmpo REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,173
+22300528,234,PT05M25.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,161,201,26,Missed,1,59,29,88,h,MISS Lillard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,174
+22300528,235,PT05M22.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,59,29,88,v,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,175
+22300528,236,PT05M16.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,-18,262,26,Missed,1,59,29,88,v,MISS Porzingis 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,176
+22300528,237,PT05M12.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,59,29,88,h,B. Lopez REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,177
+22300528,238,PT05M06.00S,2,1610612749,MIL,1627736,Beasley,M. Beasley,142,231,27,Missed,1,59,29,88,h,MISS Beasley 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,178
+22300528,239,PT05M02.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,59,29,88,v,Pritchard REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,179
+22300528,240,PT04M50.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,59,29,88,v,Holiday Bad Pass Turnover (P1.T4),Turnover,Bad Pass,1,0,180
+22300528,240,PT04M50.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,59,29,88,h,G. Antetokounmpo STEAL (1 STL),,,1,0,181
+22300528,242,PT04M45.00S,2,1610612749,MIL,1627736,Beasley,M. Beasley,-5,8,1,Made,1,61,29,90,h,Beasley 1' Running Finger Roll Layup (10 PTS) (G. Antetokounmpo 3 AST),Made Shot,Running Finger Roll Layup Shot,1,2,182
+22300528,244,PT04M39.00S,2,1610612738,BOS,1627759,Brown,J. Brown,9,17,2,Made,1,61,31,92,v,Brown 2' Driving Layup (10 PTS) (Holiday 1 AST),Made Shot,Driving Layup Shot,1,2,183
+22300528,246,PT04M17.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,260,26,Made,1,64,31,95,h,Lillard 26' 3PT Pullup Jump Shot (13 PTS) (B. Lopez 1 AST),Made Shot,Pullup Jump shot,1,3,184
+22300528,248,PT04M16.00S,2,0,,1610612738,,,0,0,0,,0,64,31,95,v,Celtics Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,185
+22300528,249,PT04M16.00S,2,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,64,31,95,h,SUB: Jackson Jr. FOR Connaughton,Substitution,,0,0,186
+22300528,278,PT04M16.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,64,31,95,v,SUB: Tatum FOR Holiday,Substitution,,0,0,187
+22300528,251,PT03M57.00S,2,1610612738,BOS,1627759,Brown,J. Brown,9,7,1,Missed,1,64,31,95,v,MISS Brown 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,2,188
+22300528,252,PT03M55.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,64,31,95,h,B. Lopez REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,189
+22300528,253,PT03M53.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,64,31,95,h,G. Antetokounmpo Offensive Charge Foul (P2) (M.Myers),Foul,Offensive Charge,1,0,190
+22300528,255,PT03M53.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,64,31,95,h,G. Antetokounmpo Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,1,0,191
+22300528,256,PT03M44.00S,2,1610612738,BOS,1628401,White,D. White,-66,70,10,Missed,1,64,31,95,v,MISS White 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,192
+22300528,257,PT03M41.00S,2,1610612749,MIL,1627736,Beasley,M. Beasley,0,0,0,,0,64,31,95,h,Beasley REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,193
+22300528,259,PT03M25.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,135,23,14,Missed,1,64,31,95,h,MISS G. Antetokounmpo 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,194
+22300528,260,PT03M22.00S,2,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,64,31,95,h,Jackson Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,195
+22300528,261,PT03M21.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,27,287,29,Made,1,67,31,98,h,B. Lopez 29' 3PT Jump Shot (9 PTS) (Jackson Jr. 3 AST),Made Shot,Jump Shot,1,3,196
+22300528,263,PT03M01.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,-232,8,0,Missed,1,67,31,98,v,MISS Pritchard 3PT Jump Shot,Missed Shot,Jump Shot,1,3,197
+22300528,264,PT02M57.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,67,31,98,h,G. Antetokounmpo REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,198
+22300528,265,PT02M44.00S,2,1610612749,MIL,1627736,Beasley,M. Beasley,2,103,10,Missed,1,67,31,98,h,MISS Beasley 10' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,199
+22300528,265,PT02M44.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,67,31,98,v,Pritchard BLOCK (1 BLK),,,1,2,200
+22300528,267,PT02M44.00S,2,1610612749,MIL,1627736,Beasley,M. Beasley,0,0,0,,0,67,31,98,h,Beasley REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,201
+22300528,268,PT02M42.00S,2,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,234,1,0,Missed,1,67,31,98,h,MISS Jackson Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,202
+22300528,269,PT02M41.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,67,31,98,h,G. Antetokounmpo REBOUND (Off:3 Def:5),Rebound,Unknown,1,0,203
+22300528,270,PT02M38.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,Made,1,69,31,100,h,G. Antetokounmpo Putback Dunk (16 PTS),Made Shot,Putback Dunk Shot,1,2,204
+22300528,271,PT02M26.00S,2,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,69,31,100,h,Jackson Jr. P.FOUL (P1.T3) (M.Myers),Foul,Personal,1,0,205
+22300528,308,PT02M26.00S,2,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,69,31,100,v,SUB: Holiday FOR Pritchard,Substitution,,0,0,206
+22300528,273,PT02M20.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-6,23,2,Made,1,69,33,102,v,Tatum 2' Driving Layup (6 PTS) (Porzingis 4 AST),Made Shot,Driving Layup Shot,1,2,207
+22300528,274,PT02M09.00S,2,1610612738,BOS,204001,Porziņģis,K. Porziņģis,0,0,0,,0,69,33,102,v,Porzingis S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,1,0,208
+22300528,276,PT02M09.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,70,33,103,h,Lillard Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,209
+22300528,277,PT02M09.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,71,33,104,h,Lillard Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,210
+22300528,280,PT01M48.00S,2,1610612738,BOS,1627759,Brown,J. Brown,25,23,3,Missed,1,71,33,104,v,MISS Brown 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,211
+22300528,280,PT01M48.00S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,71,33,104,h,G. Antetokounmpo BLOCK (1 BLK),,,1,2,212
+22300528,282,PT01M48.00S,2,0,,1610612738,,,0,0,0,,0,71,33,104,v,Celtics Rebound,Rebound,Unknown,1,0,213
+22300528,284,PT01M43.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,48,131,14,Made,1,71,35,106,v,Holiday 14' Pullup Jump Shot (6 PTS) (Tatum 3 AST),Made Shot,Pullup Jump shot,1,2,214
+22300528,286,PT01M34.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,-2,22,2,Made,1,73,35,108,h,Lillard 2' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,1,2,215
+22300528,287,PT01M25.00S,2,1610612738,BOS,1628401,White,D. White,-62,102,12,Made,1,73,37,110,v,White 12' Pullup Jump Shot (2 PTS) (Holiday 2 AST),Made Shot,Pullup Jump shot,1,2,216
+22300528,288,PT01M16.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,73,37,110,h,B. Lopez OFF.Foul (P2) (J.Van Duyne),Foul,Offensive,1,0,217
+22300528,290,PT01M16.00S,2,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,73,37,110,h,B. Lopez Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,1,0,218
+22300528,291,PT01M03.00S,2,1610612738,BOS,1628369,Tatum,J. Tatum,-11,120,12,Missed,1,73,37,110,v,MISS Tatum 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,219
+22300528,292,PT01M00.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,73,37,110,h,Lillard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,220
+22300528,293,PT00M56.80S,2,1610612749,MIL,203081,Lillard,D. Lillard,121,289,31,Missed,1,73,37,110,h,MISS Lillard 31' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,221
+22300528,294,PT00M52.30S,2,1610612738,BOS,201950,Holiday,J. Holiday,0,0,0,,0,73,37,110,v,Holiday REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,222
+22300528,295,PT00M45.20S,2,1610612738,BOS,1627759,Brown,J. Brown,26,21,3,Missed,1,73,37,110,v,MISS Brown 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,223
+22300528,296,PT00M42.00S,2,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,73,37,110,h,Lillard REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,224
+22300528,297,PT00M40.90S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,73,37,110,v,Tatum P.FOUL (P2.T3) (J.Tiven),Foul,Personal,1,0,225
+22300528,299,PT00M34.40S,2,1610612749,MIL,1627736,Beasley,M. Beasley,-129,225,26,Missed,1,73,37,110,h,MISS Beasley 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,226
+22300528,300,PT00M31.40S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,73,37,110,v,Tatum REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,227
+22300528,301,PT00M28.20S,2,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,73,37,110,h,Jackson Jr. S.FOUL (P2.T4) (J.Tiven),Foul,Shooting,1,0,228
+22300528,303,PT00M28.20S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,73,37,110,v,MISS Tatum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,229
+22300528,304,PT00M28.20S,2,0,,1610612738,,,0,0,0,,0,73,37,110,v,Celtics Rebound,Rebound,Normal Rebound,0,0,230
+22300528,305,PT00M28.20S,2,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,73,37,110,h,SUB: Middleton FOR Jackson Jr.,Substitution,,0,0,231
+22300528,307,PT00M28.20S,2,1610612738,BOS,1628369,Tatum,J. Tatum,0,0,0,,0,73,38,111,v,Tatum Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,1,0,232
+22300528,310,PT00M04.80S,2,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-7,22,2,Made,1,75,38,113,h,G. Antetokounmpo 2' Layup (18 PTS) (Lillard 4 AST),Made Shot,Layup Shot,1,2,233
+22300528,312,PT00M00.00S,2,1610612738,BOS,201950,Holiday,J. Holiday,-71,70,10,Missed,1,75,38,113,v,MISS Holiday 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,234
+22300528,313,PT00M00.00S,2,0,,1610612738,,,0,0,0,,0,75,38,113,v,Celtics Rebound,Rebound,Unknown,0,0,235
+22300528,314,PT00M00.00S,2,0,,0,,,0,0,0,,0,75,38,113,,End of 2nd Period (8:32 PM EST),period,end,1,0,236
+22300528,327,PT12M00.00S,3,0,,0,,,0,0,0,,0,75,38,113,,Start of 3rd Period (8:49 PM EST),period,start,0,0,237
+22300528,328,PT11M45.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,15,27,3,Made,1,77,38,115,h,B. Lopez 3' Driving Finger Roll Layup (11 PTS) (G. Antetokounmpo 4 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,238
+22300528,330,PT11M28.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,125,264,29,Missed,1,77,38,115,v,MISS Pritchard 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,239
+22300528,331,PT11M24.00S,3,1610612749,MIL,1627736,Beasley,M. Beasley,0,0,0,,0,77,38,115,h,Beasley REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,240
+22300528,332,PT11M12.00S,3,1610612738,BOS,1630205,Stevens,L. Stevens,0,0,0,,0,77,38,115,v,Stevens P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,1,0,241
+22300528,334,PT10M56.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,234,5,0,Missed,1,77,38,115,h,MISS Middleton 3PT Jump Shot,Missed Shot,Jump Shot,1,3,242
+22300528,335,PT10M53.00S,3,1610612738,BOS,1630205,Stevens,L. Stevens,0,0,0,,0,77,38,115,v,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,243
+22300528,336,PT10M49.00S,3,1610612738,BOS,1630205,Stevens,L. Stevens,74,117,14,Missed,1,77,38,115,v,MISS Stevens 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,244
+22300528,337,PT10M49.00S,3,0,,1610612738,,,0,0,0,,0,77,38,115,v,Celtics Rebound,Rebound,Unknown,0,0,245
+22300528,338,PT10M49.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,77,38,115,h,Middleton L.B.FOUL (P2.T1) (J.Van Duyne),Foul,Loose Ball,1,0,246
+22300528,340,PT10M34.00S,3,1610612738,BOS,1629004,Mykhailiuk,S. Mykhailiuk,-102,159,19,Missed,1,77,38,115,v,MISS Mykhailiuk 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,247
+22300528,341,PT10M33.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,77,38,115,h,G. Antetokounmpo REBOUND (Off:3 Def:6),Rebound,Unknown,1,0,248
+22300528,342,PT10M27.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,77,38,115,v,Kornet S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,1,0,249
+22300528,344,PT10M27.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,78,38,116,h,G. Antetokounmpo Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,1,0,250
+22300528,345,PT10M27.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,79,38,117,h,G. Antetokounmpo Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,1,0,251
+22300528,346,PT10M11.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,51,268,27,Made,1,79,41,120,v,Hauser 27' 3PT Jump Shot (6 PTS) (Kornet 1 AST),Made Shot,Jump Shot,1,3,252
+22300528,348,PT09M55.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,14,223,22,Made,1,81,41,122,h,Lillard 22' Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,1,2,253
+22300528,349,PT09M47.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,81,41,122,h,BUCKS T.Foul (Def. 3 Sec B. Lopez ) (J.Van Duyne),Foul,Defense 3 Second,1,0,254
+22300528,350,PT09M47.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,81,42,123,v,Hauser Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,1,0,255
+22300528,351,PT09M42.00S,3,1610612738,BOS,1629004,Mykhailiuk,S. Mykhailiuk,-74,241,25,Missed,1,81,42,123,v,MISS Mykhailiuk 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,256
+22300528,352,PT09M42.00S,3,0,,1610612749,,,0,0,0,,0,81,42,123,h,BUCKS Rebound,Rebound,Unknown,1,0,257
+22300528,354,PT09M29.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,4,15,2,Made,1,83,42,125,h,B. Lopez 2' Alley Oop Layup (13 PTS) (Middleton 7 AST),Made Shot,Alley Oop Layup shot,1,2,258
+22300528,356,PT09M20.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,-138,225,26,Missed,1,83,42,125,v,MISS Hauser 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,259
+22300528,357,PT09M15.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,83,42,125,h,Middleton REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,260
+22300528,358,PT09M04.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,75,257,27,Missed,1,83,42,125,h,MISS B. Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,261
+22300528,359,PT09M03.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,83,42,125,h,G. Antetokounmpo REBOUND (Off:4 Def:6),Rebound,Unknown,1,0,262
+22300528,360,PT09M01.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,2,7,1,Made,1,85,42,127,h,G. Antetokounmpo 1' Putback Dunk (22 PTS),Made Shot,Putback Dunk Shot,1,2,263
+22300528,361,PT08M46.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,-127,241,27,Made,1,85,45,130,v,Pritchard 27' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1,3,264
+22300528,362,PT08M33.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,49,206,21,Missed,1,85,45,130,h,MISS Middleton 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,265
+22300528,363,PT08M30.00S,3,1610612738,BOS,1630205,Stevens,L. Stevens,0,0,0,,0,85,45,130,v,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,266
+22300528,364,PT08M25.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,85,45,130,h,B. Lopez S.FOUL (P3.T2) (J.Van Duyne),Foul,Shooting,1,0,267
+22300528,366,PT08M25.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,85,46,131,v,Pritchard Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,268
+22300528,367,PT08M25.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,85,47,132,v,Pritchard Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,269
+22300528,368,PT08M01.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,-227,-8,0,Missed,1,85,47,132,h,MISS B. Lopez 3PT Jump Shot,Missed Shot,Jump Shot,1,3,270
+22300528,369,PT07M58.00S,3,1610612738,BOS,1630205,Stevens,L. Stevens,0,0,0,,0,85,47,132,v,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,271
+22300528,370,PT07M54.00S,3,1610612738,BOS,1629004,Mykhailiuk,S. Mykhailiuk,120,243,27,Made,1,85,50,135,v,Mykhailiuk 27' 3PT Running Jump Shot (3 PTS) (Pritchard 1 AST),Made Shot,Running Jump Shot,1,3,272
+22300528,372,PT07M54.00S,3,0,,1610612749,,,0,0,0,,0,85,50,135,h,BUCKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,273
+22300528,373,PT07M38.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,2,8,1,Made,1,87,50,137,h,B. Lopez 1' Alley Oop Dunk (15 PTS) (G. Antetokounmpo 5 AST),Made Shot,Alley Oop Dunk Shot,1,2,274
+22300528,375,PT07M25.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,87,50,137,v,Pritchard Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,1,0,275
+22300528,376,PT07M10.00S,3,1610612749,MIL,1627736,Beasley,M. Beasley,-191,164,25,Made,1,90,50,140,h,Beasley 25' 3PT Jump Shot (13 PTS) (G. Antetokounmpo 6 AST),Made Shot,Jump Shot,1,3,276
+22300528,378,PT06M57.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,90,50,140,h,BUCKS T.Foul (Def. 3 Sec B. Lopez ) (M.Myers),Foul,Defense 3 Second,1,0,277
+22300528,379,PT06M57.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,90,51,141,v,Hauser Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,0,0,278
+22300528,380,PT06M45.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,-58,248,25,Missed,1,90,51,141,v,MISS Pritchard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,279
+22300528,381,PT06M41.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,90,51,141,h,G. Antetokounmpo REBOUND (Off:4 Def:7),Rebound,Unknown,1,0,280
+22300528,382,PT06M30.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,-206,179,27,Missed,1,90,51,141,h,MISS Middleton 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,281
+22300528,383,PT06M28.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,90,51,141,h,B. Lopez REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,282
+22300528,384,PT06M25.00S,3,1610612749,MIL,1627736,Beasley,M. Beasley,125,222,25,Made,1,93,51,144,h,Beasley 25' 3PT Jump Shot (16 PTS) (B. Lopez 2 AST),Made Shot,Jump Shot,1,3,283
+22300528,386,PT06M08.00S,3,1610612738,BOS,1629004,Mykhailiuk,S. Mykhailiuk,-118,11,12,Made,1,93,53,146,v,Mykhailiuk 12' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,1,2,284
+22300528,387,PT05M57.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,93,53,146,h,G. Antetokounmpo Palming Turnover (P3.T5),Turnover,Palming Turnover,1,0,285
+22300528,388,PT05M57.00S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,93,53,146,h,SUB: Connaughton FOR B. Lopez,Substitution,,0,0,286
+22300528,389,PT05M57.00S,3,1610612749,MIL,203114,Middleton,K. Middleton,0,0,0,,0,93,53,146,h,SUB: Portis FOR Middleton,Substitution,,0,0,287
+22300528,392,PT05M57.00S,3,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,93,53,146,v,SUB: Brissett FOR Hauser,Substitution,,0,0,288
+22300528,393,PT05M57.00S,3,1610612738,BOS,1628436,Kornet,L. Kornet,0,0,0,,0,93,53,146,v,SUB: Banton FOR Kornet,Substitution,,0,0,289
+22300528,394,PT05M57.00S,3,1610612738,BOS,1630205,Stevens,L. Stevens,0,0,0,,0,93,53,146,v,SUB: Queta FOR Stevens,Substitution,,0,0,290
+22300528,398,PT05M38.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,-121,235,26,Missed,1,93,53,146,v,MISS Brissett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,291
+22300528,399,PT05M35.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,93,53,146,h,Portis REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,292
+22300528,400,PT05M31.00S,3,1610612738,BOS,1630625,Banton,D. Banton,0,0,0,,0,93,53,146,v,Banton S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,1,0,293
+22300528,402,PT05M31.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,94,53,147,h,Lillard Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,294
+22300528,403,PT05M31.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,95,53,148,h,Lillard Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,1,0,295
+22300528,404,PT05M13.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,-4,22,2,Made,1,95,55,150,v,Brissett 2' Driving Hook Shot (6 PTS) (Pritchard 2 AST),Made Shot,Driving Hook Shot,1,2,296
+22300528,405,PT05M13.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,95,55,150,h,G. Antetokounmpo Violation:Defensive Goaltending (M.Myers),Violation,Defensive Goaltending,1,0,297
+22300528,406,PT04M56.00S,3,1610612749,MIL,1626171,Portis,B. Portis,232,8,0,Made,1,98,55,153,h,Portis 3PT Jump Shot (19 PTS) (Connaughton 1 AST),Made Shot,Jump Shot,1,3,298
+22300528,408,PT04M47.00S,3,1610612738,BOS,1629004,Mykhailiuk,S. Mykhailiuk,-151,218,27,Made,1,98,58,156,v,Mykhailiuk 27' 3PT Jump Shot (8 PTS) (Pritchard 3 AST),Made Shot,Jump Shot,1,3,299
+22300528,410,PT04M34.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,98,58,156,h,G. Antetokounmpo Lost Ball Turnover (P4.T6),Turnover,Lost Ball,1,0,300
+22300528,410,PT04M34.00S,3,1610612738,BOS,1630625,Banton,D. Banton,0,0,0,,0,98,58,156,v,Banton STEAL (1 STL),,,1,0,301
+22300528,412,PT04M31.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,98,58,156,h,Connaughton S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,1,0,302
+22300528,414,PT04M31.00S,3,1610612738,BOS,1630625,Banton,D. Banton,0,0,0,,0,98,58,156,v,MISS Banton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,303
+22300528,415,PT04M31.00S,3,0,,1610612738,,,0,0,0,,0,98,58,156,v,Celtics Rebound,Rebound,Normal Rebound,0,0,304
+22300528,416,PT04M31.00S,3,1610612738,BOS,1630625,Banton,D. Banton,0,0,0,,0,98,59,157,v,Banton Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,305
+22300528,417,PT04M11.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,-12,6,1,Made,1,100,59,159,h,G. Antetokounmpo 1' Reverse Layup (24 PTS) (Connaughton 2 AST),Made Shot,Reverse Layup Shot,1,2,306
+22300528,419,PT04M01.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,114,236,26,Missed,1,100,59,159,v,MISS Brissett 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,307
+22300528,420,PT04M01.00S,3,0,,1610612749,,,0,0,0,,0,100,59,159,h,BUCKS Rebound,Rebound,Unknown,1,0,308
+22300528,422,PT03M48.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,-94,249,27,Missed,1,100,59,159,h,MISS Lillard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,309
+22300528,423,PT03M43.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,100,59,159,h,G. Antetokounmpo REBOUND (Off:5 Def:7),Rebound,Unknown,1,0,310
+22300528,425,PT03M37.00S,3,1610612749,MIL,203507,Antetokounmpo,G. Antetokounmpo,0,0,0,,0,100,59,159,h,SUB: B. Lopez FOR G. Antetokounmpo,Substitution,,0,0,311
+22300528,427,PT03M29.00S,3,1610612749,MIL,1627736,Beasley,M. Beasley,-135,231,27,Missed,1,100,59,159,h,MISS Beasley 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,312
+22300528,428,PT03M26.00S,3,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,100,59,159,v,Queta REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,313
+22300528,429,PT03M13.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,-11,29,3,Made,1,100,61,161,v,Pritchard 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,1,2,314
+22300528,430,PT03M13.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,100,61,161,h,Connaughton S.FOUL (P2.T4) (M.Myers),Foul,Shooting,1,0,315
+22300528,433,PT03M13.00S,3,1610612749,MIL,1627736,Beasley,M. Beasley,0,0,0,,0,100,61,161,h,SUB: Jackson Jr. FOR Beasley,Substitution,,0,0,316
+22300528,435,PT03M13.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,100,62,162,v,Pritchard Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,317
+22300528,436,PT02M59.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,100,62,162,v,Pritchard P.FOUL (P1.T4) (J.Tiven),Foul,Personal,1,0,318
+22300528,438,PT02M59.00S,3,0,,1610612738,,,0,0,0,,0,100,62,162,v,Celtics Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,319
+22300528,439,PT02M59.00S,3,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,100,62,162,v,SUB: Hauser FOR Pritchard,Substitution,,0,0,320
+22300528,441,PT02M51.00S,3,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,227,-3,0,Missed,1,100,62,162,h,MISS Jackson Jr. 3PT Jump Shot,Missed Shot,Jump Shot,1,3,321
+22300528,442,PT02M50.00S,3,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,100,62,162,v,Queta REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,322
+22300528,443,PT02M45.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,100,62,162,h,Connaughton S.FOUL (P3.PN) (J.Van Duyne),Foul,Shooting,1,0,323
+22300528,445,PT02M45.00S,3,1610612738,BOS,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,100,63,163,v,Mykhailiuk Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,1,0,324
+22300528,446,PT02M45.00S,3,1610612749,MIL,203081,Lillard,D. Lillard,0,0,0,,0,100,63,163,h,SUB: Payne FOR Lillard,Substitution,,0,0,325
+22300528,448,PT02M45.00S,3,1610612738,BOS,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,100,63,163,v,MISS Mykhailiuk Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,326
+22300528,449,PT02M42.00S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,100,63,163,h,Portis REBOUND (Off:1 Def:10),Rebound,Unknown,1,0,327
+22300528,450,PT02M27.00S,3,1610612749,MIL,1626192,Connaughton,P. Connaughton,-69,48,8,Made,1,102,63,165,h,Connaughton 8' Driving Floating Jump Shot (2 PTS) (B. Lopez 3 AST),Made Shot,Driving Floating Jump Shot,1,2,328
+22300528,451,PT02M17.00S,3,1610612738,BOS,1630625,Banton,D. Banton,15,57,6,Missed,1,102,63,165,v,MISS Banton 6' Driving Layup,Missed Shot,Driving Layup Shot,1,2,329
+22300528,452,PT02M16.00S,3,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,102,63,165,v,Queta REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,330
+22300528,453,PT02M16.00S,3,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,Made,1,102,65,167,v,Queta Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,331
+22300528,454,PT01M55.00S,3,1610612749,MIL,1626171,Portis,B. Portis,-66,64,9,Made,1,104,65,169,h,Portis 9' Driving Floating Bank Jump Shot (21 PTS),Made Shot,Driving Floating Bank Jump Shot,1,2,332
+22300528,455,PT01M46.00S,3,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,104,65,169,v,Queta OFF.Foul (P1) (J.Tiven),Foul,Offensive,1,0,333
+22300528,457,PT01M46.00S,3,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,104,65,169,v,Queta Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,1,0,334
+22300528,458,PT01M35.00S,3,1610612749,MIL,1626171,Portis,B. Portis,-151,12,15,Made,1,106,65,171,h,Portis 15' Turnaround Fadeaway (23 PTS) (Payne 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,335
+22300528,460,PT01M21.00S,3,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,106,65,171,h,Jackson Jr. P.FOUL (P3.PN) (J.Tiven),Foul,Personal,1,0,336
+22300528,463,PT01M21.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,106,66,172,v,Brissett Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,1,0,337
+22300528,464,PT01M21.00S,3,1610612738,BOS,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,106,66,172,v,SUB: Stevens FOR Mykhailiuk,Substitution,,0,0,338
+22300528,466,PT01M21.00S,3,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,106,67,173,v,Brissett Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,1,0,339
+22300528,467,PT01M06.00S,3,1610612749,MIL,1626166,Payne,C. Payne,92,249,27,Made,1,109,67,176,h,Payne 27' 3PT Jump Shot (3 PTS) (Jackson Jr. 4 AST),Made Shot,Jump Shot,1,3,340
+22300528,469,PT00M55.70S,3,1610612738,BOS,1630573,Hauser,S. Hauser,-145,219,26,Made,1,109,70,179,v,Hauser 26' 3PT Jump Shot (11 PTS) (Banton 1 AST),Made Shot,Jump Shot,1,3,341
+22300528,471,PT00M34.30S,3,1610612749,MIL,1626171,Portis,B. Portis,125,91,15,Made,1,111,70,181,h,Portis 15' Turnaround Fadeaway (25 PTS) (Connaughton 3 AST),Made Shot,Turnaround Fadeaway shot,1,2,342
+22300528,525,PT00M29.20S,3,1610612738,BOS,1629674,Queta,N. Queta,-33,18,4,Missed,1,111,70,181,v,MISS Queta 4' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,1,2,343
+22300528,525,PT00M29.20S,3,1610612749,MIL,201572,Lopez,B. Lopez,0,0,0,,0,111,70,181,h,B. Lopez BLOCK (2 BLK),,,1,2,344
+22300528,527,PT00M29.20S,3,0,,1610612738,,,0,0,0,,0,111,70,181,v,Celtics Rebound,Rebound,Unknown,0,0,345
+22300528,473,PT00M23.10S,3,1610612738,BOS,1630205,Stevens,L. Stevens,-125,110,17,Missed,1,111,70,181,v,MISS Stevens 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,346
+22300528,474,PT00M20.30S,3,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,111,70,181,h,Portis REBOUND (Off:1 Def:11),Rebound,Unknown,1,0,347
+22300528,475,PT00M00.00S,3,0,,0,,,0,0,0,,0,111,70,181,,End of 3rd Period (9:17 PM EST),period,end,1,0,348
+22300528,481,PT12M00.00S,4,0,,0,,,0,0,0,,0,111,70,181,,Start of 4th Period (9:21 PM EST),period,start,0,0,349
+22300528,482,PT11M38.00S,4,1610612738,BOS,1630625,Banton,D. Banton,-42,265,27,Made,1,111,73,184,v,Banton 27' 3PT Jump Shot (4 PTS) (Pritchard 4 AST),Made Shot,Jump Shot,1,3,350
+22300528,484,PT11M16.00S,4,1610612749,MIL,1626171,Portis,B. Portis,-65,102,12,Missed,1,111,73,184,h,MISS Portis 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,2,351
+22300528,485,PT11M13.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,111,73,184,v,Hauser REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,352
+22300528,486,PT11M02.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,-71,261,27,Made,1,111,76,187,v,Hauser 27' 3PT Jump Shot (14 PTS) (Brissett 1 AST),Made Shot,Jump Shot,1,3,353
+22300528,488,PT10M42.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,186,159,24,Missed,1,111,76,187,h,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,354
+22300528,489,PT10M39.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,111,76,187,v,Hauser REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,355
+22300528,490,PT10M32.00S,4,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,111,76,187,h,Jackson Jr. S.FOUL (P4.T1) (J.Van Duyne),Foul,Shooting,1,0,356
+22300528,492,PT10M32.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,111,77,188,v,Brissett Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,357
+22300528,493,PT10M32.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,111,78,189,v,Brissett Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,1,0,358
+22300528,494,PT10M17.00S,4,1610612749,MIL,1626166,Payne,C. Payne,-29,153,16,Made,1,113,78,191,h,Payne 16' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,1,2,359
+22300528,495,PT10M01.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,25,305,31,Missed,1,113,78,191,v,MISS Hauser 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,360
+22300528,496,PT09M57.00S,4,1610612749,MIL,1626166,Payne,C. Payne,0,0,0,,0,113,78,191,h,Payne REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,361
+22300528,497,PT09M54.00S,4,1610612749,MIL,1626166,Payne,C. Payne,104,235,26,Missed,1,113,78,191,h,MISS Payne 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,3,362
+22300528,498,PT09M54.00S,4,0,,1610612738,,,0,0,0,,0,113,78,191,v,Celtics Rebound,Rebound,Unknown,1,0,363
+22300528,500,PT09M45.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,20,94,10,Made,1,113,80,193,v,Pritchard 10' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,2,364
+22300528,501,PT09M28.00S,4,1610612749,MIL,1626171,Portis,B. Portis,-118,239,27,Made,1,116,80,196,h,Portis 27' 3PT Jump Shot (28 PTS) (Payne 2 AST),Made Shot,Jump Shot,1,3,365
+22300528,503,PT09M19.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,116,80,196,h,Portis S.FOUL (P1.T2) (M.Myers),Foul,Shooting,1,0,366
+22300528,505,PT09M19.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,116,81,197,v,Brissett Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,367
+22300528,506,PT09M19.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,116,81,197,v,MISS Brissett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,368
+22300528,507,PT09M17.00S,4,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,116,81,197,h,Jackson Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,369
+22300528,508,PT09M04.00S,4,1610612749,MIL,1626171,Portis,B. Portis,-132,1,13,Missed,1,116,81,197,h,MISS Portis 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,370
+22300528,509,PT09M00.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,116,81,197,v,Brissett REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,371
+22300528,510,PT08M54.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-148,224,27,Missed,1,116,81,197,v,MISS Pritchard 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,372
+22300528,511,PT08M54.00S,4,1610612738,BOS,1630205,Stevens,L. Stevens,0,0,0,,0,116,81,197,v,Stevens REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,373
+22300528,512,PT08M54.00S,4,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,116,81,197,h,Jackson Jr. P.FOUL (P5.T3) (J.Van Duyne),Foul,Personal,1,0,374
+22300528,514,PT08M54.00S,4,1610612749,MIL,1626192,Connaughton,P. Connaughton,0,0,0,,0,116,81,197,h,SUB: Livingston FOR Connaughton,Substitution,,0,0,375
+22300528,515,PT08M54.00S,4,1610612749,MIL,1641748,Jackson Jr.,A. Jackson Jr.,0,0,0,,0,116,81,197,h,SUB: T. Antetokounmpo FOR Jackson Jr.,Substitution,,0,0,376
+22300528,518,PT08M43.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-9,25,3,Made,1,116,83,199,v,Brissett 3' Driving Dunk (13 PTS),Made Shot,Driving Dunk Shot,1,2,377
+22300528,519,PT08M43.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,116,83,199,h,T. Antetokounmpo Non-Unsportsmanlike Tech Foul - Flopping (P0.T3) (M.Myers),Foul,Flopping,1,0,378
+22300528,520,PT08M43.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,116,84,200,v,Hauser Free Throw Technical (15 PTS),Free Throw,Free Throw Technical,1,0,379
+22300528,537,PT08M35.00S,4,1610612749,MIL,1626171,Portis,B. Portis,21,81,8,Missed,1,116,84,200,h,MISS Portis 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,380
+22300528,537,PT08M35.00S,4,1610612738,BOS,1630205,Stevens,L. Stevens,0,0,0,,0,116,84,200,v,Stevens BLOCK (1 BLK),,,1,2,381
+22300528,539,PT08M34.00S,4,0,,1610612738,,,0,0,0,,0,116,84,200,v,Celtics Rebound,Rebound,Unknown,0,0,382
+22300528,523,PT08M34.00S,4,0,,1610612738,,,0,0,0,,0,116,84,200,v,Celtics Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,383
+22300528,541,PT08M34.00S,4,1610612749,MIL,1626171,Portis,B. Portis,0,0,0,,0,116,84,200,h,SUB: Green FOR Portis,Substitution,,0,0,384
+22300528,524,PT08M34.00S,4,0,,521,,,0,0,0,,0,116,84,200,,Instant Replay4th Period (9:28 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,385
+22300528,528,PT08M11.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,-70,204,22,Missed,1,116,84,200,v,MISS Brissett 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,386
+22300528,529,PT08M08.00S,4,1610612749,MIL,1626166,Payne,C. Payne,0,0,0,,0,116,84,200,h,Payne REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,387
+22300528,530,PT07M58.00S,4,1610612749,MIL,1631260,Green,A. Green,228,4,0,Missed,1,116,84,200,h,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,1,3,388
+22300528,531,PT07M53.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,116,84,200,h,T. Antetokounmpo REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,389
+22300528,532,PT07M52.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,116,84,200,h,T. Antetokounmpo Lost Ball Turnover (P1.T7),Turnover,Lost Ball,1,0,390
+22300528,532,PT07M52.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,116,84,200,v,Hauser STEAL (1 STL),,,1,0,391
+22300528,534,PT07M40.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,116,84,200,h,Green S.FOUL (P1.T4) (M.Myers),Foul,Shooting,1,0,392
+22300528,536,PT07M40.00S,4,1610612738,BOS,1630205,Stevens,L. Stevens,0,0,0,,0,116,85,201,v,Stevens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1,0,393
+22300528,540,PT07M40.00S,4,1610612738,BOS,1630205,Stevens,L. Stevens,0,0,0,,0,116,86,202,v,Stevens Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1,0,394
+22300528,543,PT07M16.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,-234,62,24,Missed,1,116,86,202,h,MISS Beauchamp 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,395
+22300528,544,PT07M13.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,116,86,202,v,Pritchard REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,396
+22300528,545,PT07M07.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,116,86,202,h,T. Antetokounmpo P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,1,0,397
+22300528,547,PT07M07.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,116,87,203,v,Pritchard Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,1,0,398
+22300528,548,PT07M07.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,116,88,204,v,Pritchard Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,1,0,399
+22300528,549,PT06M51.00S,4,1610612749,MIL,1631260,Green,A. Green,11,18,2,Made,1,118,88,206,h,Green 2' Driving Finger Roll Layup (2 PTS) (Livingston 1 AST),Made Shot,Driving Finger Roll Layup Shot,1,2,400
+22300528,551,PT06M42.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,-136,232,27,Missed,1,118,88,206,v,MISS Hauser 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,401
+22300528,552,PT06M42.00S,4,0,,1610612738,,,0,0,0,,0,118,88,206,v,Celtics Rebound,Rebound,Unknown,1,0,402
+22300528,554,PT06M42.00S,4,1610612738,BOS,1629052,Brissett,O. Brissett,0,0,0,,0,118,88,206,v,SUB: Mykhailiuk FOR Brissett,Substitution,,0,0,403
+22300528,555,PT06M42.00S,4,1610612738,BOS,1630573,Hauser,S. Hauser,0,0,0,,0,118,88,206,v,SUB: Queta FOR Hauser,Substitution,,0,0,404
+22300528,558,PT06M39.00S,4,1610612738,BOS,1630625,Banton,D. Banton,-168,26,17,Missed,1,118,88,206,v,MISS Banton 17' Jump Shot,Missed Shot,Jump Shot,1,2,405
+22300528,559,PT06M35.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,118,88,206,h,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,406
+22300528,560,PT06M26.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,5,23,2,Made,1,120,88,208,h,T. Antetokounmpo 2' Reverse Layup (2 PTS) (Green 1 AST),Made Shot,Reverse Layup Shot,1,2,407
+22300528,561,PT06M17.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-188,194,27,Made,1,120,91,211,v,Pritchard 27' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,1,3,408
+22300528,562,PT06M05.00S,4,1610612749,MIL,1631260,Green,A. Green,-147,236,28,Made,1,123,91,214,h,Green 28' 3PT Jump Shot (5 PTS) (Payne 3 AST),Made Shot,Jump Shot,1,3,409
+22300528,564,PT05M53.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-115,263,29,Missed,1,123,91,214,v,MISS Pritchard 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,410
+22300528,565,PT05M50.00S,4,1610612749,MIL,1626166,Payne,C. Payne,0,0,0,,0,123,91,214,h,Payne REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,411
+22300528,566,PT05M45.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,10,25,3,Missed,1,123,91,214,h,MISS T. Antetokounmpo 3' Reverse Layup,Missed Shot,Reverse Layup Shot,1,2,412
+22300528,566,PT05M45.00S,4,1610612738,BOS,1630625,Banton,D. Banton,0,0,0,,0,123,91,214,v,Banton BLOCK (1 BLK),,,1,2,413
+22300528,568,PT05M45.00S,4,0,,1610612749,,,0,0,0,,0,123,91,214,h,BUCKS Rebound,Rebound,Unknown,1,0,414
+22300528,570,PT05M35.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,23,73,8,Missed,1,123,91,214,h,MISS T. Antetokounmpo 8' Driving Layup,Missed Shot,Driving Layup Shot,1,2,415
+22300528,570,PT05M35.00S,4,1610612738,BOS,1629674,Queta,N. Queta,0,0,0,,0,123,91,214,v,Queta BLOCK (1 BLK),,,1,2,416
+22300528,572,PT05M31.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,123,91,214,v,Pritchard REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,417
+22300528,573,PT05M29.00S,4,1610612738,BOS,1630625,Banton,D. Banton,-11,50,5,Missed,1,123,91,214,v,MISS Banton 5' Running Layup,Missed Shot,Running Layup Shot,1,2,418
+22300528,574,PT05M26.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,123,91,214,h,Green REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,419
+22300528,575,PT05M23.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,123,91,214,h,Jump Ball Green vs. Queta: Tip to Livingston,Jump Ball,,1,0,420
+22300528,580,PT05M13.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,123,91,214,h,T. Antetokounmpo OFF.Foul (P2) (J.Tiven),Foul,Offensive,1,0,421
+22300528,582,PT05M13.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,123,91,214,h,T. Antetokounmpo Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,1,0,422
+22300528,583,PT05M01.00S,4,1610612738,BOS,1630205,Stevens,L. Stevens,-49,35,6,Missed,1,123,91,214,v,MISS Stevens 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,423
+22300528,583,PT05M01.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,123,91,214,h,Beauchamp BLOCK (1 BLK),,,1,2,424
+22300528,585,PT05M01.00S,4,0,,1610612738,,,0,0,0,,0,123,91,214,v,Celtics Rebound,Rebound,Unknown,1,0,425
+22300528,587,PT04M58.00S,4,1610612738,BOS,1629674,Queta,N. Queta,15,46,5,Made,1,123,93,216,v,Queta 5' Cutting Dunk Shot (4 PTS) (Banton 2 AST),Made Shot,Cutting Dunk Shot,1,2,426
+22300528,589,PT04M41.00S,4,1610612749,MIL,1631260,Green,A. Green,-227,125,26,Made,1,126,93,219,h,Green 26' 3PT Jump Shot (8 PTS) (T. Antetokounmpo 1 AST),Made Shot,Jump Shot,1,3,427
+22300528,591,PT04M41.00S,4,1610612738,BOS,1630205,Stevens,L. Stevens,0,0,0,,0,126,93,219,v,Stevens S.FOUL (P2.T1) (M.Myers),Foul,Shooting,1,0,428
+22300528,593,PT04M41.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,127,93,220,h,Green Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,1,0,429
+22300528,594,PT04M33.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,127,93,220,h,T. Antetokounmpo S.FOUL (P3.PN) (M.Myers),Foul,Shooting,1,0,430
+22300528,596,PT04M33.00S,4,0,,1610612749,,,0,0,0,,0,127,93,220,h,BUCKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,431
+22300528,598,PT04M33.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,127,94,221,v,Pritchard Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,432
+22300528,599,PT04M33.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,0,0,0,,0,127,95,222,v,Pritchard Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,433
+22300528,600,PT04M20.00S,4,1610612749,MIL,1631260,Green,A. Green,81,254,27,Missed,1,127,95,222,h,MISS Green 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,434
+22300528,601,PT04M16.00S,4,1610612738,BOS,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,127,95,222,v,Mykhailiuk REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,435
+22300528,602,PT04M11.00S,4,1610612738,BOS,1629674,Queta,N. Queta,67,77,10,Missed,1,127,95,222,v,MISS Queta 10' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,436
+22300528,602,PT04M11.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,127,95,222,h,Green BLOCK (1 BLK),,,1,2,437
+22300528,604,PT04M11.00S,4,1610612749,MIL,1631260,Green,A. Green,0,0,0,,0,127,95,222,h,Green REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,438
+22300528,605,PT03M52.00S,4,1610612749,MIL,1630699,Beauchamp,M. Beauchamp,0,0,0,,0,127,95,222,h,Beauchamp Bad Pass Turnover (P1.T9),Turnover,Bad Pass,1,0,439
+22300528,605,PT03M52.00S,4,1610612738,BOS,1629004,Mykhailiuk,S. Mykhailiuk,0,0,0,,0,127,95,222,v,Mykhailiuk STEAL (1 STL),,,1,0,440
+22300528,607,PT03M47.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,5,32,3,Made,1,127,97,224,v,Pritchard 3' Running Layup (19 PTS) (Mykhailiuk 1 AST),Made Shot,Running Layup Shot,1,2,441
+22300528,609,PT03M29.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,4,15,2,Made,1,129,97,226,h,T. Antetokounmpo 2' Dunk (4 PTS) (Green 2 AST),Made Shot,Dunk Shot,1,2,442
+22300528,611,PT03M04.00S,4,1610612738,BOS,1630205,Stevens,L. Stevens,11,55,6,Missed,1,129,97,226,v,MISS Stevens 6' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,2,443
+22300528,611,PT03M04.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,129,97,226,h,T. Antetokounmpo BLOCK (1 BLK),,,1,2,444
+22300528,613,PT03M00.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,129,97,226,h,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,445
+22300528,614,PT02M49.00S,4,1610612749,MIL,1626166,Payne,C. Payne,44,170,18,Made,1,131,97,228,h,Payne 18' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,446
+22300528,615,PT02M24.00S,4,1610612738,BOS,1630202,Pritchard,P. Pritchard,-25,71,8,Made,1,131,99,230,v,Pritchard 8' Driving Floating Jump Shot (21 PTS),Made Shot,Driving Floating Jump Shot,1,2,447
+22300528,616,PT02M07.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,4,6,1,Made,1,133,99,232,h,Livingston 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,2,448
+22300528,617,PT01M53.00S,4,1610612738,BOS,1630625,Banton,D. Banton,-49,263,27,Missed,1,133,99,232,v,MISS Banton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,449
+22300528,618,PT01M48.00S,4,1610612749,MIL,1626166,Payne,C. Payne,0,0,0,,0,133,99,232,h,Payne REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,450
+22300528,619,PT01M44.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,133,99,232,h,Livingston Bad Pass Turnover (P1.T10),Turnover,Bad Pass,1,0,451
+22300528,619,PT01M44.00S,4,1610612738,BOS,1630625,Banton,D. Banton,0,0,0,,0,133,99,232,v,Banton STEAL (2 STL),,,1,0,452
+22300528,621,PT01M41.00S,4,1610612738,BOS,1630205,Stevens,L. Stevens,0,13,1,Made,1,133,101,234,v,Stevens 1' Running Dunk (4 PTS) (Banton 3 AST),Made Shot,Running Dunk Shot,1,2,453
+22300528,623,PT01M17.00S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,5,12,1,Made,1,135,101,236,h,T. Antetokounmpo 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,1,2,454
+22300528,624,PT01M03.00S,4,1610612738,BOS,1630205,Stevens,L. Stevens,10,129,13,Missed,1,135,101,236,v,MISS Stevens 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,455
+22300528,625,PT01M00.00S,4,1610612749,MIL,1641753,Livingston,C. Livingston,0,0,0,,0,135,101,236,h,Livingston REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,456
+22300528,626,PT00M47.90S,4,1610612749,MIL,1631260,Green,A. Green,222,97,24,Missed,1,135,101,236,h,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+22300528,627,PT00M46.00S,4,1610612738,BOS,1630625,Banton,D. Banton,0,0,0,,0,135,101,236,v,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,458
+22300528,628,PT00M40.90S,4,1610612749,MIL,203648,Antetokounmpo,T. Antetokounmpo,0,0,0,,0,135,101,236,h,T. Antetokounmpo S.FOUL (P4.PN) (J.Van Duyne),Foul,Shooting,1,0,459
+22300528,630,PT00M40.90S,4,1610612738,BOS,1630205,Stevens,L. Stevens,0,0,0,,0,135,101,236,v,MISS Stevens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,460
+22300528,631,PT00M40.90S,4,0,,1610612738,,,0,0,0,,0,135,101,236,v,Celtics Rebound,Rebound,Normal Rebound,1,0,461
+22300528,632,PT00M40.90S,4,1610612738,BOS,1630205,Stevens,L. Stevens,0,0,0,,0,135,102,237,v,Stevens Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,462
+22300528,633,PT00M16.90S,4,0,,1610612749,,,0,0,0,,0,135,102,237,h,BUCKS Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,1,0,463
+22300528,634,PT00M00.00S,4,0,,0,,,0,0,0,,0,135,102,237,,End of 4th Period (9:49 PM EST),period,end,1,0,464

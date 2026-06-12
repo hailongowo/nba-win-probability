@@ -1,0 +1,539 @@
+gameId,actionNumber,clock,period,teamId,teamTricode,personId,playerName,playerNameI,xLegacy,yLegacy,shotDistance,shotResult,isFieldGoal,scoreHome,scoreAway,pointsTotal,location,description,actionType,subType,videoAvailable,shotValue,actionId
+22200027,2,PT12M00.00S,1,0,,0,,,0,0,0,,0,0,0,0,,Start of 1st Period (10:15 PM EST),period,start,0,0,1
+22200027,4,PT12M00.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,0,0,0,h,Jump Ball Nurkic vs. Ayton: Tip to Lillard,Jump Ball,,1,0,2
+22200027,7,PT11M36.00S,1,1610612757,POR,1629014,Simons,A. Simons,141,245,28,Missed,1,0,0,0,h,MISS Simons 28' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,3
+22200027,8,PT11M32.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,0,0,0,v,Bridges REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,4
+22200027,9,PT11M10.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,-158,69,17,Made,1,0,2,2,v,Ayton 17' Turnaround Jump Shot (2 PTS) (Johnson 1 AST),Made Shot,Turnaround Jump Shot,1,2,5
+22200027,11,PT10M49.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-1,10,1,Made,1,2,2,4,h,Lillard 1' Reverse Layup (2 PTS) (Nurkic 1 AST),Made Shot,Reverse Layup Shot,1,2,6
+22200027,13,PT10M36.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,4,75,8,Made,1,2,4,6,v,Bridges 8' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,1,2,7
+22200027,14,PT10M26.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-44,197,20,Missed,1,2,4,6,h,MISS Lillard 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,8
+22200027,15,PT10M26.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,2,4,6,v,Bridges REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,9
+22200027,16,PT10M18.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,195,189,27,Missed,1,2,4,6,v,MISS Johnson 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,10
+22200027,17,PT10M15.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,2,4,6,v,Ayton REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,11
+22200027,18,PT10M13.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,141,257,29,Made,1,2,7,9,v,Ayton 29' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,1,3,12
+22200027,19,PT09M54.00S,1,1610612757,POR,1629014,Simons,A. Simons,-77,185,20,Missed,1,2,7,9,h,MISS Simons 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,13
+22200027,20,PT09M50.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,2,7,9,h,Nurkic REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,14
+22200027,21,PT09M50.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,Made,1,4,7,11,h,Nurkic Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,1,2,15
+22200027,22,PT09M44.00S,1,1610612756,PHX,1626164,Booker,D. Booker,93,34,10,Missed,1,4,7,11,v,MISS Booker 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,16
+22200027,23,PT09M40.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,4,7,11,h,Nurkic REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,17
+22200027,24,PT09M38.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,4,7,11,v,Bridges P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,1,0,18
+22200027,26,PT09M23.00S,1,1610612757,POR,1628404,Hart,J. Hart,-225,113,25,Made,1,7,7,14,h,Hart 25' 3PT Jump Shot (3 PTS) (Nurkic 2 AST),Made Shot,Jump Shot,1,3,19
+22200027,28,PT09M10.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,91,21,9,Made,1,7,9,16,v,Ayton 9' Turnaround Fadeaway (7 PTS) (Paul 1 AST),Made Shot,Turnaround Fadeaway shot,1,2,20
+22200027,31,PT08M51.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-1,38,4,Made,1,9,9,18,h,Lillard 4' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,1,2,21
+22200027,32,PT08M34.00S,1,1610612756,PHX,101108,Paul,C. Paul,15,154,15,Missed,1,9,9,18,v,MISS Paul 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,22
+22200027,32,PT08M34.00S,1,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,9,9,18,h,Grant BLOCK (1 BLK),,,1,2,23
+22200027,34,PT08M30.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,9,9,18,v,Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,24
+22200027,35,PT08M26.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,202,60,21,Made,1,9,11,20,v,Johnson 21' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,1,2,25
+22200027,36,PT08M15.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,9,11,20,h,Lillard Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,26
+22200027,36,PT08M15.00S,1,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,9,11,20,v,Paul STEAL (1 STL),,,1,0,27
+22200027,38,PT08M09.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,-11,-11,2,Made,1,9,13,22,v,Bridges 2' Running Layup (4 PTS) (Paul 2 AST),Made Shot,Running Layup Shot,1,2,28
+22200027,40,PT07M43.00S,1,0,,1610612757,,,0,0,0,,0,9,13,22,h,TRAIL BLAZERS Turnover: Shot Clock (T#2),Turnover,Shot Clock Turnover,1,0,29
+22200027,41,PT07M34.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-232,22,0,Made,1,9,16,25,v,Booker 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,1,3,30
+22200027,43,PT07M23.00S,1,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,9,16,25,h,Simons Lost Ball Turnover (P1.T3),Turnover,Lost Ball,1,0,31
+22200027,43,PT07M23.00S,1,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,9,16,25,v,Paul STEAL (2 STL),,,1,0,32
+22200027,45,PT07M15.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,237,11,24,Made,1,9,19,28,v,Johnson 24' 3PT Jump Shot (5 PTS) (Booker 1 AST),Made Shot,Jump Shot,1,3,33
+22200027,47,PT07M14.00S,1,0,,1610612757,,,0,0,0,,0,9,19,28,h,TRAIL BLAZERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,0,0,34
+22200027,48,PT06M50.00S,1,1610612757,POR,1629014,Simons,A. Simons,-129,125,18,Missed,1,9,19,28,h,MISS Simons 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,2,35
+22200027,49,PT06M47.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,9,19,28,v,Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,36
+22200027,50,PT06M40.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,77,109,13,Missed,1,9,19,28,v,MISS Ayton 13' Floating Jump Shot,Missed Shot,Floating Jump shot,0,2,37
+22200027,51,PT06M38.00S,1,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,9,19,28,h,Hart REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,38
+22200027,52,PT06M35.00S,1,1610612757,POR,203081,Lillard,D. Lillard,163,220,27,Made,1,12,19,31,h,Lillard 27' 3PT Running Pull-Up Jump Shot (7 PTS) (Hart 1 AST),Made Shot,Running Pull-Up Jump Shot,1,3,39
+22200027,53,PT06M10.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,92,105,14,Missed,1,12,19,31,v,MISS Bridges 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,40
+22200027,54,PT06M08.00S,1,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,12,19,31,h,Hart REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,41
+22200027,55,PT06M01.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,12,19,31,v,Johnson P.FOUL (P1.T2) (L.Holtkamp),Foul,Personal,1,0,42
+22200027,57,PT06M01.00S,1,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,12,19,31,h,SUB: Winslow FOR Simons,Substitution,,0,0,43
+22200027,59,PT06M01.00S,1,0,,1610612757,,,0,0,0,,0,12,19,31,h,TRAIL BLAZERS Violation: Delay of game Violation,Violation,Delay Of Game,0,0,44
+22200027,61,PT05M51.00S,1,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,12,19,31,h,Grant Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,45
+22200027,61,PT05M51.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,12,19,31,v,Johnson STEAL (1 STL),,,1,0,46
+22200027,63,PT05M35.00S,1,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,12,19,31,h,Hart S.FOUL (P1.T1) (L.Holtkamp),Foul,Shooting,1,0,47
+22200027,65,PT05M35.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,12,20,32,v,Booker Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,48
+22200027,66,PT05M35.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,12,21,33,v,Booker Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,49
+22200027,67,PT05M22.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,16,14,2,Made,1,14,21,35,h,Nurkic 2' Cutting Layup Shot (4 PTS) (Lillard 1 AST),Made Shot,Cutting Layup Shot,1,2,50
+22200027,69,PT05M22.00S,1,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,14,21,35,v,Paul S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,1,0,51
+22200027,71,PT05M22.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,15,21,36,h,Nurkic Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,52
+22200027,72,PT04M58.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,-26,184,19,Missed,1,15,21,36,v,MISS Ayton 19' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,53
+22200027,73,PT04M56.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,15,21,36,h,Nurkic REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,54
+22200027,74,PT04M50.00S,1,1610612757,POR,1626159,Winslow,J. Winslow,-179,183,26,Missed,1,15,21,36,h,MISS Winslow 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,55
+22200027,75,PT04M45.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,15,21,36,v,Ayton REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,56
+22200027,76,PT04M39.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-225,38,0,Missed,1,15,21,36,v,MISS Booker 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,57
+22200027,77,PT04M36.00S,1,0,,1610612756,,,0,0,0,,0,15,21,36,v,Suns Rebound,Rebound,Unknown,0,0,58
+22200027,79,PT04M36.00S,1,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,15,21,36,h,SUB: Eubanks FOR Nurkic,Substitution,,0,0,59
+22200027,80,PT04M36.00S,1,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,15,21,36,v,SUB: Payne FOR Paul,Substitution,,0,0,60
+22200027,81,PT04M36.00S,1,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,15,21,36,v,SUB: Craig FOR Johnson,Substitution,,0,0,61
+22200027,85,PT04M32.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,50,102,11,Missed,1,15,21,36,v,MISS Ayton 11' Jump Shot,Missed Shot,Jump Shot,1,2,62
+22200027,86,PT04M29.00S,1,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,15,21,36,h,Grant REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,63
+22200027,87,PT04M20.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,15,21,36,v,Ayton S.FOUL (P1.T4) (L.Holtkamp),Foul,Shooting,1,0,64
+22200027,89,PT04M20.00S,1,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,15,21,36,h,MISS Grant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,65
+22200027,90,PT04M20.00S,1,0,,1610612757,,,0,0,0,,0,15,21,36,h,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,0,0,66
+22200027,91,PT04M20.00S,1,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,16,21,37,h,Grant Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,1,0,67
+22200027,92,PT04M06.00S,1,1610612756,PHX,1628470,Craig,T. Craig,-238,11,24,Missed,1,16,21,37,v,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,68
+22200027,93,PT04M00.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,16,21,37,v,Bridges REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,69
+22200027,113,PT04M00.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,16,21,37,v,Bridges Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1,0,70
+22200027,113,PT04M00.00S,1,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,16,21,37,h,Hart STEAL (1 STL),,,1,0,71
+22200027,94,PT03M52.00S,1,1610612757,POR,1626159,Winslow,J. Winslow,-5,8,1,Made,1,18,21,39,h,Winslow 1' Cutting Layup Shot (2 PTS) (Grant 1 AST),Made Shot,Cutting Layup Shot,1,2,72
+22200027,96,PT03M33.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,18,21,39,v,Ayton OFF.Foul (P2) (S.Twardoski),Foul,Offensive,1,0,73
+22200027,98,PT03M33.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,18,21,39,v,Ayton Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,1,0,74
+22200027,99,PT03M33.00S,1,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,18,21,39,h,SUB: Sharpe FOR Hart,Substitution,,0,0,75
+22200027,100,PT03M33.00S,1,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,18,21,39,v,SUB: Landale FOR Ayton,Substitution,,0,0,76
+22200027,103,PT03M22.00S,1,1610612757,POR,203081,Lillard,D. Lillard,-241,108,26,Missed,1,18,21,39,h,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,77
+22200027,104,PT03M19.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,18,21,39,h,Eubanks REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,78
+22200027,105,PT03M17.00S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,82,94,12,Missed,1,18,21,39,h,MISS Sharpe 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,79
+22200027,106,PT03M13.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,18,21,39,h,Lillard REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,80
+22200027,107,PT03M09.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,-17,9,2,Missed,1,18,21,39,h,MISS Eubanks 2' Hook Shot,Missed Shot,Hook Shot,1,2,81
+22200027,108,PT03M06.00S,1,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,18,21,39,v,Landale REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,82
+22200027,109,PT02M56.00S,1,1610612756,PHX,1626164,Booker,D. Booker,-102,205,23,Made,1,18,23,41,v,Booker 23' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,1,2,83
+22200027,110,PT02M45.00S,1,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,18,23,41,v,Landale S.FOUL (P1.PN) (L.Holtkamp),Foul,Shooting,1,0,84
+22200027,112,PT02M45.00S,1,0,,1610612756,,,0,0,0,,0,18,23,41,v,Suns Timeout: Regular (Reg.1 Short 0),Timeout,Regular,0,0,85
+22200027,115,PT02M45.00S,1,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,18,23,41,h,SUB: Little FOR Grant,Substitution,,0,0,86
+22200027,117,PT02M45.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,19,23,42,h,Lillard Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,87
+22200027,118,PT02M45.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,20,23,43,h,Lillard Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,88
+22200027,119,PT02M26.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,20,23,43,v,Booker Bad Pass Turnover (P1.T3),Turnover,Bad Pass,1,0,89
+22200027,119,PT02M26.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,20,23,43,h,Eubanks STEAL (1 STL),,,1,0,90
+22200027,121,PT02M20.00S,1,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,20,23,43,v,Landale S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,1,0,91
+22200027,123,PT02M20.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,21,23,44,h,Lillard Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,92
+22200027,124,PT02M20.00S,1,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,21,23,44,v,SUB: Lee FOR Bridges,Substitution,,0,0,93
+22200027,126,PT02M20.00S,1,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,22,23,45,h,Lillard Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,94
+22200027,127,PT02M03.00S,1,1610612756,PHX,1626166,Payne,C. Payne,-21,280,28,Made,1,22,26,48,v,Payne 28' 3PT Jump Shot (3 PTS) (Craig 1 AST),Made Shot,Jump Shot,1,3,95
+22200027,129,PT01M41.00S,1,1610612757,POR,1626159,Winslow,J. Winslow,110,236,26,Missed,1,22,26,48,h,MISS Winslow 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,96
+22200027,130,PT01M36.00S,1,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,22,26,48,v,Payne REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,97
+22200027,131,PT01M31.00S,1,1610612756,PHX,1627814,Lee,D. Lee,-232,44,24,Missed,1,22,26,48,v,MISS Lee 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,98
+22200027,132,PT01M29.00S,1,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,22,26,48,h,Eubanks REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,99
+22200027,133,PT01M19.00S,1,1610612757,POR,203081,Lillard,D. Lillard,196,176,26,Made,1,25,26,51,h,Lillard 26' 3PT Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,1,3,100
+22200027,134,PT00M57.20S,1,1610612756,PHX,1627814,Lee,D. Lee,50,256,26,Missed,1,25,26,51,v,MISS Lee 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,101
+22200027,135,PT00M55.50S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,25,26,51,h,Sharpe REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,102
+22200027,136,PT00M43.20S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,-211,140,25,Missed,1,25,26,51,h,MISS Sharpe 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,103
+22200027,137,PT00M40.40S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,25,26,51,v,Booker REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,104
+22200027,138,PT00M34.30S,1,1610612756,PHX,1626164,Booker,D. Booker,-27,21,3,Missed,1,25,26,51,v,MISS Booker 3' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,105
+22200027,139,PT00M34.00S,1,0,,1610612757,,,0,0,0,,0,25,26,51,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,0,106
+22200027,141,PT00M34.00S,1,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,25,26,51,v,SUB: Okogie FOR Booker,Substitution,,0,0,107
+22200027,143,PT00M13.90S,1,1610612757,POR,203081,Lillard,D. Lillard,75,253,26,Missed,1,25,26,51,h,MISS Lillard 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,108
+22200027,144,PT00M10.50S,1,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,25,26,51,v,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,109
+22200027,145,PT00M04.70S,1,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,25,26,51,h,Sharpe S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,1,0,110
+22200027,147,PT00M04.70S,1,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,25,27,52,v,Payne Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,111
+22200027,148,PT00M04.70S,1,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,25,27,52,h,SUB: Simons FOR Little,Substitution,,0,0,112
+22200027,149,PT00M04.70S,1,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,25,27,52,v,SUB: Bridges FOR Landale,Substitution,,0,0,113
+22200027,152,PT00M04.70S,1,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,25,28,53,v,Payne Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1,0,114
+22200027,153,PT00M00.00S,1,0,,0,,,0,0,0,,0,25,28,53,,End of 1st Period (10:40 PM EST),period,end,1,0,115
+22200027,164,PT12M00.00S,2,0,,0,,,0,0,0,,0,25,28,53,,Start of 2nd Period (10:43 PM EST),period,start,0,0,116
+22200027,165,PT11M37.00S,2,1610612756,PHX,1629661,Johnson,C. Johnson,207,138,25,Missed,1,25,28,53,v,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,117
+22200027,166,PT11M35.00S,2,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,25,28,53,v,Landale REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,118
+22200027,168,PT11M24.00S,2,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,25,28,53,v,Landale Lost Ball Turnover (P1.T4),Turnover,Lost Ball,1,0,119
+22200027,168,PT11M24.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,25,28,53,h,Nurkic STEAL (1 STL),,,1,0,120
+22200027,170,PT11M10.00S,2,1610612757,POR,1629014,Simons,A. Simons,11,15,2,Missed,1,25,28,53,h,MISS Simons 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,121
+22200027,171,PT11M06.00S,2,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,25,28,53,h,Little REBOUND (Off:1 Def:0),Rebound,Unknown,1,0,122
+22200027,172,PT11M06.00S,2,1610612757,POR,1629642,Little,N. Little,0,0,0,Made,1,27,28,55,h,Little Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,1,2,123
+22200027,173,PT10M56.00S,2,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,27,28,55,v,Johnson Lost Ball Turnover (P1.T5),Turnover,Lost Ball,1,0,124
+22200027,173,PT10M56.00S,2,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,27,28,55,h,Winslow STEAL (1 STL),,,1,0,125
+22200027,175,PT10M52.00S,2,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,27,28,55,h,Winslow Bad Pass Turnover (P1.T5),Turnover,Bad Pass,1,0,126
+22200027,175,PT10M52.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,27,28,55,v,Paul STEAL (3 STL),,,1,0,127
+22200027,177,PT10M47.00S,2,1610612756,PHX,1627814,Lee,D. Lee,175,183,25,Made,1,27,31,58,v,Lee 25' 3PT Running Jump Shot (3 PTS) (Paul 3 AST),Made Shot,Running Jump Shot,1,3,128
+22200027,179,PT10M25.00S,2,1610612757,POR,1629642,Little,N. Little,-28,110,11,Missed,1,27,31,58,h,MISS Little 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,129
+22200027,180,PT10M21.00S,2,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,27,31,58,v,Lee REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,130
+22200027,181,PT10M11.00S,2,1610612756,PHX,1629111,Landale,J. Landale,-189,196,27,Missed,1,27,31,58,v,MISS Landale 27' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,131
+22200027,182,PT10M09.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,27,31,58,h,Nurkic REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,132
+22200027,183,PT10M00.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,27,31,58,h,Simons Bad Pass Turnover (P2.T6),Turnover,Bad Pass,1,0,133
+22200027,183,PT10M00.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,27,31,58,v,Paul STEAL (4 STL),,,1,0,134
+22200027,185,PT09M57.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,15,13,2,Missed,1,27,31,58,v,MISS Okogie 2' Running Layup,Missed Shot,Running Layup Shot,1,2,135
+22200027,185,PT09M57.00S,2,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,27,31,58,h,Winslow BLOCK (1 BLK),,,1,2,136
+22200027,186,PT09M57.00S,2,0,,1610612756,,,0,0,0,,0,27,31,58,v,Suns Rebound,Rebound,Unknown,0,0,137
+22200027,188,PT09M54.00S,2,1610612756,PHX,1629661,Johnson,C. Johnson,-206,154,26,Missed,1,27,31,58,v,MISS Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,138
+22200027,189,PT09M51.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,27,31,58,v,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,139
+22200027,190,PT09M41.00S,2,1610612756,PHX,1629111,Landale,J. Landale,-2,1,0,Made,1,27,33,60,v,Landale Layup (2 PTS) (Lee 1 AST),Made Shot,Layup Shot,1,2,140
+22200027,193,PT09M26.00S,2,1610612757,POR,1629014,Simons,A. Simons,71,109,13,Made,1,29,33,62,h,Simons 13' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,2,141
+22200027,194,PT09M01.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,29,33,62,v,Paul Bad Pass Turnover (P1.T6),Turnover,Bad Pass,1,0,142
+22200027,194,PT09M01.00S,2,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,29,33,62,h,Little STEAL (1 STL),,,1,0,143
+22200027,196,PT08M58.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,29,33,62,h,Sharpe Offensive Charge Foul (P2) (L.Holtkamp),Foul,Offensive Charge,1,0,144
+22200027,198,PT08M58.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,29,33,62,h,Sharpe Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,1,0,145
+22200027,199,PT08M58.00S,2,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,29,33,62,h,SUB: Hart FOR Sharpe,Substitution,,0,0,146
+22200027,200,PT08M58.00S,2,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,29,33,62,h,SUB: Grant FOR Little,Substitution,,0,0,147
+22200027,203,PT08M40.00S,2,1610612756,PHX,101108,Paul,C. Paul,11,133,13,Made,1,29,35,64,v,Paul 13' Pullup Jump Shot (2 PTS) (Lee 2 AST),Made Shot,Pullup Jump shot,1,2,148
+22200027,205,PT08M19.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,-2,63,6,Missed,1,29,35,64,h,MISS Nurkic 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,1,2,149
+22200027,206,PT08M15.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,29,35,64,v,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,150
+22200027,207,PT08M09.00S,2,1610612756,PHX,1629111,Landale,J. Landale,9,13,2,Missed,1,29,35,64,v,MISS Landale 2' Layup,Missed Shot,Layup Shot,1,2,151
+22200027,207,PT08M09.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,29,35,64,h,Nurkic BLOCK (1 BLK),,,1,2,152
+22200027,209,PT08M07.00S,2,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,29,35,64,h,Winslow REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,153
+22200027,226,PT08M07.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,29,35,64,v,Paul Transition Take Foul (P2.T1) (T.Brothers),Foul,Transition Take,0,0,154
+22200027,233,PT08M07.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,30,35,65,h,Simons Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,1,0,155
+22200027,213,PT08M07.00S,2,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,30,35,65,v,SUB: Ayton FOR Landale,Substitution,,0,0,156
+22200027,215,PT08M00.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,30,35,65,h,Simons Bad Pass Turnover (P3.T8),Turnover,Bad Pass,1,0,157
+22200027,215,PT08M00.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,30,35,65,v,Okogie STEAL (1 STL),,,1,0,158
+22200027,217,PT07M49.00S,2,1610612756,PHX,1627814,Lee,D. Lee,17,10,2,Missed,1,30,35,65,v,MISS Lee 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,159
+22200027,218,PT07M47.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,30,35,65,h,Nurkic REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,160
+22200027,219,PT07M45.00S,2,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,30,35,65,h,Winslow Offensive Charge Foul (P1) (L.Holtkamp),Foul,Offensive Charge,1,0,161
+22200027,221,PT07M45.00S,2,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,30,35,65,h,Winslow Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,1,0,162
+22200027,222,PT07M45.00S,2,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,30,35,65,v,SUB: Booker FOR Johnson,Substitution,,0,0,163
+22200027,224,PT07M24.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,-9,12,2,Made,1,30,37,67,v,Ayton 2' Cutting Layup Shot (9 PTS) (Paul 4 AST),Made Shot,Cutting Layup Shot,1,2,164
+22200027,228,PT07M06.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,-165,201,26,Missed,1,30,37,67,h,MISS Nurkic 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,165
+22200027,229,PT07M03.00S,2,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,30,37,67,h,Hart REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,166
+22200027,230,PT06M59.00S,2,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,30,37,67,v,Lee P.FOUL (P1.T2) (L.Holtkamp),Foul,Personal,1,0,167
+22200027,232,PT06M59.00S,2,0,,1610612757,,,0,0,0,,0,30,37,67,h,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,0,0,168
+22200027,234,PT06M59.00S,2,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,30,37,67,h,SUB: Lillard FOR Winslow,Substitution,,0,0,169
+22200027,235,PT06M59.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,30,37,67,h,SUB: Eubanks FOR Nurkic,Substitution,,0,0,170
+22200027,238,PT06M45.00S,2,1610612757,POR,1629014,Simons,A. Simons,200,180,27,Missed,1,30,37,67,h,MISS Simons 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,3,171
+22200027,239,PT06M45.00S,2,0,,1610612757,,,0,0,0,,0,30,37,67,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,0,172
+22200027,240,PT06M45.00S,2,0,,1610612757,,,0,0,0,,0,30,37,67,h,TRAIL BLAZERS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,0,0,173
+22200027,241,PT06M29.00S,2,1610612756,PHX,101108,Paul,C. Paul,62,7,6,Missed,1,30,37,67,v,MISS Paul 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,174
+22200027,242,PT06M26.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,30,37,67,h,Simons REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,175
+22200027,243,PT06M23.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,30,37,67,h,Simons Lost Ball Turnover (P4.T11),Turnover,Lost Ball,1,0,176
+22200027,243,PT06M23.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,30,37,67,v,Paul STEAL (5 STL),,,1,0,177
+22200027,245,PT06M23.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,30,37,67,h,Simons Transition Take Foul (P1.T1) (S.Twardoski),Foul,Transition Take,1,0,178
+22200027,247,PT06M23.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,30,38,68,v,Booker Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,1,0,179
+22200027,248,PT06M23.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,30,38,68,v,SUB: Payne FOR Okogie,Substitution,,0,0,180
+22200027,249,PT06M23.00S,2,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,30,38,68,v,SUB: Bridges FOR Paul,Substitution,,0,0,181
+22200027,252,PT06M05.00S,2,1610612756,PHX,1626166,Payne,C. Payne,165,199,26,Missed,1,30,38,68,v,MISS Payne 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,182
+22200027,253,PT06M00.00S,2,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,30,38,68,h,Hart REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,183
+22200027,254,PT05M58.00S,2,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,30,38,68,h,Hart Bad Pass Turnover (P1.T12),Turnover,Bad Pass,1,0,184
+22200027,254,PT05M58.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,30,38,68,v,Booker STEAL (1 STL),,,1,0,185
+22200027,256,PT05M53.00S,2,1610612756,PHX,1626164,Booker,D. Booker,230,38,0,Made,1,30,41,71,v,Booker 3PT Running Pull-Up Jump Shot (11 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,186
+22200027,257,PT05M29.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-1,-1,0,Made,1,32,41,73,h,Lillard Driving Layup (16 PTS),Made Shot,Driving Layup Shot,1,2,187
+22200027,258,PT05M06.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,32,41,73,v,Bridges Bad Pass Turnover (P2.T7),Turnover,Bad Pass,1,0,188
+22200027,258,PT05M06.00S,2,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,32,41,73,h,Hart STEAL (2 STL),,,1,0,189
+22200027,260,PT05M03.00S,2,1610612757,POR,1628404,Hart,J. Hart,-15,8,2,Missed,1,32,41,73,h,MISS Hart 2' Running Layup,Missed Shot,Running Layup Shot,1,2,190
+22200027,261,PT05M00.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,32,41,73,h,Simons REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,191
+22200027,262,PT04M58.00S,2,1610612757,POR,1629014,Simons,A. Simons,-240,47,24,Missed,1,32,41,73,h,MISS Simons 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,192
+22200027,263,PT04M55.00S,2,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,32,41,73,h,Hart REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,193
+22200027,264,PT04M55.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,32,41,73,v,Bridges S.FOUL (P2.T3) (S.Twardoski),Foul,Shooting,1,0,194
+22200027,266,PT04M55.00S,2,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,33,41,74,h,Hart Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1,0,195
+22200027,267,PT04M55.00S,2,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,33,41,74,h,MISS Hart Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,196
+22200027,268,PT04M53.00S,2,0,,1610612756,,,0,0,0,,0,33,41,74,v,Suns Rebound,Rebound,Unknown,1,0,197
+22200027,269,PT04M53.00S,2,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,33,41,74,h,Hart L.B.FOUL (P2.T2) (T.Brothers),Foul,Loose Ball,1,0,198
+22200027,271,PT04M53.00S,2,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,33,41,74,h,SUB: Winslow FOR Simons,Substitution,,0,0,199
+22200027,273,PT04M44.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,2,12,1,Made,1,33,43,76,v,Ayton 1' Alley Oop Layup (11 PTS) (Bridges 2 AST),Made Shot,Alley Oop Layup shot,1,2,200
+22200027,275,PT04M27.00S,2,1610612757,POR,1628404,Hart,J. Hart,-222,10,0,Missed,1,33,43,76,h,MISS Hart 3PT Jump Shot,Missed Shot,Jump Shot,1,3,201
+22200027,276,PT04M25.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,33,43,76,v,Bridges REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,202
+22200027,277,PT04M11.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,78,6,8,Made,1,33,45,78,v,Ayton 8' Turnaround Hook Shot (13 PTS) (Lee 3 AST),Made Shot,Turnaround Hook Shot,1,2,203
+22200027,278,PT04M02.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,33,45,78,v,Bridges S.FOUL (P3.T4) (L.Holtkamp),Foul,Shooting,1,0,204
+22200027,280,PT04M02.00S,2,0,,278,Augmon,S. Augmon,0,0,0,,0,33,45,78,,Instant Replay2nd Period (11:00 PM EST),Instant Replay,Coach Challenge Support Ruling,1,0,205
+22200027,281,PT04M02.00S,2,0,,1610612756,,,0,0,0,,0,33,45,78,v,Suns Timeout: Regular (Reg.2 Short 0),Timeout,Regular,0,0,206
+22200027,282,PT04M02.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,34,45,79,h,Lillard Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,1,0,207
+22200027,283,PT04M02.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,35,45,80,h,Lillard Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,1,0,208
+22200027,284,PT03M43.00S,2,1610612756,PHX,1629028,Ayton,D. Ayton,4,2,0,Made,1,35,47,82,v,Ayton Reverse Layup (15 PTS) (Bridges 3 AST),Made Shot,Reverse Layup Shot,1,2,209
+22200027,286,PT03M26.00S,2,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,35,47,82,h,Eubanks Bad Pass Turnover (P1.T13),Turnover,Bad Pass,1,0,210
+22200027,286,PT03M26.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,35,47,82,v,Bridges STEAL (1 STL),,,1,0,211
+22200027,288,PT03M13.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,35,47,82,v,Booker OFF.Foul (P1) (S.Twardoski),Foul,Offensive,1,0,212
+22200027,290,PT03M13.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,35,47,82,v,Booker Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,1,0,213
+22200027,291,PT03M13.00S,2,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,35,47,82,h,SUB: Nurkic FOR Eubanks,Substitution,,0,0,214
+22200027,292,PT03M13.00S,2,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,35,47,82,v,SUB: Johnson FOR Lee,Substitution,,0,0,215
+22200027,293,PT03M13.00S,2,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,35,47,82,v,SUB: Okogie FOR Bridges,Substitution,,0,0,216
+22200027,305,PT03M13.00S,2,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,35,47,82,h,SUB: Simons FOR Winslow,Substitution,,0,0,217
+22200027,297,PT02M50.00S,2,1610612757,POR,203081,Lillard,D. Lillard,173,99,20,Made,1,37,47,84,h,Lillard 20' Turnaround Fadeaway (20 PTS),Made Shot,Turnaround Fadeaway shot,1,2,218
+22200027,298,PT02M35.00S,2,1610612756,PHX,1626164,Booker,D. Booker,7,1,1,Made,1,37,49,86,v,Booker 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,1,2,219
+22200027,299,PT02M23.00S,2,1610612757,POR,203081,Lillard,D. Lillard,-129,279,31,Missed,1,37,49,86,h,MISS Lillard 31' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,220
+22200027,300,PT02M21.00S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,37,49,86,v,Booker REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,221
+22200027,303,PT01M59.00S,2,1610612756,PHX,1629661,Johnson,C. Johnson,-185,41,19,Missed,1,37,49,86,v,MISS Johnson 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,222
+22200027,304,PT01M57.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,37,49,86,h,Nurkic REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,223
+22200027,307,PT01M52.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,37,49,86,h,Lillard Offensive Charge Foul (P1) (T.Brothers),Foul,Offensive Charge,1,0,224
+22200027,309,PT01M52.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,37,49,86,h,Lillard Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,1,0,225
+22200027,310,PT01M52.00S,2,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,37,49,86,v,SUB: Paul FOR Payne,Substitution,,0,0,226
+22200027,313,PT01M33.00S,2,1610612756,PHX,101108,Paul,C. Paul,67,154,17,Missed,1,37,49,86,v,MISS Paul 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,227
+22200027,314,PT01M30.00S,2,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,37,49,86,h,Nurkic REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,228
+22200027,315,PT01M27.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,37,49,86,v,Okogie S.FOUL (P1.PN) (L.Holtkamp),Foul,Shooting,1,0,229
+22200027,317,PT01M27.00S,2,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,38,49,87,h,Hart Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,1,0,230
+22200027,318,PT01M27.00S,2,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,39,49,88,h,Hart Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,1,0,231
+22200027,319,PT01M09.00S,2,1610612756,PHX,1626164,Booker,D. Booker,-99,148,18,Missed,1,39,49,88,v,MISS Booker 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,1,2,232
+22200027,320,PT01M06.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,39,49,88,h,Lillard REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,233
+22200027,321,PT01M04.00S,2,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,39,49,88,v,Okogie P.FOUL (P2.PN) (L.Holtkamp),Foul,Personal,1,0,234
+22200027,323,PT01M04.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,40,49,89,h,Lillard Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,1,0,235
+22200027,324,PT01M04.00S,2,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,41,49,90,h,Lillard Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,1,0,236
+22200027,325,PT00M56.80S,2,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,41,49,90,v,Johnson Traveling Turnover (P2.T9),Turnover,Traveling,1,0,237
+22200027,326,PT00M47.00S,2,1610612757,POR,203081,Lillard,D. Lillard,102,266,28,Made,1,44,49,93,h,Lillard 28' 3PT Step Back Jump Shot (25 PTS),Made Shot,Step Back Jump shot,1,3,238
+22200027,327,PT00M30.40S,2,1610612756,PHX,101108,Paul,C. Paul,37,1,4,Made,1,44,51,95,v,Paul 4' Driving Layup (4 PTS) (Booker 2 AST),Made Shot,Driving Layup Shot,1,2,239
+22200027,328,PT00M10.30S,2,1610612757,POR,203081,Lillard,D. Lillard,179,236,30,Made,1,47,51,98,h,Lillard 30' 3PT Pullup Jump Shot (28 PTS),Made Shot,Pullup Jump shot,1,3,240
+22200027,329,PT00M04.40S,2,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,47,51,98,h,Grant Personal Take Foul (P1.T3) (S.Twardoski),Foul,Personal Take,1,0,241
+22200027,331,PT00M04.40S,2,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,47,51,98,h,SUB: Winslow FOR Hart,Substitution,,0,0,242
+22200027,332,PT00M04.40S,2,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,47,51,98,v,SUB: Bridges FOR Okogie,Substitution,,0,0,243
+22200027,335,PT00M00.30S,2,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,47,51,98,h,Winslow S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,1,0,244
+22200027,337,PT00M00.30S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,47,52,99,v,Booker Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,245
+22200027,338,PT00M00.30S,2,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,47,53,100,v,Booker Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,246
+22200027,339,PT00M00.00S,2,0,,0,,,0,0,0,,0,47,53,100,,End of 2nd Period (11:12 PM EST),period,end,1,0,247
+22200027,347,PT12M00.00S,3,0,,0,,,0,0,0,,0,47,53,100,,Start of 3rd Period (11:27 PM EST),period,start,0,0,248
+22200027,348,PT11M58.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,47,53,100,v,Craig Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,249
+22200027,349,PT11M45.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,-1,8,1,Made,1,49,53,102,h,Nurkic 1' Layup (7 PTS),Made Shot,Layup Shot,1,2,250
+22200027,350,PT11M21.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,-87,164,19,Missed,1,49,53,102,v,MISS Ayton 19' Jump Shot,Missed Shot,Jump Shot,1,2,251
+22200027,351,PT11M18.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,49,53,102,h,Nurkic REBOUND (Off:1 Def:7),Rebound,Unknown,1,0,252
+22200027,352,PT11M12.00S,3,1610612757,POR,203081,Lillard,D. Lillard,196,164,26,Missed,1,49,53,102,h,MISS Lillard 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,1,3,253
+22200027,353,PT11M06.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,49,53,102,v,Booker REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,254
+22200027,354,PT10M57.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,49,53,102,h,Nurkic S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,1,0,255
+22200027,356,PT10M57.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,49,54,103,v,Booker Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,1,0,256
+22200027,357,PT10M57.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,49,55,104,v,Booker Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,1,0,257
+22200027,358,PT10M39.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,49,55,104,v,Ayton P.FOUL (P3.T1) (S.Twardoski),Foul,Personal,1,0,258
+22200027,360,PT10M32.00S,3,1610612757,POR,203924,Grant,J. Grant,0,11,1,Made,1,51,55,106,h,Grant 1' Driving Layup (3 PTS),Made Shot,Driving Layup Shot,1,2,259
+22200027,362,PT10M06.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-232,99,25,Made,1,51,58,109,v,Booker 25' 3PT Jump Shot (20 PTS) (Ayton 1 AST),Made Shot,Jump Shot,1,3,260
+22200027,364,PT09M39.00S,3,1610612757,POR,1629014,Simons,A. Simons,-99,248,27,Made,1,54,58,112,h,Simons 27' 3PT Jump Shot (6 PTS) (Lillard 2 AST),Made Shot,Jump Shot,1,3,261
+22200027,366,PT09M19.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,1,14,1,Missed,1,54,58,112,v,MISS Bridges 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,262
+22200027,367,PT09M17.00S,3,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,54,58,112,h,Hart REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,263
+22200027,368,PT09M15.00S,3,1610612757,POR,1628404,Hart,J. Hart,-6,13,1,Made,1,56,58,114,h,Hart 1' Running Layup (8 PTS),Made Shot,Running Layup Shot,1,2,264
+22200027,369,PT08M49.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,-83,56,10,Missed,1,56,58,114,v,MISS Ayton 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,2,265
+22200027,370,PT08M48.00S,3,0,,1610612757,,,0,0,0,,0,56,58,114,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,0,266
+22200027,372,PT08M29.00S,3,1610612757,POR,1628404,Hart,J. Hart,-49,92,10,Missed,1,56,58,114,h,MISS Hart 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,267
+22200027,373,PT08M24.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,56,58,114,v,Bridges REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,268
+22200027,374,PT08M10.00S,3,1610612756,PHX,1628470,Craig,T. Craig,58,261,27,Made,1,56,61,117,v,Craig 27' 3PT Jump Shot (3 PTS) (Booker 3 AST),Made Shot,Jump Shot,1,3,269
+22200027,376,PT07M56.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-51,71,9,Made,1,58,61,119,h,Lillard 9' Fadeaway Jumper (30 PTS),Made Shot,Fadeaway Jump Shot,1,2,270
+22200027,377,PT07M46.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,7,-2,1,Made,1,58,63,121,v,Ayton 1' Alley Oop Layup (17 PTS) (Paul 5 AST),Made Shot,Alley Oop Layup shot,1,2,271
+22200027,379,PT07M32.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,58,63,121,h,Nurkic Bad Pass Turnover (P1.T15),Turnover,Bad Pass,1,0,272
+22200027,379,PT07M32.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,58,63,121,v,Craig STEAL (1 STL),,,1,0,273
+22200027,381,PT07M27.00S,3,1610612756,PHX,1628470,Craig,T. Craig,233,9,0,Missed,1,58,63,121,v,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,1,3,274
+22200027,382,PT07M24.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,58,63,121,h,Lillard REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,275
+22200027,383,PT07M18.00S,3,1610612757,POR,1629014,Simons,A. Simons,229,97,25,Missed,1,58,63,121,h,MISS Simons 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,276
+22200027,384,PT07M16.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,58,63,121,v,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,1,0,277
+22200027,385,PT07M04.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,6,55,6,Missed,1,58,63,121,v,MISS Ayton 6' Floating Jump Shot,Missed Shot,Floating Jump shot,1,2,278
+22200027,386,PT07M00.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,58,63,121,h,Nurkic REBOUND (Off:1 Def:8),Rebound,Unknown,1,0,279
+22200027,387,PT06M55.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-6,257,26,Made,1,61,63,124,h,Lillard 26' 3PT Running Pull-Up Jump Shot (33 PTS),Made Shot,Running Pull-Up Jump Shot,1,3,280
+22200027,390,PT06M30.00S,3,1610612756,PHX,101108,Paul,C. Paul,-1,26,3,Made,1,61,65,126,v,Paul 3' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,1,2,281
+22200027,391,PT06M09.00S,3,1610612757,POR,1629014,Simons,A. Simons,55,59,8,Missed,1,61,65,126,h,MISS Simons 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,282
+22200027,392,PT06M09.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,61,65,126,v,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,283
+22200027,393,PT06M06.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,-7,3,1,Made,1,61,67,128,v,Bridges 1' Running Dunk (6 PTS) (Paul 6 AST),Made Shot,Running Dunk Shot,1,2,284
+22200027,395,PT06M06.00S,3,0,,1610612757,,,0,0,0,,0,61,67,128,h,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,0,0,285
+22200027,396,PT06M06.00S,3,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,61,67,128,h,SUB: Winslow FOR Simons,Substitution,,0,0,286
+22200027,397,PT06M06.00S,3,1610612756,PHX,1628470,Craig,T. Craig,0,0,0,,0,61,67,128,v,SUB: Johnson FOR Craig,Substitution,,0,0,287
+22200027,400,PT05M49.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,61,67,128,v,Ayton S.FOUL (P4.T2) (S.Twardoski),Foul,Shooting,1,0,288
+22200027,402,PT05M49.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,62,67,129,h,Nurkic Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,1,0,289
+22200027,403,PT05M49.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,63,67,130,h,Nurkic Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,1,0,290
+22200027,404,PT05M40.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,-183,19,18,Made,1,63,69,132,v,Bridges 18' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,1,2,291
+22200027,405,PT05M18.00S,3,1610612757,POR,203924,Grant,J. Grant,224,110,25,Made,1,66,69,135,h,Grant 25' 3PT Jump Shot (6 PTS) (Hart 2 AST),Made Shot,Jump Shot,1,3,292
+22200027,407,PT05M01.00S,3,1610612756,PHX,101108,Paul,C. Paul,99,92,14,Missed,1,66,69,135,v,MISS Paul 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,293
+22200027,408,PT04M57.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,66,69,135,h,Nurkic REBOUND (Off:1 Def:9),Rebound,Unknown,1,0,294
+22200027,409,PT04M48.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,66,69,135,h,Lillard Bad Pass Turnover (P3.T16),Turnover,Bad Pass,1,0,295
+22200027,409,PT04M48.00S,3,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,66,69,135,v,Johnson STEAL (2 STL),,,1,0,296
+22200027,411,PT04M40.00S,3,1610612756,PHX,1626164,Booker,D. Booker,1,38,4,Missed,1,66,69,135,v,MISS Booker 4' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,297
+22200027,412,PT04M35.00S,3,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,66,69,135,h,Grant REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,298
+22200027,413,PT04M30.00S,3,1610612757,POR,1628404,Hart,J. Hart,21,-4,2,Missed,1,66,69,135,h,MISS Hart 2' Running Layup,Missed Shot,Running Layup Shot,1,2,299
+22200027,414,PT04M27.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,66,69,135,h,Nurkic REBOUND (Off:2 Def:9),Rebound,Unknown,1,0,300
+22200027,415,PT04M27.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,-15,2,2,Missed,1,66,69,135,h,MISS Nurkic 2' Putback Layup,Missed Shot,Putback Layup Shot,1,2,301
+22200027,416,PT04M27.00S,3,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,66,69,135,h,Winslow REBOUND (Off:1 Def:1),Rebound,Unknown,1,0,302
+22200027,418,PT04M27.00S,3,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,66,69,135,v,SUB: Landale FOR Paul,Substitution,,0,0,303
+22200027,419,PT04M27.00S,3,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,66,69,135,v,SUB: Payne FOR Ayton,Substitution,,0,0,304
+22200027,422,PT04M27.00S,3,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,66,69,135,h,SUB: Little FOR Nurkic,Substitution,,0,0,305
+22200027,424,PT04M25.00S,3,1610612757,POR,203924,Grant,J. Grant,65,34,7,Missed,1,66,69,135,h,MISS Grant 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,306
+22200027,425,PT04M21.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,66,69,135,v,Booker REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,307
+22200027,426,PT04M06.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,66,69,135,v,Bridges Bad Pass Turnover (P3.T11),Turnover,Bad Pass,1,0,308
+22200027,426,PT04M06.00S,3,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,66,69,135,h,Winslow STEAL (2 STL),,,1,0,309
+22200027,428,PT03M59.00S,3,1610612757,POR,203924,Grant,J. Grant,6,-3,1,Missed,1,66,69,135,h,MISS Grant 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,2,310
+22200027,429,PT03M59.00S,3,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,66,69,135,v,Landale REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,311
+22200027,430,PT03M55.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,17,25,3,Made,1,66,71,137,v,Bridges 3' Running Layup (10 PTS) (Johnson 2 AST),Made Shot,Running Layup Shot,1,2,312
+22200027,432,PT03M55.00S,3,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,66,71,137,h,Winslow Violation:Defensive Goaltending (S.Twardoski),Violation,Defensive Goaltending,1,0,313
+22200027,434,PT03M31.00S,3,1610612757,POR,1628404,Hart,J. Hart,9,0,1,Made,1,68,71,139,h,Hart 1' Cutting Layup Shot (10 PTS) (Winslow 1 AST),Made Shot,Cutting Layup Shot,1,2,314
+22200027,436,PT03M16.00S,3,1610612756,PHX,1626164,Booker,D. Booker,-10,9,1,Made,1,68,73,141,v,Booker 1' Driving Layup (22 PTS) (Bridges 4 AST),Made Shot,Driving Layup Shot,1,2,315
+22200027,438,PT03M02.00S,3,1610612757,POR,203081,Lillard,D. Lillard,-5,-8,1,Missed,1,68,73,141,h,MISS Lillard 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,316
+22200027,439,PT03M01.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,68,73,141,v,Booker REBOUND (Off:0 Def:5),Rebound,Unknown,1,0,317
+22200027,440,PT02M44.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,68,73,141,h,Lillard S.FOUL (P2.T2) (L.Holtkamp),Foul,Shooting,1,0,318
+22200027,442,PT02M44.00S,3,0,,1610612756,,,0,0,0,,0,68,73,141,v,Suns Timeout: Regular (Reg.3 Short 0),Timeout,Regular,0,0,319
+22200027,443,PT02M44.00S,3,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,68,73,141,h,SUB: Simons FOR Lillard,Substitution,,0,0,320
+22200027,444,PT02M44.00S,3,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,68,73,141,h,SUB: Sharpe FOR Hart,Substitution,,0,0,321
+22200027,447,PT02M44.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,68,73,141,v,MISS Booker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,322
+22200027,448,PT02M44.00S,3,0,,1610612756,,,0,0,0,,0,68,73,141,v,Suns Rebound,Rebound,Normal Rebound,0,0,323
+22200027,449,PT02M44.00S,3,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,68,73,141,v,SUB: Lee FOR Bridges,Substitution,,0,0,324
+22200027,451,PT02M44.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,68,74,142,v,Booker Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,1,0,325
+22200027,452,PT02M29.00S,3,1610612757,POR,203924,Grant,J. Grant,-230,47,0,Missed,1,68,74,142,h,MISS Grant 3PT Jump Shot,Missed Shot,Jump Shot,1,3,326
+22200027,453,PT02M27.00S,3,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,68,74,142,v,Payne REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,327
+22200027,454,PT02M22.00S,3,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,68,74,142,v,Payne Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,1,0,328
+22200027,455,PT02M09.00S,3,1610612757,POR,1626159,Winslow,J. Winslow,1,15,2,Missed,1,68,74,142,h,MISS Winslow 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,2,329
+22200027,457,PT02M07.00S,3,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,68,74,142,v,Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,330
+22200027,458,PT02M05.00S,3,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,68,74,142,h,Sharpe P.FOUL (P3.T3) (T.Brothers),Foul,Personal,1,0,331
+22200027,460,PT02M05.00S,3,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,68,74,142,h,SUB: Eubanks FOR Grant,Substitution,,0,0,332
+22200027,462,PT01M49.00S,3,1610612756,PHX,1627814,Lee,D. Lee,18,16,2,Missed,1,68,74,142,v,MISS Lee 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,333
+22200027,463,PT01M46.00S,3,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,68,74,142,h,Eubanks REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,334
+22200027,490,PT01M46.00S,3,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,68,74,142,h,Eubanks Bad Pass Turnover (P2.T17),Turnover,Bad Pass,1,0,335
+22200027,490,PT01M46.00S,3,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,68,74,142,v,Lee STEAL (1 STL),,,1,0,336
+22200027,464,PT01M44.00S,3,1610612756,PHX,1629661,Johnson,C. Johnson,174,182,25,Missed,1,68,74,142,v,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,337
+22200027,465,PT01M44.00S,3,0,,1610612757,,,0,0,0,,0,68,74,142,h,TRAIL BLAZERS Rebound,Rebound,Unknown,1,0,338
+22200027,466,PT01M43.00S,3,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,68,74,142,v,Landale L.B.FOUL (P3.T3) (T.Brothers),Foul,Loose Ball,1,0,339
+22200027,468,PT01M22.00S,3,1610612757,POR,1629642,Little,N. Little,-20,29,4,Made,1,70,74,144,h,Little 4' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,1,2,340
+22200027,470,PT01M00.00S,3,1610612756,PHX,1626164,Booker,D. Booker,0,0,0,,0,70,74,144,v,SUB: Okogie FOR Booker,Substitution,,0,0,341
+22200027,472,PT00M56.40S,3,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,70,74,144,h,Little S.FOUL (P1.T4) (L.Holtkamp),Foul,Shooting,1,0,342
+22200027,474,PT00M56.40S,3,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,70,74,144,v,MISS Lee Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,1,0,343
+22200027,475,PT00M56.40S,3,0,,1610612756,,,0,0,0,,0,70,74,144,v,Suns Rebound,Rebound,Normal Rebound,0,0,344
+22200027,476,PT00M56.40S,3,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,70,75,145,v,Lee Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,1,0,345
+22200027,477,PT00M56.40S,3,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,70,76,146,v,Lee Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,1,0,346
+22200027,478,PT00M40.90S,3,1610612757,POR,1629642,Little,N. Little,229,78,24,Made,1,73,76,149,h,Little 24' 3PT Jump Shot (7 PTS) (Simons 1 AST),Made Shot,Jump Shot,1,3,347
+22200027,480,PT00M29.50S,3,1610612756,PHX,1629111,Landale,J. Landale,-161,237,29,Made,1,73,79,152,v,Landale 29' 3PT Jump Shot (5 PTS) (Payne 1 AST),Made Shot,Jump Shot,1,3,348
+22200027,482,PT00M11.50S,3,1610612757,POR,1629234,Eubanks,D. Eubanks,2,8,1,Made,1,75,79,154,h,Eubanks 1' Alley Oop Dunk (2 PTS) (Simons 2 AST),Made Shot,Alley Oop Dunk Shot,1,2,349
+22200027,484,PT00M01.40S,3,1610612756,PHX,1629661,Johnson,C. Johnson,234,48,24,Missed,1,75,79,154,v,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,350
+22200027,485,PT00M01.40S,3,0,,1610612756,,,0,0,0,,0,75,79,154,v,Suns Rebound,Rebound,Unknown,0,0,351
+22200027,486,PT00M00.00S,3,0,,0,,,0,0,0,,0,75,79,154,,End of 3rd Period (11:53 PM EST),period,end,1,0,352
+22200027,487,PT12M00.00S,4,0,,0,,,0,0,0,,0,75,79,154,,Start of 4th Period (11:56 PM EST),period,start,0,0,353
+22200027,488,PT11M42.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,75,79,154,v,Lee S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,1,0,354
+22200027,492,PT11M42.00S,4,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,76,79,155,h,Winslow Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,1,0,355
+22200027,493,PT11M42.00S,4,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,77,79,156,h,Winslow Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,1,0,356
+22200027,494,PT11M29.00S,4,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,77,79,156,v,Payne Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,1,0,357
+22200027,495,PT11M12.00S,4,1610612757,POR,1629014,Simons,A. Simons,-147,227,27,Missed,1,77,79,156,h,MISS Simons 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,358
+22200027,496,PT11M08.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,77,79,156,v,Lee REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,359
+22200027,506,PT11M03.00S,4,1610612756,PHX,1629661,Johnson,C. Johnson,5,31,3,Missed,1,77,79,156,v,MISS Johnson 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,360
+22200027,507,PT11M03.00S,4,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,77,79,156,h,Eubanks REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,361
+22200027,497,PT10M53.00S,4,1610612757,POR,1629642,Little,N. Little,-1,143,14,Made,1,79,79,158,h,Little 14' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,1,2,362
+22200027,498,PT10M30.00S,4,1610612756,PHX,1626166,Payne,C. Payne,189,177,26,Missed,1,79,79,158,v,MISS Payne 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,363
+22200027,499,PT10M28.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,79,79,158,h,Sharpe REBOUND (Off:0 Def:2),Rebound,Unknown,1,0,364
+22200027,500,PT10M27.00S,4,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,79,79,158,v,Payne Transition Take Foul (P1.T2) (S.Twardoski),Foul,Transition Take,1,0,365
+22200027,502,PT10M27.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,80,79,159,h,Simons Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,1,0,366
+22200027,503,PT10M27.00S,4,1610612756,PHX,1629661,Johnson,C. Johnson,0,0,0,,0,80,79,159,v,SUB: Bridges FOR Johnson,Substitution,,0,0,367
+22200027,505,PT10M20.00S,4,1610612757,POR,1629014,Simons,A. Simons,12,-1,1,Missed,1,80,79,159,h,MISS Simons 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,368
+22200027,508,PT10M16.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,80,79,159,h,Simons REBOUND (Off:2 Def:1),Rebound,Unknown,1,0,369
+22200027,509,PT10M16.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,Made,1,82,79,161,h,Simons Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,1,2,370
+22200027,510,PT10M03.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,82,79,161,h,Sharpe S.FOUL (P4.T1) (T.Brothers),Foul,Shooting,1,0,371
+22200027,512,PT10M03.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,82,80,162,v,Landale Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,372
+22200027,513,PT10M03.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,82,80,162,v,MISS Landale Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,373
+22200027,514,PT10M01.00S,4,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,82,80,162,h,Eubanks REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,374
+22200027,515,PT09M43.00S,4,1610612757,POR,1629014,Simons,A. Simons,-38,157,16,Missed,1,82,80,162,h,MISS Simons 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,375
+22200027,516,PT09M39.00S,4,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,82,80,162,v,Okogie REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,376
+22200027,517,PT09M34.00S,4,1610612756,PHX,1629006,Okogie,J. Okogie,9,6,1,Made,1,82,82,164,v,Okogie 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,2,377
+22200027,518,PT09M22.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,82,82,164,v,Landale S.FOUL (P4.T3) (T.Brothers),Foul,Shooting,1,0,378
+22200027,520,PT09M22.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,83,82,165,h,Simons Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,1,0,379
+22200027,521,PT09M22.00S,4,1610612757,POR,1629642,Little,N. Little,0,0,0,,0,83,82,165,h,SUB: Lillard FOR Little,Substitution,,0,0,380
+22200027,522,PT09M22.00S,4,1610612757,POR,1631101,Sharpe,S. Sharpe,0,0,0,,0,83,82,165,h,SUB: Hart FOR Sharpe,Substitution,,0,0,381
+22200027,523,PT09M22.00S,4,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,83,82,165,v,SUB: Ayton FOR Landale,Substitution,,0,0,382
+22200027,527,PT09M22.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,84,82,166,h,Simons Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,1,0,383
+22200027,528,PT09M05.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,-76,47,9,Made,1,84,84,168,v,Ayton 9' Turnaround Fadeaway (19 PTS) (Bridges 5 AST),Made Shot,Turnaround Fadeaway shot,1,2,384
+22200027,530,PT08M44.00S,4,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,84,84,168,v,Payne P.FOUL (P2.T4) (T.Brothers),Foul,Personal,1,0,385
+22200027,532,PT08M44.00S,4,1610612756,PHX,1629006,Okogie,J. Okogie,0,0,0,,0,84,84,168,v,SUB: Booker FOR Okogie,Substitution,,0,0,386
+22200027,533,PT08M44.00S,4,1610612756,PHX,1626166,Payne,C. Payne,0,0,0,,0,84,84,168,v,SUB: Paul FOR Payne,Substitution,,0,0,387
+22200027,536,PT08M34.00S,4,1610612757,POR,203081,Lillard,D. Lillard,197,47,20,Missed,1,84,84,168,h,MISS Lillard 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,388
+22200027,537,PT08M31.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,84,84,168,v,Lee REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,389
+22200027,538,PT08M17.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,84,84,168,v,Ayton Lost Ball Turnover (P2.T14),Turnover,Lost Ball,1,0,390
+22200027,538,PT08M17.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,84,84,168,h,Simons STEAL (1 STL),,,1,0,391
+22200027,540,PT08M09.00S,4,1610612757,POR,203081,Lillard,D. Lillard,16,11,2,Made,1,86,84,170,h,Lillard 2' Driving Layup (35 PTS),Made Shot,Driving Layup Shot,1,2,392
+22200027,541,PT07M49.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,67,32,7,Made,1,86,86,172,v,Bridges 7' Turnaround Jump Shot (12 PTS) (Ayton 2 AST),Made Shot,Turnaround Jump Shot,1,2,393
+22200027,543,PT07M35.00S,4,1610612757,POR,1629234,Eubanks,D. Eubanks,5,-3,1,Made,1,88,86,174,h,Eubanks 1' Cutting Layup Shot (4 PTS) (Hart 3 AST),Made Shot,Cutting Layup Shot,1,2,394
+22200027,545,PT07M35.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,88,86,174,v,Lee S.FOUL (P3.PN) (S.Twardoski),Foul,Shooting,1,0,395
+22200027,547,PT07M35.00S,4,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,89,86,175,h,Eubanks Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,396
+22200027,548,PT07M19.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,-4,6,1,Made,1,89,88,177,v,Ayton 1' Cutting Dunk Shot (21 PTS) (Paul 7 AST),Made Shot,Cutting Dunk Shot,1,2,397
+22200027,550,PT07M07.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-116,320,34,Missed,1,89,88,177,h,MISS Lillard 34' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,398
+22200027,551,PT07M05.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,89,88,177,v,Ayton REBOUND (Off:1 Def:2),Rebound,Unknown,1,0,399
+22200027,552,PT06M58.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,89,88,177,v,Ayton Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,1,0,400
+22200027,553,PT06M58.00S,4,0,,1610612757,,,0,0,0,,0,89,88,177,h,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,0,0,401
+22200027,554,PT06M58.00S,4,1610612757,POR,1629234,Eubanks,D. Eubanks,0,0,0,,0,89,88,177,h,SUB: Nurkic FOR Eubanks,Substitution,,0,0,402
+22200027,555,PT06M58.00S,4,1610612757,POR,1626159,Winslow,J. Winslow,0,0,0,,0,89,88,177,h,SUB: Grant FOR Winslow,Substitution,,0,0,403
+22200027,558,PT06M46.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,89,88,177,h,Nurkic OFF.Foul (P2) (S.Twardoski),Foul,Offensive,1,0,404
+22200027,560,PT06M46.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,89,88,177,h,Nurkic Offensive Foul Turnover (P2.T18),Turnover,Offensive Foul Turnover,1,0,405
+22200027,561,PT06M32.00S,4,1610612756,PHX,1626164,Booker,D. Booker,-222,27,0,Missed,1,89,88,177,v,MISS Booker 3PT Jump Shot,Missed Shot,Jump Shot,1,3,406
+22200027,562,PT06M30.00S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,89,88,177,h,Grant REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,407
+22200027,563,PT06M15.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,12,1,1,Missed,1,89,88,177,h,MISS Nurkic 1' Hook Shot,Missed Shot,Hook Shot,1,2,408
+22200027,564,PT06M12.00S,4,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,89,88,177,h,Hart REBOUND (Off:3 Def:4),Rebound,Unknown,1,0,409
+22200027,583,PT06M12.00S,4,1610612757,POR,1628404,Hart,J. Hart,-10,13,2,Missed,1,89,88,177,h,MISS Hart 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,410
+22200027,584,PT06M12.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,89,88,177,h,Nurkic REBOUND (Off:3 Def:9),Rebound,Unknown,1,0,411
+22200027,565,PT06M12.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,5,10,1,Made,1,91,88,179,h,Nurkic 1' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,1,2,412
+22200027,566,PT06M03.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,-216,4,22,Missed,1,91,88,179,v,MISS Bridges 22' Jump Shot,Missed Shot,Jump Shot,1,2,413
+22200027,567,PT05M57.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,91,88,179,h,Nurkic REBOUND (Off:3 Def:10),Rebound,Unknown,1,0,414
+22200027,568,PT05M54.00S,4,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,91,88,179,v,Paul P.FOUL (P3.PN) (L.Holtkamp),Foul,Personal,1,0,415
+22200027,570,PT05M54.00S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,91,88,179,h,MISS Grant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,416
+22200027,571,PT05M54.00S,4,0,,1610612757,,,0,0,0,,0,91,88,179,h,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,0,0,417
+22200027,572,PT05M54.00S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,91,88,179,h,MISS Grant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,418
+22200027,573,PT05M51.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,91,88,179,v,Ayton REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,419
+22200027,574,PT05M34.00S,4,1610612756,PHX,1626164,Booker,D. Booker,12,9,2,Missed,1,91,88,179,v,MISS Booker 2' Driving Layup,Missed Shot,Driving Layup Shot,1,2,420
+22200027,574,PT05M34.00S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,91,88,179,h,Grant BLOCK (2 BLK),,,1,2,421
+22200027,576,PT05M31.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,91,88,179,h,Nurkic REBOUND (Off:3 Def:11),Rebound,Unknown,1,0,422
+22200027,577,PT05M29.00S,4,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,91,88,179,v,Paul S.FOUL (P4.PN) (T.Brothers),Foul,Shooting,1,0,423
+22200027,579,PT05M29.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,92,88,180,h,Nurkic Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,1,0,424
+22200027,580,PT05M29.00S,4,0,,1610612756,,,0,0,0,,0,92,88,180,v,Suns Timeout: Regular (Reg.4 Short 0),Timeout,Regular,0,0,425
+22200027,581,PT05M29.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,93,88,181,h,Nurkic Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,426
+22200027,582,PT05M22.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,93,88,181,h,Nurkic Violation:Kicked Ball (T.Brothers),Violation,Kicked Ball,0,0,427
+22200027,585,PT05M15.00S,4,1610612756,PHX,1626164,Booker,D. Booker,4,9,1,Made,1,93,90,183,v,Booker 1' Driving Dunk (25 PTS) (Ayton 3 AST),Made Shot,Driving Dunk Shot,1,2,428
+22200027,586,PT05M00.00S,4,1610612757,POR,203081,Lillard,D. Lillard,27,5,3,Made,1,95,90,185,h,Lillard 3' Driving Layup (37 PTS),Made Shot,Driving Layup Shot,1,2,429
+22200027,622,PT04M47.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,-23,81,8,Missed,1,95,90,185,v,MISS Ayton 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,2,430
+22200027,622,PT04M47.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,95,90,185,h,Lillard BLOCK (1 BLK),,,1,2,431
+22200027,624,PT04M45.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,95,90,185,v,Lee REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,432
+22200027,587,PT04M40.00S,4,1610612756,PHX,1627814,Lee,D. Lee,-225,6,0,Made,1,95,93,188,v,Lee 3PT Jump Shot (8 PTS) (Paul 8 AST),Made Shot,Jump Shot,1,3,433
+22200027,589,PT04M17.00S,4,1610612757,POR,203081,Lillard,D. Lillard,210,138,25,Missed,1,95,93,188,h,MISS Lillard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,434
+22200027,590,PT04M14.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,95,93,188,v,Ayton REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,435
+22200027,591,PT04M05.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,7,15,2,Made,1,95,95,190,v,Ayton 2' Alley Oop Dunk (23 PTS) (Paul 9 AST),Made Shot,Alley Oop Dunk Shot,1,2,436
+22200027,593,PT03M35.00S,4,0,,1610612757,,,0,0,0,,0,95,95,190,h,TRAIL BLAZERS Turnover: Shot Clock (T#19),Turnover,Shot Clock Turnover,1,0,437
+22200027,594,PT03M26.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,-10,104,10,Missed,1,95,95,190,v,MISS Ayton 10' Jump Shot,Missed Shot,Jump Shot,1,2,438
+22200027,595,PT03M23.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,95,95,190,h,Lillard REBOUND (Off:1 Def:3),Rebound,Unknown,1,0,439
+22200027,596,PT03M17.00S,4,1610612757,POR,203081,Lillard,D. Lillard,228,133,26,Missed,1,95,95,190,h,MISS Lillard 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,440
+22200027,597,PT03M16.00S,4,0,,1610612756,,,0,0,0,,0,95,95,190,v,Suns Rebound,Rebound,Unknown,0,0,441
+22200027,599,PT03M16.00S,4,0,,1610612756,,,0,0,0,,0,95,95,190,v,Suns Timeout: Regular (Reg.5 Short 0),Timeout,Regular,0,0,442
+22200027,600,PT03M16.00S,4,0,,1610612757,,,0,0,0,,0,95,95,190,h,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,0,0,443
+22200027,601,PT02M52.00S,4,1610612756,PHX,101108,Paul,C. Paul,-224,82,24,Missed,1,95,95,190,v,MISS Paul 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,3,444
+22200027,602,PT02M52.00S,4,0,,1610612756,,,0,0,0,,0,95,95,190,v,Suns Rebound,Rebound,Unknown,1,0,445
+22200027,603,PT02M52.00S,4,0,,1610612756,,,0,0,0,,0,95,95,190,v,Suns Turnover: Shot Clock (T#16),Turnover,Shot Clock Turnover,1,0,446
+22200027,604,PT02M41.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,95,95,190,h,Nurkic Bad Pass Turnover (P3.T20),Turnover,Bad Pass,1,0,447
+22200027,604,PT02M41.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,95,95,190,v,Lee STEAL (2 STL),,,1,0,448
+22200027,606,PT02M33.00S,4,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,95,95,190,h,Simons P.FOUL (P2.T2) (S.Twardoski),Foul,Personal,1,0,449
+22200027,608,PT02M21.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,32,220,22,Missed,1,95,95,190,v,MISS Ayton 22' Jump Shot,Missed Shot,Jump Shot,1,2,450
+22200027,609,PT02M18.00S,4,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,95,95,190,v,Lee REBOUND (Off:2 Def:3),Rebound,Unknown,1,0,451
+22200027,610,PT02M10.00S,4,1610612756,PHX,101108,Paul,C. Paul,4,158,16,Missed,1,95,95,190,v,MISS Paul 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,452
+22200027,611,PT02M06.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,95,95,190,h,Lillard REBOUND (Off:1 Def:4),Rebound,Unknown,1,0,453
+22200027,612,PT02M06.00S,4,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,95,95,190,v,Bridges P.FOUL (P4.PN) (T.Brothers),Foul,Personal,1,0,454
+22200027,614,PT02M06.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,96,95,191,h,Lillard Free Throw 1 of 2 (38 PTS),Free Throw,Free Throw 1 of 2,1,0,455
+22200027,615,PT02M06.00S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,97,95,192,h,Lillard Free Throw 2 of 2 (39 PTS),Free Throw,Free Throw 2 of 2,1,0,456
+22200027,616,PT01M58.00S,4,1610612756,PHX,1626164,Booker,D. Booker,221,143,26,Missed,1,97,95,192,v,MISS Booker 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,457
+22200027,617,PT01M57.00S,4,0,,1610612756,,,0,0,0,,0,97,95,192,v,Suns Rebound,Rebound,Unknown,1,0,458
+22200027,619,PT01M52.00S,4,1610612756,PHX,1626164,Booker,D. Booker,-98,122,16,Made,1,97,97,194,v,Booker 16' Pullup Jump Shot (27 PTS),Made Shot,Pullup Jump shot,1,2,459
+22200027,620,PT01M39.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-5,10,1,Missed,1,97,97,194,h,MISS Lillard 1' Driving Layup,Missed Shot,Driving Layup Shot,1,2,460
+22200027,620,PT01M39.00S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,97,97,194,v,Ayton BLOCK (1 BLK),,,1,2,461
+22200027,625,PT01M34.00S,4,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,97,97,194,v,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,1,0,462
+22200027,626,PT01M32.00S,4,1610612756,PHX,1626164,Booker,D. Booker,-4,17,2,Made,1,97,99,196,v,Booker 2' Driving Layup (29 PTS) (Paul 10 AST),Made Shot,Driving Layup Shot,1,2,463
+22200027,628,PT01M18.00S,4,1610612757,POR,1629014,Simons,A. Simons,227,94,25,Made,1,100,99,199,h,Simons 25' 3PT Jump Shot (14 PTS) (Lillard 3 AST),Made Shot,Jump Shot,1,3,464
+22200027,630,PT00M59.90S,4,1610612756,PHX,101108,Paul,C. Paul,5,22,2,Made,1,100,101,201,v,Paul 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,2,465
+22200027,631,PT00M59.90S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,100,101,201,h,Grant Violation:Defensive Goaltending (T.Brothers),Violation,Defensive Goaltending,1,0,466
+22200027,632,PT00M48.00S,4,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,100,101,201,v,Paul S.FOUL (P5.PN) (S.Twardoski),Foul,Shooting,1,0,467
+22200027,634,PT00M48.00S,4,0,,632,,,0,0,0,,0,100,101,201,,Instant Replay4th Period (12:28 AM EST),Instant Replay,Support Ruling,0,0,468
+22200027,635,PT00M48.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,101,101,202,h,Nurkic Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,1,0,469
+22200027,636,PT00M48.00S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,102,101,203,h,Nurkic Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,1,0,470
+22200027,637,PT00M37.10S,4,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,102,101,203,h,Nurkic S.FOUL (P3.T3) (S.Twardoski),Foul,Shooting,1,0,471
+22200027,639,PT00M37.10S,4,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,102,101,203,v,MISS Bridges Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,472
+22200027,640,PT00M37.10S,4,0,,1610612756,,,0,0,0,,0,102,101,203,v,Suns Rebound,Rebound,Normal Rebound,0,0,473
+22200027,641,PT00M37.10S,4,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,102,102,204,v,Bridges Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,1,0,474
+22200027,642,PT00M37.10S,4,0,,1610612757,,,0,0,0,,0,102,102,204,h,TRAIL BLAZERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,0,0,475
+22200027,643,PT00M30.70S,4,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,102,102,204,h,Lillard Bad Pass Turnover (P4.T21),Turnover,Bad Pass,1,0,476
+22200027,643,PT00M30.70S,4,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,102,102,204,v,Ayton STEAL (1 STL),,,1,0,477
+22200027,645,PT00M08.70S,4,1610612756,PHX,1626164,Booker,D. Booker,173,201,27,Missed,1,102,102,204,v,MISS Booker 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,3,478
+22200027,646,PT00M06.30S,4,1610612757,POR,203924,Grant,J. Grant,0,0,0,,0,102,102,204,h,Grant REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,479
+22200027,647,PT00M00.00S,4,1610612757,POR,203081,Lillard,D. Lillard,-140,176,22,Missed,1,102,102,204,h,MISS Lillard 22' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,2,480
+22200027,648,PT00M00.00S,4,0,,1610612757,,,0,0,0,,0,102,102,204,h,TRAIL BLAZERS Rebound,Rebound,Unknown,0,0,481
+22200027,649,PT00M00.00S,4,0,,0,,,0,0,0,,0,102,102,204,,End of 4th Period (12:32 AM EST),period,end,1,0,482
+22200027,650,PT05M00.00S,5,0,,0,,,0,0,0,,0,102,102,204,,Start of 1st OT (12:36 AM EST),period,start,0,0,483
+22200027,652,PT05M00.00S,5,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,102,102,204,h,Jump Ball Nurkic vs. Ayton: Tip to Paul,Jump Ball,,1,0,484
+22200027,655,PT04M38.00S,5,1610612756,PHX,1629028,Ayton,D. Ayton,-62,15,6,Made,1,102,104,206,v,Ayton 6' Jump Shot (25 PTS) (Bridges 6 AST),Made Shot,Jump Shot,1,2,485
+22200027,657,PT04M38.00S,5,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,102,104,206,h,Hart S.FOUL (P3.T1) (L.Holtkamp),Foul,Shooting,1,0,486
+22200027,659,PT04M38.00S,5,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,102,105,207,v,Ayton Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,1,0,487
+22200027,660,PT04M21.00S,5,1610612757,POR,203994,Nurkić,J. Nurkić,21,13,2,Made,1,104,105,209,h,Nurkic 2' Cutting Layup Shot (17 PTS) (Grant 2 AST),Made Shot,Cutting Layup Shot,1,2,488
+22200027,662,PT03M53.00S,5,1610612756,PHX,1629028,Ayton,D. Ayton,-55,147,16,Missed,1,104,105,209,v,MISS Ayton 16' Jump Shot,Missed Shot,Jump Shot,1,2,489
+22200027,663,PT03M50.00S,5,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,104,105,209,h,Nurkic REBOUND (Off:3 Def:12),Rebound,Unknown,1,0,490
+22200027,664,PT03M35.00S,5,1610612757,POR,203924,Grant,J. Grant,-65,106,12,Missed,1,104,105,209,h,MISS Grant 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,2,491
+22200027,665,PT03M31.00S,5,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,104,105,209,h,Nurkic REBOUND (Off:4 Def:12),Rebound,Unknown,1,0,492
+22200027,666,PT03M31.00S,5,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,Made,1,106,105,211,h,Nurkic Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,1,2,493
+22200027,667,PT03M10.00S,5,1610612756,PHX,1626164,Booker,D. Booker,-44,155,16,Made,1,106,107,213,v,Booker 16' Pullup Jump Shot (31 PTS) (Paul 11 AST),Made Shot,Pullup Jump shot,1,2,494
+22200027,669,PT02M55.00S,5,1610612757,POR,1629014,Simons,A. Simons,192,167,25,Missed,1,106,107,213,h,MISS Simons 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,3,495
+22200027,670,PT02M53.00S,5,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,106,107,213,v,Bridges REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,496
+22200027,671,PT02M46.00S,5,1610612756,PHX,1626164,Booker,D. Booker,7,13,1,Made,1,106,109,215,v,Booker 1' Driving Layup (33 PTS) (Paul 12 AST),Made Shot,Driving Layup Shot,1,2,497
+22200027,673,PT02M46.00S,5,0,,1610612757,,,0,0,0,,0,106,109,215,h,TRAIL BLAZERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,0,0,498
+22200027,674,PT02M24.00S,5,1610612757,POR,203081,Lillard,D. Lillard,15,-1,2,Missed,1,106,109,215,h,MISS Lillard 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,2,499
+22200027,675,PT02M23.00S,5,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,106,109,215,v,Lee REBOUND (Off:2 Def:4),Rebound,Unknown,1,0,500
+22200027,676,PT02M05.00S,5,1610612756,PHX,1626164,Booker,D. Booker,-162,53,17,Missed,1,106,109,215,v,MISS Booker 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,1,2,501
+22200027,677,PT02M02.00S,5,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,106,109,215,h,Nurkic REBOUND (Off:4 Def:13),Rebound,Unknown,1,0,502
+22200027,678,PT01M57.00S,5,1610612757,POR,1628404,Hart,J. Hart,22,5,2,Missed,1,106,109,215,h,MISS Hart 2' Running Layup,Missed Shot,Running Layup Shot,1,2,503
+22200027,680,PT01M51.00S,5,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,106,109,215,v,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,1,0,504
+22200027,681,PT01M40.00S,5,1610612756,PHX,101108,Paul,C. Paul,100,155,18,Made,1,106,111,217,v,Paul 18' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,2,505
+22200027,682,PT01M29.00S,5,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,106,111,217,v,Lee S.FOUL (P4.T1) (L.Holtkamp),Foul,Shooting,1,0,506
+22200027,684,PT01M29.00S,5,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,107,111,218,h,Nurkic Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,1,0,507
+22200027,685,PT01M29.00S,5,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,107,111,218,h,MISS Nurkic Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,508
+22200027,686,PT01M26.00S,5,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,107,111,218,v,Ayton REBOUND (Off:1 Def:5),Rebound,Unknown,1,0,509
+22200027,688,PT01M12.00S,5,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,107,111,218,v,Ayton OFF.Foul (P5) (S.Twardoski),Foul,Offensive,1,0,510
+22200027,690,PT01M12.00S,5,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,107,111,218,v,Ayton Offensive Foul Turnover (P4.T17),Turnover,Offensive Foul Turnover,1,0,511
+22200027,691,PT01M02.00S,5,1610612757,POR,203924,Grant,J. Grant,-7,18,2,Made,1,109,111,220,h,Grant 2' Dunk (8 PTS) (Simons 3 AST),Made Shot,Dunk Shot,1,2,512
+22200027,693,PT00M43.30S,5,1610612756,PHX,1626164,Booker,D. Booker,-1,210,21,Missed,1,109,111,220,v,MISS Booker 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,2,513
+22200027,694,PT00M39.30S,5,1610612756,PHX,1628969,Bridges,M. Bridges,0,0,0,,0,109,111,220,v,Bridges REBOUND (Off:2 Def:5),Rebound,Unknown,1,0,514
+22200027,709,PT00M38.30S,5,1610612756,PHX,1628969,Bridges,M. Bridges,5,12,1,Missed,1,109,111,220,v,MISS Bridges 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,2,515
+22200027,710,PT00M34.30S,5,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,109,111,220,h,Lillard REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,516
+22200027,695,PT00M33.90S,5,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,109,111,220,v,Lee S.FOUL (P5.PN) (T.Brothers),Foul,Shooting,1,0,517
+22200027,697,PT00M33.90S,5,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,110,111,221,h,Lillard Free Throw 1 of 2 (40 PTS),Free Throw,Free Throw 1 of 2,1,0,518
+22200027,698,PT00M33.90S,5,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,111,111,222,h,Lillard Free Throw 2 of 2 (41 PTS),Free Throw,Free Throw 2 of 2,1,0,519
+22200027,699,PT00M33.90S,5,0,,1610612756,,,0,0,0,,0,111,111,222,v,Suns Timeout: Regular (Reg.6 Short 0),Timeout,Regular,0,0,520
+22200027,700,PT00M26.40S,5,1610612756,PHX,1626164,Booker,D. Booker,31,6,3,Missed,1,111,111,222,v,MISS Booker 3' Driving Layup,Missed Shot,Driving Layup Shot,1,2,521
+22200027,701,PT00M24.20S,5,1610612757,POR,203081,Lillard,D. Lillard,0,0,0,,0,111,111,222,h,Lillard REBOUND (Off:1 Def:6),Rebound,Unknown,1,0,522
+22200027,703,PT00M07.20S,5,1610612757,POR,1629014,Simons,A. Simons,23,42,5,Made,1,113,111,224,h,Simons 5' Driving Hook Shot (16 PTS),Made Shot,Driving Hook Shot,1,2,523
+22200027,704,PT00M07.20S,5,0,,1610612756,,,0,0,0,,0,113,111,224,v,Suns Timeout: Regular (Reg.7 Short 0),Timeout,Regular,0,0,524
+22200027,705,PT00M01.20S,5,1610612757,POR,203994,Nurkić,J. Nurkić,0,0,0,,0,113,111,224,h,Nurkic S.FOUL (P4.T2) (T.Brothers),Foul,Shooting,1,0,525
+22200027,707,PT00M01.20S,5,0,,705,Keys,R. Keys,0,0,0,,0,113,111,224,,Instant Replay1st OT (12:49 AM EST),Instant Replay,Coach Challenge Support Ruling,1,0,526
+22200027,708,PT00M01.20S,5,0,,1610612757,,,0,0,0,,0,113,111,224,h,TRAIL BLAZERS Timeout: Regular (Full 8 Short 0),Timeout,Regular,0,0,527
+22200027,711,PT00M01.20S,5,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,113,111,224,v,MISS Ayton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,1,0,528
+22200027,712,PT00M01.20S,5,0,,1610612756,,,0,0,0,,0,113,111,224,v,Suns Rebound,Rebound,Normal Rebound,0,0,529
+22200027,713,PT00M01.20S,5,1610612757,POR,1628404,Hart,J. Hart,0,0,0,,0,113,111,224,h,SUB: Eubanks FOR Hart,Substitution,,0,0,530
+22200027,714,PT00M01.20S,5,1610612756,PHX,101108,Paul,C. Paul,0,0,0,,0,113,111,224,v,SUB: Landale FOR Paul,Substitution,,0,0,531
+22200027,717,PT00M01.20S,5,1610612757,POR,1629014,Simons,A. Simons,0,0,0,,0,113,111,224,h,SUB: Hart FOR Simons,Substitution,,0,0,532
+22200027,718,PT00M01.20S,5,1610612756,PHX,1627814,Lee,D. Lee,0,0,0,,0,113,111,224,v,SUB: Biyombo FOR Lee,Substitution,,0,0,533
+22200027,721,PT00M01.20S,5,1610612756,PHX,1629028,Ayton,D. Ayton,0,0,0,,0,113,111,224,v,MISS Ayton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,1,0,534
+22200027,722,PT00M01.20S,5,1610612756,PHX,1629111,Landale,J. Landale,0,0,0,,0,113,111,224,v,Landale REBOUND (Off:2 Def:2),Rebound,Unknown,1,0,535
+22200027,725,PT00M00.60S,5,1610612756,PHX,1629111,Landale,J. Landale,22,21,3,Missed,1,113,111,224,v,MISS Landale 3' Putback Layup,Missed Shot,Putback Layup Shot,1,2,536
+22200027,726,PT00M00.60S,5,0,,1610612756,,,0,0,0,,0,113,111,224,v,Suns Rebound,Rebound,Unknown,1,0,537
+22200027,723,PT00M00.00S,5,0,,0,,,0,0,0,,0,113,111,224,,End of 1st OT (12:51 AM EST),period,end,1,0,538
