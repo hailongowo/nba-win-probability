@@ -58,12 +58,12 @@ def plot_win_probability(game_id: str) -> None:
         linewidth=2,
     )
 
-    plt.plot(
-        game_df["minutes_elapsed"],
-        game_df["away_win_probability"] * 100,
-        label="Away win probability",
-        linewidth=2,
-    )
+    # plt.plot(
+    #     game_df["minutes_elapsed"],
+    #     game_df["away_win_probability"] * 100,
+    #     label="Away win probability",
+    #     linewidth=2,
+    # )
 
     plt.axhline(50, linestyle="--", linewidth=1, label="50%")
 
@@ -87,6 +87,6 @@ def plot_win_probability(game_id: str) -> None:
 
 
 if __name__ == "__main__":
-    plot_win_probability("22500711")
+    plot_win_probability("22500001")
     # df = pd.read_csv(TESTING_FILE)
     # print (df["game_id"].unique())
