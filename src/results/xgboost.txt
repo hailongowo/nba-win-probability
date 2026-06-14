@@ -1,0 +1,21 @@
+XGBoost Evaluation
+------------------
+Log loss:     0.4710
+Brier score:  0.1585
+ROC AUC:      0.8474
+Accuracy:     0.7578
+
+Feature importance:
+                            feature  importance
+7   score_diff_per_minute_remaining    0.626862
+5                        score_diff    0.195837
+6                    abs_score_diff    0.060203
+8                    is_clutch_time    0.028645
+9                         scoreHome    0.021808
+2      regulation_seconds_remaining    0.021023
+10                        scoreAway    0.019406
+0                            period    0.007524
+1       seconds_remaining_in_period    0.006001
+4                         posession    0.005440
+3                   overtime_number    0.004291
+11                      is_playoffs    0.002961

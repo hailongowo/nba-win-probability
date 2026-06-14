@@ -2,8 +2,7 @@ import re
 import pandas as pd
 import numpy as np
 
-from config import RAW_PBP_DIR, RAW_PBP_TESTING_DIR, TRAINING_FILE, TESTING_FILE
-
+from config import MODIFIED_PBP_PLAYOFFS_DIR, MODIFIED_PBP_REGULAR_DIR, TRAINING_FILE, TESTING_FILE
 
 def parse_pctimestring(pctimestring: str) -> int:
     """
@@ -83,26 +82,47 @@ def build_rows_for_game(pbp: pd.DataFrame, game_id: str) -> pd.DataFrame:
         return pd.DataFrame()
 
     df = pbp.copy()
+    df = df.sort_values("actionNumber").copy()
 
-    # Keep rows where SCORE exists.
-    # These rows tell us the score at that moment.
-    df = df[df["scoreHome"].notna()].copy()
+    # Events to keep
+    important_actions = [
+        "Made Shot",
+        "Foul",
+        "Free Throw",
+        "Turnover",
+        "Rebound",
+        "Violation",
+    ]
 
+    df = df[
+        df["actionType"].isin(important_actions)
+    ]
+    
+    
     if df.empty:
         return pd.DataFrame()
 
     # Parse period clock.
     df["seconds_remaining_in_period"] = df["clock"].apply(parse_pctimestring)
 
-    # Convert period + clock into total seconds remaining.
-    df["seconds_remaining"] = df.apply(
-        lambda row: get_seconds_remaining(row["period"], row["seconds_remaining_in_period"]),
-        axis=1,
+    df["regulation_seconds_remaining"] = np.where(
+        df["period"] <= 4,
+        (4 - df["period"]) * 720 + df["seconds_remaining_in_period"],
+        0,
     )
 
+    df["overtime_number"] = np.maximum(df["period"] - 4, 0)
+
+    df["seconds_elapsed"] = np.where(
+        df["period"] <= 4,
+        (df["period"] - 1) * 720 + (720 - df["seconds_remaining_in_period"]),
+        2880
+        + (df["period"] - 5) * 300
+        + (300 - df["seconds_remaining_in_period"]),
+    )
 
     # Remove invalid parsed rows.
-    df = df.dropna(subset=["scoreHome", "scoreAway", "seconds_remaining"])
+    df = df.dropna(subset=["scoreHome", "scoreAway", "seconds_remaining_in_period"])
 
     if df.empty:
         return pd.DataFrame()
@@ -123,38 +143,49 @@ def build_rows_for_game(pbp: pd.DataFrame, game_id: str) -> pd.DataFrame:
 
     # Helpful engineered features.
     df["abs_score_diff"] = df["score_diff"].abs()
-    df["is_second_half"] = (df["period"] >= 3).astype(int)
-    df["is_fourth_quarter"] = (df["period"] == 4).astype(int)
 
     # Clutch time: last 5 minutes of Q4 or overtime, score within 5.
     df["is_clutch_time"] = (
-        (df["seconds_remaining"] <= 5 * 60)
+        (df["regulation_seconds_remaining"] <= 5 * 60)
         & (df["abs_score_diff"] <= 5)
         & (df["period"] >= 4)
     ).astype(int)
 
     # Avoid division by zero.
-    df["minutes_remaining"] = df["seconds_remaining"] / 60
+    df["minutes_remaining"] = df["regulation_seconds_remaining"] / 60
     df["score_diff_per_minute_remaining"] = df["score_diff"] / df["minutes_remaining"].replace(0, 0.1)
 
     # Add target.
     df["home_win"] = home_win
     df["game_id"] = game_id
 
+    # Remove dupes
+    df = df.drop_duplicates(
+    subset=[
+        "period",
+        "seconds_remaining_in_period",
+        "scoreHome",
+        "scoreAway",
+        "actionType",
+    ]
+)
+
     # We only keep the useful columns for model training.
     feature_rows = df[
         [
             "game_id",
             "period",
-            "seconds_remaining",
+            "seconds_remaining_in_period",
+            "regulation_seconds_remaining",
+            "overtime_number",
+            "posession", # 1 if home team has possession, 0 if away team has possession
             "score_diff",
             "abs_score_diff",
             "score_diff_per_minute_remaining",
-            "is_second_half",
-            "is_fourth_quarter",
             "is_clutch_time",
             "scoreHome",
             "scoreAway",
+            "is_playoffs",
             "home_win",
         ]
     ].copy()
@@ -167,10 +198,25 @@ def build_training_dataset() -> pd.DataFrame:
     """
 
     all_rows = []
+    pbp_files = sorted(MODIFIED_PBP_REGULAR_DIR.glob("*.csv"))
+    print(f"Found {len(pbp_files)} regular season play-by-play files")
 
-    pbp_files = sorted(RAW_PBP_DIR.glob("*.csv"))
+    for file_path in pbp_files:
+        game_id = file_path.stem
 
-    print(f"Found {len(pbp_files)} play-by-play files")
+        try:
+            pbp = pd.read_csv(file_path)
+            rows = build_rows_for_game(pbp, game_id)
+
+            if not rows.empty:
+                all_rows.append(rows)
+
+        except Exception as e:
+            print(f"Failed to process {game_id}: {e}")
+            continue
+
+    pbp_files = sorted(MODIFIED_PBP_PLAYOFFS_DIR.glob("*.csv"))
+    print(f"Found {len(pbp_files)} playoffs play-by-play files")
 
     for file_path in pbp_files:
         game_id = file_path.stem
@@ -202,48 +248,48 @@ def build_training_dataset() -> pd.DataFrame:
 
     return training_df
 
-def build_testing_dataset() -> pd.DataFrame:
-    """
-    Build testing dataset from 2025-26 season downloaded play-by-play files.
-    """
+# def build_testing_dataset() -> pd.DataFrame:
+#     """
+#     Build testing dataset from 2025-26 season downloaded play-by-play files.
+#     """
 
-    all_rows = []
+#     all_rows = []
 
-    pbp_files = sorted(RAW_PBP_TESTING_DIR.glob("*.csv"))
+#     pbp_files = sorted(RAW_PBP_TESTING_DIR.glob("*.csv"))
 
-    print(f"Found {len(pbp_files)} play-by-play files")
+#     print(f"Found {len(pbp_files)} play-by-play files")
 
-    for file_path in pbp_files:
-        game_id = file_path.stem
+#     for file_path in pbp_files:
+#         game_id = file_path.stem
 
-        try:
-            pbp = pd.read_csv(file_path)
-            rows = build_rows_for_game(pbp, game_id)
+#         try:
+#             pbp = pd.read_csv(file_path)
+#             rows = build_rows_for_game(pbp, game_id, is_playoffs=True)
 
-            if not rows.empty:
-                all_rows.append(rows)
+#             if not rows.empty:
+#                 all_rows.append(rows)
 
-        except Exception as e:
-            print(f"Failed to process {game_id}: {e}")
-            continue
+#         except Exception as e:
+#             print(f"Failed to process {game_id}: {e}")
+#             continue
 
-    if not all_rows:
-        raise ValueError("No training rows were created. Check your play-by-play files.")
+#     if not all_rows:
+#         raise ValueError("No training rows were created. Check your play-by-play files.")
 
-    testing_df = pd.concat(all_rows, ignore_index=True)
+#     testing_df = pd.concat(all_rows, ignore_index=True)
 
-    # Remove missing and infinite values.
-    testing_df = testing_df.replace([np.inf, -np.inf], np.nan)
-    testing_df = testing_df.dropna()
+#     # Remove missing and infinite values.
+#     testing_df = testing_df.replace([np.inf, -np.inf], np.nan)
+#     testing_df = testing_df.dropna()
 
-    testing_df.to_csv(TESTING_FILE, index=False)
+#     testing_df.to_csv(TESTING_FILE, index=False)
 
-    print(f"Saved {len(testing_df)} testing rows to {TESTING_FILE}")
-    print(testing_df.head())
+#     print(f"Saved {len(testing_df)} testing rows to {TESTING_FILE}")
+#     print(testing_df.head())
 
-    return testing_df
+#     return testing_df
 
 
 if __name__ == "__main__":
     # build_training_dataset()
-    build_testing_dataset()
+    build_training_dataset()
