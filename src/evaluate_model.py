@@ -18,30 +18,33 @@ def evaluate_model(model_path) -> None:
 
     df = pd.read_csv(TRAINING_FILE)
 
-    X = df[feature_columns]
-    y = df["home_win"]
-    groups = df["game_id"]
+    validate_df = df[
+        (
+            (df["game_id"] >= 22400001) &
+            (df["game_id"] < 22500000)
+        )
+        |
+        (
+            (df["game_id"] >= 42400001) &
+            (df["game_id"] < 42500000)
+        )
+    ]
 
-    splitter = GroupShuffleSplit(
-        n_splits=1,
-        test_size=0.2,
-        random_state=42,
-    )
+    X_validate = validate_df[feature_columns]
+    y_validate = validate_df["home_win"]
 
-    train_idx, test_idx = next(splitter.split(X, y, groups=groups))
+    print("Validation rows:", len(validate_df))
+    print("Validation games:", validate_df["game_id"].nunique())
 
-    X_test = X.iloc[test_idx]
-    y_test = y.iloc[test_idx]
-
-    pred_proba = model.predict_proba(X_test)[:, 1]
+    pred_proba = model.predict_proba(X_validate)[:, 1]
     pred_class = (pred_proba >= 0.5).astype(int)
 
     print(f"Evaluating model: {model_path}")
     print("--------------------------------")
-    print(f"Log loss:     {log_loss(y_test, pred_proba):.4f}")
-    print(f"Brier score:  {brier_score_loss(y_test, pred_proba):.4f}")
-    print(f"ROC AUC:      {roc_auc_score(y_test, pred_proba):.4f}")
-    print(f"Accuracy:     {accuracy_score(y_test, pred_class):.4f}")
+    print(f"Log loss:     {log_loss(y_validate, pred_proba):.4f}")
+    print(f"Brier score:  {brier_score_loss(y_validate, pred_proba):.4f}")
+    print(f"ROC AUC:      {roc_auc_score(y_validate, pred_proba):.4f}")
+    print(f"Accuracy:     {accuracy_score(y_validate, pred_class):.4f}")
 
 
 if __name__ == "__main__":

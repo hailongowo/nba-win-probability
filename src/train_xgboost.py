@@ -16,7 +16,7 @@ FEATURE_COLUMNS = [
     "posession", # 1 if home team has possession, 0 if away team has possession
     "score_diff",
     "abs_score_diff",
-    # "score_diff_per_minute_remaining",
+    "score_diff_per_minute_remaining",
     "is_clutch_time",
     "scoreHome",
     "scoreAway",
@@ -91,7 +91,7 @@ def train_xgboost() -> None:
     # y_test = y.iloc[test_idx]
 
     model = XGBClassifier(
-        n_estimators=1000,
+        n_estimators=400,
         max_depth=5,
         learning_rate=0.02,
         subsample=0.9,
@@ -130,9 +130,9 @@ def train_xgboost() -> None:
         "feature_columns": FEATURE_COLUMNS,
     }
 
-    joblib.dump(artifact, XGBOOST_MODEL_FILE_B)
+    joblib.dump(artifact, XGBOOST_MODEL_FILE)
 
-    print(f"Saved XGBoost model to {XGBOOST_MODEL_FILE_B}")
+    print(f"Saved XGBoost model to {XGBOOST_MODEL_FILE}")
 
 
 if __name__ == "__main__":

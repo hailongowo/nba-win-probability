@@ -1,8 +1,11 @@
 import re
 import pandas as pd
 import numpy as np
+from pathlib import Path
 
 from config import MODIFIED_PBP_PLAYOFFS_DIR, MODIFIED_PBP_REGULAR_DIR, TRAINING_FILE, TESTING_FILE
+
+# output_folder = Path("data/raw/formatting_out")
 
 def parse_pctimestring(pctimestring: str) -> int:
     """
@@ -82,7 +85,22 @@ def build_rows_for_game(pbp: pd.DataFrame, game_id: str) -> pd.DataFrame:
         return pd.DataFrame()
 
     df = pbp.copy()
-    df = df.sort_values("actionNumber").copy()
+    df = df.sort_values("actionId").copy()
+
+    # output_file = output_folder/"debug.csv"
+    # df.to_csv(output_file, index=False)
+
+    # Final score is the last available score in the game.
+    final_home_score = df.iloc[-1]["scoreHome"]
+    final_visitor_score = df.iloc[-1]["scoreAway"]
+
+    # print(final_visitor_score)
+
+    # Skip rare tied/invalid cases.
+    if final_home_score == final_visitor_score:
+        return pd.DataFrame()
+
+    home_win = int(final_home_score > final_visitor_score)
 
     # Events to keep
     important_actions = [
@@ -126,16 +144,6 @@ def build_rows_for_game(pbp: pd.DataFrame, game_id: str) -> pd.DataFrame:
 
     if df.empty:
         return pd.DataFrame()
-
-    # Final score is the last available score in the game.
-    final_home_score = df.iloc[-1]["scoreHome"]
-    final_visitor_score = df.iloc[-1]["scoreAway"]
-
-    # Skip rare tied/invalid cases.
-    if final_home_score == final_visitor_score:
-        return pd.DataFrame()
-
-    home_win = int(final_home_score > final_visitor_score)
 
     # Score difference from home team's perspective.
     # Positive means home team is winning.
