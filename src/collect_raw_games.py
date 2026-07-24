@@ -2,8 +2,7 @@ import time
 import pandas as pd
 from nba_api.stats.endpoints import leaguegamelog
 
-from config import GAMES_TESTING_FILE, RAW_GAMES_TESTING_DIR
-
+from config import RAW_GAMES_DIR
 
 def collect_games(seasons: list[str], season_type: str = "Regular Season") -> pd.DataFrame:
     """
@@ -42,35 +41,23 @@ def collect_games(seasons: list[str], season_type: str = "Regular Season") -> pd
         df = result.get_data_frames()[0]
 
         # Save raw season file in case we need to debug later.
-        raw_path = RAW_GAMES_TESTING_DIR / f"league_game_log_{season.replace('-', '_')}.csv"
+        raw_path = RAW_GAMES_DIR / f"league_game_log_{season.replace('-', '_')}_{season_type.replace(' ', '_')}.csv"
         df.to_csv(raw_path, index=False)
-
-        df["SEASON"] = season
-        all_rows.append(df)
 
         # Be polite to NBA.com servers.
         time.sleep(1.5)
 
-    full_df = pd.concat(all_rows, ignore_index=True)
-
-    # Keep one row per GAME_ID.
-    # LeagueGameLog gives two rows per game, so this removes duplicates.
-    games = (
-        full_df[["SEASON", "GAME_ID", "GAME_DATE"]]
-        .drop_duplicates()
-        .sort_values(["SEASON", "GAME_DATE", "GAME_ID"])
-        .reset_index(drop=True)
-    )
-
-    games.to_csv(GAMES_TESTING_FILE, index=False)
-
-    print(f"Saved {len(games)} unique games to {GAMES_TESTING_FILE}")
-    return games
-
-
 if __name__ == "__main__":
     # Start with fewer seasons while testing.
     # Later, add more seasons for better model quality.
-    seasons = ["2025-26"]
+    seasons = [
+        "2020-21",
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25",
+        "2025-26",
+    ]
 
+    collect_games(seasons=seasons, season_type="Playoffs")
     collect_games(seasons=seasons, season_type="Regular Season")

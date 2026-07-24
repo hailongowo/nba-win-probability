@@ -1,19 +1,17 @@
 import pandas as pd
 from pathlib import Path
-from config import REGULAR_GAMES_FILE, PLAYOFF_GAMES_FILE
+from config import RAW_PBP_DIR, PBP_DIR, GAMES_FILE
 
 # Change these paths
-input_folder = Path("data/raw/play_by_play_modified/regular_backup")
-output_folder = Path("data/raw/play_by_play_modified/regular")
+input_folder = RAW_PBP_DIR
+output_folder = PBP_DIR
 
-output_folder.mkdir(exist_ok=True)
-
-games = pd.read_csv(REGULAR_GAMES_FILE)
-# print (games.iloc[0]["GAME_ID"])
+games = pd.read_csv(GAMES_FILE, dtype={"GAME_ID": str})
+print (games.iloc[0]["GAME_ID"])
 
 for csv_path in input_folder.glob("*.csv"):
     print(f"Processing {csv_path.name}...")
-    game_id = int(csv_path.stem)
+    game_id = csv_path.stem
 
     # print(game_id)
 
@@ -23,12 +21,13 @@ for csv_path in input_folder.glob("*.csv"):
 
     home_team = games.loc[games["GAME_ID"] == game_id]["HOME_TEAM_ID"].values[0]
     away_team = games.loc[games["GAME_ID"] == game_id]["AWAY_TEAM_ID"].values[0]
-
+    home_win = games.loc[games["GAME_ID"] == game_id]["HOME_WIN"].values[0]
     # print(f"Home team: {home_team}, Away team: {away_team}")
 
     df = pd.read_csv(csv_path)
     df["posession"] = 0  # Fill missing possession values with 0 (away team)
-    df["is_playoffs"] = 0  # Mark all rows as regular season
+    df["is_playoffs"] = 1 if game_id[0:3] == "004" else 0
+    df["home_win"] = home_win
 
     values = {
         "scoreHome": 0,

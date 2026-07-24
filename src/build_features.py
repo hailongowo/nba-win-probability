@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 
-from config import MODIFIED_PBP_PLAYOFFS_DIR, MODIFIED_PBP_REGULAR_DIR, TRAINING_FILE, TESTING_FILE
+from config import PBP_DIR, TRAINING_FILE
 
 # output_folder = Path("data/raw/formatting_out")
 
@@ -90,18 +90,6 @@ def build_rows_for_game(pbp: pd.DataFrame, game_id: str) -> pd.DataFrame:
     # output_file = output_folder/"debug.csv"
     # df.to_csv(output_file, index=False)
 
-    # Final score is the last available score in the game.
-    final_home_score = df.iloc[-1]["scoreHome"]
-    final_visitor_score = df.iloc[-1]["scoreAway"]
-
-    # print(final_visitor_score)
-
-    # Skip rare tied/invalid cases.
-    if final_home_score == final_visitor_score:
-        return pd.DataFrame()
-
-    home_win = int(final_home_score > final_visitor_score)
-
     # Events to keep
     important_actions = [
         "Made Shot",
@@ -159,12 +147,17 @@ def build_rows_for_game(pbp: pd.DataFrame, game_id: str) -> pd.DataFrame:
         & (df["period"] >= 4)
     ).astype(int)
 
+    df["effective_seconds_remaining"] = np.where(
+        df["period"] <= 4, 
+        df["regulation_seconds_remaining"], # Use standard countdown for Q1-Q4
+        df["seconds_remaining_in_period"]   # Use the 5-minute (300 sec) countdown for any OT
+    )
+
     # Avoid division by zero.
-    df["minutes_remaining"] = df["regulation_seconds_remaining"] / 60
+    df["minutes_remaining"] = df["effective_seconds_remaining"] / 60
     df["score_diff_per_minute_remaining"] = df["score_diff"] / df["minutes_remaining"].replace(0, 0.1)
 
     # Add target.
-    df["home_win"] = home_win
     df["game_id"] = game_id
 
     # Remove dupes
@@ -183,6 +176,7 @@ def build_rows_for_game(pbp: pd.DataFrame, game_id: str) -> pd.DataFrame:
         [
             "game_id",
             "period",
+            "effective_seconds_remaining",
             "seconds_remaining_in_period",
             "regulation_seconds_remaining",
             "overtime_number",
@@ -206,25 +200,8 @@ def build_training_dataset() -> pd.DataFrame:
     """
 
     all_rows = []
-    pbp_files = sorted(MODIFIED_PBP_REGULAR_DIR.glob("*.csv"))
-    print(f"Found {len(pbp_files)} regular season play-by-play files")
-
-    for file_path in pbp_files:
-        game_id = file_path.stem
-
-        try:
-            pbp = pd.read_csv(file_path)
-            rows = build_rows_for_game(pbp, game_id)
-
-            if not rows.empty:
-                all_rows.append(rows)
-
-        except Exception as e:
-            print(f"Failed to process {game_id}: {e}")
-            continue
-
-    pbp_files = sorted(MODIFIED_PBP_PLAYOFFS_DIR.glob("*.csv"))
-    print(f"Found {len(pbp_files)} playoffs play-by-play files")
+    pbp_files = sorted(PBP_DIR.glob("*.csv"))
+    print(f"Found {len(pbp_files)} play-by-play files")
 
     for file_path in pbp_files:
         game_id = file_path.stem
@@ -255,48 +232,6 @@ def build_training_dataset() -> pd.DataFrame:
     print(training_df.head())
 
     return training_df
-
-# def build_testing_dataset() -> pd.DataFrame:
-#     """
-#     Build testing dataset from 2025-26 season downloaded play-by-play files.
-#     """
-
-#     all_rows = []
-
-#     pbp_files = sorted(RAW_PBP_TESTING_DIR.glob("*.csv"))
-
-#     print(f"Found {len(pbp_files)} play-by-play files")
-
-#     for file_path in pbp_files:
-#         game_id = file_path.stem
-
-#         try:
-#             pbp = pd.read_csv(file_path)
-#             rows = build_rows_for_game(pbp, game_id, is_playoffs=True)
-
-#             if not rows.empty:
-#                 all_rows.append(rows)
-
-#         except Exception as e:
-#             print(f"Failed to process {game_id}: {e}")
-#             continue
-
-#     if not all_rows:
-#         raise ValueError("No training rows were created. Check your play-by-play files.")
-
-#     testing_df = pd.concat(all_rows, ignore_index=True)
-
-#     # Remove missing and infinite values.
-#     testing_df = testing_df.replace([np.inf, -np.inf], np.nan)
-#     testing_df = testing_df.dropna()
-
-#     testing_df.to_csv(TESTING_FILE, index=False)
-
-#     print(f"Saved {len(testing_df)} testing rows to {TESTING_FILE}")
-#     print(testing_df.head())
-
-#     return testing_df
-
 
 if __name__ == "__main__":
     # build_training_dataset()

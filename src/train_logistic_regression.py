@@ -12,17 +12,18 @@ from sklearn.metrics import log_loss, brier_score_loss, roc_auc_score, accuracy_
 from config import TRAINING_FILE, LOGISTIC_MODEL_FILE
 
 FEATURE_COLUMNS = [
-    "period",
-    "seconds_remaining_in_period",
-    "regulation_seconds_remaining",
+    # "period",
+    # "seconds_remaining_in_period",
+    # "regulation_seconds_remaining",
     "overtime_number",
+    "effective_seconds_remaining",
     "posession", # 1 if home team has possession, 0 if away team has possession
     "score_diff",
-    "abs_score_diff",
+    # "abs_score_diff",
     "score_diff_per_minute_remaining",
     "is_clutch_time",
-    "scoreHome",
-    "scoreAway",
+    # "scoreHome",
+    # "scoreAway",
     "is_playoffs",
 ]
 
