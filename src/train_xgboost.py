@@ -1,28 +1,28 @@
 import joblib
 import pandas as pd
 
-from sklearn.model_selection import GroupShuffleSplit
+from sklearn.utils import shuffle
 from sklearn.metrics import log_loss, brier_score_loss, roc_auc_score, accuracy_score
 from xgboost import XGBClassifier
 
-from config import TRAINING_FILE, XGBOOST_MODEL_FILE, XGBOOST_MODEL_FILE_B
+from config import TRAINING_FILE, XGBOOST_MODEL_FILE
 
 
 FEATURE_COLUMNS = [
-    "period",
-    "seconds_remaining_in_period",
-    "regulation_seconds_remaining",
+    # "period",
+    # "seconds_remaining_in_period",
+    # "regulation_seconds_remaining",
     "overtime_number",
-    "posession", # 1 if home team has possession, 0 if away team has possession
+    "effective_seconds_remaining",
+    # "abs_score_diff",
     "score_diff",
-    "abs_score_diff",
     "score_diff_per_minute_remaining",
     "is_clutch_time",
-    "scoreHome",
-    "scoreAway",
     "is_playoffs",
+    "posession",
+    # "scoreHome",
+        # "scoreAway",
 ]
-
 TARGET_COLUMN = "home_win"
 GROUP_COLUMN = "game_id"
 
@@ -39,27 +39,29 @@ def train_xgboost() -> None:
 
     train_df = df[
         (
-            (df["game_id"] >= 21500001) &
-            (df["game_id"] < 22300000)
+            (df["game_id"] >= 22000001) &
+            (df["game_id"] < 22400000)
         )
         |
         (
-            (df["game_id"] >= 41500001) &
-            (df["game_id"] < 42300000)
+            (df["game_id"] >= 42000001) &
+            (df["game_id"] < 42400000)
         )
     ]
 
     validate_df = df[
         (
-            (df["game_id"] >= 22300001) &
-            (df["game_id"] < 22400000)
+            (df["game_id"] >= 22400001) &
+            (df["game_id"] < 22500000)
         )
         |
         (
-            (df["game_id"] >= 42300001) &
-            (df["game_id"] < 42400000)
+            (df["game_id"] >= 42400001) &
+            (df["game_id"] < 42500000)
         )
     ]
+
+    train_df = shuffle(train_df, random_state=42).reset_index(drop=True)
 
     X_train = train_df[FEATURE_COLUMNS]
     y_train = train_df[TARGET_COLUMN]
@@ -72,23 +74,6 @@ def train_xgboost() -> None:
 
     print("Train games:", train_df["game_id"].nunique())
     print("Validation games:", validate_df["game_id"].nunique())
-
-    # X = df[FEATURE_COLUMNS]
-    # y = df[TARGET_COLUMN]
-    # groups = df[GROUP_COLUMN]
-
-    # splitter = GroupShuffleSplit(
-    #     n_splits=1,
-    #     test_size=0.2,
-    #     random_state=42,
-    # )
-
-    # train_idx, test_idx = next(splitter.split(X, y, groups=groups))
-
-    # X_train = X.iloc[train_idx]
-    # X_test = X.iloc[test_idx]
-    # y_train = y.iloc[train_idx]
-    # y_test = y.iloc[test_idx]
 
     model = XGBClassifier(
         n_estimators=400,

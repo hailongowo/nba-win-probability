@@ -1,0 +1,44 @@
+Test set: 2025-26 season
+(no hyperparameter tuning)
+
+Old logistic regression model:
+Logistic Regression Evaluation
+--------------------------------
+Log loss:     0.4840
+Brier score:  0.1630
+ROC AUC:      0.8361
+Accuracy:     0.7480
+________________________________
+
+
+New logistic regression model
+Logistic Regression Evaluation
+--------------------------------
+Log loss:     0.4813
+Brier score:  0.1619
+ROC AUC:      0.8379
+Accuracy:     0.7481
+
+
+________________________________
+
+
+Old XGBoost model
+XGBoost model Evaluation
+--------------------------------
+Log loss:     0.4762
+Brier score:  0.1614
+ROC AUC:      0.8385
+Accuracy:     0.7482
+
+
+________________________________
+
+
+New XGBoost model
+XGBoost model Evaluation
+--------------------------------
+Log loss:     0.4751
+Brier score:  0.1613
+ROC AUC:      0.8386
+Accuracy:     0.7482

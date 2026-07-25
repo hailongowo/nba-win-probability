@@ -3,7 +3,7 @@ from pathlib import Path
 import joblib
 import pandas as pd
 
-from sklearn.model_selection import GroupShuffleSplit
+from sklearn.utils import shuffle
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
@@ -17,76 +17,55 @@ FEATURE_COLUMNS = [
     # "regulation_seconds_remaining",
     "overtime_number",
     "effective_seconds_remaining",
-    "posession", # 1 if home team has possession, 0 if away team has possession
     "score_diff",
     # "abs_score_diff",
     "score_diff_per_minute_remaining",
-    "is_clutch_time",
     # "scoreHome",
     # "scoreAway",
+    "is_clutch_time",
+    "posession",
     "is_playoffs",
 ]
 
 TARGET_COLUMN = "home_win"
 GROUP_COLUMN = "game_id"
 
+# df = pd.read_csv(TRAINING_FILE)
+# print(df.head())
+
 
 def train_logistic_regression() -> None:
     """
     Train logistic regression model.
-
-    Important:
-    We split by game_id, not by row.
-
-    Why?
-    Because one game produces many training rows.
-    If rows from the same game appear in both train and test sets,
-    evaluation becomes too optimistic.
     """
 
     df = pd.read_csv(TRAINING_FILE)
     
     train_df = df[
         (
-            (df["game_id"] >= 21500001) &
-            (df["game_id"] < 22300000)
+            (df["game_id"] >= 22000001) &
+            (df["game_id"] < 22400000)
         )
         |
         (
-            (df["game_id"] >= 41500001) &
-            (df["game_id"] < 42300000)
+            (df["game_id"] >= 42000001) &
+            (df["game_id"] < 42400000)
         )
     ]
 
     validate_df = df[
         (
-            (df["game_id"] >= 22300001) &
-            (df["game_id"] < 22400000)
+            (df["game_id"] >= 22400001) &
+            (df["game_id"] < 22500000)
         )
         |
         (
-            (df["game_id"] >= 42300001) &
-            (df["game_id"] < 42400000)
+            (df["game_id"] >= 42400001) &
+            (df["game_id"] < 42500000)
         )
     ]
 
-    # X = df[FEATURE_COLUMNS]
-    # y = df[TARGET_COLUMN]
-    # groups = df[GROUP_COLUMN]
-
-    # # GroupShuffleSplit keeps all rows from one game together.
-    # splitter = GroupShuffleSplit(
-    #     n_splits=1,
-    #     test_size=0.2,
-    #     random_state=42,
-    # )
-
-    # train_idx, test_idx = next(splitter.split(X, y, groups=groups))
-
-    # X_train = X.iloc[train_idx]
-    # X_test = X.iloc[test_idx]
-    # y_train = y.iloc[train_idx]
-    # y_test = y.iloc[test_idx]
+    # train_df = shuffle(train_df, random_state=42).reset_index(drop=True)
 
     X_train = train_df[FEATURE_COLUMNS]
     y_train = train_df[TARGET_COLUMN]
@@ -100,7 +79,6 @@ def train_logistic_regression() -> None:
     print("Train games:", train_df["game_id"].nunique())
     print("Validation games:", validate_df["game_id"].nunique())
 
-    # Pipeline means:
     # 1. Scale numeric features.
     # 2. Train logistic regression.
 

@@ -20,7 +20,6 @@ PBP_DIR = PROCESSED_DIR / "pbp"
 # Saved model paths.
 LOGISTIC_MODEL_FILE = MODELS_DIR / "logistic_regression.joblib"
 XGBOOST_MODEL_FILE = MODELS_DIR / "xgboost_model.joblib"
-XGBOOST_MODEL_FILE_B = MODELS_DIR / "xgboost_model_b.joblib"
 
 # Create folders automatically if they do not exist.
 for folder in [
